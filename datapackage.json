@@ -1,6 +1,14 @@
 {
-    "license": "",
+    "title": "NYSE and Other Listings",
     "name": "nyse-other-listings",
+    "sources": [{
+        "name": "NASDAQ official page",
+        "web": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs"
+    }],
+    "licenses": {
+        "type": "ODC-PDDL",
+        "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    },
     "resources": [
         {
             "format": "csv",
@@ -77,6 +85,5 @@
                 ]
             }
         }
-    ],
-    "title": "NYSE and Other Listings"
+    ]
 }
