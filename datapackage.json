@@ -5,10 +5,11 @@
         "name": "NASDAQ official page",
         "web": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs"
     }],
-    "licenses": {
-        "type": "ODC-PDDL",
-        "url": "http://opendatacommons.org/licenses/pddl/1.0/"
-    },
+    "licenses": [{
+        "id": "odc-pddl",
+        "url": "http://opendatacommons.org/licenses/pddl/",
+        "name": "Public Domain Dedication and License"
+    }],
     "resources": [
         {
             "format": "csv",
