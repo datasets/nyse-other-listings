@@ -1,16 +1,20 @@
 {
     "title": "NYSE and Other Listings",
     "name": "nyse-other-listings",
-    "sources": [{
+    "sources": [
+      {
         "name": "NASDAQ official page",
         "path": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs",
         "title": "NASDAQ official page"
-    }],
-    "licenses": [{
-        "id": "odc-pddl",
+      }
+    ],
+    "licenses": [
+      {
+        "name": "ODC-PDDL-1.0",
         "path": "http://opendatacommons.org/licenses/pddl/",
-        "title": "Public Domain Dedication and License"
-    }],
+        "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      }
+    ],
     "resources": [
         {
             "format": "csv",
