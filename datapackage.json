@@ -1,96 +1,82 @@
 {
-  "title": "NYSE and Other Listings",
-  "name": "nyse-other-listings",
-  "sources": [
-    {
-      "name": "NASDAQ official page",
-      "path": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs",
-      "title": "NASDAQ official page"
-    }
-  ],
-  "licenses": [
-    {
-      "name": "ODC-PDDL-1.0",
-      "path": "http://opendatacommons.org/licenses/pddl/",
-      "title": "Open Data Commons Public Domain Dedication and License v1.0"
-    }
-  ],
-  "resources": [
-    {
-      "format": "csv",
-      "mediatype": "text/csv",
-      "name": "nyse-listed",
-      "path": "data/nyse-listed.csv",
-      "schema": {
-        "fields": [
-          {
-            "description": "",
-            "name": "ACT Symbol",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "Company Name",
-            "type": "string"
-          }
-        ]
-      }
-    },
-    {
-      "format": "csv",
-      "mediatype": "text/csv",
-      "name": "other-listed",
-      "path": "data/other-listed.csv",
-      "schema": {
-        "fields": [
-          {
-            "description": "",
-            "name": "ACT Symbol",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "Company Name",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "Security Name",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "Exchange",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "CQS Symbol",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "ETF",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "Round Lot Size",
-            "type": "number"
-          },
-          {
-            "description": "",
-            "name": "Test Issue",
-            "type": "string"
-          },
-          {
-            "description": "",
-            "name": "NASDAQ Symbol",
-            "type": "string"
-          }
-        ]
-      }
-    }
-  ],
-  "collection": "stock-market-data"
+    "license": "",
+    "name": "nyse-other-listings",
+    "resources": [
+        {
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nyse-listed",
+            "path": "data/nyse-listed.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "description": "",
+                        "name": "ACT Symbol",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "name": "Company Name",
+                        "type": "string"
+                    }
+                ]
+            }
+        },
+        {
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "other-listed",
+            "path": "data/other-listed.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "description": "",
+                        "name": "ACT Symbol",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "name": "Company Name",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "name": "Security Name",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "name": "Exchange",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "name": "CQS Symbol",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "name": "ETF",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "name": "Round Lot Size",
+                        "type": "number"
+                    },
+                    {
+                        "description": "",
+                        "name": "Test Issue",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "name": "NASDAQ Symbol",
+                        "type": "string"
+                    }
+                ]
+            }
+        }
+    ],
+    "title": "NYSE and Other Listings"
 }
