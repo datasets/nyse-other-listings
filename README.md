@@ -1,4 +1,5 @@
-[![](https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.5)](https://datahub.io/core/nyse-other-listings)  
+[![](https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)](https://datahub.io/core/nyse-other-listings)
+
 List of companies in the NYSE, and other exchanges.
 
 ## Data
