@@ -1029,7 +1029,7 @@ CLF,Cleveland,Cleveland-Cliffs Inc. Common Stock,N,CLF,N,100.0,N,CLF
 CLH,"Clean Harbors, Inc. Common Stock","Clean Harbors, Inc. Common Stock",N,CLH,N,100.0,N,CLH
 CLIP,Global X Funds Global X 1,Global X Funds Global X 1-3 Month T-Bill ETF,P,CLIP,Y,100.0,N,CLIP
 CLIX,ProShares Long Online/Short Stores ETF,ProShares Long Online/Short Stores ETF,P,CLIX,Y,100.0,N,CLIX
-CLM,"Cornerstone Strategic Value Fund, Inc. New Common Stock","Cornerstone Strategic Value Fund, Inc. New Common Stock",A,CLM,N,100.0,N,CLM
+CLM,"Cornerstone Strategic Investment Fund, Inc. Common Shares","Cornerstone Strategic Investment Fund, Inc. Common Shares",A,CLM,N,100.0,N,CLM
 CLNR,NYLI Cleaner Transport ETF,NYLI Cleaner Transport ETF,P,CLNR,Y,100.0,N,CLNR
 CLOB,VanEck ETF Trust VanEck AA,VanEck ETF Trust VanEck AA-BB CLO ETF,P,CLOB,Y,100.0,N,CLOB
 CLOI,VanEck ETF Trust VanEck CLO ETF,VanEck ETF Trust VanEck CLO ETF,P,CLOI,Y,100.0,N,CLOI
@@ -3598,7 +3598,7 @@ MCD,McDonald's Corporation Common Stock,McDonald's Corporation Common Stock,N,MC
 MCH,Matthews International Funds Matthews China Active ETF,Matthews International Funds Matthews China Active ETF,P,MCH,Y,100.0,N,MCH
 MCI,Barings Corporate Investors Common Stock,Barings Corporate Investors Common Stock,N,MCI,N,100.0,N,MCI
 MCK,McKesson Corporation Common Stock,McKesson Corporation Common Stock,N,MCK,N,100.0,N,MCK
-MCN,Madison Covered Call & Equity Strategy Fund Common Stock,Madison Covered Call & Equity Strategy Fund Common Stock,N,MCN,N,100.0,N,MCN
+MCN,XAI Madison Equity Premium Income Fund Common Shares,XAI Madison Equity Premium Income Fund Common Shares,N,MCN,N,100.0,N,MCN
 MCO,Moody's Corporation Common Stock,Moody's Corporation Common Stock,N,MCO,N,100.0,N,MCO
 MCR,MFS Charter Income Trust Common Stock,MFS Charter Income Trust Common Stock,N,MCR,N,100.0,N,MCR
 MCS,Marcus Corporation (The) Common Stock,Marcus Corporation (The) Common Stock,N,MCS,N,100.0,N,MCS
@@ -3719,7 +3719,7 @@ MLPR,ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN,ETRACS Quarterly 
 MLPX,Global X MLP & Energy Infrastructure ETF,Global X MLP & Energy Infrastructure ETF,P,MLPX,Y,100.0,N,MLPX
 MLR,"Miller Industries, Inc. Common Stock","Miller Industries, Inc. Common Stock",N,MLR,N,100.0,N,MLR
 MLSS,"Milestone Scientific, Inc. Common Stock","Milestone Scientific, Inc. Common Stock",A,MLSS,N,100.0,N,MLSS
-MMA,Alta Global Group Limited Ordinary Shares,Alta Global Group Limited Ordinary Shares,A,MMA,N,100.0,N,MMA
+MMA,Mixed Martial Arts Group Limited Ordinary Shares,Mixed Martial Arts Group Limited Ordinary Shares,A,MMA,N,100.0,N,MMA
 MMC,"Marsh & McLennan Companies, Inc. Common Stock","Marsh & McLennan Companies, Inc. Common Stock",N,MMC,N,100.0,N,MMC
 MMCA,NYLI MacKay California Muni Intermediate ETF,NYLI MacKay California Muni Intermediate ETF,P,MMCA,Y,100.0,N,MMCA
 MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,N,MMD,N,100.0,N,MMD
@@ -3797,11 +3797,13 @@ MSFY,Kurv Yield Premium Strategy Microsoft (MSFT) ETF,Kurv Yield Premium Strateg
 MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,Madison Square Garden Entertainment Corp. Class A Common Stock,N,MSGE,N,100.0,N,MSGE
 MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),Madison Square Garden Sports Corp. Class A Common Stock (New),N,MSGS,N,100.0,N,MSGS
 MSI,"Motorola Solutions, Inc. Common Stock","Motorola Solutions, Inc. Common Stock",N,MSI,N,100.0,N,MSI
+MSLC,Morgan Stanley Pathway Funds Morgan Stanley Pathway Large Cap Equity ETF,Morgan Stanley Pathway Funds Morgan Stanley Pathway Large Cap Equity ETF,P,MSLC,Y,100.0,N,MSLC
 MSM,"MSC Industrial Direct Company, Inc. Common Stock","MSC Industrial Direct Company, Inc. Common Stock",N,MSM,N,100.0,N,MSM
 MSMR,ETF Series Solutions McElhenny Sheffield Managed Risk ETF,ETF Series Solutions McElhenny Sheffield Managed Risk ETF,Z,MSMR,Y,100.0,N,MSMR
 MSN,Emerson Radio Corporation Common Stock,Emerson Radio Corporation Common Stock,A,MSN,N,100.0,N,MSN
 MSOS,AdvisorShares Trust AdvisorShares Pure US Cannabis ETF,AdvisorShares Trust AdvisorShares Pure US Cannabis ETF,P,MSOS,Y,100.0,N,MSOS
 MSOX,AdvisorShares MSOS Daily Leveraged ETF,AdvisorShares MSOS Daily Leveraged ETF,P,MSOX,Y,100.0,N,MSOX
+MSSM,Morgan Stanley Pathway Funds Morgan Stanley Pathway Small,Morgan Stanley Pathway Funds Morgan Stanley Pathway Small-Mid Cap Equity ETF,P,MSSM,Y,100.0,N,MSSM
 MSSS,Northern Lights Fund Trust IV Monarch Select Subsector Index ETF,Northern Lights Fund Trust IV Monarch Select Subsector Index ETF,Z,MSSS,Y,100.0,N,MSSS
 MSTB,LHA Market State Tactical Beta ETF,LHA Market State Tactical Beta ETF,Z,MSTB,Y,100.0,N,MSTB
 MSTI,Madison ETFs Trust Madison Short Term Strategic Income ETF,Madison ETFs Trust Madison Short Term Strategic Income ETF,P,MSTI,Y,100.0,N,MSTI
@@ -4311,6 +4313,7 @@ PCG$E,Pacific Gas & Electric Co. 5% 1st A Preferred Stock,Pacific Gas & Electric
 PCG$G,Pacific Gas & Electric Co. 4.80% 1st Preferred Stock,Pacific Gas & Electric Co. 4.80% 1st Preferred Stock,A,PCGpG,N,100.0,N,PCG-G
 PCG$H,Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,A,PCGpH,N,100.0,N,PCG-H
 PCG$I,Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,A,PCGpI,N,100.0,N,PCG-I
+PCG$X,PG&E Corp 6.000% Series A Mandatory Convertible Preferred Stock,PG&E Corp 6.000% Series A Mandatory Convertible Preferred Stock,N,PCGpX,N,100.0,N,PCG-X
 PCGG,Litman Gregory Funds Trust Polen Capital Global Growth ETF,Litman Gregory Funds Trust Polen Capital Global Growth ETF,P,PCGG,Y,100.0,N,PCGG
 PCIG,Litman Gregory Funds Trust Polen Capital International Growth ETF,Litman Gregory Funds Trust Polen Capital International Growth ETF,P,PCIG,Y,100.0,N,PCIG
 PCK,Pimco California Municipal Income Fund II Common Shares of Beneficial Interest,Pimco California Municipal Income Fund II Common Shares of Beneficial Interest,N,PCK,N,100.0,N,PCK
