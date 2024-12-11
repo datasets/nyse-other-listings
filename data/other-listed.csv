@@ -32,10 +32,12 @@ ACA,"Arcosa, Inc. Common Stock ","Arcosa, Inc. Common Stock ",N,ACA,N,100.0,N,AC
 ACCO,Acco Brands Corporation Common Stock,Acco Brands Corporation Common Stock,N,ACCO,N,100.0,N,ACCO
 ACEL,"Accel Entertainment, Inc. ","Accel Entertainment, Inc. ",N,ACEL,N,100.0,N,ACEL
 ACES,ALPS Clean Energy ETF,ALPS Clean Energy ETF,P,ACES,Y,100.0,N,ACES
+ACGR,American Century Large Cap Growth ETF,American Century Large Cap Growth ETF,P,ACGR,Y,100.0,N,ACGR
 ACHR,Archer Aviation Inc. Class A Common Stock,Archer Aviation Inc. Class A Common Stock,N,ACHR,N,100.0,N,ACHR
 ACHR.W,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50","Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",N,ACHR.WS,N,100.0,N,ACHR+
 ACI,"Albertsons Companies, Inc. Class A Common Stock","Albertsons Companies, Inc. Class A Common Stock",N,ACI,N,100.0,N,ACI
 ACIO,Aptus Collared Investment Opportunity ETF,Aptus Collared Investment Opportunity ETF,Z,ACIO,Y,100.0,N,ACIO
+ACLC,American Century Large Cap Equity ETF,American Century Large Cap Equity ETF,P,ACLC,Y,100.0,N,ACLC
 ACLO,TCW AAA CLO ETF,TCW AAA CLO ETF,N,ACLO,Y,100.0,N,ACLO
 ACM,AECOM Common Stock,AECOM Common Stock,N,ACM,N,100.0,N,ACM
 ACN,Accenture plc Class A Ordinary Shares (Ireland),Accenture plc Class A Ordinary Shares (Ireland),N,ACN,N,100.0,N,ACN
@@ -1796,11 +1798,9 @@ ESAB,ESAB Corporation Common Stock,ESAB Corporation Common Stock,N,ESAB,N,100.0,
 ESBA,"Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests","Empire State Realty OP, L.P. Series ES Operating Partnership Units Representing Limited Partnership Interests",P,ESBA,N,100.0,N,ESBA
 ESE,ESCO Technologies Inc. Common Stock,ESCO Technologies Inc. Common Stock,N,ESE,N,100.0,N,ESE
 ESG,FlexShares STOXX US ESG Select Index Fund,FlexShares STOXX US ESG Select Index Fund,Z,ESG,Y,100.0,N,ESG
-ESGA,American Century Sustainable Equity ETF,American Century Sustainable Equity ETF,P,ESGA,Y,100.0,N,ESGA
 ESGG,FlexShares STOXX Global ESG Select Index Fund,FlexShares STOXX Global ESG Select Index Fund,Z,ESGG,Y,100.0,N,ESGG
 ESGV,Vanguard ESG U.S. Stock ETF,Vanguard ESG U.S. Stock ETF,Z,ESGV,Y,100.0,N,ESGV
 ESGX,ETF Opportunities Trust Tuttle Capital Shareholders First Index ETF,ETF Opportunities Trust Tuttle Capital Shareholders First Index ETF,Z,ESGX,Y,100.0,N,ESGX
-ESGY,American Century Sustainable Growth ETF,American Century Sustainable Growth ETF,P,ESGY,Y,100.0,N,ESGY
 ESI,Element Solutions Inc. Common Stock,Element Solutions Inc. Common Stock,N,ESI,N,100.0,N,ESI
 ESIX,SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF,SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF,P,ESIX,Y,100.0,N,ESIX
 ESML,iShares ESG Aware MSCI USA Small,iShares ESG Aware MSCI USA Small-Cap ETF,Z,ESML,Y,100.0,N,ESML
@@ -3568,6 +3568,7 @@ MANU,Manchester United Ltd. Class A Ordinary Shares,Manchester United Ltd. Class
 MAPP,Harbor ETF Trust Harbor Multi,Harbor ETF Trust Harbor Multi-Asset Explorer ETF,P,MAPP,Y,100.0,N,MAPP
 MARB,First Trust Merger Arbitrage ETF,First Trust Merger Arbitrage ETF,P,MARB,Y,100.0,N,MARB
 MARM,SHL Telemedicine Ltd FT Vest U.S. Equity Max Buffer ETF ,SHL Telemedicine Ltd FT Vest U.S. Equity Max Buffer ETF - March,Z,MARM,Y,100.0,N,MARM
+MARO,Tidal Trust II YieldMax MARA Option Income Strategy ETF,Tidal Trust II YieldMax MARA Option Income Strategy ETF,P,MARO,Y,100.0,N,MARO
 MART,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Mar ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Mar ETF,P,MART,Y,100.0,N,MART
 MARW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Mar ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Mar ETF,P,MARW,Y,100.0,N,MARW
 MARZ,TrueShares Structured Outcome (March) ETF,TrueShares Structured Outcome (March) ETF,Z,MARZ,Y,100.0,N,MARZ
@@ -4748,6 +4749,7 @@ RFDA,RiverFront Dynamic US Dividend Advantage ETF,RiverFront Dynamic US Dividend
 RFFC,ALPS Active Equity Opportunity ETF,ALPS Active Equity Opportunity ETF,P,RFFC,Y,100.0,N,RFFC
 RFG,Invesco S&P Midcap 400 Pure Growth ETF,Invesco S&P Midcap 400 Pure Growth ETF,P,RFG,Y,100.0,N,RFG
 RFI,"Cohen & Steers Total Return Realty Fund, Inc. Common Stock","Cohen & Steers Total Return Realty Fund, Inc. Common Stock",N,RFI,N,100.0,N,RFI
+RFIX,Simplify Exchange Traded Funds Simplify Downside Interest Rate Hedge Strategy ETF,Simplify Exchange Traded Funds Simplify Downside Interest Rate Hedge Strategy ETF,P,RFIX,Y,100.0,N,RFIX
 RFL,"Rafael Holdings, Inc. Class B Common Stock","Rafael Holdings, Inc. Class B Common Stock",N,RFL,N,100.0,N,RFL
 RFLR,Innovator U.S. Small Cap Managed Floor ETF,Innovator U.S. Small Cap Managed Floor ETF,P,RFLR,Y,100.0,N,RFLR
 RFM,"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock","RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",N,RFM,N,100.0,N,RFM
@@ -5463,7 +5465,6 @@ TBX,ProShares Short 7 10 Year Treasury,ProShares Short 7 10 Year Treasury,P,TBX,
 TCAF,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Capital Appreciation Equity ETF",P,TCAF,Y,100.0,N,TCAF
 TCHP,T. Rowe Price Blue Chip Growth ETF,T. Rowe Price Blue Chip Growth ETF,P,TCHP,Y,100.0,N,TCHP
 TCI,"Transcontinental Realty Investors, Inc. Common Stock","Transcontinental Realty Investors, Inc. Common Stock",N,TCI,N,100.0,N,TCI
-TCS,Container Store (The) Common Stock,Container Store (The) Common Stock,N,TCS,N,100.0,N,TCS
 TD,Toronto Dominion Bank (The) Common Stock,Toronto Dominion Bank (The) Common Stock,N,TD,N,100.0,N,TD
 TDC,Teradata Corporation Common Stock,Teradata Corporation Common Stock,N,TDC,N,100.0,N,TDC
 TDF,"Templeton Dragon Fund, Inc. Common Stock","Templeton Dragon Fund, Inc. Common Stock",N,TDF,N,100.0,N,TDF
