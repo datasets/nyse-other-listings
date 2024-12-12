@@ -347,9 +347,6 @@ ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each represent
 ATCH,"AtlasClear Holdings, Inc. Common Stock","AtlasClear Holdings, Inc. Common Stock",A,ATCH,N,100.0,N,ATCH
 ATCO$D,Atlas Corp. 7.95% Series D,Atlas Corp. 7.95% Series D,N,ATCOpD,N,100.0,N,ATCO-D
 ATCO$H,Atlas Corp. 7.875% Series H,Atlas Corp. 7.875% Series H,N,ATCOpH,N,100.0,N,ATCO-H
-ATEK,Athena Technology Acquisition Corp. II Class A Common Stock,Athena Technology Acquisition Corp. II Class A Common Stock,A,ATEK,N,100.0,N,ATEK
-ATEK.U,"Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one","Athena Technology Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-half of one Redeemable Warrant",A,ATEK.U,N,100.0,N,ATEK=
-ATEK.W,Athena Technology Acquisition Corp. II Redeemable Warrants,Athena Technology Acquisition Corp. II Redeemable Warrants,A,ATEK.WS,N,100.0,N,ATEK+
 ATEN,"A10 Networks, Inc. Common Stock","A10 Networks, Inc. Common Stock",N,ATEN,N,100.0,N,ATEN
 ATFV,Alger 35 ETF,Alger 35 ETF,P,ATFV,Y,100.0,N,ATFV
 ATGE,Adtalem Global Education Inc. Common Stock,Adtalem Global Education Inc. Common Stock,N,ATGE,N,100.0,N,ATGE
@@ -3299,6 +3296,7 @@ KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,KKR Group F
 KLC,"KinderCare Learning Companies, Inc. Common Stock","KinderCare Learning Companies, Inc. Common Stock",N,KLC,N,100.0,N,KLC
 KLG,WK Kellogg Co Common Stock,WK Kellogg Co Common Stock,N,KLG,N,100.0,N,KLG
 KLIP,KraneShares Trust KraneShares China Internet and Covered Call Strategy ETF,KraneShares Trust KraneShares China Internet and Covered Call Strategy ETF,P,KLIP,Y,100.0,N,KLIP
+KLMN,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI North America Climate ETF,P,KLMN,Y,100.0,N,KLMN
 KLMT,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI Global Climate 500 ETF,P,KLMT,Y,100.0,N,KLMT
 KLXY,KraneShares Trust KraneShares Global Luxury Index ETF,KraneShares Trust KraneShares Global Luxury Index ETF,P,KLXY,Y,100.0,N,KLXY
 KMB,Kimberly,Kimberly-Clark Corporation Common Stock,N,KMB,N,100.0,N,KMB
@@ -3916,6 +3914,7 @@ NCA,Nuveen California Municipal Value Fund,Nuveen California Municipal Value Fun
 NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,Nuveen Churchill Direct Lending Corp. Common Stock,N,NCDL,N,100.0,N,NCDL
 NCL,Northann Corp. Common Stock,Northann Corp. Common Stock,A,NCL,N,100.0,N,NCL
 NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,N,NCLH,N,100.0,N,NCLH
+NCLO,NuShares ETF Trust Nuveen AA,NuShares ETF Trust Nuveen AA-BBB CLO ETF,P,NCLO,Y,100.0,N,NCLO
 NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,N,NCV,N,100.0,N,NCV
 NCV$A,Virtus Convertible & Income Fund 5.625% Series A Cumulative Preferred Shares,Virtus Convertible & Income Fund 5.625% Series A Cumulative Preferred Shares,N,NCVpA,N,100.0,N,NCV-A
 NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,N,NCZ,N,100.0,N,NCZ
@@ -5558,6 +5557,7 @@ TLH,iShares 10,iShares 10-20 Year Treasury Bond ETF,P,TLH,Y,100.0,N,TLH
 TLK,"PT Telekomunikasi Indonesia, Tbk","PT Telekomunikasi Indonesia, Tbk",N,TLK,N,100.0,N,TLK
 TLTD,FlexShares Morningstar Developed Markets ex,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund,P,TLTD,Y,100.0,N,TLTD
 TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,P,TLTE,Y,100.0,N,TLTE
+TLTI,NEOS ETF Trust NEOS Enhanced Income 20+ Year Treasury Bond ETF,NEOS ETF Trust NEOS Enhanced Income 20+ Year Treasury Bond ETF,Z,TLTI,Y,100.0,N,TLTI
 TLTP,Amplify ETF Trust Amplify Bloomberg U.S. Treasury Target High Income ETF,Amplify ETF Trust Amplify Bloomberg U.S. Treasury Target High Income ETF,Z,TLTP,Y,100.0,N,TLTP
 TLTW,iShares Trust iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,iShares Trust iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,Z,TLTW,Y,100.0,N,TLTW
 TLYS,"Tilly's, Inc. Common Stock","Tilly's, Inc. Common Stock",N,TLYS,N,100.0,N,TLYS
