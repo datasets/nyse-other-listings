@@ -19,9 +19,14 @@ ABBV,AbbVie Inc. Common Stock,AbbVie Inc. Common Stock,N,ABBV,N,100.0,N,ABBV
 ABCB,Ameris Bancorp Common Stock,Ameris Bancorp Common Stock,N,ABCB,N,100.0,N,ABCB
 ABEQ,Absolute Select Value ETF,Absolute Select Value ETF,P,ABEQ,Y,100.0,N,ABEQ
 ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share),Ambev S.A. American Depositary Shares (Each representing 1 Common Share),N,ABEV,N,100.0,N,ABEV
+ABFL,Abacus FCF Leaders ETF,Abacus FCF Leaders ETF,Z,ABFL,Y,100.0,N,ABFL
 ABG,Asbury Automotive Group Inc Common Stock,Asbury Automotive Group Inc Common Stock,N,ABG,N,100.0,N,ABG
+ABHY,Abacus Tactical High Yield ETF,Abacus Tactical High Yield ETF,Z,ABHY,Y,100.0,N,ABHY
+ABLD,Abacus FCF Real Assets Leaders ETF,Abacus FCF Real Assets Leaders ETF,Z,ABLD,Y,100.0,N,ABLD
+ABLG,Abacus FCF International Leaders ETF,Abacus FCF International Leaders ETF,Z,ABLG,Y,100.0,N,ABLG
 ABM,ABM Industries Incorporated Common Stock,ABM Industries Incorporated Common Stock,N,ABM,N,100.0,N,ABM
 ABNY,Tidal Trust II YieldMax ABNB Option Income Strategy ETF,Tidal Trust II YieldMax ABNB Option Income Strategy ETF,P,ABNY,Y,100.0,N,ABNY
+ABOT,Abacus FCF Innovation Leaders ETF,Abacus FCF Innovation Leaders ETF,Z,ABOT,Y,100.0,N,ABOT
 ABR,Arbor Realty Trust Common Stock,Arbor Realty Trust Common Stock,N,ABR,N,100.0,N,ABR
 ABR$D,"Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share","Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share",N,ABRpD,N,100.0,N,ABR-D
 ABR$E,Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock,Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock,N,ABRpE,N,100.0,N,ABR-E
@@ -1248,6 +1253,7 @@ CX,"Cemex, S.A.B. de C.V. Sponsored ADR","Cemex, S.A.B. de C.V. Sponsored ADR",N
 CXE,MFS High Income Municipal Trust Common Stock,MFS High Income Municipal Trust Common Stock,N,CXE,N,100.0,N,CXE
 CXH,MFS Investment Grade Municipal Trust Common Stock,MFS Investment Grade Municipal Trust Common Stock,N,CXH,N,100.0,N,CXH
 CXM,"Sprinklr, Inc. Class A Common Stock","Sprinklr, Inc. Class A Common Stock",N,CXM,N,100.0,N,CXM
+CXRN,Listed Funds Trust Teucrium 2x Daily Corn ETF,Listed Funds Trust Teucrium 2x Daily Corn ETF,P,CXRN,Y,100.0,N,CXRN
 CXT,"Crane NXT, Co. Common Stock","Crane NXT, Co. Common Stock",N,CXT,N,100.0,N,CXT
 CXW,"CoreCivic, Inc. Common Stock","CoreCivic, Inc. Common Stock",N,CXW,N,100.0,N,CXW
 CYBN,Cybin Inc. Common Shares,Cybin Inc. Common Shares,A,CYBN,N,100.0,N,CYBN
@@ -1347,7 +1353,6 @@ DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares,Direxion Daily Aerospace 
 DFEV,Dimensional ETF Trust Dimensional Emerging Markets Value ETF,Dimensional ETF Trust Dimensional Emerging Markets Value ETF,P,DFEV,Y,100.0,N,DFEV
 DFGR,Dimensional ETF Trust Dimensional Global Real Estate ETF,Dimensional ETF Trust Dimensional Global Real Estate ETF,P,DFGR,Y,100.0,N,DFGR
 DFH,"Dream Finders Homes, Inc. Class A Common Stock","Dream Finders Homes, Inc. Class A Common Stock",N,DFH,N,100.0,N,DFH
-DFHY,TrimTabs ETF Trust Donoghue Forlines Tactical High Yield ETF,TrimTabs ETF Trust Donoghue Forlines Tactical High Yield ETF,Z,DFHY,Y,100.0,N,DFHY
 DFIC,Dimensional ETF Trust Dimensional International Core Equity 2 ETF,Dimensional ETF Trust Dimensional International Core Equity 2 ETF,Z,DFIC,Y,100.0,N,DFIC
 DFIN,"Donnelley Financial Solutions, Inc. Common Stock ","Donnelley Financial Solutions, Inc. Common Stock ",N,DFIN,N,100.0,N,DFIN
 DFIP,Dimensional ETF Trust Dimensional Inflation,Dimensional ETF Trust Dimensional Inflation-Protected Securities ETF,P,DFIP,Y,100.0,N,DFIP
@@ -1358,9 +1363,7 @@ DFLV,Dimensional ETF Trust Dimensional US Large Cap Value ETF,Dimensional ETF Tr
 DFND,Siren DIVCON Dividend Defender ETF,Siren DIVCON Dividend Defender ETF,Z,DFND,Y,100.0,N,DFND
 DFNL,Davis Fundamental ETF Trust Davis Select Financial ETF,Davis Fundamental ETF Trust Davis Select Financial ETF,Z,DFNL,Y,100.0,N,DFNL
 DFNM,Dimensional ETF Trust Dimensional National Municipal Bond ETF,Dimensional ETF Trust Dimensional National Municipal Bond ETF,P,DFNM,Y,100.0,N,DFNM
-DFNV,TrimTabs ETF Trust Donoghue Forlines Risk Managed Innovation ETF,TrimTabs ETF Trust Donoghue Forlines Risk Managed Innovation ETF,Z,DFNV,Y,100.0,N,DFNV
 DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,N,DFP,N,100.0,N,DFP
-DFRA,Donoghue Forlines Yield Enhanced Real Asset ETF,Donoghue Forlines Yield Enhanced Real Asset ETF,Z,DFRA,Y,100.0,N,DFRA
 DFS,Discover Financial Services Common Stock,Discover Financial Services Common Stock,N,DFS,N,100.0,N,DFS
 DFSB,Dimensional ETF Trust Dimensional Global Sustainability Fixed Income ETF,Dimensional ETF Trust Dimensional Global Sustainability Fixed Income ETF,P,DFSB,Y,100.0,N,DFSB
 DFSD,Dimensional ETF Trust Dimensional Short,Dimensional ETF Trust Dimensional Short-Duration Fixed Income ETF,P,DFSD,Y,100.0,N,DFSD
@@ -1635,7 +1638,6 @@ EFC$A,Ellington Financial Inc. 6.750% Series A Fixed,Ellington Financial Inc. 6.
 EFC$B,Ellington Financial Inc. 6.250% Series B Fixed,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,EFCpB,N,100.0,N,EFC-B
 EFC$C,Ellington Financial Inc. 8.625% Series C Fixed,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,EFCpC,N,100.0,N,EFC-C
 EFC$D,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,N,EFCpD,N,100.0,N,EFC-D
-EFC$E,Ellington Financial Inc. 8.250% Series E Fixed,Ellington Financial Inc. 8.250% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,EFCpE,N,100.0,N,EFC-E
 EFFI,Harbor ETF Trust Harbor Osmosis International Resource Efficient ETF,Harbor ETF Trust Harbor Osmosis International Resource Efficient ETF,P,EFFI,Y,100.0,N,EFFI
 EFG,iShares MSCI EAFE Growth ETF,iShares MSCI EAFE Growth ETF,Z,EFG,Y,100.0,N,EFG
 EFIV,SPDR S&P 500 ESG ETF,SPDR S&P 500 ESG ETF,P,EFIV,Y,100.0,N,EFIV
@@ -2344,7 +2346,6 @@ GFEB,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffe
 GFF,Griffon Corporation Common Stock,Griffon Corporation Common Stock,N,GFF,N,100.0,N,GFF
 GFI,Gold Fields Limited American Depositary Shares,Gold Fields Limited American Depositary Shares,N,GFI,N,100.0,N,GFI
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value","GFL Environmental Inc. Subordinate voting shares, no par value",N,GFL,N,100.0,N,GFL
-GFOF,ETF Series Solutions Grayscale Future of Finance ETF,ETF Series Solutions Grayscale Future of Finance ETF,P,GFOF,Y,100.0,N,GFOF
 GFR,Greenfire Resources Ltd. Common Shares,Greenfire Resources Ltd. Common Shares,N,GFR,N,100.0,N,GFR
 GGB,Gerdau S.A. Common Stock,Gerdau S.A. Common Stock,N,GGB,N,100.0,N,GGB
 GGG,Graco Inc. Common Stock,Graco Inc. Common Stock,N,GGG,N,100.0,N,GGG
@@ -4376,7 +4377,6 @@ PGP,Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest,P
 PGR,Progressive Corporation (The) Common Stock,Progressive Corporation (The) Common Stock,N,PGR,N,100.0,N,PGR
 PGRE,"Paramount Group, Inc. Common Stock","Paramount Group, Inc. Common Stock",N,PGRE,N,100.0,N,PGRE
 PGRO,Putnam Focused Large Cap Growth ETF,Putnam Focused Large Cap Growth ETF,P,PGRO,Y,100.0,N,PGRO
-PGRU,PropertyGuru Group Limited Ordinary Shares,PropertyGuru Group Limited Ordinary Shares,N,PGRU,N,100.0,N,PGRU
 PGX,Invesco Preferred ETF,Invesco Preferred ETF,P,PGX,Y,100.0,N,PGX
 PGZ,Principal Real Estate Income Fund Common Shares of Beneficial Interest,Principal Real Estate Income Fund Common Shares of Beneficial Interest,N,PGZ,N,100.0,N,PGZ
 PH,Parker,Parker-Hannifin Corporation Common Stock,N,PH,N,100.0,N,PH
@@ -5659,8 +5659,6 @@ TSN,"Tyson Foods, Inc. Common Stock","Tyson Foods, Inc. Common Stock",N,TSN,N,10
 TSPA,T. Rowe Price U.S. Equity Research ETF,T. Rowe Price U.S. Equity Research ETF,P,TSPA,Y,100.0,N,TSPA
 TSQ,"Townsquare Media, Inc. Class A Common Stock","Townsquare Media, Inc. Class A Common Stock",N,TSQ,N,100.0,N,TSQ
 TT,Trane Technologies plc,Trane Technologies plc,N,TT,N,100.0,N,TT
-TTAC,TrimTabs ETF Trust FCF US Quality ETF,TrimTabs ETF Trust FCF US Quality ETF,Z,TTAC,Y,100.0,N,TTAC
-TTAI,TrimTabs ETF Trust FCF International Quality ETF,TrimTabs ETF Trust FCF International Quality ETF,Z,TTAI,Y,100.0,N,TTAI
 TTC,Toro Company (The) Common Stock,Toro Company (The) Common Stock,N,TTC,N,100.0,N,TTC
 TTE,TotalEnergies SE,TotalEnergies SE,N,TTE,N,100.0,N,TTE
 TTI,"Tetra Technologies, Inc. Common Stock","Tetra Technologies, Inc. Common Stock",N,TTI,N,100.0,N,TTI
@@ -6119,6 +6117,7 @@ WUSA,Simplify Exchange Traded Funds Simplify Wolfe US Equity 150/50 ETF,Simplify
 WWJD,Inspire International ETF,Inspire International ETF,P,WWJD,Y,100.0,N,WWJD
 WWR,"Westwater Resources, Inc. Common Stock","Westwater Resources, Inc. Common Stock",A,WWR,N,100.0,N,WWR
 WWW,"Wolverine World Wide, Inc. Common Stock","Wolverine World Wide, Inc. Common Stock",N,WWW,N,100.0,N,WWW
+WXET,Listed Funds Trust Teucrium 2x Daily Wheat ETF,Listed Funds Trust Teucrium 2x Daily Wheat ETF,P,WXET,Y,100.0,N,WXET
 WY,Weyerhaeuser Company Common Stock,Weyerhaeuser Company Common Stock,N,WY,N,100.0,N,WY
 WYY,WidePoint Corporation Common Stock,WidePoint Corporation Common Stock,A,WYY,N,100.0,N,WYY
 X,United States Steel Corporation Common Stock,United States Steel Corporation Common Stock,N,X,N,100.0,N,X
