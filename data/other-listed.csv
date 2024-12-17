@@ -378,7 +378,6 @@ AUGT,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Aug ETF,AIM ETF Pr
 AUGU,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Aug ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Aug ETF,Z,AUGU,Y,100.0,N,AUGU
 AUGW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Aug ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Aug ETF,P,AUGW,Y,100.0,N,AUGW
 AUGZ,TrueShares Structured Outcome (August) ETF,TrueShares Structured Outcome (August) ETF,Z,AUGZ,Y,100.0,N,AUGZ
-AUMN,Golden Minerals Company Common Stock,Golden Minerals Company Common Stock,A,AUMN,N,100.0,N,AUMN
 AUNA,Auna SA Class A Ordinary Shares,Auna SA Class A Ordinary Shares,N,AUNA,N,100.0,N,AUNA
 AUSF,Global X Funds Global X Adaptive U.S. Factor ETF,Global X Funds Global X Adaptive U.S. Factor ETF,P,AUSF,Y,100.0,N,AUSF
 AUST,Austin Gold Corp. Common Shares,Austin Gold Corp. Common Shares,A,AUST,N,100.0,N,AUST
@@ -800,7 +799,7 @@ BTT,BlackRock Municipal 2030 Target Term Trust,BlackRock Municipal 2030 Target T
 BTTR,Better Choice Company Inc. Common Stock,Better Choice Company Inc. Common Stock,A,BTTR,N,100.0,N,BTTR
 BTU,Peabody Energy Corporation Common Stock ,Peabody Energy Corporation Common Stock ,N,BTU,N,100.0,N,BTU
 BTZ,BlackRock Credit Allocation Income Trust,BlackRock Credit Allocation Income Trust,N,BTZ,N,100.0,N,BTZ
-BUCK,Simplify Exchange Traded Funds Simplify Stable Income ETF,Simplify Exchange Traded Funds Simplify Stable Income ETF,P,BUCK,Y,100.0,N,BUCK
+BUCK,Simplify Treasury Option Income ETF,Simplify Treasury Option Income ETF,P,BUCK,Y,100.0,N,BUCK
 BUD,Anheuser,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),N,BUD,N,100.0,N,BUD
 BUFB,Innovator ETFs Trust Innovator Laddered Allocation Buffer ETF,Innovator ETFs Trust Innovator Laddered Allocation Buffer ETF,Z,BUFB,Y,100.0,N,BUFB
 BUFD,FT Vest Laddered Deep Buffer ETF,FT Vest Laddered Deep Buffer ETF,Z,BUFD,Y,100.0,N,BUFD
@@ -2942,7 +2941,6 @@ INMU,iShares Intermediate Muni Income Active ETF,iShares Intermediate Muni Incom
 INN,"Summit Hotel Properties, Inc. Common Stock","Summit Hotel Properties, Inc. Common Stock",N,INN,N,100.0,N,INN
 INN$E,"Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable Preferred Stock","Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable Preferred Stock",N,INNpE,N,100.0,N,INN-E
 INN$F,"Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock, $0.01 par value per share","Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock, $0.01 par value per share",N,INNpF,N,100.0,N,INN-F
-INNO,Harbor ETF Trust Harbor Disruptive Innovation ETF,Harbor ETF Trust Harbor Disruptive Innovation ETF,P,INNO,Y,100.0,N,INNO
 INOV,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  November,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  November,P,INOV,Y,100.0,N,INOV
 INQQ,INQQ The India Internet ETF,INQQ The India Internet ETF,P,INQQ,Y,100.0,N,INQQ
 INSI,Insight Select Income Fund,Insight Select Income Fund,N,INSI,N,100.0,N,INSI
@@ -3433,6 +3431,7 @@ LFAW,Stone Ridge 2060 Longevity Income ETF,Stone Ridge 2060 Longevity Income ETF
 LFAX,Stone Ridge 2061 Longevity Income ETF,Stone Ridge 2061 Longevity Income ETF,Z,LFAX,Y,100.0,N,LFAX
 LFAZ,Stone Ridge 2062 Longevity Income ETF,Stone Ridge 2062 Longevity Income ETF,Z,LFAZ,Y,100.0,N,LFAZ
 LFBB,Stone Ridge 2063 Longevity Income ETF,Stone Ridge 2063 Longevity Income ETF,Z,LFBB,Y,100.0,N,LFBB
+LFDR,Stone Ridge Trust Stone Ridge Durable Income ETF,Stone Ridge Trust Stone Ridge Durable Income ETF,Z,LFDR,Y,100.0,N,LFDR
 LFEQ,VanEck Long/Flat Trend ETF,VanEck Long/Flat Trend ETF,P,LFEQ,Y,100.0,N,LFEQ
 LFT,"Lument Finance Trust, Inc. Common Stock","Lument Finance Trust, Inc. Common Stock",N,LFT,N,100.0,N,LFT
 LFT$A,"Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock","Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock",N,LFTpA,N,100.0,N,LFT-A
@@ -4725,7 +4724,6 @@ REKT,Direxion Shares ETF Trust Direxion Daily Crypto Industry Bear 1X Shares,Dir
 RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),N,RELX,N,100.0,N,RELX
 REM,iShares Trust iShares Mortgage Real Estate ETF,iShares Trust iShares Mortgage Real Estate ETF,Z,REM,Y,100.0,N,REM
 REMX,VanEck Rare Earth and Strategic Metals ETF,VanEck Rare Earth and Strategic Metals ETF,P,REMX,Y,100.0,N,REMX
-RENW,Harbor ETF Trust Harbor Energy Transition Strategy ETF,Harbor ETF Trust Harbor Energy Transition Strategy ETF,P,RENW,Y,100.0,N,RENW
 REPX,"Riley Exploration Permian, Inc. Common Stock","Riley Exploration Permian, Inc. Common Stock",A,REPX,N,100.0,N,REPX
 RERE,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares),ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares),N,RERE,N,100.0,N,RERE
 RES,"RPC, Inc. Common Stock","RPC, Inc. Common Stock",N,RES,N,100.0,N,RES
@@ -5449,7 +5447,6 @@ TAXF,American Century Diversified Municipal Bond ETF,American Century Diversifie
 TAXX,BondBloxx ETF Trust BondBloxx IR+M Tax,BondBloxx ETF Trust BondBloxx IR+M Tax-Aware Short Duration ETF,P,TAXX,Y,100.0,N,TAXX
 TBB,AT&T Inc. 5.350% Global Notes due 2066,AT&T Inc. 5.350% Global Notes due 2066,N,TBB,N,100.0,N,TBB
 TBBB,BBB Foods Inc. Class A Common Shares,BBB Foods Inc. Class A Common Shares,N,TBBB,N,100.0,N,TBBB
-TBC,AT&T Inc. 5.625% Global Notes due 2067,AT&T Inc. 5.625% Global Notes due 2067,N,TBC,N,100.0,N,TBC
 TBF,ProShares Short 20+ Year Treasury,ProShares Short 20+ Year Treasury,P,TBF,Y,100.0,N,TBF
 TBFC,ETF Series Solutions The Brinsmere Fund  Conservative ETF,ETF Series Solutions The Brinsmere Fund  Conservative ETF,P,TBFC,Y,100.0,N,TBFC
 TBFG,ETF Series Solutions The Brinsmere Fund Growth ETF,ETF Series Solutions The Brinsmere Fund Growth ETF,P,TBFG,Y,100.0,N,TBFG
@@ -5650,8 +5647,10 @@ TSEC,Touchstone ETF Trust Touchstone Securitized Income ETF,Touchstone ETF Trust
 TSEP,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
 TSI,"TCW Strategic Income Fund, Inc. Common Stock","TCW Strategic Income Fund, Inc. Common Stock",N,TSI,N,100.0,N,TSI
 TSLP,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Z,TSLP,Y,100.0,N,TSLP
+TSLT,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long Tesla Daily Target ETF,Z,TSLT,Y,100.0,N,TSLT
 TSLX,"Sixth Street Specialty Lending, Inc. Common Stock","Sixth Street Specialty Lending, Inc. Common Stock",N,TSLX,N,100.0,N,TSLX
 TSLY,Tidal ETF Trust II YieldMax TSLA Option Income Strategy ETF,Tidal ETF Trust II YieldMax TSLA Option Income Strategy ETF,P,TSLY,Y,100.0,N,TSLY
+TSLZ,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Inverse Tesla Daily Target ETF,Z,TSLZ,Y,100.0,N,TSLZ
 TSM,Taiwan Semiconductor Manufacturing Company Ltd.,Taiwan Semiconductor Manufacturing Company Ltd.,N,TSM,N,100.0,N,TSM
 TSME,Thrivent ETF Trust Thrivent Small,Thrivent ETF Trust Thrivent Small-Mid Cap ESG ETF,P,TSME,Y,100.0,N,TSME
 TSMY,Tidal Trust II YieldMax TSM Option Income Strategy ETF,Tidal Trust II YieldMax TSM Option Income Strategy ETF,P,TSMY,Y,100.0,N,TSMY
@@ -5857,7 +5856,7 @@ VBF,Invesco Bond Fund Common Stock,Invesco Bond Fund Common Stock,N,VBF,N,100.0,
 VBK,Vanguard Small,Vanguard Small-Cap Growth ETF,P,VBK,Y,100.0,N,VBK
 VBND,Vident U.S. Bond Strategy ETF,Vident U.S. Bond Strategy ETF,P,VBND,Y,100.0,N,VBND
 VBR,Vanguard Small,Vanguard Small-Cap Value ETF,P,VBR,Y,100.0,N,VBR
-VCAR,Simplify Volt RoboCar Disruption and Tech ETF,Simplify Volt RoboCar Disruption and Tech ETF,P,VCAR,Y,100.0,N,VCAR
+VCAR,Simplify Volt TSLA Revolution ETF,Simplify Volt TSLA Revolution ETF,P,VCAR,Y,100.0,N,VCAR
 VCEB,Vanguard World Funds ETF,Vanguard World Funds ETF,Z,VCEB,Y,100.0,N,VCEB
 VCLN,Virtus Duff & Phelps Clean Energy ETF,Virtus Duff & Phelps Clean Energy ETF,P,VCLN,Y,100.0,N,VCLN
 VCR,Vanguard Consumer Discretion ETF,Vanguard Consumer Discretion ETF,P,VCR,Y,100.0,N,VCR
@@ -6037,9 +6036,6 @@ WEC,"WEC Energy Group, Inc. Common Stock","WEC Energy Group, Inc. Common Stock",
 WEED,Listed Funds Trust Roundhill Cannabis ETF,Listed Funds Trust Roundhill Cannabis ETF,Z,WEED,Y,100.0,N,WEED
 WEEL,Tidal Trust II Peerless Option Income Wheel ETF,Tidal Trust II Peerless Option Income Wheel ETF,P,WEEL,Y,100.0,N,WEEL
 WEIX,Dynamic Shares Trust Dynamic Short Short,Dynamic Shares Trust Dynamic Short Short-Term Volatility Futures ETF,Z,WEIX,Y,100.0,N,WEIX
-WEL,Integrated Wellness Acquisition Corp Class A Ordinary Shares,Integrated Wellness Acquisition Corp Class A Ordinary Shares,N,WEL,N,100.0,N,WEL
-WEL.U,"Integrated Wellness Acquisition Corp Units, each consisting of one Class A ordinary share and one","Integrated Wellness Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant(",N,WEL.U,N,100.0,N,WEL=
-WEL.W,Integrated Wellness Acquisition Corp Redeemable Warrants,Integrated Wellness Acquisition Corp Redeemable Warrants,N,WEL.WS,N,100.0,N,WEL+
 WELL,Welltower Inc. Common Stock,Welltower Inc. Common Stock,N,WELL,N,100.0,N,WELL
 WES,"Western Midstream Partners, LP Common Units Representing Limited Partner Interests","Western Midstream Partners, LP Common Units Representing Limited Partner Interests",N,WES,N,100.0,N,WES
 WEX,WEX Inc. common stock,WEX Inc. common stock,N,WEX,N,100.0,N,WEX
