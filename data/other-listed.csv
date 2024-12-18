@@ -575,9 +575,6 @@ BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,ProShares Bitcoin & Ether M
 BETZ,Roundhill Sports Betting & iGaming ETF,Roundhill Sports Betting & iGaming ETF,P,BETZ,Y,100.0,N,BETZ
 BF.A,Brown Forman Inc Class A Common Stock,Brown Forman Inc Class A Common Stock,N,BF.A,N,100.0,N,BF.A
 BF.B,Brown Forman Inc Class B Common Stock,Brown Forman Inc Class B Common Stock,N,BF.B,N,100.0,N,BF.B
-BFAC,Battery Future Acquisition Corp. Class A Ordinary Shares,Battery Future Acquisition Corp. Class A Ordinary Shares,N,BFAC,N,100.0,N,BFAC
-BFAC.U,"Battery Future Acquisition Corp. Units, each consisting of one Class A ordinary share and one","Battery Future Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,BFAC.U,N,100.0,N,BFAC=
-BFAC.W,"Battery Future Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Battery Future Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,BFAC.WS,N,100.0,N,BFAC+
 BFAM,Bright Horizons Family Solutions Inc. Common Stock,Bright Horizons Family Solutions Inc. Common Stock,N,BFAM,N,100.0,N,BFAM
 BFEB,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - February,Z,BFEB,Y,100.0,N,BFEB
 BFH,"Bread Financial Holdings, Inc. Common Stock","Bread Financial Holdings, Inc. Common Stock",N,BFH,N,100.0,N,BFH
@@ -1845,9 +1842,6 @@ EV,NEOS ETF Trust Mast Global Battery Recycling & Production ETF,NEOS ETF Trust 
 EVAV,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,P,EVAV,Y,100.0,N,EVAV
 EVBN,"Evans Bancorp, Inc. Common Stock","Evans Bancorp, Inc. Common Stock",A,EVBN,N,100.0,N,EVBN
 EVC,Entravision Communications Corporation Common Stock,Entravision Communications Corporation Common Stock,N,EVC,N,100.0,N,EVC
-EVE,EVe Mobility Acquisition Corp Class A Ordinary Shares,EVe Mobility Acquisition Corp Class A Ordinary Shares,A,EVE,N,100.0,N,EVE
-EVE.U,"EVe Mobility Acquisition Corp Units, each consisting of one Class A ordinary share and one","EVe Mobility Acquisition Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant(",A,EVE.U,N,100.0,N,EVE=
-EVE.W,"EVe Mobility Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","EVe Mobility Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",A,EVE.WS,N,100.0,N,EVE+
 EVEX,"Eve Holding, Inc. Common Stock","Eve Holding, Inc. Common Stock",N,EVEX,N,100.0,N,EVEX
 EVEX.W,"Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share","Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,EVEX.WS,N,100.0,N,EVEX+
 EVF,Eaton Vance Senior Income Trust Common Stock,Eaton Vance Senior Income Trust Common Stock,N,EVF,N,100.0,N,EVF
@@ -2766,7 +2760,6 @@ IAUG,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  Au
 IAUM,iShares Gold Trust Micro Shares,iShares Gold Trust Micro Shares,P,IAUM,Y,100.0,N,IAUM
 IAUX,i,i-80 Gold Corp. Common Shares,A,IAUX,N,100.0,N,IAUX
 IBD,Inspire Corporate Bond ETF,Inspire Corporate Bond ETF,P,IBD,Y,100.0,N,IBD
-IBDP,iShares iBonds Dec 2024 Term Corporate ETF,iShares iBonds Dec 2024 Term Corporate ETF,P,IBDP,Y,100.0,N,IBDP
 IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,iShares iBonds Dec 2025 Term Corporate ETF,P,IBDQ,Y,100.0,N,IBDQ
 IBDR,iShares iBonds Dec 2026 Term Corporate ETF,iShares iBonds Dec 2026 Term Corporate ETF,P,IBDR,Y,100.0,N,IBDR
 IBDS,iShares iBonds Dec 2027 Term Corporate ETF,iShares iBonds Dec 2027 Term Corporate ETF,P,IBDS,Y,100.0,N,IBDS
@@ -2777,7 +2770,6 @@ IBDW,iShares iBonds Dec 2031 Term Corporate ETF,iShares iBonds Dec 2031 Term Cor
 IBDX,iShares Trust iShares iBonds Dec 2032 Term Corporate ETF,iShares Trust iShares iBonds Dec 2032 Term Corporate ETF,P,IBDX,Y,100.0,N,IBDX
 IBDY,iShares Trust iShares iBonds Dec 2033 Term Corporate ETF,iShares Trust iShares iBonds Dec 2033 Term Corporate ETF,P,IBDY,Y,100.0,N,IBDY
 IBDZ,iShares Trust iShares iBonds Dec 2034 Term Corporate ETF,iShares Trust iShares iBonds Dec 2034 Term Corporate ETF,P,IBDZ,Y,100.0,N,IBDZ
-IBHD,iShares iBonds 2024 Term High Yield and Income ETF,iShares iBonds 2024 Term High Yield and Income ETF,Z,IBHD,Y,100.0,N,IBHD
 IBHE,iShares iBonds 2025 Term High Yield and Income ETF,iShares iBonds 2025 Term High Yield and Income ETF,Z,IBHE,Y,100.0,N,IBHE
 IBHF,iShares iBonds 2026 Term High Yield and Income ETF,iShares iBonds 2026 Term High Yield and Income ETF,Z,IBHF,Y,100.0,N,IBHF
 IBHG,iShares iBonds 2027 Term High Yield and Income ETF,iShares iBonds 2027 Term High Yield and Income ETF,Z,IBHG,Y,100.0,N,IBHG
