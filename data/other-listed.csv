@@ -1580,6 +1580,7 @@ ECC,Eagle Point Credit Company Inc. Common Stock,Eagle Point Credit Company Inc.
 ECC$D,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,N,ECCpD,N,100.0,N,ECC-D
 ECCC,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,N,ECCC,N,100.0,N,ECCC
 ECCF,Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029,Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029,N,ECCF,N,100.0,N,ECCF
+ECCU,Eagle Point Credit Company Inc. 7.75% Notes due 2030,Eagle Point Credit Company Inc. 7.75% Notes due 2030,N,ECCU,N,100.0,N,ECCU
 ECCV,Eagle Point Credit Company Inc. 5.375% Notes due 2029,Eagle Point Credit Company Inc. 5.375% Notes due 2029,N,ECCV,N,100.0,N,ECCV
 ECCW,Eagle Point Credit Company Inc. 6.75% Notes due 2031,Eagle Point Credit Company Inc. 6.75% Notes due 2031,N,ECCW,N,100.0,N,ECCW
 ECCX,Eagle Point Credit Company Inc. 6.6875% Notes due 2028,Eagle Point Credit Company Inc. 6.6875% Notes due 2028,N,ECCX,N,100.0,N,ECCX
@@ -1634,6 +1635,7 @@ EFC$A,Ellington Financial Inc. 6.750% Series A Fixed,Ellington Financial Inc. 6.
 EFC$B,Ellington Financial Inc. 6.250% Series B Fixed,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,EFCpB,N,100.0,N,EFC-B
 EFC$C,Ellington Financial Inc. 8.625% Series C Fixed,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,EFCpC,N,100.0,N,EFC-C
 EFC$D,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,N,EFCpD,N,100.0,N,EFC-D
+EFFE,Harbor ETF Trust Harbor Osmosis Emerging Markets Resource Efficient ETF,Harbor ETF Trust Harbor Osmosis Emerging Markets Resource Efficient ETF,P,EFFE,Y,100.0,N,EFFE
 EFFI,Harbor ETF Trust Harbor Osmosis International Resource Efficient ETF,Harbor ETF Trust Harbor Osmosis International Resource Efficient ETF,P,EFFI,Y,100.0,N,EFFI
 EFG,iShares MSCI EAFE Growth ETF,iShares MSCI EAFE Growth ETF,Z,EFG,Y,100.0,N,EFG
 EFIV,SPDR S&P 500 ESG ETF,SPDR S&P 500 ESG ETF,P,EFIV,Y,100.0,N,EFIV
@@ -3408,8 +3410,6 @@ LEN,Lennar Corporation Class A Common Stock,Lennar Corporation Class A Common St
 LEN.B,Lennar Corporation Class B,Lennar Corporation Class B,N,LEN.B,N,100.0,N,LEN.B
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock","BNY Mellon Strategic Municipals, Inc. Common Stock",N,LEO,N,100.0,N,LEO
 LEU,Centrus Energy Corp. Class A Common Stock,Centrus Energy Corp. Class A Common Stock,A,LEU,N,100.0,N,LEU
-LEV,The Lion Electric Company Common Shares,The Lion Electric Company Common Shares,N,LEV,N,100.0,N,LEV
-LEV.A,The Lion Electric Company Warrants to purchase common shares,The Lion Electric Company Warrants to purchase common shares,N,LEV.WS.A,N,100.0,N,LEV+A
 LEVI,Levi Strauss & Co Class A Common Stock,Levi Strauss & Co Class A Common Stock,N,LEVI,N,100.0,N,LEVI
 LFAE,Stone Ridge 2048 Longevity Income ETF,Stone Ridge 2048 Longevity Income ETF,Z,LFAE,Y,100.0,N,LFAE
 LFAF,Stone Ridge 2049 Longevity Income ETF,Stone Ridge 2049 Longevity Income ETF,Z,LFAF,Y,100.0,N,LFAF
@@ -3896,6 +3896,7 @@ NBDS,Neuberger Berman ETF Trust Neuberger Berman Disrupters ETF,Neuberger Berman
 NBET,Neuberger Berman Energy Transition & Infrastructure ETF,Neuberger Berman Energy Transition & Infrastructure ETF,P,NBET,Y,100.0,N,NBET
 NBFC,Neuberger Berman ETF Trust Neuberger Berman Flexible Credit Income ETF,Neuberger Berman ETF Trust Neuberger Berman Flexible Credit Income ETF,P,NBFC,Y,100.0,N,NBFC
 NBGR,Neuberger Berman ETF Trust Neuberger Berman Global Real Estate ETF,Neuberger Berman ETF Trust Neuberger Berman Global Real Estate ETF,P,NBGR,Y,100.0,N,NBGR
+NBGX,Neuberger Berman ETF Trust Neuberger Berman Growth ETF,Neuberger Berman ETF Trust Neuberger Berman Growth ETF,P,NBGX,Y,100.0,N,NBGX
 NBH,Neuberger Berman Municipal Fund Inc. Common Stock,Neuberger Berman Municipal Fund Inc. Common Stock,A,NBH,N,100.0,N,NBH
 NBHC,National Bank Holdings Corporation Common Stock,National Bank Holdings Corporation Common Stock,N,NBHC,N,100.0,N,NBHC
 NBJP,Neuberger Berman ETF Trust Neuberger Berman Japan Equity ETF,Neuberger Berman ETF Trust Neuberger Berman Japan Equity ETF,P,NBJP,Y,100.0,N,NBJP
@@ -4021,12 +4022,12 @@ NOW,"ServiceNow, Inc. Common Stock","ServiceNow, Inc. Common Stock",N,NOW,N,100.
 NPCT,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,N,NPCT,N,100.0,N,NPCT
 NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares,Nuveen Variable Rate Preferred & Income Fund Common Shares,N,NPFD,N,100.0,N,NPFD
 NPK,"National Presto Industries, Inc. Common Stock","National Presto Industries, Inc. Common Stock",N,NPK,N,100.0,N,NPK
+NPKI,NPK International Inc. Common Stock,NPK International Inc. Common Stock,N,NPKI,N,100.0,N,NPKI
 NPO,Enpro Inc. Common Stock,Enpro Inc. Common Stock,N,NPO,N,100.0,N,NPO
 NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,Nuveen Virginia Quality Municipal Income Fund Common Stock,N,NPV,N,100.0,N,NPV
 NPWR,NET Power Inc. Class A Common Stock,NET Power Inc. Class A Common Stock,N,NPWR,N,100.0,N,NPWR
 NPWR.W,"NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50","NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",N,NPWR.WS,N,100.0,N,NPWR+
 NQP,Nuveen Pennsylvania Quality Municipal Income Fund Common Stock,Nuveen Pennsylvania Quality Municipal Income Fund Common Stock,N,NQP,N,100.0,N,NQP
-NR,"Newpark Resources, Inc. Common Stock","Newpark Resources, Inc. Common Stock",N,NR,N,100.0,N,NR
 NRDY,Nerdy Inc. Class A Common Stock,Nerdy Inc. Class A Common Stock,N,NRDY,N,100.0,N,NRDY
 NREF,"NexPoint Real Estate Finance, Inc. Common Stock","NexPoint Real Estate Finance, Inc. Common Stock",N,NREF,N,100.0,N,NREF
 NREF$A,"NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock","NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock",N,NREFpA,N,100.0,N,NREF-A
@@ -4660,6 +4661,7 @@ QTAP,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ET
 QTJA,Innovator ETFs Trust Innovator Growth Accelerated Plus ETF ,Innovator ETFs Trust Innovator Growth Accelerated Plus ETF - January,Z,QTJA,Y,100.0,N,QTJA
 QTJL,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - July,Z,QTJL,Y,100.0,N,QTJL
 QTOC,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - October,Z,QTOC,Y,100.0,N,QTOC
+QTPI,Exchange Place Advisors Trust North Square RCIM Tax,Exchange Place Advisors Trust North Square RCIM Tax-Advantaged Preferred and Income Securities ETF,P,QTPI,Y,100.0,N,QTPI
 QTWO,"Q2 Holdings, Inc. Common Stock","Q2 Holdings, Inc. Common Stock",N,QTWO,N,100.0,N,QTWO
 QUAD,"Quad Graphics, Inc Class A Common Stock","Quad Graphics, Inc Class A Common Stock",N,QUAD,N,100.0,N,QUAD
 QUAL,iShares MSCI USA Quality Factor ETF,iShares MSCI USA Quality Factor ETF,Z,QUAL,Y,100.0,N,QUAL
@@ -4698,6 +4700,7 @@ RC$C,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred S
 RC$E,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,N,RCpE,N,100.0,N,RC-E
 RCB,Ready Capital Corporation 6.20% Senior Notes due 2026,Ready Capital Corporation 6.20% Senior Notes due 2026,N,RCB,N,100.0,N,RCB
 RCC,Ready Capital Corporation 5.75% Senior Notes due 2026,Ready Capital Corporation 5.75% Senior Notes due 2026,N,RCC,N,100.0,N,RCC
+RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,Ready Capital Corporation 9.00% Senior Notes due 2029,N,RCD,N,100.0,N,RCD
 RCG,"RENN Fund, Inc Common Stock","RENN Fund, Inc Common Stock",A,RCG,N,100.0,N,RCG
 RCI,"Rogers Communication, Inc. Common Stock","Rogers Communication, Inc. Common Stock",N,RCI,N,100.0,N,RCI
 RCL,Royal Caribbean Cruises Ltd. Common Stock,Royal Caribbean Cruises Ltd. Common Stock,N,RCL,N,100.0,N,RCL
@@ -5187,7 +5190,6 @@ SMOG,VanEck Low Carbon Energy ETF,VanEck Low Carbon Energy ETF,P,SMOG,Y,100.0,N,
 SMOT,VanEck ETF Trust VanEck Morningstar SMID Moat ETF,VanEck ETF Trust VanEck Morningstar SMID Moat ETF,Z,SMOT,Y,100.0,N,SMOT
 SMP,"Standard Motor Products, Inc. Common Stock","Standard Motor Products, Inc. Common Stock",N,SMP,N,100.0,N,SMP
 SMR,NuScale Power Corporation Class A Common Stock,NuScale Power Corporation Class A Common Stock,N,SMR,N,100.0,N,SMR
-SMR.W,"NuScale Power Corporation Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share","NuScale Power Corporation Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",N,SMR.WS,N,100.0,N,SMR+
 SMRT,"SmartRent, Inc. Class A Common Stock","SmartRent, Inc. Class A Common Stock",N,SMRT,N,100.0,N,SMRT
 SMTH,ALPS ETF Trust ALPS,ALPS ETF Trust ALPS,P,SMTH,Y,100.0,N,SMTH
 SMWB,Similarweb Ltd. Ordinary Shares,Similarweb Ltd. Ordinary Shares,N,SMWB,N,100.0,N,SMWB
@@ -6304,12 +6306,9 @@ ZSC,USCF ETF Trust USCF Sustainable Commodity Strategy Fund,USCF ETF Trust USCF 
 ZSEP,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr September,Z,ZSEP,Y,100.0,N,ZSEP
 ZSL,ProShares UltraShort Silver,ProShares UltraShort Silver,P,ZSL,Y,100.0,N,ZSL
 ZTAX,X,X-Square Municipal Income ETF,P,ZTAX,Y,100.0,N,ZTAX
-ZTEN,"The RBB Fund, Inc. F/m 10","The RBB Fund, Inc. F/m 10-Year Investment Grade Corporate Bond ETF",P,ZTEN,Y,100.0,N,ZTEN
 ZTO,"ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.","ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.",N,ZTO,N,100.0,N,ZTO
 ZTR,Virtus Total Return Fund Inc.,Virtus Total Return Fund Inc.,N,ZTR,N,100.0,N,ZTR
-ZTRE,"The RBB Fund, Inc. F/m 3","The RBB Fund, Inc. F/m 3-Year Investment Grade Corporate Bond ETF",P,ZTRE,Y,100.0,N,ZTRE
 ZTS,Zoetis Inc. Class A Common Stock,Zoetis Inc. Class A Common Stock,N,ZTS,N,100.0,N,ZTS
-ZTWO,"The RBB Fund, Inc. F/m 2","The RBB Fund, Inc. F/m 2-Year Investment Grade Corporate Bond ETF",P,ZTWO,Y,100.0,N,ZTWO
 ZUO,"Zuora, Inc. Class A Common Stock","Zuora, Inc. Class A Common Stock",N,ZUO,N,100.0,N,ZUO
 ZVIA,Zevia PBC Class A Common Stock,Zevia PBC Class A Common Stock,N,ZVIA,N,100.0,N,ZVIA
 ZVOL,Volatility Premium Plus ETF,Volatility Premium Plus ETF,Z,ZVOL,Y,100.0,N,ZVOL

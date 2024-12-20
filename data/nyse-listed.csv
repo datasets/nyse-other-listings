@@ -855,6 +855,7 @@ ECC,Eagle Point Credit Company Inc. Common Stock
 ECC$D,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock
 ECCC,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031
 ECCF,Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029
+ECCU,Eagle Point Credit Company Inc. 7.75% Notes due 2030
 ECCV,Eagle Point Credit Company Inc. 5.375% Notes due 2029
 ECCW,Eagle Point Credit Company Inc. 6.75% Notes due 2031
 ECCX,Eagle Point Credit Company Inc. 6.6875% Notes due 2028
@@ -1554,8 +1555,6 @@ LEG,"Leggett & Platt, Incorporated Common Stock"
 LEN,Lennar Corporation Class A Common Stock
 LEN.B,Lennar Corporation Class B
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock"
-LEV,The Lion Electric Company Common Shares
-LEV.A,The Lion Electric Company Warrants to purchase common shares
 LEVI,Levi Strauss & Co Class A Common Stock
 LFT,"Lument Finance Trust, Inc. Common Stock"
 LFT$A,"Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock"
@@ -1879,12 +1878,12 @@ NOW,"ServiceNow, Inc. Common Stock"
 NPCT,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest
 NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares
 NPK,"National Presto Industries, Inc. Common Stock"
+NPKI,NPK International Inc. Common Stock
 NPO,Enpro Inc. Common Stock
 NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock
 NPWR,NET Power Inc. Class A Common Stock
 NPWR.W,"NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50"
 NQP,Nuveen Pennsylvania Quality Municipal Income Fund Common Stock
-NR,"Newpark Resources, Inc. Common Stock"
 NRDY,Nerdy Inc. Class A Common Stock
 NREF,"NexPoint Real Estate Finance, Inc. Common Stock"
 NREF$A,"NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock"
@@ -2196,6 +2195,7 @@ RC$C,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred S
 RC$E,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock
 RCB,Ready Capital Corporation 6.20% Senior Notes due 2026
 RCC,Ready Capital Corporation 5.75% Senior Notes due 2026
+RCD,Ready Capital Corporation 9.00% Senior Notes due 2029
 RCI,"Rogers Communication, Inc. Common Stock"
 RCL,Royal Caribbean Cruises Ltd. Common Stock
 RCS,"PIMCO Strategic Income Fund, Inc."
@@ -2398,7 +2398,6 @@ SMG,Scotts Miracle
 SMHI,SEACOR Marine Holdings Inc. Common Stock 
 SMP,"Standard Motor Products, Inc. Common Stock"
 SMR,NuScale Power Corporation Class A Common Stock
-SMR.W,"NuScale Power Corporation Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share"
 SMRT,"SmartRent, Inc. Class A Common Stock"
 SMWB,Similarweb Ltd. Ordinary Shares
 SN,"SharkNinja, Inc. Ordinary Shares"
