@@ -244,7 +244,6 @@ ANVS,"Annovis Bio, Inc. Common Stock","Annovis Bio, Inc. Common Stock",N,ANVS,N,
 AOA,iShares Core Aggressive Allocation ETF,iShares Core Aggressive Allocation ETF,P,AOA,Y,100.0,N,AOA
 AOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to October 2026,Z,AOCT,Y,100.0,N,AOCT
 AOD,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,N,AOD,N,100.0,N,AOD
-AOHY,Angel Oak Funds Trust Angel Oak High Yield Opportunities ETF,Angel Oak Funds Trust Angel Oak High Yield Opportunities ETF,P,AOHY,Y,100.0,N,AOHY
 AOK,iShares Core Conservative Allocation ETF,iShares Core Conservative Allocation ETF,P,AOK,Y,100.0,N,AOK
 AOM,iShares Core Moderate Allocation ETF,iShares Core Moderate Allocation ETF,P,AOM,Y,100.0,N,AOM
 AOMN,"Angel Oak Mortgage REIT, Inc. 9.500% Senior Notes due 2029","Angel Oak Mortgage REIT, Inc. 9.500% Senior Notes due 2029",N,AOMN,N,100.0,N,AOMN
@@ -753,6 +752,7 @@ BRDG,Bridge Investment Group Holdings Inc. Class A Common Stock,Bridge Investmen
 BRF,VanEck Brazil Small,VanEck Brazil Small-Cap ETF,P,BRF,Y,100.0,N,BRF
 BRFS,BRF S.A.,BRF S.A.,N,BRFS,N,100.0,N,BRFS
 BRIA,BrilliA Inc Class A Ordinary Shares,BrilliA Inc Class A Ordinary Shares,A,BRIA,N,100.0,N,BRIA
+BRIF,NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF,NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF,P,BRIF,Y,100.0,N,BRIF
 BRK.A,Berkshire Hathaway Inc. Common Stock,Berkshire Hathaway Inc. Common Stock,N,BRK.A,N,1.0,N,BRK.A
 BRK.B,Berkshire Hathaway Inc. New Common Stock,Berkshire Hathaway Inc. New Common Stock,N,BRK.B,N,100.0,N,BRK.B
 BRLN,iShares Floating Rate Loan Active ETF,iShares Floating Rate Loan Active ETF,Z,BRLN,Y,100.0,N,BRLN
@@ -881,7 +881,6 @@ CARK,The Advisors Inner Circle Fund II CastleArk Large Growth ETF,The Advisors I
 CARR,Carrier Global Corporation Common Stock ,Carrier Global Corporation Common Stock ,N,CARR,N,100.0,N,CARR
 CARS,Cars.com Inc. Common Stock ,Cars.com Inc. Common Stock ,N,CARS,N,100.0,N,CARS
 CARU,Bank Of Montreal MAX Auto Industry 3x Leveraged ETN,Bank Of Montreal MAX Auto Industry 3x Leveraged ETN,P,CARU,Y,100.0,N,CARU
-CARY,Angel Oak Funds Trust Angel Oak Income ETF,Angel Oak Funds Trust Angel Oak Income ETF,P,CARY,Y,100.0,N,CARY
 CAT,"Caterpillar, Inc. Common Stock","Caterpillar, Inc. Common Stock",N,CAT,N,100.0,N,CAT
 CATF,American Century ETF Trust American Century California Municipal Bond ETF,American Century ETF Trust American Century California Municipal Bond ETF,P,CATF,Y,100.0,N,CATF
 CATO,Cato Corporation (The) Class A Common Stock,Cato Corporation (The) Class A Common Stock,N,CATO,N,100.0,N,CATO
@@ -1917,6 +1916,7 @@ FAI,First Trust Exchange,First Trust Exchange-Traded Fund II First Trust Bloombe
 FAIL,Cambria ETF Trust Cambria Global Tail Risk ETF,Cambria ETF Trust Cambria Global Tail Risk ETF,Z,FAIL,Y,100.0,N,FAIL
 FAN,First Trust Global Wind Energy ETF,First Trust Global Wind Energy ETF,P,FAN,Y,100.0,N,FAN
 FAPR,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - April,Z,FAPR,Y,100.0,N,FAPR
+FARX,The Advisors? Inner Circle Fund II Frontier Asset Absolute Return ETF,The Advisors? Inner Circle Fund II Frontier Asset Absolute Return ETF,P,FARX,Y,100.0,N,FARX
 FAS,Direxion Financial Bull 3X Shares,Direxion Financial Bull 3X Shares,P,FAS,Y,100.0,N,FAS
 FAUG,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - August,Z,FAUG,Y,100.0,N,FAUG
 FAX,abrdn Asia,"abrdn Asia-Pacific Income Fund, Inc. Common Stock",A,FAX,N,100.0,N,FAX
@@ -1935,6 +1935,7 @@ FBTC,Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest,Fide
 FBUF,Fidelity Dynamic Buffered Equity ETF Fidelity Dynamic Buffered Equity ETF,Fidelity Dynamic Buffered Equity ETF Fidelity Dynamic Buffered Equity ETF,Z,FBUF,Y,100.0,N,FBUF
 FBY,Tidal ETF Trust II YieldMax META Option Income Strategy ETF,Tidal ETF Trust II YieldMax META Option Income Strategy ETF,P,FBY,Y,100.0,N,FBY
 FC,Franklin Covey Company Common Stock,Franklin Covey Company Common Stock,N,FC,N,100.0,N,FC
+FCBD,The Advisors? Inner Circle Fund II Frontier Asset Core Bond ETF,The Advisors? Inner Circle Fund II Frontier Asset Core Bond ETF,P,FCBD,Y,100.0,N,FCBD
 FCF,First Commonwealth Financial Corporation Common Stock,First Commonwealth Financial Corporation Common Stock,N,FCF,N,100.0,N,FCF
 FCFY,First Trust Exchange,First Trust Exchange-Traded Fund First Trust S&P 500 Diversified Free Cash Flow ETF,P,FCFY,Y,100.0,N,FCFY
 FCG,First Trust Natural Gas ETF,First Trust Natural Gas ETF,P,FCG,Y,100.0,N,FCG
@@ -1987,6 +1988,7 @@ FEBW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Feb ETF,AIM ETF Pr
 FEBZ,TrueShares Structured Outcome (February) ETF,TrueShares Structured Outcome (February) ETF,Z,FEBZ,Y,100.0,N,FEBZ
 FEDM,FlexShares ESG & Climate Developed Markets ex,FlexShares ESG & Climate Developed Markets ex-US Core Index Fund,P,FEDM,Y,100.0,N,FEDM
 FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares","Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares",N,FEDU,N,100.0,N,FEDU
+FEGE,The RBB Fund Trust First Eagle Global Equity ETF,The RBB Fund Trust First Eagle Global Equity ETF,P,FEGE,Y,100.0,N,FEGE
 FEIG,FlexShares ESG & Climate Investment Grade Corporate Core Index Fund,FlexShares ESG & Climate Investment Grade Corporate Core Index Fund,P,FEIG,Y,100.0,N,FEIG
 FELC,Fidelity Covington Trust Fidelity Enhanced Large Cap Core ETF,Fidelity Covington Trust Fidelity Enhanced Large Cap Core ETF,P,FELC,Y,100.0,N,FELC
 FELG,Fidelity Covington Trust Fidelity Enhanced Large Cap Growth ETF,Fidelity Covington Trust Fidelity Enhanced Large Cap Growth ETF,P,FELG,Y,100.0,N,FELG
@@ -1995,6 +1997,7 @@ FEMR,Fidelity Covington Trust Fidelity Enhanced Emerging Markets ETF,Fidelity Co
 FENG,"Phoenix New Media Limited American Depositary Shares, each representing 48 Class A ordinary shares.","Phoenix New Media Limited American Depositary Shares, each representing 48 Class A ordinary shares.",N,FENG,N,100.0,N,FENG
 FENI,Fidelity Covington Trust Fidelity Enhanced International ETF,Fidelity Covington Trust Fidelity Enhanced International ETF,P,FENI,Y,100.0,N,FENI
 FENY,Fidelity MSCI Energy Index ETF,Fidelity MSCI Energy Index ETF,P,FENY,Y,100.0,N,FENY
+FEOE,The RBB Fund Trust First Eagle Overseas Equity ETF,The RBB Fund Trust First Eagle Overseas Equity ETF,P,FEOE,Y,100.0,N,FEOE
 FERG,Ferguson Enterprises Inc. Common Stock,Ferguson Enterprises Inc. Common Stock,N,FERG,N,100.0,N,FERG
 FESM,Fidelity Covington Trust Fidelity Enhanced Small Cap ETF,Fidelity Covington Trust Fidelity Enhanced Small Cap ETF,P,FESM,Y,100.0,N,FESM
 FET,"Forum Energy Technologies, Inc. Common Stock","Forum Energy Technologies, Inc. Common Stock",N,FET,N,100.0,N,FET
@@ -2023,6 +2026,7 @@ FGB,First Trust Specialty Finance and Financial Opportunities Fund,First Trust S
 FGD,First Trust DJ Global Select Dividend,First Trust DJ Global Select Dividend,P,FGD,Y,100.0,N,FGD
 FGDL,Franklin Templeton Holdings Trust Franklin Responsibly Sourced Gold ETF,Franklin Templeton Holdings Trust Franklin Responsibly Sourced Gold ETF,P,FGDL,Y,100.0,N,FGDL
 FGN,"F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053","F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",N,FGN,N,100.0,N,FGN
+FGSM,The Advisors? Inner Circle Fund II Frontier Asset Global Small Cap Equity ETF,The Advisors? Inner Circle Fund II Frontier Asset Global Small Cap Equity ETF,P,FGSM,Y,100.0,N,FGSM
 FHDG,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Quarterly Dynamic Buffer ETF,Z,FHDG,Y,100.0,N,FHDG
 FHEQ,Fidelity Dynamic Buffered Equity ETF Fidelity Hedged Equity ETF,Fidelity Dynamic Buffered Equity ETF Fidelity Hedged Equity ETF,Z,FHEQ,Y,100.0,N,FHEQ
 FHI,"Federated Hermes, Inc. Common Stock","Federated Hermes, Inc. Common Stock",N,FHI,N,100.0,N,FHI
@@ -2047,6 +2051,7 @@ FIHL,Fidelis Insurance Holdings Limited Common Shares,Fidelis Insurance Holdings
 FIIG,First Trust Exchange,First Trust Exchange-Traded Fund IV First Trust Intermediate Duration Investment Grade Corporate ETF,P,FIIG,Y,100.0,N,FIIG
 FILL,iShares MSCI Global Energy Producers Fund,iShares MSCI Global Energy Producers Fund,P,FILL,Y,100.0,N,FILL
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,N,FINS,N,100.0,N,FINS
+FINT,The Advisors? Inner Circle Fund II Frontier Asset Total International Equity ETF,The Advisors? Inner Circle Fund II Frontier Asset Total International Equity ETF,P,FINT,Y,100.0,N,FINT
 FINV,FinVolution Group American Depositary Shares,FinVolution Group American Depositary Shares,N,FINV,N,100.0,N,FINV
 FIRI,Tidal ETF Trust FIRE Funds Income Target ETF,Tidal ETF Trust FIRE Funds Income Target ETF,P,FIRI,Y,100.0,N,FIRI
 FIRS,Tidal ETF Trust FIRE Funds Wealth Builder ETF,Tidal ETF Trust FIRE Funds Wealth Builder ETF,P,FIRS,Y,100.0,N,FIRS
@@ -2070,6 +2075,7 @@ FLC,Flaherty & Crumrine Total Return Fund Inc Common Stock,Flaherty & Crumrine T
 FLCA,Franklin FTSE Canada ETF,Franklin FTSE Canada ETF,P,FLCA,Y,100.0,N,FLCA
 FLCB,Franklin U.S. Core Bond ETF,Franklin U.S. Core Bond ETF,P,FLCB,Y,100.0,N,FLCB
 FLCC,Federated Hermes ETF Trust Federated Hermes MDT Large Cap Core ETF,Federated Hermes ETF Trust Federated Hermes MDT Large Cap Core ETF,P,FLCC,Y,100.0,N,FLCC
+FLCE,The Advisors? Inner Circle Fund II Frontier Asset U.S. Large Cap Equity ETF,The Advisors? Inner Circle Fund II Frontier Asset U.S. Large Cap Equity ETF,P,FLCE,Y,100.0,N,FLCE
 FLCG,Federated Hermes ETF Trust Federated Hermes MDT Large Cap Growth ETF,Federated Hermes ETF Trust Federated Hermes MDT Large Cap Growth ETF,P,FLCG,Y,100.0,N,FLCG
 FLCH,Franklin FTSE China ETF,Franklin FTSE China ETF,P,FLCH,Y,100.0,N,FLCH
 FLCO,Franklin Investment Grade Corporate ETF,Franklin Investment Grade Corporate ETF,P,FLCO,Y,100.0,N,FLCO
@@ -2160,6 +2166,7 @@ FNV,Franco,Franco-Nevada Corporation,N,FNV,N,100.0,N,FNV
 FOA,Finance of America Companies Inc. Class A Common Stock,Finance of America Companies Inc. Class A Common Stock,N,FOA,N,100.0,N,FOA
 FOCT,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - October,Z,FOCT,Y,100.0,N,FOCT
 FOF,Cohen & Steers Closed,"Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock",N,FOF,N,100.0,N,FOF
+FOPC,The Advisors? Inner Circle Fund II Frontier Asset Opportunistic Credit ETF,The Advisors? Inner Circle Fund II Frontier Asset Opportunistic Credit ETF,P,FOPC,Y,100.0,N,FOPC
 FOR,Forestar Group Inc Common Stock ,Forestar Group Inc Common Stock ,N,FOR,N,100.0,N,FOR
 FORH,Formidable ETF,Formidable ETF,P,FORH,Y,100.0,N,FORH
 FOUR,"Shift4 Payments, Inc. Class A Common Stock","Shift4 Payments, Inc. Class A Common Stock",N,FOUR,N,100.0,N,FOUR
@@ -3583,7 +3590,6 @@ MBI,MBIA Inc. Common Stock,MBIA Inc. Common Stock,N,MBI,N,100.0,N,MBI
 MBND,SPDR Nuveen Municipal Bond ETF,SPDR Nuveen Municipal Bond ETF,Z,MBND,Y,100.0,N,MBND
 MBNE,SPDR Series Trust SPDR Nuveen Municipal Bond ESG ETF,SPDR Series Trust SPDR Nuveen Municipal Bond ESG ETF,Z,MBNE,Y,100.0,N,MBNE
 MBOX,Freedom Day Dividend ETF,Freedom Day Dividend ETF,P,MBOX,Y,100.0,N,MBOX
-MBS,Angel Oak Funds Trust Angel Oak Mortgage,Angel Oak Funds Trust Angel Oak Mortgage-Backed Securities ETF,P,MBS,Y,100.0,N,MBS
 MBSD,FlexShares Trust FlexShares Disciplined Duration MBS Index Fund,FlexShares Trust FlexShares Disciplined Duration MBS Index Fund,P,MBSD,Y,100.0,N,MBSD
 MBSF,Valued Advisers Trust Regan Floating Rate MBS ETF,Valued Advisers Trust Regan Floating Rate MBS ETF,P,MBSF,Y,100.0,N,MBSF
 MC,Moelis & Company Class A Common Stock,Moelis & Company Class A Common Stock,N,MC,N,100.0,N,MC
@@ -4076,7 +4082,6 @@ NURE,Nuveen Short,Nuveen Short-Term REIT ETF,Z,NURE,Y,100.0,N,NURE
 NUS,"Nu Skin Enterprises, Inc. Common Stock","Nu Skin Enterprises, Inc. Common Stock",N,NUS,N,100.0,N,NUS
 NUSA,Nuveen ESG 1,Nuveen ESG 1-5 Year U.S. Aggregate Bond ETF,P,NUSA,Y,100.0,N,NUSA
 NUSC,Nuveen ESG Small,Nuveen ESG Small-Cap ETF,Z,NUSC,Y,100.0,N,NUSC
-NUSI,NEOS ETF Trust NEOS Nasdaq,NEOS ETF Trust NEOS Nasdaq-100 Hedged Equity Income ETF,P,NUSI,Y,100.0,N,NUSI
 NUV,"Nuveen Municipal Value Fund, Inc. Common Stock","Nuveen Municipal Value Fund, Inc. Common Stock",N,NUV,N,100.0,N,NUV
 NUVB,Nuvation Bio Inc. Class A Common Stock,Nuvation Bio Inc. Class A Common Stock,N,NUVB,N,100.0,N,NUVB
 NUVB.W,Nuvation Bio Inc. Warrants,Nuvation Bio Inc. Warrants,N,NUVB.WS,N,100.0,N,NUVB+
@@ -4329,6 +4334,7 @@ PDI,PIMCO Dynamic Income Fund Common Stock,PIMCO Dynamic Income Fund Common Stoc
 PDM,"Piedmont Office Realty Trust, Inc. Class A Common Stock","Piedmont Office Realty Trust, Inc. Class A Common Stock",N,PDM,N,100.0,N,PDM
 PDN,Invesco FTSE RAFI Developed Markets ex,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,P,PDN,Y,100.0,N,PDN
 PDO,PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest,PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest,N,PDO,N,100.0,N,PDO
+PDPA,Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029,Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029,N,PDPA,N,100.0,N,PDPA
 PDS,Precision Drilling Corporation Common Stock,Precision Drilling Corporation Common Stock,N,PDS,N,100.0,N,PDS
 PDT,John Hancock Premium Dividend Fund,John Hancock Premium Dividend Fund,N,PDT,N,100.0,N,PDT
 PDX,PIMCO Dynamic Income Strategy Fund Common Shares of Beneficial Interest,PIMCO Dynamic Income Strategy Fund Common Shares of Beneficial Interest,N,PDX,N,100.0,N,PDX
@@ -5837,7 +5843,6 @@ UWMC.W,UWM Holdings Corporation Warrant,UWM Holdings Corporation Warrant,N,UWMC.
 UXI,ProShares Ultra Industrials,ProShares Ultra Industrials,P,UXI,Y,100.0,N,UXI
 UXOC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - October,Z,UXOC,Y,100.0,N,UXOC
 UYG,ProShares Ultra Financials,ProShares Ultra Financials,P,UYG,Y,100.0,N,UYG
-UYLD,Angel Oak Funds Trust Angel Oak UltraShort Income ETF,Angel Oak Funds Trust Angel Oak UltraShort Income ETF,P,UYLD,Y,100.0,N,UYLD
 UYM,ProShares Ultra Materials,ProShares Ultra Materials,P,UYM,Y,100.0,N,UYM
 UZD,United States Cellular Corporation 6.250% Senior Notes due 2069,United States Cellular Corporation 6.250% Senior Notes due 2069,N,UZD,N,100.0,N,UZD
 UZE,United States Cellular Corporation 5.500% Senior Notes due 2070,United States Cellular Corporation 5.500% Senior Notes due 2070,N,UZE,N,100.0,N,UZE
