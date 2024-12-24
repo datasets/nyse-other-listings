@@ -73,7 +73,6 @@ AGM$F,Federal Agricultural Mortgage Corporation 5.250% Non
 AGM$G,Federal Agricultural Mortgage Corporation 4.875% Non
 AGM.A,Federal Agricultural Mortgage Corporation Common Stock
 AGO,Assured Guaranty Ltd. Common Stock
-AGR,"Avangrid, Inc. Common Stock"
 AGRO,Adecoagro S.A. Common Shares
 AGS,"PlayAGS, Inc. Common Stock"
 AGX,"Argan, Inc. Common Stock"
@@ -1809,7 +1808,6 @@ NCV$A,Virtus Convertible & Income Fund 5.625% Series A Cumulative Preferred Shar
 NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest
 NCZ$A,Virtus Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares
 NDMO,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest
-NDP,"Tortoise Energy Independence Fund, Inc. Common Stock"
 NE,Noble Corporation plc A Ordinary Shares
 NE.A,Noble Corporation plc Tranche 2 Warrants
 NE.W,Noble Corporation plc Tranche 1 Warrants
@@ -1899,7 +1897,6 @@ NSA$B,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Pr
 NSC,Norfolk Southern Corporation Common Stock
 NSP,"Insperity, Inc. Common Stock"
 NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares
-NTG,"Tortoise Midstream Energy Fund, Inc. Common Stock"
 NTR,Nutrien Ltd. Common Shares
 NTST,NetSTREIT Corp. Common Stock
 NTZ,"Natuzzi, S.p.A."
@@ -1984,8 +1981,6 @@ ORN,"Orion Group Holdings, Inc. Common"
 OSCR,"Oscar Health, Inc. Class A Common Stock"
 OSK,Oshkosh Corporation (Holding Company)Common Stock
 OTIS,Otis Worldwide Corporation Common Stock 
-OUST,"Ouster, Inc. Common Stock"
-OUST.W,"Ouster, Inc. Warrants"
 OUT,OUTFRONT Media Inc. Common Stock
 OVV,Ovintiv Inc. (DE)
 OWL,Blue Owl Capital Inc. Class A Common Stock
@@ -2117,7 +2112,6 @@ PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062"
 PRI,"Primerica, Inc. Common Stock"
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029"
 PRIF$F,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027"
-PRIF$G,"Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026"
 PRIF$H,"Priority Income Fund, Inc. 6.00% Series H Term Preferred Stock due 2026"
 PRIF$I,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028"
 PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028"
@@ -2600,7 +2594,7 @@ TPR,"Tapestry, Inc. Common Stock"
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026"
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock
 TPX,"Tempur Sealy International, Inc. Common Stock"
-TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc Common Stock"
+TPZ,Tortoise Capital Series Trust Tortoise Power and Energy Infrastructure Fund
 TR,"Tootsie Roll Industries, Inc. Common Stock"
 TRAK,"ReposiTrak, Inc. Common Stock"
 TRC,Tejon Ranch Co Common Stock
@@ -2631,7 +2625,6 @@ TT,Trane Technologies plc
 TTC,Toro Company (The) Common Stock
 TTE,TotalEnergies SE
 TTI,"Tetra Technologies, Inc. Common Stock"
-TTP,"Tortoise Pipeline & Energy Fund, Inc. Common Stock"
 TU,Telus Corporation Ordinary Shares
 TUYA,"Tuya Inc. American Depositary Shares, each representing one Class A Ordinary Share"
 TV,Grupo Televisa S.A.B. Common Stock
