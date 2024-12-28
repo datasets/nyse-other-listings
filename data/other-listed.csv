@@ -1110,6 +1110,7 @@ COOK,"Traeger, Inc. Common Stock","Traeger, Inc. Common Stock",N,COOK,N,100.0,N,
 COP,ConocoPhillips Common Stock,ConocoPhillips Common Stock,N,COP,N,100.0,N,COP
 COPA,Themes ETF Trust Themes Copper Miners ETF,Themes ETF Trust Themes Copper Miners ETF,Z,COPA,Y,100.0,N,COPA
 COPX,Global X Copper Miners ETF,Global X Copper Miners ETF,P,COPX,Y,100.0,N,COPX
+COPY,"The RBB Fund Trust Tweedy, Browne Insider + Value ETF","The RBB Fund Trust Tweedy, Browne Insider + Value ETF",P,COPY,Y,100.0,N,COPY
 COR,"Cencora, Inc. Common Stock","Cencora, Inc. Common Stock",N,COR,N,100.0,N,COR
 CORN,Teucrium Corn Fund ETV,Teucrium Corn Fund ETV,P,CORN,Y,100.0,N,CORN
 CORP,Pimco Investment Grade Corporate Bond Index Exchange,Pimco Investment Grade Corporate Bond Index Exchange-Traded Fund,P,CORP,Y,100.0,N,CORP
@@ -1650,6 +1651,8 @@ EFXT,Enerflex Ltd Common Shares,Enerflex Ltd Common Shares,N,EFXT,N,100.0,N,EFXT
 EFZ,ProShares Short MSCI EAFE,ProShares Short MSCI EAFE,P,EFZ,Y,100.0,N,EFZ
 EG,"Everest Group, Ltd. Common Stock","Everest Group, Ltd. Common Stock",N,EG,N,100.0,N,EG
 EGF,"Blackrock Enhanced Government Fund, Inc. Common Stock","Blackrock Enhanced Government Fund, Inc. Common Stock",N,EGF,N,100.0,N,EGF
+EGGS,Tidal Trust III NestYield Total Return Guard ETF,Tidal Trust III NestYield Total Return Guard ETF,P,EGGS,Y,100.0,N,EGGS
+EGGY,Tidal Trust III NestYield Dynamic Income Shield ETF,Tidal Trust III NestYield Dynamic Income Shield ETF,P,EGGY,Y,100.0,N,EGGY
 EGO,Eldorado Gold Corporation Ordinary Shares,Eldorado Gold Corporation Ordinary Shares,N,EGO,N,100.0,N,EGO
 EGP,"EastGroup Properties, Inc. Common Stock","EastGroup Properties, Inc. Common Stock",N,EGP,N,100.0,N,EGP
 EGUS,iShares Trust iShares ESG Aware MSCI USA Growth ETF,iShares Trust iShares ESG Aware MSCI USA Growth ETF,Z,EGUS,Y,100.0,N,EGUS
@@ -2842,6 +2845,7 @@ IDU,iShares U.S. Utilities ETF,iShares U.S. Utilities ETF,P,IDU,Y,100.0,N,IDU
 IDUB,Aptus International Enhanced Yield ETF,Aptus International Enhanced Yield ETF,Z,IDUB,Y,100.0,N,IDUB
 IDV,iShares International Select Dividend ETF,iShares International Select Dividend ETF,Z,IDV,Y,100.0,N,IDV
 IDVO,Amplify CWP International Enhanced Dividend Income ETF,Amplify CWP International Enhanced Dividend Income ETF,P,IDVO,Y,100.0,N,IDVO
+IDVZ,Elevation Series Trust The Opal International Dividend Income ETF,Elevation Series Trust The Opal International Dividend Income ETF,Z,IDVZ,Y,100.0,N,IDVZ
 IDX,VanEck Indonesia Index ETF,VanEck Indonesia Index ETF,P,IDX,Y,100.0,N,IDX
 IE,Ivanhoe Electric Inc. Common Stock,Ivanhoe Electric Inc. Common Stock,A,IE,N,100.0,N,IE
 IEDI,iShares U.S. Consumer Focused ETF,iShares U.S. Consumer Focused ETF,Z,IEDI,Y,100.0,N,IEDI
@@ -3038,7 +3042,6 @@ IVOL,Quadratic Interest Rate Volatility and Inflation Hedge ETF,Quadratic Intere
 IVOO,Vanguard S&P Mid,Vanguard S&P Mid-Cap 400 ETF,P,IVOO,Y,100.0,N,IVOO
 IVOV,Vanguard S&P Mid,Vanguard S&P Mid-Cap 400 Value ETF,P,IVOV,Y,100.0,N,IVOV
 IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,INVESCO MORTGAGE CAPITAL INC Common Stock,N,IVR,N,100.0,N,IVR
-IVR$B,Invesco Mortgage Capital Inc. Preferred Series B Cum Fxd to Fltg,Invesco Mortgage Capital Inc. Preferred Series B Cum Fxd to Fltg,N,IVRpB,N,100.0,N,IVR-B
 IVR$C,INVESCO MORTGAGE CAPITAL INC 7.5% Fixed,"INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share",N,IVRpC,N,100.0,N,IVR-C
 IVRA,Invesco Real Assets ESG ETF,Invesco Real Assets ESG ETF,Z,IVRA,Y,100.0,N,IVRA
 IVRS,iShares Trust iShares Future Metaverse Tech and Communications ETF,iShares Trust iShares Future Metaverse Tech and Communications ETF,P,IVRS,Y,100.0,N,IVRS
