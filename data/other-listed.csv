@@ -560,7 +560,7 @@ BEMB,iShares Trust iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,iShar
 BEN,"Franklin Resources, Inc. Common Stock","Franklin Resources, Inc. Common Stock",N,BEN,N,100.0,N,BEN
 BEP,Brookfield Renewable Partners L.P. Limited Partnership Units,Brookfield Renewable Partners L.P. Limited Partnership Units,N,BEP,N,100.0,N,BEP
 BEP$A,"Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17","Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17",N,BEPpA,N,100.0,N,BEP-A
-BEPC,Brookfield Renewable Corporation Class A Subordinate Voting Shares ,Brookfield Renewable Corporation Class A Subordinate Voting Shares ,N,BEPC,N,100.0,N,BEPC
+BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,N,BEPC,N,100.0,N,BEPC
 BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,N,BEPH,N,100.0,N,BEPH
 BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,N,BEPI,N,100.0,N,BEPI
 BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,N,BEPJ,N,100.0,N,BEPJ
@@ -628,7 +628,7 @@ BIO.B,Bio,"Bio-Rad Laboratories, Inc. Class B  Common Stock",N,BIO.B,N,100.0,N,B
 BIP,Brookfield Infrastructure Partners LP Limited Partnership Units,Brookfield Infrastructure Partners LP Limited Partnership Units,N,BIP,N,100.0,N,BIP
 BIP$A,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13","Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13",N,BIPpA,N,100.0,N,BIP-A
 BIP$B,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14","Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14",N,BIPpB,N,100.0,N,BIP-B
-BIPC,Brookfield Infrastructure Corporation ,Brookfield Infrastructure Corporation ,N,BIPC,N,100.0,N,BIPC
+BIPC,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,N,BIPC,N,100.0,N,BIPC
 BIPH,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,N,BIPH,N,100.0,N,BIPH
 BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,N,BIPI,N,100.0,N,BIPI
 BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,N,BIPJ,N,100.0,N,BIPJ
@@ -4676,7 +4676,7 @@ QVOY,Q3 All,Q3 All-Season Active Rotation ETF Q3 All-Season Active Rotation ETF,
 QWLD,SPDR MSCI World StrategicFactors ETF,SPDR MSCI World StrategicFactors ETF,P,QWLD,Y,100.0,N,QWLD
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,Brookfield Real Assets Income Fund Inc. Common Stock,N,RA,N,100.0,N,RA
-RAAX,VanEck Inflation Allocation ETF,VanEck Inflation Allocation ETF,P,RAAX,Y,100.0,N,RAAX
+RAAX,VanEck Real Assets ETF,VanEck Real Assets ETF,P,RAAX,Y,100.0,N,RAAX
 RACE,Ferrari N.V. Common Shares,Ferrari N.V. Common Shares,N,RACE,N,100.0,N,RACE
 RAFE,PIMCO RAFI ESG U.S. ETF,PIMCO RAFI ESG U.S. ETF,P,RAFE,Y,100.0,N,RAFE
 RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stock",N,RAMP,N,100.0,N,RAMP
@@ -4912,7 +4912,6 @@ S,"SentinelOne, Inc. Class A Common Stock","SentinelOne, Inc. Class A Common Sto
 SA,"Seabridge Gold, Inc. Ordinary Shares (Canada)","Seabridge Gold, Inc. Ordinary Shares (Canada)",N,SA,N,100.0,N,SA
 SAA,ProShares Ultra SmallCap600,ProShares Ultra SmallCap600,P,SAA,Y,100.0,N,SAA
 SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,N,SABA,N,100.0,N,SABA
-SACC,Sachem Capital Corp. 6.875% Notes due 2024,Sachem Capital Corp. 6.875% Notes due 2024,A,SACC,N,100.0,N,SACC
 SACH,Sachem Capital Corp. Common Shares,Sachem Capital Corp. Common Shares,A,SACH,N,100.0,N,SACH
 SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,A,SACHpA,N,100.0,N,SACH-A
 SAEF,Schwab Strategic Trust Schwab Ariel ESG ETF,Schwab Strategic Trust Schwab Ariel ESG ETF,P,SAEF,Y,100.0,N,SAEF
@@ -6004,6 +6003,7 @@ WAB,Westinghouse Air Brake Technologies Corporation Common Stock,Westinghouse Ai
 WAL,Western Alliance Bancorporation Common Stock (DE),Western Alliance Bancorporation Common Stock (DE),N,WAL,N,100.0,N,WAL
 WAL$A,"Western Alliance Bancorporation Depositary Shares, Each Representing a 1/400th Interest in a Share of 4.250% Fixed","Western Alliance Bancorporation Depositary Shares, Each Representing a 1/400th Interest in a Share of 4.250% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",N,WALpA,N,100.0,N,WAL-A
 WANT,Direxion Daily Consumer Discretionary Bull 3X Shares,Direxion Daily Consumer Discretionary Bull 3X Shares,P,WANT,Y,100.0,N,WANT
+WAR,ETF Series Solutions U.S. Global Technology and Aerospace & Defense ETF,ETF Series Solutions U.S. Global Technology and Aerospace & Defense ETF,P,WAR,Y,100.0,N,WAR
 WAT,Waters Corporation Common Stock,Waters Corporation Common Stock,N,WAT,N,100.0,N,WAT
 WBAT,WisdomTree Trust WisdomTree Battery Value Chain and Innovation Fund,WisdomTree Trust WisdomTree Battery Value Chain and Innovation Fund,Z,WBAT,Y,100.0,N,WBAT
 WBIF,WBI BullBear Value 3000 ETF,WBI BullBear Value 3000 ETF,P,WBIF,Y,100.0,N,WBIF
@@ -6036,7 +6036,6 @@ WEBS,Direxion Daily Dow Jones Internet Bear 3X Shares,Direxion Daily Dow Jones I
 WEC,"WEC Energy Group, Inc. Common Stock","WEC Energy Group, Inc. Common Stock",N,WEC,N,100.0,N,WEC
 WEED,Listed Funds Trust Roundhill Cannabis ETF,Listed Funds Trust Roundhill Cannabis ETF,Z,WEED,Y,100.0,N,WEED
 WEEL,Tidal Trust II Peerless Option Income Wheel ETF,Tidal Trust II Peerless Option Income Wheel ETF,P,WEEL,Y,100.0,N,WEEL
-WEIX,Dynamic Shares Trust Dynamic Short Short,Dynamic Shares Trust Dynamic Short Short-Term Volatility Futures ETF,Z,WEIX,Y,100.0,N,WEIX
 WELL,Welltower Inc. Common Stock,Welltower Inc. Common Stock,N,WELL,N,100.0,N,WELL
 WES,"Western Midstream Partners, LP Common Units Representing Limited Partner Interests","Western Midstream Partners, LP Common Units Representing Limited Partner Interests",N,WES,N,100.0,N,WES
 WEX,WEX Inc. common stock,WEX Inc. common stock,N,WEX,N,100.0,N,WEX
