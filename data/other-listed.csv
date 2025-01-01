@@ -1448,7 +1448,6 @@ DMYY.W,"dMY Squared Technology Group, Inc. Redeemable Warrants, each whole warra
 DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock","Ginkgo Bioworks Holdings, Inc. Class A Common Stock",N,DNA,N,100.0,N,DNA
 DNB,"Dun & Bradstreet Holdings, Inc. Common Stock","Dun & Bradstreet Holdings, Inc. Common Stock",N,DNB,N,100.0,N,DNB
 DNL,WisdomTree Global ex,WisdomTree Global ex-US Quality Dividend Growth Fund,P,DNL,Y,100.0,N,DNL
-DNMR,"Danimer Scientific, Inc. Common Stock","Danimer Scientific, Inc. Common Stock",N,DNMR,N,100.0,N,DNMR
 DNN,Denison Mines Corp Ordinary Shares (Canada),Denison Mines Corp Ordinary Shares (Canada),A,DNN,N,100.0,N,DNN
 DNOV,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - November,Z,DNOV,Y,100.0,N,DNOV
 DNOW,DNOW Inc. Common Stock,DNOW Inc. Common Stock,N,DNOW,N,100.0,N,DNOW
@@ -1563,7 +1562,7 @@ EAPR,Innovator Emerging Markets Power Buffer ETF April,Innovator Emerging Market
 EARN,Ellington Credit Company Common Shares of Beneficial Interest,Ellington Credit Company Common Shares of Beneficial Interest,N,EARN,N,100.0,N,EARN
 EASG,Xtrackers MSCI EAFE ESG Leaders Equity ETF,Xtrackers MSCI EAFE ESG Leaders Equity ETF,P,EASG,Y,100.0,N,EASG
 EAT,"Brinker International, Inc. Common Stock","Brinker International, Inc. Common Stock",N,EAT,N,100.0,N,EAT
-EATV,Advisors Series Trust VegTech Plant,Advisors Series Trust VegTech Plant-based Innovation & Climate ETF,P,EATV,Y,100.0,N,EATV
+EATV,Advisors Series Trust VegTech Plant,Advisors Series Trust VegTech Plant-based Innovation & Climate ETF,Z,EATV,Y,100.0,N,EATV
 EATZ,AdvisorShares Restaurant ETF,AdvisorShares Restaurant ETF,P,EATZ,Y,100.0,N,EATZ
 EB,"Eventbrite, Inc. Class A Common Stock","Eventbrite, Inc. Class A Common Stock",N,EB,N,100.0,N,EB
 EBF,"Ennis, Inc. Common Stock","Ennis, Inc. Common Stock",N,EBF,N,100.0,N,EBF
@@ -4203,6 +4202,7 @@ OPAD,Offerpad Solutions Inc. Class A Common Stock,Offerpad Solutions Inc. Class 
 OPER,ETF Series Solutions ETF ClearShares Ultra,ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF,P,OPER,Y,100.0,N,OPER
 OPFI,OppFi Inc. Class A Common Stock,OppFi Inc. Class A Common Stock,N,OPFI,N,100.0,N,OPFI
 OPFI.W,OppFi Inc. Warrants,OppFi Inc. Warrants,N,OPFI.WS,N,100.0,N,OPFI+
+OPHC,"OptimumBank Holdings, Inc. Common Stock","OptimumBank Holdings, Inc. Common Stock",A,OPHC,N,100.0,N,OPHC
 OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",N,OPP,N,100.0,N,OPP
 OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock",N,OPPpA,N,100.0,N,OPP-A
 OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock",N,OPPpB,N,100.0,N,OPP-B
