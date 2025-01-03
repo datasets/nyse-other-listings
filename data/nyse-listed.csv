@@ -7,6 +7,7 @@ AACT.W,"Ares Acquisition Corporation II Redeemable Warrants, each whole warrant 
 AAM,AA Mission Acquisition Corp. Class A Ordinary Shares
 AAM.U,"AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one"
 AAM.W,"AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share"
+AAMI,Acadian Asset Management Inc. Common Stock
 AAP,Advance Auto Parts Inc.
 AAT,"American Assets Trust, Inc. Common Stock"
 AB,AllianceBernstein Holding L.P.  Units
@@ -78,7 +79,6 @@ AGS,"PlayAGS, Inc. Common Stock"
 AGX,"Argan, Inc. Common Stock"
 AHH,"Armada Hoffler Properties, Inc. Common Stock"
 AHH$A,"Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock"
-AHL$C,Aspen Insurance Holdings Limited 5.95% Fixed
 AHL$D,Aspen Insurance Holdings Limited 5.625% Perpetual Non
 AHL$E,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 5.625% Perpetual Non"
 AHL$F,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1,000th Interest in a 7.00% Perpetual Non"
@@ -446,7 +446,6 @@ BRW,Saba Capital Income & Opportunities Fund SBI
 BRX,Brixmor Property Group Inc. Common Stock
 BSAC,Banco Santander 
 BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit"
-BSIG,BrightSphere Investment Group Inc. Common Stock
 BSL,Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest
 BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests"
 BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest
@@ -567,7 +566,7 @@ CIEN,Ciena Corporation Common Stock
 CIF,MFS Intermediate High Income Fund Common Stock
 CIG,Comp En De Mn Cemig ADS American Depositary Shares
 CIG.C,Comp En De Mn Cemig ADS American Depositary Receipts
-CII,"Blackrock Capital and Income Fund, Inc."
+CII,"BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock"
 CIM,Chimera Investment Corporation Common Stock
 CIM$A,Chimera Investment Corporation 8.00% Series A Cumulative Redeemable Preferred Stock
 CIM$B,Chimera Investment Corporation 8.00% Series B Fixed
@@ -803,7 +802,6 @@ DOUG,Douglas Elliman Inc. Common Stock
 DOV,Dover Corporation Common Stock
 DOW,Dow Inc. Common Stock 
 DPG,Duff & Phelps Utility and Infrastructure Fund Inc.
-DPZ,Domino's Pizza Inc Common Stock
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares"
 DRD,DRDGOLD Limited American Depositary Shares
 DRH,Diamondrock Hospitality Company Common Stock
@@ -1627,7 +1625,6 @@ MCN,XAI Madison Equity Premium Income Fund Common Shares
 MCO,Moody's Corporation Common Stock
 MCR,MFS Charter Income Trust Common Stock
 MCS,Marcus Corporation (The) Common Stock
-MCW,"Mister Car Wash, Inc. Common Stock"
 MCY,Mercury General Corporation Common Stock
 MD,"Pediatrix Medical Group, Inc. Common Stock"
 MDST,Ultimus Managers Trust Westwood Salient Enhanced Midstream Income ETF
@@ -2121,6 +2118,7 @@ PRM,"Perimeter Solutions, SA Common Stock"
 PRMB,Primo Brands Corporation Class A Common Stock
 PRO,"PROS Holdings, Inc. Common Stock"
 PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058"
+PRSU,"Pursuit Attractions and Hospitality, Inc. Common Stock"
 PRT,PermRock Royalty Trust Trust Units
 PRU,"Prudential Financial, Inc. Common Stock"
 PRVS,Parnassus Income Funds Parnassus Value Select ETF
@@ -2413,7 +2411,7 @@ SOL,"Emeren Group Ltd American Depositary Shares, each representing 10 shares"
 SOLV,Solventum Corporation Common Stock
 SON,Sonoco Products Company Common Stock
 SONY,Sony Group Corporation American Depositary Shares 
-SOR,"Source Capital, Inc. Common Stock"
+SOR,"Source Capital, Inc. Cmn Shs of BI"
 SOS,"SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares"
 SPB,"Spectrum Brands Holdings, Inc. Common Stock"
 SPCE,"Virgin Galactic Holdings, Inc. Common Stock"
@@ -2758,7 +2756,6 @@ VTN,Invesco Trust for Investment Grade New York Municipals Common Stock
 VTOL,"Bristow Group, Inc. Common Stock"
 VTR,"Ventas, Inc. Common Stock"
 VTS,"Vitesse Energy, Inc. Common Stock"
-VVI,Viad Corp Common Stock
 VVR,Invesco Senior Income Trust Common Stock (DE)
 VVV,Valvoline Inc. Common Stock
 VVX,"V2X, Inc. Common Stock"
