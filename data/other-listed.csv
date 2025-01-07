@@ -2335,7 +2335,6 @@ GDXJ,VanEck Junior Gold Miners ETF,VanEck Junior Gold Miners ETF,P,GDXJ,Y,100.0,
 GDXU,MicroSectors Gold Miners 3X Leveraged ETN,MicroSectors Gold Miners 3X Leveraged ETN,P,GDXU,Y,100.0,N,GDXU
 GDXY,Tidal Trust II YieldMax Gold Miners Option Income Strategy ETF,Tidal Trust II YieldMax Gold Miners Option Income Strategy ETF,P,GDXY,Y,100.0,N,GDXY
 GE,GE Aerospace Common Stock,GE Aerospace Common Stock,N,GE,N,100.0,N,GE
-GEAR,"Revelyst, Inc. Common Stock","Revelyst, Inc. Common Stock",N,GEAR,N,100.0,N,GEAR
 GEF,Greif Inc. Class A Common Stock,Greif Inc. Class A Common Stock,N,GEF,N,100.0,N,GEF
 GEF.B,"Greif, Inc. Corporation Class B Common Stock","Greif, Inc. Corporation Class B Common Stock",N,GEF.B,N,100.0,N,GEF.B
 GEL,"Genesis Energy, L.P. Common Units","Genesis Energy, L.P. Common Units",N,GEL,N,100.0,N,GEL
@@ -2459,7 +2458,7 @@ GOEX,Global X Gold Explorers ETF,Global X Gold Explorers ETF,P,GOEX,Y,100.0,N,GO
 GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,N,GOF,N,100.0,N,GOF
 GOLD,Barrick Gold Corporation Common Stock (BC),Barrick Gold Corporation Common Stock (BC),N,GOLD,N,100.0,N,GOLD
 GOLF,Acushnet Holdings Corp. Common Stock,Acushnet Holdings Corp. Common Stock,N,GOLF,N,100.0,N,GOLF
-GOLY,Strategy Shares Gold,Strategy Shares Gold-Hedged Bond ETF,Z,GOLY,Y,100.0,N,GOLY
+GOLY,Strategy Shares Gold Enhanced Yield ETF,Strategy Shares Gold Enhanced Yield ETF,Z,GOLY,Y,100.0,N,GOLY
 GOOP,Kurv Yield Premium Strategy Google (GOOGL) ETF,Kurv Yield Premium Strategy Google (GOOGL) ETF,Z,GOOP,Y,100.0,N,GOOP
 GOOS,Canada Goose Holdings Inc. Subordinate Voting Shares,Canada Goose Holdings Inc. Subordinate Voting Shares,N,GOOS,N,100.0,N,GOOS
 GOOX,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long Alphabet Daily Target ETF,Z,GOOX,Y,100.0,N,GOOX
@@ -2653,7 +2652,6 @@ HIPS,GraniteShares HIPS US High Income ETF,GraniteShares HIPS US High Income ETF
 HIW,"Highwoods Properties, Inc. Common Stock","Highwoods Properties, Inc. Common Stock",N,HIW,N,100.0,N,HIW
 HIX,Western Asset High Income Fund II Inc. Common Stock,Western Asset High Income Fund II Inc. Common Stock,N,HIX,N,100.0,N,HIX
 HIYS,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco High Yield Select ETF,Z,HIYS,Y,100.0,N,HIYS
-HJAN,Innovator ETFs Trust Innovator Premium Income 9 Buffer ETF ,Innovator ETFs Trust Innovator Premium Income 9 Buffer ETF - January,Z,HJAN,Y,100.0,N,HJAN
 HJUL,SHL Telemedicine Ltd Innovator Premium Income 9 Buffer ETF ,SHL Telemedicine Ltd Innovator Premium Income 9 Buffer ETF - July,Z,HJUL,Y,100.0,N,HJUL
 HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),N,HKD,N,100.0,N,HKD
 HKND,Humankind US Stock ETF,Humankind US Stock ETF,P,HKND,Y,100.0,N,HKND
@@ -3101,11 +3099,9 @@ JAAA,Janus Henderson AAA CLO ETF,Janus Henderson AAA CLO ETF,P,JAAA,Y,100.0,N,JA
 JACS.U,"Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one","Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one-tenth (1/10) of one Class A ordinary share",N,JACS.U,N,100.0,N,JACS=
 JADE,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Developing Markets Equity ETF,P,JADE,Y,100.0,N,JADE
 JAJL,SHL Telemedicine Ltd Innovator Equity Defined Protection ETF ,SHL Telemedicine Ltd Innovator Equity Defined Protection ETF - 6mo Jan/Jul,Z,JAJL,Y,100.0,N,JAJL
-JAND,Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF - January,Z,JAND,Y,100.0,N,JAND
 JANH,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - January,Z,JANH,Y,100.0,N,JANH
 JANJ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - January,Z,JANJ,Y,100.0,N,JANJ
 JANP,PGIM US Large,PGIM US Large-Cap Buffer 12 ETF - January,Z,JANP,Y,100.0,N,JANP
-JANQ,Innovator ETFs Trust Innovator Premium Income 40 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 40 Barrier ETF - January,Z,JANQ,Y,100.0,N,JANQ
 JANT,AllianzIM U.S. Large Cap Buffer10 Jan ETF,AllianzIM U.S. Large Cap Buffer10 Jan ETF,P,JANT,Y,100.0,N,JANT
 JANU,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Jan ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Jan ETF,Z,JANU,Y,100.0,N,JANU
 JANW,AllianzIM U.S. Large Cap Buffer20 Jan ETF,AllianzIM U.S. Large Cap Buffer20 Jan ETF,P,JANW,Y,100.0,N,JANW
@@ -3401,12 +3397,15 @@ LCR,Leuthold Core ETF,Leuthold Core ETF,P,LCR,Y,100.0,N,LCR
 LCTD,BlackRock World ex U.S. Carbon Transition Readiness ETF,BlackRock World ex U.S. Carbon Transition Readiness ETF,P,LCTD,Y,100.0,N,LCTD
 LCTU,BlackRock U.S. Carbon Transition Readiness ETF,BlackRock U.S. Carbon Transition Readiness ETF,P,LCTU,Y,100.0,N,LCTU
 LCTX,"Lineage Cell Therapeutics, Inc. Common Stock","Lineage Cell Therapeutics, Inc. Common Stock",A,LCTX,N,100.0,N,LCTX
+LDDR,Stone Ridge Trust Stone Ridge 2035 Term Income ETF,Stone Ridge Trust Stone Ridge 2035 Term Income ETF,Z,LDDR,Y,100.0,N,LDDR
+LDER,Stone Ridge Trust Stone Ridge 2040 Term Income ETF,Stone Ridge Trust Stone Ridge 2040 Term Income ETF,Z,LDER,Y,100.0,N,LDER
 LDI,"loanDepot, Inc. Class A Common Stock","loanDepot, Inc. Class A Common Stock",N,LDI,N,100.0,N,LDI
 LDOS,"Leidos Holdings, Inc. Common Stock","Leidos Holdings, Inc. Common Stock",N,LDOS,N,100.0,N,LDOS
 LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.","Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",N,LDP,N,100.0,N,LDP
 LDRC,iShares Trust iShares iBonds 1,iShares Trust iShares iBonds 1-5 Year Corporate Ladder ETF,P,LDRC,Y,100.0,N,LDRC
 LDRH,iShares Trust iShares iBonds 1,iShares Trust iShares iBonds 1-5 Year High Yield  and Income Ladder ETF,P,LDRH,Y,100.0,N,LDRH
 LDRI,iShares Trust iShares iBonds 1,iShares Trust iShares iBonds 1-5 Year TIPS Ladder ETF,P,LDRI,Y,100.0,N,LDRI
+LDRR,Stone Ridge Trust Stone Ridge 2045 Term Income ETF,Stone Ridge Trust Stone Ridge 2045 Term Income ETF,Z,LDRR,Y,100.0,N,LDRR
 LDRT,iShares Trust iShares iBonds 1,iShares Trust iShares iBonds 1-5 Year Treasury Ladder ETF,P,LDRT,Y,100.0,N,LDRT
 LDUR,PIMCO Enhanced Low Duration Active Exchange,PIMCO Enhanced Low Duration Active Exchange-Traded Fund,P,LDUR,Y,100.0,N,LDUR
 LEA,Lear Corporation Common Stock,Lear Corporation Common Stock,N,LEA,N,100.0,N,LEA
@@ -3437,6 +3436,8 @@ LFAW,Stone Ridge 2060 Longevity Income ETF,Stone Ridge 2060 Longevity Income ETF
 LFAX,Stone Ridge 2061 Longevity Income ETF,Stone Ridge 2061 Longevity Income ETF,Z,LFAX,Y,100.0,N,LFAX
 LFAZ,Stone Ridge 2062 Longevity Income ETF,Stone Ridge 2062 Longevity Income ETF,Z,LFAZ,Y,100.0,N,LFAZ
 LFBB,Stone Ridge 2063 Longevity Income ETF,Stone Ridge 2063 Longevity Income ETF,Z,LFBB,Y,100.0,N,LFBB
+LFBD,Stone Ridge Trust Stone Ridge 2064 Longevity Income ETF,Stone Ridge Trust Stone Ridge 2064 Longevity Income ETF,Z,LFBD,Y,100.0,N,LFBD
+LFBE,Stone Ridge Trust Stone Ridge 2065 Longevity Income ETF,Stone Ridge Trust Stone Ridge 2065 Longevity Income ETF,Z,LFBE,Y,100.0,N,LFBE
 LFDR,Stone Ridge Trust Stone Ridge Durable Income ETF,Stone Ridge Trust Stone Ridge Durable Income ETF,Z,LFDR,Y,100.0,N,LFDR
 LFEQ,VanEck Long/Flat Trend ETF,VanEck Long/Flat Trend ETF,P,LFEQ,Y,100.0,N,LFEQ
 LFT,"Lument Finance Trust, Inc. Common Stock","Lument Finance Trust, Inc. Common Stock",N,LFT,N,100.0,N,LFT
@@ -3469,6 +3470,8 @@ LIAU,Stone Ridge 2060 Inflation,Stone Ridge 2060 Inflation-Protected Longevity I
 LIAV,Stone Ridge 2061 Inflation,Stone Ridge 2061 Inflation-Protected Longevity Income ETF,Z,LIAV,Y,100.0,N,LIAV
 LIAW,Stone Ridge 2062 Inflation,Stone Ridge 2062 Inflation-Protected Longevity Income ETF,Z,LIAW,Y,100.0,N,LIAW
 LIAX,Stone Ridge 2063 Inflation,Stone Ridge 2063 Inflation-Protected Longevity Income ETF,Z,LIAX,Y,100.0,N,LIAX
+LIAY,Stone Ridge Trust Stone Ridge 2064 Inflation,Stone Ridge Trust Stone Ridge 2064 Inflation-Protected Longevity Income ETF,Z,LIAY,Y,100.0,N,LIAY
+LIBD,Stone Ridge Trust Stone Ridge 2065 Inflation,Stone Ridge Trust Stone Ridge 2065 Inflation-Protected Longevity Income ETF,Z,LIBD,Y,100.0,N,LIBD
 LICY,Li,Li-Cycle Holdings Corp. Common Shares,N,LICY,N,100.0,N,LICY
 LII,"Lennox International, Inc. Common Stock","Lennox International, Inc. Common Stock",N,LII,N,100.0,N,LII
 LIMI,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Z,LIMI,Y,100.0,N,LIMI
@@ -6142,7 +6145,6 @@ XCOR,FundX Investment Trust FundX ETF,FundX Investment Trust FundX ETF,P,XCOR,Y,
 XDAP,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - April,Z,XDAP,Y,100.0,N,XDAP
 XDAT,Franklin Exponential Data ETF,Franklin Exponential Data ETF,Z,XDAT,Y,100.0,N,XDAT
 XDEC,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December,Z,XDEC,Y,100.0,N,XDEC
-XDJA,Innovator ETFs Trust Innovator U.S. Equity Accelerated ETF ,Innovator ETFs Trust Innovator U.S. Equity Accelerated ETF - January,Z,XDJA,Y,100.0,N,XDJA
 XDJL,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - July,Z,XDJL,Y,100.0,N,XDJL
 XDOC,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - October,Z,XDOC,Y,100.0,N,XDOC
 XDQQ,Innovator Growth Accelerated ETF ,Innovator Growth Accelerated ETF - Quarterly,Z,XDQQ,Y,100.0,N,XDQQ
