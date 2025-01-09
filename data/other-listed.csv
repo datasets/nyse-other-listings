@@ -2592,6 +2592,7 @@ HAYW,"Hayward Holdings, Inc. Common Stock","Hayward Holdings, Inc. Common Stock"
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,Hamilton Beach Brands Holding Company Class A Common Stock ,N,HBB,N,100.0,N,HBB
 HBI,Hanesbrands Inc. Common Stock,Hanesbrands Inc. Common Stock,N,HBI,N,100.0,N,HBI
 HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),Hudbay Minerals Inc. Ordinary Shares (Canada),N,HBM,N,100.0,N,HBM
+HBTC,Listed Funds Trust Fortuna Hedged Bitcoin Fund,Listed Funds Trust Fortuna Hedged Bitcoin Fund,N,HBTC,Y,100.0,N,HBTC
 HCA,"HCA Healthcare, Inc. Common Stock","HCA Healthcare, Inc. Common Stock",N,HCA,N,100.0,N,HCA
 HCC,"Warrior Met Coal, Inc. Common Stock","Warrior Met Coal, Inc. Common Stock",N,HCC,N,100.0,N,HCC
 HCI,"HCI Group, Inc. Common Stock","HCI Group, Inc. Common Stock",N,HCI,N,100.0,N,HCI
@@ -5248,6 +5249,8 @@ SPAB,SPDR Portfolio Aggregate Bond ETF,SPDR Portfolio Aggregate Bond ETF,P,SPAB,
 SPAX,Robinson Alternative Yield Pre,Robinson Alternative Yield Pre-merger SPAC ETF,P,SPAX,Y,100.0,N,SPAX
 SPB,"Spectrum Brands Holdings, Inc. Common Stock","Spectrum Brands Holdings, Inc. Common Stock",N,SPB,N,100.0,N,SPB
 SPBO,SPDR Portfolio Corporate Bond ETF,SPDR Portfolio Corporate Bond ETF,P,SPBO,Y,100.0,N,SPBO
+SPBW,AIM ETF Products Trust AllianzIM Buffer20 Allocation ETF,AIM ETF Products Trust AllianzIM Buffer20 Allocation ETF,P,SPBW,Y,100.0,N,SPBW
+SPBX,AIM ETF Products Trust AllianzIM 6 Month Buffer10 Allocation ETF,AIM ETF Products Trust AllianzIM 6 Month Buffer10 Allocation ETF,P,SPBX,Y,100.0,N,SPBX
 SPCE,"Virgin Galactic Holdings, Inc. Common Stock","Virgin Galactic Holdings, Inc. Common Stock",N,SPCE,N,100.0,N,SPCE
 SPCZ,Listed Funds Trust RiverNorth Enhanced Pre,Listed Funds Trust RiverNorth Enhanced Pre-Merger SPAC ETF,Z,SPCZ,Y,100.0,N,SPCZ
 SPD,Simplify Exchange Traded Funds Simplify US Equity PLUS Downside Convexity ETF,Simplify Exchange Traded Funds Simplify US Equity PLUS Downside Convexity ETF,P,SPD,Y,100.0,N,SPD
