@@ -323,7 +323,6 @@ ARTY,iShares Future AI & Tech ETF,iShares Future AI & Tech ETF,P,ARTY,Y,100.0,N,
 ARW,"Arrow Electronics, Inc. Common Stock","Arrow Electronics, Inc. Common Stock",N,ARW,N,100.0,N,ARW
 AS,"Amer Sports, Inc. Ordinary Shares","Amer Sports, Inc. Ordinary Shares",N,AS,N,100.0,N,AS
 ASA,ASA  Gold and Precious Metals Limited,ASA  Gold and Precious Metals Limited,N,ASA,N,100.0,N,ASA
-ASAI,Sendas Distribuidora S A ADS,Sendas Distribuidora S A ADS,N,ASAI,N,100.0,N,ASAI
 ASAN,"Asana, Inc. Class A Common Stock","Asana, Inc. Class A Common Stock",N,ASAN,N,100.0,N,ASAN
 ASB,Associated Banc,Associated Banc-Corp Common Stock,N,ASB,N,100.0,N,ASB
 ASB$E,Associated Banc,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series E",N,ASBpE,N,100.0,N,ASB-E
@@ -1902,7 +1901,6 @@ EXOD,"Exodus Movement, Inc. Class A Common Stock","Exodus Movement, Inc. Class A
 EXP,Eagle Materials Inc Common Stock,Eagle Materials Inc Common Stock,N,EXP,N,100.0,N,EXP
 EXPD,"Expeditors International of Washington, Inc. Common Stock","Expeditors International of Washington, Inc. Common Stock",N,EXPD,N,100.0,N,EXPD
 EXR,Extra Space Storage Inc Common Stock,Extra Space Storage Inc Common Stock,N,EXR,N,100.0,N,EXR
-EXTO,"Almacenes Exito S.A. American Depositary Share, each representing eight (8) Common Shares","Almacenes Exito S.A. American Depositary Share, each representing eight (8) Common Shares",N,EXTO,N,100.0,N,EXTO
 EYLD,Cambria ETF Trust Cambria Emerging Shareholder Yield ETF,Cambria ETF Trust Cambria Emerging Shareholder Yield ETF,Z,EYLD,Y,100.0,N,EYLD
 EZA,iShares MSCI South Africa Index Fund,iShares MSCI South Africa Index Fund,P,EZA,Y,100.0,N,EZA
 EZBC,Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF,Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF,Z,EZBC,Y,100.0,N,EZBC
@@ -1916,7 +1914,6 @@ F$C,"Ford Motor Company 6% Notes due December 1, 2059","Ford Motor Company 6% No
 F$D,"Ford Motor Company 6.500% Notes due August 15, 2062","Ford Motor Company 6.500% Notes due August 15, 2062",N,FpD,N,100.0,N,F-D
 FAF,First American Corporation (New) Common Stock,First American Corporation (New) Common Stock,N,FAF,N,100.0,N,FAF
 FAI,First Trust Exchange,First Trust Exchange-Traded Fund II First Trust Bloomberg Artificial Intelligence ETF,P,FAI,Y,100.0,N,FAI
-FAIL,Cambria ETF Trust Cambria Global Tail Risk ETF,Cambria ETF Trust Cambria Global Tail Risk ETF,Z,FAIL,Y,100.0,N,FAIL
 FAN,First Trust Global Wind Energy ETF,First Trust Global Wind Energy ETF,P,FAN,Y,100.0,N,FAN
 FAPR,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - April,Z,FAPR,Y,100.0,N,FAPR
 FARX,The Advisors' Inner Circle Fund II Frontier Asset Absolute Return ETF,The Advisors' Inner Circle Fund II Frontier Asset Absolute Return ETF,P,FARX,Y,100.0,N,FARX
@@ -2542,8 +2539,8 @@ GTES,Gates Industrial Corporation plc Ordinary Shares,Gates Industrial Corporati
 GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,Goldman Sachs Access Inflation Protected USD Bond ETF,Z,GTIP,Y,100.0,N,GTIP
 GTLS,"Chart Industries, Inc. Common Stock","Chart Industries, Inc. Common Stock",N,GTLS,N,100.0,N,GTLS
 GTLS$B,"Chart Industries, Inc. Depositary Shares, each Representing a 1/20th Interest in a Share of 6.75% Series B Mandatory Convertible Preferred Stock","Chart Industries, Inc. Depositary Shares, each Representing a 1/20th Interest in a Share of 6.75% Series B Mandatory Convertible Preferred Stock",N,GTLSpB,N,100.0,N,GTLS-B
-GTN,"Gray Television, Inc. Common Stock","Gray Television, Inc. Common Stock",N,GTN,N,100.0,N,GTN
-GTN.A,"Gray Television, Inc. CLass A Common Stock","Gray Television, Inc. CLass A Common Stock",N,GTN.A,N,100.0,N,GTN.A
+GTN,"Gray Media, Inc. Common Stock","Gray Media, Inc. Common Stock",N,GTN,N,100.0,N,GTN
+GTN.A,"Gray Media, Inc. Class A Common Stock","Gray Media, Inc. Class A Common Stock",N,GTN.A,N,100.0,N,GTN.A
 GTO,Invesco Total Return Bond ETF,Invesco Total Return Bond ETF,P,GTO,Y,100.0,N,GTO
 GTY,Getty Realty Corporation Common Stock,Getty Realty Corporation Common Stock,N,GTY,N,100.0,N,GTY
 GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,N,GUG,N,100.0,N,GUG
