@@ -621,7 +621,7 @@ BILL,"BILL Holdings, Inc. Common Stock","BILL Holdings, Inc. Common Stock",N,BIL
 BILS,SPDR Bloomberg 3,SPDR Bloomberg 3-12 Month T-Bill ETF,P,BILS,Y,100.0,N,BILS
 BILZ,PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange,PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange-Traded Fund,P,BILZ,Y,100.0,N,BILZ
 BINC,iShares Flexible Income Active ETF,iShares Flexible Income Active ETF,P,BINC,Y,100.0,N,BINC
-BINV,Brandes International ETF Brandes International ETF,Brandes International ETF Brandes International ETF,Z,BINV,Y,100.0,N,BINV
+BINV,Brandes International ETF,Brandes International ETF,Z,BINV,Y,100.0,N,BINV
 BIO,Bio,"Bio-Rad Laboratories, Inc. Class A Common Stock",N,BIO,N,100.0,N,BIO
 BIO.B,Bio,"Bio-Rad Laboratories, Inc. Class B  Common Stock",N,BIO.B,N,100.0,N,BIO.B
 BIP,Brookfield Infrastructure Partners LP Limited Partnership Units,Brookfield Infrastructure Partners LP Limited Partnership Units,N,BIP,N,100.0,N,BIP
@@ -767,7 +767,7 @@ BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing on
 BSEP,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - September,Z,BSEP,Y,100.0,N,BSEP
 BSL,Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest,Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest,N,BSL,N,100.0,N,BSL
 BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests","Black Stone Minerals, L.P. Common units representing limited partner interests",N,BSM,N,100.0,N,BSM
-BSMC,Brandes International ETF Brandes U.S. Small,Brandes International ETF Brandes U.S. Small-Mid Cap Value ETF,Z,BSMC,Y,100.0,N,BSMC
+BSMC,Brandes U.S. Small,Brandes U.S. Small-Mid Cap Value ETF,Z,BSMC,Y,100.0,N,BSMC
 BSR,Northern Lights Fund Trust II Beacon Selective Risk ETF,Northern Lights Fund Trust II Beacon Selective Risk ETF,P,BSR,Y,100.0,N,BSR
 BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest,BlackRock Science and Technology Trust Common Shares of Beneficial Interest,N,BST,N,100.0,N,BST
 BSTP,Innovator ETFs Trust Innovator Buffer Step,Innovator ETFs Trust Innovator Buffer Step-Up Strategy ETF,P,BSTP,Y,100.0,N,BSTP
@@ -813,7 +813,7 @@ BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,MicroSectors FANG & Innovat
 BUR,Burford Capital Limited Ordinary Shares,Burford Capital Limited Ordinary Shares,N,BUR,N,100.0,N,BUR
 BURL,"Burlington Stores, Inc. Common Stock","Burlington Stores, Inc. Common Stock",N,BURL,N,100.0,N,BURL
 BURU,"Nuburu, Inc. Common Stock","Nuburu, Inc. Common Stock",A,BURU,N,100.0,N,BURU
-BUSA,Brandes International ETF Brandes U.S. Value ETF,Brandes International ETF Brandes U.S. Value ETF,Z,BUSA,Y,100.0,N,BUSA
+BUSA,Brandes U.S. Value ETF,Brandes U.S. Value ETF,Z,BUSA,Y,100.0,N,BUSA
 BUXX,EA Series Trust Strive Enhanced Income Short Maturity ETF,EA Series Trust Strive Enhanced Income Short Maturity ETF,N,BUXX,Y,100.0,N,BUXX
 BUYO,KraneShares Trust KraneShares Man Buyout Beta Index ETF,KraneShares Trust KraneShares Man Buyout Beta Index ETF,P,BUYO,Y,100.0,N,BUYO
 BUYW,Northern Lights Fund Trust IV Main BuyWrite ETF,Northern Lights Fund Trust IV Main BuyWrite ETF,Z,BUYW,Y,100.0,N,BUYW
@@ -1823,9 +1823,9 @@ ETI$,"Entergy Texas Inc 5.375% Series A Preferred Stock, Cumulative, No Par Valu
 ETJ,Eaton Vance Risk,Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,N,ETJ,N,100.0,N,ETJ
 ETN,"Eaton Corporation, PLC Ordinary Shares","Eaton Corporation, PLC Ordinary Shares",N,ETN,N,100.0,N,ETN
 ETO,Eaton Vance Tax,Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,N,ETO,N,100.0,N,ETO
-ETQ,T,T-Rex 2X Long Bitcoin Daily Target ETF T-Rex 2X Inverse Ether Daily Target ETF,Z,ETQ,Y,100.0,N,ETQ
+ETQ,T,T-Rex 2X Inverse Ether Daily Target ETF,Z,ETQ,Y,100.0,N,ETQ
 ETR,Entergy Corporation Common Stock,Entergy Corporation Common Stock,N,ETR,N,100.0,N,ETR
-ETU,T,T-Rex 2X Long Bitcoin Daily Target ETF T-Rex 2X Long Ether Daily Target ETF,Z,ETU,Y,100.0,N,ETU
+ETU,T,T-Rex 2X Long Ether Daily Target ETF,Z,ETU,Y,100.0,N,ETU
 ETV,Eaton Vance Corporation Eaton Vance Tax,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,N,ETV,N,100.0,N,ETV
 ETW,Eaton Vance Corporation Eaton Vance Tax,Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest,N,ETW,N,100.0,N,ETW
 ETWO,"E2open Parent Holdings, Inc.Class A Common Stock","E2open Parent Holdings, Inc.Class A Common Stock",N,ETWO,N,100.0,N,ETWO
@@ -1932,7 +1932,7 @@ FBRT,"Franklin BSP Realty Trust, Inc. Common Stock","Franklin BSP Realty Trust, 
 FBRT$E,"Franklin BSP Realty Trust, Inc. 7.50% Series E Cumulative Redeemable Preferred Stock","Franklin BSP Realty Trust, Inc. 7.50% Series E Cumulative Redeemable Preferred Stock",N,FBRTpE,N,100.0,N,FBRT-E
 FBT,First Trust Amex Biotech Index Fund,First Trust Amex Biotech Index Fund,P,FBT,Y,100.0,N,FBT
 FBTC,Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest,Fidelity Wise Origin Bitcoin Fund Common Shares of Beneficial Interest,Z,FBTC,Y,100.0,N,FBTC
-FBUF,Fidelity Dynamic Buffered Equity ETF Fidelity Dynamic Buffered Equity ETF,Fidelity Dynamic Buffered Equity ETF Fidelity Dynamic Buffered Equity ETF,Z,FBUF,Y,100.0,N,FBUF
+FBUF,Fidelity Dynamic Buffered Equity ETF,Fidelity Dynamic Buffered Equity ETF,Z,FBUF,Y,100.0,N,FBUF
 FBY,Tidal ETF Trust II YieldMax META Option Income Strategy ETF,Tidal ETF Trust II YieldMax META Option Income Strategy ETF,P,FBY,Y,100.0,N,FBY
 FC,Franklin Covey Company Common Stock,Franklin Covey Company Common Stock,N,FC,N,100.0,N,FC
 FCBD,The Advisors' Inner Circle Fund II Frontier Asset Core Bond ETF,The Advisors' Inner Circle Fund II Frontier Asset Core Bond ETF,P,FCBD,Y,100.0,N,FCBD
@@ -2028,7 +2028,7 @@ FGDL,Franklin Templeton Holdings Trust Franklin Responsibly Sourced Gold ETF,Fra
 FGN,"F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053","F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",N,FGN,N,100.0,N,FGN
 FGSM,The Advisors' Inner Circle Fund II Frontier Asset Global Small Cap Equity ETF,The Advisors' Inner Circle Fund II Frontier Asset Global Small Cap Equity ETF,P,FGSM,Y,100.0,N,FGSM
 FHDG,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Quarterly Dynamic Buffer ETF,Z,FHDG,Y,100.0,N,FHDG
-FHEQ,Fidelity Dynamic Buffered Equity ETF Fidelity Hedged Equity ETF,Fidelity Dynamic Buffered Equity ETF Fidelity Hedged Equity ETF,Z,FHEQ,Y,100.0,N,FHEQ
+FHEQ,Fidelity Hedged Equity ETF,Fidelity Hedged Equity ETF,Z,FHEQ,Y,100.0,N,FHEQ
 FHI,"Federated Hermes, Inc. Common Stock","Federated Hermes, Inc. Common Stock",N,FHI,N,100.0,N,FHI
 FHLC,Fidelity MSCI Health Care Index ETF,Fidelity MSCI Health Care Index ETF,P,FHLC,Y,100.0,N,FHLC
 FHN,First Horizon Corporation Common Stock,First Horizon Corporation Common Stock,N,FHN,N,100.0,N,FHN
@@ -2263,7 +2263,7 @@ FXR,First Trust Industrials AlphaDEX,First Trust Industrials AlphaDEX,P,FXR,Y,10
 FXU,First Trust Utilities AlphaDEX Fund,First Trust Utilities AlphaDEX Fund,P,FXU,Y,100.0,N,FXU
 FXY,Invesco CurrencyShares Japanese Yen Trust,Invesco CurrencyShares Japanese Yen Trust,P,FXY,Y,100.0,N,FXY
 FXZ,First Trust Materials AlphaDEX Fund,First Trust Materials AlphaDEX Fund,P,FXZ,Y,100.0,N,FXZ
-FYEE,Fidelity Dynamic Buffered Equity ETF Fidelity Yield Enhanced Equity ETF,Fidelity Dynamic Buffered Equity ETF Fidelity Yield Enhanced Equity ETF,Z,FYEE,Y,100.0,N,FYEE
+FYEE,Fidelity Yield Enhanced Equity ETF,Fidelity Yield Enhanced Equity ETF,Z,FYEE,Y,100.0,N,FYEE
 FYLD,Cambria Foreign Shareholder Yield ETF,Cambria Foreign Shareholder Yield ETF,Z,FYLD,Y,100.0,N,FYLD
 FYLG,Global X Funds Global X Financials Covered Call & Growth ETF,Global X Funds Global X Financials Covered Call & Growth ETF,P,FYLG,Y,100.0,N,FYLG
 G,Genpact Limited Common Stock,Genpact Limited Common Stock,N,G,N,100.0,N,G
@@ -2304,7 +2304,6 @@ GCAD,Gabelli Commercial Aerospace and Defense ETF,Gabelli Commercial Aerospace a
 GCAL,Goldman Sachs ETF Trust Goldman Sachs Dynamic California Municipal Income ETF,Goldman Sachs ETF Trust Goldman Sachs Dynamic California Municipal Income ETF,P,GCAL,Y,100.0,N,GCAL
 GCC,WisdomTree EnhancedContinuous Commodity Index Fund,WisdomTree EnhancedContinuous Commodity Index Fund,P,GCC,Y,100.0,N,GCC
 GCI,"Gannett Co., Inc. Common Stock","Gannett Co., Inc. Common Stock",N,GCI,N,100.0,N,GCI
-GCLN,Goldman Sachs ETF Trust Goldman Sachs Bloomberg Clean Energy Equity ETF,Goldman Sachs ETF Trust Goldman Sachs Bloomberg Clean Energy Equity ETF,Z,GCLN,Y,100.0,N,GCLN
 GCO,Genesco Inc. Common Stock,Genesco Inc. Common Stock,N,GCO,N,100.0,N,GCO
 GCOR,Goldman Sachs ETF Trust Goldman Sachs Access U.S. Aggregate Bond ETF,Goldman Sachs ETF Trust Goldman Sachs Access U.S. Aggregate Bond ETF,P,GCOR,Y,100.0,N,GCOR
 GCOW,Pacer Global Cash Cows Dividend ETF,Pacer Global Cash Cows Dividend ETF,Z,GCOW,Y,100.0,N,GCOW
@@ -2338,9 +2337,11 @@ GEL,"Genesis Energy, L.P. Common Units","Genesis Energy, L.P. Common Units",N,GE
 GEM,Goldman Sachs ActiveBeta Emerging Markets Equity ETF,Goldman Sachs ActiveBeta Emerging Markets Equity ETF,P,GEM,Y,100.0,N,GEM
 GEMD,Goldman Sachs ETF Trust Goldman Sachs Access Emerging Markets USD Bond ETF,Goldman Sachs ETF Trust Goldman Sachs Access Emerging Markets USD Bond ETF,Z,GEMD,Y,100.0,N,GEMD
 GENC,"Gencor Industries, Inc. Common Stock","Gencor Industries, Inc. Common Stock",A,GENC,N,100.0,N,GENC
+GEND,Spinnaker ETF Series Genter Capital Dividend Income ETF,Spinnaker ETF Series Genter Capital Dividend Income ETF,P,GEND,Y,100.0,N,GEND
 GENI,Genius Sports Limited Ordinary Shares,Genius Sports Limited Ordinary Shares,N,GENI,N,100.0,N,GENI
 GENM,Spinnaker ETF Series Genter Capital Municipal Quality Intermediate ETF,Spinnaker ETF Series Genter Capital Municipal Quality Intermediate ETF,P,GENM,Y,100.0,N,GENM
 GENT,Spinnaker ETF Series Genter Capital Taxable Quality Intermediate ETF,Spinnaker ETF Series Genter Capital Taxable Quality Intermediate ETF,P,GENT,Y,100.0,N,GENT
+GENW,Spinnaker ETF Series Genter Capital International Dividend ETF,Spinnaker ETF Series Genter Capital International Dividend ETF,P,GENW,Y,100.0,N,GENW
 GEO,Geo Group Inc (The) REIT,Geo Group Inc (The) REIT,N,GEO,N,100.0,N,GEO
 GES,"Guess?, Inc. Common Stock","Guess?, Inc. Common Stock",N,GES,N,100.0,N,GES
 GETY,"Getty Images Holdings, Inc. Class A Common Stock","Getty Images Holdings, Inc. Class A Common Stock",N,GETY,N,100.0,N,GETY
@@ -2472,7 +2473,6 @@ GPMT,Granite Point Mortgage Trust Inc. Common Stock,Granite Point Mortgage Trust
 GPMT$A,Granite Point Mortgage Trust Inc. 7.00% Series A Fixed,Granite Point Mortgage Trust Inc. 7.00% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,GPMTpA,N,100.0,N,GPMT-A
 GPN,Global Payments Inc. Common Stock,Global Payments Inc. Common Stock,N,GPN,N,100.0,N,GPN
 GPOR,Gulfport Energy Corporation Common Shares,Gulfport Energy Corporation Common Shares,N,GPOR,N,100.0,N,GPOR
-GPOW,Goldman Sachs ETF Trust Goldman Sachs North American Pipelines & Power Equity ETF,Goldman Sachs ETF Trust Goldman Sachs North American Pipelines & Power Equity ETF,Z,GPOW,Y,100.0,N,GPOW
 GPRK,Geopark Ltd Common Shares,Geopark Ltd Common Shares,N,GPRK,N,100.0,N,GPRK
 GPUS,"Hyperscale Data, Inc. Common Stock","Hyperscale Data, Inc. Common Stock",A,GPUS,N,100.0,N,GPUS
 GPUS$D,"Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock","Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",A,GPUSpD,N,100.0,N,GPUS-D
@@ -2485,7 +2485,6 @@ GRBK,"Green Brick Partners, Inc. Common Stock","Green Brick Partners, Inc. Commo
 GRBK$A,"Green Brick Partners, Inc. Depositary Shares (each representing a 1/1000th fractional interest in a share of 5.75% Series A Cumulative Perpetual Preferred Stock)","Green Brick Partners, Inc. Depositary Shares (each representing a 1/1000th fractional interest in a share of 5.75% Series A Cumulative Perpetual Preferred Stock)",N,GRBKpA,N,100.0,N,GRBK-A
 GRC,Gorman,Gorman-Rupp Company (The) Common Stock,N,GRC,N,100.0,N,GRC
 GRDN,"Guardian Pharmacy Services, Inc. Class A Common Stock","Guardian Pharmacy Services, Inc. Class A Common Stock",N,GRDN,N,100.0,N,GRDN
-GREI,Goldman Sachs Future Real Estate and Infrastructure Equity ETF,Goldman Sachs Future Real Estate and Infrastructure Equity ETF,P,GREI,Y,100.0,N,GREI
 GREK,Global X MSCI Greece ETF,Global X MSCI Greece ETF,P,GREK,Y,100.0,N,GREK
 GRF,"Eagle Capital Growth Fund, Inc. Common Stock","Eagle Capital Growth Fund, Inc. Common Stock",A,GRF,N,100.0,N,GRF
 GRFX,"Graphex Group Limited American Depositary Shares, each American Depositary Share representing 20 Ordinary Shares","Graphex Group Limited American Depositary Shares, each American Depositary Share representing 20 Ordinary Shares",A,GRFX,N,100.0,N,GRFX
@@ -3346,7 +3345,7 @@ KREF$A,KKR Real Estate Finance Trust Inc. 6.50% Series A Cumulative Redeemable P
 KRG,Kite Realty Group Trust Common Stock,Kite Realty Group Trust Common Stock,N,KRG,N,100.0,N,KRG
 KRO,Kronos Worldwide Inc Common Stock,Kronos Worldwide Inc Common Stock,N,KRO,N,100.0,N,KRO
 KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,N,KRP,N,100.0,N,KRP
-KRUZ,Series Portfolios Trust Unusual Whales Subversive Republican Trading ETF,Series Portfolios Trust Unusual Whales Subversive Republican Trading ETF,Z,KRUZ,Y,100.0,N,KRUZ
+KRUZ,Unusual Whales Subversive Republican Trading ETF,Unusual Whales Subversive Republican Trading ETF,Z,KRUZ,Y,100.0,N,KRUZ
 KSA,iShares Trust iShares MSCI Saudi Arabia ETF,iShares Trust iShares MSCI Saudi Arabia ETF,P,KSA,Y,100.0,N,KSA
 KSEA,KraneShares Trust KraneShares Rockefeller Ocean Engagement ETF,KraneShares Trust KraneShares Rockefeller Ocean Engagement ETF,P,KSEA,Y,100.0,N,KSEA
 KSEP,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - September,Z,KSEP,Y,100.0,N,KSEP
@@ -3889,7 +3888,7 @@ NAD,Nuveen Quality Municipal Income Fund Common Stock,Nuveen Quality Municipal I
 NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,Direxion Daily Homebuilders & Supplies Bull 3X Shares,P,NAIL,Y,100.0,N,NAIL
 NAK,"Northern Dynasty Minerals, Ltd. Common Stock","Northern Dynasty Minerals, Ltd. Common Stock",A,NAK,N,100.0,N,NAK
 NAN,Nuveen New York Quality Municipal Income Fund Common Stock,Nuveen New York Quality Municipal Income Fund Common Stock,N,NAN,N,100.0,N,NAN
-NANC,Series Portfolios Trust Unusual Whales Subversive Democratic Trading ETF,Series Portfolios Trust Unusual Whales Subversive Democratic Trading ETF,Z,NANC,Y,100.0,N,NANC
+NANC,Unusual Whales Subversive Democratic Trading ETF,Unusual Whales Subversive Democratic Trading ETF,Z,NANC,Y,100.0,N,NANC
 NANR,SPDR S&P North American Natural Resources ETF,SPDR S&P North American Natural Resources ETF,P,NANR,Y,100.0,N,NANR
 NAPR,Innovator Growth,Innovator Growth-100 Power Buffer ETF - April,Z,NAPR,Y,100.0,N,NAPR
 NAT,Nordic American Tankers Limited Common Stock,Nordic American Tankers Limited Common Stock,N,NAT,N,100.0,N,NAT
@@ -3904,7 +3903,6 @@ NBCR,Neuberger Berman ETF Trust Neuberger Berman Core Equity ETF,Neuberger Berma
 NBDS,Neuberger Berman ETF Trust Neuberger Berman Disrupters ETF,Neuberger Berman ETF Trust Neuberger Berman Disrupters ETF,P,NBDS,Y,100.0,N,NBDS
 NBET,Neuberger Berman Energy Transition & Infrastructure ETF,Neuberger Berman Energy Transition & Infrastructure ETF,P,NBET,Y,100.0,N,NBET
 NBFC,Neuberger Berman ETF Trust Neuberger Berman Flexible Credit Income ETF,Neuberger Berman ETF Trust Neuberger Berman Flexible Credit Income ETF,P,NBFC,Y,100.0,N,NBFC
-NBGR,Neuberger Berman ETF Trust Neuberger Berman Global Real Estate ETF,Neuberger Berman ETF Trust Neuberger Berman Global Real Estate ETF,P,NBGR,Y,100.0,N,NBGR
 NBGX,Neuberger Berman ETF Trust Neuberger Berman Growth ETF,Neuberger Berman ETF Trust Neuberger Berman Growth ETF,P,NBGX,Y,100.0,N,NBGX
 NBH,Neuberger Berman Municipal Fund Inc. Common Stock,Neuberger Berman Municipal Fund Inc. Common Stock,A,NBH,N,100.0,N,NBH
 NBHC,National Bank Holdings Corporation Common Stock,National Bank Holdings Corporation Common Stock,N,NBHC,N,100.0,N,NBHC
@@ -4136,7 +4134,6 @@ OALC,Unified Series Trust OneAscent Large Cap Core ETF,Unified Series Trust OneA
 OARK,YieldMax Innovation Option Income Strategy ETF,YieldMax Innovation Option Income Strategy ETF,P,OARK,Y,100.0,N,OARK
 OASC,Unified Series Trust OneAscent Small Cap Core ETF,Unified Series Trust OneAscent Small Cap Core ETF,P,OASC,Y,100.0,N,OASC
 OBDC,Blue Owl Capital Corporation Common Stock,Blue Owl Capital Corporation Common Stock,N,OBDC,N,100.0,N,OBDC
-OBDE,Blue Owl Capital Corporation III Common Stock,Blue Owl Capital Corporation III Common Stock,N,OBDE,N,100.0,N,OBDE
 OBE,Obsidian Energy Ltd. Common Shares,Obsidian Energy Ltd. Common Shares,A,OBE,N,100.0,N,OBE
 OBK,"Origin Bancorp, Inc. Common Stock","Origin Bancorp, Inc. Common Stock",N,OBK,N,100.0,N,OBK
 OBND,SPDR Loomis Sayles Opportunistic Bond ETF,SPDR Loomis Sayles Opportunistic Bond ETF,Z,OBND,Y,100.0,N,OBND
@@ -5984,7 +5981,7 @@ VSTS,Vestis Corporation Common Stock,Vestis Corporation Common Stock,N,VSTS,N,10
 VT,Vanguard Total World Stock Index ETF,Vanguard Total World Stock Index ETF,P,VT,Y,100.0,N,VT
 VTAK,"Catheter Precision, Inc. Common Stock","Catheter Precision, Inc. Common Stock",A,VTAK,N,100.0,N,VTAK
 VTEB,Vanguard Tax,Vanguard Tax-Exempt Bond ETF,P,VTEB,Y,100.0,N,VTEB
-VTEC,Vanguard California Tax,Vanguard California Tax-Exempt Bond ETF Vanguard California Tax-Exempt Bond ETF,Z,VTEC,Y,100.0,N,VTEC
+VTEC,Vanguard California Tax,Vanguard California Tax-Exempt Bond ETF,Z,VTEC,Y,100.0,N,VTEC
 VTEI,Vanguard Tax,Vanguard Tax-Managed Funds Vanguard Intermediate-Term Tax-Exempt Bond ETF,Z,VTEI,Y,100.0,N,VTEI
 VTES,Vanguard Wellington Fund Vanguard Short,Vanguard Wellington Fund Vanguard Short-Term Tax Exempt Bond ETF,P,VTES,Y,100.0,N,VTES
 VTEX,VTEX Class A Common Shares,VTEX Class A Common Shares,N,VTEX,N,100.0,N,VTEX
