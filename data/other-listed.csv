@@ -282,7 +282,6 @@ AQN,Algonquin Power & Utilities Corp. Common Shares,Algonquin Power & Utilities 
 AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed,"Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1, 2079",N,AQNB,N,100.0,N,AQNB
 AR,Antero Resources Corporation Common Stock,Antero Resources Corporation Common Stock,N,AR,N,100.0,N,AR
 ARB,AltShares Merger Arbitrage ETF,AltShares Merger Arbitrage ETF,P,ARB,Y,100.0,N,ARB
-ARCH,"Arch Resources, Inc. Class A Common Stock","Arch Resources, Inc. Class A Common Stock",N,ARCH,N,100.0,N,ARCH
 ARCM,Arrow Reserve Capital Management ETF,Arrow Reserve Capital Management ETF,Z,ARCM,Y,100.0,N,ARCM
 ARCO,Arcos Dorados Holdings Inc. Class A Shares,Arcos Dorados Holdings Inc. Class A Shares,N,ARCO,N,100.0,N,ARCO
 ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common Shares","Ares Dynamic Credit Allocation Fund, Inc. Common Shares",N,ARDC,N,100.0,N,ARDC
@@ -878,6 +877,7 @@ CARK,The Advisors Inner Circle Fund II CastleArk Large Growth ETF,The Advisors I
 CARR,Carrier Global Corporation Common Stock ,Carrier Global Corporation Common Stock ,N,CARR,N,100.0,N,CARR
 CARS,Cars.com Inc. Common Stock ,Cars.com Inc. Common Stock ,N,CARS,N,100.0,N,CARS
 CARU,Bank Of Montreal MAX Auto Industry 3x Leveraged ETN,Bank Of Montreal MAX Auto Industry 3x Leveraged ETN,P,CARU,Y,100.0,N,CARU
+CAS,Simplify Exchange Traded Funds Simplify China A Shares PLUS Income ETF,Simplify Exchange Traded Funds Simplify China A Shares PLUS Income ETF,P,CAS,Y,100.0,N,CAS
 CAT,"Caterpillar, Inc. Common Stock","Caterpillar, Inc. Common Stock",N,CAT,N,100.0,N,CAT
 CATF,American Century ETF Trust American Century California Municipal Bond ETF,American Century ETF Trust American Century California Municipal Bond ETF,P,CATF,Y,100.0,N,CATF
 CATO,Cato Corporation (The) Class A Common Stock,Cato Corporation (The) Class A Common Stock,N,CATO,N,100.0,N,CATO
@@ -3439,6 +3439,7 @@ LFBD,Stone Ridge Trust Stone Ridge 2064 Longevity Income ETF,Stone Ridge Trust S
 LFBE,Stone Ridge Trust Stone Ridge 2065 Longevity Income ETF,Stone Ridge Trust Stone Ridge 2065 Longevity Income ETF,Z,LFBE,Y,100.0,N,LFBE
 LFDR,Stone Ridge Trust Stone Ridge Durable Income ETF,Stone Ridge Trust Stone Ridge Durable Income ETF,Z,LFDR,Y,100.0,N,LFDR
 LFEQ,VanEck Long/Flat Trend ETF,VanEck Long/Flat Trend ETF,P,LFEQ,Y,100.0,N,LFEQ
+LFGY,Tidal Trust II YieldMax Crypto Industry & Tech Portfolio Option Income ETF,Tidal Trust II YieldMax Crypto Industry & Tech Portfolio Option Income ETF,P,LFGY,Y,100.0,N,LFGY
 LFT,"Lument Finance Trust, Inc. Common Stock","Lument Finance Trust, Inc. Common Stock",N,LFT,N,100.0,N,LFT
 LFT$A,"Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock","Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock",N,LFTpA,N,100.0,N,LFT-A
 LGCY,Legacy Education Inc. Common Stock,Legacy Education Inc. Common Stock,A,LGCY,N,100.0,N,LGCY
@@ -4857,6 +4858,7 @@ RSI,"Rush Street Interactive, Inc. Class A Common Stock","Rush Street Interactiv
 RSJN,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Equal Weight Buffer ETF - June,P,RSJN,Y,100.0,N,RSJN
 RSKD,Riskified Ltd. Class A Ordinary Shares,Riskified Ltd. Class A Ordinary Shares,N,RSKD,N,100.0,N,RSKD
 RSMC,Tidal Trust III Rockefeller U.S. Small,Tidal Trust III Rockefeller U.S. Small-Mid Cap ETF,P,RSMC,Y,100.0,N,RSMC
+RSMV,Listed Funds Trust Relative Strength Managed Volatility Strategy ETF,Listed Funds Trust Relative Strength Managed Volatility Strategy ETF,P,RSMV,Y,100.0,N,RSMV
 RSP,Invesco S&P 500 Equal Weight ETF,Invesco S&P 500 Equal Weight ETF,P,RSP,Y,100.0,N,RSP
 RSPA,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco S&P 500 Equal Weight Income Advantage ETF,P,RSPA,Y,100.0,N,RSPA
 RSPC,Invesco S&P 500 Equal Weight Communication Services ETF,Invesco S&P 500 Equal Weight Communication Services ETF,P,RSPC,Y,100.0,N,RSPC
