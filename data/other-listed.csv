@@ -237,6 +237,7 @@ ANEW,ProShares MSCI Transformational Changes ETF,ProShares MSCI Transformational
 ANF,Abercrombie & Fitch Company Common Stock,Abercrombie & Fitch Company Common Stock,N,ANF,N,100.0,N,ANF
 ANG$A,"American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed","American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",N,ANGpA,N,100.0,N,ANG-A
 ANG$B,"American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed","American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",N,ANGpB,N,100.0,N,ANG-B
+ANG$D,"American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed","American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D",N,ANGpD,N,100.0,N,ANG-D
 ANRO,"Alto Neuroscience, Inc. Common Stock","Alto Neuroscience, Inc. Common Stock",N,ANRO,N,100.0,N,ANRO
 ANVS,"Annovis Bio, Inc. Common Stock","Annovis Bio, Inc. Common Stock",N,ANVS,N,100.0,N,ANVS
 AOA,iShares Core Aggressive Allocation ETF,iShares Core Aggressive Allocation ETF,P,AOA,Y,100.0,N,AOA
@@ -707,6 +708,7 @@ BN,Brookfield Corporation Class A Limited Voting Shares,Brookfield Corporation C
 BNDC,FlexShares Core Select Bond Fund,FlexShares Core Select Bond Fund,P,BNDC,Y,100.0,N,BNDC
 BNDD,Quadratic Deflation ETF,Quadratic Deflation ETF,P,BNDD,Y,100.0,N,BNDD
 BNDI,NEOS ETF Trust NEOS Enhanced Income Aggregate Bond ETF,NEOS ETF Trust NEOS Enhanced Income Aggregate Bond ETF,P,BNDI,Y,100.0,N,BNDI
+BNDS,Series Portfolios Trust Infrastructure Capital Bond Income ETF,Series Portfolios Trust Infrastructure Capital Bond Income ETF,P,BNDS,Y,100.0,N,BNDS
 BNED,"Barnes & Noble Education, Inc Common Stock","Barnes & Noble Education, Inc Common Stock",N,BNED,N,100.0,N,BNED
 BNGE,First Trust S,First Trust S-Network Streaming and Gaming ETF,P,BNGE,Y,100.0,N,BNGE
 BNH,"Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080","Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080",N,BNH,N,100.0,N,BNH
@@ -926,7 +928,6 @@ CEE,"The Central and Eastern Europe Fund, Inc. (The) Common Stock","The Central 
 CEF,Sprott Physical Gold and Silver Trust Units,Sprott Physical Gold and Silver Trust Units,P,CEF,Y,100.0,N,CEF
 CEFD,ETRACS Monthly Pay 1.5X Leveraged Closed,ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN,P,CEFD,Y,100.0,N,CEFD
 CEFS,Saba Closed,Saba Closed-End Funds ETF,Z,CEFS,Y,100.0,N,CEFS
-CEIX,CONSOL Energy Inc. Common Stock ,CONSOL Energy Inc. Common Stock ,N,CEIX,N,100.0,N,CEIX
 CELG.R,Bristol,Bristol-Myers Squibb Company Celegne Contingent Value Rights,N,CELGr,N,100.0,N,CELG^
 CEMB,iShares J.P. Morgan EM Corporate Bond ETF,iShares J.P. Morgan EM Corporate Bond ETF,Z,CEMB,Y,100.0,N,CEMB
 CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),N,CEPU,N,100.0,N,CEPU
@@ -1080,6 +1081,7 @@ CNO,"CNO Financial Group, Inc. Common Stock","CNO Financial Group, Inc. Common S
 CNO$A,"CNO Financial Group, Inc. 5.125% Subordinated Debentures due 2060","CNO Financial Group, Inc. 5.125% Subordinated Debentures due 2060",N,CNOpA,N,100.0,N,CNO-A
 CNP,"CenterPoint Energy, Inc (Holding Co) Common Stock","CenterPoint Energy, Inc (Holding Co) Common Stock",N,CNP,N,100.0,N,CNP
 CNQ,Canadian Natural Resources Limited Common Stock,Canadian Natural Resources Limited Common Stock,N,CNQ,N,100.0,N,CNQ
+CNR,"Core Natural Resources, Inc. Common Stock","Core Natural Resources, Inc. Common Stock",N,CNR,N,100.0,N,CNR
 CNRG,SPDR S&P Kensho Clean Power ETF,SPDR S&P Kensho Clean Power ETF,P,CNRG,Y,100.0,N,CNRG
 CNS,Cohen & Steers Inc Common Stock,Cohen & Steers Inc Common Stock,N,CNS,N,100.0,N,CNS
 CNX,CNX Resources Corporation Common Stock,CNX Resources Corporation Common Stock,N,CNX,N,100.0,N,CNX
@@ -2709,7 +2711,7 @@ HTFC,Horizon Technology Finance Corporation 6.25% Notes due 2027,Horizon Technol
 HTGC,"Hercules Capital, Inc. Common Stock","Hercules Capital, Inc. Common Stock",N,HTGC,N,100.0,N,HTGC
 HTH,Hilltop Holdings Inc.,Hilltop Holdings Inc.,N,HTH,N,100.0,N,HTH
 HTRB,Hartford Total Return Bond ETF,Hartford Total Return Bond ETF,P,HTRB,Y,100.0,N,HTRB
-HTUS,Capitol Series Trust Hull Tactical US ETF,Capitol Series Trust Hull Tactical US ETF,P,HTUS,Y,100.0,N,HTUS
+HTUS,Capitol Series Trust Hull Tactical US ETF,Capitol Series Trust Hull Tactical US ETF,Z,HTUS,Y,100.0,N,HTUS
 HUBB,Hubbell Inc Common Stock,Hubbell Inc Common Stock,N,HUBB,N,100.0,N,HUBB
 HUBS,"HubSpot, Inc. Common Stock","HubSpot, Inc. Common Stock",N,HUBS,N,100.0,N,HUBS
 HUM,Humana Inc. Common Stock,Humana Inc. Common Stock,N,HUM,N,100.0,N,HUM
@@ -3088,6 +3090,7 @@ IYK,iShares U.S. Consumer Staples ETF,iShares U.S. Consumer Staples ETF,P,IYK,Y,
 IYLD,iShares Morningstar Multi,iShares Morningstar Multi-Asset Income ETF,Z,IYLD,Y,100.0,N,IYLD
 IYM,iShares U.S. Basic Materials ETF,iShares U.S. Basic Materials ETF,P,IYM,Y,100.0,N,IYM
 IYR,iShares U.S. Real Estate ETF,iShares U.S. Real Estate ETF,P,IYR,Y,100.0,N,IYR
+IYRI,NEOS ETF Trust NEOS Real Estate High Income ETF,NEOS ETF Trust NEOS Real Estate High Income ETF,Z,IYRI,Y,100.0,N,IYRI
 IYT,iShares Trust iShares U.S. Transportation ETF,iShares Trust iShares U.S. Transportation ETF,Z,IYT,Y,100.0,N,IYT
 IYW,iShares U.S. Technology ETF,iShares U.S. Technology ETF,P,IYW,Y,100.0,N,IYW
 IYY,iShares Dow Jones U.S. ETF,iShares Dow Jones U.S. ETF,P,IYY,Y,100.0,N,IYY
