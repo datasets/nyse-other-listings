@@ -956,6 +956,7 @@ CGHM,Capital Group Municipal High,Capital Group Municipal High-Income ETF,P,CGHM
 CGIB,Capital Group International Bond ETF (USD,Capital Group International Bond ETF (USD-Hedged),P,CGIB,Y,100.0,N,CGIB
 CGIC,Capital Group International Core Equity ETF,Capital Group International Core Equity ETF,P,CGIC,Y,100.0,N,CGIC
 CGIE,Capital Group International Equity ETF,Capital Group International Equity ETF,P,CGIE,Y,100.0,N,CGIE
+CGMM,Capital Group Equity ETF Trust I Capital Group U.S. Small and Mid Cap ETF,Capital Group Equity ETF Trust I Capital Group U.S. Small and Mid Cap ETF,P,CGMM,Y,100.0,N,CGMM
 CGMS,Capital Group U.S. Multi,Capital Group U.S. Multi-Sector Income ETF,P,CGMS,Y,100.0,N,CGMS
 CGMU,Capital Group Municipal Income ETF,Capital Group Municipal Income ETF,P,CGMU,Y,100.0,N,CGMU
 CGNG,Capital Group New Geography Equity ETF,Capital Group New Geography Equity ETF,P,CGNG,Y,100.0,N,CGNG
@@ -2106,6 +2107,7 @@ FLMI,Franklin Dynamic Municipal Bond ETF,Franklin Dynamic Municipal Bond ETF,P,F
 FLMX,Franklin FTSE Mexico ETF,Franklin FTSE Mexico ETF,P,FLMX,Y,100.0,N,FLMX
 FLNG,FLEX LNG Ltd. Ordinary Shares,FLEX LNG Ltd. Ordinary Shares,N,FLNG,N,100.0,N,FLNG
 FLO,"Flowers Foods, Inc. Common Stock","Flowers Foods, Inc. Common Stock",N,FLO,N,100.0,N,FLO
+FLOC,Flowco Holdings Inc. Class A Common Stock,Flowco Holdings Inc. Class A Common Stock,N,FLOC,N,100.0,N,FLOC
 FLOT,iShares Floating Rate Bond ETF,iShares Floating Rate Bond ETF,Z,FLOT,Y,100.0,N,FLOT
 FLOW,Global X Funds Global X U.S. Cash Flow Kings 100 ETF,Global X Funds Global X U.S. Cash Flow Kings 100 ETF,P,FLOW,Y,100.0,N,FLOW
 FLQL,Franklin U.S. Large Cap Multifactor Index ETF,Franklin U.S. Large Cap Multifactor Index ETF,Z,FLQL,Y,100.0,N,FLQL
@@ -2284,7 +2286,6 @@ GAP,"Gap, Inc. (The) Common Stock","Gap, Inc. (The) Common Stock",N,GAP,N,100.0,
 GAPR,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - April,Z,GAPR,Y,100.0,N,GAPR
 GARP,iShares MSCI USA Quality GARP ETF,iShares MSCI USA Quality GARP ETF,Z,GARP,Y,100.0,N,GARP
 GAST,Gabelli Automation ETF,Gabelli Automation ETF,P,GAST,Y,100.0,N,GAST
-GATO,"Gatos Silver, Inc. Common Stock","Gatos Silver, Inc. Common Stock",N,GATO,N,100.0,N,GATO
 GATX,GATX Corporation Common Stock,GATX Corporation Common Stock,N,GATX,N,100.0,N,GATX
 GAU,Galiano Gold Inc.,Galiano Gold Inc.,A,GAU,N,100.0,N,GAU
 GAUG,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - August,Z,GAUG,Y,100.0,N,GAUG
@@ -3455,6 +3456,7 @@ LGL,"LGL Group, Inc. (The) Common Stock","LGL Group, Inc. (The) Common Stock",A,
 LGL.W,"LGL Group, Inc. (The) Warrants","LGL Group, Inc. (The) Warrants",A,LGL.WS,N,100.0,N,LGL+
 LGLV,SPDR SSGA US Large Cap Low Volatility Index ETF,SPDR SSGA US Large Cap Low Volatility Index ETF,P,LGLV,Y,100.0,N,LGLV
 LGOV,First Trust Long Duration Opportunities ETF,First Trust Long Duration Opportunities ETF,P,LGOV,Y,100.0,N,LGOV
+LGPS,LogProstyle Inc. Common Shares,LogProstyle Inc. Common Shares,A,LGPS,N,100.0,N,LGPS
 LH,Labcorp Holdings Inc. Common Stock,Labcorp Holdings Inc. Common Stock,N,LH,N,100.0,N,LH
 LHX,"L3Harris Technologies, Inc. Common Stock","L3Harris Technologies, Inc. Common Stock",N,LHX,N,100.0,N,LHX
 LIAB,Stone Ridge 2048 Inflation,Stone Ridge 2048 Inflation-Protected Longevity Income ETF,Z,LIAB,Y,100.0,N,LIAB
@@ -5232,6 +5234,7 @@ SOFR,Amplify ETF Trust Amplify Samsung SOFR ETF,Amplify ETF Trust Amplify Samsun
 SOJC,"Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077","Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077",N,SOJC,N,100.0,N,SOJC
 SOJD,"Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080","Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080",N,SOJD,N,100.0,N,SOJD
 SOJE,"Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060","Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060",N,SOJE,N,100.0,N,SOJE
+SOJF,"Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085","Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085",N,SOJF,N,100.0,N,SOJF
 SOL,"Emeren Group Ltd American Depositary Shares, each representing 10 shares","Emeren Group Ltd American Depositary Shares, each representing 10 shares",N,SOL,N,100.0,N,SOL
 SOLR,SmartETFs Sustainable Energy II ETF,SmartETFs Sustainable Energy II ETF,P,SOLR,Y,100.0,N,SOLR
 SOLV,Solventum Corporation Common Stock,Solventum Corporation Common Stock,N,SOLV,N,100.0,N,SOLV
@@ -5699,6 +5702,7 @@ TWO,Two Harbors Investment Corp,Two Harbors Investment Corp,N,TWO,N,100.0,N,TWO
 TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),N,TWOpA,N,100.0,N,TWO-A
 TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpB,N,100.0,N,TWO-B
 TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpC,N,100.0,N,TWO-C
+TWOX,iShares Trust iShares Large Cap Accelerated ETF,iShares Trust iShares Large Cap Accelerated ETF,Z,TWOX,Y,100.0,N,TWOX
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)","Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",N,TX,N,100.0,N,TX
 TXNM,"TXNM Energy, Inc. Common Stock","TXNM Energy, Inc. Common Stock",N,TXNM,N,100.0,N,TXNM
 TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests","TXO Partners, L.P. Common Units Representing Limited Partner Interests",N,TXO,N,100.0,N,TXO
