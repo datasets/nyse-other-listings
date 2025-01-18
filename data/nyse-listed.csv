@@ -304,7 +304,6 @@ BBWI,"Bath & Body Works, Inc."
 BBY,"Best Buy Co., Inc. Common Stock"
 BC,Brunswick Corporation Common Stock
 BC$A,Brunswick Corporation 6.500% Senior Notes due 2048
-BC$B,Brunswick Corporation 6.625% Senior Notes due 2049
 BC$C,Brunswick Corporation 6.375% Notes due 2049
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest
 BCC,"Boise Cascade, L.L.C. Common Stock"
@@ -1425,6 +1424,7 @@ JEF,Jefferies Financial Group Inc. Common Stock
 JELD,JELD
 JEQ,"abrdn Japan Equity Fund, Inc. Common Stock"
 JFR,Nuveen Floating Rate Income Fund Common Stock
+JFR.V,"Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued"
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest
 JHG,Janus Henderson Group plc Ordinary Shares
 JHI,John Hancock Investors Trust Common Stock
@@ -2167,6 +2167,7 @@ QTWO,"Q2 Holdings, Inc. Common Stock"
 QUAD,"Quad Graphics, Inc Class A Common Stock"
 QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068"
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067"
+QXO,"QXO, Inc. Common Stock"
 R,"Ryder System, Inc. Common Stock"
 RA,Brookfield Real Assets Income Fund Inc. Common Stock
 RACE,Ferrari N.V. Common Shares

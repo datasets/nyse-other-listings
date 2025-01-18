@@ -520,7 +520,6 @@ BBWI,"Bath & Body Works, Inc.","Bath & Body Works, Inc.",N,BBWI,N,100.0,N,BBWI
 BBY,"Best Buy Co., Inc. Common Stock","Best Buy Co., Inc. Common Stock",N,BBY,N,100.0,N,BBY
 BC,Brunswick Corporation Common Stock,Brunswick Corporation Common Stock,N,BC,N,100.0,N,BC
 BC$A,Brunswick Corporation 6.500% Senior Notes due 2048,Brunswick Corporation 6.500% Senior Notes due 2048,N,BCpA,N,100.0,N,BC-A
-BC$B,Brunswick Corporation 6.625% Senior Notes due 2049,Brunswick Corporation 6.625% Senior Notes due 2049,N,BCpB,N,100.0,N,BC-B
 BC$C,Brunswick Corporation 6.375% Notes due 2049,Brunswick Corporation 6.375% Notes due 2049,N,BCpC,N,100.0,N,BC-C
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,N,BCAT,N,100.0,N,BCAT
 BCC,"Boise Cascade, L.L.C. Common Stock","Boise Cascade, L.L.C. Common Stock",N,BCC,N,100.0,N,BCC
@@ -3136,6 +3135,7 @@ JETD,Bank Of Montreal MAX Airlines ,Bank Of Montreal MAX Airlines -3X Inverse Le
 JETS,U.S. Global Jets ETF,U.S. Global Jets ETF,P,JETS,Y,100.0,N,JETS
 JETU,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,P,JETU,Y,100.0,N,JETU
 JFR,Nuveen Floating Rate Income Fund Common Stock,Nuveen Floating Rate Income Fund Common Stock,N,JFR,N,100.0,N,JFR
+JFR.V,"Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued","Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued",N,JFRrw,N,100.0,N,JFR^#
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,Nuveen Global High Income Fund Common Shares of Beneficial Interest,N,JGH,N,100.0,N,JGH
 JGRO,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Growth ETF,P,JGRO,Y,100.0,N,JGRO
 JGRW,Trust for Professional Managers Jensen Quality Growth ETF,Trust for Professional Managers Jensen Quality Growth ETF,P,JGRW,Y,100.0,N,JGRW
@@ -4686,6 +4686,7 @@ QVMM,Invesco S&P MidCap 400 QVM Multi,Invesco S&P MidCap 400 QVM Multi-factor ET
 QVMS,Invesco S&P SmallCap 600 QVM Multi,Invesco S&P SmallCap 600 QVM Multi-factor ETF,P,QVMS,Y,100.0,N,QVMS
 QVOY,Q3 All,Q3 All-Season Active Rotation ETF Q3 All-Season Active Rotation ETF,Z,QVOY,Y,100.0,N,QVOY
 QWLD,SPDR MSCI World StrategicFactors ETF,SPDR MSCI World StrategicFactors ETF,P,QWLD,Y,100.0,N,QWLD
+QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,Brookfield Real Assets Income Fund Inc. Common Stock,N,RA,N,100.0,N,RA
 RAAX,VanEck Real Assets ETF,VanEck Real Assets ETF,P,RAAX,Y,100.0,N,RAAX
