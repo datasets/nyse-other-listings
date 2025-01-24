@@ -556,6 +556,7 @@ BEEP,Mobile Infrastructure Corporation Common Stock,Mobile Infrastructure Corpor
 BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),N,BEKE,N,100.0,N,BEKE
 BEMB,iShares Trust iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,iShares Trust iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,Z,BEMB,Y,100.0,N,BEMB
 BEN,"Franklin Resources, Inc. Common Stock","Franklin Resources, Inc. Common Stock",N,BEN,N,100.0,N,BEN
+BENJ,Horizon Funds Horizon Landmark ETF,Horizon Funds Horizon Landmark ETF,P,BENJ,Y,100.0,N,BENJ
 BEP,Brookfield Renewable Partners L.P. Limited Partnership Units,Brookfield Renewable Partners L.P. Limited Partnership Units,N,BEP,N,100.0,N,BEP
 BEP$A,"Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17","Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17",N,BEPpA,N,100.0,N,BEP-A
 BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,N,BEPC,N,100.0,N,BEPC
@@ -2068,6 +2069,7 @@ FITE,SPDR S&P Kensho Future Security ETF ,SPDR S&P Kensho Future Security ETF ,P
 FIVA,Fidelity International Value Factor ETF,Fidelity International Value Factor ETF,P,FIVA,Y,100.0,N,FIVA
 FIW,First Trust Water ETF,First Trust Water ETF,P,FIW,Y,100.0,N,FIW
 FIX,"Comfort Systems USA, Inc. Common Stock","Comfort Systems USA, Inc. Common Stock",N,FIX,N,100.0,N,FIX
+FIXP,Tidal ETF Trust FolioBeyond Enhanced Fixed Income Premium ETF,Tidal ETF Trust FolioBeyond Enhanced Fixed Income Premium ETF,P,FIXP,Y,100.0,N,FIXP
 FJAN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - January,Z,FJAN,Y,100.0,N,FJAN
 FJUL,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - July,Z,FJUL,Y,100.0,N,FJUL
 FJUN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - June,Z,FJUN,Y,100.0,N,FJUN
@@ -2162,6 +2164,7 @@ FNDE,Schwab Fundamental Emerging Markets Equity ETF,Schwab Fundamental Emerging 
 FNDF,Schwab Fundamental International Equity ETF,Schwab Fundamental International Equity ETF,P,FNDF,Y,100.0,N,FNDF
 FNDX,Schwab Fundamental U.S. Large Company ETF,Schwab Fundamental U.S. Large Company ETF,P,FNDX,Y,100.0,N,FNDX
 FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock","FNF Group of Fidelity National Financial, Inc. Common Stock",N,FNF,N,100.0,N,FNF
+FNGB,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,P,FNGB,Y,100.0,N,FNGB
 FNGD,MicroSectors FANG  Index ,"MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038",P,FNGD,N,100.0,N,FNGD
 FNGG,Direxion Daily NYSE FANG+ Bull 2X Shares,Direxion Daily NYSE FANG+ Bull 2X Shares,P,FNGG,Y,100.0,N,FNGG
 FNGO,"MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038","MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038",P,FNGO,N,100.0,N,FNGO
@@ -2452,6 +2455,7 @@ GNOV,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffe
 GNR,SPDR S&P Global Natural Resources ETF,SPDR S&P Global Natural Resources ETF,P,GNR,Y,100.0,N,GNR
 GNRC,Generac Holdlings Inc. Common Stock,Generac Holdlings Inc. Common Stock,N,GNRC,N,100.0,N,GNRC
 GNS,Genius Group Limited Ordinary Shares,Genius Group Limited Ordinary Shares,A,GNS,N,100.0,N,GNS
+GNS.V,"Genius Group Limited Rights (expiring February 14, 2025) Rights when issued","Genius Group Limited Rights (expiring February 14, 2025) Rights when issued",A,GNSrw,N,100.0,N,GNS^#
 GNT,"GAMCO Natural Resources, Gold & Income Trust","GAMCO Natural Resources, Gold & Income Trust",N,GNT,N,100.0,N,GNT
 GNT$A,"GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)","GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)",N,GNTpA,N,100.0,N,GNT-A
 GNTY,"Guaranty Bancshares, Inc. Common Stock","Guaranty Bancshares, Inc. Common Stock",N,GNTY,N,100.0,N,GNTY
@@ -2480,6 +2484,7 @@ GPMT$A,Granite Point Mortgage Trust Inc. 7.00% Series A Fixed,Granite Point Mort
 GPN,Global Payments Inc. Common Stock,Global Payments Inc. Common Stock,N,GPN,N,100.0,N,GPN
 GPOR,Gulfport Energy Corporation Common Shares,Gulfport Energy Corporation Common Shares,N,GPOR,N,100.0,N,GPOR
 GPRK,Geopark Ltd Common Shares,Geopark Ltd Common Shares,N,GPRK,N,100.0,N,GPRK
+GPTY,Tidal Trust II YieldMax AI & Tech Portfolio Option Income ETF,Tidal Trust II YieldMax AI & Tech Portfolio Option Income ETF,P,GPTY,Y,100.0,N,GPTY
 GPUS,"Hyperscale Data, Inc. Common Stock","Hyperscale Data, Inc. Common Stock",A,GPUS,N,100.0,N,GPUS
 GPUS$D,"Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock","Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",A,GPUSpD,N,100.0,N,GPUS-D
 GQI,Natixis ETF Trust Natixis Gateway Quality Income ETF,Natixis ETF Trust Natixis Gateway Quality Income ETF,P,GQI,Y,100.0,N,GQI
@@ -2594,6 +2599,7 @@ HAYW,"Hayward Holdings, Inc. Common Stock","Hayward Holdings, Inc. Common Stock"
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,Hamilton Beach Brands Holding Company Class A Common Stock ,N,HBB,N,100.0,N,HBB
 HBI,Hanesbrands Inc. Common Stock,Hanesbrands Inc. Common Stock,N,HBI,N,100.0,N,HBI
 HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),Hudbay Minerals Inc. Ordinary Shares (Canada),N,HBM,N,100.0,N,HBM
+HBTA,Horizon Funds Horizon Expedition Plus ETF,Horizon Funds Horizon Expedition Plus ETF,P,HBTA,Y,100.0,N,HBTA
 HBTC,Listed Funds Trust Fortuna Hedged Bitcoin Fund,Listed Funds Trust Fortuna Hedged Bitcoin Fund,N,HBTC,Y,100.0,N,HBTC
 HCA,"HCA Healthcare, Inc. Common Stock","HCA Healthcare, Inc. Common Stock",N,HCA,N,100.0,N,HCA
 HCC,"Warrior Met Coal, Inc. Common Stock","Warrior Met Coal, Inc. Common Stock",N,HCC,N,100.0,N,HCC
@@ -3139,7 +3145,7 @@ JETD,Bank Of Montreal MAX Airlines ,Bank Of Montreal MAX Airlines -3X Inverse Le
 JETS,U.S. Global Jets ETF,U.S. Global Jets ETF,P,JETS,Y,100.0,N,JETS
 JETU,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,P,JETU,Y,100.0,N,JETU
 JFR,Nuveen Floating Rate Income Fund Common Stock,Nuveen Floating Rate Income Fund Common Stock,N,JFR,N,100.0,N,JFR
-JFR.V,"Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued","Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights when issued",N,JFRrw,N,100.0,N,JFR^#
+JFR.R,"Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights","Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights",N,JFRr,N,100.0,N,JFR^
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,Nuveen Global High Income Fund Common Shares of Beneficial Interest,N,JGH,N,100.0,N,JGH
 JGRO,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Growth ETF,P,JGRO,Y,100.0,N,JGRO
 JGRW,Trust for Professional Managers Jensen Quality Growth ETF,Trust for Professional Managers Jensen Quality Growth ETF,P,JGRW,Y,100.0,N,JGRW
@@ -6188,6 +6194,7 @@ XHYH,BondBloxx ETF Trust BondBloxx USD High Yield Bond Healthcare Sector ETF,Bon
 XHYI,BondBloxx ETF Trust BondBloxx USD High Yield Bond Industrial Sector ETF,BondBloxx ETF Trust BondBloxx USD High Yield Bond Industrial Sector ETF,P,XHYI,Y,100.0,N,XHYI
 XHYT,"BondBloxx ETF Trust BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF","BondBloxx ETF Trust BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF",P,XHYT,Y,100.0,N,XHYT
 XIDE,FT Vest U.S. Equity Buffer & Premium Income  ETF ,FT Vest U.S. Equity Buffer & Premium Income  ETF - December,Z,XIDE,Y,100.0,N,XIDE
+XIDV,Franklin Templeton ETF Trust Franklin International Dividend Multiplier Index ETF,Franklin Templeton ETF Trust Franklin International Dividend Multiplier Index ETF,P,XIDV,Y,100.0,N,XIDV
 XIJN,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Premium Income ETF - June,Z,XIJN,Y,100.0,N,XIJN
 XIMR,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Premium Income ETF - March,Z,XIMR,Y,100.0,N,XIMR
 XIN,Xinyuan Real Estate Co Ltd American Depositary Shares,Xinyuan Real Estate Co Ltd American Depositary Shares,N,XIN,N,100.0,N,XIN
@@ -6263,6 +6270,7 @@ XTR,Global X Funds Global X S&P 500 Tail Risk ETF,Global X Funds Global X S&P 50
 XTRE,BondBloxx ETF Trust BondBloxx Bloomberg Three Year Target Duration US Treasury ETF,BondBloxx ETF Trust BondBloxx Bloomberg Three Year Target Duration US Treasury ETF,P,XTRE,Y,100.0,N,XTRE
 XTWO,BondBloxx ETF Trust BondBloxx Bloomberg Two Year Target Duration US Treasury ETF,BondBloxx ETF Trust BondBloxx Bloomberg Two Year Target Duration US Treasury ETF,P,XTWO,Y,100.0,N,XTWO
 XTWY,BondBloxx ETF Trust BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF,BondBloxx ETF Trust BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF,P,XTWY,Y,100.0,N,XTWY
+XUDV,Franklin Templeton ETF Trust Franklin U.S. Dividend Multiplier Index ETF,Franklin Templeton ETF Trust Franklin U.S. Dividend Multiplier Index ETF,P,XUDV,Y,100.0,N,XUDV
 XUSP,Innovator ETFs Trust Innovator Uncapped Accelerated U.S. Equity ETF,Innovator ETFs Trust Innovator Uncapped Accelerated U.S. Equity ETF,Z,XUSP,Y,100.0,N,XUSP
 XVOL,Acruence Active Hedge U.S. Equity ETF,Acruence Active Hedge U.S. Equity ETF,Z,XVOL,Y,100.0,N,XVOL
 XVV,iShares ESG Screened S&P 500 ETF,iShares ESG Screened S&P 500 ETF,Z,XVV,Y,100.0,N,XVV
