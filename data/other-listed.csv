@@ -1543,6 +1543,7 @@ DX,"Dynex Capital, Inc. Common Stock","Dynex Capital, Inc. Common Stock",N,DX,N,
 DX$C,"Dynex Capital, Inc. 6.900% Series C Fixed","Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",N,DXpC,N,100.0,N,DX-C
 DXC,DXC Technology Company Common Stock ,DXC Technology Company Common Stock ,N,DXC,N,100.0,N,DXC
 DXD,ProShares UltraShort Dow30,ProShares UltraShort Dow30,P,DXD,Y,100.0,N,DXD
+DXF,Eason Technology Limited American Depositary Shares (each representing sixty,"Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",A,DXF,N,100.0,N,DXF
 DXIV,Dimensional ETF Trust Dimensional International Vector Equity ETF,Dimensional ETF Trust Dimensional International Vector Equity ETF,P,DXIV,Y,100.0,N,DXIV
 DXJ,WisdomTree Japan Hedged Equity Fund,WisdomTree Japan Hedged Equity Fund,P,DXJ,Y,100.0,N,DXJ
 DXUV,Dimensional ETF Trust Dimensional US Vector Equity ETF,Dimensional ETF Trust Dimensional US Vector Equity ETF,P,DXUV,Y,100.0,N,DXUV
@@ -2164,7 +2165,6 @@ FNDE,Schwab Fundamental Emerging Markets Equity ETF,Schwab Fundamental Emerging 
 FNDF,Schwab Fundamental International Equity ETF,Schwab Fundamental International Equity ETF,P,FNDF,Y,100.0,N,FNDF
 FNDX,Schwab Fundamental U.S. Large Company ETF,Schwab Fundamental U.S. Large Company ETF,P,FNDX,Y,100.0,N,FNDX
 FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock","FNF Group of Fidelity National Financial, Inc. Common Stock",N,FNF,N,100.0,N,FNF
-FNGB,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,P,FNGB,Y,100.0,N,FNGB
 FNGD,MicroSectors FANG  Index ,"MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038",P,FNGD,N,100.0,N,FNGD
 FNGG,Direxion Daily NYSE FANG+ Bull 2X Shares,Direxion Daily NYSE FANG+ Bull 2X Shares,P,FNGG,Y,100.0,N,FNGG
 FNGO,"MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038","MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038",P,FNGO,N,100.0,N,FNGO
@@ -3265,7 +3265,7 @@ KBDC,"Kayne Anderson BDC, Inc. Common Stock","Kayne Anderson BDC, Inc. Common St
 KBE,SPDR S&P Bank ETF,SPDR S&P Bank ETF,P,KBE,Y,100.0,N,KBE
 KBH,KB Home Common Stock,KB Home Common Stock,N,KBH,N,100.0,N,KBH
 KBR,"KBR, Inc. Common Stock","KBR, Inc. Common Stock",N,KBR,N,100.0,N,KBR
-KBUF,KraneShares Trust KraneShares 90% KWEB Defined Outcome January 2026 ETF,KraneShares Trust KraneShares 90% KWEB Defined Outcome January 2026 ETF,P,KBUF,Y,100.0,N,KBUF
+KBUF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,P,KBUF,Y,100.0,N,KBUF
 KCAI,KraneShares Trust KraneShares China Alpha Index ETF,KraneShares Trust KraneShares China Alpha Index ETF,P,KCAI,Y,100.0,N,KCAI
 KCCA,KraneShares California Carbon Allowance Strategy ETF,KraneShares California Carbon Allowance Strategy ETF,P,KCCA,Y,100.0,N,KCCA
 KCE,SPDR S&P Capital Markets ETF,SPDR S&P Capital Markets ETF,P,KCE,Y,100.0,N,KCE
@@ -3349,7 +3349,7 @@ KORP,American Century Diversified Corporate Bond ETF,American Century Diversifie
 KORU,Direxion Daily South Korea Bull 3X Shares,Direxion Daily South Korea Bull 3X Shares,P,KORU,Y,100.0,N,KORU
 KOS,Kosmos Energy Ltd. Common Shares (DE),Kosmos Energy Ltd. Common Shares (DE),N,KOS,N,100.0,N,KOS
 KPOP,JAKOTA K,JAKOTA K-Pop and Korean Entertainment ETF,P,KPOP,Y,100.0,N,KPOP
-KPRO,KraneShares Trust KraneShares 100% KWEB Defined Outcome January 2026 ETF,KraneShares Trust KraneShares 100% KWEB Defined Outcome January 2026 ETF,P,KPRO,Y,100.0,N,KPRO
+KPRO,KraneShares 100% KWEB Defined Outcome January 2027 ETF,KraneShares 100% KWEB Defined Outcome January 2027 ETF,P,KPRO,Y,100.0,N,KPRO
 KR,Kroger Company (The) Common Stock,Kroger Company (The) Common Stock,N,KR,N,100.0,N,KR
 KRBN,KraneShares Global Carbon Strategy ETF,KraneShares Global Carbon Strategy ETF,P,KRBN,Y,100.0,N,KRBN
 KRC,Kilroy Realty Corporation Common Stock,Kilroy Realty Corporation Common Stock,N,KRC,N,100.0,N,KRC
@@ -4058,7 +4058,7 @@ NRG,"NRG Energy, Inc. Common Stock","NRG Energy, Inc. Common Stock",N,NRG,N,100.
 NRGV,"Energy Vault Holdings, Inc. Common Stock","Energy Vault Holdings, Inc. Common Stock",N,NRGV,N,100.0,N,NRGV
 NRK,Nuveen New York AMT,Nuveen New York AMT-Free Quality Municipal Income Fund ,N,NRK,N,100.0,N,NRK
 NRO,"Neuberger Berman Real Estate Securities Income Fund, Inc.","Neuberger Berman Real Estate Securities Income Fund, Inc.",A,NRO,N,100.0,N,NRO
-NRO.V,"Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights when issued","Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights when issued",A,NROrw,N,100.0,N,NRO^#
+NRO.R,"Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights","Neuberger Berman Real Estate Securities Income Fund, Inc. Rights (expiring February 19, 2025) Rights",A,NROr,N,100.0,N,NRO^
 NRP,Natural Resource Partners LP Limited Partnership,Natural Resource Partners LP Limited Partnership,N,NRP,N,100.0,N,NRP
 NRSH,Tidal ETF Trust Aztlan North America Nearshoring Stock Selection ETF,Tidal ETF Trust Aztlan North America Nearshoring Stock Selection ETF,P,NRSH,Y,100.0,N,NRSH
 NRT,North European Oil Royality Trust Common Stock,North European Oil Royality Trust Common Stock,N,NRT,N,100.0,N,NRT
@@ -5919,6 +5919,7 @@ VFMO,Vanguard U.S. Momentum Factor ETF,Vanguard U.S. Momentum Factor ETF,Z,VFMO,
 VFMV,Vanguard U.S. Minimum Volatility ETF,Vanguard U.S. Minimum Volatility ETF,Z,VFMV,Y,100.0,N,VFMV
 VFQY,Vanguard U.S. Quality Factor ETF,Vanguard U.S. Quality Factor ETF,Z,VFQY,Y,100.0,N,VFQY
 VFVA,Vanguard U.S. Value Factor ETF,Vanguard U.S. Value Factor ETF,Z,VFVA,Y,100.0,N,VFVA
+VG,"Venture Global, Inc. Class A common stock","Venture Global, Inc. Class A common stock",N,VG,N,100.0,N,VG
 VGI,Virtus Global Multi,Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,N,VGI,N,100.0,N,VGI
 VGK,Vanguard FTSEEuropean ETF,Vanguard FTSEEuropean ETF,P,VGK,Y,100.0,N,VGK
 VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),Invesco Trust for Investment Grade Municipals Common Stock (DE),N,VGM,N,100.0,N,VGM
