@@ -261,7 +261,6 @@ AZEK,The AZEK Company Inc. Class A Common Stock
 AZO,"AutoZone, Inc. Common Stock"
 AZUL,Azul S.A. American Depositary Shares (each representing three preferred shares)
 AZZ,AZZ Inc.
-B,"Barnes Group, Inc. Common Stock"
 BA,Boeing Company (The) Common Stock
 BA$A,"Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00"
 BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share
@@ -1529,12 +1528,12 @@ KW,Kennedy
 KWR,Quaker Houghton Common Stock
 KYN,"Kayne Anderson Energy Infrastructure Fund, Inc."
 L,Loews Corporation Common Stock
-LAAC,Lithium Americas (Argentina) Corp. Common Shares
 LAC,Lithium Americas Corp. Common Shares
 LAD,"Lithia Motors, Inc. Common Stock"
 LADR,Ladder Capital Corp Class A Common Stock
 LANV,Lanvin Group Holdings Limited Ordinary Shares
 LANV.W,"Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50"
+LAR,Lithium Argentina AG Common Shares
 LAW,"CS Disco, Inc. Common Stock"
 LAZ,"Lazard, Inc. Common Stock"
 LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests
@@ -2370,6 +2369,8 @@ SKM,"SK Telecom Co., Ltd. Common Stock"
 SKT,Tanger Inc. Common Stock
 SKX,"Skechers U.S.A., Inc. Common Stock"
 SKY,"Champion Homes, Inc. Common Stock"
+SKYH,Sky Harbour Group Corporation Class A Common Stock
+SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share"
 SLB,Schlumberger N.V. Common Stock
 SLF,Sun Life Financial Inc. Common Stock
 SLG,SL Green Realty Corp Common Stock

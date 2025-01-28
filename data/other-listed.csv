@@ -36,6 +36,7 @@ ABT,Abbott Laboratories Common Stock,Abbott Laboratories Common Stock,N,ABT,N,10
 AC,"Associated Capital Group, Inc. Common Stock","Associated Capital Group, Inc. Common Stock",N,AC,N,100.0,N,AC
 ACA,"Arcosa, Inc. Common Stock ","Arcosa, Inc. Common Stock ",N,ACA,N,100.0,N,ACA
 ACCO,Acco Brands Corporation Common Stock,Acco Brands Corporation Common Stock,N,ACCO,N,100.0,N,ACCO
+ACCS,ACCESS Newswire Inc. Common Stock,ACCESS Newswire Inc. Common Stock,A,ACCS,N,100.0,N,ACCS
 ACEL,"Accel Entertainment, Inc. ","Accel Entertainment, Inc. ",N,ACEL,N,100.0,N,ACEL
 ACES,ALPS Clean Energy ETF,ALPS Clean Energy ETF,P,ACES,Y,100.0,N,ACES
 ACGR,American Century Large Cap Growth ETF,American Century Large Cap Growth ETF,P,ACGR,Y,100.0,N,ACGR
@@ -437,7 +438,6 @@ AZTD,Tidal ETF Trust Aztlan Global Stock Selection DM SMID ETF,Tidal ETF Trust A
 AZTR,Azitra Inc Common Stock,Azitra Inc Common Stock,A,AZTR,N,100.0,N,AZTR
 AZUL,Azul S.A. American Depositary Shares (each representing three preferred shares),Azul S.A. American Depositary Shares (each representing three preferred shares),N,AZUL,N,100.0,N,AZUL
 AZZ,AZZ Inc.,AZZ Inc.,N,AZZ,N,100.0,N,AZZ
-B,"Barnes Group, Inc. Common Stock","Barnes Group, Inc. Common Stock",N,B,N,100.0,N,B
 BA,Boeing Company (The) Common Stock,Boeing Company (The) Common Stock,N,BA,N,100.0,N,BA
 BA$A,"Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00","Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00",N,BApA,N,100.0,N,BA-A
 BAB,Invesco Taxable Municipal Bond ETF,Invesco Taxable Municipal Bond ETF,P,BAB,Y,100.0,N,BAB
@@ -2455,7 +2455,7 @@ GNOV,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffe
 GNR,SPDR S&P Global Natural Resources ETF,SPDR S&P Global Natural Resources ETF,P,GNR,Y,100.0,N,GNR
 GNRC,Generac Holdlings Inc. Common Stock,Generac Holdlings Inc. Common Stock,N,GNRC,N,100.0,N,GNRC
 GNS,Genius Group Limited Ordinary Shares,Genius Group Limited Ordinary Shares,A,GNS,N,100.0,N,GNS
-GNS.V,"Genius Group Limited Rights (expiring February 14, 2025) Rights when issued","Genius Group Limited Rights (expiring February 14, 2025) Rights when issued",A,GNSrw,N,100.0,N,GNS^#
+GNS.R,"Genius Group Limited Rights (expiring February 14, 2025) Rights","Genius Group Limited Rights (expiring February 14, 2025) Rights",A,GNSr,N,100.0,N,GNS^
 GNT,"GAMCO Natural Resources, Gold & Income Trust","GAMCO Natural Resources, Gold & Income Trust",N,GNT,N,100.0,N,GNT
 GNT$A,"GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)","GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)",N,GNTpA,N,100.0,N,GNT-A
 GNTY,"Guaranty Bancshares, Inc. Common Stock","Guaranty Bancshares, Inc. Common Stock",N,GNTY,N,100.0,N,GNTY
@@ -3014,7 +3014,6 @@ ISCG,iShares Morningstar Small,iShares Morningstar Small-Cap Growth ETF,P,ISCG,Y
 ISCV,iShares Morningstar Small,iShares Morningstar Small-Cap Value ETF,P,ISCV,Y,100.0,N,ISCV
 ISD,"PGIM High Yield Bond Fund, Inc.","PGIM High Yield Bond Fund, Inc.",N,ISD,N,100.0,N,ISD
 ISDB,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco Short Duration Bond ETF,Z,ISDB,Y,100.0,N,ISDB
-ISDR,Issuer Direct Corporation Common Stock,Issuer Direct Corporation Common Stock,A,ISDR,N,100.0,N,ISDR
 ISEP,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  September,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  September,P,ISEP,Y,100.0,N,ISEP
 ISMD,Inspire Small/Mid Cap ETF,Inspire Small/Mid Cap ETF,P,ISMD,Y,100.0,N,ISMD
 ISPY,ProShares Trust ProShares S&P 500 High Income ETF,ProShares Trust ProShares S&P 500 High Income ETF,Z,ISPY,Y,100.0,N,ISPY
@@ -3309,7 +3308,7 @@ KKR,KKR & Co. Inc. Common Stock,KKR & Co. Inc. Common Stock,N,KKR,N,100.0,N,KKR
 KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,N,KKRS,N,100.0,N,KKRS
 KLC,"KinderCare Learning Companies, Inc. Common Stock","KinderCare Learning Companies, Inc. Common Stock",N,KLC,N,100.0,N,KLC
 KLG,WK Kellogg Co Common Stock,WK Kellogg Co Common Stock,N,KLG,N,100.0,N,KLG
-KLIP,KraneShares Trust KraneShares China Internet and Covered Call Strategy ETF,KraneShares Trust KraneShares China Internet and Covered Call Strategy ETF,P,KLIP,Y,100.0,N,KLIP
+KLIP,KraneShares KWEB Covered Call Strategy ETF,KraneShares KWEB Covered Call Strategy ETF,P,KLIP,Y,100.0,N,KLIP
 KLMN,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI North America Climate ETF,P,KLMN,Y,100.0,N,KLMN
 KLMT,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI Global Climate 500 ETF,P,KLMT,Y,100.0,N,KLMT
 KLXY,KraneShares Trust KraneShares Global Luxury Index ETF,KraneShares Trust KraneShares Global Luxury Index ETF,P,KLXY,Y,100.0,N,KLXY
@@ -3385,7 +3384,6 @@ KWT,iShares Trust iShares MSCI Kuwait ETF,iShares Trust iShares MSCI Kuwait ETF,
 KXI,iShares Global Consumer Staples ETF,iShares Global Consumer Staples ETF,P,KXI,Y,100.0,N,KXI
 KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.","Kayne Anderson Energy Infrastructure Fund, Inc.",N,KYN,N,100.0,N,KYN
 L,Loews Corporation Common Stock,Loews Corporation Common Stock,N,L,N,100.0,N,L
-LAAC,Lithium Americas (Argentina) Corp. Common Shares,Lithium Americas (Argentina) Corp. Common Shares,N,LAAC,N,100.0,N,LAAC
 LABD,Direxion Daily S&P Biotech Bear 3X Shares,Direxion Daily S&P Biotech Bear 3X Shares,P,LABD,Y,100.0,N,LABD
 LABU,Direxion Daily S&P Biotech Bull 3X Shares,Direxion Daily S&P Biotech Bull 3X Shares,P,LABU,Y,100.0,N,LABU
 LAC,Lithium Americas Corp. Common Shares,Lithium Americas Corp. Common Shares,N,LAC,N,100.0,N,LAC
@@ -3395,6 +3393,7 @@ LALT,First Trust Exchange,First Trust Exchange-Traded Fund VIII First Trust Mult
 LANV,Lanvin Group Holdings Limited Ordinary Shares,Lanvin Group Holdings Limited Ordinary Shares,N,LANV,N,100.0,N,LANV
 LANV.W,"Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50","Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",N,LANV.WS,N,100.0,N,LANV+
 LAPR,Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF ,Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF - April,Z,LAPR,Y,100.0,N,LAPR
+LAR,Lithium Argentina AG Common Shares,Lithium Argentina AG Common Shares,N,LAR,N,100.0,N,LAR
 LAW,"CS Disco, Inc. Common Stock","CS Disco, Inc. Common Stock",N,LAW,N,100.0,N,LAW
 LAZ,"Lazard, Inc. Common Stock","Lazard, Inc. Common Stock",N,LAZ,N,100.0,N,LAZ
 LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,N,LB,N,100.0,N,LB
@@ -4210,6 +4209,7 @@ OND,ProShares On,ProShares On-Demand ETF,P,OND,Y,100.0,N,OND
 ONEO,SPDR Russell 1000 Momentum Focus ETF,SPDR Russell 1000 Momentum Focus ETF,P,ONEO,Y,100.0,N,ONEO
 ONEV,SPDR Russell 1000 Low Volatility Focus ETF,SPDR Russell 1000 Low Volatility Focus ETF,P,ONEV,Y,100.0,N,ONEV
 ONEY,SPDR Russell 1000 Yield Focus ETF,SPDR Russell 1000 Yield Focus ETF,P,ONEY,Y,100.0,N,ONEY
+ONEZ,Elevation Series Trust TrueShares Seasonality Laddered Buffered ETF,Elevation Series Trust TrueShares Seasonality Laddered Buffered ETF,Z,ONEZ,Y,100.0,N,ONEZ
 ONIT,Onity Group Inc. Common Stock,Onity Group Inc. Common Stock,N,ONIT,N,100.0,N,ONIT
 ONL,Orion Office REIT Inc. Common Stock,Orion Office REIT Inc. Common Stock,N,ONL,N,100.0,N,ONL
 ONLN,ProShares Online Retail ETF,ProShares Online Retail ETF,P,ONLN,Y,100.0,N,ONLN
@@ -5169,8 +5169,8 @@ SKM,"SK Telecom Co., Ltd. Common Stock","SK Telecom Co., Ltd. Common Stock",N,SK
 SKT,Tanger Inc. Common Stock,Tanger Inc. Common Stock,N,SKT,N,100.0,N,SKT
 SKX,"Skechers U.S.A., Inc. Common Stock","Skechers U.S.A., Inc. Common Stock",N,SKX,N,100.0,N,SKX
 SKY,"Champion Homes, Inc. Common Stock","Champion Homes, Inc. Common Stock",N,SKY,N,100.0,N,SKY
-SKYH,Sky Harbour Group Corporation Class A Common Stock,Sky Harbour Group Corporation Class A Common Stock,A,SKYH,N,100.0,N,SKYH
-SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",A,SKYH.WS,N,100.0,N,SKYH+
+SKYH,Sky Harbour Group Corporation Class A Common Stock,Sky Harbour Group Corporation Class A Common Stock,N,SKYH,N,100.0,N,SKYH
+SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",N,SKYH.WS,N,100.0,N,SKYH+
 SLB,Schlumberger N.V. Common Stock,Schlumberger N.V. Common Stock,N,SLB,N,100.0,N,SLB
 SLDR,Global X Funds Global X Short,Global X Funds Global X Short-Term Treasury Ladder ETF,P,SLDR,Y,100.0,N,SLDR
 SLF,Sun Life Financial Inc. Common Stock,Sun Life Financial Inc. Common Stock,N,SLF,N,100.0,N,SLF
