@@ -85,8 +85,6 @@ AES,The AES Corporation Common Stock,The AES Corporation Common Stock,N,AES,N,10
 AESI,Atlas Energy Solutions Inc. Common Stock,Atlas Energy Solutions Inc. Common Stock,N,AESI,N,100.0,N,AESI
 AESR,Anfield U.S. Equity Sector Rotation ETF,Anfield U.S. Equity Sector Rotation ETF,Z,AESR,Y,100.0,N,AESR
 AETH,Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF,Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF,P,AETH,Y,100.0,N,AETH
-AEVA,"Aeva Technologies, Inc. Common Stock","Aeva Technologies, Inc. Common Stock",N,AEVA,N,100.0,N,AEVA
-AEVA.W,"Aeva Technologies, Inc. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share","Aeva Technologies, Inc. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share",N,AEVA.WS,N,100.0,N,AEVA+
 AFB,AllianceBernstein National Municipal Income Fund Inc,AllianceBernstein National Municipal Income Fund Inc,N,AFB,N,100.0,N,AFB
 AFG,"American Financial Group, Inc. Common Stock","American Financial Group, Inc. Common Stock",N,AFG,N,100.0,N,AFG
 AFGB,"American Financial Group, Inc. 5.875% Subordinated Debentures due 2059","American Financial Group, Inc. 5.875% Subordinated Debentures due 2059",N,AFGB,N,100.0,N,AFGB
@@ -2287,7 +2285,7 @@ GAEM,Simplify Exchange Traded Funds Simplify Gamma Emerging Market Bond ETF,Simp
 GAL,SPDR SSgA Global Allocation ETF,SPDR SSgA Global Allocation ETF,P,GAL,Y,100.0,N,GAL
 GAM,"General American Investors, Inc. Common Stock","General American Investors, Inc. Common Stock",N,GAM,N,100.0,N,GAM
 GAM$B,"General American Investors Company, Inc. Cumulative Preferred Stock","General American Investors Company, Inc. Cumulative Preferred Stock",N,GAMpB,N,100.0,N,GAM-B
-GAMR,Amplify ETF Trust Amplify Video Game Tech ETF,Amplify ETF Trust Amplify Video Game Tech ETF,P,GAMR,Y,100.0,N,GAMR
+GAMR,Amplify Video Game Leaders ETF,Amplify Video Game Leaders ETF,P,GAMR,Y,100.0,N,GAMR
 GAP,"Gap, Inc. (The) Common Stock","Gap, Inc. (The) Common Stock",N,GAP,N,100.0,N,GAP
 GAPR,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - April,Z,GAPR,Y,100.0,N,GAPR
 GARP,iShares MSCI USA Quality GARP ETF,iShares MSCI USA Quality GARP ETF,Z,GARP,Y,100.0,N,GARP
@@ -3529,6 +3527,7 @@ LQDH,iShares Interest Rate Hedged Corporate Bond ETF,iShares Interest Rate Hedge
 LQDI,iShares Inflation Hedged Corporate Bond ETF,iShares Inflation Hedged Corporate Bond ETF,Z,LQDI,Y,100.0,N,LQDI
 LQDW,iShares Trust iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,iShares Trust iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,Z,LQDW,Y,100.0,N,LQDW
 LQIG,SPDR Series Trust SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,SPDR Series Trust SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,P,LQIG,Y,100.0,N,LQIG
+LQPE,Tidal Trust III PEO AlphaQuest Thematic PE ETF,Tidal Trust III PEO AlphaQuest Thematic PE ETF,P,LQPE,Y,100.0,N,LQPE
 LRGC,"AB Active ETFs, Inc. AB US Large Cap Strategic Equities ETF","AB Active ETFs, Inc. AB US Large Cap Strategic Equities ETF",P,LRGC,Y,100.0,N,LRGC
 LRGF,iShares U.S. Equity Factor ETF,iShares U.S. Equity Factor ETF,P,LRGF,Y,100.0,N,LRGF
 LRGG,Macquarie ETF Trust Macquarie Focused Large Growth ETF,Macquarie ETF Trust Macquarie Focused Large Growth ETF,P,LRGG,Y,100.0,N,LRGG
@@ -3718,7 +3717,6 @@ MITT$B,"AG Mortgage Investment Trust, Inc. Preferred Series B","AG Mortgage Inve
 MITT$C,"AG Mortgage Investment Trust, Inc. 8.00% Series C Fixed","AG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",N,MITTpC,N,100.0,N,MITT-C
 MIY,"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock","Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",N,MIY,N,100.0,N,MIY
 MJ,Amplify ETF Trust Amplify Alternative Harvest ETF,Amplify ETF Trust Amplify Alternative Harvest ETF,P,MJ,Y,100.0,N,MJ
-MJUS,Amplify ETF Trust Amplify U.S. Alternative Harvest ETF,Amplify ETF Trust Amplify U.S. Alternative Harvest ETF,P,MJUS,Y,100.0,N,MJUS
 MKC,"McCormick & Company, Incorporated Common Stock","McCormick & Company, Incorporated Common Stock",N,MKC,N,100.0,N,MKC
 MKC.V,"McCormick & Company, Incorporated Common Stock","McCormick & Company, Incorporated Common Stock",N,MKC.V,N,100.0,N,MKC.V
 MKFG,Markforged Holding Corporation Common Stock,Markforged Holding Corporation Common Stock,N,MKFG,N,100.0,N,MKFG
