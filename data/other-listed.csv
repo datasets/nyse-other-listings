@@ -3427,6 +3427,7 @@ LEGT.W,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisa
 LEMB,iShares J.P. Morgan EM Local Currency Bond,iShares J.P. Morgan EM Local Currency Bond,P,LEMB,Y,100.0,N,LEMB
 LEN,Lennar Corporation Class A Common Stock,Lennar Corporation Class A Common Stock,N,LEN,N,100.0,N,LEN
 LEN.B,Lennar Corporation Class B,Lennar Corporation Class B,N,LEN.B,N,100.0,N,LEN.B
+LENS,EA Series Trust Sarmaya Thematic ETF,EA Series Trust Sarmaya Thematic ETF,Z,LENS,Y,100.0,N,LENS
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock","BNY Mellon Strategic Municipals, Inc. Common Stock",N,LEO,N,100.0,N,LEO
 LEU,Centrus Energy Corp. Class A Common Stock,Centrus Energy Corp. Class A Common Stock,A,LEU,N,100.0,N,LEU
 LEVI,Levi Strauss & Co Class A Common Stock,Levi Strauss & Co Class A Common Stock,N,LEVI,N,100.0,N,LEVI
@@ -3815,6 +3816,7 @@ MSFY,Kurv Yield Premium Strategy Microsoft (MSFT) ETF,Kurv Yield Premium Strateg
 MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,Madison Square Garden Entertainment Corp. Class A Common Stock,N,MSGE,N,100.0,N,MSGE
 MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),Madison Square Garden Sports Corp. Class A Common Stock (New),N,MSGS,N,100.0,N,MSGS
 MSI,"Motorola Solutions, Inc. Common Stock","Motorola Solutions, Inc. Common Stock",N,MSI,N,100.0,N,MSI
+MSIF,"MSC Income Fund, Inc. Common Stock","MSC Income Fund, Inc. Common Stock",N,MSIF,N,100.0,N,MSIF
 MSLC,Morgan Stanley Pathway Funds Morgan Stanley Pathway Large Cap Equity ETF,Morgan Stanley Pathway Funds Morgan Stanley Pathway Large Cap Equity ETF,P,MSLC,Y,100.0,N,MSLC
 MSM,"MSC Industrial Direct Company, Inc. Common Stock","MSC Industrial Direct Company, Inc. Common Stock",N,MSM,N,100.0,N,MSM
 MSMR,ETF Series Solutions McElhenny Sheffield Managed Risk ETF,ETF Series Solutions McElhenny Sheffield Managed Risk ETF,Z,MSMR,Y,100.0,N,MSMR
@@ -5867,6 +5869,7 @@ UVXY,ProShares Trust Ultra VIX Short Term Futures ETF,ProShares Trust Ultra VIX 
 UWM,ProShares Ultra Russell2000,ProShares Ultra Russell2000,P,UWM,Y,100.0,N,UWM
 UWMC,UWM Holdings Corporation Class A Common Stock,UWM Holdings Corporation Class A Common Stock,N,UWMC,N,100.0,N,UWMC
 UWMC.W,UWM Holdings Corporation Warrant,UWM Holdings Corporation Warrant,N,UWMC.WS,N,100.0,N,UWMC+
+UX,Roundhill ETF Trust Roundhill Uranium ETF,Roundhill ETF Trust Roundhill Uranium ETF,Z,UX,Y,100.0,N,UX
 UXI,ProShares Ultra Industrials,ProShares Ultra Industrials,P,UXI,Y,100.0,N,UXI
 UXJA,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - January,Z,UXJA,Y,100.0,N,UXJA
 UXOC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - October,Z,UXOC,Y,100.0,N,UXOC
