@@ -1227,6 +1227,7 @@ CVLG,"Covenant Logistics Group, Inc. Class A Common Stock","Covenant Logistics G
 CVM,Cel,Cel-Sci Corporation Common Stock,A,CVM,N,100.0,N,CVM
 CVMC,Morgan Stanley ETF Trust Calvert US Mid,Morgan Stanley ETF Trust Calvert US Mid-Cap Core Responsible Index ETF,P,CVMC,Y,100.0,N,CVMC
 CVNA,Carvana Co. Class A Common Stock,Carvana Co. Class A Common Stock,N,CVNA,N,100.0,N,CVNA
+CVNY,Tidal Trust II YieldMax CVNA Option Income Strategy ETF,Tidal Trust II YieldMax CVNA Option Income Strategy ETF,P,CVNY,Y,100.0,N,CVNY
 CVR,Chicago Rivet & Machine Co. Common Stock,Chicago Rivet & Machine Co. Common Stock,A,CVR,N,100.0,N,CVR
 CVRD,Madison ETFs Trust Madison Covered Call ETF,Madison ETFs Trust Madison Covered Call ETF,P,CVRD,Y,100.0,N,CVRD
 CVRT,Calamos ETF Trust Calamos Convertible Equity Alternative ETF,Calamos ETF Trust Calamos Convertible Equity Alternative ETF,P,CVRT,Y,100.0,N,CVRT
@@ -3104,6 +3105,8 @@ IYZ,iShares U.S. Telecommunications ETF,iShares U.S. Telecommunications ETF,Z,IY
 IZRL,ARK Israel Innovative Technology ETF,ARK Israel Innovative Technology ETF,Z,IZRL,Y,100.0,N,IZRL
 J,Jacobs Solutions Inc. Common Stock,Jacobs Solutions Inc. Common Stock,N,J,N,100.0,N,J
 JAAA,Janus Henderson AAA CLO ETF,Janus Henderson AAA CLO ETF,P,JAAA,Y,100.0,N,JAAA
+JACS,Jackson Acquisition Company II Class A Ordinary Shares,Jackson Acquisition Company II Class A Ordinary Shares,N,JACS,N,100.0,N,JACS
+JACS.R,"Jackson Acquisition Company II Rights, each right to acquire one","Jackson Acquisition Company II Rights, each right to acquire one-tenth (1/10) of one Class A ordinary share",N,JACSr,N,100.0,N,JACS^
 JACS.U,"Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one","Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one-tenth (1/10) of one Class A ordinary share",N,JACS.U,N,100.0,N,JACS=
 JADE,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Developing Markets Equity ETF,P,JADE,Y,100.0,N,JADE
 JAJL,SHL Telemedicine Ltd Innovator Equity Defined Protection ETF ,SHL Telemedicine Ltd Innovator Equity Defined Protection ETF - 6mo Jan/Jul,Z,JAJL,Y,100.0,N,JAJL
@@ -3328,7 +3331,6 @@ KNOV,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator E
 KNOW,Fundamentals First ETF Fundamentals First ETF,Fundamentals First ETF Fundamentals First ETF,Z,KNOW,Y,100.0,N,KNOW
 KNSL,"Kinsale Capital Group, Inc. Common Stock","Kinsale Capital Group, Inc. Common Stock",N,KNSL,N,100.0,N,KNSL
 KNTK,Kinetik Holdings Inc. Class A Common Stock,Kinetik Holdings Inc. Class A Common Stock,N,KNTK,N,100.0,N,KNTK
-KNW,"Know Labs, Inc. Common Stock","Know Labs, Inc. Common Stock",A,KNW,N,100.0,N,KNW
 KNX,Knight,Knight-Swift Transportation Holdings Inc.,N,KNX,N,100.0,N,KNX
 KO,Coca,Coca-Cola Company (The) Common Stock,N,KO,N,100.0,N,KO
 KOCG,NEOS ETF Trust FIS Knights of Columbus Global Belief ETF,NEOS ETF Trust FIS Knights of Columbus Global Belief ETF,P,KOCG,Y,100.0,N,KOCG
@@ -3756,6 +3758,7 @@ MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock","Western Asset Ma
 MNA,NYLI Merger Arbitrage ETF,NYLI Merger Arbitrage ETF,P,MNA,Y,100.0,N,MNA
 MNBD,ALPS ETF Trust ALPS Intermediate Municipal Bond ETF,ALPS ETF Trust ALPS Intermediate Municipal Bond ETF,P,MNBD,Y,100.0,N,MNBD
 MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,Mach Natural Resources LP Common Units representing Limited Partner Interests,N,MNR,N,100.0,N,MNR
+MNRS,Grayscale Funds Trust Grayscale Bitcoin Miners ETF,Grayscale Funds Trust Grayscale Bitcoin Miners ETF,P,MNRS,Y,100.0,N,MNRS
 MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares","MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",N,MNSO,N,100.0,N,MNSO
 MO,"Altria Group, Inc.","Altria Group, Inc.",N,MO,N,100.0,N,MO
 MOAT,VanEck Morningstar Wide Moat ETF,VanEck Morningstar Wide Moat ETF,Z,MOAT,Y,100.0,N,MOAT
@@ -4920,6 +4923,7 @@ RWT,"Redwood Trust, Inc. Common Stock","Redwood Trust, Inc. Common Stock",N,RWT,
 RWT$A,"Redwood Trust, Inc. 10.00% Series A Fixed","Redwood Trust, Inc. 10.00% Series A Fixed-Rate Reset Cumulative Redeemable Preferred Stock",N,RWTpA,N,100.0,N,RWT-A
 RWTN,"Redwood Trust, Inc. 9.125% Senior Notes Due 2029","Redwood Trust, Inc. 9.125% Senior Notes Due 2029",N,RWTN,N,100.0,N,RWTN
 RWTO,"Redwood Trust, Inc. 9.00% Senior Notes Due 2029","Redwood Trust, Inc. 9.00% Senior Notes Due 2029",N,RWTO,N,100.0,N,RWTO
+RWTP,"Redwood Trust, Inc. 9.125% Senior Notes Due 2030","Redwood Trust, Inc. 9.125% Senior Notes Due 2030",N,RWTP,N,100.0,N,RWTP
 RWX,SPDR DJ Wilshire Intl Real Estate,SPDR DJ Wilshire Intl Real Estate,P,RWX,Y,100.0,N,RWX
 RXD,ProShares UltraShort Health Care,ProShares UltraShort Health Care,P,RXD,Y,100.0,N,RXD
 RXI,iShares Global Consumer Discretionary ETF,iShares Global Consumer Discretionary ETF,P,RXI,Y,100.0,N,RXI
