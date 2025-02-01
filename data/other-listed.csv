@@ -1732,7 +1732,6 @@ ENFR,Alerian Energy Infrastructure ETF,Alerian Energy Infrastructure ETF,P,ENFR,
 ENFY,Enlightify Inc. Common Stock,Enlightify Inc. Common Stock,N,ENFY,N,100.0,N,ENFY
 ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),N,ENIC,N,100.0,N,ENIC
 ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052","Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052",N,ENJ,N,100.0,N,ENJ
-ENLC,"EnLink Midstream, LLC Common Units representing Limited Partner Interests","EnLink Midstream, LLC Common Units representing Limited Partner Interests",N,ENLC,N,100.0,N,ENLC
 ENO,"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066","Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",N,ENO,N,100.0,N,ENO
 ENOR,iShares Inc iShares MSCI Norway ETF,iShares Inc iShares MSCI Norway ETF,Z,ENOR,Y,100.0,N,ENOR
 ENOV,Enovis Corporation Common Stock,Enovis Corporation Common Stock,N,ENOV,N,100.0,N,ENOV
@@ -2958,6 +2957,7 @@ INN$E,"Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable Prefe
 INN$F,"Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock, $0.01 par value per share","Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock, $0.01 par value per share",N,INNpF,N,100.0,N,INN-F
 INOV,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  November,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  November,P,INOV,Y,100.0,N,INOV
 INQQ,INQQ The India Internet ETF,INQQ The India Internet ETF,P,INQQ,Y,100.0,N,INQQ
+INR,"Infinity Natural Resources, Inc. Class A Common Stock","Infinity Natural Resources, Inc. Class A Common Stock",N,INR,N,100.0,N,INR
 INSI,Insight Select Income Fund,Insight Select Income Fund,N,INSI,N,100.0,N,INSI
 INSP,"Inspire Medical Systems, Inc. Common Stock","Inspire Medical Systems, Inc. Common Stock",N,INSP,N,100.0,N,INSP
 INSW,"International Seaways, Inc. Common Stock ","International Seaways, Inc. Common Stock ",N,INSW,N,100.0,N,INSW
@@ -4844,6 +4844,7 @@ RNR$G,"RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1,00
 RNST,Renasant Corporation Common Stock,Renasant Corporation Common Stock,N,RNST,N,100.0,N,RNST
 RNWZ,Listed Funds Trust TrueShares Eagle Global Renewable Energy Income ETF,Listed Funds Trust TrueShares Eagle Global Renewable Energy Income ETF,P,RNWZ,Y,100.0,N,RNWZ
 ROAM,Hartford Multifactor Emerging Markets ETF,Hartford Multifactor Emerging Markets ETF,P,ROAM,Y,100.0,N,ROAM
+ROBN,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long HOOD Daily Target ETF,Z,ROBN,Y,100.0,N,ROBN
 ROBO,Exchange Traded Concepts Trust ROBO Global Robotics and Automation Index ETF,Exchange Traded Concepts Trust ROBO Global Robotics and Automation Index ETF,P,ROBO,Y,100.0,N,ROBO
 RODE,Hartford Multifactor Diversified International ETF,Hartford Multifactor Diversified International ETF,Z,RODE,Y,100.0,N,RODE
 RODM,Hartford Multifactor Developed Markets (ex,Hartford Multifactor Developed Markets (ex-US) ETF,P,RODM,Y,100.0,N,RODM
@@ -5693,7 +5694,7 @@ TSLX,"Sixth Street Specialty Lending, Inc. Common Stock","Sixth Street Specialty
 TSLY,Tidal ETF Trust II YieldMax TSLA Option Income Strategy ETF,Tidal ETF Trust II YieldMax TSLA Option Income Strategy ETF,P,TSLY,Y,100.0,N,TSLY
 TSLZ,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Inverse Tesla Daily Target ETF,Z,TSLZ,Y,100.0,N,TSLZ
 TSM,Taiwan Semiconductor Manufacturing Company Ltd.,Taiwan Semiconductor Manufacturing Company Ltd.,N,TSM,N,100.0,N,TSM
-TSME,Thrivent ETF Trust Thrivent Small,Thrivent ETF Trust Thrivent Small-Mid Cap ESG ETF,P,TSME,Y,100.0,N,TSME
+TSME,Thrivent Small,Thrivent Small-Mid Cap Equity ETF,P,TSME,Y,100.0,N,TSME
 TSMY,Tidal Trust II YieldMax TSM Option Income Strategy ETF,Tidal Trust II YieldMax TSM Option Income Strategy ETF,P,TSMY,Y,100.0,N,TSMY
 TSN,"Tyson Foods, Inc. Common Stock","Tyson Foods, Inc. Common Stock",N,TSN,N,100.0,N,TSN
 TSPA,T. Rowe Price U.S. Equity Research ETF,T. Rowe Price U.S. Equity Research ETF,P,TSPA,Y,100.0,N,TSPA
@@ -6303,6 +6304,7 @@ YETH,Roundhill ETF Trust Roundhill Ether Covered Call Strategy ETF,Roundhill ETF
 YETI,"YETI Holdings, Inc. Common Stock","YETI Holdings, Inc. Common Stock",N,YETI,N,100.0,N,YETI
 YEXT,"Yext, Inc. Common Stock","Yext, Inc. Common Stock",N,YEXT,N,100.0,N,YEXT
 YFFI,Spinnaker ETF Series Indexperts Yield Focused Fixed Income ETF,Spinnaker ETF Series Indexperts Yield Focused Fixed Income ETF,P,YFFI,Y,100.0,N,YFFI
+YFYA,Listed Funds Trust Yields for You Strategy A ETF,Listed Funds Trust Yields for You Strategy A ETF,P,YFYA,Y,100.0,N,YFYA
 YGLD,Simplify Exchange Traded Funds Simplify Gold Strategy PLUS Income ETF,Simplify Exchange Traded Funds Simplify Gold Strategy PLUS Income ETF,P,YGLD,Y,100.0,N,YGLD
 YINN,Direxion Daily FTSE China Bull 3x Shares,Direxion Daily FTSE China Bull 3x Shares,P,YINN,Y,100.0,N,YINN
 YJUN,FT Vest International Equity Moderate Buffer ETF ,FT Vest International Equity Moderate Buffer ETF - June,Z,YJUN,Y,100.0,N,YJUN
