@@ -72,7 +72,6 @@ ADPV,Series Portfolios Trust Adaptiv Select ETF,Series Portfolios Trust Adaptiv 
 ADT,ADT Inc. Common Stock,ADT Inc. Common Stock,N,ADT,N,100.0,N,ADT
 ADVE,Matthews International Funds Matthews Asia Dividend Active ETF,Matthews International Funds Matthews Asia Dividend Active ETF,P,ADVE,Y,100.0,N,ADVE
 ADX,Adams Diversified Equity Fund Inc.,Adams Diversified Equity Fund Inc.,N,ADX,N,100.0,N,ADX
-AE,"Adams Resources & Energy, Inc. Common Stock","Adams Resources & Energy, Inc. Common Stock",A,AE,N,100.0,N,AE
 AEE,Ameren Corporation Common Stock,Ameren Corporation Common Stock,N,AEE,N,100.0,N,AEE
 AEF,"abrdn Emerging Markets Equity Income Fund, Inc. Common Stock","abrdn Emerging Markets Equity Income Fund, Inc. Common Stock",A,AEF,N,100.0,N,AEF
 AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,N,AEFC,N,100.0,N,AEFC
@@ -1184,7 +1183,10 @@ CSHP,iShares Enhanced Short,iShares Enhanced Short-Term Bond Active ETF,P,CSHP,Y
 CSL,Carlisle Companies Incorporated Common Stock,Carlisle Companies Incorporated Common Stock,N,CSL,N,100.0,N,CSL
 CSM,ProShares Large Cap Core Plus,ProShares Large Cap Core Plus,Z,CSM,Y,100.0,N,CSM
 CSMD,Professionally Managed Portfolios Congress SMid Growth ETF,Professionally Managed Portfolios Congress SMid Growth ETF,P,CSMD,Y,100.0,N,CSMD
+CSNR,Cohen & Steers ETF Trust Cohen & Steers Natural Resources Active ETF,Cohen & Steers ETF Trust Cohen & Steers Natural Resources Active ETF,P,CSNR,Y,100.0,N,CSNR
+CSPF,Cohen & Steers ETF Trust Cohen & Steers Preferred and Income Opportunities Active ETF,Cohen & Steers ETF Trust Cohen & Steers Preferred and Income Opportunities Active ETF,P,CSPF,Y,100.0,N,CSPF
 CSR,D/B/A Centerspace Common Stock,D/B/A Centerspace Common Stock,N,CSR,N,100.0,N,CSR
+CSRE,Cohen & Steers ETF Trust Cohen & Steers Real Estate Active ETF,Cohen & Steers ETF Trust Cohen & Steers Real Estate Active ETF,P,CSRE,Y,100.0,N,CSRE
 CSTM,Constellium SE Ordinary Shares (France),Constellium SE Ordinary Shares (France),N,CSTM,N,100.0,N,CSTM
 CSV,"Carriage Services, Inc. Common Stock","Carriage Services, Inc. Common Stock",N,CSV,N,100.0,N,CSV
 CTA,Simplify Exchange Traded Funds Simplify Managed Futures Strategy ETF,Simplify Exchange Traded Funds Simplify Managed Futures Strategy ETF,P,CTA,Y,100.0,N,CTA
@@ -2437,6 +2439,7 @@ GMED,"Globus Medical, Inc. Class A Common Stock","Globus Medical, Inc. Class A C
 GMET,VanEck Green Metals ETF,VanEck Green Metals ETF,P,GMET,Y,100.0,N,GMET
 GMF,SPDR S&P Emerging Asia Pacific ETF,SPDR S&P Emerging Asia Pacific ETF,P,GMF,Y,100.0,N,GMF
 GMMA,Tidal Trust III GammaRoad Market Navigation ETF,Tidal Trust III GammaRoad Market Navigation ETF,P,GMMA,Y,100.0,N,GMMA
+GMMF,BlackRock ETF Trust iShares Government Money Market ETF,BlackRock ETF Trust iShares Government Money Market ETF,P,GMMF,Y,100.0,N,GMMF
 GMNY,Goldman Sachs ETF Trust Goldman Sachs Dynamic New York Municipal Income ETF,Goldman Sachs ETF Trust Goldman Sachs Dynamic New York Municipal Income ETF,P,GMNY,Y,100.0,N,GMNY
 GMOI,The 2023 ETF Series Trust II GMO International Value ETF,The 2023 ETF Series Trust II GMO International Value ETF,P,GMOI,Y,100.0,N,GMOI
 GMOM,Cambria Global Momentum ETF,Cambria Global Momentum ETF,Z,GMOM,Y,100.0,N,GMOM
@@ -3255,6 +3258,7 @@ JWN,"Nordstrom, Inc. Common Stock","Nordstrom, Inc. Common Stock",N,JWN,N,100.0,
 JXI,iShares Global Utilities ETF,iShares Global Utilities ETF,P,JXI,Y,100.0,N,JXI
 JXN,Jackson Financial Inc. Class A Common Stock ,Jackson Financial Inc. Class A Common Stock ,N,JXN,N,100.0,N,JXN
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed","Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",N,JXNpA,N,100.0,N,JXN-A
+JXX,Janus Detroit Street Trust Janus Henderson Transformational Growth ETF,Janus Detroit Street Trust Janus Henderson Transformational Growth ETF,Z,JXX,Y,100.0,N,JXX
 K,Kellanova Common Stock,Kellanova Common Stock,N,K,N,100.0,N,K
 KAI,Kadant Inc Common Stock,Kadant Inc Common Stock,N,KAI,N,100.0,N,KAI
 KALL,KraneShares MSCI All China Index ETF,KraneShares MSCI All China Index ETF,P,KALL,Y,100.0,N,KALL
@@ -3276,6 +3280,7 @@ KCE,SPDR S&P Capital Markets ETF,SPDR S&P Capital Markets ETF,P,KCE,Y,100.0,N,KC
 KCSH,KraneShares Trust KraneShares Sustainable Ultra Short Duration Index ETF,KraneShares Trust KraneShares Sustainable Ultra Short Duration Index ETF,P,KCSH,Y,100.0,N,KCSH
 KD,"Kyndryl Holdings, Inc. Common Stock","Kyndryl Holdings, Inc. Common Stock",N,KD,N,100.0,N,KD
 KDEC,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - December,Z,KDEC,Y,100.0,N,KDEC
+KDEF,Exchange Listed Funds Trust PLUS Korea Defense Industry Index ETF,Exchange Listed Funds Trust PLUS Korea Defense Industry Index ETF,P,KDEF,Y,100.0,N,KDEF
 KDRN,ETF Opportunities Trust Kingsbarn Tactical Bond ETF,ETF Opportunities Trust Kingsbarn Tactical Bond ETF,P,KDRN,Y,100.0,N,KDRN
 KEM,KraneShares Trust KraneShares Dynamic Emerging Markets Strategy ETF,KraneShares Trust KraneShares Dynamic Emerging Markets Strategy ETF,P,KEM,Y,100.0,N,KEM
 KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,KraneShares Emerging Markets Consumer Technology Index ETF,P,KEMQ,Y,100.0,N,KEMQ
@@ -3802,6 +3807,7 @@ MRCP,PGIM US Large,PGIM US Large-Cap Buffer 12 ETF - March,Z,MRCP,Y,100.0,N,MRCP
 MRGR,ProShares Merger ETF,ProShares Merger ETF,Z,MRGR,Y,100.0,N,MRGR
 MRK,"Merck & Company, Inc. Common Stock (new)","Merck & Company, Inc. Common Stock (new)",N,MRK,N,100.0,N,MRK
 MRNY,Tidal Trust II YieldMax MRNA Option Income Strategy ETF,Tidal Trust II YieldMax MRNA Option Income Strategy ETF,P,MRNY,Y,100.0,N,MRNY
+MRP.V,"Millrose Properties, Inc. Class A Common Stock When","Millrose Properties, Inc. Class A Common Stock When-Issued",N,MRPw,N,100.0,N,MRP#
 MRSK,Toews Agility Shares Managed Risk ETF,Toews Agility Shares Managed Risk ETF,P,MRSK,Y,100.0,N,MRSK
 MRT,"Marti Technologies, Inc. Class A Ordinary Shares","Marti Technologies, Inc. Class A Ordinary Shares",A,MRT,N,100.0,N,MRT
 MS,Morgan Stanley Common Stock,Morgan Stanley Common Stock,N,MS,N,100.0,N,MS
@@ -4477,6 +4483,7 @@ PMIO,PGIM ETF Trust PGIM Municipal Income Opportunities ETF,PGIM ETF Trust PGIM 
 PMJA,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - January,Z,PMJA,Y,100.0,N,PMJA
 PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,N,PML,N,100.0,N,PML
 PMM,Putnam Managed Municipal Income Trust Common Stock,Putnam Managed Municipal Income Trust Common Stock,N,PMM,N,100.0,N,PMM
+PMMF,BlackRock ETF Trust iShares Prime Money Market ETF,BlackRock ETF Trust iShares Prime Money Market ETF,P,PMMF,Y,100.0,N,PMMF
 PMNT,Perfect Moment Ltd. Common Stock,Perfect Moment Ltd. Common Stock,A,PMNT,N,100.0,N,PMNT
 PMO,Putnam Municipal Opportunities Trust Common Stock,Putnam Municipal Opportunities Trust Common Stock,N,PMO,N,100.0,N,PMO
 PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,N,PMT,N,100.0,N,PMT
@@ -4796,8 +4803,6 @@ RGEF,Tidal Trust III Rockefeller Global Equity ETF,Tidal Trust III Rockefeller G
 RGR,"Sturm, Ruger & Company, Inc. Common Stock","Sturm, Ruger & Company, Inc. Common Stock",N,RGR,N,100.0,N,RGR
 RGT,"Royce Global Trust, Inc. Common Stock","Royce Global Trust, Inc. Common Stock",N,RGT,N,100.0,N,RGT
 RH,RH Common Stock,RH Common Stock,N,RH,N,100.0,N,RH
-RHE,"Regional Health Properties, Inc. Common Stock","Regional Health Properties, Inc. Common Stock",A,RHE,N,100.0,N,RHE
-RHE$A,"Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Preferred Stock","Regional Health Properties, Inc. 10.875% Series A Cumulative Redeemable Preferred Stock",A,RHEpA,N,100.0,N,RHE-A
 RHI,Robert Half Inc. Common Stock,Robert Half Inc. Common Stock,N,RHI,N,100.0,N,RHI
 RHP,"Ryman Hospitality Properties, Inc. (REIT)","Ryman Hospitality Properties, Inc. (REIT)",N,RHP,N,100.0,N,RHP
 RHRX,RH Tactical Rotation ETF,RH Tactical Rotation ETF,P,RHRX,Y,100.0,N,RHRX
@@ -5007,6 +5012,7 @@ SCCE,Sachem Capital Corp. 6.00% Notes due 2027,Sachem Capital Corp. 6.00% Notes 
 SCCF,Sachem Capital Corp. 7.125% Notes due 2027,Sachem Capital Corp. 7.125% Notes due 2027,A,SCCF,N,100.0,N,SCCF
 SCCG,Sachem Capital Corp. 8.00% Notes due 2027,Sachem Capital Corp. 8.00% Notes due 2027,A,SCCG,N,100.0,N,SCCG
 SCCO,Southern Copper Corporation Common Stock,Southern Copper Corporation Common Stock,N,SCCO,N,100.0,N,SCCO
+SCCR,Schwab Strategic Trust Schwab Core Bond ETF,Schwab Strategic Trust Schwab Core Bond ETF,P,SCCR,Y,100.0,N,SCCR
 SCD,LMP Capital and Income Fund Inc. Common Stock,LMP Capital and Income Fund Inc. Common Stock,N,SCD,N,100.0,N,SCD
 SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,ETRACS 2x Leveraged US Dividend Factor TR ETN,P,SCDL,Y,100.0,N,SCDL
 SCDV,ETF Series Solutions Bahl & Gaynor Small Cap Dividend ETF,ETF Series Solutions Bahl & Gaynor Small Cap Dividend ETF,P,SCDV,Y,100.0,N,SCDV
