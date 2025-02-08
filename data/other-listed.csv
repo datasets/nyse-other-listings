@@ -457,7 +457,6 @@ BAK,Braskem SA ADR,Braskem SA ADR,N,BAK,N,100.0,N,BAK
 BALI,iShares Advantage Large Cap Income ETF,iShares Advantage Large Cap Income ETF,Z,BALI,Y,100.0,N,BALI
 BALL,Ball Corporation Common Stock,Ball Corporation Common Stock,N,BALL,N,100.0,N,BALL
 BALT,Innovator Defined Wealth Shield ETF,Innovator Defined Wealth Shield ETF,Z,BALT,Y,100.0,N,BALT
-BALY,Bally's Corporation Common Stock,Bally's Corporation Common Stock,N,BALY,N,100.0,N,BALY
 BALY.T,Bally's Corporation Common Stock (Rolling Shares),Bally's Corporation Common Stock (Rolling Shares),N,BALY.T,N,100.0,N,BALY.T
 BAM,Brookfield Asset Management Inc Class A Limited Voting Shares,Brookfield Asset Management Inc Class A Limited Voting Shares,N,BAM,N,100.0,N,BAM
 BAMA,Brookstone Active ETF,Brookstone Active ETF,Z,BAMA,Y,100.0,N,BAMA
@@ -550,6 +549,7 @@ BE,Bloom Energy Corporation Class A Common Stock,Bloom Energy Corporation Class 
 BEDU,"Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share","Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share",N,BEDU,N,100.0,N,BEDU
 BEDZ,AdvisorShares Hotel ETF,AdvisorShares Hotel ETF,P,BEDZ,Y,100.0,N,BEDZ
 BEEP,Mobile Infrastructure Corporation Common Stock,Mobile Infrastructure Corporation Common Stock,A,BEEP,N,100.0,N,BEEP
+BEGS,Collaborative Investment Series Trust Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Collaborative Investment Series Trust Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Z,BEGS,Y,100.0,N,BEGS
 BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),N,BEKE,N,100.0,N,BEKE
 BEMB,iShares Trust iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,iShares Trust iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,Z,BEMB,Y,100.0,N,BEMB
 BEN,"Franklin Resources, Inc. Common Stock","Franklin Resources, Inc. Common Stock",N,BEN,N,100.0,N,BEN
@@ -3443,9 +3443,9 @@ LENS,EA Series Trust Sarmaya Thematic ETF,EA Series Trust Sarmaya Thematic ETF,Z
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock","BNY Mellon Strategic Municipals, Inc. Common Stock",N,LEO,N,100.0,N,LEO
 LEU,Centrus Energy Corp. Class A Common Stock,Centrus Energy Corp. Class A Common Stock,A,LEU,N,100.0,N,LEU
 LEVI,Levi Strauss & Co Class A Common Stock,Levi Strauss & Co Class A Common Stock,N,LEVI,N,100.0,N,LEVI
-LFAE,Stone Ridge 2048 Longevity Income ETF,Stone Ridge 2048 Longevity Income ETF,Z,LFAE,Y,100.0,N,LFAE
-LFAF,Stone Ridge 2049 Longevity Income ETF,Stone Ridge 2049 Longevity Income ETF,Z,LFAF,Y,100.0,N,LFAF
-LFAI,Stone Ridge 2050 Longevity Income ETF,Stone Ridge 2050 Longevity Income ETF,Z,LFAI,Y,100.0,N,LFAI
+LFAE,LifeX 2048 Longevity Income ETF,LifeX 2048 Longevity Income ETF,Z,LFAE,Y,100.0,N,LFAE
+LFAF,LifeX 2049 Longevity Income ETF,LifeX 2049 Longevity Income ETF,Z,LFAF,Y,100.0,N,LFAF
+LFAI,LifeX 2050 Longevity Income ETF,LifeX 2050 Longevity Income ETF,Z,LFAI,Y,100.0,N,LFAI
 LFAJ,Stone Ridge 2051 Longevity Income ETF,Stone Ridge 2051 Longevity Income ETF,Z,LFAJ,Y,100.0,N,LFAJ
 LFAK,Stone Ridge 2052 Longevity Income ETF,Stone Ridge 2052 Longevity Income ETF,Z,LFAK,Y,100.0,N,LFAK
 LFAL,Stone Ridge 2053 Longevity Income ETF,Stone Ridge 2053 Longevity Income ETF,Z,LFAL,Y,100.0,N,LFAL
@@ -3478,9 +3478,9 @@ LGLV,SPDR SSGA US Large Cap Low Volatility Index ETF,SPDR SSGA US Large Cap Low 
 LGOV,First Trust Long Duration Opportunities ETF,First Trust Long Duration Opportunities ETF,P,LGOV,Y,100.0,N,LGOV
 LH,Labcorp Holdings Inc. Common Stock,Labcorp Holdings Inc. Common Stock,N,LH,N,100.0,N,LH
 LHX,"L3Harris Technologies, Inc. Common Stock","L3Harris Technologies, Inc. Common Stock",N,LHX,N,100.0,N,LHX
-LIAB,Stone Ridge 2048 Inflation,Stone Ridge 2048 Inflation-Protected Longevity Income ETF,Z,LIAB,Y,100.0,N,LIAB
-LIAC,Stone Ridge 2049 Inflation,Stone Ridge 2049 Inflation-Protected Longevity Income ETF,Z,LIAC,Y,100.0,N,LIAC
-LIAE,Stone Ridge 2050 Inflation,Stone Ridge 2050 Inflation-Protected Longevity Income ETF,Z,LIAE,Y,100.0,N,LIAE
+LIAB,LifeX 2048 Inflation,LifeX 2048 Inflation-Protected Longevity Income ETF,Z,LIAB,Y,100.0,N,LIAB
+LIAC,LifeX 2049 Inflation,LifeX 2049 Inflation-Protected Longevity Income ETF,Z,LIAC,Y,100.0,N,LIAC
+LIAE,LifeX 2050 Inflation,LifeX 2050 Inflation-Protected Longevity Income ETF,Z,LIAE,Y,100.0,N,LIAE
 LIAF,Stone Ridge 2051 Inflation,Stone Ridge 2051 Inflation-Protected Longevity Income ETF,Z,LIAF,Y,100.0,N,LIAF
 LIAG,Stone Ridge 2052 Inflation,Stone Ridge 2052 Inflation-Protected Longevity Income ETF,Z,LIAG,Y,100.0,N,LIAG
 LIAJ,Stone Ridge 2053 Inflation,Stone Ridge 2053 Inflation-Protected Longevity Income ETF,Z,LIAJ,Y,100.0,N,LIAJ
@@ -3807,7 +3807,7 @@ MRCP,PGIM US Large,PGIM US Large-Cap Buffer 12 ETF - March,Z,MRCP,Y,100.0,N,MRCP
 MRGR,ProShares Merger ETF,ProShares Merger ETF,Z,MRGR,Y,100.0,N,MRGR
 MRK,"Merck & Company, Inc. Common Stock (new)","Merck & Company, Inc. Common Stock (new)",N,MRK,N,100.0,N,MRK
 MRNY,Tidal Trust II YieldMax MRNA Option Income Strategy ETF,Tidal Trust II YieldMax MRNA Option Income Strategy ETF,P,MRNY,Y,100.0,N,MRNY
-MRP.V,"Millrose Properties, Inc. Class A Common Stock When","Millrose Properties, Inc. Class A Common Stock When-Issued",N,MRPw,N,100.0,N,MRP#
+MRP,"Millrose Properties, Inc. Class A Common Stock","Millrose Properties, Inc. Class A Common Stock",N,MRP,N,100.0,N,MRP
 MRSK,Toews Agility Shares Managed Risk ETF,Toews Agility Shares Managed Risk ETF,P,MRSK,Y,100.0,N,MRSK
 MRT,"Marti Technologies, Inc. Class A Ordinary Shares","Marti Technologies, Inc. Class A Ordinary Shares",A,MRT,N,100.0,N,MRT
 MS,Morgan Stanley Common Stock,Morgan Stanley Common Stock,N,MS,N,100.0,N,MS
@@ -5716,6 +5716,7 @@ TSN,"Tyson Foods, Inc. Common Stock","Tyson Foods, Inc. Common Stock",N,TSN,N,10
 TSPA,T. Rowe Price U.S. Equity Research ETF,T. Rowe Price U.S. Equity Research ETF,P,TSPA,Y,100.0,N,TSPA
 TSQ,"Townsquare Media, Inc. Class A Common Stock","Townsquare Media, Inc. Class A Common Stock",N,TSQ,N,100.0,N,TSQ
 TT,Trane Technologies plc,Trane Technologies plc,N,TT,N,100.0,N,TT
+TTAM,Titan America SA Common Shares,Titan America SA Common Shares,N,TTAM,N,100.0,N,TTAM
 TTC,Toro Company (The) Common Stock,Toro Company (The) Common Stock,N,TTC,N,100.0,N,TTC
 TTE,TotalEnergies SE,TotalEnergies SE,N,TTE,N,100.0,N,TTE
 TTI,"Tetra Technologies, Inc. Common Stock","Tetra Technologies, Inc. Common Stock",N,TTI,N,100.0,N,TTI

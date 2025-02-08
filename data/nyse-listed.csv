@@ -276,7 +276,6 @@ BAC$S,"Bank of America Corporation Depositary shares, each representing 1/1,000t
 BAH,Booz Allen Hamilton Holding Corporation Common Stock
 BAK,Braskem SA ADR
 BALL,Ball Corporation Common Stock
-BALY,Bally's Corporation Common Stock
 BALY.T,Bally's Corporation Common Stock (Rolling Shares)
 BAM,Brookfield Asset Management Inc Class A Limited Voting Shares
 BANC,"Banc of California, Inc. Common Stock"
@@ -1721,7 +1720,7 @@ MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock"
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock"
 MRC,MRC Global Inc. Common Stock
 MRK,"Merck & Company, Inc. Common Stock (new)"
-MRP.V,"Millrose Properties, Inc. Class A Common Stock When"
+MRP,"Millrose Properties, Inc. Class A Common Stock"
 MS,Morgan Stanley Common Stock
 MS$A,Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A
 MS$E,Morgan Stanley DEPOSITARY SHARES REP 1/1000TH SHARES FIXED/FLTG PREFERRED STOCK SERIES E
@@ -2617,6 +2616,7 @@ TSM,Taiwan Semiconductor Manufacturing Company Ltd.
 TSN,"Tyson Foods, Inc. Common Stock"
 TSQ,"Townsquare Media, Inc. Class A Common Stock"
 TT,Trane Technologies plc
+TTAM,Titan America SA Common Shares
 TTC,Toro Company (The) Common Stock
 TTE,TotalEnergies SE
 TTI,"Tetra Technologies, Inc. Common Stock"
