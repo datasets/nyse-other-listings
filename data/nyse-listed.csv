@@ -276,7 +276,7 @@ BAC$S,"Bank of America Corporation Depositary shares, each representing 1/1,000t
 BAH,Booz Allen Hamilton Holding Corporation Common Stock
 BAK,Braskem SA ADR
 BALL,Ball Corporation Common Stock
-BALY.T,Bally's Corporation Common Stock (Rolling Shares)
+BALY,Bally's Corporation Common Stock
 BAM,Brookfield Asset Management Inc Class A Limited Voting Shares
 BANC,"Banc of California, Inc. Common Stock"
 BANC$F,"Banc of California, Inc. Depositary Shares, each representing a 1/40th interest in a share of 7.75% non"
@@ -1253,7 +1253,7 @@ HDB,HDFC Bank Limited Common Stock
 HE,"Hawaiian Electric Industries, Inc. Common Stock"
 HEI,Heico Corporation Common Stock
 HEI.A,Heico Corporation Common Stock
-HEQ,John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest
+HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest
 HES,Hess Corporation Common Stock
 HESM,Hess Midstream LP Class A Representing Limited Partner Interests
 HF,DGA Core Plus Absolute Return ETF
@@ -2482,7 +2482,6 @@ STXV,EA Series Trust Strive 1000 Value ETF
 STZ,"Constellation Brands, Inc. Common Stock"
 SU,Suncor Energy  Inc. Common Stock
 SUI,"Sun Communities, Inc. Common Stock"
-SUM,"Summit Materials, Inc. Class A Common Stock"
 SUN,Sunoco LP Common Units representing limited partner interests
 SUP,"Superior Industries International, Inc. Common Stock (DE)"
 SUPP,TCW Transform Supply Chain ETF

@@ -457,7 +457,7 @@ BAK,Braskem SA ADR,Braskem SA ADR,N,BAK,N,100.0,N,BAK
 BALI,iShares Advantage Large Cap Income ETF,iShares Advantage Large Cap Income ETF,Z,BALI,Y,100.0,N,BALI
 BALL,Ball Corporation Common Stock,Ball Corporation Common Stock,N,BALL,N,100.0,N,BALL
 BALT,Innovator Defined Wealth Shield ETF,Innovator Defined Wealth Shield ETF,Z,BALT,Y,100.0,N,BALT
-BALY.T,Bally's Corporation Common Stock (Rolling Shares),Bally's Corporation Common Stock (Rolling Shares),N,BALY.T,N,100.0,N,BALY.T
+BALY,Bally's Corporation Common Stock,Bally's Corporation Common Stock,N,BALY,N,100.0,N,BALY
 BAM,Brookfield Asset Management Inc Class A Limited Voting Shares,Brookfield Asset Management Inc Class A Limited Voting Shares,N,BAM,N,100.0,N,BAM
 BAMA,Brookstone Active ETF,Brookstone Active ETF,Z,BAMA,Y,100.0,N,BAMA
 BAMB,Brookstone Intermediate Bond ETF,Brookstone Intermediate Bond ETF,Z,BAMB,Y,100.0,N,BAMB
@@ -2634,7 +2634,7 @@ HEI,Heico Corporation Common Stock,Heico Corporation Common Stock,N,HEI,N,100.0,
 HEI.A,Heico Corporation Common Stock,Heico Corporation Common Stock,N,HEI.A,N,100.0,N,HEI.A
 HELO,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Hedged Equity Laddered Overlay ETF,P,HELO,Y,100.0,N,HELO
 HELX,Franklin Genomic Advancements ETF,Franklin Genomic Advancements ETF,Z,HELX,Y,100.0,N,HELX
-HEQ,John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest,John Hancock Hedged Equity & Income Fund Common Shares of Beneficial Interest,N,HEQ,N,100.0,N,HEQ
+HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,N,HEQ,N,100.0,N,HEQ
 HEQT,Simplify Hedged Equity ETF,Simplify Hedged Equity ETF,P,HEQT,Y,100.0,N,HEQT
 HES,Hess Corporation Common Stock,Hess Corporation Common Stock,N,HES,N,100.0,N,HES
 HESM,Hess Midstream LP Class A Representing Limited Partner Interests,Hess Midstream LP Class A Representing Limited Partner Interests,N,HESM,N,100.0,N,HESM
@@ -2661,6 +2661,7 @@ HIG$G,"Hartford Financial Services Group, Inc. (The) Depositary Shares each repr
 HIGH,Simplify Exchange Traded Funds Simplify Enhanced Income ETF,Simplify Exchange Traded Funds Simplify Enhanced Income ETF,P,HIGH,Y,100.0,N,HIGH
 HII,"Huntington Ingalls Industries, Inc. Common Stock","Huntington Ingalls Industries, Inc. Common Stock",N,HII,N,100.0,N,HII
 HIMS,"Hims & Hers Health, Inc. Class A Common Stock","Hims & Hers Health, Inc. Class A Common Stock",N,HIMS,N,100.0,N,HIMS
+HIMU,BlackRock ETF Trust II iShares High Yield Muni Active ETF,BlackRock ETF Trust II iShares High Yield Muni Active ETF,Z,HIMU,Y,100.0,N,HIMU
 HIO,"Western Asset High Income Opportunity Fund, Inc. Common Stock","Western Asset High Income Opportunity Fund, Inc. Common Stock",N,HIO,N,100.0,N,HIO
 HIPO,Hippo Holdings Inc. Common Stock,Hippo Holdings Inc. Common Stock,N,HIPO,N,100.0,N,HIPO
 HIPS,GraniteShares HIPS US High Income ETF,GraniteShares HIPS US High Income ETF,P,HIPS,Y,100.0,N,HIPS
@@ -2766,7 +2767,6 @@ HYLB,Xtrackers USD High Yield Corporate Bond ETF,Xtrackers USD High Yield Corpor
 HYLG,Global X Funds Global X Health Care Covered Call & Growth ETF,Global X Funds Global X Health Care Covered Call & Growth ETF,P,HYLG,Y,100.0,N,HYLG
 HYLN,Hyliion Holdings Corp. Class A Common Stock,Hyliion Holdings Corp. Class A Common Stock,A,HYLN,N,100.0,N,HYLN
 HYMB,SPDR Nuveen Bloomberg High Yield Municipal Bond ETF,SPDR Nuveen Bloomberg High Yield Municipal Bond ETF,P,HYMB,Y,100.0,N,HYMB
-HYMU,iShares High Yield Muni Income Active ETF,iShares High Yield Muni Income Active ETF,Z,HYMU,Y,100.0,N,HYMU
 HYRM,DBX ETF Trust Xtrackers Risk Managed USD High Yield Strategy ETF,DBX ETF Trust Xtrackers Risk Managed USD High Yield Strategy ETF,P,HYRM,Y,100.0,N,HYRM
 HYS,PIMCO 0,PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund,P,HYS,Y,100.0,N,HYS
 HYSA,BondBloxx ETF Trust BondBloxx USD High Yield Bond Sector Rotation ETF,BondBloxx ETF Trust BondBloxx USD High Yield Bond Sector Rotation ETF,P,HYSA,Y,100.0,N,HYSA
@@ -3446,9 +3446,9 @@ LEVI,Levi Strauss & Co Class A Common Stock,Levi Strauss & Co Class A Common Sto
 LFAE,LifeX 2048 Longevity Income ETF,LifeX 2048 Longevity Income ETF,Z,LFAE,Y,100.0,N,LFAE
 LFAF,LifeX 2049 Longevity Income ETF,LifeX 2049 Longevity Income ETF,Z,LFAF,Y,100.0,N,LFAF
 LFAI,LifeX 2050 Longevity Income ETF,LifeX 2050 Longevity Income ETF,Z,LFAI,Y,100.0,N,LFAI
-LFAJ,Stone Ridge 2051 Longevity Income ETF,Stone Ridge 2051 Longevity Income ETF,Z,LFAJ,Y,100.0,N,LFAJ
-LFAK,Stone Ridge 2052 Longevity Income ETF,Stone Ridge 2052 Longevity Income ETF,Z,LFAK,Y,100.0,N,LFAK
-LFAL,Stone Ridge 2053 Longevity Income ETF,Stone Ridge 2053 Longevity Income ETF,Z,LFAL,Y,100.0,N,LFAL
+LFAJ,LifeX 2051 Longevity Income ETF,LifeX 2051 Longevity Income ETF,Z,LFAJ,Y,100.0,N,LFAJ
+LFAK,LifeX 2052 Longevity Income ETF,LifeX 2052 Longevity Income ETF,Z,LFAK,Y,100.0,N,LFAK
+LFAL,LifeX 2053 Longevity Income ETF,LifeX 2053 Longevity Income ETF,Z,LFAL,Y,100.0,N,LFAL
 LFAN,Stone Ridge 2054 Longevity Income ETF,Stone Ridge 2054 Longevity Income ETF,Z,LFAN,Y,100.0,N,LFAN
 LFAO,Stone Ridge 2055 Longevity Income ETF,Stone Ridge 2055 Longevity Income ETF,Z,LFAO,Y,100.0,N,LFAO
 LFAQ,Stone Ridge 2056 Longevity Income ETF,Stone Ridge 2056 Longevity Income ETF,Z,LFAQ,Y,100.0,N,LFAQ
@@ -3481,9 +3481,9 @@ LHX,"L3Harris Technologies, Inc. Common Stock","L3Harris Technologies, Inc. Comm
 LIAB,LifeX 2048 Inflation,LifeX 2048 Inflation-Protected Longevity Income ETF,Z,LIAB,Y,100.0,N,LIAB
 LIAC,LifeX 2049 Inflation,LifeX 2049 Inflation-Protected Longevity Income ETF,Z,LIAC,Y,100.0,N,LIAC
 LIAE,LifeX 2050 Inflation,LifeX 2050 Inflation-Protected Longevity Income ETF,Z,LIAE,Y,100.0,N,LIAE
-LIAF,Stone Ridge 2051 Inflation,Stone Ridge 2051 Inflation-Protected Longevity Income ETF,Z,LIAF,Y,100.0,N,LIAF
-LIAG,Stone Ridge 2052 Inflation,Stone Ridge 2052 Inflation-Protected Longevity Income ETF,Z,LIAG,Y,100.0,N,LIAG
-LIAJ,Stone Ridge 2053 Inflation,Stone Ridge 2053 Inflation-Protected Longevity Income ETF,Z,LIAJ,Y,100.0,N,LIAJ
+LIAF,LifeX 2051 Inflation,LifeX 2051 Inflation-Protected Longevity Income ETF,Z,LIAF,Y,100.0,N,LIAF
+LIAG,LifeX 2052 Inflation,LifeX 2052 Inflation-Protected Longevity Income ETF,Z,LIAG,Y,100.0,N,LIAG
+LIAJ,LifeX 2053 Inflation,LifeX 2053 Inflation-Protected Longevity Income ETF,Z,LIAJ,Y,100.0,N,LIAJ
 LIAK,Stone Ridge 2054 Inflation,Stone Ridge 2054 Inflation-Protected Longevity Income ETF,Z,LIAK,Y,100.0,N,LIAK
 LIAM,Stone Ridge 2055 Inflation,Stone Ridge 2055 Inflation-Protected Longevity Income ETF,Z,LIAM,Y,100.0,N,LIAM
 LIAO,Stone Ridge 2056 Inflation,Stone Ridge 2056 Inflation-Protected Longevity Income ETF,Z,LIAO,Y,100.0,N,LIAO
@@ -3711,7 +3711,7 @@ MHNC,"Maiden Holdings North America, Ltd. 7.75% Notes due 2043","Maiden Holdings
 MHO,"M/I Homes, Inc. Common Stock","M/I Homes, Inc. Common Stock",N,MHO,N,100.0,N,MHO
 MI,NFT Limited Class A Ordinary Share,NFT Limited Class A Ordinary Share,A,MI,N,100.0,N,MI
 MID,American Century Mid Cap Growth Impact ETF,American Century Mid Cap Growth Impact ETF,P,MID,Y,100.0,N,MID
-MIDE,Xtrackers S&P MidCap 400 ESG ETF,Xtrackers S&P MidCap 400 ESG ETF,P,MIDE,Y,100.0,N,MIDE
+MIDE,Xtrackers S&P MidCap 400 Scored & Screened ETF,Xtrackers S&P MidCap 400 Scored & Screened ETF,P,MIDE,Y,100.0,N,MIDE
 MIDU,Direxion Mid Cap Bull 3X Shares,Direxion Mid Cap Bull 3X Shares,P,MIDU,Y,100.0,N,MIDU
 MIG,VanEck Moody's Analytics IG Corporate Bond ETF,VanEck Moody's Analytics IG Corporate Bond ETF,Z,MIG,Y,100.0,N,MIG
 MILK,Pacer Funds Trust Pacer US Cash Cows Bond ETF,Pacer Funds Trust Pacer US Cash Cows Bond ETF,Z,MILK,Y,100.0,N,MILK
@@ -5150,6 +5150,7 @@ SHW,Sherwin,Sherwin-Williams Company (The) Common Stock,N,SHW,N,100.0,N,SHW
 SHYD,VanEck ETF Trust VanEck Short High Yield Muni ETF,VanEck ETF Trust VanEck Short High Yield Muni ETF,Z,SHYD,Y,100.0,N,SHYD
 SHYG,iShares 0,iShares 0-5 Year High Yield Corporate Bond ETF,P,SHYG,Y,100.0,N,SHYG
 SHYL,Xtrackers Short Duration High Yield Bond ETF,Xtrackers Short Duration High Yield Bond ETF,P,SHYL,Y,100.0,N,SHYL
+SHYM,iShares High Yield Muni Income Active ETF,iShares High Yield Muni Income Active ETF,Z,SHYM,Y,100.0,N,SHYM
 SID,Companhia Siderurgica Nacional S.A. Common Stock,Companhia Siderurgica Nacional S.A. Common Stock,N,SID,N,100.0,N,SID
 SIF,"SIFCO Industries, Inc. Common Stock","SIFCO Industries, Inc. Common Stock",A,SIF,N,100.0,N,SIF
 SIFI,Harbor Scientific Alpha Income ETF,Harbor Scientific Alpha Income ETF,P,SIFI,Y,100.0,N,SIFI
@@ -5253,10 +5254,10 @@ SNN,"Smith & Nephew SNATS, Inc. Common Stock","Smith & Nephew SNATS, Inc. Common
 SNOV,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - November,Z,SNOV,Y,100.0,N,SNOV
 SNOW,Snowflake Inc. Class A Common Stock,Snowflake Inc. Class A Common Stock,N,SNOW,N,100.0,N,SNOW
 SNOY,Tidal Trust II YieldMax SNOW Option Income Strategy ETF,Tidal Trust II YieldMax SNOW Option Income Strategy ETF,P,SNOY,Y,100.0,N,SNOY
-SNPD,DBX ETF Trust Xtrackers S&P ESG Dividend Aristocrats ETF,DBX ETF Trust Xtrackers S&P ESG Dividend Aristocrats ETF,Z,SNPD,Y,100.0,N,SNPD
-SNPE,Xtrackers S&P 500 ESG ETF,Xtrackers S&P 500 ESG ETF,P,SNPE,Y,100.0,N,SNPE
-SNPG,DBX ETF Trust Xtrackers S&P 500 Growth ESG ETF,DBX ETF Trust Xtrackers S&P 500 Growth ESG ETF,Z,SNPG,Y,100.0,N,SNPG
-SNPV,DBX ETF Trust Xtrackers S&P 500 Value ESG ETF,DBX ETF Trust Xtrackers S&P 500 Value ESG ETF,Z,SNPV,Y,100.0,N,SNPV
+SNPD,Xtrackers S&P Dividend Aristocrats Screened ETF,Xtrackers S&P Dividend Aristocrats Screened ETF,Z,SNPD,Y,100.0,N,SNPD
+SNPE,Xtrackers S&P 500 Scored & Screened ETF,Xtrackers S&P 500 Scored & Screened ETF,P,SNPE,Y,100.0,N,SNPE
+SNPG,Xtrackers S&P 500 Growth Scored & Screened ETF,Xtrackers S&P 500 Growth Scored & Screened ETF,Z,SNPG,Y,100.0,N,SNPG
+SNPV,Xtrackers S&P 500 Value Scored & Screened ETF,Xtrackers S&P 500 Value Scored & Screened ETF,Z,SNPV,Y,100.0,N,SNPV
 SNV,Synovus Financial Corp. Common Stock,Synovus Financial Corp. Common Stock,N,SNV,N,100.0,N,SNV
 SNV$D,Synovus Financial Corp. Fixed,"Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share",N,SNVpD,N,100.0,N,SNV-D
 SNV$E,Synovus Financial Corp. 5.875% Fixed,"Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",N,SNVpE,N,100.0,N,SNV-E
@@ -5442,7 +5443,6 @@ STZ,"Constellation Brands, Inc. Common Stock","Constellation Brands, Inc. Common
 SU,Suncor Energy  Inc. Common Stock,Suncor Energy  Inc. Common Stock,N,SU,N,100.0,N,SU
 SUB,iShares Short,iShares Short-Term National Muni Bond ETF,P,SUB,Y,100.0,N,SUB
 SUI,"Sun Communities, Inc. Common Stock","Sun Communities, Inc. Common Stock",N,SUI,N,100.0,N,SUI
-SUM,"Summit Materials, Inc. Class A Common Stock","Summit Materials, Inc. Class A Common Stock",N,SUM,N,100.0,N,SUM
 SUN,Sunoco LP Common Units representing limited partner interests,Sunoco LP Common Units representing limited partner interests,N,SUN,N,100.0,N,SUN
 SUP,"Superior Industries International, Inc. Common Stock (DE)","Superior Industries International, Inc. Common Stock (DE)",N,SUP,N,100.0,N,SUP
 SUPL,ProShares Trust ProShares Supply Chain Logistics ETF,ProShares Trust ProShares Supply Chain Logistics ETF,P,SUPL,Y,100.0,N,SUPL
