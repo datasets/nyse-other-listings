@@ -1693,6 +1693,7 @@ ELCV,Strategy Shares Eventide High Dividend ETF,Strategy Shares Eventide High Di
 ELD,WisdomTree Emerging Markets Local Debt Fund,WisdomTree Emerging Markets Local Debt Fund,P,ELD,Y,100.0,N,ELD
 ELF,"e.l.f. Beauty, Inc. Common Stock","e.l.f. Beauty, Inc. Common Stock",N,ELF,N,100.0,N,ELF
 ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),Ellomay Capital Ltd Ordinary Shares (Israel),A,ELLO,N,100.0,N,ELLO
+ELM,Series Portfolios Trust Elm Market Navigator ETF,Series Portfolios Trust Elm Market Navigator ETF,P,ELM,Y,100.0,N,ELM
 ELMD,"Electromed, Inc. Common Stock","Electromed, Inc. Common Stock",A,ELMD,N,100.0,N,ELMD
 ELME,Elme Communities Common Stock,Elme Communities Common Stock,N,ELME,N,100.0,N,ELME
 ELP,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non-voting Class B Preferred Shares),N,ELP,N,100.0,N,ELP
@@ -2525,7 +2526,6 @@ GS,"Goldman Sachs Group, Inc. (The) Common Stock","Goldman Sachs Group, Inc. (Th
 GS$A,"Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non","Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series A",N,GSpA,N,100.0,N,GS-A
 GS$C,"Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series C","Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series C",N,GSpC,N,100.0,N,GS-C
 GS$D,"Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg","Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg",N,GSpD,N,100.0,N,GS-D
-GSAT,"Globalstar, Inc. Common Stock","Globalstar, Inc. Common Stock",A,GSAT,N,100.0,N,GSAT
 GSBD,"Goldman Sachs BDC, Inc. Common Stock","Goldman Sachs BDC, Inc. Common Stock",N,GSBD,N,100.0,N,GSBD
 GSC,Goldman Sachs ETF Trust Goldman Sachs Small Cap Core Equity ETF,Goldman Sachs ETF Trust Goldman Sachs Small Cap Core Equity ETF,P,GSC,Y,100.0,N,GSC
 GSEE,Goldman Sachs MarketBeta Emerging Markets Equity ETF,Goldman Sachs MarketBeta Emerging Markets Equity ETF,Z,GSEE,Y,100.0,N,GSEE
@@ -3449,9 +3449,9 @@ LFAI,LifeX 2050 Longevity Income ETF,LifeX 2050 Longevity Income ETF,Z,LFAI,Y,10
 LFAJ,LifeX 2051 Longevity Income ETF,LifeX 2051 Longevity Income ETF,Z,LFAJ,Y,100.0,N,LFAJ
 LFAK,LifeX 2052 Longevity Income ETF,LifeX 2052 Longevity Income ETF,Z,LFAK,Y,100.0,N,LFAK
 LFAL,LifeX 2053 Longevity Income ETF,LifeX 2053 Longevity Income ETF,Z,LFAL,Y,100.0,N,LFAL
-LFAN,Stone Ridge 2054 Longevity Income ETF,Stone Ridge 2054 Longevity Income ETF,Z,LFAN,Y,100.0,N,LFAN
-LFAO,Stone Ridge 2055 Longevity Income ETF,Stone Ridge 2055 Longevity Income ETF,Z,LFAO,Y,100.0,N,LFAO
-LFAQ,Stone Ridge 2056 Longevity Income ETF,Stone Ridge 2056 Longevity Income ETF,Z,LFAQ,Y,100.0,N,LFAQ
+LFAN,LifeX 2054 Longevity Income ETF,LifeX 2054 Longevity Income ETF,Z,LFAN,Y,100.0,N,LFAN
+LFAO,LifeX 2055 Longevity Income ETF,LifeX 2055 Longevity Income ETF,Z,LFAO,Y,100.0,N,LFAO
+LFAQ,LifeX 2056 Longevity Income ETF,LifeX 2056 Longevity Income ETF,Z,LFAQ,Y,100.0,N,LFAQ
 LFAR,Stone Ridge 2057 Longevity Income ETF,Stone Ridge 2057 Longevity Income ETF,Z,LFAR,Y,100.0,N,LFAR
 LFAU,Stone Ridge 2058 Longevity Income ETF,Stone Ridge 2058 Longevity Income ETF,Z,LFAU,Y,100.0,N,LFAU
 LFAV,Stone Ridge 2059 Longevity Income ETF,Stone Ridge 2059 Longevity Income ETF,Z,LFAV,Y,100.0,N,LFAV
@@ -3484,9 +3484,9 @@ LIAE,LifeX 2050 Inflation,LifeX 2050 Inflation-Protected Longevity Income ETF,Z,
 LIAF,LifeX 2051 Inflation,LifeX 2051 Inflation-Protected Longevity Income ETF,Z,LIAF,Y,100.0,N,LIAF
 LIAG,LifeX 2052 Inflation,LifeX 2052 Inflation-Protected Longevity Income ETF,Z,LIAG,Y,100.0,N,LIAG
 LIAJ,LifeX 2053 Inflation,LifeX 2053 Inflation-Protected Longevity Income ETF,Z,LIAJ,Y,100.0,N,LIAJ
-LIAK,Stone Ridge 2054 Inflation,Stone Ridge 2054 Inflation-Protected Longevity Income ETF,Z,LIAK,Y,100.0,N,LIAK
-LIAM,Stone Ridge 2055 Inflation,Stone Ridge 2055 Inflation-Protected Longevity Income ETF,Z,LIAM,Y,100.0,N,LIAM
-LIAO,Stone Ridge 2056 Inflation,Stone Ridge 2056 Inflation-Protected Longevity Income ETF,Z,LIAO,Y,100.0,N,LIAO
+LIAK,LifeX 2054 Inflation,LifeX 2054 Inflation-Protected Longevity Income ETF,Z,LIAK,Y,100.0,N,LIAK
+LIAM,LifeX 2055 Inflation,LifeX 2055 Inflation-Protected Longevity Income ETF,Z,LIAM,Y,100.0,N,LIAM
+LIAO,LifeX 2056 Inflation,LifeX 2056 Inflation-Protected Longevity Income ETF,Z,LIAO,Y,100.0,N,LIAO
 LIAP,Stone Ridge 2057 Inflation,Stone Ridge 2057 Inflation-Protected Longevity Income ETF,Z,LIAP,Y,100.0,N,LIAP
 LIAQ,Stone Ridge 2058 Inflation,Stone Ridge 2058 Inflation-Protected Longevity Income ETF,Z,LIAQ,Y,100.0,N,LIAQ
 LIAT,Stone Ridge 2059 Inflation,Stone Ridge 2059 Inflation-Protected Longevity Income ETF,Z,LIAT,Y,100.0,N,LIAT
