@@ -523,6 +523,7 @@ BCD,abrdn Bloomberg All Commodity Longer Dated Strategy K,abrdn Bloomberg All Co
 BCDF,Listed Funds Trust Horizon Kinetics Blockchain Development ETF,Listed Funds Trust Horizon Kinetics Blockchain Development ETF,P,BCDF,Y,100.0,N,BCDF
 BCE,"BCE, Inc. Common Stock","BCE, Inc. Common Stock",N,BCE,N,100.0,N,BCE
 BCH,Banco De Chile ADS,Banco De Chile ADS,N,BCH,N,100.0,N,BCH
+BCHI,The 2023 ETF Series Trust II GMO Beyond China ETF,The 2023 ETF Series Trust II GMO Beyond China ETF,P,BCHI,Y,100.0,N,BCHI
 BCHP,Principal Exchange,Principal Exchange-Traded Funds Principal Focused Blue Chip ETF,Z,BCHP,Y,100.0,N,BCHP
 BCI,abrdn Bloomberg All Commodity Strategy K,abrdn Bloomberg All Commodity Strategy K-1 Free ETF,P,BCI,Y,100.0,N,BCI
 BCIL,Exchange Listed Funds Trust Bancreek International Large Cap ETF,Exchange Listed Funds Trust Bancreek International Large Cap ETF,P,BCIL,Y,100.0,N,BCIL
@@ -1204,8 +1205,6 @@ CTRA,Coterra Energy Inc. Common Stock,Coterra Energy Inc. Common Stock,N,CTRA,N,
 CTRE,"CareTrust REIT, Inc. Common Stock","CareTrust REIT, Inc. Common Stock",N,CTRE,N,100.0,N,CTRE
 CTRI,"Centuri Holdings, Inc. Common Stock","Centuri Holdings, Inc. Common Stock",N,CTRI,N,100.0,N,CTRI
 CTS,CTS Corporation Common Stock,CTS Corporation Common Stock,N,CTS,N,100.0,N,CTS
-CTV,Innovid Corp. Common Stock,Innovid Corp. Common Stock,N,CTV,N,100.0,N,CTV
-CTV.W,"Innovid Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share","Innovid Corp. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,CTV.WS,N,100.0,N,CTV+
 CTVA,"Corteva, Inc. Common Stock ","Corteva, Inc. Common Stock ",N,CTVA,N,100.0,N,CTVA
 CUBB,"Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034","Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034",N,CUBB,N,100.0,N,CUBB
 CUBE,CubeSmart Common Shares,CubeSmart Common Shares,N,CUBE,N,100.0,N,CUBE
@@ -1696,6 +1695,7 @@ ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),Ellomay Capital Ltd Ordinary S
 ELM,Series Portfolios Trust Elm Market Navigator ETF,Series Portfolios Trust Elm Market Navigator ETF,P,ELM,Y,100.0,N,ELM
 ELMD,"Electromed, Inc. Common Stock","Electromed, Inc. Common Stock",A,ELMD,N,100.0,N,ELMD
 ELME,Elme Communities Common Stock,Elme Communities Common Stock,N,ELME,N,100.0,N,ELME
+ELON,Tidal Trust III Battleshares TSLA vs F ETF,Tidal Trust III Battleshares TSLA vs F ETF,P,ELON,Y,100.0,N,ELON
 ELP,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non-voting Class B Preferred Shares),N,ELP,N,100.0,N,ELP
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),N,ELPC,N,100.0,N,ELPC
 ELQD,iShares ESG Advanced Investment Grade Corporate Bond ETF,iShares ESG Advanced Investment Grade Corporate Bond ETF,P,ELQD,Y,100.0,N,ELQD
@@ -2461,7 +2461,6 @@ GNOV,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffe
 GNR,SPDR S&P Global Natural Resources ETF,SPDR S&P Global Natural Resources ETF,P,GNR,Y,100.0,N,GNR
 GNRC,Generac Holdlings Inc. Common Stock,Generac Holdlings Inc. Common Stock,N,GNRC,N,100.0,N,GNRC
 GNS,Genius Group Limited Ordinary Shares,Genius Group Limited Ordinary Shares,A,GNS,N,100.0,N,GNS
-GNS.R,"Genius Group Limited Rights (expiring February 14, 2025) Rights","Genius Group Limited Rights (expiring February 14, 2025) Rights",A,GNSr,N,100.0,N,GNS^
 GNT,"GAMCO Natural Resources, Gold & Income Trust","GAMCO Natural Resources, Gold & Income Trust",N,GNT,N,100.0,N,GNT
 GNT$A,"GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)","GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)",N,GNTpA,N,100.0,N,GNT-A
 GNTY,"Guaranty Bancshares, Inc. Common Stock","Guaranty Bancshares, Inc. Common Stock",N,GNTY,N,100.0,N,GNTY
@@ -2771,6 +2770,7 @@ HYS,PIMCO 0,PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund,P
 HYSA,BondBloxx ETF Trust BondBloxx USD High Yield Bond Sector Rotation ETF,BondBloxx ETF Trust BondBloxx USD High Yield Bond Sector Rotation ETF,P,HYSA,Y,100.0,N,HYSA
 HYSD,Columbia ETF Trust I Columbia Short Duration High Yield ETF,Columbia ETF Trust I Columbia Short Duration High Yield ETF,P,HYSD,Y,100.0,N,HYSD
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock","Blackrock Corporate High Yield Fund, Inc. Common Stock",N,HYT,N,100.0,N,HYT
+HYTI,First Trust Exchange,First Trust Exchange-Traded Fund IV FT Vest High Yield & Target Income ETF,P,HYTI,Y,100.0,N,HYTI
 HYTR,Counterpoint High Yield Trend ETF,Counterpoint High Yield Trend ETF,N,HYTR,Y,100.0,N,HYTR
 HYUP,Xtrackers High Beta High Yield Bond ETF,Xtrackers High Beta High Yield Bond ETF,P,HYUP,Y,100.0,N,HYUP
 HYXU,iShares International High Yield Bond ETF,iShares International High Yield Bond ETF,Z,HYXU,Y,100.0,N,HYXU
@@ -3150,6 +3150,7 @@ JEQ,"abrdn Japan Equity Fund, Inc. Common Stock","abrdn Japan Equity Fund, Inc. 
 JETD,Bank Of Montreal MAX Airlines ,Bank Of Montreal MAX Airlines -3X Inverse Leveraged ETNs,P,JETD,Y,100.0,N,JETD
 JETS,U.S. Global Jets ETF,U.S. Global Jets ETF,P,JETS,Y,100.0,N,JETS
 JETU,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,P,JETU,Y,100.0,N,JETU
+JFLI,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Flexible Income ETF,P,JFLI,Y,100.0,N,JFLI
 JFR,Nuveen Floating Rate Income Fund Common Stock,Nuveen Floating Rate Income Fund Common Stock,N,JFR,N,100.0,N,JFR
 JFR.R,"Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights","Nuveen Floating Rate Income Fund Rights (expiring February 19, 2025) Rights",N,JFRr,N,100.0,N,JFR^
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,Nuveen Global High Income Fund Common Shares of Beneficial Interest,N,JGH,N,100.0,N,JGH
@@ -3365,6 +3366,7 @@ KRE,SPDR S&P Regional Banking ETF,SPDR S&P Regional Banking ETF,P,KRE,Y,100.0,N,
 KREF,KKR Real Estate Finance Trust Inc. Common Stock,KKR Real Estate Finance Trust Inc. Common Stock,N,KREF,N,100.0,N,KREF
 KREF$A,KKR Real Estate Finance Trust Inc. 6.50% Series A Cumulative Redeemable Preferred Stock,KKR Real Estate Finance Trust Inc. 6.50% Series A Cumulative Redeemable Preferred Stock,N,KREFpA,N,100.0,N,KREF-A
 KRG,Kite Realty Group Trust Common Stock,Kite Realty Group Trust Common Stock,N,KRG,N,100.0,N,KRG
+KRMN,Karman Holdings Inc. Common Stock,Karman Holdings Inc. Common Stock,N,KRMN,N,100.0,N,KRMN
 KRO,Kronos Worldwide Inc Common Stock,Kronos Worldwide Inc Common Stock,N,KRO,N,100.0,N,KRO
 KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,N,KRP,N,100.0,N,KRP
 KRUZ,Unusual Whales Subversive Republican Trading ETF,Unusual Whales Subversive Republican Trading ETF,Z,KRUZ,Y,100.0,N,KRUZ
@@ -3454,9 +3456,9 @@ LFAQ,LifeX 2056 Longevity Income ETF,LifeX 2056 Longevity Income ETF,Z,LFAQ,Y,10
 LFAR,LifeX 2057 Longevity Income ETF,LifeX 2057 Longevity Income ETF,Z,LFAR,Y,100.0,N,LFAR
 LFAU,LifeX 2058 Longevity Income ETF,LifeX 2058 Longevity Income ETF,Z,LFAU,Y,100.0,N,LFAU
 LFAV,LifeX 2059 Longevity Income ETF,LifeX 2059 Longevity Income ETF,Z,LFAV,Y,100.0,N,LFAV
-LFAW,Stone Ridge 2060 Longevity Income ETF,Stone Ridge 2060 Longevity Income ETF,Z,LFAW,Y,100.0,N,LFAW
-LFAX,Stone Ridge 2061 Longevity Income ETF,Stone Ridge 2061 Longevity Income ETF,Z,LFAX,Y,100.0,N,LFAX
-LFAZ,Stone Ridge 2062 Longevity Income ETF,Stone Ridge 2062 Longevity Income ETF,Z,LFAZ,Y,100.0,N,LFAZ
+LFAW,LifeX 2060 Longevity Income ETF,LifeX 2060 Longevity Income ETF,Z,LFAW,Y,100.0,N,LFAW
+LFAX,LifeX 2061 Longevity Income ETF,LifeX 2061 Longevity Income ETF,Z,LFAX,Y,100.0,N,LFAX
+LFAZ,LifeX 2062 Longevity Income ETF,LifeX 2062 Longevity Income ETF,Z,LFAZ,Y,100.0,N,LFAZ
 LFBB,Stone Ridge 2063 Longevity Income ETF,Stone Ridge 2063 Longevity Income ETF,Z,LFBB,Y,100.0,N,LFBB
 LFBD,Stone Ridge Trust Stone Ridge 2064 Longevity Income ETF,Stone Ridge Trust Stone Ridge 2064 Longevity Income ETF,Z,LFBD,Y,100.0,N,LFBD
 LFBE,Stone Ridge Trust Stone Ridge 2065 Longevity Income ETF,Stone Ridge Trust Stone Ridge 2065 Longevity Income ETF,Z,LFBE,Y,100.0,N,LFBE
@@ -3489,9 +3491,9 @@ LIAO,LifeX 2056 Inflation,LifeX 2056 Inflation-Protected Longevity Income ETF,Z,
 LIAP,LifeX 2057 Inflation,LifeX 2057 Inflation-Protected Longevity Income ETF,Z,LIAP,Y,100.0,N,LIAP
 LIAQ,LifeX 2058 Inflation,LifeX 2058 Inflation-Protected Longevity Income ETF,Z,LIAQ,Y,100.0,N,LIAQ
 LIAT,LifeX 2059 Inflation,LifeX 2059 Inflation-Protected Longevity Income ETF,Z,LIAT,Y,100.0,N,LIAT
-LIAU,Stone Ridge 2060 Inflation,Stone Ridge 2060 Inflation-Protected Longevity Income ETF,Z,LIAU,Y,100.0,N,LIAU
-LIAV,Stone Ridge 2061 Inflation,Stone Ridge 2061 Inflation-Protected Longevity Income ETF,Z,LIAV,Y,100.0,N,LIAV
-LIAW,Stone Ridge 2062 Inflation,Stone Ridge 2062 Inflation-Protected Longevity Income ETF,Z,LIAW,Y,100.0,N,LIAW
+LIAU,LifeX 2060 Inflation,LifeX 2060 Inflation-Protected Longevity Income ETF,Z,LIAU,Y,100.0,N,LIAU
+LIAV,LifeX 2061 Inflation,LifeX 2061 Inflation-Protected Longevity Income ETF,Z,LIAV,Y,100.0,N,LIAV
+LIAW,LifeX 2062 Inflation,LifeX 2062 Inflation-Protected Longevity Income ETF,Z,LIAW,Y,100.0,N,LIAW
 LIAX,Stone Ridge 2063 Inflation,Stone Ridge 2063 Inflation-Protected Longevity Income ETF,Z,LIAX,Y,100.0,N,LIAX
 LIAY,Stone Ridge Trust Stone Ridge 2064 Inflation,Stone Ridge Trust Stone Ridge 2064 Inflation-Protected Longevity Income ETF,Z,LIAY,Y,100.0,N,LIAY
 LIBD,Stone Ridge Trust Stone Ridge 2065 Inflation,Stone Ridge Trust Stone Ridge 2065 Inflation-Protected Longevity Income ETF,Z,LIBD,Y,100.0,N,LIBD
@@ -3540,6 +3542,7 @@ LQDI,iShares Inflation Hedged Corporate Bond ETF,iShares Inflation Hedged Corpor
 LQDW,iShares Trust iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,iShares Trust iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,Z,LQDW,Y,100.0,N,LQDW
 LQIG,SPDR Series Trust SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,SPDR Series Trust SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,P,LQIG,Y,100.0,N,LQIG
 LQPE,Tidal Trust III PEO AlphaQuest Thematic PE ETF,Tidal Trust III PEO AlphaQuest Thematic PE ETF,P,LQPE,Y,100.0,N,LQPE
+LQTI,First Trust Exchange,First Trust Exchange-Traded Fund IV FT Vest Investment Grade & Target Income ETF,P,LQTI,Y,100.0,N,LQTI
 LRGC,"AB Active ETFs, Inc. AB US Large Cap Strategic Equities ETF","AB Active ETFs, Inc. AB US Large Cap Strategic Equities ETF",P,LRGC,Y,100.0,N,LRGC
 LRGF,iShares U.S. Equity Factor ETF,iShares U.S. Equity Factor ETF,P,LRGF,Y,100.0,N,LRGF
 LRGG,Macquarie ETF Trust Macquarie Focused Large Growth ETF,Macquarie ETF Trust Macquarie Focused Large Growth ETF,P,LRGG,Y,100.0,N,LRGG
@@ -3558,6 +3561,7 @@ LTH,"Life Time Group Holdings, Inc. Common Stock","Life Time Group Holdings, Inc
 LTL,ProShares Ultra Communication Services,ProShares Ultra Communication Services,P,LTL,Y,100.0,N,LTL
 LTM,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)","LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",N,LTM,N,100.0,N,LTM
 LTPZ,Pimco 15  Year U.S. TIPS Index Exchange,Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund,P,LTPZ,Y,100.0,N,LTPZ
+LTTI,First Trust Exchange,First Trust Exchange-Traded Fund IV FT Vest 20+ Year Treasury & Target Income ETF,P,LTTI,Y,100.0,N,LTTI
 LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares","Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",N,LU,N,100.0,N,LU
 LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,Lucky Strike Entertainment Corporation Class A Common Stock,N,LUCK,N,100.0,N,LUCK
 LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common Stock",N,LUMN,N,100.0,N,LUMN
