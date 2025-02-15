@@ -1390,6 +1390,7 @@ DHF,BNY Mellon High Yield Strategies Fund Common Stock,BNY Mellon High Yield Str
 DHI,"D.R. Horton, Inc. Common Stock","D.R. Horton, Inc. Common Stock",N,DHI,N,100.0,N,DHI
 DHR,Danaher Corporation Common Stock,Danaher Corporation Common Stock,N,DHR,N,100.0,N,DHR
 DHS,WisdomTree U.S. High Dividend Fund,WisdomTree U.S. High Dividend Fund,P,DHS,Y,100.0,N,DHS
+DHSB,Strategy Shares Day Hagan Smart Buffer ETF,Strategy Shares Day Hagan Smart Buffer ETF,P,DHSB,Y,100.0,N,DHSB
 DHT,"DHT Holdings, Inc.","DHT Holdings, Inc.",N,DHT,N,100.0,N,DHT
 DHX,"DHI Group, Inc. Common Stock","DHI Group, Inc. Common Stock",N,DHX,N,100.0,N,DHX
 DHY,Credit Suisse High Yield Bond Fund Common Stock,Credit Suisse High Yield Bond Fund Common Stock,A,DHY,N,100.0,N,DHY
@@ -2996,7 +2997,7 @@ IPPP,Listed Funds Trust Preferred,Listed Funds Trust Preferred-Plus ETF,Z,IPPP,Y
 IQDF,FlexShares International Quality Dividend Index Fund,FlexShares International Quality Dividend Index Fund,P,IQDF,Y,100.0,N,IQDF
 IQDG,WisdomTree International Quality Dividend Growth Fund,WisdomTree International Quality Dividend Growth Fund,Z,IQDG,Y,100.0,N,IQDG
 IQDY,FlexShares International Quality Dividend Dynamic Index Fund,FlexShares International Quality Dividend Dynamic Index Fund,P,IQDY,Y,100.0,N,IQDY
-IQHI,NYLI MacKay ESG High Income ETF,NYLI MacKay ESG High Income ETF,P,IQHI,Y,100.0,N,IQHI
+IQHI,NYLI MacKay High Income ETF,NYLI MacKay High Income ETF,P,IQHI,Y,100.0,N,IQHI
 IQI,Invesco Quality Municipal Income Trust Common Stock,Invesco Quality Municipal Income Trust Common Stock,N,IQI,N,100.0,N,IQI
 IQLT,iShares MSCI Intl Quality Factor ETF,iShares MSCI Intl Quality Factor ETF,P,IQLT,Y,100.0,N,IQLT
 IQM,Franklin Intelligent Machines ETF,Franklin Intelligent Machines ETF,Z,IQM,Y,100.0,N,IQM
@@ -3459,10 +3460,10 @@ LFAV,LifeX 2059 Longevity Income ETF,LifeX 2059 Longevity Income ETF,Z,LFAV,Y,10
 LFAW,LifeX 2060 Longevity Income ETF,LifeX 2060 Longevity Income ETF,Z,LFAW,Y,100.0,N,LFAW
 LFAX,LifeX 2061 Longevity Income ETF,LifeX 2061 Longevity Income ETF,Z,LFAX,Y,100.0,N,LFAX
 LFAZ,LifeX 2062 Longevity Income ETF,LifeX 2062 Longevity Income ETF,Z,LFAZ,Y,100.0,N,LFAZ
-LFBB,Stone Ridge 2063 Longevity Income ETF,Stone Ridge 2063 Longevity Income ETF,Z,LFBB,Y,100.0,N,LFBB
-LFBD,Stone Ridge Trust Stone Ridge 2064 Longevity Income ETF,Stone Ridge Trust Stone Ridge 2064 Longevity Income ETF,Z,LFBD,Y,100.0,N,LFBD
-LFBE,Stone Ridge Trust Stone Ridge 2065 Longevity Income ETF,Stone Ridge Trust Stone Ridge 2065 Longevity Income ETF,Z,LFBE,Y,100.0,N,LFBE
-LFDR,Stone Ridge Trust Stone Ridge Durable Income ETF,Stone Ridge Trust Stone Ridge Durable Income ETF,Z,LFDR,Y,100.0,N,LFDR
+LFBB,LifeX 2063 Longevity Income ETF,LifeX 2063 Longevity Income ETF,Z,LFBB,Y,100.0,N,LFBB
+LFBD,LifeX 2064 Longevity Income ETF,LifeX 2064 Longevity Income ETF,Z,LFBD,Y,100.0,N,LFBD
+LFBE,LifeX 2065 Longevity Income ETF,LifeX 2065 Longevity Income ETF,Z,LFBE,Y,100.0,N,LFBE
+LFDR,LifeX Durable Income ETF,LifeX Durable Income ETF,Z,LFDR,Y,100.0,N,LFDR
 LFEQ,VanEck Long/Flat Trend ETF,VanEck Long/Flat Trend ETF,P,LFEQ,Y,100.0,N,LFEQ
 LFGY,Tidal Trust II YieldMax Crypto Industry & Tech Portfolio Option Income ETF,Tidal Trust II YieldMax Crypto Industry & Tech Portfolio Option Income ETF,P,LFGY,Y,100.0,N,LFGY
 LFT,"Lument Finance Trust, Inc. Common Stock","Lument Finance Trust, Inc. Common Stock",N,LFT,N,100.0,N,LFT
@@ -3494,9 +3495,9 @@ LIAT,LifeX 2059 Inflation,LifeX 2059 Inflation-Protected Longevity Income ETF,Z,
 LIAU,LifeX 2060 Inflation,LifeX 2060 Inflation-Protected Longevity Income ETF,Z,LIAU,Y,100.0,N,LIAU
 LIAV,LifeX 2061 Inflation,LifeX 2061 Inflation-Protected Longevity Income ETF,Z,LIAV,Y,100.0,N,LIAV
 LIAW,LifeX 2062 Inflation,LifeX 2062 Inflation-Protected Longevity Income ETF,Z,LIAW,Y,100.0,N,LIAW
-LIAX,Stone Ridge 2063 Inflation,Stone Ridge 2063 Inflation-Protected Longevity Income ETF,Z,LIAX,Y,100.0,N,LIAX
-LIAY,Stone Ridge Trust Stone Ridge 2064 Inflation,Stone Ridge Trust Stone Ridge 2064 Inflation-Protected Longevity Income ETF,Z,LIAY,Y,100.0,N,LIAY
-LIBD,Stone Ridge Trust Stone Ridge 2065 Inflation,Stone Ridge Trust Stone Ridge 2065 Inflation-Protected Longevity Income ETF,Z,LIBD,Y,100.0,N,LIBD
+LIAX,LifeX 2063 Inflation,LifeX 2063 Inflation-Protected Longevity Income ETF,Z,LIAX,Y,100.0,N,LIAX
+LIAY,LifeX 2064 Inflation,LifeX 2064 Inflation-Protected Longevity Income ETF,Z,LIAY,Y,100.0,N,LIAY
+LIBD,LifeX 2065 Inflation,LifeX 2065 Inflation-Protected Longevity Income ETF,Z,LIBD,Y,100.0,N,LIBD
 LICY,Li,Li-Cycle Holdings Corp. Common Shares,N,LICY,N,100.0,N,LICY
 LII,"Lennox International, Inc. Common Stock","Lennox International, Inc. Common Stock",N,LII,N,100.0,N,LII
 LIMI,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Z,LIMI,Y,100.0,N,LIMI
@@ -4059,6 +4060,7 @@ NOVM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equ
 NOVP,SHL Telemedicine Ltd PGIM US Large,SHL Telemedicine Ltd PGIM US Large-Cap Buffer 12 ETF - November,Z,NOVP,Y,100.0,N,NOVP
 NOVZ,TrueShares Structured Outcome (November) ETF,TrueShares Structured Outcome (November) ETF,Z,NOVZ,Y,100.0,N,NOVZ
 NOW,"ServiceNow, Inc. Common Stock","ServiceNow, Inc. Common Stock",N,NOW,N,100.0,N,NOW
+NPB,"Northpointe Bancshares, Inc. Common Stock","Northpointe Bancshares, Inc. Common Stock",N,NPB,N,100.0,N,NPB
 NPCT,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,N,NPCT,N,100.0,N,NPCT
 NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares,Nuveen Variable Rate Preferred & Income Fund Common Shares,N,NPFD,N,100.0,N,NPFD
 NPK,"National Presto Industries, Inc. Common Stock","National Presto Industries, Inc. Common Stock",N,NPK,N,100.0,N,NPK
@@ -4494,6 +4496,7 @@ PMT$A,PennyMac Mortgage Investment Trust 8.125% Series A Fixed,PennyMac Mortgage
 PMT$B,PennyMac Mortgage Investment Trust 8.00% Series B Fixed,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,N,PMTpB,N,100.0,N,PMT-B
 PMT$C,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest,N,PMTpC,N,100.0,N,PMT-C
 PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,N,PMTU,N,100.0,N,PMTU
+PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,N,PMTV,N,100.0,N,PMTV
 PMX,PIMCO Municipal Income Fund III Common Shares of Beneficial Interest,PIMCO Municipal Income Fund III Common Shares of Beneficial Interest,N,PMX,N,100.0,N,PMX
 PNC,"PNC Financial Services Group, Inc. (The) Common Stock","PNC Financial Services Group, Inc. (The) Common Stock",N,PNC,N,100.0,N,PNC
 PNF,PIMCO New York Municipal Income Fund Common Stock,PIMCO New York Municipal Income Fund Common Stock,N,PNF,N,100.0,N,PNF
@@ -5164,7 +5167,6 @@ SIJ,ProShares UltraShort Industrials,ProShares UltraShort Industrials,P,SIJ,Y,10
 SIL,Global X Silver Miners ETF,Global X Silver Miners ETF,P,SIL,Y,100.0,N,SIL
 SILA,"Sila Realty Trust, Inc. Common Stock","Sila Realty Trust, Inc. Common Stock",N,SILA,N,100.0,N,SILA
 SILJ,Amplify ETF Trust Amplify Junior Silver Miners ETF,Amplify ETF Trust Amplify Junior Silver Miners ETF,P,SILJ,Y,100.0,N,SILJ
-SILV,SilverCrest Metals Inc. Common Shares,SilverCrest Metals Inc. Common Shares,A,SILV,N,100.0,N,SILV
 SIM,"Grupo Simec, S.A.B. de C.V. American Depositary Shares","Grupo Simec, S.A.B. de C.V. American Depositary Shares",A,SIM,N,100.0,N,SIM
 SIMS,SPDR S&P Kensho Intelligent Structures ETF ,SPDR S&P Kensho Intelligent Structures ETF ,P,SIMS,Y,100.0,N,SIMS
 SIO,Touchstone Strategic Income ETF,Touchstone Strategic Income ETF,P,SIO,Y,100.0,N,SIO
@@ -5696,6 +5698,7 @@ TRTN$B,Triton International Limited 8.00% Series B Cumulative Redeemable Perpetu
 TRTN$C,Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares,N,TRTNpC,N,100.0,N,TRTN-C
 TRTN$D,Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,N,TRTNpD,N,100.0,N,TRTN-D
 TRTN$E,Triton International Limited 5.75% Series E Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 5.75% Series E Cumulative Redeemable Perpetual Preference Shares,N,TRTNpE,N,100.0,N,TRTN-E
+TRTN$F,Triton International Limited 7.625% Series F Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 7.625% Series F Cumulative Redeemable Perpetual Preference Shares,N,TRTNpF,N,100.0,N,TRTN-F
 TRTX,"TPG RE Finance Trust, Inc. Common Stock","TPG RE Finance Trust, Inc. Common Stock",N,TRTX,N,100.0,N,TRTX
 TRTX$C,"TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferred Stock, $0.001 par value per share","TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferred Stock, $0.001 par value per share",N,TRTXpC,N,100.0,N,TRTX-C
 TRTY,Cambria Trinity ETF,Cambria Trinity ETF,Z,TRTY,Y,100.0,N,TRTY
@@ -6376,7 +6379,6 @@ ZTAX,X,X-Square Municipal Income ETF,P,ZTAX,Y,100.0,N,ZTAX
 ZTO,"ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.","ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share.",N,ZTO,N,100.0,N,ZTO
 ZTR,Virtus Total Return Fund Inc.,Virtus Total Return Fund Inc.,N,ZTR,N,100.0,N,ZTR
 ZTS,Zoetis Inc. Class A Common Stock,Zoetis Inc. Class A Common Stock,N,ZTS,N,100.0,N,ZTS
-ZUO,"Zuora, Inc. Class A Common Stock","Zuora, Inc. Class A Common Stock",N,ZUO,N,100.0,N,ZUO
 ZVIA,Zevia PBC Class A Common Stock,Zevia PBC Class A Common Stock,N,ZVIA,N,100.0,N,ZVIA
 ZVOL,Volatility Premium Plus ETF,Volatility Premium Plus ETF,Z,ZVOL,Y,100.0,N,ZVOL
 ZWS,Zurn Elkay Water Solutions Corporation Common Stock,Zurn Elkay Water Solutions Corporation Common Stock,N,ZWS,N,100.0,N,ZWS
