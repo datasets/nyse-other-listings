@@ -1704,7 +1704,6 @@ ELS,"Equity Lifestyle Properties, Inc. Common Stock","Equity Lifestyle Propertie
 ELV,"Elevance Health, Inc. Common Stock","Elevance Health, Inc. Common Stock",N,ELV,N,100.0,N,ELV
 EMBD,Global X Emerging Markets Bond ETF,Global X Emerging Markets Bond ETF,P,EMBD,Y,100.0,N,EMBD
 EMC,Global X Funds Global X Emerging Markets Great Consumer ETF,Global X Funds Global X Emerging Markets Great Consumer ETF,P,EMC,Y,100.0,N,EMC
-EMCC,Global X Funds Global X MSCI Emerging Markets Covered Call ETF,Global X Funds Global X MSCI Emerging Markets Covered Call ETF,P,EMCC,Y,100.0,N,EMCC
 EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,P,EMCR,Y,100.0,N,EMCR
 EMCS,Xtrackers MSCI Emerging Markets Climate Selection ETF,Xtrackers MSCI Emerging Markets Climate Selection ETF,P,EMCS,Y,100.0,N,EMCS
 EMD,Western Asset Emerging Markets Debt Fund Inc Common Stock,Western Asset Emerging Markets Debt Fund Inc Common Stock,N,EMD,N,100.0,N,EMD
@@ -2280,7 +2279,6 @@ FXY,Invesco CurrencyShares Japanese Yen Trust,Invesco CurrencyShares Japanese Ye
 FXZ,First Trust Materials AlphaDEX Fund,First Trust Materials AlphaDEX Fund,P,FXZ,Y,100.0,N,FXZ
 FYEE,Fidelity Yield Enhanced Equity ETF,Fidelity Yield Enhanced Equity ETF,Z,FYEE,Y,100.0,N,FYEE
 FYLD,Cambria Foreign Shareholder Yield ETF,Cambria Foreign Shareholder Yield ETF,Z,FYLD,Y,100.0,N,FYLD
-FYLG,Global X Funds Global X Financials Covered Call & Growth ETF,Global X Funds Global X Financials Covered Call & Growth ETF,P,FYLG,Y,100.0,N,FYLG
 G,Genpact Limited Common Stock,Genpact Limited Common Stock,N,G,N,100.0,N,G
 GAA,Cambria Global Asset Allocation ETF,Cambria Global Asset Allocation ETF,Z,GAA,Y,100.0,N,GAA
 GAB,"Gabelli Equity Trust, Inc. (The) Common Stock","Gabelli Equity Trust, Inc. (The) Common Stock",N,GAB,N,100.0,N,GAB
@@ -2656,8 +2654,8 @@ HI,Hillenbrand Inc Common Stock,Hillenbrand Inc Common Stock,N,HI,N,100.0,N,HI
 HIBL,Direxion Daily S&P 500 High Beta Bull 3X Shares,Direxion Daily S&P 500 High Beta Bull 3X Shares,P,HIBL,Y,100.0,N,HIBL
 HIBS,Direxion Daily S&P 500 High Beta Bear 3X Shares,Direxion Daily S&P 500 High Beta Bear 3X Shares,P,HIBS,Y,100.0,N,HIBS
 HIDV,"AB Active ETFs, Inc. AB US High Dividend ETF","AB Active ETFs, Inc. AB US High Dividend ETF",P,HIDV,Y,100.0,N,HIDV
-HIG,"Hartford Financial Services Group, Inc. (The) Common Stock","Hartford Financial Services Group, Inc. (The) Common Stock",N,HIG,N,100.0,N,HIG
-HIG$G,"Hartford Financial Services Group, Inc. (The) Depositary Shares each representing a 1/1,000th interest in a share of 6.000% Non","Hartford Financial Services Group, Inc. (The) Depositary Shares each representing a 1/1,000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series G, $0.01 par value",N,HIGpG,N,100.0,N,HIG-G
+HIG,"The Hartford Insurance Group, Inc. Common Stock","The Hartford Insurance Group, Inc. Common Stock",N,HIG,N,100.0,N,HIG
+HIG$G,"The Hartford Insurance Group, Inc. Depositary Shares each representing a 1/1000th interest in a share of 6.000% Non","The Hartford Insurance Group, Inc. Depositary Shares each representing a 1/1000th interest in a share of 6.000% Non-Cumulative Preferred Stock, Series G",N,HIGpG,N,100.0,N,HIG-G
 HIGH,Simplify Exchange Traded Funds Simplify Enhanced Income ETF,Simplify Exchange Traded Funds Simplify Enhanced Income ETF,P,HIGH,Y,100.0,N,HIGH
 HII,"Huntington Ingalls Industries, Inc. Common Stock","Huntington Ingalls Industries, Inc. Common Stock",N,HII,N,100.0,N,HII
 HIMS,"Hims & Hers Health, Inc. Class A Common Stock","Hims & Hers Health, Inc. Class A Common Stock",N,HIMS,N,100.0,N,HIMS
@@ -2763,7 +2761,6 @@ HYI,Western Asset High Yield Defined Opportunity Fund Inc. Common Stock,Western 
 HYIN,WisdomTree Alternative Income Fund,WisdomTree Alternative Income Fund,Z,HYIN,Y,100.0,N,HYIN
 HYKE,ETF Series Solutions Vest 2 Year Interest Rate Hedge ETF,ETF Series Solutions Vest 2 Year Interest Rate Hedge ETF,Z,HYKE,Y,100.0,N,HYKE
 HYLB,Xtrackers USD High Yield Corporate Bond ETF,Xtrackers USD High Yield Corporate Bond ETF,P,HYLB,Y,100.0,N,HYLB
-HYLG,Global X Funds Global X Health Care Covered Call & Growth ETF,Global X Funds Global X Health Care Covered Call & Growth ETF,P,HYLG,Y,100.0,N,HYLG
 HYLN,Hyliion Holdings Corp. Class A Common Stock,Hyliion Holdings Corp. Class A Common Stock,A,HYLN,N,100.0,N,HYLN
 HYMB,SPDR Nuveen Bloomberg High Yield Municipal Bond ETF,SPDR Nuveen Bloomberg High Yield Municipal Bond ETF,P,HYMB,Y,100.0,N,HYMB
 HYRM,DBX ETF Trust Xtrackers Risk Managed USD High Yield Strategy ETF,DBX ETF Trust Xtrackers Risk Managed USD High Yield Strategy ETF,P,HYRM,Y,100.0,N,HYRM
@@ -3878,7 +3875,6 @@ MUB,iShares National Muni Bond ETF,iShares National Muni Bond ETF,P,MUB,Y,100.0,
 MUC,"Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock","Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock",N,MUC,N,100.0,N,MUC
 MUE,"Blackrock MuniHoldings Quality Fund II, Inc. Common Stock","Blackrock MuniHoldings Quality Fund II, Inc. Common Stock",N,MUE,N,100.0,N,MUE
 MUFG,"Mitsubishi UFJ Financial Group, Inc. Common Stock","Mitsubishi UFJ Financial Group, Inc. Common Stock",N,MUFG,N,100.0,N,MUFG
-MUI,"BlackRock Municipal Income Fund, Inc. Common Stock","BlackRock Municipal Income Fund, Inc. Common Stock",N,MUI,N,100.0,N,MUI
 MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock","Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock",N,MUJ,N,100.0,N,MUJ
 MUNI,PIMCO Intermediate Municipal Bond Active Exchange,PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund,P,MUNI,Y,100.0,N,MUNI
 MUR,Murphy Oil Corporation Common Stock,Murphy Oil Corporation Common Stock,N,MUR,N,100.0,N,MUR
@@ -5127,6 +5123,7 @@ SG,"Sweetgreen, Inc. Class A Common Stock","Sweetgreen, Inc. Class A Common Stoc
 SGDJ,Sprott Junior Gold Miners ETF,Sprott Junior Gold Miners ETF,P,SGDJ,Y,100.0,N,SGDJ
 SGDM,Sprott Gold Miners ETF,Sprott Gold Miners ETF,P,SGDM,Y,100.0,N,SGDM
 SGHC,Super Group (SGHC) Limited Ordinary Shares,Super Group (SGHC) Limited Ordinary Shares,N,SGHC,N,100.0,N,SGHC
+SGI,Somnigroup International Inc. Common Stock,Somnigroup International Inc. Common Stock,N,SGI,N,100.0,N,SGI
 SGLC,"The RBB Fund, Inc. SGI U.S. Large Cap Core ETF","The RBB Fund, Inc. SGI U.S. Large Cap Core ETF",P,SGLC,Y,100.0,N,SGLC
 SGN,"Signing Day Sports, Inc. Common Stock","Signing Day Sports, Inc. Common Stock",A,SGN,N,100.0,N,SGN
 SGOL,abrdn Physical Gold Shares ETF,abrdn Physical Gold Shares ETF,P,SGOL,Y,100.0,N,SGOL
@@ -5595,6 +5592,7 @@ THTA,Tidal ETF Trust SoFi Enhanced Yield ETF,Tidal ETF Trust SoFi Enhanced Yield
 THW,abrdn World Healthcare Fund Shares of Beneficial Interest,abrdn World Healthcare Fund Shares of Beneficial Interest,N,THW,N,100.0,N,THW
 THY,Toews Agility Shares Dynamic Tactical Income ETF,Toews Agility Shares Dynamic Tactical Income ETF,P,THY,Y,100.0,N,THY
 THYF,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price U.S. High Yield ETF",P,THYF,Y,100.0,N,THYF
+TIC,Acuren Corporation Common Stock,Acuren Corporation Common Stock,A,TIC,N,100.0,N,TIC
 TILL,Listed Funds Trust Teucrium Agricultural Strategy No K,Listed Funds Trust Teucrium Agricultural Strategy No K-1 ETF,P,TILL,Y,100.0,N,TILL
 TILT,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,Z,TILT,Y,100.0,N,TILT
 TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,N,TIMB,N,100.0,N,TIMB
@@ -5675,7 +5673,6 @@ TPR,"Tapestry, Inc. Common Stock","Tapestry, Inc. Common Stock",N,TPR,N,100.0,N,
 TPSC,Timothy Plan US Small Cap Core ETF,Timothy Plan US Small Cap Core ETF,P,TPSC,Y,100.0,N,TPSC
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026","Terra Property Trust, Inc. 6.00% Notes due 2026",N,TPTA,N,100.0,N,TPTA
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,TriplePoint Venture Growth BDC Corp. Common Stock,N,TPVG,N,100.0,N,TPVG
-TPX,"Tempur Sealy International, Inc. Common Stock","Tempur Sealy International, Inc. Common Stock",N,TPX,N,100.0,N,TPX
 TPYP,Tortoise North American Pipeline ETF,Tortoise North American Pipeline ETF,P,TPYP,Y,100.0,N,TPYP
 TPZ,Tortoise Capital Series Trust Tortoise Power and Energy Infrastructure Fund,Tortoise Capital Series Trust Tortoise Power and Energy Infrastructure Fund,N,TPZ,Y,100.0,N,TPZ
 TR,"Tootsie Roll Industries, Inc. Common Stock","Tootsie Roll Industries, Inc. Common Stock",N,TR,N,100.0,N,TR
@@ -6309,7 +6306,6 @@ XXCH,Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bul
 XYF,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares","X Financial American Depositary Shares, each representing six Class A Ordinary Shares",N,XYF,N,100.0,N,XYF
 XYL,Xylem Inc. Common Stock New,Xylem Inc. Common Stock New,N,XYL,N,100.0,N,XYL
 XYLD,Global X Funds Global X S&P 500 Covered Call ETF,Global X Funds Global X S&P 500 Covered Call ETF,P,XYLD,Y,100.0,N,XYLD
-XYLE,Global X Funds Global X S&P 500 ESG Covered Call ETF,Global X Funds Global X S&P 500 ESG Covered Call ETF,P,XYLE,Y,100.0,N,XYLE
 XYLG,Global X S&P 500 Covered Call & Growth ETF,Global X S&P 500 Covered Call & Growth ETF,P,XYLG,Y,100.0,N,XYLG
 XYZ,"Block, Inc. Class A Common Stock,","Block, Inc. Class A Common Stock,",N,XYZ,N,100.0,N,XYZ
 YALA,"Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share","Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share",N,YALA,N,100.0,N,YALA

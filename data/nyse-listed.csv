@@ -1264,8 +1264,8 @@ HGTY,"Hagerty, Inc. Class A Common Stock"
 HGV,Hilton Grand Vacations Inc. Common Stock 
 HHH,Howard Hughes Holdings Inc. Common Stock
 HI,Hillenbrand Inc Common Stock
-HIG,"Hartford Financial Services Group, Inc. (The) Common Stock"
-HIG$G,"Hartford Financial Services Group, Inc. (The) Depositary Shares each representing a 1/1,000th interest in a share of 6.000% Non"
+HIG,"The Hartford Insurance Group, Inc. Common Stock"
+HIG$G,"The Hartford Insurance Group, Inc. Depositary Shares each representing a 1/1000th interest in a share of 6.000% Non"
 HII,"Huntington Ingalls Industries, Inc. Common Stock"
 HIMS,"Hims & Hers Health, Inc. Class A Common Stock"
 HIO,"Western Asset High Income Opportunity Fund, Inc. Common Stock"
@@ -1760,7 +1760,6 @@ MUA,"Blackrock MuniAssets Fund, Inc Common Stock"
 MUC,"Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock"
 MUE,"Blackrock MuniHoldings Quality Fund II, Inc. Common Stock"
 MUFG,"Mitsubishi UFJ Financial Group, Inc. Common Stock"
-MUI,"BlackRock Municipal Income Fund, Inc. Common Stock"
 MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock"
 MUR,Murphy Oil Corporation Common Stock
 MUSA,Murphy USA Inc. Common Stock
@@ -2343,6 +2342,7 @@ SFBS,"ServisFirst Bancshares, Inc. Common Stock"
 SFL,SFL Corporation Ltd
 SG,"Sweetgreen, Inc. Class A Common Stock"
 SGHC,Super Group (SGHC) Limited Ordinary Shares
+SGI,Somnigroup International Inc. Common Stock
 SGU,Star Group L.P. Common Stock
 SHAK,"Shake Shack, Inc. Class A Common Stock"
 SHCO,Soho House & Co Inc. Class A Common Stock
@@ -2586,7 +2586,6 @@ TPL,Texas Pacific Land Corporation Common Stock
 TPR,"Tapestry, Inc. Common Stock"
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026"
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock
-TPX,"Tempur Sealy International, Inc. Common Stock"
 TPZ,Tortoise Capital Series Trust Tortoise Power and Energy Infrastructure Fund
 TR,"Tootsie Roll Industries, Inc. Common Stock"
 TRAK,"ReposiTrak, Inc. Common Stock"
