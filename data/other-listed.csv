@@ -614,7 +614,6 @@ BHYB,DBX ETF Trust Xtrackers USD High Yield BB,DBX ETF Trust Xtrackers USD High 
 BIBL,Inspire 100 ETF,Inspire 100 ETF,P,BIBL,Y,100.0,N,BIBL
 BIDD,iShares International Dividend Active ETF,iShares International Dividend Active ETF,P,BIDD,Y,100.0,N,BIDD
 BIGY,Tidal Trust II YieldMax Target 12 Big 50 Option Income ETF,Tidal Trust II YieldMax Target 12 Big 50 Option Income ETF,P,BIGY,Y,100.0,N,BIGY
-BIGZ,BlackRock Innovation and Growth Term Trust Common Shares of Beneficial Interest,BlackRock Innovation and Growth Term Trust Common Shares of Beneficial Interest,N,BIGZ,N,100.0,N,BIGZ
 BIL,SPDR Bloomberg 1,SPDR Bloomberg 1-3 Month T-Bill ETF,P,BIL,Y,100.0,N,BIL
 BILD,Macquarie ETF Trust Macquarie Global Listed Infrastructure ETF,Macquarie ETF Trust Macquarie Global Listed Infrastructure ETF,P,BILD,Y,100.0,N,BILD
 BILL,"BILL Holdings, Inc. Common Stock","BILL Holdings, Inc. Common Stock",N,BILL,N,100.0,N,BILL
@@ -711,6 +710,8 @@ BNED,"Barnes & Noble Education, Inc Common Stock","Barnes & Noble Education, Inc
 BNGE,First Trust S,First Trust S-Network Streaming and Gaming ETF,P,BNGE,Y,100.0,N,BNGE
 BNH,"Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080","Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080",N,BNH,N,100.0,N,BNH
 BNJ,Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes,Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes,N,BNJ,N,100.0,N,BNJ
+BNKD,Bank Of Montreal MicroSectors  U.S. Big Banks ,"Bank Of Montreal MicroSectors  U.S. Big Banks -3  Inverse Leveraged ETNs due February 17, 2045",P,BNKD,Y,100.0,N,BNKD
+BNKU,"Bank Of Montreal MicroSectors  U.S. Big Banks 3  Leveraged ETNs due February 17, 2045","Bank Of Montreal MicroSectors  U.S. Big Banks 3  Leveraged ETNs due February 17, 2045",P,BNKU,Y,100.0,N,BNKU
 BNL,"Broadstone Net Lease, Inc. Common Stock","Broadstone Net Lease, Inc. Common Stock",N,BNL,N,100.0,N,BNL
 BNO,"United States Brent Oil Fund, LP ETV","United States Brent Oil Fund, LP ETV",P,BNO,Y,100.0,N,BNO
 BNOV,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - November,Z,BNOV,Y,100.0,N,BNOV
@@ -792,6 +793,7 @@ BTRN,Global X Funds Global X Bitcoin Trend Strategy ETF,Global X Funds Global X 
 BTT,BlackRock Municipal 2030 Target Term Trust,BlackRock Municipal 2030 Target Term Trust,N,BTT,N,100.0,N,BTT
 BTTR,Better Choice Company Inc. Common Stock,Better Choice Company Inc. Common Stock,A,BTTR,N,100.0,N,BTTR
 BTU,Peabody Energy Corporation Common Stock ,Peabody Energy Corporation Common Stock ,N,BTU,N,100.0,N,BTU
+BTX,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,N,BTX,N,100.0,N,BTX
 BTZ,BlackRock Credit Allocation Income Trust,BlackRock Credit Allocation Income Trust,N,BTZ,N,100.0,N,BTZ
 BUCK,Simplify Treasury Option Income ETF,Simplify Treasury Option Income ETF,P,BUCK,Y,100.0,N,BUCK
 BUD,Anheuser,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),N,BUD,N,100.0,N,BUD
@@ -1919,6 +1921,7 @@ EZBC,Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF,Fr
 EZET,Franklin Ethereum ETF Franklin Ethereum ETF,Franklin Ethereum ETF Franklin Ethereum ETF,Z,EZET,Y,100.0,N,EZET
 EZJ,ProShares Ultra MSCI Japan,ProShares Ultra MSCI Japan,P,EZJ,Y,100.0,N,EZJ
 EZM,WisdomTree U.S. MidCap Fund,WisdomTree U.S. MidCap Fund,P,EZM,Y,100.0,N,EZM
+EZPZ,Franklin Crypto Index ETF Franklin Crypto Index ETF,Franklin Crypto Index ETF Franklin Crypto Index ETF,Z,EZPZ,Y,100.0,N,EZPZ
 EZU,iShares MSCI Eurozone ETF,iShares MSCI Eurozone ETF,Z,EZU,Y,100.0,N,EZU
 F,Ford Motor Company Common Stock,Ford Motor Company Common Stock,N,F,N,100.0,N,F
 F$B,"Ford Motor Company 6.20% Notes due June 1, 2059","Ford Motor Company 6.20% Notes due June 1, 2059",N,FpB,N,100.0,N,F-B
@@ -2171,6 +2174,7 @@ FNDE,Schwab Fundamental Emerging Markets Equity ETF,Schwab Fundamental Emerging 
 FNDF,Schwab Fundamental International Equity ETF,Schwab Fundamental International Equity ETF,P,FNDF,Y,100.0,N,FNDF
 FNDX,Schwab Fundamental U.S. Large Company ETF,Schwab Fundamental U.S. Large Company ETF,P,FNDX,Y,100.0,N,FNDX
 FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock","FNF Group of Fidelity National Financial, Inc. Common Stock",N,FNF,N,100.0,N,FNF
+FNGB,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,P,FNGB,Y,100.0,N,FNGB
 FNGD,MicroSectors FANG  Index ,"MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038",P,FNGD,N,100.0,N,FNGD
 FNGG,Direxion Daily NYSE FANG+ Bull 2X Shares,Direxion Daily NYSE FANG+ Bull 2X Shares,P,FNGG,Y,100.0,N,FNGG
 FNGO,"MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038","MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038",P,FNGO,N,100.0,N,FNGO
@@ -4072,6 +4076,8 @@ NRDY,Nerdy Inc. Class A Common Stock,Nerdy Inc. Class A Common Stock,N,NRDY,N,10
 NREF,"NexPoint Real Estate Finance, Inc. Common Stock","NexPoint Real Estate Finance, Inc. Common Stock",N,NREF,N,100.0,N,NREF
 NREF$A,"NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock","NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock",N,NREFpA,N,100.0,N,NREF-A
 NRG,"NRG Energy, Inc. Common Stock","NRG Energy, Inc. Common Stock",N,NRG,N,100.0,N,NRG
+NRGD,Bank Of Montreal MicroSectors  U.S. Big Oil ,"Bank Of Montreal MicroSectors  U.S. Big Oil -3  Inverse Leveraged ETNs due February 17, 2045",P,NRGD,Y,100.0,N,NRGD
+NRGU,"Bank Of Montreal MicroSectors U.S. Big Oil 3 Leveraged ETNs due February 17, 2045","Bank Of Montreal MicroSectors U.S. Big Oil 3 Leveraged ETNs due February 17, 2045",P,NRGU,Y,100.0,N,NRGU
 NRGV,"Energy Vault Holdings, Inc. Common Stock","Energy Vault Holdings, Inc. Common Stock",N,NRGV,N,100.0,N,NRGV
 NRK,Nuveen New York AMT,Nuveen New York AMT-Free Quality Municipal Income Fund ,N,NRK,N,100.0,N,NRK
 NRO,"Neuberger Berman Real Estate Securities Income Fund, Inc.","Neuberger Berman Real Estate Securities Income Fund, Inc.",A,NRO,N,100.0,N,NRO
@@ -4447,6 +4453,7 @@ PIN,Invesco India ETF,Invesco India ETF,P,PIN,Y,100.0,N,PIN
 PINE,"Alpine Income Property Trust, Inc. Common Stock","Alpine Income Property Trust, Inc. Common Stock",N,PINE,N,100.0,N,PINE
 PINK,Simplify Health Care ETF,Simplify Health Care ETF,P,PINK,Y,100.0,N,PINK
 PINS,"Pinterest, Inc. Class A Common Stock","Pinterest, Inc. Class A Common Stock",N,PINS,N,100.0,N,PINS
+PIPE,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trust Invesco SteelPath MLP & Energy Infrastructure ETF,Z,PIPE,Y,100.0,N,PIPE
 PIPR,Piper Sandler Companies Common Stock,Piper Sandler Companies Common Stock,N,PIPR,N,100.0,N,PIPR
 PIT,VanEck ETF Trust VanEck Commodity Strategy ETF,VanEck ETF Trust VanEck Commodity Strategy ETF,Z,PIT,Y,100.0,N,PIT
 PJAN,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - January,Z,PJAN,Y,100.0,N,PJAN
