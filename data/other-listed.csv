@@ -75,7 +75,7 @@ ADT,ADT Inc. Common Stock,ADT Inc. Common Stock,N,ADT,N,100.0,N,ADT
 ADVE,Matthews International Funds Matthews Asia Dividend Active ETF,Matthews International Funds Matthews Asia Dividend Active ETF,P,ADVE,Y,100.0,N,ADVE
 ADX,Adams Diversified Equity Fund Inc.,Adams Diversified Equity Fund Inc.,N,ADX,N,100.0,N,ADX
 AEE,Ameren Corporation Common Stock,Ameren Corporation Common Stock,N,AEE,N,100.0,N,AEE
-AEF,"abrdn Emerging Markets Equity Income Fund, Inc. Common Stock","abrdn Emerging Markets Equity Income Fund, Inc. Common Stock",A,AEF,N,100.0,N,AEF
+AEF,abrdn Emerging Markets ex,"abrdn Emerging Markets ex-China Fund, Inc. Common Stock",A,AEF,N,100.0,N,AEF
 AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,N,AEFC,N,100.0,N,AEFC
 AEG,Aegon Ltd. New York Registry Shares,Aegon Ltd. New York Registry Shares,N,AEG,N,100.0,N,AEG
 AEM,Agnico Eagle Mines Limited Common Stock,Agnico Eagle Mines Limited Common Stock,N,AEM,N,100.0,N,AEM
@@ -213,7 +213,6 @@ AMLP,Alerian MLP ETF,Alerian MLP ETF,P,AMLP,Y,100.0,N,AMLP
 AMN,AMN Healthcare Services Inc,AMN Healthcare Services Inc,N,AMN,N,100.0,N,AMN
 AMOM,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap Momentum ETF,P,AMOM,Y,100.0,N,AMOM
 AMP,"Ameriprise Financial, Inc. Common Stock","Ameriprise Financial, Inc. Common Stock",N,AMP,N,100.0,N,AMP
-AMPD,CNIC ICE U.S. Carbon Neutral Power Futures Index ETF,CNIC ICE U.S. Carbon Neutral Power Futures Index ETF,P,AMPD,Y,100.0,N,AMPD
 AMPS,"Altus Power, Inc. Class A Common Stock","Altus Power, Inc. Class A Common Stock",N,AMPS,N,100.0,N,AMPS
 AMPX,"Amprius Technologies, Inc. Common Stock","Amprius Technologies, Inc. Common Stock",N,AMPX,N,100.0,N,AMPX
 AMPX.W,"Amprius Technologies, Inc. Warrants to purchase one share of Common Stock at an exercise price of $11.50 per share","Amprius Technologies, Inc. Warrants to purchase one share of Common Stock at an exercise price of $11.50 per share",N,AMPX.WS,N,100.0,N,AMPX+
@@ -235,7 +234,6 @@ AN,"AutoNation, Inc. Common Stock","AutoNation, Inc. Common Stock",N,AN,N,100.0,
 ANET,"Arista Networks, Inc. Common Stock","Arista Networks, Inc. Common Stock",N,ANET,N,100.0,N,ANET
 ANEW,ProShares MSCI Transformational Changes ETF,ProShares MSCI Transformational Changes ETF,P,ANEW,Y,100.0,N,ANEW
 ANF,Abercrombie & Fitch Company Common Stock,Abercrombie & Fitch Company Common Stock,N,ANF,N,100.0,N,ANF
-ANG$A,"American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed","American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of  5.95% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series A",N,ANGpA,N,100.0,N,ANG-A
 ANG$B,"American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed","American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",N,ANGpB,N,100.0,N,ANG-B
 ANG$D,"American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed","American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D",N,ANGpD,N,100.0,N,ANG-D
 ANRO,"Alto Neuroscience, Inc. Common Stock","Alto Neuroscience, Inc. Common Stock",N,ANRO,N,100.0,N,ANRO
@@ -925,7 +923,7 @@ CDP,COPT Defense Properties Common Shares of Beneficial Interest,COPT Defense Pr
 CDR$B,"Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred Stock","Cedar Realty Trust, Inc. 7.25% Series B Cumulative Redeemable Preferred Stock",N,CDRpB,N,100.0,N,CDR-B
 CDR$C,"Cedar Realty Trust, Inc. 6.50% Series C Cumulative Redeemable Preferred Stock","Cedar Realty Trust, Inc. 6.50% Series C Cumulative Redeemable Preferred Stock",N,CDRpC,N,100.0,N,CDR-C
 CDRE,"Cadre Holdings, Inc. Common Stock","Cadre Holdings, Inc. Common Stock",N,CDRE,N,100.0,N,CDRE
-CDX,Simplify Exchange Traded Funds Simplify High Yield PLUS Credit Hedge ETF,Simplify Exchange Traded Funds Simplify High Yield PLUS Credit Hedge ETF,P,CDX,Y,100.0,N,CDX
+CDX,Simplify High Yield ETF,Simplify High Yield ETF,P,CDX,Y,100.0,N,CDX
 CE,Celanese Corporation Common Stock,Celanese Corporation Common Stock,N,CE,N,100.0,N,CE
 CEE,"The Central and Eastern Europe Fund, Inc. (The) Common Stock","The Central and Eastern Europe Fund, Inc. (The) Common Stock",N,CEE,N,100.0,N,CEE
 CEF,Sprott Physical Gold and Silver Trust Units,Sprott Physical Gold and Silver Trust Units,P,CEF,Y,100.0,N,CEF
@@ -1997,6 +1995,7 @@ FDWM,Fidelity Women's Leadership ETF,Fidelity Women's Leadership ETF,P,FDWM,Y,10
 FDX,FedEx Corporation Common Stock,FedEx Corporation Common Stock,N,FDX,N,100.0,N,FDX
 FE,FirstEnergy Corp. Common Stock,FirstEnergy Corp. Common Stock,N,FE,N,100.0,N,FE
 FEAC,Fidelity Covington Trust Fidelity Enhanced U.S. All,Fidelity Covington Trust Fidelity Enhanced U.S. All-Cap Equity ETF,P,FEAC,Y,100.0,N,FEAC
+FEBM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - February,Z,FEBM,Y,100.0,N,FEBM
 FEBP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - February,Z,FEBP,Y,100.0,N,FEBP
 FEBT,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Feb ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Feb ETF,P,FEBT,Y,100.0,N,FEBT
 FEBU,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Feb ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Feb ETF,Z,FEBU,Y,100.0,N,FEBU
@@ -2514,7 +2513,6 @@ GRMN,Garmin Ltd. Common Stock (Switzerland),Garmin Ltd. Common Stock (Switzerlan
 GRN,iPath Series B Carbon Exchange,iPath Series B Carbon Exchange-Traded Notes,P,GRN,N,100.0,N,GRN
 GRNB,VanEck Green Bond ETF,VanEck Green Bond ETF,P,GRNB,Y,100.0,N,GRNB
 GRND,Grindr Inc. Common Stock,Grindr Inc. Common Stock,N,GRND,N,100.0,N,GRND
-GRND.W,"Grindr Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share","Grindr Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,GRND.WS,N,100.0,N,GRND+
 GRNT,"Granite Ridge Resources, Inc. Common Stock","Granite Ridge Resources, Inc. Common Stock",N,GRNT,N,100.0,N,GRNT
 GRNY,Tidal ETF Trust Fundstrat Granny Shots US Large Cap ETF,Tidal ETF Trust Fundstrat Granny Shots US Large Cap ETF,P,GRNY,Y,100.0,N,GRNY
 GRO,Brazil Potash Corp. Common Shares,Brazil Potash Corp. Common Shares,A,GRO,N,100.0,N,GRO
@@ -2562,6 +2560,7 @@ GTLS$B,"Chart Industries, Inc. Depositary Shares, each Representing a 1/20th Int
 GTN,"Gray Media, Inc. Common Stock","Gray Media, Inc. Common Stock",N,GTN,N,100.0,N,GTN
 GTN.A,"Gray Media, Inc. Class A Common Stock","Gray Media, Inc. Class A Common Stock",N,GTN.A,N,100.0,N,GTN.A
 GTO,Invesco Total Return Bond ETF,Invesco Total Return Bond ETF,P,GTO,Y,100.0,N,GTO
+GTOS,Invesco Short Duration Total Return Bond ETF,Invesco Short Duration Total Return Bond ETF,Z,GTOS,Y,100.0,N,GTOS
 GTY,Getty Realty Corporation Common Stock,Getty Realty Corporation Common Stock,N,GTY,N,100.0,N,GTY
 GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,N,GUG,N,100.0,N,GUG
 GUMI,Goldman Sachs ETF Trust Goldman Sachs Ultra Short Municipal Income ETF,Goldman Sachs ETF Trust Goldman Sachs Ultra Short Municipal Income ETF,P,GUMI,Y,100.0,N,GUMI
@@ -2725,6 +2724,7 @@ HSRT,Hartford AAA CLO ETF,Hartford AAA CLO ETF,Z,HSRT,Y,100.0,N,HSRT
 HSUN,Hartford Strategic Income ETF,Hartford Strategic Income ETF,Z,HSUN,Y,100.0,N,HSUN
 HSY,The Hershey Company Common Stock,The Hershey Company Common Stock,N,HSY,N,100.0,N,HSY
 HTAB,Hartford Schroders Tax,Hartford Schroders Tax-Aware Bond ETF,P,HTAB,Y,100.0,N,HTAB
+HTB,"HomeTrust Bancshares, Inc. Common Stock","HomeTrust Bancshares, Inc. Common Stock",N,HTB,N,100.0,N,HTB
 HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,N,HTD,N,100.0,N,HTD
 HTEC,Robo Global Healthcare Technology and Innovation ETF,Robo Global Healthcare Technology and Innovation ETF,P,HTEC,Y,100.0,N,HTEC
 HTFB,Horizon Technology Finance Corporation 4.875% Notes due 2026,Horizon Technology Finance Corporation 4.875% Notes due 2026,N,HTFB,N,100.0,N,HTFB
@@ -2940,7 +2940,6 @@ IMCB,iShares Morningstar Mid,iShares Morningstar Mid-Cap ETF,P,IMCB,Y,100.0,N,IM
 IMCG,iShares Morningstar Mid,iShares Morningstar Mid-Cap Growth ETF,P,IMCG,Y,100.0,N,IMCG
 IMFL,Invesco International Developed Dynamic Multifactor ETF,Invesco International Developed Dynamic Multifactor ETF,Z,IMFL,Y,100.0,N,IMFL
 IMO,Imperial Oil Limited Common Stock,Imperial Oil Limited Common Stock,A,IMO,N,100.0,N,IMO
-IMSI,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco Municipal Strategic Income ETF,Z,IMSI,Y,100.0,N,IMSI
 IMTB,iShares Core 5,iShares Core 5-10 Year USD Bond ETF,P,IMTB,Y,100.0,N,IMTB
 IMTM,iShares MSCI Intl Momentum Factor ETF,iShares MSCI Intl Momentum Factor ETF,P,IMTM,Y,100.0,N,IMTM
 INCE,Franklin Income Equity Focus ETF,Franklin Income Equity Focus ETF,P,INCE,Y,100.0,N,INCE
@@ -3013,6 +3012,7 @@ IQV,"IQVIA Holdings, Inc. Common Stock","IQVIA Holdings, Inc. Common Stock",N,IQ
 IR,Ingersoll Rand Inc. Common Stock,Ingersoll Rand Inc. Common Stock,N,IR,N,100.0,N,IR
 IRET,Tidal Trust II iREIT ,Tidal Trust II iREIT - MarketVector Quality REIT Index ETF,P,IRET,Y,100.0,N,IRET
 IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,Iron Mountain Incorporated (Delaware)Common Stock REIT,N,IRM,N,100.0,N,IRM
+IROC,Invesco Rochester High Yield Municipal ETF,Invesco Rochester High Yield Municipal ETF,Z,IROC,Y,100.0,N,IROC
 IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),N,IRS,N,100.0,N,IRS
 IRS.W,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares,N,IRS.WS,N,100.0,N,IRS+
 IRT,"Independence Realty Trust, Inc. Common Stock","Independence Realty Trust, Inc. Common Stock",N,IRT,N,100.0,N,IRT
@@ -3023,7 +3023,6 @@ ISCF,iShares International Small,iShares International Small-Cap Equity Factor E
 ISCG,iShares Morningstar Small,iShares Morningstar Small-Cap Growth ETF,P,ISCG,Y,100.0,N,ISCG
 ISCV,iShares Morningstar Small,iShares Morningstar Small-Cap Value ETF,P,ISCV,Y,100.0,N,ISCV
 ISD,"PGIM High Yield Bond Fund, Inc.","PGIM High Yield Bond Fund, Inc.",N,ISD,N,100.0,N,ISD
-ISDB,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco Short Duration Bond ETF,Z,ISDB,Y,100.0,N,ISDB
 ISEP,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  September,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  September,P,ISEP,Y,100.0,N,ISEP
 ISMD,Inspire Small/Mid Cap ETF,Inspire Small/Mid Cap ETF,P,ISMD,Y,100.0,N,ISMD
 ISPY,ProShares Trust ProShares S&P 500 High Income ETF,ProShares Trust ProShares S&P 500 High Income ETF,Z,ISPY,Y,100.0,N,ISPY
@@ -3617,6 +3616,7 @@ MAS,Masco Corporation Common Stock,Masco Corporation Common Stock,N,MAS,N,100.0,
 MATV,"Mativ Holdings, Inc. Common Stock","Mativ Holdings, Inc. Common Stock",N,MATV,N,100.0,N,MATV
 MATX,"Matson, Inc. Common Stock","Matson, Inc. Common Stock",N,MATX,N,100.0,N,MATX
 MAV,"Pioneer Municipal High Income Advantage Fund, Inc.","Pioneer Municipal High Income Advantage Fund, Inc.",N,MAV,N,100.0,N,MAV
+MAVF,EA Series Trust Matrix Advisors Value ETF,EA Series Trust Matrix Advisors Value ETF,P,MAVF,Y,100.0,N,MAVF
 MAX,"MediaAlpha, Inc. Class A Common Stock","MediaAlpha, Inc. Class A Common Stock",N,MAX,N,100.0,N,MAX
 MAXJ,iShares Trust iShares Large Cap Max Buffer Jun ETF,iShares Trust iShares Large Cap Max Buffer Jun ETF,Z,MAXJ,Y,100.0,N,MAXJ
 MAYP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - May,Z,MAYP,Y,100.0,N,MAYP
@@ -4701,6 +4701,7 @@ QLVD,FlexShares Developed Markets ex,FlexShares Developed Markets ex-US Quality 
 QLVE,FlexShares Emerging Markets  Quality Low Volatility Index Fund,FlexShares Emerging Markets  Quality Low Volatility Index Fund,P,QLVE,Y,100.0,N,QLVE
 QMAG,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Moderate Buffer ETF - August,Z,QMAG,Y,100.0,N,QMAG
 QMAR,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - March,Z,QMAR,Y,100.0,N,QMAR
+QMFE,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Moderate Buffer ETF - February,Z,QMFE,Y,100.0,N,QMFE
 QMMY,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Moderate Buffer ETF - May,Z,QMMY,Y,100.0,N,QMMY
 QMNV,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Moderate Buffer ETF - November,Z,QMNV,Y,100.0,N,QMNV
 QPFF,American Century ETF Trust American Century Quality Preferred ETF,American Century ETF Trust American Century Quality Preferred ETF,Z,QPFF,Y,100.0,N,QPFF
