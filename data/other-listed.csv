@@ -2246,6 +2246,7 @@ FTHY,First Trust High Yield Opportunities 2027 Term Fund Common Stock,First Trus
 FTI,TechnipFMC plc Ordinary Share,TechnipFMC plc Ordinary Share,N,FTI,N,100.0,N,FTI
 FTIF,First Trust Exchange,First Trust Exchange-Traded Fund First Trust Bloomberg Inflation Sensitive Equity ETF,P,FTIF,Y,100.0,N,FTIF
 FTK,"Flotek Industries, Inc. Common Stock","Flotek Industries, Inc. Common Stock",N,FTK,N,100.0,N,FTK
+FTKI,First Trust Exchange,First Trust Exchange-Traded Fund VI First Trust Small Cap BuyWrite Income ETF,P,FTKI,Y,100.0,N,FTKI
 FTLS,First Trust Long/Short Equity,First Trust Long/Short Equity,P,FTLS,Y,100.0,N,FTLS
 FTRB,Federated Hermes ETF Trust Federated Hermes Total Return Bond ETF,Federated Hermes ETF Trust Federated Hermes Total Return Bond ETF,P,FTRB,Y,100.0,N,FTRB
 FTS,Fortis Inc. Common Shares,Fortis Inc. Common Shares,N,FTS,N,100.0,N,FTS
@@ -3500,7 +3501,6 @@ LIAW,LifeX 2062 Inflation,LifeX 2062 Inflation-Protected Longevity Income ETF,Z,
 LIAX,LifeX 2063 Inflation,LifeX 2063 Inflation-Protected Longevity Income ETF,Z,LIAX,Y,100.0,N,LIAX
 LIAY,LifeX 2064 Inflation,LifeX 2064 Inflation-Protected Longevity Income ETF,Z,LIAY,Y,100.0,N,LIAY
 LIBD,LifeX 2065 Inflation,LifeX 2065 Inflation-Protected Longevity Income ETF,Z,LIBD,Y,100.0,N,LIBD
-LICY,Li,Li-Cycle Holdings Corp. Common Shares,N,LICY,N,100.0,N,LICY
 LII,"Lennox International, Inc. Common Stock","Lennox International, Inc. Common Stock",N,LII,N,100.0,N,LII
 LIMI,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Z,LIMI,Y,100.0,N,LIMI
 LIT,Global X Lithium & Battery Tech ETF,Global X Lithium & Battery Tech ETF,P,LIT,Y,100.0,N,LIT
@@ -3567,6 +3567,7 @@ LTPZ,Pimco 15  Year U.S. TIPS Index Exchange,Pimco 15  Year U.S. TIPS Index Exch
 LTTI,First Trust Exchange,First Trust Exchange-Traded Fund IV FT Vest 20+ Year Treasury & Target Income ETF,P,LTTI,Y,100.0,N,LTTI
 LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares","Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",N,LU,N,100.0,N,LU
 LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,Lucky Strike Entertainment Corporation Class A Common Stock,N,LUCK,N,100.0,N,LUCK
+LUD,Luda Technology Group Limited Ordinary Shares,Luda Technology Group Limited Ordinary Shares,A,LUD,N,100.0,N,LUD
 LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common Stock",N,LUMN,N,100.0,N,LUMN
 LUV,Southwest Airlines Company Common Stock,Southwest Airlines Company Common Stock,N,LUV,N,100.0,N,LUV
 LUX,Tema ETF Trust Tema Luxury ETF,Tema ETF Trust Tema Luxury ETF,P,LUX,Y,100.0,N,LUX
@@ -4545,6 +4546,7 @@ PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock","Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",N,PRIFpK,N,100.0,N,PRIF-K
 PRIF$L,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029","Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",N,PRIFpL,N,100.0,N,PRIF-L
 PRIM,Primoris Services Corporation Common Stock,Primoris Services Corporation Common Stock,N,PRIM,N,100.0,N,PRIM
+PRIV,SSGA Active Trust SPDR SSGA Apollo IG Public & Private Credit ETF,SSGA Active Trust SPDR SSGA Apollo IG Public & Private Credit ETF,P,PRIV,Y,100.0,N,PRIV
 PRK,Park National Corporation Common Stock,Park National Corporation Common Stock,A,PRK,N,100.0,N,PRK
 PRKS,United Parks & Resorts Inc. Common Stock,United Parks & Resorts Inc. Common Stock,N,PRKS,N,100.0,N,PRKS
 PRLB,"Proto Labs, Inc. Common stock","Proto Labs, Inc. Common stock",N,PRLB,N,100.0,N,PRLB
@@ -4736,6 +4738,7 @@ QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,Brookfield Real Assets Income Fund Inc. Common Stock,N,RA,N,100.0,N,RA
 RAAX,VanEck Real Assets ETF,VanEck Real Assets ETF,P,RAAX,Y,100.0,N,RAAX
+RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant),N,RAC.U,N,100.0,N,RAC=
 RACE,Ferrari N.V. Common Shares,Ferrari N.V. Common Shares,N,RACE,N,100.0,N,RACE
 RAFE,PIMCO RAFI ESG U.S. ETF,PIMCO RAFI ESG U.S. ETF,P,RAFE,Y,100.0,N,RAFE
 RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stock",N,RAMP,N,100.0,N,RAMP
@@ -5668,6 +5671,7 @@ TOST,"Toast, Inc. Class A Common Stock","Toast, Inc. Class A Common Stock",N,TOS
 TOTL,SPDR DoubleLine Total Return Tactical ETF,SPDR DoubleLine Total Return Tactical ETF,P,TOTL,Y,100.0,N,TOTL
 TOTR,T. Rowe Price Total Return ETF,T. Rowe Price Total Return ETF,P,TOTR,Y,100.0,N,TOTR
 TOUS,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price International Equity ETF",P,TOUS,Y,100.0,N,TOUS
+TOV,EA Series Trust JLens 500 Jewish Advocacy U.S. ETF,EA Series Trust JLens 500 Jewish Advocacy U.S. ETF,P,TOV,Y,100.0,N,TOV
 TOVX,"Theriva Biologics, Inc. Common Stock","Theriva Biologics, Inc. Common Stock",A,TOVX,N,100.0,N,TOVX
 TPB,"Turning Point Brands, Inc. Common Stock","Turning Point Brands, Inc. Common Stock",N,TPB,N,100.0,N,TPB
 TPC,Tutor Perini Corporation Common Stock,Tutor Perini Corporation Common Stock,N,TPC,N,100.0,N,TPC
