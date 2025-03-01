@@ -1198,6 +1198,7 @@ CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series","EIDP, Inc. Preferred Stock $3.5
 CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series","EIDP, Inc. Preferred Stock $4.50 Series",N,CTApB,N,100.0,N,CTA-B
 CTBB,Qwest Corporation 6.5% Notes due 2056,Qwest Corporation 6.5% Notes due 2056,N,CTBB,N,100.0,N,CTBB
 CTDD,Qwest Corporation 6.75% Notes due 2057,Qwest Corporation 6.75% Notes due 2057,N,CTDD,N,100.0,N,CTDD
+CTEV,Claritev Corporation Class A Common Stock,Claritev Corporation Class A Common Stock,N,CTEV,N,100.0,N,CTEV
 CTEX,ProShares S&P Kensho Cleantech ETF,ProShares S&P Kensho Cleantech ETF,P,CTEX,Y,100.0,N,CTEX
 CTGO,"Contango ORE, Inc. Common Stock","Contango ORE, Inc. Common Stock",A,CTGO,N,100.0,N,CTGO
 CTM,"Castellum, Inc. Common Stock","Castellum, Inc. Common Stock",A,CTM,N,100.0,N,CTM
@@ -1574,7 +1575,7 @@ EAPR,Innovator Emerging Markets Power Buffer ETF April,Innovator Emerging Market
 EARN,Ellington Credit Company Common Shares of Beneficial Interest,Ellington Credit Company Common Shares of Beneficial Interest,N,EARN,N,100.0,N,EARN
 EASG,Xtrackers MSCI EAFE Selection Equity ETF,Xtrackers MSCI EAFE Selection Equity ETF,P,EASG,Y,100.0,N,EASG
 EAT,"Brinker International, Inc. Common Stock","Brinker International, Inc. Common Stock",N,EAT,N,100.0,N,EAT
-EATV,Advisors Series Trust VegTech Plant,Advisors Series Trust VegTech Plant-based Innovation & Climate ETF,Z,EATV,Y,100.0,N,EATV
+EATV,VegTech Food Innovation & Climate ETF,VegTech Food Innovation & Climate ETF,Z,EATV,Y,100.0,N,EATV
 EATZ,AdvisorShares Restaurant ETF,AdvisorShares Restaurant ETF,P,EATZ,Y,100.0,N,EATZ
 EB,"Eventbrite, Inc. Class A Common Stock","Eventbrite, Inc. Class A Common Stock",N,EB,N,100.0,N,EB
 EBF,"Ennis, Inc. Common Stock","Ennis, Inc. Common Stock",N,EBF,N,100.0,N,EBF
@@ -3092,7 +3093,7 @@ IWS,iShares Russell Mid,iShares Russell Mid-cap Value ETF,P,IWS,Y,100.0,N,IWS
 IWV,iShares Russell 3000 ETF,iShares Russell 3000 ETF,P,IWV,Y,100.0,N,IWV
 IWX,iShares Russell Top 200 Value ETF,iShares Russell Top 200 Value ETF,P,IWX,Y,100.0,N,IWX
 IWY,iShares Russell Top 200 Growth ETF,iShares Russell Top 200 Growth ETF,P,IWY,Y,100.0,N,IWY
-IX,Orix Corp Ads Common Stock,Orix Corp Ads Common Stock,N,IX,N,100.0,N,IX
+IX,ORIX Corporation American Depositary Shares,ORIX Corporation American Depositary Shares,N,IX,N,100.0,N,IX
 IXC,iShares Global Energy ETF,iShares Global Energy ETF,P,IXC,Y,100.0,N,IXC
 IXG,iShares Global Financial ETF,iShares Global Financial ETF,P,IXG,Y,100.0,N,IXG
 IXJ,iShares Global Healthcare ETF,iShares Global Healthcare ETF,P,IXJ,Y,100.0,N,IXJ
@@ -3472,6 +3473,7 @@ LFGY,Tidal Trust II YieldMax Crypto Industry & Tech Portfolio Option Income ETF,
 LFT,"Lument Finance Trust, Inc. Common Stock","Lument Finance Trust, Inc. Common Stock",N,LFT,N,100.0,N,LFT
 LFT$A,"Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock","Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock",N,LFTpA,N,100.0,N,LFT-A
 LGCY,Legacy Education Inc. Common Stock,Legacy Education Inc. Common Stock,A,LGCY,N,100.0,N,LGCY
+LGDX,Tidal Trust III Intech S&P Large Cap Diversified Alpha ETF,Tidal Trust III Intech S&P Large Cap Diversified Alpha ETF,P,LGDX,Y,100.0,N,LGDX
 LGF.A,Lions Gate Entertainment Corporation Class A Voting Shares,Lions Gate Entertainment Corporation Class A Voting Shares,N,LGF.A,N,100.0,N,LGF.A
 LGF.B,Lions Gate Entertainment Corporation Class B Non,Lions Gate Entertainment Corporation Class B Non-Voting Shares,N,LGF.B,N,100.0,N,LGF.B
 LGH,HCM Defender 500 Index ETF,HCM Defender 500 Index ETF,P,LGH,Y,100.0,N,LGH
@@ -3800,7 +3802,6 @@ MP,MP Materials Corp. Common Stock,MP Materials Corp. Common Stock,N,MP,N,100.0,
 MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,N,MPA,N,100.0,N,MPA
 MPAY,Exchange Listed Funds Trust Akros Monthly Payout ETF,Exchange Listed Funds Trust Akros Monthly Payout ETF,P,MPAY,Y,100.0,N,MPAY
 MPC,Marathon Petroleum Corporation Common Stock,Marathon Petroleum Corporation Common Stock,N,MPC,N,100.0,N,MPC
-MPLN,MultiPlan Corporation Class A Common Stock,MultiPlan Corporation Class A Common Stock,N,MPLN,N,100.0,N,MPLN
 MPLX,MPLX LP Common Units Representing Limited Partner Interests,MPLX LP Common Units Representing Limited Partner Interests,N,MPLX,N,100.0,N,MPLX
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
 MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
@@ -5107,7 +5108,7 @@ SEIV,SEI Enhanced U.S. Large Cap Value Factor ETF,SEI Enhanced U.S. Large Cap Va
 SEIX,Virtus Seix Senior Loan ETF,Virtus Seix Senior Loan ETF,P,SEIX,Y,100.0,N,SEIX
 SELV,SEI Enhanced Low Volatility U.S. Large Cap ETF,SEI Enhanced Low Volatility U.S. Large Cap ETF,Z,SELV,Y,100.0,N,SELV
 SEM,Select Medical Holdings Corporation Common Stock,Select Medical Holdings Corporation Common Stock,N,SEM,N,100.0,N,SEM
-SEMI,Columbia Semiconductor and Technology ETF,Columbia Semiconductor and Technology ETF,P,SEMI,Y,100.0,N,SEMI
+SEMI,Columbia Select Technology ETF,Columbia Select Technology ETF,P,SEMI,Y,100.0,N,SEMI
 SEMR,"SEMrush Holdings, Inc. Class A Common Stock","SEMrush Holdings, Inc. Class A Common Stock",N,SEMR,N,100.0,N,SEMR
 SENS,"Senseonics Holdings, Inc. Common Stock","Senseonics Holdings, Inc. Common Stock",A,SENS,N,100.0,N,SENS
 SEPM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - September,Z,SEPM,Y,100.0,N,SEPM
@@ -5237,6 +5238,7 @@ SMC,Summit Midstream Corporation Common Stock,Summit Midstream Corporation Commo
 SMCY,Tidal Trust II YieldMax SMCI Option Income Strategy ETF,Tidal Trust II YieldMax SMCI Option Income Strategy ETF,P,SMCY,Y,100.0,N,SMCY
 SMDD,UltraPro Short MidCap400,UltraPro Short MidCap400,P,SMDD,Y,100.0,N,SMDD
 SMDV,ProShares Russell 2000 Dividend Growers ETF,ProShares Russell 2000 Dividend Growers ETF,Z,SMDV,Y,100.0,N,SMDV
+SMDX,Tidal Trust III Intech S&P Small,Tidal Trust III Intech S&P Small-Mid Cap Diversified Alpha ETF,P,SMDX,Y,100.0,N,SMDX
 SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),N,SMFG,N,100.0,N,SMFG
 SMG,Scotts Miracle,Scotts Miracle-Gro Company (The) Common Stock,N,SMG,N,100.0,N,SMG
 SMHB,ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B,ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B,P,SMHB,N,100.0,N,SMHB
@@ -5395,7 +5397,7 @@ SREA,DBA Sempra 5.750% Junior Subordinated Notes due 2079,DBA Sempra 5.750% Juni
 SRFM,Surf Air Mobility Inc. Common Stock,Surf Air Mobility Inc. Common Stock,N,SRFM,N,100.0,N,SRFM
 SRG,Seritage Growth Properties Class A Common Stock,Seritage Growth Properties Class A Common Stock,N,SRG,N,100.0,N,SRG
 SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,N,SRGpA,N,100.0,N,SRG-A
-SRHQ,Elevation Series Trust SRH U.S. Quality ETF,Elevation Series Trust SRH U.S. Quality ETF,P,SRHQ,Y,100.0,N,SRHQ
+SRHQ,SRH U.S. Quality GARP ETF,SRH U.S. Quality GARP ETF,P,SRHQ,Y,100.0,N,SRHQ
 SRHR,Elevation Series Trust SRH REIT Covered Call ETF,Elevation Series Trust SRH REIT Covered Call ETF,P,SRHR,Y,100.0,N,SRHR
 SRI,"Stoneridge, Inc. Common Stock","Stoneridge, Inc. Common Stock",N,SRI,N,100.0,N,SRI
 SRL,Scully Royalty Ltd.,Scully Royalty Ltd.,N,SRL,N,100.0,N,SRL
