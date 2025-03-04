@@ -1135,6 +1135,7 @@ CPK,Chesapeake Utilities Corporation Common Stock,Chesapeake Utilities Corporati
 CPLB,NYLI MacKay Core Plus Bond ETF,NYLI MacKay Core Plus Bond ETF,P,CPLB,Y,100.0,N,CPLB
 CPNG,"Coupang, Inc. Class A Common Stock","Coupang, Inc. Class A Common Stock",N,CPNG,N,100.0,N,CPNG
 CPNJ,Calamos ETF Trust Calamos Nasdaq ,Calamos ETF Trust Calamos Nasdaq - 100 Structured Alt Protection ETF -June,P,CPNJ,Y,100.0,N,CPNJ
+CPNM,Calamos ETF Trust Calamos Nasdaq,Calamos ETF Trust Calamos Nasdaq-100 Structured Alt Protection ETF - March,P,CPNM,Y,100.0,N,CPNM
 CPNQ,Calamos ETF Trust Calamos Nasdaq,Calamos ETF Trust Calamos Nasdaq-100 Structured Alt Protection ETF  December,P,CPNQ,Y,100.0,N,CPNQ
 CPNS,Calamos ETF Trust Calamos Nasdaq,Calamos ETF Trust Calamos Nasdaq-100 Structured Alt Protection ETF  September,P,CPNS,Y,100.0,N,CPNS
 CPRI,Capri Holdings Limited Ordinary Shares,Capri Holdings Limited Ordinary Shares,N,CPRI,N,100.0,N,CPRI
@@ -1150,6 +1151,7 @@ CPSL,Calamos ETF Trust Calamos Laddered S&P 500 Structured Alt Protection ETF,Ca
 CPSM,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  May,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  May,P,CPSM,Y,100.0,N,CPSM
 CPSN,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  November,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  November,P,CPSN,Y,100.0,N,CPSN
 CPSO,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF ,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF - October,P,CPSO,Y,100.0,N,CPSO
+CPSR,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF ,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF - March,P,CPSR,Y,100.0,N,CPSR
 CPST,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  September,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  September,P,CPST,Y,100.0,N,CPST
 CPSY,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  January,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  January,P,CPSY,Y,100.0,N,CPSY
 CPT,Camden Property Trust Common Stock,Camden Property Trust Common Stock,N,CPT,N,100.0,N,CPT
@@ -2174,12 +2176,12 @@ FNDE,Schwab Fundamental Emerging Markets Equity ETF,Schwab Fundamental Emerging 
 FNDF,Schwab Fundamental International Equity ETF,Schwab Fundamental International Equity ETF,P,FNDF,Y,100.0,N,FNDF
 FNDX,Schwab Fundamental U.S. Large Company ETF,Schwab Fundamental U.S. Large Company ETF,P,FNDX,Y,100.0,N,FNDX
 FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock","FNF Group of Fidelity National Financial, Inc. Common Stock",N,FNF,N,100.0,N,FNF
+FNGA,"MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038","MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",P,FNGA,N,100.0,N,FNGA
 FNGB,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,P,FNGB,Y,100.0,N,FNGB
 FNGD,MicroSectors FANG  Index ,"MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038",P,FNGD,N,100.0,N,FNGD
 FNGG,Direxion Daily NYSE FANG+ Bull 2X Shares,Direxion Daily NYSE FANG+ Bull 2X Shares,P,FNGG,Y,100.0,N,FNGG
 FNGO,"MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038","MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038",P,FNGO,N,100.0,N,FNGO
 FNGS,"MicroSectors FANG  ETNs due January 8, 2038","MicroSectors FANG  ETNs due January 8, 2038",P,FNGS,Y,100.0,N,FNGS
-FNGU,"MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038","MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",P,FNGU,N,100.0,N,FNGU
 FNOV,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - November,Z,FNOV,Y,100.0,N,FNOV
 FNV,Franco,Franco-Nevada Corporation,N,FNV,N,100.0,N,FNV
 FOA,Finance of America Companies Inc. Class A Common Stock,Finance of America Companies Inc. Class A Common Stock,N,FOA,N,100.0,N,FOA
@@ -2209,8 +2211,6 @@ FRA,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock,Blackrock F
 FRD,Friedman Industries Inc. Common Stock,Friedman Industries Inc. Common Stock,A,FRD,N,100.0,N,FRD
 FRDM,Freedom 100 Emerging Markets ETF,Freedom 100 Emerging Markets ETF,Z,FRDM,Y,100.0,N,FRDM
 FREL,Fidelity MSCI Real Estate Index ETF,Fidelity MSCI Real Estate Index ETF,P,FREL,Y,100.0,N,FREL
-FREY,"FREYR Battery, Inc. Common Stock","FREYR Battery, Inc. Common Stock",N,FREY,N,100.0,N,FREY
-FREY.W,FREYR Battery Warrants each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share,FREYR Battery Warrants each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share,N,FREY.WS,N,100.0,N,FREY+
 FRGE,"Forge Global Holdings, Inc. Common Stock","Forge Global Holdings, Inc. Common Stock",N,FRGE,N,100.0,N,FRGE
 FRI,First Trust S&P REIT Index Fund,First Trust S&P REIT Index Fund,P,FRI,Y,100.0,N,FRI
 FRNW,Fidelity Clean Energy ETF,Fidelity Clean Energy ETF,Z,FRNW,Y,100.0,N,FRNW
@@ -2321,6 +2321,7 @@ GBUY,Goldman Sachs Future Consumer Equity ETF,Goldman Sachs Future Consumer Equi
 GBX,"Greenbrier Companies, Inc. (The) Common Stock","Greenbrier Companies, Inc. (The) Common Stock",N,GBX,N,100.0,N,GBX
 GBXA,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 1 ETF,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 1 ETF,Z,GBXA,Y,100.0,N,GBXA
 GBXB,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 2 ETF,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 2 ETF,Z,GBXB,Y,100.0,N,GBXB
+GBXC,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 3 ETF,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 3 ETF,Z,GBXC,Y,100.0,N,GBXC
 GCAD,Gabelli Commercial Aerospace and Defense ETF,Gabelli Commercial Aerospace and Defense ETF,P,GCAD,Y,100.0,N,GCAD
 GCAL,Goldman Sachs ETF Trust Goldman Sachs Dynamic California Municipal Income ETF,Goldman Sachs ETF Trust Goldman Sachs Dynamic California Municipal Income ETF,P,GCAL,Y,100.0,N,GCAL
 GCC,WisdomTree EnhancedContinuous Commodity Index Fund,WisdomTree EnhancedContinuous Commodity Index Fund,P,GCC,Y,100.0,N,GCC
@@ -3328,6 +3329,7 @@ KLIP,KraneShares KWEB Covered Call Strategy ETF,KraneShares KWEB Covered Call St
 KLMN,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI North America Climate ETF,P,KLMN,Y,100.0,N,KLMN
 KLMT,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI Global Climate 500 ETF,P,KLMT,Y,100.0,N,KLMT
 KLXY,KraneShares Trust KraneShares Global Luxury Index ETF,KraneShares Trust KraneShares Global Luxury Index ETF,P,KLXY,Y,100.0,N,KLXY
+KMAR,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - March,Z,KMAR,Y,100.0,N,KMAR
 KMB,Kimberly,Kimberly-Clark Corporation Common Stock,N,KMB,N,100.0,N,KMB
 KMI,"Kinder Morgan, Inc. Common Stock","Kinder Morgan, Inc. Common Stock",N,KMI,N,100.0,N,KMI
 KMID,Virtus ETF Trust II Virtus KAR Mid,Virtus ETF Trust II Virtus KAR Mid-Cap ETF,P,KMID,Y,100.0,N,KMID
@@ -3613,6 +3615,7 @@ MARB,First Trust Merger Arbitrage ETF,First Trust Merger Arbitrage ETF,P,MARB,Y,
 MARM,SHL Telemedicine Ltd FT Vest U.S. Equity Max Buffer ETF ,SHL Telemedicine Ltd FT Vest U.S. Equity Max Buffer ETF - March,Z,MARM,Y,100.0,N,MARM
 MARO,Tidal Trust II YieldMax MARA Option Income Strategy ETF,Tidal Trust II YieldMax MARA Option Income Strategy ETF,P,MARO,Y,100.0,N,MARO
 MART,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Mar ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Mar ETF,P,MART,Y,100.0,N,MART
+MARU,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF,Z,MARU,Y,100.0,N,MARU
 MARW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Mar ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Mar ETF,P,MARW,Y,100.0,N,MARW
 MARZ,TrueShares Structured Outcome (March) ETF,TrueShares Structured Outcome (March) ETF,Z,MARZ,Y,100.0,N,MARZ
 MAS,Masco Corporation Common Stock,Masco Corporation Common Stock,N,MAS,N,100.0,N,MAS
@@ -4031,6 +4034,7 @@ NLY$F,Annaly Capital Management Inc 6.95% Series F,Annaly Capital Management Inc
 NLY$G,Annaly Capital Management Inc 6.50% Series G Fixed,Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,NLYpG,N,100.0,N,NLY-G
 NLY$I,Annaly Capital Management Inc 6.750% Series I Fixed,Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,NLYpI,N,100.0,N,NLY-I
 NMAI,Nuveen Multi,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,N,NMAI,N,100.0,N,NMAI
+NMAR,Innovator ETFs Trust Innovator Growth,Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - March,Z,NMAR,Y,100.0,N,NMAR
 NMB,Simplify Exchange Traded Funds Simplify National Muni Bond ETF,Simplify Exchange Traded Funds Simplify National Muni Bond ETF,P,NMB,Y,100.0,N,NMB
 NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,Nuveen Municipal Credit Opportunities Fund Common Shares,N,NMCO,N,100.0,N,NMCO
 NMG,Nouveau Monde Graphite Inc. Common Shares,Nouveau Monde Graphite Inc. Common Shares,N,NMG,N,100.0,N,NMG
@@ -4497,6 +4501,7 @@ PMJA,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S
 PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,N,PML,N,100.0,N,PML
 PMM,Putnam Managed Municipal Income Trust Common Stock,Putnam Managed Municipal Income Trust Common Stock,N,PMM,N,100.0,N,PMM
 PMMF,BlackRock ETF Trust iShares Prime Money Market ETF,BlackRock ETF Trust iShares Prime Money Market ETF,P,PMMF,Y,100.0,N,PMMF
+PMMR,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - March,Z,PMMR,Y,100.0,N,PMMR
 PMNT,Perfect Moment Ltd. Common Stock,Perfect Moment Ltd. Common Stock,A,PMNT,N,100.0,N,PMNT
 PMO,Putnam Municipal Opportunities Trust Common Stock,Putnam Municipal Opportunities Trust Common Stock,N,PMO,N,100.0,N,PMO
 PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,N,PMT,N,100.0,N,PMT
@@ -5006,7 +5011,6 @@ SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)","Safe Bulkers, Inc Common
 SB$C,"Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands)","Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands)",N,SBpC,N,100.0,N,SB-C
 SB$D,"Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)","Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)",N,SBpD,N,100.0,N,SB-D
 SBB,ProShares Short SmallCap600,ProShares Short SmallCap600,P,SBB,Y,100.0,N,SBB
-SBBA,Scorpio Tankers Inc. 7.00% Senior Notes due 2025,Scorpio Tankers Inc. 7.00% Senior Notes due 2025,N,SBBA,N,100.0,N,SBBA
 SBEV,"Splash Beverage Group, Inc. (NV) Common Stock","Splash Beverage Group, Inc. (NV) Common Stock",A,SBEV,N,100.0,N,SBEV
 SBEV.W,"Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60","Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60",A,SBEV.WS,N,100.0,N,SBEV+
 SBH,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock","Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",N,SBH,N,100.0,N,SBH
@@ -5550,6 +5554,8 @@ TDVG,T. Rowe Price Dividend Growth ETF,T. Rowe Price Dividend Growth ETF,P,TDVG,
 TDVI,FT Vest Technology Dividend Target Income ETF,FT Vest Technology Dividend Target Income ETF,Z,TDVI,Y,100.0,N,TDVI
 TDW,Tidewater Inc. Common Stock,Tidewater Inc. Common Stock,N,TDW,N,100.0,N,TDW
 TDY,Teledyne Technologies Incorporated Common Stock,Teledyne Technologies Incorporated Common Stock,N,TDY,N,100.0,N,TDY
+TE,T1 Energy Inc. Common Stock,T1 Energy Inc. Common Stock,N,TE,N,100.0,N,TE
+TE.W,"T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share","T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",N,TE.WS,N,100.0,N,TE+
 TEAF,Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest,Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest,N,TEAF,N,100.0,N,TEAF
 TECB,iShares U.S. Tech Breakthrough Multisector ETF,iShares U.S. Tech Breakthrough Multisector ETF,P,TECB,Y,100.0,N,TECB
 TECK,Teck Resources Ltd Ordinary Shares,Teck Resources Ltd Ordinary Shares,N,TECK,N,100.0,N,TECK
@@ -6382,6 +6388,7 @@ ZJAN,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETF
 ZJUL,SHL Telemedicine Ltd Innovator Equity Defined Protection ETF ,SHL Telemedicine Ltd Innovator Equity Defined Protection ETF - 1 Yr July,Z,ZJUL,Y,100.0,N,ZJUL
 ZK,ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares),ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares),N,ZK,N,100.0,N,ZK
 ZKH,"ZKH Group Limited American Depositary Shares, each representing thirty","ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",N,ZKH,N,100.0,N,ZKH
+ZMAR,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr March,Z,ZMAR,Y,100.0,N,ZMAR
 ZNOV,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr November,Z,ZNOV,Y,100.0,N,ZNOV
 ZOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr October,Z,ZOCT,Y,100.0,N,ZOCT
 ZOM,Zomedica Corp. Common Shares,Zomedica Corp. Common Shares,A,ZOM,N,100.0,N,ZOM
