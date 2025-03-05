@@ -313,6 +313,7 @@ ARLU,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,SHL Te
 ARMK,Aramark Common Stock,Aramark Common Stock,N,ARMK,N,100.0,N,ARMK
 ARMN,Aris Mining Corporation Common Shares,Aris Mining Corporation Common Shares,A,ARMN,N,100.0,N,ARMN
 ARMP,"Armata Pharmaceuticals, Inc. Common Stock","Armata Pharmaceuticals, Inc. Common Stock",A,ARMP,N,100.0,N,ARMP
+ARMU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long ARM Daily Target ETF,Z,ARMU,Y,100.0,N,ARMU
 AROC,"Archrock, Inc. Common Stock","Archrock, Inc. Common Stock",N,AROC,N,100.0,N,AROC
 ARP,The Advisors Inner Circle Fund II PMV Adaptive Risk Parity ETF,The Advisors Inner Circle Fund II PMV Adaptive Risk Parity ETF,P,ARP,Y,100.0,N,ARP
 ARR,"ARMOUR Residential REIT, Inc.","ARMOUR Residential REIT, Inc.",N,ARR,N,100.0,N,ARR
@@ -1268,6 +1269,7 @@ CYD,China Yuchai International Limited Common Stock,China Yuchai International L
 CYH,"Community Health Systems, Inc. Common Stock","Community Health Systems, Inc. Common Stock",N,CYH,N,100.0,N,CYH
 CZA,Invesco Zacks Mid,Invesco Zacks Mid-Cap ETF,P,CZA,Y,100.0,N,CZA
 D,"Dominion Energy, Inc. Common Stock","Dominion Energy, Inc. Common Stock",N,D,N,100.0,N,D
+DABS,DoubleLine ETF Trust DoubleLine Asset,DoubleLine ETF Trust DoubleLine Asset-Backed Securities ETF,P,DABS,Y,100.0,N,DABS
 DAC,Danaos Corporation Common Stock,Danaos Corporation Common Stock,N,DAC,N,100.0,N,DAC
 DAL,"Delta Air Lines, Inc. Common Stock","Delta Air Lines, Inc. Common Stock",N,DAL,N,100.0,N,DAL
 DAN,Dana Incorporated Common Stock ,Dana Incorporated Common Stock ,N,DAN,N,100.0,N,DAN
@@ -1429,6 +1431,7 @@ DJAN,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - 
 DJD,Invesco Dow Jones Industrial Average Dividend ETF,Invesco Dow Jones Industrial Average Dividend ETF,P,DJD,Y,100.0,N,DJD
 DJIA,Global X Funds Global X Dow 30 Covered Call ETF,Global X Funds Global X Dow 30 Covered Call ETF,P,DJIA,Y,100.0,N,DJIA
 DJP,iPath Bloomberg Commodity Index Total Return ETN,iPath Bloomberg Commodity Index Total Return ETN,P,DJP,N,100.0,N,DJP
+DJTU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long DJT Daily Target ETF,Z,DJTU,Y,100.0,N,DJTU
 DJUL,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - July,Z,DJUL,Y,100.0,N,DJUL
 DJUN,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - June,Z,DJUN,Y,100.0,N,DJUN
 DK,"Delek US Holdings, Inc. Common Stock","Delek US Holdings, Inc. Common Stock",N,DK,N,100.0,N,DK
@@ -2823,7 +2826,6 @@ IBIH,iShares Trust iShares iBonds Oct 2031 Term TIPS ETF,iShares Trust iShares i
 IBII,iShares Trust iShares iBonds Oct 2032 Term TIPS ETF,iShares Trust iShares iBonds Oct 2032 Term TIPS ETF,P,IBII,Y,100.0,N,IBII
 IBIJ,iShares Trust iShares iBonds Oct 2033 Term TIPS ETF,iShares Trust iShares iBonds Oct 2033 Term TIPS ETF,P,IBIJ,Y,100.0,N,IBIJ
 IBIK,iShares Trust iShares iBonds Oct 2034 Term TIPS ETF,iShares Trust iShares iBonds Oct 2034 Term TIPS ETF,P,IBIK,Y,100.0,N,IBIK
-IBIO,"iBio, Inc. Common Stock","iBio, Inc. Common Stock",A,IBIO,N,100.0,N,IBIO
 IBLC,iShares Trust iShares Blockchain and Tech ETF,iShares Trust iShares Blockchain and Tech ETF,P,IBLC,Y,100.0,N,IBLC
 IBM,International Business Machines Corporation Common Stock,International Business Machines Corporation Common Stock,N,IBM,N,100.0,N,IBM
 IBMN,iShares iBonds Dec 2025 Term Muni Bond ETF,iShares iBonds Dec 2025 Term Muni Bond ETF,Z,IBMN,Y,100.0,N,IBMN
@@ -4757,6 +4759,7 @@ RAYJ,The Advisors' Inner Circle Fund III Rayliant SMDAM Japan Equity ETF,The Adv
 RBA,"RB Global, Inc. Common Stock","RB Global, Inc. Common Stock",N,RBA,N,100.0,N,RBA
 RBC,RBC Bearings Incorporated Common Stock,RBC Bearings Incorporated Common Stock,N,RBC,N,100.0,N,RBC
 RBLD,First Trust Alerian US NextGen Infrastructure ETF,First Trust Alerian US NextGen Infrastructure ETF,P,RBLD,Y,100.0,N,RBLD
+RBLU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long RBLX Daily Target ETF,Z,RBLU,Y,100.0,N,RBLU
 RBLX,Roblox Corporation Class A Common Stock,Roblox Corporation Class A Common Stock,N,RBLX,N,100.0,N,RBLX
 RBOT,Vicarious Surgical Inc. Class A Common Stock,Vicarious Surgical Inc. Class A Common Stock,N,RBOT,N,100.0,N,RBOT
 RBOT.W,"Vicarious Surgical Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share","Vicarious Surgical Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",N,RBOT.WS,N,100.0,N,RBOT+
