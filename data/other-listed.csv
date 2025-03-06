@@ -276,6 +276,7 @@ APRZ,Trust TrueShares Structured Outcome (April) ETF,Trust TrueShares Structured
 APT,"Alpha Pro Tech, Ltd. Common Stock","Alpha Pro Tech, Ltd. Common Stock",A,APT,N,100.0,N,APT
 APTV,Aptiv PLC Ordinary Shares,Aptiv PLC Ordinary Shares,N,APTV,N,100.0,N,APTV
 APUE,Trust for Professional Managers ActivePassive U.S. Equity ETF,Trust for Professional Managers ActivePassive U.S. Equity ETF,P,APUE,Y,100.0,N,APUE
+APUS,"Apimeds Pharmaceuticals US, Inc. Common Stock","Apimeds Pharmaceuticals US, Inc. Common Stock",A,APUS,N,100.0,N,APUS
 AQLT,iShares Trust iShares MSCI Global Quality Factor ETF,iShares Trust iShares MSCI Global Quality Factor ETF,Z,AQLT,Y,100.0,N,AQLT
 AQN,Algonquin Power & Utilities Corp. Common Shares,Algonquin Power & Utilities Corp. Common Shares,N,AQN,N,100.0,N,AQN
 AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed,"Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1, 2079",N,AQNB,N,100.0,N,AQNB
@@ -3350,6 +3351,7 @@ KNOV,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator E
 KNOW,Fundamentals First ETF Fundamentals First ETF,Fundamentals First ETF Fundamentals First ETF,Z,KNOW,Y,100.0,N,KNOW
 KNSL,"Kinsale Capital Group, Inc. Common Stock","Kinsale Capital Group, Inc. Common Stock",N,KNSL,N,100.0,N,KNSL
 KNTK,Kinetik Holdings Inc. Class A Common Stock,Kinetik Holdings Inc. Class A Common Stock,N,KNTK,N,100.0,N,KNTK
+KNW,"Know Labs, Inc. Common Stock","Know Labs, Inc. Common Stock",A,KNW,N,100.0,N,KNW
 KNX,Knight,Knight-Swift Transportation Holdings Inc.,N,KNX,N,100.0,N,KNX
 KO,Coca,Coca-Cola Company (The) Common Stock,N,KO,N,100.0,N,KO
 KOCG,NEOS ETF Trust FIS Knights of Columbus Global Belief ETF,NEOS ETF Trust FIS Knights of Columbus Global Belief ETF,P,KOCG,Y,100.0,N,KOCG
@@ -4232,6 +4234,7 @@ OKLO,Oklo Inc. Class A common stock,Oklo Inc. Class A common stock,N,OKLO,N,100.
 OLN,Olin Corporation Common Stock,Olin Corporation Common Stock,N,OLN,N,100.0,N,OLN
 OLO,Olo Inc. Class A Common Stock,Olo Inc. Class A Common Stock,N,OLO,N,100.0,N,OLO
 OLP,"One Liberty Properties, Inc. Common Stock","One Liberty Properties, Inc. Common Stock",N,OLP,N,100.0,N,OLP
+OMAH,Tidal Trust III VistaShares Target 15 Berkshire Select Income ETF,Tidal Trust III VistaShares Target 15 Berkshire Select Income ETF,P,OMAH,Y,100.0,N,OMAH
 OMC,Omnicom Group Inc. Common Stock,Omnicom Group Inc. Common Stock,N,OMC,N,100.0,N,OMC
 OMF,"OneMain Holdings, Inc. Common Stock","OneMain Holdings, Inc. Common Stock",N,OMF,N,100.0,N,OMF
 OMFL,Invesco Exchange,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco Russell 1000 Dynamic Multifactor ETF,Z,OMFL,Y,100.0,N,OMFL
@@ -5637,6 +5640,7 @@ TK,Teekay Corporation Ltd. Common Stock,Teekay Corporation Ltd. Common Stock,N,T
 TKC,Turkcell Iletisim Hizmetleri AS Common Stock,Turkcell Iletisim Hizmetleri AS Common Stock,N,TKC,N,100.0,N,TKC
 TKO,"TKO Group Holdings, Inc. Class A Common Stock","TKO Group Holdings, Inc. Class A Common Stock",N,TKO,N,100.0,N,TKO
 TKR,Timken Company (The) Common Stock,Timken Company (The) Common Stock,N,TKR,N,100.0,N,TKR
+TLCI,Touchstone ETF Trust Touchstone International Equity ETF,Touchstone ETF Trust Touchstone International Equity ETF,P,TLCI,Y,100.0,N,TLCI
 TLH,iShares 10,iShares 10-20 Year Treasury Bond ETF,P,TLH,Y,100.0,N,TLH
 TLK,"PT Telekomunikasi Indonesia, Tbk","PT Telekomunikasi Indonesia, Tbk",N,TLK,N,100.0,N,TLK
 TLTD,FlexShares Morningstar Developed Markets ex,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund,P,TLTD,Y,100.0,N,TLTD
@@ -6394,7 +6398,6 @@ ZKH,"ZKH Group Limited American Depositary Shares, each representing thirty","ZK
 ZMAR,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr March,Z,ZMAR,Y,100.0,N,ZMAR
 ZNOV,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr November,Z,ZNOV,Y,100.0,N,ZNOV
 ZOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr October,Z,ZOCT,Y,100.0,N,ZOCT
-ZOM,Zomedica Corp. Common Shares,Zomedica Corp. Common Shares,A,ZOM,N,100.0,N,ZOM
 ZONE,CleanCore Solutions Inc. Class B Common Stock,CleanCore Solutions Inc. Class B Common Stock,A,ZONE,N,100.0,N,ZONE
 ZROZ,PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange,PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,P,ZROZ,Y,100.0,N,ZROZ
 ZSB,USCF ETF Trust USCF Sustainable Battery Metals Strategy Fund,USCF ETF Trust USCF Sustainable Battery Metals Strategy Fund,P,ZSB,Y,100.0,N,ZSB
