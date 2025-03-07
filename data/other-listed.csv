@@ -187,7 +187,6 @@ ALSN,"Allison Transmission Holdings, Inc. Common Stock","Allison Transmission Ho
 ALTG,Alta Equipment Group Inc. Class A Common Stock,Alta Equipment Group Inc. Class A Common Stock,N,ALTG,N,100.0,N,ALTG
 ALTG$A,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),N,ALTGpA,N,100.0,N,ALTG-A
 ALTL,Pacer Lunt Large Cap Alternator ETF,Pacer Lunt Large Cap Alternator ETF,P,ALTL,Y,100.0,N,ALTL
-ALTM,Arcadium Lithium plc Ordinary Shares,Arcadium Lithium plc Ordinary Shares,N,ALTM,N,100.0,N,ALTM
 ALUR,"Allurion Technologies, Inc. Common Stock","Allurion Technologies, Inc. Common Stock",N,ALUR,N,100.0,N,ALUR
 ALUR.W,"Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock","Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock",N,ALUR.WS,N,100.0,N,ALUR+
 ALV,"Autoliv, Inc. Common Stock","Autoliv, Inc. Common Stock",N,ALV,N,100.0,N,ALV
@@ -2731,6 +2730,7 @@ HSRT,Hartford AAA CLO ETF,Hartford AAA CLO ETF,Z,HSRT,Y,100.0,N,HSRT
 HSUN,Hartford Strategic Income ETF,Hartford Strategic Income ETF,Z,HSUN,Y,100.0,N,HSUN
 HSY,The Hershey Company Common Stock,The Hershey Company Common Stock,N,HSY,N,100.0,N,HSY
 HTAB,Hartford Schroders Tax,Hartford Schroders Tax-Aware Bond ETF,P,HTAB,Y,100.0,N,HTAB
+HTAX,Macquarie ETF Trust Macquarie National High,Macquarie ETF Trust Macquarie National High-Yield Municipal Bond ETF,P,HTAX,Y,100.0,N,HTAX
 HTB,"HomeTrust Bancshares, Inc. Common Stock","HomeTrust Bancshares, Inc. Common Stock",N,HTB,N,100.0,N,HTB
 HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,N,HTD,N,100.0,N,HTD
 HTEC,Robo Global Healthcare Technology and Innovation ETF,Robo Global Healthcare Technology and Innovation ETF,P,HTEC,Y,100.0,N,HTEC
@@ -3906,7 +3906,6 @@ MVFG,Northern Lights Fund Trust IV Monarch Volume Factor Global Unconstrained In
 MVO,MV Oil Trust Units of Beneficial Interests,MV Oil Trust Units of Beneficial Interests,N,MVO,N,100.0,N,MVO
 MVPA,Advisor Managed Portfolios Miller Value Partners Appreciation ETF,Advisor Managed Portfolios Miller Value Partners Appreciation ETF,P,MVPA,Y,100.0,N,MVPA
 MVPL,Advisor Managed Portfolios Miller Value Partners Leverage ETF,Advisor Managed Portfolios Miller Value Partners Leverage ETF,P,MVPL,Y,100.0,N,MVPL
-MVPS,Amplify ETF Trust Amplify Thematic All,Amplify ETF Trust Amplify Thematic All-Stars ETF,P,MVPS,Y,100.0,N,MVPS
 MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,P,MVRL,Y,100.0,N,MVRL
 MVT,"Blackrock MuniVest Fund II, Inc.  Common Stock","Blackrock MuniVest Fund II, Inc.  Common Stock",N,MVT,N,100.0,N,MVT
 MVV,ProShares Ultra MidCap400,ProShares Ultra MidCap400,P,MVV,Y,100.0,N,MVV
@@ -4522,7 +4521,6 @@ PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest
 PNNT,PennantPark Investment Corporation Common Stock,PennantPark Investment Corporation Common Stock,N,PNNT,N,100.0,N,PNNT
 PNOV,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - November,Z,PNOV,Y,100.0,N,PNOV
 PNR,Pentair plc. Ordinary Share,Pentair plc. Ordinary Share,N,PNR,N,100.0,N,PNR
-PNST,"Pinstripes Holdings, Inc. Class A Common Stock","Pinstripes Holdings, Inc. Class A Common Stock",N,PNST,N,100.0,N,PNST
 PNW,Pinnacle West Capital Corporation Common Stock,Pinnacle West Capital Corporation Common Stock,N,PNW,N,100.0,N,PNW
 POCT,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - October,Z,POCT,Y,100.0,N,POCT
 POR,Portland General Electric Co Common Stock,Portland General Electric Co Common Stock,N,POR,N,100.0,N,POR
@@ -4726,7 +4724,6 @@ QS,QuantumScape Corporation Class A Common Stock,QuantumScape Corporation Class 
 QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,WisdomTree U.S. Short Term Corporate Bond Fund,Z,QSIG,Y,100.0,N,QSIG
 QSPT,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - September,Z,QSPT,Y,100.0,N,QSPT
 QSR,Restaurant Brands International Inc. Common Shares,Restaurant Brands International Inc. Common Shares,N,QSR,N,100.0,N,QSR
-QSWN,Amplify ETF Trust Amplify BlackSwan Tech & Treasury ETF,Amplify ETF Trust Amplify BlackSwan Tech & Treasury ETF,P,QSWN,Y,100.0,N,QSWN
 QTAP,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - April,Z,QTAP,Y,100.0,N,QTAP
 QTJA,Innovator ETFs Trust Innovator Growth Accelerated Plus ETF ,Innovator ETFs Trust Innovator Growth Accelerated Plus ETF - January,Z,QTJA,Y,100.0,N,QTJA
 QTJL,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - July,Z,QTJL,Y,100.0,N,QTJL
@@ -4820,7 +4817,7 @@ RFDA,RiverFront Dynamic US Dividend Advantage ETF,RiverFront Dynamic US Dividend
 RFFC,ALPS Active Equity Opportunity ETF,ALPS Active Equity Opportunity ETF,P,RFFC,Y,100.0,N,RFFC
 RFG,Invesco S&P Midcap 400 Pure Growth ETF,Invesco S&P Midcap 400 Pure Growth ETF,P,RFG,Y,100.0,N,RFG
 RFI,"Cohen & Steers Total Return Realty Fund, Inc. Common Stock","Cohen & Steers Total Return Realty Fund, Inc. Common Stock",N,RFI,N,100.0,N,RFI
-RFIX,Simplify Exchange Traded Funds Simplify Downside Interest Rate Hedge Strategy ETF,Simplify Exchange Traded Funds Simplify Downside Interest Rate Hedge Strategy ETF,P,RFIX,Y,100.0,N,RFIX
+RFIX,Simplify Bond Bull ETF,Simplify Bond Bull ETF,P,RFIX,Y,100.0,N,RFIX
 RFL,"Rafael Holdings, Inc. Class B Common Stock","Rafael Holdings, Inc. Class B Common Stock",N,RFL,N,100.0,N,RFL
 RFLR,Innovator U.S. Small Cap Managed Floor ETF,Innovator U.S. Small Cap Managed Floor ETF,P,RFLR,Y,100.0,N,RFLR
 RFM,"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock","RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",N,RFM,N,100.0,N,RFM
@@ -5314,6 +5311,7 @@ SPAB,SPDR Portfolio Aggregate Bond ETF,SPDR Portfolio Aggregate Bond ETF,P,SPAB,
 SPAX,Robinson Alternative Yield Pre,Robinson Alternative Yield Pre-merger SPAC ETF,P,SPAX,Y,100.0,N,SPAX
 SPB,"Spectrum Brands Holdings, Inc. Common Stock","Spectrum Brands Holdings, Inc. Common Stock",N,SPB,N,100.0,N,SPB
 SPBO,SPDR Portfolio Corporate Bond ETF,SPDR Portfolio Corporate Bond ETF,P,SPBO,Y,100.0,N,SPBO
+SPBU,AIM ETF Products Trust AllianzIM Buffer15 Uncapped Allocation ETF,AIM ETF Products Trust AllianzIM Buffer15 Uncapped Allocation ETF,Z,SPBU,Y,100.0,N,SPBU
 SPBW,AIM ETF Products Trust AllianzIM Buffer20 Allocation ETF,AIM ETF Products Trust AllianzIM Buffer20 Allocation ETF,P,SPBW,Y,100.0,N,SPBW
 SPBX,AIM ETF Products Trust AllianzIM 6 Month Buffer10 Allocation ETF,AIM ETF Products Trust AllianzIM 6 Month Buffer10 Allocation ETF,P,SPBX,Y,100.0,N,SPBX
 SPCE,"Virgin Galactic Holdings, Inc. Common Stock","Virgin Galactic Holdings, Inc. Common Stock",N,SPCE,N,100.0,N,SPCE
@@ -5713,6 +5711,7 @@ TREX,"Trex Company, Inc. Common Stock","Trex Company, Inc. Common Stock",N,TREX,
 TRFK,Pacer Funds Pacer Data and Digital Revolution ETF,Pacer Funds Pacer Data and Digital Revolution ETF,P,TRFK,Y,100.0,N,TRFK
 TRFM,ETF Series Solutions AAM Transformers ETF,ETF Series Solutions AAM Transformers ETF,P,TRFM,Y,100.0,N,TRFM
 TRGP,"Targa Resources, Inc. Common Stock","Targa Resources, Inc. Common Stock",N,TRGP,N,100.0,N,TRGP
+TRIO,EA Series Trust MC Trio Equity Buffered ETF,EA Series Trust MC Trio Equity Buffered ETF,Z,TRIO,Y,100.0,N,TRIO
 TRN,"Trinity Industries, Inc. Common Stock","Trinity Industries, Inc. Common Stock",N,TRN,N,100.0,N,TRN
 TRND,Pacer Trendpilot Fund of Funds ETF,Pacer Trendpilot Fund of Funds ETF,P,TRND,Y,100.0,N,TRND
 TRNO,Terreno Realty Corporation Common Stock,Terreno Realty Corporation Common Stock,N,TRNO,N,100.0,N,TRNO
@@ -6129,6 +6128,7 @@ WEBL,Direxion Daily Dow Jones Internet Bull 3X Shares,Direxion Daily Dow Jones I
 WEBS,Direxion Daily Dow Jones Internet Bear 3X Shares,Direxion Daily Dow Jones Internet Bear 3X Shares,P,WEBS,Y,100.0,N,WEBS
 WEC,"WEC Energy Group, Inc. Common Stock","WEC Energy Group, Inc. Common Stock",N,WEC,N,100.0,N,WEC
 WEED,Listed Funds Trust Roundhill Cannabis ETF,Listed Funds Trust Roundhill Cannabis ETF,Z,WEED,Y,100.0,N,WEED
+WEEK,Roundhill ETF Trust Roundhill Weekly T,Roundhill ETF Trust Roundhill Weekly T-Bill ETF,Z,WEEK,Y,100.0,N,WEEK
 WEEL,Tidal Trust II Peerless Option Income Wheel ETF,Tidal Trust II Peerless Option Income Wheel ETF,P,WEEL,Y,100.0,N,WEEL
 WELL,Welltower Inc. Common Stock,Welltower Inc. Common Stock,N,WELL,N,100.0,N,WELL
 WES,"Western Midstream Partners, LP Common Units Representing Limited Partner Interests","Western Midstream Partners, LP Common Units Representing Limited Partner Interests",N,WES,N,100.0,N,WES
