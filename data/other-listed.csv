@@ -563,7 +563,6 @@ BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,B
 BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,N,BEPJ,N,100.0,N,BEPJ
 BERY,"Berry Global Group, Inc. Common Stock","Berry Global Group, Inc. Common Stock",N,BERY,N,100.0,N,BERY
 BERZ,MicroSectors FANG & Innovation ,MicroSectors FANG & Innovation -3x Inverse Leveraged ETN,P,BERZ,Y,100.0,N,BERZ
-BEST,"BEST Inc. American Depositary Shares, each representing twenty (20) Class A Ordinary Shares","BEST Inc. American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",N,BEST,N,100.0,N,BEST
 BETE,ProShares Bitcoin & Ether Equal Weight ETF,ProShares Bitcoin & Ether Equal Weight ETF,P,BETE,Y,100.0,N,BETE
 BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,ProShares Bitcoin & Ether Market Cap Weight ETF,P,BETH,Y,100.0,N,BETH
 BETZ,Roundhill Sports Betting & iGaming ETF,Roundhill Sports Betting & iGaming ETF,P,BETZ,Y,100.0,N,BETZ
@@ -862,7 +861,7 @@ CAFX,Professionally Managed Portfolios Congress Intermediate Bond ETF,Profession
 CAG,"ConAgra Brands, Inc. Common Stock","ConAgra Brands, Inc. Common Stock",N,CAG,N,100.0,N,CAG
 CAH,"Cardinal Health, Inc. Common Stock","Cardinal Health, Inc. Common Stock",N,CAH,N,100.0,N,CAH
 CAL,"Caleres, Inc. Common Stock","Caleres, Inc. Common Stock",N,CAL,N,100.0,N,CAL
-CALF,Pacer US Small Cap Cash Cows 100 ETF,Pacer US Small Cap Cash Cows 100 ETF,Z,CALF,Y,100.0,N,CALF
+CALF,Pacer US Small Cap Cash Cows ETF,Pacer US Small Cap Cash Cows ETF,Z,CALF,Y,100.0,N,CALF
 CALX,"Calix, Inc Common Stock","Calix, Inc Common Stock",N,CALX,N,100.0,N,CALX
 CAML,Professionally Managed Portfolios Congress Large Cap Growth ETF,Professionally Managed Portfolios Congress Large Cap Growth ETF,P,CAML,Y,100.0,N,CAML
 CAMX,The Advisors Inner Circle Fund Cambiar Aggressive Value ETF,The Advisors Inner Circle Fund Cambiar Aggressive Value ETF,P,CAMX,Y,100.0,N,CAMX
@@ -1331,7 +1330,7 @@ DECW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Dec ETF,AIM ETF Pr
 DECZ,TrueShares Structured Outcome (December) ETF,TrueShares Structured Outcome (December) ETF,Z,DECZ,Y,100.0,N,DECZ
 DEED,First Trust TCW Securitized Plus ETF,First Trust TCW Securitized Plus ETF,P,DEED,Y,100.0,N,DEED
 DEEF,Xtrackers FTSE Developed ex US Multifactor ETF,Xtrackers FTSE Developed ex US Multifactor ETF,P,DEEF,Y,100.0,N,DEEF
-DEEP,Acquirers Deep Value ETF,Acquirers Deep Value ETF,P,DEEP,Y,100.0,N,DEEP
+DEEP,Acquirers Small and Micro Deep Value ETF,Acquirers Small and Micro Deep Value ETF,P,DEEP,Y,100.0,N,DEEP
 DEFI,Tidal Commodities Trust I Hashdex Bitcoin ETF,Tidal Commodities Trust I Hashdex Bitcoin ETF,P,DEFI,Y,100.0,N,DEFI
 DEHP,Dimensional ETF Trust Dimensional Emerging Markets High Profitability ETF,Dimensional ETF Trust Dimensional Emerging Markets High Profitability ETF,P,DEHP,Y,100.0,N,DEHP
 DEI,"Douglas Emmett, Inc. Common Stock","Douglas Emmett, Inc. Common Stock",N,DEI,N,100.0,N,DEI
