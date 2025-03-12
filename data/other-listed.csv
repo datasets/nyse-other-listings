@@ -4291,6 +4291,7 @@ OVT,Overlay Shares Short Term Bond ETF,Overlay Shares Short Term Bond ETF,Z,OVT,
 OVV,Ovintiv Inc. (DE),Ovintiv Inc. (DE),N,OVV,N,100.0,N,OVV
 OWL,Blue Owl Capital Inc. Class A Common Stock,Blue Owl Capital Inc. Class A Common Stock,N,OWL,N,100.0,N,OWL
 OWLT,"Owlet, Inc. Class A Common Stock","Owlet, Inc. Class A Common Stock",N,OWLT,N,100.0,N,OWLT
+OWNB,Bitwise Funds Trust Bitwise Bitcoin Standard Corporations ETF,Bitwise Funds Trust Bitwise Bitcoin Standard Corporations ETF,P,OWNB,Y,100.0,N,OWNB
 OWNS,Quaker Investment Trust CCM Affordable Housing MBS ETF,Quaker Investment Trust CCM Affordable Housing MBS ETF,P,OWNS,Y,100.0,N,OWNS
 OXM,"Oxford Industries, Inc. Common Stock","Oxford Industries, Inc. Common Stock",N,OXM,N,100.0,N,OXM
 OXY,Occidental Petroleum Corporation Common Stock,Occidental Petroleum Corporation Common Stock,N,OXY,N,100.0,N,OXY
@@ -4686,6 +4687,7 @@ QDIV,Global X S&P 500 Quality Dividend ETF,Global X S&P 500 Quality Dividend ETF
 QDPL,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,P,QDPL,Y,100.0,N,QDPL
 QDTE,Roundhill Innovation,Roundhill Innovation-100 0DTE Covered Call Strategy ETF,Z,QDTE,Y,100.0,N,QDTE
 QDVO,Amplify ETF Trust Amplify CWP Growth & Income ETF,Amplify ETF Trust Amplify CWP Growth & Income ETF,P,QDVO,Y,100.0,N,QDVO
+QDWN,Strategic Trust DailyDelta  Q100 Downside Option Strategy ETF,Strategic Trust DailyDelta  Q100 Downside Option Strategy ETF,P,QDWN,Y,100.0,N,QDWN
 QEFA,SPDR MSCI EAFE StrategicFactors ETF,SPDR MSCI EAFE StrategicFactors ETF,P,QEFA,Y,100.0,N,QEFA
 QEMM,SPDR MSCI Emerging Markets StrategicFactors ETF,SPDR MSCI Emerging Markets StrategicFactors ETF,P,QEMM,Y,100.0,N,QEMM
 QETH,Invesco Galaxy Ethereum ETF ,Invesco Galaxy Ethereum ETF ,Z,QETH,Y,100.0,N,QETH
@@ -4732,6 +4734,7 @@ QTWO,"Q2 Holdings, Inc. Common Stock","Q2 Holdings, Inc. Common Stock",N,QTWO,N,
 QUAD,"Quad Graphics, Inc Class A Common Stock","Quad Graphics, Inc Class A Common Stock",N,QUAD,N,100.0,N,QUAD
 QUAL,iShares MSCI USA Quality Factor ETF,iShares MSCI USA Quality Factor ETF,Z,QUAL,Y,100.0,N,QUAL
 QULL,ETRACS 2x Leveraged MSCI US Quality Factor TR ETN,ETRACS 2x Leveraged MSCI US Quality Factor TR ETN,P,QULL,Y,100.0,N,QULL
+QUP,Strategic Trust DailyDelta  Q100 Upside Option Strategy ETF,Strategic Trust DailyDelta  Q100 Upside Option Strategy ETF,P,QUP,Y,100.0,N,QUP
 QUS,SPDR MSCI USA StrategicFactors ETF,SPDR MSCI USA StrategicFactors ETF,P,QUS,Y,100.0,N,QUS
 QUVU,Hartford Funds Exchange,Hartford Funds Exchange-Traded Trust Hartford Quality Value ETF,Z,QUVU,Y,100.0,N,QUVU
 QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068","QVC, Inc. 6.250% Senior Secured Notes due 2068",N,QVCC,N,100.0,N,QVCC
@@ -5281,6 +5284,7 @@ SNPD,Xtrackers S&P Dividend Aristocrats Screened ETF,Xtrackers S&P Dividend Aris
 SNPE,Xtrackers S&P 500 Scored & Screened ETF,Xtrackers S&P 500 Scored & Screened ETF,P,SNPE,Y,100.0,N,SNPE
 SNPG,Xtrackers S&P 500 Growth Scored & Screened ETF,Xtrackers S&P 500 Growth Scored & Screened ETF,Z,SNPG,Y,100.0,N,SNPG
 SNPV,Xtrackers S&P 500 Value Scored & Screened ETF,Xtrackers S&P 500 Value Scored & Screened ETF,Z,SNPV,Y,100.0,N,SNPV
+SNTH,Tidal Trust III MRP SynthEquity ETF,Tidal Trust III MRP SynthEquity ETF,P,SNTH,Y,100.0,N,SNTH
 SNV,Synovus Financial Corp. Common Stock,Synovus Financial Corp. Common Stock,N,SNV,N,100.0,N,SNV
 SNV$D,Synovus Financial Corp. Fixed,"Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share",N,SNVpD,N,100.0,N,SNV-D
 SNV$E,Synovus Financial Corp. 5.875% Fixed,"Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",N,SNVpE,N,100.0,N,SNV-E
