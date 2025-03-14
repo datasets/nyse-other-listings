@@ -1252,6 +1252,7 @@ HESM,Hess Midstream LP Class A Representing Limited Partner Interests
 HF,DGA Core Plus Absolute Return ETF
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest
 HFRO$A,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares
+HFRO$B,Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares
 HG,"Hamilton Insurance Group, Ltd. Class B Common Shares"
 HGER,Harbor Commodity All
 HGLB,Highland Global Allocation Fund Common Stock
@@ -1513,7 +1514,7 @@ KTB,"Kontoor Brands, Inc. Common Stock "
 KTF,DWS Municipal Income Trust
 KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock
 KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
-KUKE,"Kuke Music Holding Limited American Depositary Shares, each representing one Ordinary Share"
+KUKE,Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares)
 KVUE,Kenvue Inc. Common Stock
 KVYO,"Klaviyo, Inc. Series A Common Stock"
 KW,Kennedy

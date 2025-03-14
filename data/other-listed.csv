@@ -1813,7 +1813,6 @@ ESE,ESCO Technologies Inc. Common Stock,ESCO Technologies Inc. Common Stock,N,ES
 ESG,FlexShares STOXX US ESG Select Index Fund,FlexShares STOXX US ESG Select Index Fund,Z,ESG,Y,100.0,N,ESG
 ESGG,FlexShares STOXX Global ESG Select Index Fund,FlexShares STOXX Global ESG Select Index Fund,Z,ESGG,Y,100.0,N,ESGG
 ESGV,Vanguard ESG U.S. Stock ETF,Vanguard ESG U.S. Stock ETF,Z,ESGV,Y,100.0,N,ESGV
-ESGX,ETF Opportunities Trust Tuttle Capital Shareholders First Index ETF,ETF Opportunities Trust Tuttle Capital Shareholders First Index ETF,Z,ESGX,Y,100.0,N,ESGX
 ESI,Element Solutions Inc. Common Stock,Element Solutions Inc. Common Stock,N,ESI,N,100.0,N,ESI
 ESIX,SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF,SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF,P,ESIX,Y,100.0,N,ESIX
 ESML,iShares ESG Aware MSCI USA Small,iShares ESG Aware MSCI USA Small-Cap ETF,Z,ESML,Y,100.0,N,ESML
@@ -2653,6 +2652,7 @@ HFGO,Hartford Large Cap Growth ETF,Hartford Large Cap Growth ETF,Z,HFGO,Y,100.0,
 HFND,Tidal ETF Trust Unlimited HFND Multi,Tidal ETF Trust Unlimited HFND Multi-Strategy Return Tracker ETF,P,HFND,Y,100.0,N,HFND
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,N,HFRO,N,100.0,N,HFRO
 HFRO$A,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,N,HFROpA,N,100.0,N,HFRO-A
+HFRO$B,Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares,Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares,N,HFROpB,N,100.0,N,HFRO-B
 HFXI,NYLI FTSE International Equity Currency Neutral ETF,NYLI FTSE International Equity Currency Neutral ETF,P,HFXI,Y,100.0,N,HFXI
 HG,"Hamilton Insurance Group, Ltd. Class B Common Shares","Hamilton Insurance Group, Ltd. Class B Common Shares",N,HG,N,100.0,N,HG
 HGER,Harbor Commodity All,Harbor Commodity All-Weather Strategy ETF,N,HGER,Y,100.0,N,HGER
@@ -3029,6 +3029,7 @@ ISCV,iShares Morningstar Small,iShares Morningstar Small-Cap Value ETF,P,ISCV,Y,
 ISD,"PGIM High Yield Bond Fund, Inc.","PGIM High Yield Bond Fund, Inc.",N,ISD,N,100.0,N,ISD
 ISEP,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  September,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  September,P,ISEP,Y,100.0,N,ISEP
 ISMD,Inspire Small/Mid Cap ETF,Inspire Small/Mid Cap ETF,P,ISMD,Y,100.0,N,ISMD
+ISMF,BlackRock ETF Trust iShares Managed Futures Active ETF,BlackRock ETF Trust iShares Managed Futures Active ETF,Z,ISMF,Y,100.0,N,ISMF
 ISPY,ProShares Trust ProShares S&P 500 High Income ETF,ProShares Trust ProShares S&P 500 High Income ETF,Z,ISPY,Y,100.0,N,ISPY
 ISRA,VanEck Israel ETF,VanEck Israel ETF,P,ISRA,Y,100.0,N,ISRA
 ISVL,iShares Trust iShares International Developed Small Cap Value Factor ETF,iShares Trust iShares International Developed Small Cap Value Factor ETF,Z,ISVL,Y,100.0,N,ISVL
@@ -3392,7 +3393,7 @@ KTEC,KraneShares Hang Seng TECH Index ETF,KraneShares Hang Seng TECH Index ETF,P
 KTF,DWS Municipal Income Trust,DWS Municipal Income Trust,N,KTF,N,100.0,N,KTF
 KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,N,KTH,N,100.0,N,KTH
 KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),N,KTN,N,100.0,N,KTN
-KUKE,"Kuke Music Holding Limited American Depositary Shares, each representing one Ordinary Share","Kuke Music Holding Limited American Depositary Shares, each representing one Ordinary Share",N,KUKE,N,100.0,N,KUKE
+KUKE,Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares),Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares),N,KUKE,N,100.0,N,KUKE
 KULR,"KULR Technology Group, Inc. Common Stock","KULR Technology Group, Inc. Common Stock",A,KULR,N,100.0,N,KULR
 KURE,KraneShares MSCI All China Health Care Index ETF,KraneShares MSCI All China Health Care Index ETF,P,KURE,Y,100.0,N,KURE
 KVLE,KraneShares Value Line Dynamic Dividend Equity Index ETF,KraneShares Value Line Dynamic Dividend Equity Index ETF,P,KVLE,Y,100.0,N,KVLE
@@ -5528,6 +5529,7 @@ TAN,Invesco Solar ETF,Invesco Solar ETF,P,TAN,Y,100.0,N,TAN
 TAP,Molson Coors Beverage Company Class B Common Stock,Molson Coors Beverage Company Class B Common Stock,N,TAP,N,100.0,N,TAP
 TAP.A,Molson Coors Beverage Company Class A Common Stock,Molson Coors Beverage Company Class A Common Stock,N,TAP.A,N,100.0,N,TAP.A
 TAXF,American Century Diversified Municipal Bond ETF,American Century Diversified Municipal Bond ETF,P,TAXF,Y,100.0,N,TAXF
+TAXM,BondBloxx ETF Trust BondBloxx IR+M Tax,BondBloxx ETF Trust BondBloxx IR+M Tax-Aware ETF for Massachusetts Residents,P,TAXM,Y,100.0,N,TAXM
 TAXX,BondBloxx ETF Trust BondBloxx IR+M Tax,BondBloxx ETF Trust BondBloxx IR+M Tax-Aware Short Duration ETF,P,TAXX,Y,100.0,N,TAXX
 TBB,AT&T Inc. 5.350% Global Notes due 2066,AT&T Inc. 5.350% Global Notes due 2066,N,TBB,N,100.0,N,TBB
 TBBB,BBB Foods Inc. Class A Common Shares,BBB Foods Inc. Class A Common Shares,N,TBBB,N,100.0,N,TBBB
@@ -5783,6 +5785,7 @@ TXNM,"TXNM Energy, Inc. Common Stock","TXNM Energy, Inc. Common Stock",N,TXNM,N,
 TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests","TXO Partners, L.P. Common Units Representing Limited Partner Interests",N,TXO,N,100.0,N,TXO
 TXS,Texas Capital Funds Trust Texas Capital Texas Equity Index ETF,Texas Capital Funds Trust Texas Capital Texas Equity Index ETF,P,TXS,Y,100.0,N,TXS
 TXT,Textron Inc. Common Stock,Textron Inc. Common Stock,N,TXT,N,100.0,N,TXT
+TXXI,BondBloxx ETF Trust BondBloxx IR+M Tax,BondBloxx ETF Trust BondBloxx IR+M Tax-Aware Intermediate Duration ETF,P,TXXI,Y,100.0,N,TXXI
 TY,Tri Continental Corporation Common Stock,Tri Continental Corporation Common Stock,N,TY,N,100.0,N,TY
 TY$,Tri Continental Corporation Preferred Stock,Tri Continental Corporation Preferred Stock,N,TYp,N,100.0,N,TY-
 TYA,Simplify Intermediate Term Treasury Futures Strategy ETF,Simplify Intermediate Term Treasury Futures Strategy ETF,Z,TYA,Y,100.0,N,TYA
