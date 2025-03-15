@@ -309,6 +309,7 @@ ARKZ,EA Series Trust ARK 21Shares Active Ethereum Futures Strategy ETF,EA Series
 ARL,"American Realty Investors, Inc. Common Stock","American Realty Investors, Inc. Common Stock",N,ARL,N,100.0,N,ARL
 ARLO,"Arlo Technologies, Inc. Common Stock","Arlo Technologies, Inc. Common Stock",N,ARLO,N,100.0,N,ARLO
 ARLU,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,Z,ARLU,Y,100.0,N,ARLU
+ARMH,Precidian ETFs Trust Arm Holdings PLC ADRhedged,Precidian ETFs Trust Arm Holdings PLC ADRhedged,Z,ARMH,Y,100.0,N,ARMH
 ARMK,Aramark Common Stock,Aramark Common Stock,N,ARMK,N,100.0,N,ARMK
 ARMN,Aris Mining Corporation Common Shares,Aris Mining Corporation Common Shares,A,ARMN,N,100.0,N,ARMN
 ARMP,"Armata Pharmaceuticals, Inc. Common Stock","Armata Pharmaceuticals, Inc. Common Stock",A,ARMP,N,100.0,N,ARMP
@@ -338,6 +339,7 @@ ASIA,Matthews International Funds Matthews Pacific Tiger Active ETF,Matthews Int
 ASIX,AdvanSix Inc. Common Stock ,AdvanSix Inc. Common Stock ,N,ASIX,N,100.0,N,ASIX
 ASM,Avino Silver & Gold Mines Ltd. Common Shares (Canada),Avino Silver & Gold Mines Ltd. Common Shares (Canada),A,ASM,N,100.0,N,ASM
 ASMF,Virtus ETF Trust II Virtus AlphaSimplex Managed Futures ETF,Virtus ETF Trust II Virtus AlphaSimplex Managed Futures ETF,P,ASMF,Y,100.0,N,ASMF
+ASMH,Precidian ETFs Trust ASML Holding NV ADRhedged,Precidian ETFs Trust ASML Holding NV ADRhedged,Z,ASMH,Y,100.0,N,ASMH
 ASPN,"Aspen Aerogels, Inc. Common Stock","Aspen Aerogels, Inc. Common Stock",N,ASPN,N,100.0,N,ASPN
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock","Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",N,ASR,N,100.0,N,ASR
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ","ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",N,ASX,N,100.0,N,ASX
@@ -3260,6 +3262,7 @@ JUNP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - June,Z,JUNP,Y,100.
 JUNT,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Jun ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Jun ETF,P,JUNT,Y,100.0,N,JUNT
 JUNW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Jun ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Jun ETF,P,JUNW,Y,100.0,N,JUNW
 JUNZ,TrueShares Structured Outcome (June) ETF,TrueShares Structured Outcome (June) ETF,Z,JUNZ,Y,100.0,N,JUNZ
+JUSA,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan U.S. Research Enhanced Large Cap ETF,P,JUSA,Y,100.0,N,JUSA
 JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF,Goldman Sachs JUST U.S. Large Cap Equity ETF,P,JUST,Y,100.0,N,JUST
 JVAL,JPMorgan U.S. Value Factor ETF,JPMorgan U.S. Value Factor ETF,P,JVAL,Y,100.0,N,JVAL
 JWN,"Nordstrom, Inc. Common Stock","Nordstrom, Inc. Common Stock",N,JWN,N,100.0,N,JWN
@@ -5051,6 +5054,7 @@ SCE$K,Southern California Edison Company 5.45% Fixed,Southern California Edison 
 SCE$L,SCE TRUST VI,SCE TRUST VI,N,SCEpL,N,100.0,N,SCE-L
 SCE$M,SCE Trust VII 7.50% Trust Preference Securities,SCE Trust VII 7.50% Trust Preference Securities,N,SCEpM,N,100.0,N,SCE-M
 SCE$N,SCE Trust VIII 6.95% Trust Preference Securities,SCE Trust VIII 6.95% Trust Preference Securities,N,SCEpN,N,100.0,N,SCE-N
+SCEC,Capitol Series Trust Sterling Capital Enhanced Core Bond ETF,Capitol Series Trust Sterling Capital Enhanced Core Bond ETF,Z,SCEC,Y,100.0,N,SCEC
 SCHA,Schwab U.S. Small,Schwab U.S. Small-Cap ETF,P,SCHA,Y,100.0,N,SCHA
 SCHB,Schwab U.S. Broad Market ETF,Schwab U.S. Broad Market ETF,P,SCHB,Y,100.0,N,SCHB
 SCHC,Schwab International Small,Schwab International Small-Cap Equity ETF,P,SCHC,Y,100.0,N,SCHC
@@ -5377,6 +5381,7 @@ SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,SPDR Portfolio S&P 1500 
 SPTS,SPDR Portfolio Short Term Treasury ETF,SPDR Portfolio Short Term Treasury ETF,P,SPTS,Y,100.0,N,SPTS
 SPUC,Simplify Exchange Traded Funds Simplify US Equity PLUS Upside Convexity ETF,Simplify Exchange Traded Funds Simplify US Equity PLUS Upside Convexity ETF,P,SPUC,Y,100.0,N,SPUC
 SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,SP Funds S&P 500 Sharia Industry Exclusions ETF,P,SPUS,Y,100.0,N,SPUS
+SPUT,Innovator ETFs Trust Innovator Equity Premium Income ,Innovator ETFs Trust Innovator Equity Premium Income - Daily PutWrite ETF,P,SPUT,Y,100.0,N,SPUT
 SPUU,Direxion Daily S&P 500 Bull 2X Shares,Direxion Daily S&P 500 Bull 2X Shares,P,SPUU,Y,100.0,N,SPUU
 SPVM,Invesco S&P 500 Value with Momentum ETF,Invesco S&P 500 Value with Momentum ETF,P,SPVM,Y,100.0,N,SPVM
 SPVU,Invesco S&P 500 Enhanced Value ETF,Invesco S&P 500 Enhanced Value ETF,P,SPVU,Y,100.0,N,SPVU
@@ -5446,6 +5451,7 @@ STEL,"Stellar Bancorp, Inc. Common Stock","Stellar Bancorp, Inc. Common Stock",N
 STEM,"Stem, Inc. Class A Common Stock","Stem, Inc. Class A Common Stock",N,STEM,N,100.0,N,STEM
 STEW,"SRH Total Return Fund, Inc. Common Stock","SRH Total Return Fund, Inc. Common Stock",N,STEW,N,100.0,N,STEW
 STG,"Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares","Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares",N,STG,N,100.0,N,STG
+STHH,Precidian ETFs Trust STMicroelectronics NV ADRhedged,Precidian ETFs Trust STMicroelectronics NV ADRhedged,Z,STHH,Y,100.0,N,STHH
 STIP,iShares 0,iShares 0-5 Year TIPS Bond ETF,P,STIP,Y,100.0,N,STIP
 STK,Columbia Seligman Premium Technology Growth Fund Inc,Columbia Seligman Premium Technology Growth Fund Inc,N,STK,N,100.0,N,STK
 STLA,Stellantis N.V. Common Shares,Stellantis N.V. Common Shares,N,STLA,N,100.0,N,STLA
@@ -5665,6 +5671,7 @@ TMFG,Motley Fool Global Opportunities ETF,Motley Fool Global Opportunities ETF,Z
 TMFM,Motley Fool Mid,Motley Fool Mid-Cap Growth ETF,Z,TMFM,Y,100.0,N,TMFM
 TMFS,Motley Fool Small,Motley Fool Small-Cap Growth ETF,Z,TMFS,Y,100.0,N,TMFS
 TMFX,"The RBB Fund, Inc. Motley Fool Next Index ETF","The RBB Fund, Inc. Motley Fool Next Index ETF",Z,TMFX,Y,100.0,N,TMFX
+TMH,Precidian ETFs Trust Toyota Motor Corporation ADRhedged,Precidian ETFs Trust Toyota Motor Corporation ADRhedged,Z,TMH,Y,100.0,N,TMH
 TMHC,Taylor Morrison Home Corporation Common Stock,Taylor Morrison Home Corporation Common Stock,N,TMHC,N,100.0,N,TMHC
 TMO,Thermo Fisher Scientific Inc Common Stock,Thermo Fisher Scientific Inc Common Stock,N,TMO,N,100.0,N,TMO
 TMP,Tompkins Financial Corporation Common Stock,Tompkins Financial Corporation Common Stock,A,TMP,N,100.0,N,TMP
