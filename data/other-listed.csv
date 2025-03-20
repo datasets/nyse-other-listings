@@ -1173,7 +1173,6 @@ CRF,"Cornerstone Total Return Fund, Inc. (The) Common Stock","Cornerstone Total 
 CRGY,Crescent Energy Company Class A Common Stock,Crescent Energy Company Class A Common Stock,N,CRGY,N,100.0,N,CRGY
 CRH,CRH PLC Ordinary Shares,CRH PLC Ordinary Shares,N,CRH,N,100.0,N,CRH
 CRI,"Carter's, Inc. Common Stock","Carter's, Inc. Common Stock",N,CRI,N,100.0,N,CRI
-CRIT,Exchange Traded Concepts Trust Optica Rare Earths & Critical Materials ETF,Exchange Traded Concepts Trust Optica Rare Earths & Critical Materials ETF,P,CRIT,Y,100.0,N,CRIT
 CRK,"Comstock Resources, Inc. Common Stock","Comstock Resources, Inc. Common Stock",N,CRK,N,100.0,N,CRK
 CRL,"Charles River Laboratories International, Inc. Common Stock","Charles River Laboratories International, Inc. Common Stock",N,CRL,N,100.0,N,CRL
 CRM,"Salesforce, Inc. Common Stock","Salesforce, Inc. Common Stock",N,CRM,N,100.0,N,CRM
@@ -2614,7 +2613,7 @@ HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,Hamilton Beach B
 HBI,Hanesbrands Inc. Common Stock,Hanesbrands Inc. Common Stock,N,HBI,N,100.0,N,HBI
 HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),Hudbay Minerals Inc. Ordinary Shares (Canada),N,HBM,N,100.0,N,HBM
 HBTA,Horizon Funds Horizon Expedition Plus ETF,Horizon Funds Horizon Expedition Plus ETF,P,HBTA,Y,100.0,N,HBTA
-HBTC,Listed Funds Trust Fortuna Hedged Bitcoin Fund,Listed Funds Trust Fortuna Hedged Bitcoin Fund,N,HBTC,Y,100.0,N,HBTC
+HBTC,Listed Funds Trust Fortuna Hedged Bitcoin Fund,Listed Funds Trust Fortuna Hedged Bitcoin Fund,Z,HBTC,Y,100.0,N,HBTC
 HCA,"HCA Healthcare, Inc. Common Stock","HCA Healthcare, Inc. Common Stock",N,HCA,N,100.0,N,HCA
 HCC,"Warrior Met Coal, Inc. Common Stock","Warrior Met Coal, Inc. Common Stock",N,HCC,N,100.0,N,HCC
 HCI,"HCI Group, Inc. Common Stock","HCI Group, Inc. Common Stock",N,HCI,N,100.0,N,HCI
@@ -2944,6 +2943,7 @@ IMAX,Imax Corporation Common Stock,Imax Corporation Common Stock,N,IMAX,N,100.0,
 IMAY,SHL Telemedicine Ltd Innovator International Developed Power Buffer ETF ,SHL Telemedicine Ltd Innovator International Developed Power Buffer ETF - May,P,IMAY,Y,100.0,N,IMAY
 IMCB,iShares Morningstar Mid,iShares Morningstar Mid-Cap ETF,P,IMCB,Y,100.0,N,IMCB
 IMCG,iShares Morningstar Mid,iShares Morningstar Mid-Cap Growth ETF,P,IMCG,Y,100.0,N,IMCG
+IMF,Invesco Managed Futures Strategy ETF Invesco Managed Futures Strategy ETF,Invesco Managed Futures Strategy ETF Invesco Managed Futures Strategy ETF,Z,IMF,Y,100.0,N,IMF
 IMFL,Invesco International Developed Dynamic Multifactor ETF,Invesco International Developed Dynamic Multifactor ETF,Z,IMFL,Y,100.0,N,IMFL
 IMO,Imperial Oil Limited Common Stock,Imperial Oil Limited Common Stock,A,IMO,N,100.0,N,IMO
 IMTB,iShares Core 5,iShares Core 5-10 Year USD Bond ETF,P,IMTB,Y,100.0,N,IMTB
