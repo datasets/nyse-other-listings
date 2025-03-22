@@ -645,6 +645,7 @@ BJAN,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - Januar
 BJUL,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - July,Z,BJUL,Y,100.0,N,BJUL
 BJUN,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - June,Z,BJUN,Y,100.0,N,BJUN
 BK,The Bank of New York Mellon Corporation Common Stock,The Bank of New York Mellon Corporation Common Stock,N,BK,N,100.0,N,BK
+BK$K,"The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock","The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",N,BKpK,N,100.0,N,BK-K
 BKAG,BNY Mellon Core Bond ETF,BNY Mellon Core Bond ETF,P,BKAG,Y,100.0,N,BKAG
 BKCI,BNY Mellon ETF Trust BNY Mellon Concentrated International ETF,BNY Mellon ETF Trust BNY Mellon Concentrated International ETF,P,BKCI,Y,100.0,N,BKCI
 BKD,Brookdale Senior Living Inc. Common Stock,Brookdale Senior Living Inc. Common Stock,N,BKD,N,100.0,N,BKD
@@ -2485,6 +2486,7 @@ GOOP,Kurv Yield Premium Strategy Google (GOOGL) ETF,Kurv Yield Premium Strategy 
 GOOS,Canada Goose Holdings Inc. Subordinate Voting Shares,Canada Goose Holdings Inc. Subordinate Voting Shares,N,GOOS,N,100.0,N,GOOS
 GOOX,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long Alphabet Daily Target ETF,Z,GOOX,Y,100.0,N,GOOX
 GOOY,Tidal ETF Trust II YieldMax GOOGL Option Income Strategy ETF,Tidal ETF Trust II YieldMax GOOGL Option Income Strategy ETF,P,GOOY,Y,100.0,N,GOOY
+GOP,Unusual Whales Subversive Republican Trading ETF,Unusual Whales Subversive Republican Trading ETF,Z,GOP,Y,100.0,N,GOP
 GORO,Gold Resource Corporation Common Stock,Gold Resource Corporation Common Stock,A,GORO,N,100.0,N,GORO
 GOTU,Gaotu Techedu Inc. American Depositary Shares,Gaotu Techedu Inc. American Depositary Shares,N,GOTU,N,100.0,N,GOTU
 GOVT,iShares U.S. Treasury Bond ETF,iShares U.S. Treasury Bond ETF,Z,GOVT,Y,100.0,N,GOVT
@@ -3383,7 +3385,6 @@ KRG,Kite Realty Group Trust Common Stock,Kite Realty Group Trust Common Stock,N,
 KRMN,Karman Holdings Inc. Common Stock,Karman Holdings Inc. Common Stock,N,KRMN,N,100.0,N,KRMN
 KRO,Kronos Worldwide Inc Common Stock,Kronos Worldwide Inc Common Stock,N,KRO,N,100.0,N,KRO
 KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,N,KRP,N,100.0,N,KRP
-KRUZ,Unusual Whales Subversive Republican Trading ETF,Unusual Whales Subversive Republican Trading ETF,Z,KRUZ,Y,100.0,N,KRUZ
 KSA,iShares Trust iShares MSCI Saudi Arabia ETF,iShares Trust iShares MSCI Saudi Arabia ETF,P,KSA,Y,100.0,N,KSA
 KSEA,KraneShares Trust KraneShares Rockefeller Ocean Engagement ETF,KraneShares Trust KraneShares Rockefeller Ocean Engagement ETF,P,KSEA,Y,100.0,N,KSEA
 KSEP,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - September,Z,KSEP,Y,100.0,N,KSEP
@@ -4561,7 +4562,7 @@ PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock","Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",N,PRIFpK,N,100.0,N,PRIF-K
 PRIF$L,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029","Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",N,PRIFpL,N,100.0,N,PRIF-L
 PRIM,Primoris Services Corporation Common Stock,Primoris Services Corporation Common Stock,N,PRIM,N,100.0,N,PRIM
-PRIV,SSGA Active Trust SPDR SSGA Apollo IG Public & Private Credit ETF,SSGA Active Trust SPDR SSGA Apollo IG Public & Private Credit ETF,P,PRIV,Y,100.0,N,PRIV
+PRIV,SPDR SSGA IG Public & Private Credit ETF,SPDR SSGA IG Public & Private Credit ETF,P,PRIV,Y,100.0,N,PRIV
 PRK,Park National Corporation Common Stock,Park National Corporation Common Stock,A,PRK,N,100.0,N,PRK
 PRKS,United Parks & Resorts Inc. Common Stock,United Parks & Resorts Inc. Common Stock,N,PRKS,N,100.0,N,PRKS
 PRLB,"Proto Labs, Inc. Common stock","Proto Labs, Inc. Common stock",N,PRLB,N,100.0,N,PRLB
