@@ -38,6 +38,7 @@ ACR$C,ACRES Commercial Realty Corp. 8.625% Fixed
 ACR$D,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Preferred Stock
 ACRE,Ares Commercial Real Estate Corporation Common Stock
 ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest
+ACVA,ACV Auctions Inc. Class A Common Stock
 ADC,Agree Realty Corporation Common Stock
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock"
 ADCT,ADC Therapeutics SA Common Shares
@@ -854,7 +855,6 @@ ED,"Consolidated Edison, Inc. Common Stock"
 EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc. Common Stock"
 EDF,Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest
 EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares
-EDR,"Endeavor Group Holdings, Inc. Class A Common Stock"
 EDU,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)"
 EE,"Excelerate Energy, Inc. Class A Common Stock"
 EEA,"The European Equity Fund, Inc. Common Stock"
@@ -869,7 +869,6 @@ EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest
 EFX,"Equifax, Inc. Common Stock"
 EFXT,Enerflex Ltd Common Shares
 EG,"Everest Group, Ltd. Common Stock"
-EGF,"Blackrock Enhanced Government Fund, Inc. Common Stock"
 EGO,Eldorado Gold Corporation Ordinary Shares
 EGP,"EastGroup Properties, Inc. Common Stock"
 EGY,"VAALCO Energy, Inc.  Common Stock"
@@ -2184,7 +2183,6 @@ RCUS,"Arcus Biosciences, Inc. Common Stock"
 RDDT,"Reddit, Inc. Class A Common Stock"
 RDN,Radian Group Inc. Common Stock
 RDW,Redwire Corporation Common Stock
-RDW.W,Redwire Corporation Redeemable Warrants
 RDY,Dr. Reddy's Laboratories Ltd Common Stock
 RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)
 RERE,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares)
@@ -2583,7 +2581,7 @@ TPL,Texas Pacific Land Corporation Common Stock
 TPR,"Tapestry, Inc. Common Stock"
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026"
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock
-TPZ,Tortoise Capital Series Trust Tortoise Power and Energy Infrastructure Fund
+TPZ,Tortoise Essential Energy Fund
 TR,"Tootsie Roll Industries, Inc. Common Stock"
 TRAK,"ReposiTrak, Inc. Common Stock"
 TRC,Tejon Ranch Co Common Stock

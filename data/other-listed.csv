@@ -60,6 +60,7 @@ ACSI,American Customer Satisfaction ETF,American Customer Satisfaction ETF,Z,ACS
 ACTV,LeaderShares Activist Leaders ETF,LeaderShares Activist Leaders ETF,P,ACTV,Y,100.0,N,ACTV
 ACU,Acme United Corporation. Common Stock,Acme United Corporation. Common Stock,A,ACU,N,100.0,N,ACU
 ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,N,ACV,N,100.0,N,ACV
+ACVA,ACV Auctions Inc. Class A Common Stock,ACV Auctions Inc. Class A Common Stock,N,ACVA,N,100.0,N,ACVA
 ACVF,American Conservative Values ETF,American Conservative Values ETF,P,ACVF,Y,100.0,N,ACVF
 ACWV,iShares MSCI Global Min Vol Factor ETF,iShares MSCI Global Min Vol Factor ETF,Z,ACWV,Y,100.0,N,ACWV
 ADC,Agree Realty Corporation Common Stock,Agree Realty Corporation Common Stock,N,ADC,N,100.0,N,ADC
@@ -227,6 +228,7 @@ AMUB,"ETRACS Alerian MLP Index ETN Series B due July 18, 2042","ETRACS Alerian M
 AMWL,American Well Corporation Class A Common Stock,American Well Corporation Class A Common Stock,N,AMWL,N,100.0,N,AMWL
 AMX,"America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares","America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares",N,AMX,N,100.0,N,AMX
 AMZA,InfraCap MLP ETF,InfraCap MLP ETF,P,AMZA,Y,100.0,N,AMZA
+AMZE,"Amaze Holdings, Inc. Common Stock","Amaze Holdings, Inc. Common Stock",A,AMZE,N,100.0,N,AMZE
 AMZP,Kurv Yield Premium Strategy Amazon (AMZN) ETF,Kurv Yield Premium Strategy Amazon (AMZN) ETF,Z,AMZP,Y,100.0,N,AMZP
 AMZY,Tidal ETF Trust II YieldMax AMZN Option Income Strategy ETF,Tidal ETF Trust II YieldMax AMZN Option Income Strategy ETF,P,AMZY,Y,100.0,N,AMZY
 AN,"AutoNation, Inc. Common Stock","AutoNation, Inc. Common Stock",N,AN,N,100.0,N,AN
@@ -1625,7 +1627,6 @@ EDIV,SPDR S&P Emerging Markets Dividend ETF,SPDR S&P Emerging Markets Dividend E
 EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,N,EDN,N,100.0,N,EDN
 EDOG,ALPS Emerging Sector Dividend Dogs ETF,ALPS Emerging Sector Dividend Dogs ETF,P,EDOG,Y,100.0,N,EDOG
 EDOW,First Trust Dow 30 Equal Weight ETF,First Trust Dow 30 Equal Weight ETF,P,EDOW,Y,100.0,N,EDOW
-EDR,"Endeavor Group Holdings, Inc. Class A Common Stock","Endeavor Group Holdings, Inc. Class A Common Stock",N,EDR,N,100.0,N,EDR
 EDU,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)","New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)",N,EDU,N,100.0,N,EDU
 EDV,Vanguard Extended Duration Treasury ETF,Vanguard Extended Duration Treasury ETF,P,EDV,Y,100.0,N,EDV
 EDZ,Direxion Emerging Markets Bear 3X Shares,Direxion Emerging Markets Bear 3X Shares,P,EDZ,Y,100.0,N,EDZ
@@ -1668,7 +1669,6 @@ EFX,"Equifax, Inc. Common Stock","Equifax, Inc. Common Stock",N,EFX,N,100.0,N,EF
 EFXT,Enerflex Ltd Common Shares,Enerflex Ltd Common Shares,N,EFXT,N,100.0,N,EFXT
 EFZ,ProShares Short MSCI EAFE,ProShares Short MSCI EAFE,P,EFZ,Y,100.0,N,EFZ
 EG,"Everest Group, Ltd. Common Stock","Everest Group, Ltd. Common Stock",N,EG,N,100.0,N,EG
-EGF,"Blackrock Enhanced Government Fund, Inc. Common Stock","Blackrock Enhanced Government Fund, Inc. Common Stock",N,EGF,N,100.0,N,EGF
 EGGS,Tidal Trust III NestYield Total Return Guard ETF,Tidal Trust III NestYield Total Return Guard ETF,P,EGGS,Y,100.0,N,EGGS
 EGGY,NestYield Dynamic Income ETF,NestYield Dynamic Income ETF,P,EGGY,Y,100.0,N,EGGY
 EGO,Eldorado Gold Corporation Ordinary Shares,Eldorado Gold Corporation Ordinary Shares,N,EGO,N,100.0,N,EGO
@@ -4364,6 +4364,7 @@ PCCE,Litman Gregory Funds Trust Polen Capital China Growth ETF,Litman Gregory Fu
 PCEF,Invesco CEF Income Composite ETF,Invesco CEF Income Composite ETF,P,PCEF,Y,100.0,N,PCEF
 PCEM,Litman Gregory Funds Trust Polen Capital Emerging Markets ex China Growth ETF,Litman Gregory Funds Trust Polen Capital Emerging Markets ex China Growth ETF,P,PCEM,Y,100.0,N,PCEM
 PCF,High Income Securities Fund Common Stock,High Income Securities Fund Common Stock,N,PCF,N,100.0,N,PCF
+PCFI,FundVantage Trust Polen Floating Rate Income ETF,FundVantage Trust Polen Floating Rate Income ETF,P,PCFI,Y,100.0,N,PCFI
 PCG,Pacific Gas & Electric Co. Common Stock,Pacific Gas & Electric Co. Common Stock,N,PCG,N,100.0,N,PCG
 PCG$A,Pacific Gas & Electric Co. 6% Preferred Stock,Pacific Gas & Electric Co. 6% Preferred Stock,A,PCGpA,N,100.0,N,PCG-A
 PCG$B,Pacific Gas & Electric Co. 5 1/2% Preferred Stock,Pacific Gas & Electric Co. 5 1/2% Preferred Stock,A,PCGpB,N,100.0,N,PCG-B
@@ -4375,6 +4376,7 @@ PCG$H,Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,Pacific Gas & Electri
 PCG$I,Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,Pacific Gas & Electric Co. 4.36% 1st Preferred Stock,A,PCGpI,N,100.0,N,PCG-I
 PCG$X,PG&E Corp 6.000% Series A Mandatory Convertible Preferred Stock,PG&E Corp 6.000% Series A Mandatory Convertible Preferred Stock,N,PCGpX,N,100.0,N,PCG-X
 PCGG,Litman Gregory Funds Trust Polen Capital Global Growth ETF,Litman Gregory Funds Trust Polen Capital Global Growth ETF,P,PCGG,Y,100.0,N,PCGG
+PCHI,FundVantage Trust Polen High Income ETF,FundVantage Trust Polen High Income ETF,P,PCHI,Y,100.0,N,PCHI
 PCIG,Litman Gregory Funds Trust Polen Capital International Growth ETF,Litman Gregory Funds Trust Polen Capital International Growth ETF,P,PCIG,Y,100.0,N,PCIG
 PCK,Pimco California Municipal Income Fund II Common Shares of Beneficial Interest,Pimco California Municipal Income Fund II Common Shares of Beneficial Interest,N,PCK,N,100.0,N,PCK
 PCLO,Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF,Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF,P,PCLO,Y,100.0,N,PCLO
@@ -4389,7 +4391,7 @@ PDCC,Pearl Diver Credit Company Inc. Common Stock,Pearl Diver Credit Company Inc
 PDEC,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - December,Z,PDEC,Y,100.0,N,PDEC
 PDI,PIMCO Dynamic Income Fund Common Stock,PIMCO Dynamic Income Fund Common Stock,N,PDI,N,100.0,N,PDI
 PDM,"Piedmont Office Realty Trust, Inc. Class A Common Stock","Piedmont Office Realty Trust, Inc. Class A Common Stock",N,PDM,N,100.0,N,PDM
-PDN,Invesco FTSE RAFI Developed Markets ex,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,P,PDN,Y,100.0,N,PDN
+PDN,Invesco RAFI Developed Markets ex,Invesco RAFI Developed Markets ex-U.S. Small-Mid ETF,P,PDN,Y,100.0,N,PDN
 PDO,PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest,PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest,N,PDO,N,100.0,N,PDO
 PDPA,Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029,Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029,N,PDPA,N,100.0,N,PDPA
 PDS,Precision Drilling Corporation Common Stock,Precision Drilling Corporation Common Stock,N,PDS,N,100.0,N,PDS
@@ -4548,7 +4550,7 @@ PRAE,Northern Lights Fund Trust III PlanRock Alternative Growth ETF,Northern Lig
 PRAY,NEOS ETF Trust FIS Christian Stock Fund,NEOS ETF Trust FIS Christian Stock Fund,P,PRAY,Y,100.0,N,PRAY
 PRCS,Parnassus Income Funds Parnassus Core Select ETF,Parnassus Income Funds Parnassus Core Select ETF,N,PRCS,Y,100.0,N,PRCS
 PREF,Principal Spectrum Preferred Securities Active ETF,Principal Spectrum Preferred Securities Active ETF,P,PREF,Y,100.0,N,PREF
-PRF,Invesco FTSE RAFI US 1000 ETF,Invesco FTSE RAFI US 1000 ETF,P,PRF,Y,100.0,N,PRF
+PRF,Invesco RAFI US 1000 ETF,Invesco RAFI US 1000 ETF,P,PRF,Y,100.0,N,PRF
 PRFD,PIMCO U.S. Treasury Index Fund PIMCO Preferred and Capital Securities Active Exchange,PIMCO U.S. Treasury Index Fund PIMCO Preferred and Capital Securities Active Exchange-Traded Fund,P,PRFD,Y,100.0,N,PRFD
 PRG,"PROG Holdings, Inc. Common Stock","PROG Holdings, Inc. Common Stock",N,PRG,N,100.0,N,PRG
 PRGO,Perrigo Company plc Ordinary Shares,Perrigo Company plc Ordinary Shares,N,PRGO,N,100.0,N,PRGO
@@ -4568,7 +4570,6 @@ PRKS,United Parks & Resorts Inc. Common Stock,United Parks & Resorts Inc. Common
 PRLB,"Proto Labs, Inc. Common stock","Proto Labs, Inc. Common stock",N,PRLB,N,100.0,N,PRLB
 PRM,"Perimeter Solutions, SA Common Stock","Perimeter Solutions, SA Common Stock",N,PRM,N,100.0,N,PRM
 PRMB,Primo Brands Corporation Class A Common Stock,Primo Brands Corporation Class A Common Stock,N,PRMB,N,100.0,N,PRMB
-PRMN,Northern Lights Fund Trust III PlanRock Market Neutral Income ETF,Northern Lights Fund Trust III PlanRock Market Neutral Income ETF,P,PRMN,Y,100.0,N,PRMN
 PRNT,3D Printing (The) ETF,3D Printing (The) ETF,Z,PRNT,Y,100.0,N,PRNT
 PRO,"PROS Holdings, Inc. Common Stock","PROS Holdings, Inc. Common Stock",N,PRO,N,100.0,N,PRO
 PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058","Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",N,PRS,N,100.0,N,PRS
@@ -4662,8 +4663,8 @@ PWV,Invesco Large Cap Value ETF,Invesco Large Cap Value ETF,P,PWV,Y,100.0,N,PWV
 PWZ,Invesco California AMT,Invesco California AMT-Free Municipal Bond Portfolio,P,PWZ,Y,100.0,N,PWZ
 PX,"P10, Inc. Class A Common Stock","P10, Inc. Class A Common Stock",N,PX,N,100.0,N,PX
 PXE,Invesco Energy Exploration & Production ETF,Invesco Energy Exploration & Production ETF,P,PXE,Y,100.0,N,PXE
-PXF,Invesco FTSE RAFI Developed Markets ex,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,P,PXF,Y,100.0,N,PXF
-PXH,Invesco FTSE RAFI Emerging Markets ETF,Invesco FTSE RAFI Emerging Markets ETF,P,PXH,Y,100.0,N,PXH
+PXF,Invesco RAFI Developed Markets ex,Invesco RAFI Developed Markets ex-U.S. ETF,P,PXF,Y,100.0,N,PXF
+PXH,Invesco RAFI Emerging Markets ETF,Invesco RAFI Emerging Markets ETF,P,PXH,Y,100.0,N,PXH
 PXJ,Invesco Oil & Gas Services ETF,Invesco Oil & Gas Services ETF,P,PXJ,Y,100.0,N,PXJ
 PYLD,PIMCO U.S. Treasury Index Fund PIMCO Multisector Bond Active Exchange,PIMCO U.S. Treasury Index Fund PIMCO Multisector Bond Active Exchange-Traded Fund,P,PYLD,Y,100.0,N,PYLD
 PYN,PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest,PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest,N,PYN,N,100.0,N,PYN
@@ -4793,7 +4794,6 @@ RDOG,ALPS ETF Trust ALPS REIT Dividend Dogs ETF,ALPS ETF Trust ALPS REIT Dividen
 RDTE,Roundhill ETF Trust Roundhill Small Cap 0DTE Covered Call Strategy ETF,Roundhill ETF Trust Roundhill Small Cap 0DTE Covered Call Strategy ETF,Z,RDTE,Y,100.0,N,RDTE
 RDVI,FT Vest Rising Dividend Achievers Target Income ETF,FT Vest Rising Dividend Achievers Target Income ETF,Z,RDVI,Y,100.0,N,RDVI
 RDW,Redwire Corporation Common Stock,Redwire Corporation Common Stock,N,RDW,N,100.0,N,RDW
-RDW.W,Redwire Corporation Redeemable Warrants,Redwire Corporation Redeemable Warrants,N,RDW.WS,N,100.0,N,RDW+
 RDY,Dr. Reddy's Laboratories Ltd Common Stock,Dr. Reddy's Laboratories Ltd Common Stock,N,RDY,N,100.0,N,RDY
 RECS,Columbia Research Enhanced Core ETF,Columbia Research Enhanced Core ETF,P,RECS,Y,100.0,N,RECS
 REET,iShares Trust iShares Global REIT ETF,iShares Trust iShares Global REIT ETF,P,REET,Y,100.0,N,REET
@@ -4931,6 +4931,7 @@ RSI,"Rush Street Interactive, Inc. Class A Common Stock","Rush Street Interactiv
 RSJN,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Equal Weight Buffer ETF - June,P,RSJN,Y,100.0,N,RSJN
 RSKD,Riskified Ltd. Class A Ordinary Shares,Riskified Ltd. Class A Ordinary Shares,N,RSKD,N,100.0,N,RSKD
 RSMC,Tidal Trust III Rockefeller U.S. Small,Tidal Trust III Rockefeller U.S. Small-Mid Cap ETF,P,RSMC,Y,100.0,N,RSMC
+RSMR,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Equal Weight Buffer ETF - March,P,RSMR,Y,100.0,N,RSMR
 RSMV,Listed Funds Trust Relative Strength Managed Volatility Strategy ETF,Listed Funds Trust Relative Strength Managed Volatility Strategy ETF,P,RSMV,Y,100.0,N,RSMV
 RSP,Invesco S&P 500 Equal Weight ETF,Invesco S&P 500 Equal Weight ETF,P,RSP,Y,100.0,N,RSP
 RSPA,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco S&P 500 Equal Weight Income Advantage ETF,P,RSPA,Y,100.0,N,RSPA
@@ -5663,6 +5664,7 @@ TLTP,Amplify Bloomberg U.S. Treasury 12% Premium Income ETF,Amplify Bloomberg U.
 TLTW,iShares Trust iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,iShares Trust iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,Z,TLTW,Y,100.0,N,TLTW
 TLYS,"Tilly's, Inc. Common Stock","Tilly's, Inc. Common Stock",N,TLYS,N,100.0,N,TLYS
 TM,Toyota Motor Corporation Common Stock,Toyota Motor Corporation Common Stock,N,TM,N,100.0,N,TM
+TMAR,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - March,Z,TMAR,Y,100.0,N,TMAR
 TMAT,Main Thematic Innovation ETF,Main Thematic Innovation ETF,Z,TMAT,Y,100.0,N,TMAT
 TMDV,ProShares Russell US Dividend Growers ETF,ProShares Russell US Dividend Growers ETF,Z,TMDV,Y,100.0,N,TMDV
 TME,"Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares","Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares",N,TME,N,100.0,N,TME
@@ -5719,7 +5721,7 @@ TPSC,Timothy Plan US Small Cap Core ETF,Timothy Plan US Small Cap Core ETF,P,TPS
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026","Terra Property Trust, Inc. 6.00% Notes due 2026",N,TPTA,N,100.0,N,TPTA
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,TriplePoint Venture Growth BDC Corp. Common Stock,N,TPVG,N,100.0,N,TPVG
 TPYP,Tortoise North American Pipeline ETF,Tortoise North American Pipeline ETF,P,TPYP,Y,100.0,N,TPYP
-TPZ,Tortoise Capital Series Trust Tortoise Power and Energy Infrastructure Fund,Tortoise Capital Series Trust Tortoise Power and Energy Infrastructure Fund,N,TPZ,Y,100.0,N,TPZ
+TPZ,Tortoise Essential Energy Fund,Tortoise Essential Energy Fund,N,TPZ,Y,100.0,N,TPZ
 TR,"Tootsie Roll Industries, Inc. Common Stock","Tootsie Roll Industries, Inc. Common Stock",N,TR,N,100.0,N,TR
 TRAK,"ReposiTrak, Inc. Common Stock","ReposiTrak, Inc. Common Stock",N,TRAK,N,100.0,N,TRAK
 TRC,Tejon Ranch Co Common Stock,Tejon Ranch Co Common Stock,N,TRC,N,100.0,N,TRC
@@ -6008,7 +6010,6 @@ VICI,VICI Properties Inc. Common Stock,VICI Properties Inc. Common Stock,N,VICI,
 VIDI,Vident International Equity Strategy ETF,Vident International Equity Strategy ETF,P,VIDI,Y,100.0,N,VIDI
 VIG,Vanguard Div Appreciation ETF,Vanguard Div Appreciation ETF,P,VIG,Y,100.0,N,VIG
 VIK,Viking Holdings Ltd Ordinary Shares,Viking Holdings Ltd Ordinary Shares,N,VIK,N,100.0,N,VIK
-VINE,"Fresh Vine Wine, Inc. Common Stock","Fresh Vine Wine, Inc. Common Stock",A,VINE,N,100.0,N,VINE
 VIOG,Vanguard S&P Small,Vanguard S&P Small-Cap 600 Growth ETF,P,VIOG,Y,100.0,N,VIOG
 VIOO,Vanguard S&P Small,Vanguard S&P Small-Cap 600 ETF,P,VIOO,Y,100.0,N,VIOO
 VIOV,Vanguard S&P Small,Vanguard S&P Small-Cap 600 Value ETF,P,VIOV,Y,100.0,N,VIOV
