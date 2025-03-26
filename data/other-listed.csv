@@ -1846,7 +1846,6 @@ ETU,T,T-Rex 2X Long Ether Daily Target ETF,Z,ETU,Y,100.0,N,ETU
 ETV,Eaton Vance Corporation Eaton Vance Tax,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,N,ETV,N,100.0,N,ETV
 ETW,Eaton Vance Corporation Eaton Vance Tax,Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest,N,ETW,N,100.0,N,ETW
 ETWO,"E2open Parent Holdings, Inc.Class A Common Stock","E2open Parent Holdings, Inc.Class A Common Stock",N,ETWO,N,100.0,N,ETWO
-ETWO.W,"E2open Parent Holdings, Inc. Warrants","E2open Parent Holdings, Inc. Warrants",N,ETWO.WS,N,100.0,N,ETWO+
 ETX,Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest,Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest,N,ETX,N,100.0,N,ETX
 ETY,Eaton Vance Tax,"Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",N,ETY,N,100.0,N,ETY
 EUAD,Spinnaker ETF Series Select STOXX Europe Aerospace & Defense ETF,Spinnaker ETF Series Select STOXX Europe Aerospace & Defense ETF,Z,EUAD,Y,100.0,N,EUAD
@@ -3493,6 +3492,7 @@ LGL,"LGL Group, Inc. (The) Common Stock","LGL Group, Inc. (The) Common Stock",A,
 LGL.W,"LGL Group, Inc. (The) Warrants","LGL Group, Inc. (The) Warrants",A,LGL.WS,N,100.0,N,LGL+
 LGLV,SPDR SSGA US Large Cap Low Volatility Index ETF,SPDR SSGA US Large Cap Low Volatility Index ETF,P,LGLV,Y,100.0,N,LGLV
 LGOV,First Trust Long Duration Opportunities ETF,First Trust Long Duration Opportunities ETF,P,LGOV,Y,100.0,N,LGOV
+LGPS,LogProstyle Inc. Common Shares,LogProstyle Inc. Common Shares,A,LGPS,N,100.0,N,LGPS
 LH,Labcorp Holdings Inc. Common Stock,Labcorp Holdings Inc. Common Stock,N,LH,N,100.0,N,LH
 LHX,"L3Harris Technologies, Inc. Common Stock","L3Harris Technologies, Inc. Common Stock",N,LHX,N,100.0,N,LHX
 LIAB,LifeX 2048 Inflation,LifeX 2048 Inflation-Protected Longevity Income ETF,Z,LIAB,Y,100.0,N,LIAB
