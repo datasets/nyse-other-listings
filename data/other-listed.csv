@@ -431,7 +431,7 @@ AXR,AMREP Corporation Common Stock,AMREP Corporation Common Stock,N,AXR,N,100.0,
 AXS,Axis Capital Holdings Limited Common Stock,Axis Capital Holdings Limited Common Stock,N,AXS,N,100.0,N,AXS
 AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares","Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",N,AXSpE,N,100.0,N,AXS-E
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
-AYI,"Acuity Brands, Inc. ","Acuity Brands, Inc. ",N,AYI,N,100.0,N,AYI
+AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,100.0,N,AYI
 AZEK,The AZEK Company Inc. Class A Common Stock,The AZEK Company Inc. Class A Common Stock,N,AZEK,N,100.0,N,AZEK
 AZNH,Precidian ETFs Trust AstraZeneca PLC ADRhedged,Precidian ETFs Trust AstraZeneca PLC ADRhedged,Z,AZNH,Y,100.0,N,AZNH
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,100.0,N,AZO
@@ -2339,7 +2339,6 @@ GDE,WisdomTree Trust WisdomTree Efficient Gold Plus Equity Strategy Fund,WisdomT
 GDEC,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - December,Z,GDEC,Y,100.0,N,GDEC
 GDIV,Harbor ETF Trust Harbor Dividend Growth Leaders ETF,Harbor ETF Trust Harbor Dividend Growth Leaders ETF,N,GDIV,Y,100.0,N,GDIV
 GDL,"GDL Fund, The Common Shares of Beneficial Interest","GDL Fund, The Common Shares of Beneficial Interest",N,GDL,N,100.0,N,GDL
-GDL$C,The GDL Fund Series C Cumulative Puttable and Callable Preferred Shares,The GDL Fund Series C Cumulative Puttable and Callable Preferred Shares,N,GDLpC,N,100.0,N,GDL-C
 GDMA,GadsdenA DynamicA Multi,GadsdenA DynamicA Multi-AssetA ETF,Z,GDMA,Y,100.0,N,GDMA
 GDMN,WisdomTree Trust WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,WisdomTree Trust WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,Z,GDMN,Y,100.0,N,GDMN
 GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,N,GDO,N,100.0,N,GDO
@@ -2513,7 +2512,7 @@ GRC,Gorman,Gorman-Rupp Company (The) Common Stock,N,GRC,N,100.0,N,GRC
 GRDN,"Guardian Pharmacy Services, Inc. Class A Common Stock","Guardian Pharmacy Services, Inc. Class A Common Stock",N,GRDN,N,100.0,N,GRDN
 GREK,Global X MSCI Greece ETF,Global X MSCI Greece ETF,P,GREK,Y,100.0,N,GREK
 GRF,"Eagle Capital Growth Fund, Inc. Common Stock","Eagle Capital Growth Fund, Inc. Common Stock",A,GRF,N,100.0,N,GRF
-GRFX,"Graphex Group Limited American Depositary Shares, each American Depositary Share representing 20 Ordinary Shares","Graphex Group Limited American Depositary Shares, each American Depositary Share representing 20 Ordinary Shares",A,GRFX,N,100.0,N,GRFX
+GRFX,"Graphex Group Limited American Depositary Shares, each representing twenty (20) Ordinary Shares","Graphex Group Limited American Depositary Shares, each representing twenty (20) Ordinary Shares",A,GRFX,N,100.0,N,GRFX
 GRMN,Garmin Ltd. Common Stock (Switzerland),Garmin Ltd. Common Stock (Switzerland),N,GRMN,N,100.0,N,GRMN
 GRN,iPath Series B Carbon Exchange,iPath Series B Carbon Exchange-Traded Notes,P,GRN,N,100.0,N,GRN
 GRNB,VanEck Green Bond ETF,VanEck Green Bond ETF,P,GRNB,Y,100.0,N,GRNB
@@ -2799,6 +2798,7 @@ IAU,iShares Gold Trust Shares of the iShares Gold Trust,iShares Gold Trust Share
 IAUG,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  August,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  August,P,IAUG,Y,100.0,N,IAUG
 IAUM,iShares Gold Trust Micro Shares,iShares Gold Trust Micro Shares,P,IAUM,Y,100.0,N,IAUM
 IAUX,i,i-80 Gold Corp. Common Shares,A,IAUX,N,100.0,N,IAUX
+IBCA,iShares Trust iShares iBonds Dec 2035 Term Corporate ETF,iShares Trust iShares iBonds Dec 2035 Term Corporate ETF,P,IBCA,Y,100.0,N,IBCA
 IBD,Inspire Corporate Bond ETF,Inspire Corporate Bond ETF,P,IBD,Y,100.0,N,IBD
 IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,iShares iBonds Dec 2025 Term Corporate ETF,P,IBDQ,Y,100.0,N,IBDQ
 IBDR,iShares iBonds Dec 2026 Term Corporate ETF,iShares iBonds Dec 2026 Term Corporate ETF,P,IBDR,Y,100.0,N,IBDR
@@ -2817,6 +2817,7 @@ IBHH,iShares Trust iShares iBonds 2028 Term High Yield and Income ETF,iShares Tr
 IBHI,iShares Trust iShares iBonds 2029 Term High Yield and Income ETF,iShares Trust iShares iBonds 2029 Term High Yield and Income ETF,Z,IBHI,Y,100.0,N,IBHI
 IBHJ,iShares Trust iShares iBonds 2030 Term High Yield and Income ETF,iShares Trust iShares iBonds 2030 Term High Yield and Income ETF,Z,IBHJ,Y,100.0,N,IBHJ
 IBHK,iShares Trust iShares iBonds 2031 Term High Yield and Income ETF,iShares Trust iShares iBonds 2031 Term High Yield and Income ETF,Z,IBHK,Y,100.0,N,IBHK
+IBHL,iShares Trust iShares iBonds 2032 Term High Yield and Income ETF,iShares Trust iShares iBonds 2032 Term High Yield and Income ETF,Z,IBHL,Y,100.0,N,IBHL
 IBIB,iShares Trust iShares iBonds Oct 2025 Term TIPS ETF,iShares Trust iShares iBonds Oct 2025 Term TIPS ETF,P,IBIB,Y,100.0,N,IBIB
 IBIC,iShares Trust iShares iBonds Oct 2026 Term TIPS ETF,iShares Trust iShares iBonds Oct 2026 Term TIPS ETF,P,IBIC,Y,100.0,N,IBIC
 IBID,iShares Trust iShares iBonds Oct 2027 Term TIPS ETF,iShares Trust iShares iBonds Oct 2027 Term TIPS ETF,P,IBID,Y,100.0,N,IBID
@@ -2827,6 +2828,7 @@ IBIH,iShares Trust iShares iBonds Oct 2031 Term TIPS ETF,iShares Trust iShares i
 IBII,iShares Trust iShares iBonds Oct 2032 Term TIPS ETF,iShares Trust iShares iBonds Oct 2032 Term TIPS ETF,P,IBII,Y,100.0,N,IBII
 IBIJ,iShares Trust iShares iBonds Oct 2033 Term TIPS ETF,iShares Trust iShares iBonds Oct 2033 Term TIPS ETF,P,IBIJ,Y,100.0,N,IBIJ
 IBIK,iShares Trust iShares iBonds Oct 2034 Term TIPS ETF,iShares Trust iShares iBonds Oct 2034 Term TIPS ETF,P,IBIK,Y,100.0,N,IBIK
+IBIL,iShares Trust iShares iBonds Oct 2035 Term TIPS ETF,iShares Trust iShares iBonds Oct 2035 Term TIPS ETF,P,IBIL,Y,100.0,N,IBIL
 IBLC,iShares Trust iShares Blockchain and Tech ETF,iShares Trust iShares Blockchain and Tech ETF,P,IBLC,Y,100.0,N,IBLC
 IBM,International Business Machines Corporation Common Stock,International Business Machines Corporation Common Stock,N,IBM,N,100.0,N,IBM
 IBMN,iShares iBonds Dec 2025 Term Muni Bond ETF,iShares iBonds Dec 2025 Term Muni Bond ETF,Z,IBMN,Y,100.0,N,IBMN
@@ -2835,6 +2837,7 @@ IBMP,iShares iBonds Dec 2027 Term Muni Bond ETF,iShares iBonds Dec 2027 Term Mun
 IBMQ,iShares iBonds Dec 2028 Term Muni Bond ETF,iShares iBonds Dec 2028 Term Muni Bond ETF,Z,IBMQ,Y,100.0,N,IBMQ
 IBMR,iShares Trust iShares iBonds Dec 2029 Term Muni Bond ETF,iShares Trust iShares iBonds Dec 2029 Term Muni Bond ETF,Z,IBMR,Y,100.0,N,IBMR
 IBMS,iShares Trust iShares iBonds Dec 2030 Term Muni Bond ETF,iShares Trust iShares iBonds Dec 2030 Term Muni Bond ETF,Z,IBMS,Y,100.0,N,IBMS
+IBMT,iShares Trust iShares iBonds Dec 2031 Term Muni Bond ETF,iShares Trust iShares iBonds Dec 2031 Term Muni Bond ETF,Z,IBMT,Y,100.0,N,IBMT
 IBN,ICICI Bank Limited Common Stock,ICICI Bank Limited Common Stock,N,IBN,N,100.0,N,IBN
 IBND,SPDR Bloomberg International Corporate Bond ETF,SPDR Bloomberg International Corporate Bond ETF,P,IBND,Y,100.0,N,IBND
 IBO,"Impact BioMedical, Inc. Common Stock","Impact BioMedical, Inc. Common Stock",A,IBO,N,100.0,N,IBO
@@ -3426,6 +3429,7 @@ LBAY,Leatherback Long/Short Alternative Yield ETF,Leatherback Long/Short Alterna
 LBO,EA Series Trust WHITEWOLF Publicly Listed Private Equity ETF,EA Series Trust WHITEWOLF Publicly Listed Private Equity ETF,Z,LBO,Y,100.0,N,LBO
 LBRT,Liberty Energy Inc. Class A common stock,Liberty Energy Inc. Class A common stock,N,LBRT,N,100.0,N,LBRT
 LC,LendingClub Corporation Common Stock,LendingClub Corporation Common Stock,N,LC,N,100.0,N,LC
+LCAP,Principal Exchange,Principal Exchange-Traded Funds Principal Capital Appreciation Select ETF,Z,LCAP,Y,100.0,N,LCAP
 LCF,Touchstone ETF Trust Touchstone US Large Cap Focused ETF,Touchstone ETF Trust Touchstone US Large Cap Focused ETF,Z,LCF,Y,100.0,N,LCF
 LCG,Sterling Capital Focus Equity ETF,Sterling Capital Focus Equity ETF,P,LCG,Y,100.0,N,LCG
 LCII,LCI Industries,LCI Industries,N,LCII,N,100.0,N,LCII
@@ -5932,7 +5936,6 @@ UTF,"Cohen & Steers Infrastructure Fund, Inc Common Stock","Cohen & Steers Infra
 UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,Reaves Utility Income Fund Common Shares of Beneficial Interest,A,UTG,N,100.0,N,UTG
 UTI,Universal Technical Institute Inc Common Stock,Universal Technical Institute Inc Common Stock,N,UTI,N,100.0,N,UTI
 UTL,UNITIL Corporation Common Stock,UNITIL Corporation Common Stock,N,UTL,N,100.0,N,UTL
-UTRN,Vesper US Large Cap Short,Vesper US Large Cap Short-Term Reversal Strategy ETF,P,UTRN,Y,100.0,N,UTRN
 UTSL,Direxion Daily Utilities Bull 3X Shares,Direxion Daily Utilities Bull 3X Shares,P,UTSL,Y,100.0,N,UTSL
 UTZ,Utz Brands Inc Class A Common Stock ,Utz Brands Inc Class A Common Stock ,N,UTZ,N,100.0,N,UTZ
 UUP,Invesco DB USD Index Bullish Fund ETF,Invesco DB USD Index Bullish Fund ETF,P,UUP,Y,100.0,N,UUP
