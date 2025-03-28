@@ -122,6 +122,7 @@ AGQ,ProShares Ultra Silver,ProShares Ultra Silver,P,AGQ,Y,100.0,N,AGQ
 AGQI,First Trust Exchange,First Trust Exchange-Traded Fund VIII First Trust Active Global Quality Income ETF,P,AGQI,Y,100.0,N,AGQI
 AGRH,iShares U.S. ETF Trust iShares Interest Rate Hedged U.S. Aggregate Bond ETF,iShares U.S. ETF Trust iShares Interest Rate Hedged U.S. Aggregate Bond ETF,P,AGRH,Y,100.0,N,AGRH
 AGRO,Adecoagro S.A. Common Shares,Adecoagro S.A. Common Shares,N,AGRO,N,100.0,N,AGRO
+AGRW,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring LT Large Growth ETF,P,AGRW,Y,100.0,N,AGRW
 AGS,"PlayAGS, Inc. Common Stock","PlayAGS, Inc. Common Stock",N,AGS,N,100.0,N,AGS
 AGX,"Argan, Inc. Common Stock","Argan, Inc. Common Stock",N,AGX,N,100.0,N,AGX
 AGZ,iShares  Agency Bond ETF,iShares  Agency Bond ETF,P,AGZ,Y,100.0,N,AGZ
@@ -339,6 +340,7 @@ ASHR,Xtrackers Harvest CSI 300 China A,Xtrackers Harvest CSI 300 China A-Shares 
 ASHS,Xtrackers Harvest CSI 500 China A,Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF,P,ASHS,Y,100.0,N,ASHS
 ASIA,Matthews International Funds Matthews Pacific Tiger Active ETF,Matthews International Funds Matthews Pacific Tiger Active ETF,P,ASIA,Y,100.0,N,ASIA
 ASIX,AdvanSix Inc. Common Stock ,AdvanSix Inc. Common Stock ,N,ASIX,N,100.0,N,ASIX
+ASLV,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring Special Large Value ETF,P,ASLV,Y,100.0,N,ASLV
 ASM,Avino Silver & Gold Mines Ltd. Common Shares (Canada),Avino Silver & Gold Mines Ltd. Common Shares (Canada),A,ASM,N,100.0,N,ASM
 ASMF,Virtus ETF Trust II Virtus AlphaSimplex Managed Futures ETF,Virtus ETF Trust II Virtus AlphaSimplex Managed Futures ETF,P,ASMF,Y,100.0,N,ASMF
 ASMH,Precidian ETFs Trust ASML Holding NV ADRhedged,Precidian ETFs Trust ASML Holding NV ADRhedged,Z,ASMH,Y,100.0,N,ASMH
@@ -580,6 +582,7 @@ BFK,BlackRock Municipal Income Trust,BlackRock Municipal Income Trust,N,BFK,N,10
 BFLY,"Butterfly Network, Inc. Class A Common Stock","Butterfly Network, Inc. Class A Common Stock",N,BFLY,N,100.0,N,BFLY
 BFLY.W,"Butterfly Network, Inc. Warrants","Butterfly Network, Inc. Warrants",N,BFLY.WS,N,100.0,N,BFLY+
 BFOR,Barron's 400 ETF,Barron's 400 ETF,P,BFOR,Y,100.0,N,BFOR
+BFRE,Ultimus Managers Trust Westwood LBRTY Global Equity ETF,Ultimus Managers Trust Westwood LBRTY Global Equity ETF,P,BFRE,Y,100.0,N,BFRE
 BFS,"Saul Centers, Inc. Common Stock","Saul Centers, Inc. Common Stock",N,BFS,N,100.0,N,BFS
 BFS$D,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock","Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock",N,BFSpD,N,100.0,N,BFS-D
 BFS$E,"Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock","Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock",N,BFSpE,N,100.0,N,BFS-E
@@ -5559,6 +5562,7 @@ TBT,ProShares UltraShort Lehman 20  Year Treasury,ProShares UltraShort Lehman 20
 TBUX,T. Rowe Price Ultra Short,T. Rowe Price Ultra Short-Term Bond ETF,P,TBUX,Y,100.0,N,TBUX
 TBX,ProShares Short 7 10 Year Treasury,ProShares Short 7 10 Year Treasury,P,TBX,Y,100.0,N,TBX
 TCAF,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Capital Appreciation Equity ETF",P,TCAF,Y,100.0,N,TCAF
+TCAL,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Capital Appreciation Premium Income ETF",P,TCAL,Y,100.0,N,TCAL
 TCHP,T. Rowe Price Blue Chip Growth ETF,T. Rowe Price Blue Chip Growth ETF,P,TCHP,Y,100.0,N,TCHP
 TCI,"Transcontinental Realty Investors, Inc. Common Stock","Transcontinental Realty Investors, Inc. Common Stock",N,TCI,N,100.0,N,TCI
 TCPB,Thrivent ETF Trust Thrivent Core Plus Bond ETF,Thrivent ETF Trust Thrivent Core Plus Bond ETF,P,TCPB,Y,100.0,N,TCPB
@@ -5624,6 +5628,7 @@ TGS,Transportadora de Gas del Sur SA TGS Common Stock,Transportadora de Gas del 
 TGT,Target Corporation Common Stock,Target Corporation Common Stock,N,TGT,N,100.0,N,TGT
 THC,Tenet Healthcare Corporation Common Stock,Tenet Healthcare Corporation Common Stock,N,THC,N,100.0,N,THC
 THD,iShares Inc iShares MSCI Thailand ETF,iShares Inc iShares MSCI Thailand ETF,P,THD,Y,100.0,N,THD
+THEQ,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Hedged Equity ETF",P,THEQ,Y,100.0,N,THEQ
 THG,Hanover Insurance Group Inc,Hanover Insurance Group Inc,N,THG,N,100.0,N,THG
 THIR,THOR Financial Technologies Trust THOR Index Rotation ETF,THOR Financial Technologies Trust THOR Index Rotation ETF,N,THIR,Y,100.0,N,THIR
 THLV,THOR Equal Weight Low Volatility ETF,THOR Equal Weight Low Volatility ETF,N,THLV,Y,100.0,N,THLV
@@ -6191,6 +6196,7 @@ WMS,"Advanced Drainage Systems, Inc. Common Stock","Advanced Drainage Systems, I
 WMT,Walmart Inc. Common Stock,Walmart Inc. Common Stock,N,WMT,N,100.0,N,WMT
 WNC,Wabash National Corporation Common Stock,Wabash National Corporation Common Stock,N,WNC,N,100.0,N,WNC
 WNS,WNS (Holdings) Limited Ordinary Shares,WNS (Holdings) Limited Ordinary Shares,N,WNS,N,100.0,N,WNS
+WNTR,Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF,Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF,P,WNTR,Y,100.0,N,WNTR
 WOLF,"Wolfspeed, Inc. Common Stock","Wolfspeed, Inc. Common Stock",N,WOLF,N,100.0,N,WOLF
 WOMN,Impact Shares Trust I ETF Impact Shares YWCA Womenas Empowerment ETF,Impact Shares Trust I ETF Impact Shares YWCA Womenas Empowerment ETF,P,WOMN,Y,100.0,N,WOMN
 WOR,"Worthington Enterprises, Inc. Common Shares","Worthington Enterprises, Inc. Common Shares",N,WOR,N,100.0,N,WOR
