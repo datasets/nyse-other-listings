@@ -299,7 +299,6 @@ ARI,"Apollo Commercial Real Estate Finance, Inc","Apollo Commercial Real Estate 
 ARIS,"Aris Water Solutions, Inc. Class A Common Stock","Aris Water Solutions, Inc. Class A Common Stock",N,ARIS,N,100.0,N,ARIS
 ARKA,EA Series Trust ARK 21Shares Active Bitcoin Futures Strategy ETF,EA Series Trust ARK 21Shares Active Bitcoin Futures Strategy ETF,Z,ARKA,Y,100.0,N,ARKA
 ARKB,ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests,ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests,Z,ARKB,Y,100.0,N,ARKB
-ARKC,EA Series Trust ARK 21Shares Active On,EA Series Trust ARK 21Shares Active On-Chain Bitcoin Strategy ETF,Z,ARKC,Y,100.0,N,ARKC
 ARKD,EA Series Trust ARK 21Shares Blockchain and Digital Economy Innovation ETF,EA Series Trust ARK 21Shares Blockchain and Digital Economy Innovation ETF,Z,ARKD,Y,100.0,N,ARKD
 ARKF,ARK Fintech Innovation ETF,ARK Fintech Innovation ETF,P,ARKF,Y,100.0,N,ARKF
 ARKG,ARK Genomic Revolution ETF,ARK Genomic Revolution ETF,Z,ARKG,Y,100.0,N,ARKG
@@ -307,7 +306,6 @@ ARKK,ARK Innovation ETF,ARK Innovation ETF,P,ARKK,Y,100.0,N,ARKK
 ARKQ,ARK Autonomous Technology & Robotics ETF,ARK Autonomous Technology & Robotics ETF,Z,ARKQ,Y,100.0,N,ARKQ
 ARKW,ARK Next Generation Internet ETF,ARK Next Generation Internet ETF,P,ARKW,Y,100.0,N,ARKW
 ARKX,ARK Space Exploration & Innovation ETF,ARK Space Exploration & Innovation ETF,Z,ARKX,Y,100.0,N,ARKX
-ARKY,EA Series Trust ARK 21Shares Active Bitcoin Ethereum Strategy ETF,EA Series Trust ARK 21Shares Active Bitcoin Ethereum Strategy ETF,Z,ARKY,Y,100.0,N,ARKY
 ARKZ,EA Series Trust ARK 21Shares Active Ethereum Futures Strategy ETF,EA Series Trust ARK 21Shares Active Ethereum Futures Strategy ETF,Z,ARKZ,Y,100.0,N,ARKZ
 ARL,"American Realty Investors, Inc. Common Stock","American Realty Investors, Inc. Common Stock",N,ARL,N,100.0,N,ARL
 ARLO,"Arlo Technologies, Inc. Common Stock","Arlo Technologies, Inc. Common Stock",N,ARLO,N,100.0,N,ARLO
@@ -948,6 +946,7 @@ CF,"CF Industries Holdings, Inc. Common Stock","CF Industries Holdings, Inc. Com
 CFG,"Citizens Financial Group, Inc. Common Stock","Citizens Financial Group, Inc. Common Stock",N,CFG,N,100.0,N,CFG
 CFG$E,"Citizens Financial Group, Inc. Depositary Shares Each Representing 1/40th Interest in a Share of 5.000% Fixed","Citizens Financial Group, Inc. Depositary Shares Each Representing 1/40th Interest in a Share of 5.000% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series E",N,CFGpE,N,100.0,N,CFG-E
 CFG$H,"Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed","Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series H",N,CFGpH,N,100.0,N,CFG-H
+CFIT,Cambria ETF Trust Cambria Fixed Income Trend ETF,Cambria ETF Trust Cambria Fixed Income Trend ETF,Z,CFIT,Y,100.0,N,CFIT
 CFR,"Cullen/Frost Bankers, Inc. Common Stock","Cullen/Frost Bankers, Inc. Common Stock",N,CFR,N,100.0,N,CFR
 CFR$B,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non","Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",N,CFRpB,N,100.0,N,CFR-B
 CGAU,Centerra Gold Inc. Common Shares,Centerra Gold Inc. Common Shares,N,CGAU,N,100.0,N,CGAU
@@ -3246,6 +3245,7 @@ JPSV,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active
 JPUS,JPMorgan Diversified Return U.S. Equity ETF,JPMorgan Diversified Return U.S. Equity ETF,P,JPUS,Y,100.0,N,JPUS
 JPXN,iShares JPX,iShares JPX-Nikkei 400 ETF,P,JPXN,Y,100.0,N,JPXN
 JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,N,JQC,N,100.0,N,JQC
+JQC.V,"Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights when issued","Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights when issued",N,JQCrw,N,100.0,N,JQC^#
 JQUA,JPMorgan U.S. Quality Factor ETF,JPMorgan U.S. Quality Factor ETF,P,JQUA,Y,100.0,N,JQUA
 JRE,Janus Henderson U.S. Real Estate ETF,Janus Henderson U.S. Real Estate ETF,P,JRE,Y,100.0,N,JRE
 JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,N,JRI,N,100.0,N,JRI
