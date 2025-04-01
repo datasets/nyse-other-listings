@@ -300,11 +300,11 @@ ARIS,"Aris Water Solutions, Inc. Class A Common Stock","Aris Water Solutions, In
 ARKA,EA Series Trust ARK 21Shares Active Bitcoin Futures Strategy ETF,EA Series Trust ARK 21Shares Active Bitcoin Futures Strategy ETF,Z,ARKA,Y,100.0,N,ARKA
 ARKB,ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests,ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests,Z,ARKB,Y,100.0,N,ARKB
 ARKD,EA Series Trust ARK 21Shares Blockchain and Digital Economy Innovation ETF,EA Series Trust ARK 21Shares Blockchain and Digital Economy Innovation ETF,Z,ARKD,Y,100.0,N,ARKD
-ARKF,ARK Fintech Innovation ETF,ARK Fintech Innovation ETF,P,ARKF,Y,100.0,N,ARKF
+ARKF,ARK Fintech Innovation ETF,ARK Fintech Innovation ETF,Z,ARKF,Y,100.0,N,ARKF
 ARKG,ARK Genomic Revolution ETF,ARK Genomic Revolution ETF,Z,ARKG,Y,100.0,N,ARKG
-ARKK,ARK Innovation ETF,ARK Innovation ETF,P,ARKK,Y,100.0,N,ARKK
+ARKK,ARK Innovation ETF,ARK Innovation ETF,Z,ARKK,Y,100.0,N,ARKK
 ARKQ,ARK Autonomous Technology & Robotics ETF,ARK Autonomous Technology & Robotics ETF,Z,ARKQ,Y,100.0,N,ARKQ
-ARKW,ARK Next Generation Internet ETF,ARK Next Generation Internet ETF,P,ARKW,Y,100.0,N,ARKW
+ARKW,ARK Next Generation Internet ETF,ARK Next Generation Internet ETF,Z,ARKW,Y,100.0,N,ARKW
 ARKX,ARK Space Exploration & Innovation ETF,ARK Space Exploration & Innovation ETF,Z,ARKX,Y,100.0,N,ARKX
 ARKZ,EA Series Trust ARK 21Shares Active Ethereum Futures Strategy ETF,EA Series Trust ARK 21Shares Active Ethereum Futures Strategy ETF,Z,ARKZ,Y,100.0,N,ARKZ
 ARL,"American Realty Investors, Inc. Common Stock","American Realty Investors, Inc. Common Stock",N,ARL,N,100.0,N,ARL
@@ -650,9 +650,9 @@ BJUN,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - June,Z
 BK,The Bank of New York Mellon Corporation Common Stock,The Bank of New York Mellon Corporation Common Stock,N,BK,N,100.0,N,BK
 BK$K,"The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock","The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",N,BKpK,N,100.0,N,BK-K
 BKAG,BNY Mellon Core Bond ETF,BNY Mellon Core Bond ETF,P,BKAG,Y,100.0,N,BKAG
+BKCG,BNY Mellon ETF Trust II BNY Mellon Concentrated Growth ETF,BNY Mellon ETF Trust II BNY Mellon Concentrated Growth ETF,P,BKCG,Y,100.0,N,BKCG
 BKCI,BNY Mellon ETF Trust BNY Mellon Concentrated International ETF,BNY Mellon ETF Trust BNY Mellon Concentrated International ETF,P,BKCI,Y,100.0,N,BKCI
 BKD,Brookdale Senior Living Inc. Common Stock,Brookdale Senior Living Inc. Common Stock,N,BKD,N,100.0,N,BKD
-BKDT,Brookdale Senior Living Inc. 7.00% Tangible Equity Units,Brookdale Senior Living Inc. 7.00% Tangible Equity Units,N,BKDT,N,100.0,N,BKDT
 BKDV,BNY Mellon ETF Trust II BNY Mellon Dynamic Value ETF,BNY Mellon ETF Trust II BNY Mellon Dynamic Value ETF,P,BKDV,Y,100.0,N,BKDV
 BKE,"Buckle, Inc. (The) Common Stock","Buckle, Inc. (The) Common Stock",N,BKE,N,100.0,N,BKE
 BKEM,BNY Mellon Emerging Markets Equity ETF,BNY Mellon Emerging Markets Equity ETF,P,BKEM,Y,100.0,N,BKEM
@@ -2848,7 +2848,7 @@ IBRN,iShares Trust iShares Neuroscience and Healthcare ETF,iShares Trust iShares
 IBTA,"Ibotta, Inc. Class A Common Stock","Ibotta, Inc. Class A Common Stock",N,IBTA,N,100.0,N,IBTA
 IBUF,SHL Telemedicine Ltd Innovator International Developed 10 Buffer ETF ,SHL Telemedicine Ltd Innovator International Developed 10 Buffer ETF - Quarterly,P,IBUF,Y,100.0,N,IBUF
 IBUY,Amplify ETF Trust Amplify Online Retail ETF,Amplify ETF Trust Amplify Online Retail ETF,P,IBUY,Y,100.0,N,IBUY
-ICAP,Series Portfolios Trust InfraCap Equity Income Fund ETF,Series Portfolios Trust InfraCap Equity Income Fund ETF,P,ICAP,Y,100.0,N,ICAP
+ICAP,Infrastructure Capital Equity Income ETF,Infrastructure Capital Equity Income ETF,P,ICAP,Y,100.0,N,ICAP
 ICE,Intercontinental Exchange Inc. Common Stock,Intercontinental Exchange Inc. Common Stock,N,ICE,N,100.0,N,ICE
 ICF,iShares Cohen & Steers REIT ETF,iShares Cohen & Steers REIT ETF,Z,ICF,Y,100.0,N,ICF
 ICL,ICL Group Ltd. Ordinary Shares,ICL Group Ltd. Ordinary Shares,N,ICL,N,100.0,N,ICL
@@ -4051,6 +4051,7 @@ NLY$G,Annaly Capital Management Inc 6.50% Series G Fixed,Annaly Capital Manageme
 NLY$I,Annaly Capital Management Inc 6.750% Series I Fixed,Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,NLYpI,N,100.0,N,NLY-I
 NMAI,Nuveen Multi,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,N,NMAI,N,100.0,N,NMAI
 NMAR,Innovator ETFs Trust Innovator Growth,Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - March,Z,NMAR,Y,100.0,N,NMAR
+NMAX,"Newsmax, Inc. Class B Common Stock","Newsmax, Inc. Class B Common Stock",N,NMAX,N,100.0,N,NMAX
 NMB,Simplify Exchange Traded Funds Simplify National Muni Bond ETF,Simplify Exchange Traded Funds Simplify National Muni Bond ETF,P,NMB,Y,100.0,N,NMB
 NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,Nuveen Municipal Credit Opportunities Fund Common Shares,N,NMCO,N,100.0,N,NMCO
 NMG,Nouveau Monde Graphite Inc. Common Shares,Nouveau Monde Graphite Inc. Common Shares,N,NMG,N,100.0,N,NMG
@@ -5046,7 +5047,7 @@ SBSW,D/B/A Sibanye,D/B/A Sibanye-Stillwater Limited ADS,N,SBSW,N,100.0,N,SBSW
 SBXD,SilverBox Corp IV Class A Ordinary Shares,SilverBox Corp IV Class A Ordinary Shares,N,SBXD,N,100.0,N,SBXD
 SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one","SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,SBXD.U,N,100.0,N,SBXD=
 SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50","SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",N,SBXD.WS,N,100.0,N,SBXD+
-SCAP,Series Portfolios Trust InfraCap Small Cap Income ETF,Series Portfolios Trust InfraCap Small Cap Income ETF,P,SCAP,Y,100.0,N,SCAP
+SCAP,Infrastructure Capital Small Cap Income ETF,Infrastructure Capital Small Cap Income ETF,P,SCAP,Y,100.0,N,SCAP
 SCC,ProShares UltraShort Consumer Discretionary,ProShares UltraShort Consumer Discretionary,P,SCC,Y,100.0,N,SCC
 SCCC,Sachem Capital Corp. 7.75% Notes due 2025,Sachem Capital Corp. 7.75% Notes due 2025,A,SCCC,N,100.0,N,SCCC
 SCCD,Sachem Capital Corp. 6.00% Notes due 2026,Sachem Capital Corp. 6.00% Notes due 2026,A,SCCD,N,100.0,N,SCCD
@@ -5185,7 +5186,6 @@ SHO,"Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares
 SHO$H,"Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock","Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock",N,SHOpH,N,100.0,N,SHO-H
 SHO$I,"Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable Preferred Stock","Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable Preferred Stock",N,SHOpI,N,100.0,N,SHO-I
 SHOC,EA Series Trust Strive U.S. Semiconductor ETF,EA Series Trust Strive U.S. Semiconductor ETF,N,SHOC,Y,100.0,N,SHOC
-SHOP,Shopify Inc. Class A Subordinate Voting Shares,Shopify Inc. Class A Subordinate Voting Shares,N,SHOP,N,100.0,N,SHOP
 SHPP,Pacer Funds Pacer Industrials and Logistics ETF,Pacer Funds Pacer Industrials and Logistics ETF,P,SHPP,Y,100.0,N,SHPP
 SHRT,Tidal ETF Trust Gotham Short Strategies ETF,Tidal ETF Trust Gotham Short Strategies ETF,P,SHRT,Y,100.0,N,SHRT
 SHUS,Exchange Listed Funds Trust Stratified LargeCap Hedged ETF,Exchange Listed Funds Trust Stratified LargeCap Hedged ETF,P,SHUS,Y,100.0,N,SHUS
