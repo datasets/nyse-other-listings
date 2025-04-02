@@ -1144,6 +1144,7 @@ CPNJ,Calamos ETF Trust Calamos Nasdaq ,Calamos ETF Trust Calamos Nasdaq - 100 St
 CPNM,Calamos ETF Trust Calamos Nasdaq,Calamos ETF Trust Calamos Nasdaq-100 Structured Alt Protection ETF - March,P,CPNM,Y,100.0,N,CPNM
 CPNQ,Calamos ETF Trust Calamos Nasdaq,Calamos ETF Trust Calamos Nasdaq-100 Structured Alt Protection ETF  December,P,CPNQ,Y,100.0,N,CPNQ
 CPNS,Calamos ETF Trust Calamos Nasdaq,Calamos ETF Trust Calamos Nasdaq-100 Structured Alt Protection ETF  September,P,CPNS,Y,100.0,N,CPNS
+CPRA,Calamos ETF Trust Calamos Russell 2000 Structured Alt Protection ETF ,Calamos ETF Trust Calamos Russell 2000 Structured Alt Protection ETF - April,P,CPRA,Y,100.0,N,CPRA
 CPRI,Capri Holdings Limited Ordinary Shares,Capri Holdings Limited Ordinary Shares,N,CPRI,N,100.0,N,CPRI
 CPRJ,Calamos ETF Trust Calamos Russell 2000 Structured Alt Protection ETF  July,Calamos ETF Trust Calamos Russell 2000 Structured Alt Protection ETF  July,P,CPRJ,Y,100.0,N,CPRJ
 CPRO,Calamos ETF Trust Calamos Russell 2000 Structured Alt Protection ETF ,Calamos ETF Trust Calamos Russell 2000 Structured Alt Protection ETF - October,P,CPRO,Y,100.0,N,CPRO
@@ -1157,6 +1158,7 @@ CPSL,Calamos ETF Trust Calamos Laddered S&P 500 Structured Alt Protection ETF,Ca
 CPSM,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  May,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  May,P,CPSM,Y,100.0,N,CPSM
 CPSN,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  November,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  November,P,CPSN,Y,100.0,N,CPSN
 CPSO,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF ,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF - October,P,CPSO,Y,100.0,N,CPSO
+CPSP,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF ,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF - April,P,CPSP,Y,100.0,N,CPSP
 CPSR,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF ,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF - March,P,CPSR,Y,100.0,N,CPSR
 CPST,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  September,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  September,P,CPST,Y,100.0,N,CPST
 CPSY,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  January,Calamos ETF Trust Calamos S&P 500 Structured Alt Protection ETF  January,P,CPSY,Y,100.0,N,CPSY
@@ -1507,6 +1509,7 @@ DSI,iShares ESG MSCI KLD 400 ETF,iShares ESG MSCI KLD 400 ETF,P,DSI,Y,100.0,N,DS
 DSL,DoubleLine Income Solutions Fund Common Shares of Beneficial Interests,DoubleLine Income Solutions Fund Common Shares of Beneficial Interests,N,DSL,N,100.0,N,DSL
 DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock","BNY Mellon Strategic Municipal Bond Fund, Inc. Common Stock",N,DSM,N,100.0,N,DSM
 DSMC,ETF Series Solutions Distillate Small/Mid Cash Flow ETF,ETF Series Solutions Distillate Small/Mid Cash Flow ETF,N,DSMC,Y,100.0,N,DSMC
+DSPY,Tema ETF Trust Tema S&P 500  Historical Weight ETF Strategy,Tema ETF Trust Tema S&P 500  Historical Weight ETF Strategy,P,DSPY,Y,100.0,N,DSPY
 DSS,"DSS, Inc. Common Stock","DSS, Inc. Common Stock",A,DSS,N,100.0,N,DSS
 DSTL,Distillate U.S. Fundamental Stability & Value ETF,Distillate U.S. Fundamental Stability & Value ETF,P,DSTL,Y,100.0,N,DSTL
 DSTX,Distillate International Fundamental Stability & Value ETF,Distillate International Fundamental Stability & Value ETF,N,DSTX,Y,100.0,N,DSTX
@@ -1944,7 +1947,6 @@ FBCG,Fidelity Blue Chip Growth ETF,Fidelity Blue Chip Growth ETF,Z,FBCG,Y,100.0,
 FBCV,Fidelity Blue Chip Value ETF,Fidelity Blue Chip Value ETF,Z,FBCV,Y,100.0,N,FBCV
 FBIN,"Fortune Brands Innovations, Inc. Common Stock","Fortune Brands Innovations, Inc. Common Stock",N,FBIN,N,100.0,N,FBIN
 FBK,FB Financial Corporation Common Stock,FB Financial Corporation Common Stock,N,FBK,N,100.0,N,FBK
-FBMS,"First Bancshares, Inc.","First Bancshares, Inc.",N,FBMS,N,100.0,N,FBMS
 FBND,Fidelity Total Bond ETF,Fidelity Total Bond ETF,P,FBND,Y,100.0,N,FBND
 FBP,First BanCorp. New Common Stock,First BanCorp. New Common Stock,N,FBP,N,100.0,N,FBP
 FBRT,"Franklin BSP Realty Trust, Inc. Common Stock","Franklin BSP Realty Trust, Inc. Common Stock",N,FBRT,N,100.0,N,FBRT
@@ -2037,7 +2039,7 @@ FFLC,Fidelity Fundamental Large Cap Core ETF,Fidelity Fundamental Large Cap Core
 FFLG,Fidelity Fundamental Large Cap Growth ETF,Fidelity Fundamental Large Cap Growth ETF,Z,FFLG,Y,100.0,N,FFLG
 FFLS,Northern Lights Fund Trust II The Future Fund Long/Short ETF,Northern Lights Fund Trust II The Future Fund Long/Short ETF,P,FFLS,Y,100.0,N,FFLS
 FFLV,Fidelity Covington Trust Fidelity Fundamental Large Cap Value ETF,Fidelity Covington Trust Fidelity Fundamental Large Cap Value ETF,Z,FFLV,Y,100.0,N,FFLV
-FFND,The Future Fund Active ETF,The Future Fund Active ETF,P,FFND,Y,100.0,N,FFND
+FFND,One Global ETF,One Global ETF,P,FFND,Y,100.0,N,FFND
 FFOG,Franklin Templeton ETF Trust Franklin Focused Growth ETF,Franklin Templeton ETF Trust Franklin Focused Growth ETF,Z,FFOG,Y,100.0,N,FFOG
 FFSM,Fidelity Fundamental Small,Fidelity Fundamental Small-Mid Cap ETF,Z,FFSM,Y,100.0,N,FFSM
 FFTY,Innovator IBD 50 ETF,Innovator IBD 50 ETF,P,FFTY,Y,100.0,N,FFTY
@@ -2943,6 +2945,7 @@ ILCV,iShares Morningstar Large,iShares Morningstar Large-Cap  Value ETF,P,ILCV,Y
 ILDR,First Trust Innovation Leaders ETF,First Trust Innovation Leaders ETF,P,ILDR,Y,100.0,N,ILDR
 ILF,iShares Latin America 40 ETF,iShares Latin America 40 ETF,P,ILF,Y,100.0,N,ILF
 ILOW,"AB Active ETFs, Inc. AB International Low Volatility Equity ETF","AB Active ETFs, Inc. AB International Low Volatility Equity ETF",P,ILOW,Y,100.0,N,ILOW
+ILS,ETF Opportunities Trust Brookmont Catastrophic Bond ETF,ETF Opportunities Trust Brookmont Catastrophic Bond ETF,P,ILS,Y,100.0,N,ILS
 ILTB,iShares Core 10  Year USD Bond ETF,iShares Core 10  Year USD Bond ETF,P,ILTB,Y,100.0,N,ILTB
 IMAR,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  March,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  March,P,IMAR,Y,100.0,N,IMAR
 IMAX,Imax Corporation Common Stock,Imax Corporation Common Stock,N,IMAX,N,100.0,N,IMAX
@@ -3783,6 +3786,7 @@ MLPX,Global X MLP & Energy Infrastructure ETF,Global X MLP & Energy Infrastructu
 MLR,"Miller Industries, Inc. Common Stock","Miller Industries, Inc. Common Stock",N,MLR,N,100.0,N,MLR
 MLSS,"Milestone Scientific, Inc. Common Stock","Milestone Scientific, Inc. Common Stock",A,MLSS,N,100.0,N,MLSS
 MMA,Mixed Martial Arts Group Limited Ordinary Shares,Mixed Martial Arts Group Limited Ordinary Shares,A,MMA,N,100.0,N,MMA
+MMAX,iShares Trust iShares Large Cap Max Buffer Mar ETF,iShares Trust iShares Large Cap Max Buffer Mar ETF,Z,MMAX,Y,100.0,N,MMAX
 MMC,"Marsh & McLennan Companies, Inc. Common Stock","Marsh & McLennan Companies, Inc. Common Stock",N,MMC,N,100.0,N,MMC
 MMCA,NYLI MacKay California Muni Intermediate ETF,NYLI MacKay California Muni Intermediate ETF,P,MMCA,Y,100.0,N,MMCA
 MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,N,MMD,N,100.0,N,MMD
@@ -4513,6 +4517,7 @@ PLTY,Tidal Trust II YieldMax PLTR Option Income Strategy ETF,Tidal Trust II Yiel
 PLX,"Protalix BioTherapeutics, Inc. (DE) Common Stock","Protalix BioTherapeutics, Inc. (DE) Common Stock",A,PLX,N,100.0,N,PLX
 PLYM,"Plymouth Industrial REIT, Inc. Common Stock","Plymouth Industrial REIT, Inc. Common Stock",N,PLYM,N,100.0,N,PLYM
 PM,Philip Morris International Inc Common Stock,Philip Morris International Inc Common Stock,N,PM,N,100.0,N,PM
+PMAP,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - April,Z,PMAP,Y,100.0,N,PMAP
 PMAR,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - March,Z,PMAR,Y,100.0,N,PMAR
 PMAY,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - May,Z,PMAY,Y,100.0,N,PMAY
 PMF,PIMCO Municipal Income Fund Common Stock,PIMCO Municipal Income Fund Common Stock,N,PMF,N,100.0,N,PMF
@@ -4836,6 +4841,7 @@ RFG,Invesco S&P Midcap 400 Pure Growth ETF,Invesco S&P Midcap 400 Pure Growth ET
 RFI,"Cohen & Steers Total Return Realty Fund, Inc. Common Stock","Cohen & Steers Total Return Realty Fund, Inc. Common Stock",N,RFI,N,100.0,N,RFI
 RFIX,Simplify Bond Bull ETF,Simplify Bond Bull ETF,P,RFIX,Y,100.0,N,RFIX
 RFL,"Rafael Holdings, Inc. Class B Common Stock","Rafael Holdings, Inc. Class B Common Stock",N,RFL,N,100.0,N,RFL
+RFL.W,"Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock","Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock",N,RFL.WS,N,100.0,N,RFL+
 RFLR,Innovator U.S. Small Cap Managed Floor ETF,Innovator U.S. Small Cap Managed Floor ETF,P,RFLR,Y,100.0,N,RFLR
 RFM,"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock","RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",N,RFM,N,100.0,N,RFM
 RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock","RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock",N,RFMZ,N,100.0,N,RFMZ
@@ -5418,7 +5424,6 @@ SQEW,LeaderShares Equity Skew ETF,LeaderShares Equity Skew ETF,P,SQEW,Y,100.0,N,
 SQM,Sociedad Quimica y Minera S.A. Common Stock,Sociedad Quimica y Minera S.A. Common Stock,N,SQM,N,100.0,N,SQM
 SQMX,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Quarterly Max Buffer ETF,Z,SQMX,Y,100.0,N,SQMX
 SQNS,Sequans Communications S.A. American Depositary Shares (each representing ten (10) Ordinary Shares),Sequans Communications S.A. American Depositary Shares (each representing ten (10) Ordinary Shares),N,SQNS,N,100.0,N,SQNS
-SQY,Tidal Trust II YieldMax SQ Option Income Strategy ETF,Tidal Trust II YieldMax SQ Option Income Strategy ETF,P,SQY,Y,100.0,N,SQY
 SR,Spire Inc. Common Stock,Spire Inc. Common Stock,N,SR,N,100.0,N,SR
 SR$A,"Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock","Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock",N,SRpA,N,100.0,N,SR-A
 SRE,DBA Sempra Common Stock,DBA Sempra Common Stock,N,SRE,N,100.0,N,SRE
@@ -5544,6 +5549,7 @@ TALO,"Talos Energy, Inc. Common Stock","Talos Energy, Inc. Common Stock",N,TALO,
 TAN,Invesco Solar ETF,Invesco Solar ETF,P,TAN,Y,100.0,N,TAN
 TAP,Molson Coors Beverage Company Class B Common Stock,Molson Coors Beverage Company Class B Common Stock,N,TAP,N,100.0,N,TAP
 TAP.A,Molson Coors Beverage Company Class A Common Stock,Molson Coors Beverage Company Class A Common Stock,N,TAP.A,N,100.0,N,TAP.A
+TAPR,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 2 Yr to April 2027,Z,TAPR,Y,100.0,N,TAPR
 TAXF,American Century Diversified Municipal Bond ETF,American Century Diversified Municipal Bond ETF,P,TAXF,Y,100.0,N,TAXF
 TAXM,BondBloxx ETF Trust BondBloxx IR+M Tax,BondBloxx ETF Trust BondBloxx IR+M Tax-Aware ETF for Massachusetts Residents,P,TAXM,Y,100.0,N,TAXM
 TAXX,BondBloxx ETF Trust BondBloxx IR+M Tax,BondBloxx ETF Trust BondBloxx IR+M Tax-Aware Short Duration ETF,P,TAXX,Y,100.0,N,TAXX
@@ -6369,6 +6375,7 @@ XYL,Xylem Inc. Common Stock New,Xylem Inc. Common Stock New,N,XYL,N,100.0,N,XYL
 XYLD,Global X Funds Global X S&P 500 Covered Call ETF,Global X Funds Global X S&P 500 Covered Call ETF,P,XYLD,Y,100.0,N,XYLD
 XYLG,Global X S&P 500 Covered Call & Growth ETF,Global X S&P 500 Covered Call & Growth ETF,P,XYLG,Y,100.0,N,XYLG
 XYZ,"Block, Inc. Class A Common Stock,","Block, Inc. Class A Common Stock,",N,XYZ,N,100.0,N,XYZ
+XYZY,Tidal Trust II YieldMax XYZ Option Income Strategy ETF,Tidal Trust II YieldMax XYZ Option Income Strategy ETF,P,XYZY,Y,100.0,N,XYZY
 YALA,"Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share","Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share",N,YALA,N,100.0,N,YALA
 YALL,Tidal ETF Trust God Bless America ETF,Tidal ETF Trust God Bless America ETF,P,YALL,Y,100.0,N,YALL
 YANG,Direxion Daily FTSE China Bear 3x Shares,Direxion Daily FTSE China Bear 3x Shares,P,YANG,Y,100.0,N,YANG
@@ -6405,6 +6412,7 @@ YUMC,"Yum China Holdings, Inc. Common Stock","Yum China Holdings, Inc. Common St
 YXI,ProShares Short FTSE China 50,ProShares Short FTSE China 50,P,YXI,Y,100.0,N,YXI
 YYY,Amplify High Income ETF,Amplify High Income ETF,P,YYY,Y,100.0,N,YYY
 ZALT,Innovator ETFs Trust Innovator U.S. Equity 10 Buffer ETF ,Innovator ETFs Trust Innovator U.S. Equity 10 Buffer ETF - Quarterly,Z,ZALT,Y,100.0,N,ZALT
+ZAPR,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr April,Z,ZAPR,Y,100.0,N,ZAPR
 ZAUG,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr August,Z,ZAUG,Y,100.0,N,ZAUG
 ZBH,"Zimmer Biomet Holdings, Inc. Common Stock","Zimmer Biomet Holdings, Inc. Common Stock",N,ZBH,N,100.0,N,ZBH
 ZDEK,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr December,Z,ZDEK,Y,100.0,N,ZDEK
