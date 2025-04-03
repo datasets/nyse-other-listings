@@ -267,11 +267,9 @@ APO,"Apollo Global Management, Inc. (New) Common Stock","Apollo Global Managemen
 APO$A,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock","Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",N,APOpA,N,100.0,N,APO-A
 APOC,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 6mo Apr/Oct,Z,APOC,Y,100.0,N,APOC
 APOS,"Apollo Global Management, Inc. 7.625% Fixed","Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",N,APOS,N,100.0,N,APOS
-APRD,Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF - April,Z,APRD,Y,100.0,N,APRD
 APRH,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - April,Z,APRH,Y,100.0,N,APRH
 APRJ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - April,Z,APRJ,Y,100.0,N,APRJ
 APRP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - April,Z,APRP,Y,100.0,N,APRP
-APRQ,Innovator ETFs Trust Innovator Premium Income 40 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 40 Barrier ETF - April,Z,APRQ,Y,100.0,N,APRQ
 APRT,AllianzIM U.S. Large Cap Buffer10 Apr ETF,AllianzIM U.S. Large Cap Buffer10 Apr ETF,P,APRT,Y,100.0,N,APRT
 APRW,AllianzIM U.S. Large Cap Buffer20 Apr ETF,AllianzIM U.S. Large Cap Buffer20 Apr ETF,P,APRW,Y,100.0,N,APRW
 APRZ,Trust TrueShares Structured Outcome (April) ETF,Trust TrueShares Structured Outcome (April) ETF,Z,APRZ,Y,100.0,N,APRZ
@@ -741,6 +739,7 @@ BOXX,EA Series Trust Alpha Architect 1,EA Series Trust Alpha Architect 1-3 Month
 BP,BP p.l.c. Common Stock,BP p.l.c. Common Stock,N,BP,N,100.0,N,BP
 BPAY,iShares FinTech Active ETF,iShares FinTech Active ETF,P,BPAY,Y,100.0,N,BPAY
 BPH,Precidian ETFs Trust BP plc ADRhedged,Precidian ETFs Trust BP plc ADRhedged,Z,BPH,Y,100.0,N,BPH
+BPI,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,P,BPI,Y,100.0,N,BPI
 BPT,BP Prudhoe Bay Royalty Trust Common Stock,BP Prudhoe Bay Royalty Trust Common Stock,N,BPT,N,100.0,N,BPT
 BQ,Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares),Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares),A,BQ,N,100.0,N,BQ
 BR,"Broadridge Financial Solutions, Inc. Common Stock","Broadridge Financial Solutions, Inc. Common Stock",N,BR,N,100.0,N,BR
@@ -780,6 +779,7 @@ BSX,Boston Scientific Corporation Common Stock,Boston Scientific Corporation Com
 BTA,BlackRock Long,BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest,N,BTA,N,100.0,N,BTA
 BTAL,AGF U.S. Market Neutral Anti,AGF U.S. Market Neutral Anti-Beta Fund,P,BTAL,Y,100.0,N,BTAL
 BTC,Grayscale Bitcoin Mini Trust (BTC) Common units of fractional undivided beneficial interest,Grayscale Bitcoin Mini Trust (BTC) Common units of fractional undivided beneficial interest,P,BTC,Y,100.0,N,BTC
+BTCC,Grayscale Funds Trust Grayscale Bitcoin Covered Call ETF,Grayscale Funds Trust Grayscale Bitcoin Covered Call ETF,P,BTCC,Y,100.0,N,BTCC
 BTCI,NEOS ETF Trust NEOS Bitcoin High Income ETF,NEOS ETF Trust NEOS Bitcoin High Income ETF,Z,BTCI,Y,100.0,N,BTCI
 BTCL,T,T-Rex 2X Long Bitcoin Daily Target ETF,Z,BTCL,Y,100.0,N,BTCL
 BTCM,BIT Mining Limited ADS,BIT Mining Limited ADS,N,BTCM,N,100.0,N,BTCM
@@ -1455,7 +1455,6 @@ DLR$L,"Digital Realty Trust, Inc. 5.200% Series L Cumulative Redeemable Preferre
 DLS,WisdomTree International SmallCap Fund,WisdomTree International SmallCap Fund,P,DLS,Y,100.0,N,DLS
 DLX,Deluxe Corporation Common Stock,Deluxe Corporation Common Stock,N,DLX,N,100.0,N,DLX
 DLY,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest,N,DLY,N,100.0,N,DLY
-DM,"Desktop Metal, Inc. Class A Common Stock","Desktop Metal, Inc. Class A Common Stock",N,DM,N,100.0,N,DM
 DMA,Destra Multi,Destra Multi-Alternative Fund Common Stock,N,DMA,N,100.0,N,DMA
 DMAR,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - March,Z,DMAR,Y,100.0,N,DMAR
 DMAX,iShares Trust iShares Large Cap Max Buffer Dec ETF,iShares Trust iShares Large Cap Max Buffer Dec ETF,Z,DMAX,Y,100.0,N,DMAX
@@ -2603,7 +2602,6 @@ HAIL,SPDR S&P Kensho Smart Mobility ETF,SPDR S&P Kensho Smart Mobility ETF,P,HAI
 HAL,Halliburton Company Common Stock,Halliburton Company Common Stock,N,HAL,N,100.0,N,HAL
 HAP,VanEck Natural Resources ETF,VanEck Natural Resources ETF,P,HAP,Y,100.0,N,HAP
 HAPI,Harbor Human Capital Factor US Large Cap ETF,Harbor Human Capital Factor US Large Cap ETF,P,HAPI,Y,100.0,N,HAPI
-HAPR,SHL Telemedicine Ltd Innovator Premium Income 9 Buffer ETF ,SHL Telemedicine Ltd Innovator Premium Income 9 Buffer ETF - April,Z,HAPR,Y,100.0,N,HAPR
 HAPS,Harbor Human Capital Factor US Small Cap ETF,Harbor Human Capital Factor US Small Cap ETF,P,HAPS,Y,100.0,N,HAPS
 HAPY,Harbor Human Capital Factor Unconstrained ETF,Harbor Human Capital Factor Unconstrained ETF,P,HAPY,Y,100.0,N,HAPY
 HARD,Simplify Exchange Traded Funds Simplify Commodities Strategy No K,Simplify Exchange Traded Funds Simplify Commodities Strategy No K-1 ETF,P,HARD,Y,100.0,N,HARD
@@ -2855,6 +2853,7 @@ ICE,Intercontinental Exchange Inc. Common Stock,Intercontinental Exchange Inc. C
 ICF,iShares Cohen & Steers REIT ETF,iShares Cohen & Steers REIT ETF,Z,ICF,Y,100.0,N,ICF
 ICL,ICL Group Ltd. Ordinary Shares,ICL Group Ltd. Ordinary Shares,N,ICL,N,100.0,N,ICL
 ICLO,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco AAA CLO Floating Rate Note ETF,Z,ICLO,Y,100.0,N,ICLO
+ICOI,Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF,Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF,P,ICOI,Y,100.0,N,ICOI
 ICOW,Pacer Developed Markets International Cash Cows 100 ETF,Pacer Developed Markets International Cash Cows 100 ETF,Z,ICOW,Y,100.0,N,ICOW
 ICR$A,"InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock","InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock",N,ICRpA,N,100.0,N,ICR-A
 ICSH,iShares Ultra Short,iShares Ultra Short-Term Bond Active ETF,Z,ICSH,Y,100.0,N,ICSH
@@ -2955,6 +2954,8 @@ IMCG,iShares Morningstar Mid,iShares Morningstar Mid-Cap Growth ETF,P,IMCG,Y,100
 IMF,Invesco Managed Futures Strategy ETF Invesco Managed Futures Strategy ETF,Invesco Managed Futures Strategy ETF Invesco Managed Futures Strategy ETF,Z,IMF,Y,100.0,N,IMF
 IMFL,Invesco International Developed Dynamic Multifactor ETF,Invesco International Developed Dynamic Multifactor ETF,Z,IMFL,Y,100.0,N,IMFL
 IMO,Imperial Oil Limited Common Stock,Imperial Oil Limited Common Stock,A,IMO,N,100.0,N,IMO
+IMRA,Bitwise Funds Trust Bitwise MARA Option Income Strategy ETF,Bitwise Funds Trust Bitwise MARA Option Income Strategy ETF,P,IMRA,Y,100.0,N,IMRA
+IMST,Bitwise Funds Trust Bitwise MSTR Option Income Strategy ETF,Bitwise Funds Trust Bitwise MSTR Option Income Strategy ETF,P,IMST,Y,100.0,N,IMST
 IMTB,iShares Core 5,iShares Core 5-10 Year USD Bond ETF,P,IMTB,Y,100.0,N,IMTB
 IMTM,iShares MSCI Intl Momentum Factor ETF,iShares MSCI Intl Momentum Factor ETF,P,IMTM,Y,100.0,N,IMTM
 INCE,Franklin Income Equity Focus ETF,Franklin Income Equity Focus ETF,P,INCE,Y,100.0,N,INCE
@@ -3248,7 +3249,7 @@ JPSV,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active
 JPUS,JPMorgan Diversified Return U.S. Equity ETF,JPMorgan Diversified Return U.S. Equity ETF,P,JPUS,Y,100.0,N,JPUS
 JPXN,iShares JPX,iShares JPX-Nikkei 400 ETF,P,JPXN,Y,100.0,N,JPXN
 JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,N,JQC,N,100.0,N,JQC
-JQC.V,"Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights when issued","Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights when issued",N,JQCrw,N,100.0,N,JQC^#
+JQC.R,"Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights","Nuveen Credit Strategies Income Fund Rights (expiring April 29, 2025) Rights",N,JQCr,N,100.0,N,JQC^
 JQUA,JPMorgan U.S. Quality Factor ETF,JPMorgan U.S. Quality Factor ETF,P,JQUA,Y,100.0,N,JQUA
 JRE,Janus Henderson U.S. Real Estate ETF,Janus Henderson U.S. Real Estate ETF,P,JRE,Y,100.0,N,JRE
 JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,N,JRI,N,100.0,N,JRI
@@ -3381,7 +3382,6 @@ KORE,"KORE Group Holdings, Inc. Common Stock","KORE Group Holdings, Inc. Common 
 KORP,American Century Diversified Corporate Bond ETF,American Century Diversified Corporate Bond ETF,P,KORP,Y,100.0,N,KORP
 KORU,Direxion Daily South Korea Bull 3X Shares,Direxion Daily South Korea Bull 3X Shares,P,KORU,Y,100.0,N,KORU
 KOS,Kosmos Energy Ltd. Common Shares (DE),Kosmos Energy Ltd. Common Shares (DE),N,KOS,N,100.0,N,KOS
-KPOP,JAKOTA K,JAKOTA K-Pop and Korean Entertainment ETF,P,KPOP,Y,100.0,N,KPOP
 KPRO,KraneShares 100% KWEB Defined Outcome January 2027 ETF,KraneShares 100% KWEB Defined Outcome January 2027 ETF,P,KPRO,Y,100.0,N,KPRO
 KR,Kroger Company (The) Common Stock,Kroger Company (The) Common Stock,N,KR,N,100.0,N,KR
 KRBN,KraneShares Global Carbon Strategy ETF,KraneShares Global Carbon Strategy ETF,P,KRBN,Y,100.0,N,KRBN
@@ -5260,6 +5260,7 @@ SLX,VanEck Steel ETF,VanEck Steel ETF,P,SLX,Y,100.0,N,SLX
 SLYG,SPDR S&P 600 Small Cap Growth ETF (based on S&P SmallCap 600 Growth Index ,SPDR S&P 600 Small Cap Growth ETF (based on S&P SmallCap 600 Growth Index --symbol CGK),P,SLYG,Y,100.0,N,SLYG
 SLYV,SPDR S&P 600 Small Cap Value ETF (based on S&P SmallCap Value Index,SPDR S&P 600 Small Cap Value ETF (based on S&P SmallCap Value Index--symbol--CVK,P,SLYV,Y,100.0,N,SLYV
 SM,SM Energy Company Common Stock,SM Energy Company Common Stock,N,SM,N,100.0,N,SM
+SMA,"SmartStop Self Storage REIT, Inc. Common Stock","SmartStop Self Storage REIT, Inc. Common Stock",N,SMA,N,100.0,N,SMA
 SMAP,Amplify ETF Trust Amplify Small,Amplify ETF Trust Amplify Small-Mid Cap Equity ETF,P,SMAP,Y,100.0,N,SMAP
 SMAX,iShares Trust iShares Large Cap Max Buffer Sep ETF,iShares Trust iShares Large Cap Max Buffer Sep ETF,Z,SMAX,Y,100.0,N,SMAX
 SMAY,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - May,Z,SMAY,Y,100.0,N,SMAY
@@ -5328,6 +5329,7 @@ SON,Sonoco Products Company Common Stock,Sonoco Products Company Common Stock,N,
 SONY,Sony Group Corporation American Depositary Shares ,Sony Group Corporation American Depositary Shares ,N,SONY,N,100.0,N,SONY
 SOR,"Source Capital, Inc. Cmn Shs of BI","Source Capital, Inc. Cmn Shs of BI",N,SOR,N,100.0,N,SOR
 SOS,"SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares","SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares",N,SOS,N,100.0,N,SOS
+SOUL.U,"Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right","Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",N,SOUL.U,N,100.0,N,SOUL=
 SOVF,Elevation Series Trust Sovereign's Capital Flourish Fund,Elevation Series Trust Sovereign's Capital Flourish Fund,P,SOVF,Y,100.0,N,SOVF
 SOXL,Direxion Daily Semiconductor Bull 3x Shares,Direxion Daily Semiconductor Bull 3x Shares,P,SOXL,Y,100.0,N,SOXL
 SOXS,Direxion Daily Semiconductor Bear 3x Shares,Direxion Daily Semiconductor Bear 3x Shares,P,SOXS,Y,100.0,N,SOXS
@@ -6260,7 +6262,6 @@ XCCC,BondBloxx ETF Trust BondBloxx CCC,BondBloxx ETF Trust BondBloxx CCC-Rated U
 XCEM,Columbia EM Core ex,Columbia EM Core ex-China ETF,P,XCEM,Y,100.0,N,XCEM
 XCLR,Global X Funds Global X S&P 500 Collar 95,Global X Funds Global X S&P 500 Collar 95-110 ETF,P,XCLR,Y,100.0,N,XCLR
 XCOR,FundX Investment Trust FundX ETF,FundX Investment Trust FundX ETF,P,XCOR,Y,100.0,N,XCOR
-XDAP,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - April,Z,XDAP,Y,100.0,N,XDAP
 XDAT,Franklin Exponential Data ETF,Franklin Exponential Data ETF,Z,XDAT,Y,100.0,N,XDAT
 XDEC,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December,Z,XDEC,Y,100.0,N,XDEC
 XDJL,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - July,Z,XDJL,Y,100.0,N,XDJL
