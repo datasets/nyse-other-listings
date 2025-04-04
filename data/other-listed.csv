@@ -992,6 +992,7 @@ CHMI$A,Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Red
 CHMI$B,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,CHMIpB,N,100.0,N,CHMI-B
 CHN,"China Fund, Inc. (The) Common Stock","China Fund, Inc. (The) Common Stock",N,CHN,N,100.0,N,CHN
 CHPT,"ChargePoint Holdings, Inc. Common Stock","ChargePoint Holdings, Inc. Common Stock",N,CHPT,N,100.0,N,CHPT
+CHPY,Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF,Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF,P,CHPY,Y,100.0,N,CHPY
 CHRO,Channel Therapeutics Corporation Common Stock,Channel Therapeutics Corporation Common Stock,A,CHRO,N,100.0,N,CHRO
 CHT,"Chunghwa Telecom Co., Ltd.","Chunghwa Telecom Co., Ltd.",N,CHT,N,100.0,N,CHT
 CHWY,"Chewy, Inc. Class A Common Stock","Chewy, Inc. Class A Common Stock",N,CHWY,N,100.0,N,CHWY
@@ -1370,6 +1371,7 @@ DFEV,Dimensional ETF Trust Dimensional Emerging Markets Value ETF,Dimensional ET
 DFGR,Dimensional ETF Trust Dimensional Global Real Estate ETF,Dimensional ETF Trust Dimensional Global Real Estate ETF,P,DFGR,Y,100.0,N,DFGR
 DFH,"Dream Finders Homes, Inc. Class A Common Stock","Dream Finders Homes, Inc. Class A Common Stock",N,DFH,N,100.0,N,DFH
 DFIC,Dimensional ETF Trust Dimensional International Core Equity 2 ETF,Dimensional ETF Trust Dimensional International Core Equity 2 ETF,Z,DFIC,Y,100.0,N,DFIC
+DFII,First Trust Exchange,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy & Target Income ETF,P,DFII,Y,100.0,N,DFII
 DFIN,"Donnelley Financial Solutions, Inc. Common Stock ","Donnelley Financial Solutions, Inc. Common Stock ",N,DFIN,N,100.0,N,DFIN
 DFIP,Dimensional ETF Trust Dimensional Inflation,Dimensional ETF Trust Dimensional Inflation-Protected Securities ETF,P,DFIP,Y,100.0,N,DFIP
 DFIS,Dimensional ETF Trust Dimensional International Small Cap ETF,Dimensional ETF Trust Dimensional International Small Cap ETF,Z,DFIS,Y,100.0,N,DFIS
@@ -4167,7 +4169,6 @@ NVOH,Precidian ETFs Trust Novo Nordisk A/S B Shares ADRhedged,Precidian ETFs Tru
 NVOX,Tidal Trust II Defiance Daily Target 2X Long NVO ETF,Tidal Trust II Defiance Daily Target 2X Long NVO ETF,P,NVOX,Y,100.0,N,NVOX
 NVR,"NVR, Inc. Common Stock","NVR, Inc. Common Stock",N,NVR,N,10.0,N,NVR
 NVRI,Enviri Corporation Common Stock,Enviri Corporation Common Stock,N,NVRI,N,100.0,N,NVRI
-NVRO,Nevro Corp. Common Stock,Nevro Corp. Common Stock,N,NVRO,N,100.0,N,NVRO
 NVS,Novartis AG Common Stock,Novartis AG Common Stock,N,NVS,N,100.0,N,NVS
 NVST,Envista Holdings Corporation Common Stock,Envista Holdings Corporation Common Stock,N,NVST,N,100.0,N,NVST
 NVT,nVent Electric plc Ordinary Shares ,nVent Electric plc Ordinary Shares ,N,NVT,N,100.0,N,NVT
@@ -5417,6 +5418,7 @@ SPY,SPDR S&P 500,SPDR S&P 500,P,SPY,Y,100.0,N,SPY
 SPYC,Simplify Exchange Traded Funds Simplify US Equity PLUS Convexity ETF,Simplify Exchange Traded Funds Simplify US Equity PLUS Convexity ETF,P,SPYC,Y,100.0,N,SPYC
 SPYD,SPDR Series Trust SPDR Portfolio S&P 500 High Dividend ETF,SPDR Series Trust SPDR Portfolio S&P 500 High Dividend ETF,P,SPYD,Y,100.0,N,SPYD
 SPYG,SPDR Series Trust SPDR Portfolio S&P 500 Growth ETF,SPDR Series Trust SPDR Portfolio S&P 500 Growth ETF,P,SPYG,Y,100.0,N,SPYG
+SPYH,NEOS ETF Trust NEOS S&P 500 Hedged Equity Income ETF,NEOS ETF Trust NEOS S&P 500 Hedged Equity Income ETF,Z,SPYH,Y,100.0,N,SPYH
 SPYI,NEOS S&P 500 High Income ETF,NEOS S&P 500 High Income ETF,Z,SPYI,Y,100.0,N,SPYI
 SPYT,Tidal Trust II Defiance S&P 500 Target Income ETF,Tidal Trust II Defiance S&P 500 Target Income ETF,P,SPYT,Y,100.0,N,SPYT
 SPYU,"Bank Of Montreal MAX S&P 500 4X Leveraged ETNs due October 30, 2043","Bank Of Montreal MAX S&P 500 4X Leveraged ETNs due October 30, 2043",P,SPYU,Y,100.0,N,SPYU
@@ -5518,7 +5520,7 @@ SWAN,Amplify ETF Trust Amplify BlackSwan Growth & Treasury Core ETF,Amplify ETF 
 SWI,SolarWinds Corporation Common Stock,SolarWinds Corporation Common Stock,N,SWI,N,100.0,N,SWI
 SWK,"Stanley Black & Decker, Inc. Common Stock","Stanley Black & Decker, Inc. Common Stock",N,SWK,N,100.0,N,SWK
 SWX,"Southwest Gas Holdings, Inc. Common Stock (DE)","Southwest Gas Holdings, Inc. Common Stock (DE)",N,SWX,N,100.0,N,SWX
-SWZ,"Swiss Helvetia Fund, Inc. (The) Common Stock","Swiss Helvetia Fund, Inc. (The) Common Stock",N,SWZ,N,100.0,N,SWZ
+SWZ,Total Return Securities Fund Common Stock,Total Return Securities Fund Common Stock,N,SWZ,N,100.0,N,SWZ
 SXC,"SunCoke Energy, Inc. Common Stock","SunCoke Energy, Inc. Common Stock",N,SXC,N,100.0,N,SXC
 SXI,Standex International Corporation Common Stock,Standex International Corporation Common Stock,N,SXI,N,100.0,N,SXI
 SXQG,ETC 6 Meridian Quality Growth ETF,ETC 6 Meridian Quality Growth ETF,P,SXQG,Y,100.0,N,SXQG
@@ -6086,6 +6088,7 @@ VRP,Invesco Variable Rate Preferred ETF,Invesco Variable Rate Preferred ETF,P,VR
 VRT,"Vertiv Holdings, LLC Class A Common Stock","Vertiv Holdings, LLC Class A Common Stock",N,VRT,N,100.0,N,VRT
 VRTS,"Virtus Investment Partners, Inc. Common Stock","Virtus Investment Partners, Inc. Common Stock",N,VRTS,N,100.0,N,VRTS
 VSCO,Victorias Secret & Co. Common Stock ,Victorias Secret & Co. Common Stock ,N,VSCO,N,100.0,N,VSCO
+VSDB,Vanguard Malvern Funds Vanguard Short Duration Bond ETF,Vanguard Malvern Funds Vanguard Short Duration Bond ETF,Z,VSDB,Y,100.0,N,VSDB
 VSDM,Vanguard Tax,Vanguard Tax-Managed Funds Vanguard Short Duration Tax-Exempt Bond ETF,Z,VSDM,Y,100.0,N,VSDM
 VSGX,Vanguard ESG International Stock ETF,Vanguard ESG International Stock ETF,Z,VSGX,Y,100.0,N,VSGX
 VSH,"Vishay Intertechnology, Inc. Common Stock","Vishay Intertechnology, Inc. Common Stock",N,VSH,N,100.0,N,VSH
