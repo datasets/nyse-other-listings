@@ -571,6 +571,7 @@ BETZ,Roundhill Sports Betting & iGaming ETF,Roundhill Sports Betting & iGaming E
 BF.A,Brown Forman Inc Class A Common Stock,Brown Forman Inc Class A Common Stock,N,BF.A,N,100.0,N,BF.A
 BF.B,Brown Forman Inc Class B Common Stock,Brown Forman Inc Class B Common Stock,N,BF.B,N,100.0,N,BF.B
 BFAM,Bright Horizons Family Solutions Inc. Common Stock,Bright Horizons Family Solutions Inc. Common Stock,N,BFAM,N,100.0,N,BFAM
+BFAP,First Trust Exchange,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy Floor15 ETF   April,P,BFAP,Y,100.0,N,BFAP
 BFEB,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - February,Z,BFEB,Y,100.0,N,BFEB
 BFH,"Bread Financial Holdings, Inc. Common Stock","Bread Financial Holdings, Inc. Common Stock",N,BFH,N,100.0,N,BFH
 BFIX,Build Funds Trust Build Bond Innovation ETF,Build Funds Trust Build Bond Innovation ETF,P,BFIX,Y,100.0,N,BFIX
@@ -1667,7 +1668,6 @@ EFIX,First Trust Exchange,First Trust Exchange-Traded Fund VIII First Trust TCW 
 EFNL,iShares Inc iShares MSCI Finland ETF,iShares Inc iShares MSCI Finland ETF,Z,EFNL,Y,100.0,N,EFNL
 EFO,ProShares Ultra MSCI EAFE,ProShares Ultra MSCI EAFE,P,EFO,Y,100.0,N,EFO
 EFR,Eaton Vance Senior Floating,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,N,EFR,N,100.0,N,EFR
-EFSH,1847 Holdings LLC Common Shares,1847 Holdings LLC Common Shares,A,EFSH,N,100.0,N,EFSH
 EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,N,EFT,N,100.0,N,EFT
 EFU,ProShares UltraShort MSCI EAFE,ProShares UltraShort MSCI EAFE,P,EFU,Y,100.0,N,EFU
 EFV,iShares MSCI EAFE Value ETF,iShares MSCI EAFE Value ETF,Z,EFV,Y,100.0,N,EFV
@@ -3561,6 +3561,7 @@ LOWV,"AB Active ETFs, Inc. AB US Low Volatility Equity ETF","AB Active ETFs, Inc
 LPA,Logistic Properties of the Americas Ordinary Shares,Logistic Properties of the Americas Ordinary Shares,A,LPA,N,100.0,N,LPA
 LPG,Dorian LPG Ltd. Common Stock,Dorian LPG Ltd. Common Stock,N,LPG,N,100.0,N,LPG
 LPL,"LG Display Co, Ltd AMERICAN DEPOSITORY SHARES","LG Display Co, Ltd AMERICAN DEPOSITORY SHARES",N,LPL,N,100.0,N,LPL
+LPRE,Exchange Listed Funds Trust Long Pond Real Estate Select ETF,Exchange Listed Funds Trust Long Pond Real Estate Select ETF,P,LPRE,Y,100.0,N,LPRE
 LPX,Louisiana,Louisiana-Pacific Corporation Common Stock,N,LPX,N,100.0,N,LPX
 LQAI,Exchange Listed Funds Trust LG QRAFT AI,Exchange Listed Funds Trust LG QRAFT AI-Powered U.S. Large Cap Core ETF,P,LQAI,Y,100.0,N,LQAI
 LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,iShares iBoxx $ Investment Grade Corporate Bond ETF,P,LQD,Y,100.0,N,LQD
@@ -4661,7 +4662,6 @@ PULT,Putnam ETF Trust Putnam ESG Ultra Short ETF,Putnam ETF Trust Putnam ESG Ult
 PUMP,ProPetro Holding Corp. Common Stock,ProPetro Holding Corp. Common Stock,N,PUMP,N,100.0,N,PUMP
 PUSH,PGIM ETF Trust PGIM Ultra Short Municipal Bond ETF,PGIM ETF Trust PGIM Ultra Short Municipal Bond ETF,P,PUSH,Y,100.0,N,PUSH
 PUTD,Cboe Validus S&P 500 Dynamic PutWrite Index ETF,Cboe Validus S&P 500 Dynamic PutWrite Index ETF,Z,PUTD,Y,100.0,N,PUTD
-PUTW,WisdomTree PutWrite Strategy Fund,WisdomTree PutWrite Strategy Fund,P,PUTW,Y,100.0,N,PUTW
 PVAL,Putnam Focused Large Cap Value ETF,Putnam Focused Large Cap Value ETF,P,PVAL,Y,100.0,N,PVAL
 PVH,PVH Corp. Common Stock,PVH Corp. Common Stock,N,PVH,N,100.0,N,PVH
 PVI,Invesco Floating Rate Municipal Income ETF,Invesco Floating Rate Municipal Income ETF,P,PVI,Y,100.0,N,PVI
@@ -6235,6 +6235,7 @@ WTID,Bank Of Montreal MicroSectors Energy 3X Inverse Leveraged ETNs,Bank Of Mont
 WTIU,Bank Of Montreal MicroSectors Energy 3X Leveraged ETNs,Bank Of Montreal MicroSectors Energy 3X Leveraged ETNs,P,WTIU,Y,100.0,N,WTIU
 WTM,"White Mountains Insurance Group, Ltd. Common Stock","White Mountains Insurance Group, Ltd. Common Stock",N,WTM,N,100.0,N,WTM
 WTMF,WisdomTree Managed Futures Strategy Fund,WisdomTree Managed Futures Strategy Fund,P,WTMF,Y,100.0,N,WTMF
+WTPI,WisdomTree Equity Premium Income Fund,WisdomTree Equity Premium Income Fund,P,WTPI,Y,100.0,N,WTPI
 WTRE,WisdomTree New Economy Real Estate Fund,WisdomTree New Economy Real Estate Fund,P,WTRE,Y,100.0,N,WTRE
 WTRG,"Essential Utilities, Inc. Common Stock","Essential Utilities, Inc. Common Stock",N,WTRG,N,100.0,N,WTRG
 WTS,"Watts Water Technologies, Inc. Class A Common Stock","Watts Water Technologies, Inc. Class A Common Stock",N,WTS,N,100.0,N,WTS
