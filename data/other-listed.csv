@@ -2215,7 +2215,6 @@ FPX,First Trust US Equity Opportunities ETF,First Trust US Equity Opportunities 
 FQAL,Fidelity Quality Factor ETF,Fidelity Quality Factor ETF,P,FQAL,Y,100.0,N,FQAL
 FR,"First Industrial Realty Trust, Inc. Common Stock","First Industrial Realty Trust, Inc. Common Stock",N,FR,N,100.0,N,FR
 FRA,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock,N,FRA,N,100.0,N,FRA
-FRD,Friedman Industries Inc. Common Stock,Friedman Industries Inc. Common Stock,A,FRD,N,100.0,N,FRD
 FRDM,Freedom 100 Emerging Markets ETF,Freedom 100 Emerging Markets ETF,Z,FRDM,Y,100.0,N,FRDM
 FREL,Fidelity MSCI Real Estate Index ETF,Fidelity MSCI Real Estate Index ETF,P,FREL,Y,100.0,N,FREL
 FRGE,"Forge Global Holdings, Inc. Common Stock","Forge Global Holdings, Inc. Common Stock",N,FRGE,N,100.0,N,FRGE
@@ -4592,6 +4591,8 @@ PRSU,"Pursuit Attractions and Hospitality, Inc. Common Stock","Pursuit Attractio
 PRT,PermRock Royalty Trust Trust Units,PermRock Royalty Trust Trust Units,N,PRT,N,100.0,N,PRT
 PRU,"Prudential Financial, Inc. Common Stock","Prudential Financial, Inc. Common Stock",N,PRU,N,100.0,N,PRU
 PRVS,Parnassus Income Funds Parnassus Value Select ETF,Parnassus Income Funds Parnassus Value Select ETF,N,PRVS,Y,100.0,N,PRVS
+PRXG,Praxis Funds Praxis Impact Large Cap Growth ETF,Praxis Funds Praxis Impact Large Cap Growth ETF,P,PRXG,Y,100.0,N,PRXG
+PRXV,Praxis Funds Praxis Impact Large Cap Value ETF,Praxis Funds Praxis Impact Large Cap Value ETF,P,PRXV,Y,100.0,N,PRXV
 PSA,Public Storage Common Stock,Public Storage Common Stock,N,PSA,N,100.0,N,PSA
 PSA$F,"Public Storage Depositary Shares Each Representing 1/1,000 of a 5.15% Cumulative Preferred Share of Beneficial Interest, Series F, par value $0.01 per share","Public Storage Depositary Shares Each Representing 1/1,000 of a 5.15% Cumulative Preferred Share of Beneficial Interest, Series F, par value $0.01 per share",N,PSApF,N,100.0,N,PSA-F
 PSA$G,"Public Storage Depositary Shares, Each Representing 1/1,000 of a 5.05% Cumulative Preferred Share of Beneficial Interest, Series G","Public Storage Depositary Shares, Each Representing 1/1,000 of a 5.05% Cumulative Preferred Share of Beneficial Interest, Series G",N,PSApG,N,100.0,N,PSA-G
@@ -5337,7 +5338,6 @@ SOXS,Direxion Daily Semiconductor Bear 3x Shares,Direxion Daily Semiconductor Be
 SOXY,Tidal Trust II YieldMax Target 12 Semiconductor Option Income ETF,Tidal Trust II YieldMax Target 12 Semiconductor Option Income ETF,P,SOXY,Y,100.0,N,SOXY
 SOYB,Teucrium Soybean Fund ETV,Teucrium Soybean Fund ETV,P,SOYB,Y,100.0,N,SOYB
 SPAB,SPDR Portfolio Aggregate Bond ETF,SPDR Portfolio Aggregate Bond ETF,P,SPAB,Y,100.0,N,SPAB
-SPAX,Robinson Alternative Yield Pre,Robinson Alternative Yield Pre-merger SPAC ETF,P,SPAX,Y,100.0,N,SPAX
 SPB,"Spectrum Brands Holdings, Inc. Common Stock","Spectrum Brands Holdings, Inc. Common Stock",N,SPB,N,100.0,N,SPB
 SPBO,SPDR Portfolio Corporate Bond ETF,SPDR Portfolio Corporate Bond ETF,P,SPBO,Y,100.0,N,SPBO
 SPBU,AIM ETF Products Trust AllianzIM Buffer15 Uncapped Allocation ETF,AIM ETF Products Trust AllianzIM Buffer15 Uncapped Allocation ETF,Z,SPBU,Y,100.0,N,SPBU
@@ -5454,7 +5454,6 @@ SSO,ProShares Ultra S&P500,ProShares Ultra S&P500,P,SSO,Y,100.0,N,SSO
 SSPX,Janus Henderson U.S. Sustainable Equity ETF,Janus Henderson U.S. Sustainable Equity ETF,P,SSPX,Y,100.0,N,SSPX
 SSPY,Exchange Listed Funds Trust Stratified LargeCap Index ETF,Exchange Listed Funds Trust Stratified LargeCap Index ETF,P,SSPY,Y,100.0,N,SSPY
 SST,"System1, Inc. Class A Common Stock","System1, Inc. Class A Common Stock",N,SST,N,100.0,N,SST
-SST.W,"System1, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share","System1, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",N,SST.WS,N,100.0,N,SST+
 SSTK,"Shutterstock, Inc. Common Stock","Shutterstock, Inc. Common Stock",N,SSTK,N,100.0,N,SSTK
 SSUS,Day Hagan/Ned Davis Research Smart Sector ETF,Day Hagan/Ned Davis Research Smart Sector ETF,P,SSUS,Y,100.0,N,SSUS
 SSXU,Strategy Shares Day Hagan/Ned Davis Research Smart Sector International ETF,Strategy Shares Day Hagan/Ned Davis Research Smart Sector International ETF,P,SSXU,Y,100.0,N,SSXU
@@ -6375,6 +6374,7 @@ XUSP,Innovator ETFs Trust Innovator Uncapped Accelerated U.S. Equity ETF,Innovat
 XVOL,Acruence Active Hedge U.S. Equity ETF,Acruence Active Hedge U.S. Equity ETF,Z,XVOL,Y,100.0,N,XVOL
 XVV,iShares ESG Select Screened S&P 500 ETF,iShares ESG Select Screened S&P 500 ETF,Z,XVV,Y,100.0,N,XVV
 XXCH,Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares,P,XXCH,Y,100.0,N,XXCH
+XXRP,Listed Funds Trust Teucrium 2x Long Daily XRP ETF,Listed Funds Trust Teucrium 2x Long Daily XRP ETF,P,XXRP,Y,100.0,N,XXRP
 XYF,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares","X Financial American Depositary Shares, each representing six Class A Ordinary Shares",N,XYF,N,100.0,N,XYF
 XYL,Xylem Inc. Common Stock New,Xylem Inc. Common Stock New,N,XYL,N,100.0,N,XYL
 XYLD,Global X Funds Global X S&P 500 Covered Call ETF,Global X Funds Global X S&P 500 Covered Call ETF,P,XYLD,Y,100.0,N,XYLD
