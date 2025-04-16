@@ -2651,11 +2651,13 @@ HESM,Hess Midstream LP Class A Representing Limited Partner Interests,Hess Midst
 HEWJ,iShares Currency Hedged MSCI Japan ETF,iShares Currency Hedged MSCI Japan ETF,P,HEWJ,Y,100.0,N,HEWJ
 HEZU,iShares Currency Hedged MSCI Eurozone ETF,iShares Currency Hedged MSCI Eurozone ETF,P,HEZU,Y,100.0,N,HEZU
 HF,DGA Core Plus Absolute Return ETF,DGA Core Plus Absolute Return ETF,N,HF,Y,100.0,N,HF
+HFGM,Tidal ETF Trust Unlimited HFGM Global Macro ETF,Tidal ETF Trust Unlimited HFGM Global Macro ETF,P,HFGM,Y,100.0,N,HFGM
 HFGO,Hartford Large Cap Growth ETF,Hartford Large Cap Growth ETF,Z,HFGO,Y,100.0,N,HFGO
 HFND,Tidal ETF Trust Unlimited HFND Multi,Tidal ETF Trust Unlimited HFND Multi-Strategy Return Tracker ETF,P,HFND,Y,100.0,N,HFND
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,N,HFRO,N,100.0,N,HFRO
 HFRO$A,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,N,HFROpA,N,100.0,N,HFRO-A
 HFRO$B,Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares,Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares,N,HFROpB,N,100.0,N,HFRO-B
+HFSI,Hartford Strategic Income ETF,Hartford Strategic Income ETF,Z,HFSI,Y,100.0,N,HFSI
 HFXI,NYLI FTSE International Equity Currency Neutral ETF,NYLI FTSE International Equity Currency Neutral ETF,P,HFXI,Y,100.0,N,HFXI
 HG,"Hamilton Insurance Group, Ltd. Class B Common Shares","Hamilton Insurance Group, Ltd. Class B Common Shares",N,HG,N,100.0,N,HG
 HGER,Harbor Commodity All,Harbor Commodity All-Weather Strategy ETF,N,HGER,Y,100.0,N,HGER
@@ -2727,8 +2729,6 @@ HSBH,Precidian ETFs Trust HSBC Holdings plc ADRhedged,Precidian ETFs Trust HSBC 
 HSCZ,iShares Currency Hedged MSCI EAFE Small,iShares Currency Hedged MSCI EAFE Small-Cap ETF,P,HSCZ,Y,100.0,N,HSCZ
 HSHP,Himalaya Shipping Ltd. Common Shares,Himalaya Shipping Ltd. Common Shares,N,HSHP,N,100.0,N,HSHP
 HSMV,First Trust Horizon Managed Volatility Small/Mid ETF,First Trust Horizon Managed Volatility Small/Mid ETF,P,HSMV,Y,100.0,N,HSMV
-HSRT,Hartford AAA CLO ETF,Hartford AAA CLO ETF,Z,HSRT,Y,100.0,N,HSRT
-HSUN,Hartford Strategic Income ETF,Hartford Strategic Income ETF,Z,HSUN,Y,100.0,N,HSUN
 HSY,The Hershey Company Common Stock,The Hershey Company Common Stock,N,HSY,N,100.0,N,HSY
 HTAB,Hartford Schroders Tax,Hartford Schroders Tax-Aware Bond ETF,P,HTAB,Y,100.0,N,HTAB
 HTAX,Macquarie ETF Trust Macquarie National High,Macquarie ETF Trust Macquarie National High-Yield Municipal Bond ETF,P,HTAX,Y,100.0,N,HTAX
@@ -5036,6 +5036,7 @@ SAZ,Saratoga Investment Corp 8.50% Notes due 2028,Saratoga Investment Corp 8.50%
 SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)","Safe Bulkers, Inc Common Stock ($0.001 par value)",N,SB,N,100.0,N,SB
 SB$C,"Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands)","Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands)",N,SBpC,N,100.0,N,SB-C
 SB$D,"Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)","Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)",N,SBpD,N,100.0,N,SB-D
+SBAR,Simplify Exchange Traded Funds Simplify Barrier Income ETF,Simplify Exchange Traded Funds Simplify Barrier Income ETF,P,SBAR,Y,100.0,N,SBAR
 SBB,ProShares Short SmallCap600,ProShares Short SmallCap600,P,SBB,Y,100.0,N,SBB
 SBEV,"Splash Beverage Group, Inc. (NV) Common Stock","Splash Beverage Group, Inc. (NV) Common Stock",A,SBEV,N,100.0,N,SBEV
 SBEV.W,"Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60","Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60",A,SBEV.WS,N,100.0,N,SBEV+
@@ -5749,6 +5750,7 @@ TRND,Pacer Trendpilot Fund of Funds ETF,Pacer Trendpilot Fund of Funds ETF,P,TRN
 TRNO,Terreno Realty Corporation Common Stock,Terreno Realty Corporation Common Stock,N,TRNO,N,100.0,N,TRNO
 TROX,Tronox Holdings plc Ordinary Shares (UK),Tronox Holdings plc Ordinary Shares (UK),N,TROX,N,100.0,N,TROX
 TRP,TC Energy Corporation Common Stock,TC Energy Corporation Common Stock,N,TRP,N,100.0,N,TRP
+TRPA,Hartford AAA CLO ETF,Hartford AAA CLO ETF,Z,TRPA,Y,100.0,N,TRPA
 TRSY,DBX ETF Trust Xtrackers US 0,DBX ETF Trust Xtrackers US 0-1 Year Treasury ETF,Z,TRSY,Y,100.0,N,TRSY
 TRT,Trio,Trio-Tech International Common Stock,A,TRT,N,100.0,N,TRT
 TRTN$A,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares,N,TRTNpA,N,100.0,N,TRTN-A
@@ -6367,6 +6369,7 @@ XTWO,BondBloxx ETF Trust BondBloxx Bloomberg Two Year Target Duration US Treasur
 XTWY,BondBloxx ETF Trust BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF,BondBloxx ETF Trust BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF,P,XTWY,Y,100.0,N,XTWY
 XUDV,Franklin Templeton ETF Trust Franklin U.S. Dividend Multiplier Index ETF,Franklin Templeton ETF Trust Franklin U.S. Dividend Multiplier Index ETF,P,XUDV,Y,100.0,N,XUDV
 XUSP,Innovator ETFs Trust Innovator Uncapped Accelerated U.S. Equity ETF,Innovator ETFs Trust Innovator Uncapped Accelerated U.S. Equity ETF,Z,XUSP,Y,100.0,N,XUSP
+XV,Simplify Exchange Traded Funds Simplify Target 15 Distribution ETF,Simplify Exchange Traded Funds Simplify Target 15 Distribution ETF,P,XV,Y,100.0,N,XV
 XVOL,Acruence Active Hedge U.S. Equity ETF,Acruence Active Hedge U.S. Equity ETF,Z,XVOL,Y,100.0,N,XVOL
 XVV,iShares ESG Select Screened S&P 500 ETF,iShares ESG Select Screened S&P 500 ETF,Z,XVV,Y,100.0,N,XVV
 XXCH,Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares,P,XXCH,Y,100.0,N,XXCH
