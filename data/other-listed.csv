@@ -213,7 +213,6 @@ AMLP,Alerian MLP ETF,Alerian MLP ETF,P,AMLP,Y,100.0,N,AMLP
 AMN,AMN Healthcare Services Inc,AMN Healthcare Services Inc,N,AMN,N,100.0,N,AMN
 AMOM,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap Momentum ETF,P,AMOM,Y,100.0,N,AMOM
 AMP,"Ameriprise Financial, Inc. Common Stock","Ameriprise Financial, Inc. Common Stock",N,AMP,N,100.0,N,AMP
-AMPS,"Altus Power, Inc. Class A Common Stock","Altus Power, Inc. Class A Common Stock",N,AMPS,N,100.0,N,AMPS
 AMPX,"Amprius Technologies, Inc. Common Stock","Amprius Technologies, Inc. Common Stock",N,AMPX,N,100.0,N,AMPX
 AMPX.W,"Amprius Technologies, Inc. Warrants to purchase one share of Common Stock at an exercise price of $11.50 per share","Amprius Technologies, Inc. Warrants to purchase one share of Common Stock at an exercise price of $11.50 per share",N,AMPX.WS,N,100.0,N,AMPX+
 AMPY,Amplify Energy Corp. Common Stock,Amplify Energy Corp. Common Stock,N,AMPY,N,100.0,N,AMPY
@@ -1676,6 +1675,7 @@ EFZ,ProShares Short MSCI EAFE,ProShares Short MSCI EAFE,P,EFZ,Y,100.0,N,EFZ
 EG,"Everest Group, Ltd. Common Stock","Everest Group, Ltd. Common Stock",N,EG,N,100.0,N,EG
 EGGS,Tidal Trust III NestYield Total Return Guard ETF,Tidal Trust III NestYield Total Return Guard ETF,P,EGGS,Y,100.0,N,EGGS
 EGGY,NestYield Dynamic Income ETF,NestYield Dynamic Income ETF,P,EGGY,Y,100.0,N,EGGY
+EGLE,Global X Funds Global X S&P 500 U.S. Revenue Leaders ETF,Global X Funds Global X S&P 500 U.S. Revenue Leaders ETF,P,EGLE,Y,100.0,N,EGLE
 EGO,Eldorado Gold Corporation Ordinary Shares,Eldorado Gold Corporation Ordinary Shares,N,EGO,N,100.0,N,EGO
 EGP,"EastGroup Properties, Inc. Common Stock","EastGroup Properties, Inc. Common Stock",N,EGP,N,100.0,N,EGP
 EGUS,iShares Trust iShares ESG Aware MSCI USA Growth ETF,iShares Trust iShares ESG Aware MSCI USA Growth ETF,Z,EGUS,Y,100.0,N,EGUS
@@ -2091,6 +2091,7 @@ FJAN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - January,Z,
 FJUL,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - July,Z,FJUL,Y,100.0,N,FJUL
 FJUN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - June,Z,FJUN,Y,100.0,N,FJUN
 FL,"Foot Locker, Inc.","Foot Locker, Inc.",N,FL,N,100.0,N,FL
+FLAG,Global X Funds Global X S&P 500 U.S. Market Leaders Top 50 ETF,Global X Funds Global X S&P 500 U.S. Market Leaders Top 50 ETF,P,FLAG,Y,100.0,N,FLAG
 FLAO,AIM ETF Products Trust AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF,AIM ETF Products Trust AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF,P,FLAO,Y,100.0,N,FLAO
 FLAU,Franklin FTSE Australia ETF,Franklin FTSE Australia ETF,P,FLAU,Y,100.0,N,FLAU
 FLAX,Franklin FTSE Asia ex Japan ETF,Franklin FTSE Asia ex Japan ETF,P,FLAX,Y,100.0,N,FLAX
@@ -5513,7 +5514,6 @@ SVV,"Savers Value Village, Inc. Common Stock","Savers Value Village, Inc. Common
 SVXY,ProShares Short VIX Short Term Futures ETF,ProShares Short VIX Short Term Futures ETF,Z,SVXY,Y,100.0,N,SVXY
 SW,Smurfit WestRock plc Ordinary Shares,Smurfit WestRock plc Ordinary Shares,N,SW,N,100.0,N,SW
 SWAN,Amplify ETF Trust Amplify BlackSwan Growth & Treasury Core ETF,Amplify ETF Trust Amplify BlackSwan Growth & Treasury Core ETF,P,SWAN,Y,100.0,N,SWAN
-SWI,SolarWinds Corporation Common Stock,SolarWinds Corporation Common Stock,N,SWI,N,100.0,N,SWI
 SWK,"Stanley Black & Decker, Inc. Common Stock","Stanley Black & Decker, Inc. Common Stock",N,SWK,N,100.0,N,SWK
 SWX,"Southwest Gas Holdings, Inc. Common Stock (DE)","Southwest Gas Holdings, Inc. Common Stock (DE)",N,SWX,N,100.0,N,SWX
 SWZ,Total Return Securities Fund Common Stock,Total Return Securities Fund Common Stock,N,SWZ,N,100.0,N,SWZ
@@ -5710,6 +5710,7 @@ TOL,"Toll Brothers, Inc. Common Stock","Toll Brothers, Inc. Common Stock",N,TOL,
 TOLL,Tema ETF Trust Tema Monopolies and Oligopolies ETF,Tema ETF Trust Tema Monopolies and Oligopolies ETF,Z,TOLL,Y,100.0,N,TOLL
 TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,ProShares DJ Brookfield Global Infrastructure ETF,P,TOLZ,Y,100.0,N,TOLZ
 TOON,"Kartoon Studios, Inc. Common Stock","Kartoon Studios, Inc. Common Stock",A,TOON,N,100.0,N,TOON
+TOPC,iShares Trust iShares S&P 500 3% Capped ETF,iShares Trust iShares S&P 500 3% Capped ETF,P,TOPC,Y,100.0,N,TOPC
 TOPP,Toppoint Holdings Inc. Common Stock,Toppoint Holdings Inc. Common Stock,A,TOPP,N,100.0,N,TOPP
 TOPS,"TOP Ships, Inc. Common Stock","TOP Ships, Inc. Common Stock",A,TOPS,N,100.0,N,TOPS
 TOPT,iShares Trust iShares Top 20 U.S. Stocks ETF,iShares Trust iShares Top 20 U.S. Stocks ETF,P,TOPT,Y,100.0,N,TOPT
