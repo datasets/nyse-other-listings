@@ -2075,6 +2075,7 @@ FIHL,Fidelis Insurance Holdings Limited Common Shares,Fidelis Insurance Holdings
 FIIG,First Trust Exchange,First Trust Exchange-Traded Fund IV First Trust Intermediate Duration Investment Grade Corporate ETF,P,FIIG,Y,100.0,N,FIIG
 FILL,iShares MSCI Global Energy Producers Fund,iShares MSCI Global Energy Producers Fund,P,FILL,Y,100.0,N,FILL
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,N,FINS,N,100.0,N,FINS
+FINS.V,"Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued","Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued",N,FINSrw,N,100.0,N,FINS^#
 FINT,The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF,The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF,P,FINT,Y,100.0,N,FINT
 FINV,FinVolution Group American Depositary Shares,FinVolution Group American Depositary Shares,N,FINV,N,100.0,N,FINV
 FIRI,Tidal ETF Trust FIRE Funds Income Target ETF,Tidal ETF Trust FIRE Funds Income Target ETF,P,FIRI,Y,100.0,N,FIRI
@@ -2851,7 +2852,7 @@ IBUF,SHL Telemedicine Ltd Innovator International Developed 10 Buffer ETF ,SHL T
 IBUY,Amplify ETF Trust Amplify Online Retail ETF,Amplify ETF Trust Amplify Online Retail ETF,P,IBUY,Y,100.0,N,IBUY
 ICAP,Infrastructure Capital Equity Income ETF,Infrastructure Capital Equity Income ETF,P,ICAP,Y,100.0,N,ICAP
 ICE,Intercontinental Exchange Inc. Common Stock,Intercontinental Exchange Inc. Common Stock,N,ICE,N,100.0,N,ICE
-ICF,iShares Cohen & Steers REIT ETF,iShares Cohen & Steers REIT ETF,Z,ICF,Y,100.0,N,ICF
+ICF,iShares Select U.S. REIT ETF,iShares Select U.S. REIT ETF,Z,ICF,Y,100.0,N,ICF
 ICL,ICL Group Ltd. Ordinary Shares,ICL Group Ltd. Ordinary Shares,N,ICL,N,100.0,N,ICL
 ICLO,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco AAA CLO Floating Rate Note ETF,Z,ICLO,Y,100.0,N,ICLO
 ICOI,Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF,Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF,P,ICOI,Y,100.0,N,ICOI
@@ -3771,8 +3772,6 @@ MKC.V,"McCormick & Company, Incorporated Common Stock","McCormick & Company, Inc
 MKFG,Markforged Holding Corporation Common Stock,Markforged Holding Corporation Common Stock,N,MKFG,N,100.0,N,MKFG
 MKL,Markel Group Inc. Common Stock,Markel Group Inc. Common Stock,N,MKL,N,10.0,N,MKL
 MKOR,Matthews International Funds Matthews Korea Active ETF,Matthews International Funds Matthews Korea Active ETF,P,MKOR,Y,100.0,N,MKOR
-ML,MoneyLion Inc. Class A Common Stock,MoneyLion Inc. Class A Common Stock,N,ML,N,100.0,N,ML
-ML.W,"MoneyLion Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","MoneyLion Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",N,ML.WS,N,100.0,N,ML+
 MLDR,Global X Funds Global X Intermediate,Global X Funds Global X Intermediate-Term Treasury Ladder ETF,P,MLDR,Y,100.0,N,MLDR
 MLI,"Mueller Industries, Inc. Common Stock","Mueller Industries, Inc. Common Stock",N,MLI,N,100.0,N,MLI
 MLM,"Martin Marietta Materials, Inc. Common Stock","Martin Marietta Materials, Inc. Common Stock",N,MLM,N,100.0,N,MLM
@@ -4903,6 +4902,7 @@ RNR,RenaissanceRe Holdings Ltd. Common Stock,RenaissanceRe Holdings Ltd. Common 
 RNR$F,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Series F Preference Share","RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Series F Preference Share",N,RNRpF,N,100.0,N,RNR-F
 RNR$G,"RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1,000th interest in a share of 4.20% Series G Preference Shares","RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1,000th interest in a share of 4.20% Series G Preference Shares",N,RNRpG,N,100.0,N,RNR-G
 RNST,Renasant Corporation Common Stock,Renasant Corporation Common Stock,N,RNST,N,100.0,N,RNST
+RNTY,Tidal Trust II YieldMax  Target 12  Real Estate Option Income ETF,Tidal Trust II YieldMax  Target 12  Real Estate Option Income ETF,P,RNTY,Y,100.0,N,RNTY
 RNWZ,Listed Funds Trust TrueShares Eagle Global Renewable Energy Income ETF,Listed Funds Trust TrueShares Eagle Global Renewable Energy Income ETF,P,RNWZ,Y,100.0,N,RNWZ
 ROAM,Hartford Multifactor Emerging Markets ETF,Hartford Multifactor Emerging Markets ETF,P,ROAM,Y,100.0,N,ROAM
 ROBN,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long HOOD Daily Target ETF,Z,ROBN,Y,100.0,N,ROBN
@@ -5591,6 +5591,7 @@ TDY,Teledyne Technologies Incorporated Common Stock,Teledyne Technologies Incorp
 TE,T1 Energy Inc. Common Stock,T1 Energy Inc. Common Stock,N,TE,N,100.0,N,TE
 TE.W,"T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share","T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",N,TE.WS,N,100.0,N,TE+
 TEAF,Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest,Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest,N,TEAF,N,100.0,N,TEAF
+TEC,Harbor ETF Trust Harbor Transformative Technologies ETF,Harbor ETF Trust Harbor Transformative Technologies ETF,P,TEC,Y,100.0,N,TEC
 TECB,iShares U.S. Tech Breakthrough Multisector ETF,iShares U.S. Tech Breakthrough Multisector ETF,P,TECB,Y,100.0,N,TECB
 TECK,Teck Resources Ltd Ordinary Shares,Teck Resources Ltd Ordinary Shares,N,TECK,N,100.0,N,TECK
 TECL,Direxion Technology Bull 3X Shares,Direxion Technology Bull 3X Shares,P,TECL,Y,100.0,N,TECL
@@ -5807,7 +5808,7 @@ TWO,Two Harbors Investment Corp,Two Harbors Investment Corp,N,TWO,N,100.0,N,TWO
 TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),N,TWOpA,N,100.0,N,TWO-A
 TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpB,N,100.0,N,TWO-B
 TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpC,N,100.0,N,TWO-C
-TWOX,iShares Trust iShares Large Cap Accelerated ETF,iShares Trust iShares Large Cap Accelerated ETF,Z,TWOX,Y,100.0,N,TWOX
+TWOX,iShares Large Cap Accelerated Outcome ETF,iShares Large Cap Accelerated Outcome ETF,Z,TWOX,Y,100.0,N,TWOX
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)","Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",N,TX,N,100.0,N,TX
 TXNM,"TXNM Energy, Inc. Common Stock","TXNM Energy, Inc. Common Stock",N,TXNM,N,100.0,N,TXNM
 TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests","TXO Partners, L.P. Common Units Representing Limited Partner Interests",N,TXO,N,100.0,N,TXO
@@ -5902,7 +5903,6 @@ UPW,ProShares Ultra Utilities,ProShares Ultra Utilities,P,UPW,Y,100.0,N,UPW
 URA,Global X Uranium ETF,Global X Uranium ETF,P,URA,Y,100.0,N,URA
 URAA,Direxion Shares ETF Trust Direxion Daily Uranium Industry Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily Uranium Industry Bull 2X Shares,P,URAA,Y,100.0,N,URAA
 URAN,Themes ETF Trust Themes Uranium & Nuclear ETF,Themes ETF Trust Themes Uranium & Nuclear ETF,Z,URAN,Y,100.0,N,URAN
-URAX,Tidal Trust II Defiance Daily Target 2x Long Uranium ETF,Tidal Trust II Defiance Daily Target 2x Long Uranium ETF,P,URAX,Y,100.0,N,URAX
 URE,ProShares Ultra Real Estate,ProShares Ultra Real Estate,P,URE,Y,100.0,N,URE
 URG,Ur Energy Inc Common Shares (Canada),Ur Energy Inc Common Shares (Canada),A,URG,N,100.0,N,URG
 URI,"United Rentals, Inc. Common Stock","United Rentals, Inc. Common Stock",N,URI,N,100.0,N,URI

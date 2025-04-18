@@ -1021,6 +1021,7 @@ FICO,Fair Isaac Corporation Common Stock
 FIGS,"FIGS, Inc. Class A Common Stock"
 FIHL,Fidelis Insurance Holdings Limited Common Shares
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
+FINS.V,"Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued"
 FINV,FinVolution Group American Depositary Shares
 FIS,"Fidelity National Information Services, Inc. Common Stock"
 FIX,"Comfort Systems USA, Inc. Common Stock"
@@ -1669,8 +1670,6 @@ MKC,"McCormick & Company, Incorporated Common Stock"
 MKC.V,"McCormick & Company, Incorporated Common Stock"
 MKFG,Markforged Holding Corporation Common Stock
 MKL,Markel Group Inc. Common Stock
-ML,MoneyLion Inc. Class A Common Stock
-ML.W,"MoneyLion Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share"
 MLI,"Mueller Industries, Inc. Common Stock"
 MLM,"Martin Marietta Materials, Inc. Common Stock"
 MLNK,"MeridianLink, Inc. Common Stock"
