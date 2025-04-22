@@ -896,7 +896,6 @@ EMO,ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock
 EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066"
 EMR,Emerson Electric Company Common Stock
 ENB,Enbridge Inc Common Stock
-ENFN,"Enfusion, Inc. Class A Common Stock"
 ENFY,Enlightify Inc. Common Stock
 ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock)
 ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052"
@@ -905,7 +904,6 @@ ENOV,Enovis Corporation Common Stock
 ENR,"Energizer Holdings, Inc. Common Stock"
 ENS,EnerSys Common Stock
 ENVA,"Enova International, Inc. Common Stock"
-ENZ,"Enzo Biochem, Inc. Common Stock ($0.01 Par Value)"
 EOD,Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest
 EOG,"EOG Resources, Inc. Common Stock"
 EOI,Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest
@@ -1043,7 +1041,6 @@ FMS,Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 
 FMX,Fomento Economico Mexicano S.A.B. de C.V. Common Stock
 FMY,First Trust Motgage Income Fund Common Shares of Beneficial Interest
 FN,Fabrinet Ordinary Shares
-FNA,"Paragon 28, Inc. Common Stock"
 FNB,F.N.B. Corporation Common Stock
 FND,"Floor & Decor Holdings, Inc. Common Stock"
 FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock"
@@ -2153,7 +2150,9 @@ QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067"
 QXO,"QXO, Inc. Common Stock"
 R,"Ryder System, Inc. Common Stock"
 RA,Brookfield Real Assets Income Fund Inc. Common Stock
+RAC,Rithm Acquisition Corp. Class A Ordinary Shares
 RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one
+RAC.W,"Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 RACE,Ferrari N.V. Common Shares
 RAMP,"LiveRamp Holdings, Inc. Common Stock"
 RBA,"RB Global, Inc. Common Stock"

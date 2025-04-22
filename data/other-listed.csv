@@ -274,6 +274,7 @@ APRZ,Trust TrueShares Structured Outcome (April) ETF,Trust TrueShares Structured
 APT,"Alpha Pro Tech, Ltd. Common Stock","Alpha Pro Tech, Ltd. Common Stock",A,APT,N,100.0,N,APT
 APTV,Aptiv PLC Ordinary Shares,Aptiv PLC Ordinary Shares,N,APTV,N,100.0,N,APTV
 APUE,Trust for Professional Managers ActivePassive U.S. Equity ETF,Trust for Professional Managers ActivePassive U.S. Equity ETF,P,APUE,Y,100.0,N,APUE
+APXM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - April,Z,APXM,Y,100.0,N,APXM
 AQLT,iShares Trust iShares MSCI Global Quality Factor ETF,iShares Trust iShares MSCI Global Quality Factor ETF,Z,AQLT,Y,100.0,N,AQLT
 AQN,Algonquin Power & Utilities Corp. Common Shares,Algonquin Power & Utilities Corp. Common Shares,N,AQN,N,100.0,N,AQN
 AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed,"Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1, 2079",N,AQNB,N,100.0,N,AQNB
@@ -1550,6 +1551,7 @@ DVA,DaVita Inc. Common Stock,DaVita Inc. Common Stock,N,DVA,N,100.0,N,DVA
 DVDN,ETF Opportunities Trust Kingsbarn Dividend Opportunity ETF,ETF Opportunities Trust Kingsbarn Dividend Opportunity ETF,P,DVDN,Y,100.0,N,DVDN
 DVN,Devon Energy Corporation Common Stock,Devon Energy Corporation Common Stock,N,DVN,N,100.0,N,DVN
 DVND,Touchstone ETF Trust Touchstone Dividend Select ETF,Touchstone ETF Trust Touchstone Dividend Select ETF,P,DVND,Y,100.0,N,DVND
+DVS,Dolly Varden Silver Corporation Common Shares,Dolly Varden Silver Corporation Common Shares,A,DVS,N,100.0,N,DVS
 DVYA,iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund,iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund,P,DVYA,Y,100.0,N,DVYA
 DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,P,DVYE,Y,100.0,N,DVYE
 DWAT,Arrow Investments Trust Arrow DWA Tactical ETF,Arrow Investments Trust Arrow DWA Tactical ETF,Z,DWAT,Y,100.0,N,DWAT
@@ -1745,7 +1747,6 @@ EMTL,SPDR DoubleLine Emerging Markets Fixed Income ETF,SPDR DoubleLine Emerging 
 EMTY,ProShares Decline of the Retail Store ETF,ProShares Decline of the Retail Store ETF,P,EMTY,Y,100.0,N,EMTY
 EMX,EMX Royalty Corporation Common Shares (Canada),EMX Royalty Corporation Common Shares (Canada),A,EMX,N,100.0,N,EMX
 ENB,Enbridge Inc Common Stock,Enbridge Inc Common Stock,N,ENB,N,100.0,N,ENB
-ENFN,"Enfusion, Inc. Class A Common Stock","Enfusion, Inc. Class A Common Stock",N,ENFN,N,100.0,N,ENFN
 ENFR,Alerian Energy Infrastructure ETF,Alerian Energy Infrastructure ETF,P,ENFR,Y,100.0,N,ENFR
 ENFY,Enlightify Inc. Common Stock,Enlightify Inc. Common Stock,N,ENFY,N,100.0,N,ENFY
 ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),N,ENIC,N,100.0,N,ENIC
@@ -1757,7 +1758,6 @@ ENR,"Energizer Holdings, Inc. Common Stock","Energizer Holdings, Inc. Common Sto
 ENS,EnerSys Common Stock,EnerSys Common Stock,N,ENS,N,100.0,N,ENS
 ENVA,"Enova International, Inc. Common Stock","Enova International, Inc. Common Stock",N,ENVA,N,100.0,N,ENVA
 ENX,"Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value","Eaton Vance New York Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",A,ENX,N,100.0,N,ENX
-ENZ,"Enzo Biochem, Inc. Common Stock ($0.01 Par Value)","Enzo Biochem, Inc. Common Stock ($0.01 Par Value)",N,ENZ,N,100.0,N,ENZ
 EOCT,Innovator Emerging Markets Power Buffer ETF ,Innovator Emerging Markets Power Buffer ETF - October,P,EOCT,Y,100.0,N,EOCT
 EOD,Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest,Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest,N,EOD,N,100.0,N,EOD
 EOG,"EOG Resources, Inc. Common Stock","EOG Resources, Inc. Common Stock",N,EOG,N,100.0,N,EOG
@@ -1863,7 +1863,6 @@ EUSA,iShares MSCI USA Equal Weighted ETF,iShares MSCI USA Equal Weighted ETF,P,E
 EUSB,iShares ESG Advanced Total USD Bond Market ETF,iShares ESG Advanced Total USD Bond Market ETF,P,EUSB,Y,100.0,N,EUSB
 EUSC,WisdomTree Europe Hedged SmallCap Equity Fund,WisdomTree Europe Hedged SmallCap Equity Fund,P,EUSC,Y,100.0,N,EUSC
 EUSM,Strategy Shares Eventide US Market ETF,Strategy Shares Eventide US Market ETF,P,EUSM,Y,100.0,N,EUSM
-EV,NEOS ETF Trust Mast Global Battery Recycling & Production ETF,NEOS ETF Trust Mast Global Battery Recycling & Production ETF,P,EV,Y,100.0,N,EV
 EVAV,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,P,EVAV,Y,100.0,N,EVAV
 EVBN,"Evans Bancorp, Inc. Common Stock","Evans Bancorp, Inc. Common Stock",A,EVBN,N,100.0,N,EVBN
 EVC,Entravision Communications Corporation Common Stock,Entravision Communications Corporation Common Stock,N,EVC,N,100.0,N,EVC
@@ -2172,7 +2171,6 @@ FMS,Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 
 FMX,Fomento Economico Mexicano S.A.B. de C.V. Common Stock,Fomento Economico Mexicano S.A.B. de C.V. Common Stock,N,FMX,N,100.0,N,FMX
 FMY,First Trust Motgage Income Fund Common Shares of Beneficial Interest,First Trust Motgage Income Fund Common Shares of Beneficial Interest,N,FMY,N,100.0,N,FMY
 FN,Fabrinet Ordinary Shares,Fabrinet Ordinary Shares,N,FN,N,100.0,N,FN
-FNA,"Paragon 28, Inc. Common Stock","Paragon 28, Inc. Common Stock",N,FNA,N,100.0,N,FNA
 FNB,F.N.B. Corporation Common Stock,F.N.B. Corporation Common Stock,N,FNB,N,100.0,N,FNB
 FNCL,Fidelity MSCI Financials Index ETF,Fidelity MSCI Financials Index ETF,P,FNCL,Y,100.0,N,FNCL
 FND,"Floor & Decor Holdings, Inc. Common Stock","Floor & Decor Holdings, Inc. Common Stock",N,FND,N,100.0,N,FND
@@ -4767,7 +4765,9 @@ QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,Brookfield Real Assets Income Fund Inc. Common Stock,N,RA,N,100.0,N,RA
 RAAX,VanEck Real Assets ETF,VanEck Real Assets ETF,P,RAAX,Y,100.0,N,RAAX
+RAC,Rithm Acquisition Corp. Class A Ordinary Shares,Rithm Acquisition Corp. Class A Ordinary Shares,N,RAC,N,100.0,N,RAC
 RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant),N,RAC.U,N,100.0,N,RAC=
+RAC.W,"Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,RAC.WS,N,100.0,N,RAC+
 RACE,Ferrari N.V. Common Shares,Ferrari N.V. Common Shares,N,RACE,N,100.0,N,RACE
 RAFE,PIMCO RAFI ESG U.S. ETF,PIMCO RAFI ESG U.S. ETF,P,RAFE,Y,100.0,N,RAFE
 RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stock",N,RAMP,N,100.0,N,RAMP
@@ -5682,6 +5682,7 @@ TLYS,"Tilly's, Inc. Common Stock","Tilly's, Inc. Common Stock",N,TLYS,N,100.0,N,
 TM,Toyota Motor Corporation Common Stock,Toyota Motor Corporation Common Stock,N,TM,N,100.0,N,TM
 TMAR,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - March,Z,TMAR,Y,100.0,N,TMAR
 TMAT,Main Thematic Innovation ETF,Main Thematic Innovation ETF,Z,TMAT,Y,100.0,N,TMAT
+TMDE,TMD Energy Limited Ordinary Shares,TMD Energy Limited Ordinary Shares,A,TMDE,N,100.0,N,TMDE
 TMDV,ProShares Russell US Dividend Growers ETF,ProShares Russell US Dividend Growers ETF,Z,TMDV,Y,100.0,N,TMDV
 TME,"Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares","Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares",N,TME,N,100.0,N,TME
 TMF,Direxion Daily 20,Direxion Daily 20-Yr Treasury Bull 3x Shrs,P,TMF,Y,100.0,N,TMF
@@ -5962,6 +5963,7 @@ UWM,ProShares Ultra Russell2000,ProShares Ultra Russell2000,P,UWM,Y,100.0,N,UWM
 UWMC,UWM Holdings Corporation Class A Common Stock,UWM Holdings Corporation Class A Common Stock,N,UWMC,N,100.0,N,UWMC
 UWMC.W,UWM Holdings Corporation Warrant,UWM Holdings Corporation Warrant,N,UWMC.WS,N,100.0,N,UWMC+
 UX,Roundhill ETF Trust Roundhill Uranium ETF,Roundhill ETF Trust Roundhill Uranium ETF,Z,UX,Y,100.0,N,UX
+UXAP,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - April,Z,UXAP,Y,100.0,N,UXAP
 UXI,ProShares Ultra Industrials,ProShares Ultra Industrials,P,UXI,Y,100.0,N,UXI
 UXJA,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - January,Z,UXJA,Y,100.0,N,UXJA
 UXOC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - October,Z,UXOC,Y,100.0,N,UXOC
