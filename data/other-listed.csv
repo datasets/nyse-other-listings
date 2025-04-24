@@ -307,7 +307,7 @@ ARKZ,EA Series Trust ARK 21Shares Active Ethereum Futures Strategy ETF,EA Series
 ARL,"American Realty Investors, Inc. Common Stock","American Realty Investors, Inc. Common Stock",N,ARL,N,100.0,N,ARL
 ARLO,"Arlo Technologies, Inc. Common Stock","Arlo Technologies, Inc. Common Stock",N,ARLO,N,100.0,N,ARLO
 ARLU,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,Z,ARLU,Y,100.0,N,ARLU
-ARMH,Precidian ETFs Trust Arm Holdings PLC ADRhedged,Precidian ETFs Trust Arm Holdings PLC ADRhedged,Z,ARMH,Y,100.0,N,ARMH
+ARMH,Precidian ETFs Trust Arm Holdings PLC ADRhedged,Precidian ETFs Trust Arm Holdings PLC ADRhedged,P,ARMH,Y,100.0,N,ARMH
 ARMK,Aramark Common Stock,Aramark Common Stock,N,ARMK,N,100.0,N,ARMK
 ARMN,Aris Mining Corporation Common Shares,Aris Mining Corporation Common Shares,A,ARMN,N,100.0,N,ARMN
 ARMP,"Armata Pharmaceuticals, Inc. Common Stock","Armata Pharmaceuticals, Inc. Common Stock",A,ARMP,N,100.0,N,ARMP
@@ -338,7 +338,7 @@ ASIX,AdvanSix Inc. Common Stock ,AdvanSix Inc. Common Stock ,N,ASIX,N,100.0,N,AS
 ASLV,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring Special Large Value ETF,P,ASLV,Y,100.0,N,ASLV
 ASM,Avino Silver & Gold Mines Ltd. Common Shares (Canada),Avino Silver & Gold Mines Ltd. Common Shares (Canada),A,ASM,N,100.0,N,ASM
 ASMF,Virtus ETF Trust II Virtus AlphaSimplex Managed Futures ETF,Virtus ETF Trust II Virtus AlphaSimplex Managed Futures ETF,P,ASMF,Y,100.0,N,ASMF
-ASMH,Precidian ETFs Trust ASML Holding NV ADRhedged,Precidian ETFs Trust ASML Holding NV ADRhedged,Z,ASMH,Y,100.0,N,ASMH
+ASMH,Precidian ETFs Trust ASML Holding NV ADRhedged,Precidian ETFs Trust ASML Holding NV ADRhedged,P,ASMH,Y,100.0,N,ASMH
 ASPN,"Aspen Aerogels, Inc. Common Stock","Aspen Aerogels, Inc. Common Stock",N,ASPN,N,100.0,N,ASPN
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock","Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",N,ASR,N,100.0,N,ASR
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ","ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",N,ASX,N,100.0,N,ASX
@@ -430,7 +430,7 @@ AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100t
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
 AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,100.0,N,AYI
 AZEK,The AZEK Company Inc. Class A Common Stock,The AZEK Company Inc. Class A Common Stock,N,AZEK,N,100.0,N,AZEK
-AZNH,Precidian ETFs Trust AstraZeneca PLC ADRhedged,Precidian ETFs Trust AstraZeneca PLC ADRhedged,Z,AZNH,Y,100.0,N,AZNH
+AZNH,Precidian ETFs Trust AstraZeneca PLC ADRhedged,Precidian ETFs Trust AstraZeneca PLC ADRhedged,P,AZNH,Y,100.0,N,AZNH
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,100.0,N,AZO
 AZTD,Tidal ETF Trust Aztlan Global Stock Selection DM SMID ETF,Tidal ETF Trust Aztlan Global Stock Selection DM SMID ETF,P,AZTD,Y,100.0,N,AZTD
 AZTR,Azitra Inc Common Stock,Azitra Inc Common Stock,A,AZTR,N,100.0,N,AZTR
@@ -738,7 +738,7 @@ BOXA,EA Series Trust Alpha Architect Aggregate Bond ETF,EA Series Trust Alpha Ar
 BOXX,EA Series Trust Alpha Architect 1,EA Series Trust Alpha Architect 1-3 Month Box ETF,Z,BOXX,Y,100.0,N,BOXX
 BP,BP p.l.c. Common Stock,BP p.l.c. Common Stock,N,BP,N,100.0,N,BP
 BPAY,iShares FinTech Active ETF,iShares FinTech Active ETF,P,BPAY,Y,100.0,N,BPAY
-BPH,Precidian ETFs Trust BP plc ADRhedged,Precidian ETFs Trust BP plc ADRhedged,Z,BPH,Y,100.0,N,BPH
+BPH,Precidian ETFs Trust BP plc ADRhedged,Precidian ETFs Trust BP plc ADRhedged,P,BPH,Y,100.0,N,BPH
 BPI,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,P,BPI,Y,100.0,N,BPI
 BPT,BP Prudhoe Bay Royalty Trust Common Stock,BP Prudhoe Bay Royalty Trust Common Stock,N,BPT,N,100.0,N,BPT
 BQ,Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares),Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares),A,BQ,N,100.0,N,BQ
@@ -1522,7 +1522,6 @@ DSX.W,Diana Shipping inc. Warrants,Diana Shipping inc. Warrants,N,DSX.WS,N,100.0
 DT,"Dynatrace, Inc. Common Stock","Dynatrace, Inc. Common Stock",N,DT,N,100.0,N,DT
 DTAN,EA Series Trust Sparkline International Intangible Value ETF,EA Series Trust Sparkline International Intangible Value ETF,P,DTAN,Y,100.0,N,DTAN
 DTB,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,N,DTB,N,100.0,N,DTB
-DTC,"Solo Brands, Inc. Class A Common Stock","Solo Brands, Inc. Class A Common Stock",N,DTC,N,100.0,N,DTC
 DTD,WisdomTree U.S. Total Dividend Fund,WisdomTree U.S. Total Dividend Fund,P,DTD,Y,100.0,N,DTD
 DTE,DTE Energy Company Common Stock,DTE Energy Company Common Stock,N,DTE,N,100.0,N,DTE
 DTEC,ALPS ETF Trust ALPS Disruptive Technologies ETF,ALPS ETF Trust ALPS Disruptive Technologies ETF,P,DTEC,Y,100.0,N,DTEC
@@ -2073,7 +2072,7 @@ FIHL,Fidelis Insurance Holdings Limited Common Shares,Fidelis Insurance Holdings
 FIIG,First Trust Exchange,First Trust Exchange-Traded Fund IV First Trust Intermediate Duration Investment Grade Corporate ETF,P,FIIG,Y,100.0,N,FIIG
 FILL,iShares MSCI Global Energy Producers Fund,iShares MSCI Global Energy Producers Fund,P,FILL,Y,100.0,N,FILL
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,N,FINS,N,100.0,N,FINS
-FINS.V,"Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued","Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights when issued",N,FINSrw,N,100.0,N,FINS^#
+FINS.R,"Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights","Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights",N,FINSr,N,100.0,N,FINS^
 FINT,The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF,The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF,P,FINT,Y,100.0,N,FINT
 FINV,FinVolution Group American Depositary Shares,FinVolution Group American Depositary Shares,N,FINV,N,100.0,N,FINV
 FIRI,Tidal ETF Trust FIRE Funds Income Target ETF,Tidal ETF Trust FIRE Funds Income Target ETF,P,FIRI,Y,100.0,N,FIRI
@@ -2548,7 +2547,7 @@ GSIE,Goldman Sachs ActiveBeta International Equity ETF,Goldman Sachs ActiveBeta 
 GSIG,Golden Sachs ETF Trust Goldman Sachs Access Investment Grade Corporate 1,Golden Sachs ETF Trust Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF,P,GSIG,Y,100.0,N,GSIG
 GSJY,Goldman Sachs ActiveBeta Japan Equity ETF,Goldman Sachs ActiveBeta Japan Equity ETF,P,GSJY,Y,100.0,N,GSJY
 GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),GSK plc American Depositary Shares (Each representing two Ordinary Shares),N,GSK,N,100.0,N,GSK
-GSKH,Precidian ETFs Trust GSK plc ADRhedged,Precidian ETFs Trust GSK plc ADRhedged,Z,GSKH,Y,100.0,N,GSKH
+GSKH,Precidian ETFs Trust GSK plc ADRhedged,Precidian ETFs Trust GSK plc ADRhedged,P,GSKH,Y,100.0,N,GSKH
 GSL,Global Ship Lease Inc New Class A Common Shares,Global Ship Lease Inc New Class A Common Shares,N,GSL,N,100.0,N,GSL
 GSL$B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)","Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)",N,GSLpB,N,100.0,N,GSL-B
 GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,P,GSLC,Y,100.0,N,GSLC
@@ -2724,7 +2723,7 @@ HRI,Herc Holdings Inc. Common Stock ,Herc Holdings Inc. Common Stock ,N,HRI,N,10
 HRL,Hormel Foods Corporation Common Stock,Hormel Foods Corporation Common Stock,N,HRL,N,100.0,N,HRL
 HRTG,"Heritage Insurance Holdings, Inc. Common Stock","Heritage Insurance Holdings, Inc. Common Stock",N,HRTG,N,100.0,N,HRTG
 HSBC,"HSBC Holdings, plc. Common Stock","HSBC Holdings, plc. Common Stock",N,HSBC,N,100.0,N,HSBC
-HSBH,Precidian ETFs Trust HSBC Holdings plc ADRhedged,Precidian ETFs Trust HSBC Holdings plc ADRhedged,Z,HSBH,Y,100.0,N,HSBH
+HSBH,Precidian ETFs Trust HSBC Holdings plc ADRhedged,Precidian ETFs Trust HSBC Holdings plc ADRhedged,P,HSBH,Y,100.0,N,HSBH
 HSCZ,iShares Currency Hedged MSCI EAFE Small,iShares Currency Hedged MSCI EAFE Small-Cap ETF,P,HSCZ,Y,100.0,N,HSCZ
 HSHP,Himalaya Shipping Ltd. Common Shares,Himalaya Shipping Ltd. Common Shares,N,HSHP,N,100.0,N,HSHP
 HSMV,First Trust Horizon Managed Volatility Small/Mid ETF,First Trust Horizon Managed Volatility Small/Mid ETF,P,HSMV,Y,100.0,N,HSMV
@@ -3594,7 +3593,6 @@ LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common St
 LUV,Southwest Airlines Company Common Stock,Southwest Airlines Company Common Stock,N,LUV,N,100.0,N,LUV
 LUX,Tema ETF Trust Tema Luxury ETF,Tema ETF Trust Tema Luxury ETF,P,LUX,Y,100.0,N,LUX
 LVHI,Franklin International Low Volatility High Dividend Index ETF ,Franklin International Low Volatility High Dividend Index ETF ,Z,LVHI,Y,100.0,N,LVHI
-LVOL,American Century Low Volatility ETF,American Century Low Volatility ETF,P,LVOL,Y,100.0,N,LVOL
 LVS,Las Vegas Sands Corp. Common Stock,Las Vegas Sands Corp. Common Stock,N,LVS,N,100.0,N,LVS
 LVWR,"LiveWire Group, Inc. Common Stock","LiveWire Group, Inc. Common Stock",N,LVWR,N,100.0,N,LVWR
 LVWR.W,"LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share","LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,LVWR.WS,N,100.0,N,LVWR+
@@ -3622,6 +3620,7 @@ MAGG,Madison ETFs Trust Madison Aggregate Bond ETF,Madison ETFs Trust Madison Ag
 MAGN,Magnera Corporation Common Stock,Magnera Corporation Common Stock,N,MAGN,N,100.0,N,MAGN
 MAGS,Roundhill Magnificent Seven ETF,Roundhill Magnificent Seven ETF,Z,MAGS,Y,100.0,N,MAGS
 MAGX,Roundhill Daily 2X Long Magnificent Seven ETF,Roundhill Daily 2X Long Magnificent Seven ETF,Z,MAGX,Y,100.0,N,MAGX
+MAGY,Roundhill ETF Trust Roundhill Magnificent Seven Covered Call ETF,Roundhill ETF Trust Roundhill Magnificent Seven Covered Call ETF,Z,MAGY,Y,100.0,N,MAGY
 MAIA,"MAIA Biotechnology, Inc. Common Stock","MAIA Biotechnology, Inc. Common Stock",A,MAIA,N,100.0,N,MAIA
 MAIN,Main Street Capital Corporation Common Stock,Main Street Capital Corporation Common Stock,N,MAIN,N,100.0,N,MAIN
 MAKX,ProShares S&P Kensho Smart Factories ETF,ProShares S&P Kensho Smart Factories ETF,P,MAKX,Y,100.0,N,MAKX
@@ -3821,7 +3820,6 @@ MOTO,SmartETFs Smart Transportation & Technology ETF,SmartETFs Smart Transportat
 MOV,Movado Group Inc. Common Stock,Movado Group Inc. Common Stock,N,MOV,N,100.0,N,MOV
 MP,MP Materials Corp. Common Stock,MP Materials Corp. Common Stock,N,MP,N,100.0,N,MP
 MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,N,MPA,N,100.0,N,MPA
-MPAY,Exchange Listed Funds Trust Akros Monthly Payout ETF,Exchange Listed Funds Trust Akros Monthly Payout ETF,P,MPAY,Y,100.0,N,MPAY
 MPC,Marathon Petroleum Corporation Common Stock,Marathon Petroleum Corporation Common Stock,N,MPC,N,100.0,N,MPC
 MPLX,MPLX LP Common Units Representing Limited Partner Interests,MPLX LP Common Units Representing Limited Partner Interests,N,MPLX,N,100.0,N,MPLX
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
@@ -4160,7 +4158,7 @@ NVG,Nuveen AMT,Nuveen AMT-Free Municipal Credit Income Fund ,N,NVG,N,100.0,N,NVG
 NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),N,NVGS,N,100.0,N,NVGS
 NVIR,Listed Funds Trust Horizon Kinetics Energy and Remediation ETF,Listed Funds Trust Horizon Kinetics Energy and Remediation ETF,P,NVIR,Y,100.0,N,NVIR
 NVO,Novo Nordisk A/S Common Stock,Novo Nordisk A/S Common Stock,N,NVO,N,100.0,N,NVO
-NVOH,Precidian ETFs Trust Novo Nordisk A/S B Shares ADRhedged,Precidian ETFs Trust Novo Nordisk A/S B Shares ADRhedged,Z,NVOH,Y,100.0,N,NVOH
+NVOH,Precidian ETFs Trust Novo Nordisk A/S B Shares ADRhedged,Precidian ETFs Trust Novo Nordisk A/S B Shares ADRhedged,P,NVOH,Y,100.0,N,NVOH
 NVOX,Tidal Trust II Defiance Daily Target 2X Long NVO ETF,Tidal Trust II Defiance Daily Target 2X Long NVO ETF,P,NVOX,Y,100.0,N,NVOX
 NVR,"NVR, Inc. Common Stock","NVR, Inc. Common Stock",N,NVR,N,10.0,N,NVR
 NVRI,Enviri Corporation Common Stock,Enviri Corporation Common Stock,N,NVRI,N,100.0,N,NVRI
@@ -5022,7 +5020,7 @@ SAMT,The Advisors' Inner Circle Fund III Strategas Macro Thematic Opportunities 
 SAN,"Banco Santander, S.A. Sponsored ADR (Spain)","Banco Santander, S.A. Sponsored ADR (Spain)",N,SAN,N,100.0,N,SAN
 SAND,Sandstorm Gold Ltd. Ordinary Shares (Canada),Sandstorm Gold Ltd. Ordinary Shares (Canada),N,SAND,N,100.0,N,SAND
 SAP,SAP  SE ADS,SAP  SE ADS,N,SAP,N,100.0,N,SAP
-SAPH,Precidian ETFs Trust SAP SE ADRhedged,Precidian ETFs Trust SAP SE ADRhedged,Z,SAPH,Y,100.0,N,SAPH
+SAPH,Precidian ETFs Trust SAP SE ADRhedged,Precidian ETFs Trust SAP SE ADRhedged,P,SAPH,Y,100.0,N,SAPH
 SAR,Saratoga Investment Corp New,Saratoga Investment Corp New,N,SAR,N,100.0,N,SAR
 SARO,"StandardAero, Inc. Common Stock","StandardAero, Inc. Common Stock",N,SARO,N,100.0,N,SARO
 SAT,Saratoga Investment Corp 6.00% Notes due 2027,Saratoga Investment Corp 6.00% Notes due 2027,N,SAT,N,100.0,N,SAT
@@ -5180,7 +5178,7 @@ SHAK,"Shake Shack, Inc. Class A Common Stock","Shake Shack, Inc. Class A Common 
 SHCO,Soho House & Co Inc. Class A Common Stock,Soho House & Co Inc. Class A Common Stock,N,SHCO,N,100.0,N,SHCO
 SHDG,Trust For Advised Portfolios Soundwatch Hedged Equity ETF,Trust For Advised Portfolios Soundwatch Hedged Equity ETF,Z,SHDG,Y,100.0,N,SHDG
 SHE,SPDR MSCI USA Gender Diversity ETF,SPDR MSCI USA Gender Diversity ETF,P,SHE,Y,100.0,N,SHE
-SHEH,Precidian ETFs Trust Shell plc ADRhedged,Precidian ETFs Trust Shell plc ADRhedged,Z,SHEH,Y,100.0,N,SHEH
+SHEH,Precidian ETFs Trust Shell plc ADRhedged,Precidian ETFs Trust Shell plc ADRhedged,P,SHEH,Y,100.0,N,SHEH
 SHEL,Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ,Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ,N,SHEL,N,100.0,N,SHEL
 SHG,Shinhan Financial Group Co Ltd American Depositary Shares,Shinhan Financial Group Co Ltd American Depositary Shares,N,SHG,N,100.0,N,SHG
 SHLD,Global X Funds Global X Defense Tech ETF,Global X Funds Global X Defense Tech ETF,P,SHLD,Y,100.0,N,SHLD
@@ -5465,7 +5463,7 @@ STEL,"Stellar Bancorp, Inc. Common Stock","Stellar Bancorp, Inc. Common Stock",N
 STEM,"Stem, Inc. Class A Common Stock","Stem, Inc. Class A Common Stock",N,STEM,N,100.0,N,STEM
 STEW,"SRH Total Return Fund, Inc. Common Stock","SRH Total Return Fund, Inc. Common Stock",N,STEW,N,100.0,N,STEW
 STG,"Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares","Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares",N,STG,N,100.0,N,STG
-STHH,Precidian ETFs Trust STMicroelectronics NV ADRhedged,Precidian ETFs Trust STMicroelectronics NV ADRhedged,Z,STHH,Y,100.0,N,STHH
+STHH,Precidian ETFs Trust STMicroelectronics NV ADRhedged,Precidian ETFs Trust STMicroelectronics NV ADRhedged,P,STHH,Y,100.0,N,STHH
 STIP,iShares 0,iShares 0-5 Year TIPS Bond ETF,P,STIP,Y,100.0,N,STIP
 STK,Columbia Seligman Premium Technology Growth Fund Inc,Columbia Seligman Premium Technology Growth Fund Inc,N,STK,N,100.0,N,STK
 STLA,Stellantis N.V. Common Shares,Stellantis N.V. Common Shares,N,STLA,N,100.0,N,STLA
@@ -5690,7 +5688,7 @@ TMFG,Motley Fool Global Opportunities ETF,Motley Fool Global Opportunities ETF,Z
 TMFM,Motley Fool Mid,Motley Fool Mid-Cap Growth ETF,Z,TMFM,Y,100.0,N,TMFM
 TMFS,Motley Fool Small,Motley Fool Small-Cap Growth ETF,Z,TMFS,Y,100.0,N,TMFS
 TMFX,"The RBB Fund, Inc. Motley Fool Next Index ETF","The RBB Fund, Inc. Motley Fool Next Index ETF",Z,TMFX,Y,100.0,N,TMFX
-TMH,Precidian ETFs Trust Toyota Motor Corporation ADRhedged,Precidian ETFs Trust Toyota Motor Corporation ADRhedged,Z,TMH,Y,100.0,N,TMH
+TMH,Precidian ETFs Trust Toyota Motor Corporation ADRhedged,Precidian ETFs Trust Toyota Motor Corporation ADRhedged,P,TMH,Y,100.0,N,TMH
 TMHC,Taylor Morrison Home Corporation Common Stock,Taylor Morrison Home Corporation Common Stock,N,TMHC,N,100.0,N,TMHC
 TMO,Thermo Fisher Scientific Inc Common Stock,Thermo Fisher Scientific Inc Common Stock,N,TMO,N,100.0,N,TMO
 TMP,Tompkins Financial Corporation Common Stock,Tompkins Financial Corporation Common Stock,A,TMP,N,100.0,N,TMP
