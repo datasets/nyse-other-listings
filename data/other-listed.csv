@@ -2447,6 +2447,7 @@ GMAY,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffe
 GME,GameStop Corporation Common Stock,GameStop Corporation Common Stock,N,GME,N,100.0,N,GME
 GMED,"Globus Medical, Inc. Class A Common Stock","Globus Medical, Inc. Class A Common Stock",N,GMED,N,100.0,N,GMED
 GMET,VanEck Green Metals ETF,VanEck Green Metals ETF,P,GMET,Y,100.0,N,GMET
+GMEU,T,T-REX 2X Long GME Daily Target ETF T-REX 2X Long GME Daily Target ETF,Z,GMEU,Y,100.0,N,GMEU
 GMF,SPDR S&P Emerging Asia Pacific ETF,SPDR S&P Emerging Asia Pacific ETF,P,GMF,Y,100.0,N,GMF
 GMMA,Tidal Trust III GammaRoad Market Navigation ETF,Tidal Trust III GammaRoad Market Navigation ETF,P,GMMA,Y,100.0,N,GMMA
 GMMF,BlackRock ETF Trust iShares Government Money Market ETF,BlackRock ETF Trust iShares Government Money Market ETF,P,GMMF,Y,100.0,N,GMMF
@@ -5297,6 +5298,7 @@ SNAV,Collaborative Investment Series Trust Mohr Sector Nav ETF,Collaborative Inv
 SNDA,"Sonida Senior Living, Inc. Common Stock","Sonida Senior Living, Inc. Common Stock",N,SNDA,N,100.0,N,SNDA
 SNDR,"Schneider National, Inc. Common Stock","Schneider National, Inc. Common Stock",N,SNDR,N,100.0,N,SNDR
 SNN,"Smith & Nephew SNATS, Inc. Common Stock","Smith & Nephew SNATS, Inc. Common Stock",N,SNN,N,100.0,N,SNN
+SNOU,T,T-REX 2X Long GME Daily Target ETF T-REX 2X Long SNOW Daily Target ETF,Z,SNOU,Y,100.0,N,SNOU
 SNOV,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - November,Z,SNOV,Y,100.0,N,SNOV
 SNOW,Snowflake Inc. Class A Common Stock,Snowflake Inc. Class A Common Stock,N,SNOW,N,100.0,N,SNOW
 SNOY,Tidal Trust II YieldMax SNOW Option Income Strategy ETF,Tidal Trust II YieldMax SNOW Option Income Strategy ETF,P,SNOY,Y,100.0,N,SNOY
