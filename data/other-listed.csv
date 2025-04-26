@@ -2855,7 +2855,7 @@ ICLO,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded 
 ICOI,Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF,Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF,P,ICOI,Y,100.0,N,ICOI
 ICOW,Pacer Developed Markets International Cash Cows 100 ETF,Pacer Developed Markets International Cash Cows 100 ETF,Z,ICOW,Y,100.0,N,ICOW
 ICR$A,"InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock","InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock",N,ICRpA,N,100.0,N,ICR-A
-ICSH,iShares Ultra Short,iShares Ultra Short-Term Bond Active ETF,Z,ICSH,Y,100.0,N,ICSH
+ICSH,iShares Ultra Short Duration Bond Active ETF,iShares Ultra Short Duration Bond Active ETF,Z,ICSH,Y,100.0,N,ICSH
 ICVT,iShares Convertible Bond ETF,iShares Convertible Bond ETF,Z,ICVT,Y,100.0,N,ICVT
 IDA,"IDACORP, Inc. Common Stock","IDACORP, Inc. Common Stock",N,IDA,N,100.0,N,IDA
 IDAT,iShares Future Cloud 5G and Tech ETF,iShares Future Cloud 5G and Tech ETF,P,IDAT,Y,100.0,N,IDAT
@@ -3766,7 +3766,6 @@ MIY,"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock","Blackrock Mu
 MJ,Amplify ETF Trust Amplify Alternative Harvest ETF,Amplify ETF Trust Amplify Alternative Harvest ETF,P,MJ,Y,100.0,N,MJ
 MKC,"McCormick & Company, Incorporated Common Stock","McCormick & Company, Incorporated Common Stock",N,MKC,N,100.0,N,MKC
 MKC.V,"McCormick & Company, Incorporated Common Stock","McCormick & Company, Incorporated Common Stock",N,MKC.V,N,100.0,N,MKC.V
-MKFG,Markforged Holding Corporation Common Stock,Markforged Holding Corporation Common Stock,N,MKFG,N,100.0,N,MKFG
 MKL,Markel Group Inc. Common Stock,Markel Group Inc. Common Stock,N,MKL,N,10.0,N,MKL
 MKOR,Matthews International Funds Matthews Korea Active ETF,Matthews International Funds Matthews Korea Active ETF,P,MKOR,Y,100.0,N,MKOR
 MLDR,Global X Funds Global X Intermediate,Global X Funds Global X Intermediate-Term Treasury Ladder ETF,P,MLDR,Y,100.0,N,MLDR
@@ -4687,6 +4686,7 @@ QBER,Elevation Series Trust TrueShares Quarterly Bear Hedge ETF,Elevation Series
 QBF,Innovator ETFs Trust Innovator Uncapped Bitcoin 20 Floor ETF ,Innovator ETFs Trust Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly,Z,QBF,Y,100.0,N,QBF
 QBTS,D,D-Wave Quantum Inc. Common Shares,N,QBTS,N,100.0,N,QBTS
 QBTS.W,D,"D-Wave Quantum Inc. Warrants, each whole warrant exercisable for 1.4541326 Common Shares at an exercise price of $11.50",N,QBTS.WS,N,100.0,N,QBTS+
+QBTX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long QBTS Daily ETF,Tradr 2X Long QBTS Daily ETF Tradr 2X Long QBTS Daily ETF,Z,QBTX,Y,100.0,N,QBTX
 QBUL,Elevation Series Trust TrueShares Quarterly Bull Hedge ETF,Elevation Series Trust TrueShares Quarterly Bull Hedge ETF,Z,QBUL,Y,100.0,N,QBUL
 QCAP,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Conservative Buffer ETF - April,Z,QCAP,Y,100.0,N,QCAP
 QCJA,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Conservative Buffer ETF - January,Z,QCJA,Y,100.0,N,QCJA
@@ -5443,7 +5443,7 @@ SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NXG C
 SRVR,Pacer Data & Infrastructure Real Estate ETF,Pacer Data & Infrastructure Real Estate ETF,P,SRVR,Y,100.0,N,SRVR
 SSB,SouthState Corporation Common Stock,SouthState Corporation Common Stock,N,SSB,N,100.0,N,SSB
 SSD,"Simpson Manufacturing Company, Inc. Common Stock","Simpson Manufacturing Company, Inc. Common Stock",N,SSD,N,100.0,N,SSD
-SSFI,Day Hagan/Ned Davis Research Smart Sector Fixed Income ETF,Day Hagan/Ned Davis Research Smart Sector Fixed Income ETF,P,SSFI,Y,100.0,N,SSFI
+SSFI,Day Hagan Smart Sector Fixed Income ETF,Day Hagan Smart Sector Fixed Income ETF,P,SSFI,Y,100.0,N,SSFI
 SSG,ProShares UltraShort Semiconductors,ProShares UltraShort Semiconductors,P,SSG,Y,100.0,N,SSG
 SSL,Sasol Ltd. American Depositary Shares,Sasol Ltd. American Depositary Shares,N,SSL,N,100.0,N,SSL
 SSO,ProShares Ultra S&P500,ProShares Ultra S&P500,P,SSO,Y,100.0,N,SSO
@@ -5451,8 +5451,8 @@ SSPX,Janus Henderson U.S. Sustainable Equity ETF,Janus Henderson U.S. Sustainabl
 SSPY,Exchange Listed Funds Trust Stratified LargeCap Index ETF,Exchange Listed Funds Trust Stratified LargeCap Index ETF,P,SSPY,Y,100.0,N,SSPY
 SST,"System1, Inc. Class A Common Stock","System1, Inc. Class A Common Stock",N,SST,N,100.0,N,SST
 SSTK,"Shutterstock, Inc. Common Stock","Shutterstock, Inc. Common Stock",N,SSTK,N,100.0,N,SSTK
-SSUS,Day Hagan/Ned Davis Research Smart Sector ETF,Day Hagan/Ned Davis Research Smart Sector ETF,P,SSUS,Y,100.0,N,SSUS
-SSXU,Strategy Shares Day Hagan/Ned Davis Research Smart Sector International ETF,Strategy Shares Day Hagan/Ned Davis Research Smart Sector International ETF,P,SSXU,Y,100.0,N,SSXU
+SSUS,Day Hagan Smart Sector ETF,Day Hagan Smart Sector ETF,P,SSUS,Y,100.0,N,SSUS
+SSXU,Day Hagan Smart Sector International ETF,Day Hagan Smart Sector International ETF,P,SSXU,Y,100.0,N,SSXU
 SSY,"SunLink Health Systems, Inc. Common Stock","SunLink Health Systems, Inc. Common Stock",A,SSY,N,100.0,N,SSY
 ST,Sensata Technologies Holding plc Ordinary Shares,Sensata Technologies Holding plc Ordinary Shares,N,ST,N,100.0,N,ST
 STAG,"Stag Industrial, Inc. Common Stock","Stag Industrial, Inc. Common Stock",N,STAG,N,100.0,N,STAG
@@ -6143,7 +6143,6 @@ WBS,Webster Financial Corporation Common Stock,Webster Financial Corporation Com
 WBS$F,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non","Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",N,WBSpF,N,100.0,N,WBS-F
 WBS$G,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non","Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",N,WBSpG,N,100.0,N,WBS-G
 WBX,Wallbox N.V. Class A Ordinary Shares,Wallbox N.V. Class A Ordinary Shares,N,WBX,N,100.0,N,WBX
-WBX.W,"Wallbox N.V. Warrants, each warrant to purchase one Class A Ordinary Share","Wallbox N.V. Warrants, each warrant to purchase one Class A Ordinary Share",N,WBX.WS,N,100.0,N,WBX+
 WCC,"WESCO International, Inc. Common Stock","WESCO International, Inc. Common Stock",N,WCC,N,100.0,N,WCC
 WCC$A,"WESCO International, Inc. Depositary Shares each representing 1/1,000th interest in a share of Series A Fixed","WESCO International, Inc. Depositary Shares each representing 1/1,000th interest in a share of Series A Fixed-Rate Reset Cumulative Perpetual Preferred Stock",N,WCCpA,N,100.0,N,WCC-A
 WCEO,Hypatia Women CEO ETF,Hypatia Women CEO ETF,P,WCEO,Y,100.0,N,WCEO
