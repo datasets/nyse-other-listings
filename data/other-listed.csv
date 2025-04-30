@@ -452,6 +452,7 @@ BAC$O,"Bank of America Corporation Depositary shares, each representing 1/1,000t
 BAC$P,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non","Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.125% Non-Cumulative Preferred Stock, Series PP",N,BACpP,N,100.0,N,BAC-P
 BAC$Q,"Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.250% Non","Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.250% Non-Cumulative Preferred Stock, Series QQ",N,BACpQ,N,100.0,N,BAC-Q
 BAC$S,"Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.750% Non","Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.750% Non-Cumulative Preferred Stock, Series SS",N,BACpS,N,100.0,N,BAC-S
+BAGY,Amplify ETF Trust Amplify Bitcoin Max Income Covered Call ETF,Amplify ETF Trust Amplify Bitcoin Max Income Covered Call ETF,Z,BAGY,Y,100.0,N,BAGY
 BAH,Booz Allen Hamilton Holding Corporation Common Stock,Booz Allen Hamilton Holding Corporation Common Stock,N,BAH,N,100.0,N,BAH
 BAI,BlackRock ETF Trust iShares A.I. Innovation and Tech Active ETF,BlackRock ETF Trust iShares A.I. Innovation and Tech Active ETF,P,BAI,Y,100.0,N,BAI
 BAK,Braskem SA ADR,Braskem SA ADR,N,BAK,N,100.0,N,BAK
@@ -639,6 +640,7 @@ BITO,ProShares Bitcoin ETF,ProShares Bitcoin ETF,P,BITO,Y,100.0,N,BITO
 BITQ,Bitwise Crypto Industry Innovators ETF,Bitwise Crypto Industry Innovators ETF,P,BITQ,Y,100.0,N,BITQ
 BITU,ProShares Trust ProShares Ultra Bitcoin ETF,ProShares Trust ProShares Ultra Bitcoin ETF,P,BITU,Y,100.0,N,BITU
 BITX,Volatility Shares Trust 2x Bitcoin Strategy ETF,Volatility Shares Trust 2x Bitcoin Strategy ETF,Z,BITX,Y,100.0,N,BITX
+BITY,Amplify ETF Trust Amplify Bitcoin 24% Premium Income ETF,Amplify ETF Trust Amplify Bitcoin 24% Premium Income ETF,Z,BITY,Y,100.0,N,BITY
 BIV,Vanguard Intermediate,Vanguard Intermediate-Term Bond ETF,P,BIV,Y,100.0,N,BIV
 BIZD,VanEck BDC Income ETF ,VanEck BDC Income ETF ,P,BIZD,Y,100.0,N,BIZD
 BJ,"BJ's Wholesale Club Holdings, Inc. Common Stock","BJ's Wholesale Club Holdings, Inc. Common Stock",N,BJ,N,100.0,N,BJ
@@ -1190,7 +1192,6 @@ CRS,Carpenter Technology Corporation Common Stock,Carpenter Technology Corporati
 CRSH,Tidal Trust II YieldMax Short TSLA Option Income Strategy ETF,Tidal Trust II YieldMax Short TSLA Option Income Strategy ETF,P,CRSH,Y,100.0,N,CRSH
 CRT,Cross Timbers Royalty Trust Common Stock,Cross Timbers Royalty Trust Common Stock,N,CRT,N,100.0,N,CRT
 CRTC,DBX ETF Trust Xtrackers US National Critical Technologies ETF,DBX ETF Trust Xtrackers US National Critical Technologies ETF,P,CRTC,Y,100.0,N,CRTC
-CRUZ,"Defiance Hotel, Airline, and Cruise ETF","Defiance Hotel, Airline, and Cruise ETF",P,CRUZ,Y,100.0,N,CRUZ
 CSAN,Cosan S.A. ADS,Cosan S.A. ADS,N,CSAN,N,100.0,N,CSAN
 CSD,Invesco S&P Spin,Invesco S&P Spin-Off ETF,P,CSD,Y,100.0,N,CSD
 CSHI,NEOS Enhanced Income 1,NEOS Enhanced Income 1-3 Month T-Bill ETF,P,CSHI,Y,100.0,N,CSHI
@@ -2153,6 +2154,7 @@ FLYD,Bank of Montreal MicroSectors Travel ,Bank of Montreal MicroSectors Travel 
 FLYU,Bank of Montreal MicroSectors Travel 3x Leveraged ETN,Bank of Montreal MicroSectors Travel 3x Leveraged ETN,P,FLYU,Y,100.0,N,FLYU
 FLYX,"flyExclusive, Inc. Class A Common Stock","flyExclusive, Inc. Class A Common Stock",A,FLYX,N,100.0,N,FLYX
 FLYX.W,"flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share","flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",A,FLYX.WS,N,100.0,N,FLYX+
+FLYY,"Spirit Aviation Holdings, Inc. Common Stock","Spirit Aviation Holdings, Inc. Common Stock",A,FLYY,N,100.0,N,FLYY
 FMAG,Fidelity Magellan ETF,Fidelity Magellan ETF,Z,FMAG,Y,100.0,N,FMAG
 FMAR,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - March,Z,FMAR,Y,100.0,N,FMAR
 FMAT,Fidelity MSCI Materials Index ETF,Fidelity MSCI Materials Index ETF,P,FMAT,Y,100.0,N,FMAT
@@ -2630,7 +2632,6 @@ HDG,ProShares Hedge Replication ETF,ProShares Hedge Replication ETF,P,HDG,Y,100.
 HDGE,Ranger Equity Bear Bear ETF,Ranger Equity Bear Bear ETF,P,HDGE,Y,100.0,N,HDGE
 HDLB,"ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Series B due September 30, 2044","ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Series B due September 30, 2044",P,HDLB,Y,100.0,N,HDLB
 HDMV,First Trust Exchange,First Trust Exchange-Traded Fund III First Trust Horizon Managed Volatility Developed International ETF,P,HDMV,Y,100.0,N,HDMV
-HDRO,ETF Series Solutions Defiance Next Gen H2 ETF,ETF Series Solutions Defiance Next Gen H2 ETF,P,HDRO,Y,100.0,N,HDRO
 HDUS,Lattice Strategies Trust Hartford Disciplined US Equity ETF,Lattice Strategies Trust Hartford Disciplined US Equity ETF,P,HDUS,Y,100.0,N,HDUS
 HDV,iShares Core High Dividend ETF,iShares Core High Dividend ETF,P,HDV,Y,100.0,N,HDV
 HE,"Hawaiian Electric Industries, Inc. Common Stock","Hawaiian Electric Industries, Inc. Common Stock",N,HE,N,100.0,N,HE
@@ -3525,6 +3526,7 @@ LII,"Lennox International, Inc. Common Stock","Lennox International, Inc. Common
 LIMI,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Z,LIMI,Y,100.0,N,LIMI
 LIT,Global X Lithium & Battery Tech ETF,Global X Lithium & Battery Tech ETF,P,LIT,Y,100.0,N,LIT
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares","LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",N,LITB,N,100.0,N,LITB
+LITL,Simplify Exchange Traded Funds Simplify Piper Sandler US Small,Simplify Exchange Traded Funds Simplify Piper Sandler US Small-Cap PLUS Income ETF,P,LITL,Y,100.0,N,LITL
 LJAN,Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF ,Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF - January,Z,LJAN,Y,100.0,N,LJAN
 LJUL,SHL Telemedicine Ltd Innovator Premium Income 15 Buffer ETF ,SHL Telemedicine Ltd Innovator Premium Income 15 Buffer ETF - July,Z,LJUL,Y,100.0,N,LJUL
 LKOR,FlexShares Trust FlexShares Credit,FlexShares Trust FlexShares Credit-Scored US Long Corporate Bond Index Fund,Z,LKOR,Y,100.0,N,LKOR
