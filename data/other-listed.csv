@@ -62,6 +62,7 @@ ACU,Acme United Corporation. Common Stock,Acme United Corporation. Common Stock,
 ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,N,ACV,N,100.0,N,ACV
 ACVA,ACV Auctions Inc. Class A Common Stock,ACV Auctions Inc. Class A Common Stock,N,ACVA,N,100.0,N,ACVA
 ACVF,American Conservative Values ETF,American Conservative Values ETF,P,ACVF,Y,100.0,N,ACVF
+ACVT,The RBB Fund Trust Advent Convertible Bond ETF,The RBB Fund Trust Advent Convertible Bond ETF,P,ACVT,Y,100.0,N,ACVT
 ACWV,iShares MSCI Global Min Vol Factor ETF,iShares MSCI Global Min Vol Factor ETF,Z,ACWV,Y,100.0,N,ACWV
 ADC,Agree Realty Corporation Common Stock,Agree Realty Corporation Common Stock,N,ADC,N,100.0,N,ADC
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock","Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",N,ADCpA,N,100.0,N,ADC-A
@@ -531,6 +532,7 @@ BCI,abrdn Bloomberg All Commodity Strategy K,abrdn Bloomberg All Commodity Strat
 BCIL,Exchange Listed Funds Trust Bancreek International Large Cap ETF,Exchange Listed Funds Trust Bancreek International Large Cap ETF,P,BCIL,Y,100.0,N,BCIL
 BCIM,abrdn Bloomberg Industrial Metals Strategy K,abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF,P,BCIM,Y,100.0,N,BCIM
 BCO,Brinks Company (The) Common Stock,Brinks Company (The) Common Stock,N,BCO,N,100.0,N,BCO
+BCOR,Grayscale Funds Trust Grayscale Bitcoin Adopters ETF,Grayscale Funds Trust Grayscale Bitcoin Adopters ETF,P,BCOR,Y,100.0,N,BCOR
 BCS,Barclays PLC Common Stock,Barclays PLC Common Stock,N,BCS,N,100.0,N,BCS
 BCSF,"Bain Capital Specialty Finance, Inc. Common Stock","Bain Capital Specialty Finance, Inc. Common Stock",N,BCSF,N,100.0,N,BCSF
 BCUS,Exchange Listed Funds Trust Bancreek U.S. Large Cap ETF,Exchange Listed Funds Trust Bancreek U.S. Large Cap ETF,P,BCUS,Y,100.0,N,BCUS
@@ -563,7 +565,6 @@ BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A S
 BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,N,BEPH,N,100.0,N,BEPH
 BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,N,BEPI,N,100.0,N,BEPI
 BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,N,BEPJ,N,100.0,N,BEPJ
-BERY,"Berry Global Group, Inc. Common Stock","Berry Global Group, Inc. Common Stock",N,BERY,N,100.0,N,BERY
 BERZ,MicroSectors FANG & Innovation ,MicroSectors FANG & Innovation -3x Inverse Leveraged ETN,P,BERZ,Y,100.0,N,BERZ
 BETE,ProShares Bitcoin & Ether Equal Weight ETF,ProShares Bitcoin & Ether Equal Weight ETF,P,BETE,Y,100.0,N,BETE
 BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,ProShares Bitcoin & Ether Market Cap Weight ETF,P,BETH,Y,100.0,N,BETH
@@ -796,7 +797,6 @@ BTOP,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,Bitwise Tren
 BTR,Northern Lights Fund Trust II Beacon Tactical Risk ETF,Northern Lights Fund Trust II Beacon Tactical Risk ETF,P,BTR,Y,100.0,N,BTR
 BTRN,Global X Funds Global X Bitcoin Trend Strategy ETF,Global X Funds Global X Bitcoin Trend Strategy ETF,P,BTRN,Y,100.0,N,BTRN
 BTT,BlackRock Municipal 2030 Target Term Trust,BlackRock Municipal 2030 Target Term Trust,N,BTT,N,100.0,N,BTT
-BTTR,Better Choice Company Inc. Common Stock,Better Choice Company Inc. Common Stock,A,BTTR,N,100.0,N,BTTR
 BTU,Peabody Energy Corporation Common Stock ,Peabody Energy Corporation Common Stock ,N,BTU,N,100.0,N,BTU
 BTX,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,N,BTX,N,100.0,N,BTX
 BTZ,BlackRock Credit Allocation Income Trust,BlackRock Credit Allocation Income Trust,N,BTZ,N,100.0,N,BTZ
@@ -1324,11 +1324,11 @@ DDC,DDC Enterprise Limited Class A Ordinary Shares,DDC Enterprise Limited Class 
 DDD,3D Systems Corporation Common Stock,3D Systems Corporation Common Stock,N,DDD,N,100.0,N,DDD
 DDEC,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - December,Z,DDEC,Y,100.0,N,DDEC
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),N,DDL,N,100.0,N,DDL
-DDLS,WisdomTree Dynamic Currency Hedged International SmallCap Equity Fund,WisdomTree Dynamic Currency Hedged International SmallCap Equity Fund,Z,DDLS,Y,100.0,N,DDLS
+DDLS,WisdomTree Dynamic International SmallCap Equity Fund,WisdomTree Dynamic International SmallCap Equity Fund,Z,DDLS,Y,100.0,N,DDLS
 DDM,ProShares Ultra Dow30,ProShares Ultra Dow30,P,DDM,Y,100.0,N,DDM
 DDS,"Dillard's, Inc. Common Stock","Dillard's, Inc. Common Stock",N,DDS,N,100.0,N,DDS
 DDT,Dillard's Capital Trust I,Dillard's Capital Trust I,N,DDT,N,100.0,N,DDT
-DDWM,WisdomTree Dynamic Currency Hedged International Equity Fund,WisdomTree Dynamic Currency Hedged International Equity Fund,Z,DDWM,Y,100.0,N,DDWM
+DDWM,WisdomTree Dynamic International Equity Fund,WisdomTree Dynamic International Equity Fund,Z,DDWM,Y,100.0,N,DDWM
 DE,Deere & Company Common Stock,Deere & Company Common Stock,N,DE,N,100.0,N,DE
 DEA,"Easterly Government Properties, Inc. Common Stock","Easterly Government Properties, Inc. Common Stock",N,DEA,N,100.0,N,DEA
 DEC,Diversified Energy Company plc Ordinary Shares,Diversified Energy Company plc Ordinary Shares,N,DEC,N,100.0,N,DEC
@@ -2538,7 +2538,7 @@ GS$A,"Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000
 GS$C,"Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series C","Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series C",N,GSpC,N,100.0,N,GS-C
 GS$D,"Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg","Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg",N,GSpD,N,100.0,N,GS-D
 GSBD,"Goldman Sachs BDC, Inc. Common Stock","Goldman Sachs BDC, Inc. Common Stock",N,GSBD,N,100.0,N,GSBD
-GSC,Goldman Sachs ETF Trust Goldman Sachs Small Cap Core Equity ETF,Goldman Sachs ETF Trust Goldman Sachs Small Cap Core Equity ETF,P,GSC,Y,100.0,N,GSC
+GSC,Goldman Sachs Small Cap Equity ETF,Goldman Sachs Small Cap Equity ETF,P,GSC,Y,100.0,N,GSC
 GSEE,Goldman Sachs MarketBeta Emerging Markets Equity ETF,Goldman Sachs MarketBeta Emerging Markets Equity ETF,Z,GSEE,Y,100.0,N,GSEE
 GSEP,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - September,Z,GSEP,Y,100.0,N,GSEP
 GSEU,Goldman Sachs ActiveBeta Europe Equity ETF,Goldman Sachs ActiveBeta Europe Equity ETF,P,GSEU,Y,100.0,N,GSEU
@@ -3826,6 +3826,7 @@ MPC,Marathon Petroleum Corporation Common Stock,Marathon Petroleum Corporation C
 MPLX,MPLX LP Common Units Representing Limited Partner Interests,MPLX LP Common Units Representing Limited Partner Interests,N,MPLX,N,100.0,N,MPLX
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
 MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
+MPTI.W,M,"M-tron Industries, Inc. Warrants to Purchase Shares of Common Stock, Expiring on or before April 25, 2028",A,MPTI.WS,N,100.0,N,MPTI+
 MPU,Mega Matrix Inc. Class A Ordinary Shares,Mega Matrix Inc. Class A Ordinary Shares,A,MPU,N,100.0,N,MPU
 MPV,Barings Participation Investors Common Stock,Barings Participation Investors Common Stock,N,MPV,N,100.0,N,MPV
 MPW,"Medical Properties Trust, Inc. common stock","Medical Properties Trust, Inc. common stock",N,MPW,N,100.0,N,MPW
@@ -5443,6 +5444,7 @@ SRS,ProShares UltraShort Real Estate,ProShares UltraShort Real Estate,P,SRS,Y,10
 SRTY,ProShares UltraPro Short Russell2000,ProShares UltraPro Short Russell2000,P,SRTY,Y,100.0,N,SRTY
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,N,SRV,N,100.0,N,SRV
 SRVR,Pacer Data & Infrastructure Real Estate ETF,Pacer Data & Infrastructure Real Estate ETF,P,SRVR,Y,100.0,N,SRVR
+SRXH,"SRX Health Solutions, Inc. Common Stock","SRX Health Solutions, Inc. Common Stock",A,SRXH,N,100.0,N,SRXH
 SSB,SouthState Corporation Common Stock,SouthState Corporation Common Stock,N,SSB,N,100.0,N,SSB
 SSD,"Simpson Manufacturing Company, Inc. Common Stock","Simpson Manufacturing Company, Inc. Common Stock",N,SSD,N,100.0,N,SSD
 SSFI,Day Hagan Smart Sector Fixed Income ETF,Day Hagan Smart Sector Fixed Income ETF,P,SSFI,Y,100.0,N,SSFI
