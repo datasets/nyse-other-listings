@@ -588,6 +588,7 @@ CMA,Comerica Incorporated Common Stock
 CMBT,CMB.TECH NV Ordinary Shares
 CMC,Commercial Metals Company Common Stock
 CMCM,"Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares"
+CMDB.V,Costamare Bulkers Holdings Limited Common Stock When
 CMG,"Chipotle Mexican Grill, Inc. Common Stock"
 CMI,Cummins Inc. Common Stock
 CMP,Compass Minerals Intl Inc Common Stock
@@ -595,6 +596,7 @@ CMRE,Costamare Inc. Common Stock $0.0001 par value
 CMRE$B,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands)
 CMRE$C,Costamare Inc. Perpetual Preferred Series C (Marshall Islands)
 CMRE$D,Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock
+CMRE.V,Costamare Inc. Common Stock When
 CMS,CMS Energy Corporation Common Stock
 CMS$B,CMS Energy Corporation Preferred Stock
 CMS$C,"CMS Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.200% Cumulative Redeemable Perpetual Preferred Stock, Series C"
@@ -635,6 +637,7 @@ COMP,"Compass, Inc. Class A Common Stock"
 CON,"Concentra Group Holdings Parent, Inc. Common Stock"
 COOK,"Traeger, Inc. Common Stock"
 COP,ConocoPhillips Common Stock
+COPL.U,"Copley Acquisition Corp Units, each consisting of one ordinary share and one"
 COR,"Cencora, Inc. Common Stock"
 COTY,Coty Inc. Class A Common Stock
 COUR,"Coursera, Inc. Common Stock"
@@ -994,7 +997,9 @@ FDS,FactSet Research Systems Inc. Common Stock
 FDX,FedEx Corporation Common Stock
 FE,FirstEnergy Corp. Common Stock
 FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares"
+FEGE,The RBB Fund Trust First Eagle Global Equity ETF
 FENG,"Phoenix New Media Limited American Depositary Shares, each representing 48 Class A ordinary shares."
+FEOE,The RBB Fund Trust First Eagle Overseas Equity ETF
 FERG,Ferguson Enterprises Inc. Common Stock
 FET,"Forum Energy Technologies, Inc. Common Stock"
 FF,FutureFuel Corp.  Common shares
@@ -1564,6 +1569,7 @@ LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordi
 LUCK,Lucky Strike Entertainment Corporation Class A Common Stock
 LUMN,"Lumen Technologies, Inc. Common Stock"
 LUV,Southwest Airlines Company Common Stock
+LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share"
 LVS,Las Vegas Sands Corp. Common Stock
 LVWR,"LiveWire Group, Inc. Common Stock"
 LVWR.W,"LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share"
@@ -1756,7 +1762,6 @@ MYD,"Blackrock MuniYield Fund, Inc.  Common Stock"
 MYE,"Myers Industries, Inc. Common Stock"
 MYI,"Blackrock MuniYield Quality Fund III, Inc Common Stock"
 MYN,"Blackrock MuniYield New York Quality Fund, Inc.Common Stock"
-MYTE,"MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share"
 NABL,N
 NAC,Nuveen California Quality Municipal Income Fund
 NAD,Nuveen Quality Municipal Income Fund Common Stock

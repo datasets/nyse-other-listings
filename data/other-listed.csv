@@ -1057,6 +1057,7 @@ CMC,Commercial Metals Company Common Stock,Commercial Metals Company Common Stoc
 CMCI,VanEck ETF Trust VanEck CMCI Commodity Strategy ETF,VanEck ETF Trust VanEck CMCI Commodity Strategy ETF,Z,CMCI,Y,100.0,N,CMCI
 CMCL,Caledonia Mining Corporation Plc Common Shares,Caledonia Mining Corporation Plc Common Shares,A,CMCL,N,100.0,N,CMCL
 CMCM,"Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares","Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares",N,CMCM,N,100.0,N,CMCM
+CMDB.V,Costamare Bulkers Holdings Limited Common Stock When,Costamare Bulkers Holdings Limited Common Stock When-Issued,N,CMDBw,N,100.0,N,CMDB#
 CMDT,PIMCO U.S. Treasury Index Fund PIMCO Commodity Strategy Active Exchange,PIMCO U.S. Treasury Index Fund PIMCO Commodity Strategy Active Exchange-Traded Fund,P,CMDT,Y,100.0,N,CMDT
 CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,iShares Bloomberg Roll Select Commodity Strategy ETF,P,CMDY,Y,100.0,N,CMDY
 CMF,iShares California Muni Bond ETF,iShares California Muni Bond ETF,P,CMF,Y,100.0,N,CMF
@@ -1067,6 +1068,7 @@ CMRE,Costamare Inc. Common Stock $0.0001 par value,Costamare Inc. Common Stock $
 CMRE$B,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),N,CMREpB,N,100.0,N,CMRE-B
 CMRE$C,Costamare Inc. Perpetual Preferred Series C (Marshall Islands),Costamare Inc. Perpetual Preferred Series C (Marshall Islands),N,CMREpC,N,100.0,N,CMRE-C
 CMRE$D,Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock,Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock,N,CMREpD,N,100.0,N,CMRE-D
+CMRE.V,Costamare Inc. Common Stock When,Costamare Inc. Common Stock When-Issued,N,CMREw,N,100.0,N,CMRE#
 CMS,CMS Energy Corporation Common Stock,CMS Energy Corporation Common Stock,N,CMS,N,100.0,N,CMS
 CMS$B,CMS Energy Corporation Preferred Stock,CMS Energy Corporation Preferred Stock,N,CMSpB,N,10.0,N,CMS-B
 CMS$C,"CMS Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.200% Cumulative Redeemable Perpetual Preferred Stock, Series C","CMS Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.200% Cumulative Redeemable Perpetual Preferred Stock, Series C",N,CMSpC,N,100.0,N,CMS-C
@@ -1123,6 +1125,7 @@ CONY,Tidal ETF Trust II YieldMax COIN Option Income Strategy ETF,Tidal ETF Trust
 COOK,"Traeger, Inc. Common Stock","Traeger, Inc. Common Stock",N,COOK,N,100.0,N,COOK
 COP,ConocoPhillips Common Stock,ConocoPhillips Common Stock,N,COP,N,100.0,N,COP
 COPA,Themes ETF Trust Themes Copper Miners ETF,Themes ETF Trust Themes Copper Miners ETF,Z,COPA,Y,100.0,N,COPA
+COPL.U,"Copley Acquisition Corp Units, each consisting of one ordinary share and one","Copley Acquisition Corp Units, each consisting of one ordinary share and one-half warrant",N,COPL.U,N,100.0,N,COPL=
 COPX,Global X Copper Miners ETF,Global X Copper Miners ETF,P,COPX,Y,100.0,N,COPX
 COPY,"The RBB Fund Trust Tweedy, Browne Insider + Value ETF","The RBB Fund Trust Tweedy, Browne Insider + Value ETF",P,COPY,Y,100.0,N,COPY
 COR,"Cencora, Inc. Common Stock","Cencora, Inc. Common Stock",N,COR,N,100.0,N,COR
@@ -2009,7 +2012,7 @@ FEBW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Feb ETF,AIM ETF Pr
 FEBZ,TrueShares Structured Outcome (February) ETF,TrueShares Structured Outcome (February) ETF,Z,FEBZ,Y,100.0,N,FEBZ
 FEDM,FlexShares ESG & Climate Developed Markets ex,FlexShares ESG & Climate Developed Markets ex-US Core Index Fund,P,FEDM,Y,100.0,N,FEDM
 FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares","Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares",N,FEDU,N,100.0,N,FEDU
-FEGE,The RBB Fund Trust First Eagle Global Equity ETF,The RBB Fund Trust First Eagle Global Equity ETF,P,FEGE,Y,100.0,N,FEGE
+FEGE,The RBB Fund Trust First Eagle Global Equity ETF,The RBB Fund Trust First Eagle Global Equity ETF,N,FEGE,Y,100.0,N,FEGE
 FEIG,FlexShares ESG & Climate Investment Grade Corporate Core Index Fund,FlexShares ESG & Climate Investment Grade Corporate Core Index Fund,P,FEIG,Y,100.0,N,FEIG
 FELC,Fidelity Covington Trust Fidelity Enhanced Large Cap Core ETF,Fidelity Covington Trust Fidelity Enhanced Large Cap Core ETF,P,FELC,Y,100.0,N,FELC
 FELG,Fidelity Covington Trust Fidelity Enhanced Large Cap Growth ETF,Fidelity Covington Trust Fidelity Enhanced Large Cap Growth ETF,P,FELG,Y,100.0,N,FELG
@@ -2018,7 +2021,7 @@ FEMR,Fidelity Covington Trust Fidelity Enhanced Emerging Markets ETF,Fidelity Co
 FENG,"Phoenix New Media Limited American Depositary Shares, each representing 48 Class A ordinary shares.","Phoenix New Media Limited American Depositary Shares, each representing 48 Class A ordinary shares.",N,FENG,N,100.0,N,FENG
 FENI,Fidelity Covington Trust Fidelity Enhanced International ETF,Fidelity Covington Trust Fidelity Enhanced International ETF,P,FENI,Y,100.0,N,FENI
 FENY,Fidelity MSCI Energy Index ETF,Fidelity MSCI Energy Index ETF,P,FENY,Y,100.0,N,FENY
-FEOE,The RBB Fund Trust First Eagle Overseas Equity ETF,The RBB Fund Trust First Eagle Overseas Equity ETF,P,FEOE,Y,100.0,N,FEOE
+FEOE,The RBB Fund Trust First Eagle Overseas Equity ETF,The RBB Fund Trust First Eagle Overseas Equity ETF,N,FEOE,Y,100.0,N,FEOE
 FERG,Ferguson Enterprises Inc. Common Stock,Ferguson Enterprises Inc. Common Stock,N,FERG,N,100.0,N,FERG
 FESM,Fidelity Covington Trust Fidelity Enhanced Small Cap ETF,Fidelity Covington Trust Fidelity Enhanced Small Cap ETF,P,FESM,Y,100.0,N,FESM
 FET,"Forum Energy Technologies, Inc. Common Stock","Forum Energy Technologies, Inc. Common Stock",N,FET,N,100.0,N,FET
@@ -3346,6 +3349,7 @@ KLMN,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI North A
 KLMT,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI Global Climate 500 ETF,P,KLMT,Y,100.0,N,KLMT
 KLXY,KraneShares Trust KraneShares Global Luxury Index ETF,KraneShares Trust KraneShares Global Luxury Index ETF,P,KLXY,Y,100.0,N,KLXY
 KMAR,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - March,Z,KMAR,Y,100.0,N,KMAR
+KMAY,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - May,Z,KMAY,Y,100.0,N,KMAY
 KMB,Kimberly,Kimberly-Clark Corporation Common Stock,N,KMB,N,100.0,N,KMB
 KMI,"Kinder Morgan, Inc. Common Stock","Kinder Morgan, Inc. Common Stock",N,KMI,N,100.0,N,KMI
 KMID,Virtus ETF Trust II Virtus KAR Mid,Virtus ETF Trust II Virtus KAR Mid-Cap ETF,P,KMID,Y,100.0,N,KMID
@@ -3595,6 +3599,7 @@ LUD,Luda Technology Group Limited Ordinary Shares,Luda Technology Group Limited 
 LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common Stock",N,LUMN,N,100.0,N,LUMN
 LUV,Southwest Airlines Company Common Stock,Southwest Airlines Company Common Stock,N,LUV,N,100.0,N,LUV
 LUX,Tema ETF Trust Tema Luxury ETF,Tema ETF Trust Tema Luxury ETF,P,LUX,Y,100.0,N,LUX
+LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share","LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",N,LUXE,N,100.0,N,LUXE
 LVHI,Franklin International Low Volatility High Dividend Index ETF ,Franklin International Low Volatility High Dividend Index ETF ,Z,LVHI,Y,100.0,N,LVHI
 LVS,Las Vegas Sands Corp. Common Stock,Las Vegas Sands Corp. Common Stock,N,LVS,N,100.0,N,LVS
 LVWR,"LiveWire Group, Inc. Common Stock","LiveWire Group, Inc. Common Stock",N,LVWR,N,100.0,N,LVWR
@@ -3659,6 +3664,7 @@ MBNE,SPDR Series Trust SPDR Nuveen Municipal Bond ESG ETF,SPDR Series Trust SPDR
 MBOX,Freedom Day Dividend ETF,Freedom Day Dividend ETF,P,MBOX,Y,100.0,N,MBOX
 MBSD,FlexShares Trust FlexShares Disciplined Duration MBS Index Fund,FlexShares Trust FlexShares Disciplined Duration MBS Index Fund,P,MBSD,Y,100.0,N,MBSD
 MBSF,Valued Advisers Trust Regan Floating Rate MBS ETF,Valued Advisers Trust Regan Floating Rate MBS ETF,P,MBSF,Y,100.0,N,MBSF
+MBSX,Advisor Managed Portfolios Regan Fixed Rate MBS ETF,Advisor Managed Portfolios Regan Fixed Rate MBS ETF,P,MBSX,Y,100.0,N,MBSX
 MC,Moelis & Company Class A Common Stock,Moelis & Company Class A Common Stock,N,MC,N,100.0,N,MC
 MCB,Metropolitan Bank Holding Corp. Common Stock,Metropolitan Bank Holding Corp. Common Stock,N,MCB,N,100.0,N,MCB
 MCD,McDonald's Corporation Common Stock,McDonald's Corporation Common Stock,N,MCD,N,100.0,N,MCD
@@ -3938,7 +3944,6 @@ MYLD,Cambria ETF Trust Cambria Micro and SmallCap Shareholder Yield ETF,Cambria 
 MYN,"Blackrock MuniYield New York Quality Fund, Inc.Common Stock","Blackrock MuniYield New York Quality Fund, Inc.Common Stock",N,MYN,N,100.0,N,MYN
 MYND,"Mynd.ai, Inc. American Depositary Shares","Mynd.ai, Inc. American Depositary Shares",A,MYND,N,100.0,N,MYND
 MYO,Myomo Inc. Common Stock,Myomo Inc. Common Stock,A,MYO,N,100.0,N,MYO
-MYTE,"MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share","MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share",N,MYTE,N,100.0,N,MYTE
 MYY,ProShares Short MidCap400,ProShares Short MidCap400,P,MYY,Y,100.0,N,MYY
 MZZ,ProShares UltraShort MidCap400,ProShares UltraShort MidCap400,P,MZZ,Y,100.0,N,MZZ
 NABL,N,"N-able, Inc. Common Stock",N,NABL,N,100.0,N,NABL
@@ -4054,6 +4059,7 @@ NLY$I,Annaly Capital Management Inc 6.750% Series I Fixed,Annaly Capital Managem
 NMAI,Nuveen Multi,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,N,NMAI,N,100.0,N,NMAI
 NMAR,Innovator ETFs Trust Innovator Growth,Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - March,Z,NMAR,Y,100.0,N,NMAR
 NMAX,"Newsmax, Inc. Class B Common Stock","Newsmax, Inc. Class B Common Stock",N,NMAX,N,100.0,N,NMAX
+NMAY,Innovator ETFs Trust Innovator Growth,Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - May,Z,NMAY,Y,100.0,N,NMAY
 NMB,Simplify Exchange Traded Funds Simplify National Muni Bond ETF,Simplify Exchange Traded Funds Simplify National Muni Bond ETF,P,NMB,Y,100.0,N,NMB
 NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,Nuveen Municipal Credit Opportunities Fund Common Shares,N,NMCO,N,100.0,N,NMCO
 NMG,Nouveau Monde Graphite Inc. Common Shares,Nouveau Monde Graphite Inc. Common Shares,N,NMG,N,100.0,N,NMG
@@ -4524,6 +4530,7 @@ PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Pimco Mu
 PMM,Putnam Managed Municipal Income Trust Common Stock,Putnam Managed Municipal Income Trust Common Stock,N,PMM,N,100.0,N,PMM
 PMMF,BlackRock ETF Trust iShares Prime Money Market ETF,BlackRock ETF Trust iShares Prime Money Market ETF,P,PMMF,Y,100.0,N,PMMF
 PMMR,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - March,Z,PMMR,Y,100.0,N,PMMR
+PMMY,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - May,Z,PMMY,Y,100.0,N,PMMY
 PMNT,Perfect Moment Ltd. Common Stock,Perfect Moment Ltd. Common Stock,A,PMNT,N,100.0,N,PMNT
 PMO,Putnam Municipal Opportunities Trust Common Stock,Putnam Municipal Opportunities Trust Common Stock,N,PMO,N,100.0,N,PMO
 PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,N,PMT,N,100.0,N,PMT
@@ -4803,7 +4810,7 @@ RDFI,Rareview Dynamic Fixed Income ETF,Rareview Dynamic Fixed Income ETF,Z,RDFI,
 RDIV,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco S&P Ultra Dividend Revenue ETF,P,RDIV,Y,100.0,N,RDIV
 RDN,Radian Group Inc. Common Stock,Radian Group Inc. Common Stock,N,RDN,N,100.0,N,RDN
 RDOG,ALPS ETF Trust ALPS REIT Dividend Dogs ETF,ALPS ETF Trust ALPS REIT Dividend Dogs ETF,P,RDOG,Y,100.0,N,RDOG
-RDTE,Roundhill ETF Trust Roundhill Small Cap 0DTE Covered Call Strategy ETF,Roundhill ETF Trust Roundhill Small Cap 0DTE Covered Call Strategy ETF,Z,RDTE,Y,100.0,N,RDTE
+RDTE,Roundhill Russell 2000 0DTE Covered Call Strategy ETF,Roundhill Russell 2000 0DTE Covered Call Strategy ETF,Z,RDTE,Y,100.0,N,RDTE
 RDVI,FT Vest Rising Dividend Achievers Target Income ETF,FT Vest Rising Dividend Achievers Target Income ETF,Z,RDVI,Y,100.0,N,RDVI
 RDW,Redwire Corporation Common Stock,Redwire Corporation Common Stock,N,RDW,N,100.0,N,RDW
 RDY,Dr. Reddy's Laboratories Ltd Common Stock,Dr. Reddy's Laboratories Ltd Common Stock,N,RDY,N,100.0,N,RDY
@@ -6440,6 +6447,7 @@ ZJUL,SHL Telemedicine Ltd Innovator Equity Defined Protection ETF ,SHL Telemedic
 ZK,ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares),ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares),N,ZK,N,100.0,N,ZK
 ZKH,"ZKH Group Limited American Depositary Shares, each representing thirty","ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",N,ZKH,N,100.0,N,ZKH
 ZMAR,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr March,Z,ZMAR,Y,100.0,N,ZMAR
+ZMAY,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr May,Z,ZMAY,Y,100.0,N,ZMAY
 ZNOV,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr November,Z,ZNOV,Y,100.0,N,ZNOV
 ZOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr October,Z,ZOCT,Y,100.0,N,ZOCT
 ZONE,CleanCore Solutions Inc. Class B Common Stock,CleanCore Solutions Inc. Class B Common Stock,A,ZONE,N,100.0,N,ZONE
