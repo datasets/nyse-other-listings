@@ -1778,6 +1778,8 @@ EPD,Enterprise Products Partners L.P. Common Stock,Enterprise Products Partners 
 EPHE,iShares MSCI Philippines ETF,iShares MSCI Philippines ETF,P,EPHE,Y,100.0,N,EPHE
 EPI,WisdomTree India Earnings Fund,WisdomTree India Earnings Fund,P,EPI,Y,100.0,N,EPI
 EPM,"Evolution Petroleum Corporation, Inc. Common Stock","Evolution Petroleum Corporation, Inc. Common Stock",A,EPM,N,100.0,N,EPM
+EPMB,Harbor ETF Trust Harbor Mid Cap Core ETF,Harbor ETF Trust Harbor Mid Cap Core ETF,P,EPMB,Y,100.0,N,EPMB
+EPMV,Harbor ETF Trust Harbor Mid Cap Value ETF,Harbor ETF Trust Harbor Mid Cap Value ETF,P,EPMV,Y,100.0,N,EPMV
 EPOL,iShares Trust iShares MSCI Poland ETF,iShares Trust iShares MSCI Poland ETF,P,EPOL,Y,100.0,N,EPOL
 EPP,iShares MSCI Pacific Ex,iShares MSCI Pacific Ex-Japan Index Fund,P,EPP,Y,100.0,N,EPP
 EPR,EPR Properties Common Stock,EPR Properties Common Stock,N,EPR,N,100.0,N,EPR
@@ -1787,6 +1789,8 @@ EPR$G,EPR Properties 5.750% Series G Cumulative Redeemable Preferred Shares,EPR 
 EPRF,Innovator S&P Investment Grade Preferred ETF,Innovator S&P Investment Grade Preferred ETF,Z,EPRF,Y,100.0,N,EPRF
 EPRT,"Essential Properties Realty Trust, Inc. Common Stock","Essential Properties Realty Trust, Inc. Common Stock",N,EPRT,N,100.0,N,EPRT
 EPS,WisdomTree U.S. LargeCap Fund,WisdomTree U.S. LargeCap Fund,P,EPS,Y,100.0,N,EPS
+EPSB,Harbor ETF Trust Harbor SMID Cap Core ETF,Harbor ETF Trust Harbor SMID Cap Core ETF,P,EPSB,Y,100.0,N,EPSB
+EPSV,Harbor ETF Trust Harbor SMID Cap Value ETF,Harbor ETF Trust Harbor SMID Cap Value ETF,P,EPSV,Y,100.0,N,EPSV
 EPU,iShares MSCI Peru and Global Exposure ETF,iShares MSCI Peru and Global Exposure ETF,P,EPU,Y,100.0,N,EPU
 EPV,ProShares UltraShort FTSE Europe ETF,ProShares UltraShort FTSE Europe ETF,P,EPV,Y,100.0,N,EPV
 EQAL,Invesco Russell 1000 Equal Weight ETF,Invesco Russell 1000 Equal Weight ETF,P,EQAL,Y,100.0,N,EQAL
@@ -5378,8 +5382,6 @@ SPIP,SPDR Portfolio TIPS ETF,SPDR Portfolio TIPS ETF,P,SPIP,Y,100.0,N,SPIP
 SPIR,"Spire Global, Inc. Class A Common Stock","Spire Global, Inc. Class A Common Stock",N,SPIR,N,100.0,N,SPIR
 SPLB,SPDR Portfolio Long Term Corporate Bond ETF,SPDR Portfolio Long Term Corporate Bond ETF,P,SPLB,Y,100.0,N,SPLB
 SPLG,SPDR Portfolio S&P 500 ETF,SPDR Portfolio S&P 500 ETF,P,SPLG,Y,100.0,N,SPLG
-SPLP,Steel Partners Holdings LP LTD PARTNERSHIP UNIT,Steel Partners Holdings LP LTD PARTNERSHIP UNIT,N,SPLP,N,100.0,N,SPLP
-SPLP$A,"Steel Partners Holdings LP 6.0% Series A Preferred Units, no par value","Steel Partners Holdings LP 6.0% Series A Preferred Units, no par value",N,SPLPpA,N,100.0,N,SPLP-A
 SPLV,Invesco S&P 500 Low Volatility ETF,Invesco S&P 500 Low Volatility ETF,P,SPLV,Y,100.0,N,SPLV
 SPMA,"Sound Point Meridian Capital, Inc. 8.00% Series A Preferred Shares Due 2029","Sound Point Meridian Capital, Inc. 8.00% Series A Preferred Shares Due 2029",N,SPMA,N,100.0,N,SPMA
 SPMB,SPDR Portfolio Mortgage Backed Bond ETF,SPDR Portfolio Mortgage Backed Bond ETF,P,SPMB,Y,100.0,N,SPMB
