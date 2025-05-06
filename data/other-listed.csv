@@ -1870,7 +1870,6 @@ EUSB,iShares ESG Advanced Total USD Bond Market ETF,iShares ESG Advanced Total U
 EUSC,WisdomTree Europe Hedged SmallCap Equity Fund,WisdomTree Europe Hedged SmallCap Equity Fund,P,EUSC,Y,100.0,N,EUSC
 EUSM,Strategy Shares Eventide US Market ETF,Strategy Shares Eventide US Market ETF,P,EUSM,Y,100.0,N,EUSM
 EVAV,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,P,EVAV,Y,100.0,N,EVAV
-EVBN,"Evans Bancorp, Inc. Common Stock","Evans Bancorp, Inc. Common Stock",A,EVBN,N,100.0,N,EVBN
 EVC,Entravision Communications Corporation Common Stock,Entravision Communications Corporation Common Stock,N,EVC,N,100.0,N,EVC
 EVEX,"Eve Holding, Inc. Common Stock","Eve Holding, Inc. Common Stock",N,EVEX,N,100.0,N,EVEX
 EVEX.W,"Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share","Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,EVEX.WS,N,100.0,N,EVEX+
@@ -3049,6 +3048,7 @@ ISD,"PGIM High Yield Bond Fund, Inc.","PGIM High Yield Bond Fund, Inc.",N,ISD,N,
 ISEP,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  September,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  September,P,ISEP,Y,100.0,N,ISEP
 ISMD,Inspire Small/Mid Cap ETF,Inspire Small/Mid Cap ETF,P,ISMD,Y,100.0,N,ISMD
 ISMF,BlackRock ETF Trust iShares Managed Futures Active ETF,BlackRock ETF Trust iShares Managed Futures Active ETF,Z,ISMF,Y,100.0,N,ISMF
+ISOU,IsoEnergy Ltd. Common Shares,IsoEnergy Ltd. Common Shares,A,ISOU,N,100.0,N,ISOU
 ISPY,ProShares Trust ProShares S&P 500 High Income ETF,ProShares Trust ProShares S&P 500 High Income ETF,Z,ISPY,Y,100.0,N,ISPY
 ISRA,VanEck Israel ETF,VanEck Israel ETF,P,ISRA,Y,100.0,N,ISRA
 ISVL,iShares Trust iShares International Developed Small Cap Value Factor ETF,iShares Trust iShares International Developed Small Cap Value Factor ETF,Z,ISVL,Y,100.0,N,ISVL
