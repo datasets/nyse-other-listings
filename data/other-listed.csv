@@ -3806,6 +3806,7 @@ MMLG,First Trust Multi,First Trust Multi-Manager Large Growth ETF,P,MMLG,Y,100.0
 MMM,3M Company Common Stock,3M Company Common Stock,N,MMM,N,100.0,N,MMM
 MMS,"Maximus, Inc. Common Stock","Maximus, Inc. Common Stock",N,MMS,N,100.0,N,MMS
 MMSC,First Trust Multi,First Trust Multi-Manager Small Cap Opportunities ETF,P,MMSC,Y,100.0,N,MMSC
+MMSD,New York Life Investments Active ETF Trust NYLI MacKay Muni Short Duration ETF,New York Life Investments Active ETF Trust NYLI MacKay Muni Short Duration ETF,P,MMSD,Y,100.0,N,MMSD
 MMT,MFS Multimarket Income Trust Common Stock,MFS Multimarket Income Trust Common Stock,N,MMT,N,100.0,N,MMT
 MMTM,SPDR S&P 1500 Momentum Tilt ETF,SPDR S&P 1500 Momentum Tilt ETF,P,MMTM,Y,100.0,N,MMTM
 MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock","Western Asset Managed Municipals Fund, Inc. Common Stock",N,MMU,N,100.0,N,MMU
@@ -4765,6 +4766,7 @@ QUAL,iShares MSCI USA Quality Factor ETF,iShares MSCI USA Quality Factor ETF,Z,Q
 QULL,ETRACS 2x Leveraged MSCI US Quality Factor TR ETN,ETRACS 2x Leveraged MSCI US Quality Factor TR ETN,P,QULL,Y,100.0,N,QULL
 QUP,Strategic Trust DailyDelta  Q100 Upside Option Strategy ETF,Strategic Trust DailyDelta  Q100 Upside Option Strategy ETF,P,QUP,Y,100.0,N,QUP
 QUS,SPDR MSCI USA StrategicFactors ETF,SPDR MSCI USA StrategicFactors ETF,P,QUS,Y,100.0,N,QUS
+QUSA,Tidal Trust III VistaShares Target 15 USA Quality Income ETF,Tidal Trust III VistaShares Target 15 USA Quality Income ETF,P,QUSA,Y,100.0,N,QUSA
 QUVU,Hartford Funds Exchange,Hartford Funds Exchange-Traded Trust Hartford Quality Value ETF,Z,QUVU,Y,100.0,N,QUVU
 QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068","QVC, Inc. 6.250% Senior Secured Notes due 2068",N,QVCC,N,100.0,N,QVCC
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067","QVC, Inc. 6.375% Senior Secured Notes due 2067",N,QVCD,N,100.0,N,QVCD
@@ -5636,6 +5638,7 @@ TFSA,"Terra Income Fund 6, LLC 7.00% Notes due 2026","Terra Income Fund 6, LLC 7
 TFX,Teleflex Incorporated Common Stock,Teleflex Incorporated Common Stock,N,TFX,N,100.0,N,TFX
 TG,Tredegar Corporation Common Stock,Tredegar Corporation Common Stock,N,TG,N,100.0,N,TG
 TGB,"Taseko Mines, Ltd. Common Stock","Taseko Mines, Ltd. Common Stock",A,TGB,N,100.0,N,TGB
+TGEN,Tecogen Inc. Common Stock,Tecogen Inc. Common Stock,A,TGEN,N,100.0,N,TGEN
 TGI,"Triumph Group, Inc. Common Stock","Triumph Group, Inc. Common Stock",N,TGI,N,100.0,N,TGI
 TGLR,ETF Opportunities Trust LAFFER TENGLER Equity Income ETF,ETF Opportunities Trust LAFFER TENGLER Equity Income ETF,Z,TGLR,Y,100.0,N,TGLR
 TGLS,Tecnoglass Inc. Ordinary Shares,Tecnoglass Inc. Ordinary Shares,N,TGLS,N,100.0,N,TGLS
@@ -6399,7 +6402,6 @@ YANG,Direxion Daily FTSE China Bear 3x Shares,Direxion Daily FTSE China Bear 3x 
 YBIT,Tidal Trust II YieldMax Bitcoin Option Income Strategy ETF,Tidal Trust II YieldMax Bitcoin Option Income Strategy ETF,P,YBIT,Y,100.0,N,YBIT
 YBTC,Roundhill ETF Trust Roundhill Bitcoin Covered Call Strategy ETF,Roundhill ETF Trust Roundhill Bitcoin Covered Call Strategy ETF,Z,YBTC,Y,100.0,N,YBTC
 YCBD,"cbdMD, Inc. Common Stock","cbdMD, Inc. Common Stock",A,YCBD,N,100.0,N,YCBD
-YCBD$A,"cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock","cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock",A,YCBDpA,N,100.0,N,YCBD-A
 YCL,ProShares Ultra Yen,ProShares Ultra Yen,P,YCL,Y,100.0,N,YCL
 YCS,ProShares UltraShort Yen New,ProShares UltraShort Yen New,P,YCS,Y,100.0,N,YCS
 YDEC,FT Vest International Equity Moderate Buffer ETF ,FT Vest International Equity Moderate Buffer ETF - December,Z,YDEC,Y,100.0,N,YDEC
