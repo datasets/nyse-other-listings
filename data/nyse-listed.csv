@@ -588,7 +588,7 @@ CMA,Comerica Incorporated Common Stock
 CMBT,CMB.TECH NV Ordinary Shares
 CMC,Commercial Metals Company Common Stock
 CMCM,"Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares"
-CMDB.V,Costamare Bulkers Holdings Limited Common Stock When
+CMDB,Costamare Bulkers Holdings Limited Common Stock
 CMG,"Chipotle Mexican Grill, Inc. Common Stock"
 CMI,Cummins Inc. Common Stock
 CMP,Compass Minerals Intl Inc Common Stock
@@ -596,7 +596,6 @@ CMRE,Costamare Inc. Common Stock $0.0001 par value
 CMRE$B,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands)
 CMRE$C,Costamare Inc. Perpetual Preferred Series C (Marshall Islands)
 CMRE$D,Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock
-CMRE.V,Costamare Inc. Common Stock When
 CMS,CMS Energy Corporation Common Stock
 CMS$B,CMS Energy Corporation Preferred Stock
 CMS$C,"CMS Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.200% Cumulative Redeemable Perpetual Preferred Stock, Series C"
@@ -1537,12 +1536,11 @@ LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock"
 LEVI,Levi Strauss & Co Class A Common Stock
 LFT,"Lument Finance Trust, Inc. Common Stock"
 LFT$A,"Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock"
-LGF.A,Lions Gate Entertainment Corporation Class A Voting Shares
-LGF.B,Lions Gate Entertainment Corporation Class B Non
 LGI,Lazard Global Total Return and Income Fund Common Stock
 LH,Labcorp Holdings Inc. Common Stock
 LHX,"L3Harris Technologies, Inc. Common Stock"
 LII,"Lennox International, Inc. Common Stock"
+LION,Lionsgate Studios Corp Common Shares
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares"
 LLY,Eli Lilly and Company Common Stock
 LMND,"Lemonade, Inc. Common Stock"

@@ -1057,7 +1057,7 @@ CMC,Commercial Metals Company Common Stock,Commercial Metals Company Common Stoc
 CMCI,VanEck ETF Trust VanEck CMCI Commodity Strategy ETF,VanEck ETF Trust VanEck CMCI Commodity Strategy ETF,Z,CMCI,Y,100.0,N,CMCI
 CMCL,Caledonia Mining Corporation Plc Common Shares,Caledonia Mining Corporation Plc Common Shares,A,CMCL,N,100.0,N,CMCL
 CMCM,"Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares","Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares",N,CMCM,N,100.0,N,CMCM
-CMDB.V,Costamare Bulkers Holdings Limited Common Stock When,Costamare Bulkers Holdings Limited Common Stock When-Issued,N,CMDBw,N,100.0,N,CMDB#
+CMDB,Costamare Bulkers Holdings Limited Common Stock,Costamare Bulkers Holdings Limited Common Stock,N,CMDB,N,100.0,N,CMDB
 CMDT,PIMCO U.S. Treasury Index Fund PIMCO Commodity Strategy Active Exchange,PIMCO U.S. Treasury Index Fund PIMCO Commodity Strategy Active Exchange-Traded Fund,P,CMDT,Y,100.0,N,CMDT
 CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,iShares Bloomberg Roll Select Commodity Strategy ETF,P,CMDY,Y,100.0,N,CMDY
 CMF,iShares California Muni Bond ETF,iShares California Muni Bond ETF,P,CMF,Y,100.0,N,CMF
@@ -1068,7 +1068,6 @@ CMRE,Costamare Inc. Common Stock $0.0001 par value,Costamare Inc. Common Stock $
 CMRE$B,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),N,CMREpB,N,100.0,N,CMRE-B
 CMRE$C,Costamare Inc. Perpetual Preferred Series C (Marshall Islands),Costamare Inc. Perpetual Preferred Series C (Marshall Islands),N,CMREpC,N,100.0,N,CMRE-C
 CMRE$D,Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock,Costamare Inc. 8.75% Series D Cumulative Redeemable Perpetual Preferred Stock,N,CMREpD,N,100.0,N,CMRE-D
-CMRE.V,Costamare Inc. Common Stock When,Costamare Inc. Common Stock When-Issued,N,CMREw,N,100.0,N,CMRE#
 CMS,CMS Energy Corporation Common Stock,CMS Energy Corporation Common Stock,N,CMS,N,100.0,N,CMS
 CMS$B,CMS Energy Corporation Preferred Stock,CMS Energy Corporation Preferred Stock,N,CMSpB,N,10.0,N,CMS-B
 CMS$C,"CMS Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.200% Cumulative Redeemable Perpetual Preferred Stock, Series C","CMS Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 4.200% Cumulative Redeemable Perpetual Preferred Stock, Series C",N,CMSpC,N,100.0,N,CMS-C
@@ -1206,6 +1205,7 @@ CSNR,Cohen & Steers ETF Trust Cohen & Steers Natural Resources Active ETF,Cohen 
 CSPF,Cohen & Steers ETF Trust Cohen & Steers Preferred and Income Opportunities Active ETF,Cohen & Steers ETF Trust Cohen & Steers Preferred and Income Opportunities Active ETF,P,CSPF,Y,100.0,N,CSPF
 CSR,D/B/A Centerspace Common Stock,D/B/A Centerspace Common Stock,N,CSR,N,100.0,N,CSR
 CSRE,Cohen & Steers ETF Trust Cohen & Steers Real Estate Active ETF,Cohen & Steers ETF Trust Cohen & Steers Real Estate Active ETF,P,CSRE,Y,100.0,N,CSRE
+CSTK,Invesco Managed Futures Strategy ETF Invesco Comstock Contrarian Equity ETF,Invesco Managed Futures Strategy ETF Invesco Comstock Contrarian Equity ETF,Z,CSTK,Y,100.0,N,CSTK
 CSTM,Constellium SE Ordinary Shares (France),Constellium SE Ordinary Shares (France),N,CSTM,N,100.0,N,CSTM
 CSV,"Carriage Services, Inc. Common Stock","Carriage Services, Inc. Common Stock",N,CSV,N,100.0,N,CSV
 CTA,Simplify Exchange Traded Funds Simplify Managed Futures Strategy ETF,Simplify Exchange Traded Funds Simplify Managed Futures Strategy ETF,P,CTA,Y,100.0,N,CTA
@@ -1593,7 +1593,6 @@ EAPR,Innovator Emerging Markets Power Buffer ETF April,Innovator Emerging Market
 EARN,Ellington Credit Company Common Shares of Beneficial Interest,Ellington Credit Company Common Shares of Beneficial Interest,N,EARN,N,100.0,N,EARN
 EASG,Xtrackers MSCI EAFE Selection Equity ETF,Xtrackers MSCI EAFE Selection Equity ETF,P,EASG,Y,100.0,N,EASG
 EAT,"Brinker International, Inc. Common Stock","Brinker International, Inc. Common Stock",N,EAT,N,100.0,N,EAT
-EATV,VegTech Food Innovation & Climate ETF,VegTech Food Innovation & Climate ETF,Z,EATV,Y,100.0,N,EATV
 EATZ,AdvisorShares Restaurant ETF,AdvisorShares Restaurant ETF,P,EATZ,Y,100.0,N,EATZ
 EB,"Eventbrite, Inc. Class A Common Stock","Eventbrite, Inc. Class A Common Stock",N,EB,N,100.0,N,EB
 EBF,"Ennis, Inc. Common Stock","Ennis, Inc. Common Stock",N,EBF,N,100.0,N,EBF
@@ -3447,6 +3446,7 @@ LCF,Touchstone ETF Trust Touchstone US Large Cap Focused ETF,Touchstone ETF Trus
 LCG,Sterling Capital Focus Equity ETF,Sterling Capital Focus Equity ETF,P,LCG,Y,100.0,N,LCG
 LCII,LCI Industries,LCI Industries,N,LCII,N,100.0,N,LCII
 LCLG,Advisors Series Trust Logan Capital Broad Innovative Growth ETF,Advisors Series Trust Logan Capital Broad Innovative Growth ETF,P,LCLG,Y,100.0,N,LCLG
+LCOW,Pacer Funds Trust Pacer S&P 500 Quality FCF Aristocrats ETF,Pacer Funds Trust Pacer S&P 500 Quality FCF Aristocrats ETF,Z,LCOW,Y,100.0,N,LCOW
 LCR,Managed Portfolio Series Leuthold Core ETF,Managed Portfolio Series Leuthold Core ETF,P,LCR,Y,100.0,N,LCR
 LCTD,BlackRock World ex U.S. Carbon Transition Readiness ETF,BlackRock World ex U.S. Carbon Transition Readiness ETF,P,LCTD,Y,100.0,N,LCTD
 LCTU,BlackRock U.S. Carbon Transition Readiness ETF,BlackRock U.S. Carbon Transition Readiness ETF,P,LCTU,Y,100.0,N,LCTU
@@ -3500,8 +3500,6 @@ LFT,"Lument Finance Trust, Inc. Common Stock","Lument Finance Trust, Inc. Common
 LFT$A,"Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock","Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock",N,LFTpA,N,100.0,N,LFT-A
 LGCY,Legacy Education Inc. Common Stock,Legacy Education Inc. Common Stock,A,LGCY,N,100.0,N,LGCY
 LGDX,Tidal Trust III Intech S&P Large Cap Diversified Alpha ETF,Tidal Trust III Intech S&P Large Cap Diversified Alpha ETF,P,LGDX,Y,100.0,N,LGDX
-LGF.A,Lions Gate Entertainment Corporation Class A Voting Shares,Lions Gate Entertainment Corporation Class A Voting Shares,N,LGF.A,N,100.0,N,LGF.A
-LGF.B,Lions Gate Entertainment Corporation Class B Non,Lions Gate Entertainment Corporation Class B Non-Voting Shares,N,LGF.B,N,100.0,N,LGF.B
 LGH,HCM Defender 500 Index ETF,HCM Defender 500 Index ETF,P,LGH,Y,100.0,N,LGH
 LGHT,Spinnaker ETF Series Langar Global HealthTech ETF,Spinnaker ETF Series Langar Global HealthTech ETF,P,LGHT,Y,100.0,N,LGHT
 LGI,Lazard Global Total Return and Income Fund Common Stock,Lazard Global Total Return and Income Fund Common Stock,N,LGI,N,100.0,N,LGI
@@ -3532,6 +3530,7 @@ LIAY,LifeX 2064 Inflation,LifeX 2064 Inflation-Protected Longevity Income ETF,Z,
 LIBD,LifeX 2065 Inflation,LifeX 2065 Inflation-Protected Longevity Income ETF,Z,LIBD,Y,100.0,N,LIBD
 LII,"Lennox International, Inc. Common Stock","Lennox International, Inc. Common Stock",N,LII,N,100.0,N,LII
 LIMI,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Z,LIMI,Y,100.0,N,LIMI
+LION,Lionsgate Studios Corp Common Shares,Lionsgate Studios Corp Common Shares,N,LION,N,100.0,N,LION
 LIT,Global X Lithium & Battery Tech ETF,Global X Lithium & Battery Tech ETF,P,LIT,Y,100.0,N,LIT
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares","LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",N,LITB,N,100.0,N,LITB
 LITL,Simplify Exchange Traded Funds Simplify Piper Sandler US Small,Simplify Exchange Traded Funds Simplify Piper Sandler US Small-Cap PLUS Income ETF,P,LITL,Y,100.0,N,LITL
