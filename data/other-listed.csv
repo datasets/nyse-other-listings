@@ -129,6 +129,7 @@ AGX,"Argan, Inc. Common Stock","Argan, Inc. Common Stock",N,AGX,N,100.0,N,AGX
 AGZ,iShares  Agency Bond ETF,iShares  Agency Bond ETF,P,AGZ,Y,100.0,N,AGZ
 AHH,"Armada Hoffler Properties, Inc. Common Stock","Armada Hoffler Properties, Inc. Common Stock",N,AHH,N,100.0,N,AHH
 AHH$A,"Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock","Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",N,AHHpA,N,100.0,N,AHH-A
+AHL,Aspen Insurance Holdings Limited Class A Ordinary Shares,Aspen Insurance Holdings Limited Class A Ordinary Shares,N,AHL,N,100.0,N,AHL
 AHL$D,Aspen Insurance Holdings Limited 5.625% Perpetual Non,Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares,N,AHLpD,N,100.0,N,AHL-D
 AHL$E,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 5.625% Perpetual Non","Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 5.625% Perpetual Non-Cumulative Preference Shares",N,AHLpE,N,100.0,N,AHL-E
 AHL$F,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1,000th Interest in a 7.00% Perpetual Non","Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1,000th Interest in a 7.00% Perpetual Non-Cumulative Preference Share",N,AHLpF,N,100.0,N,AHL-F
@@ -147,6 +148,7 @@ AIBU,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bull 2X Shares,Dir
 AIEQ,Amplify ETF Trust Amplify AI Powered Equity ETF,Amplify ETF Trust Amplify AI Powered Equity ETF,P,AIEQ,Y,100.0,N,AIEQ
 AIFD,TCW Artificial Intelligence ETF,TCW Artificial Intelligence ETF,N,AIFD,Y,100.0,N,AIFD
 AIG,"American International Group, Inc. New Common Stock","American International Group, Inc. New Common Stock",N,AIG,N,100.0,N,AIG
+AII,"American Integrity Insurance Group, Inc. Common Stock","American Integrity Insurance Group, Inc. Common Stock",N,AII,N,100.0,N,AII
 AIN,Albany International Corporation Common Stock,Albany International Corporation Common Stock,N,AIN,N,100.0,N,AIN
 AINP,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring Income Plus ETF,P,AINP,Y,100.0,N,AINP
 AIO,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,N,AIO,N,100.0,N,AIO
@@ -2201,6 +2203,7 @@ FOPC,The Advisors' Inner Circle Fund II Frontier Asset Opportunistic Credit ETF,
 FOR,Forestar Group Inc Common Stock ,Forestar Group Inc Common Stock ,N,FOR,N,100.0,N,FOR
 FORH,Formidable ETF,Formidable ETF,P,FORH,Y,100.0,N,FORH
 FOUR,"Shift4 Payments, Inc. Class A Common Stock","Shift4 Payments, Inc. Class A Common Stock",N,FOUR,N,100.0,N,FOUR
+FOUR$A,"Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock","Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock",N,FOURpA,N,100.0,N,FOUR-A
 FOVL,iShares Focused Value Factor ETF,iShares Focused Value Factor ETF,P,FOVL,Y,100.0,N,FOVL
 FOWF,Pacer Funds Trust Pacer Solactive Whitney Future of Warfare ETF,Pacer Funds Trust Pacer Solactive Whitney Future of Warfare ETF,Z,FOWF,Y,100.0,N,FOWF
 FOXO,FOXO Technologies Inc. Class A Common Stock,FOXO Technologies Inc. Class A Common Stock,A,FOXO,N,100.0,N,FOXO
@@ -2711,6 +2714,7 @@ HODL,VanEck Bitcoin Trust Common Shares of Beneficial Interest,VanEck Bitcoin Tr
 HOG,Harley,"Harley-Davidson, Inc. Common Stock",N,HOG,N,100.0,N,HOG
 HOMB,"Home BancShares, Inc. Common Stock","Home BancShares, Inc. Common Stock",N,HOMB,N,100.0,N,HOMB
 HOMZ,Hoya Capital Housing ETF,Hoya Capital Housing ETF,P,HOMZ,Y,100.0,N,HOMZ
+HOOY,Tidal Trust II YieldMax HOOD Option Income Strategy ETF,Tidal Trust II YieldMax HOOD Option Income Strategy ETF,P,HOOY,Y,100.0,N,HOOY
 HOUS,"Anywhere Real Estate Inc. Common Stock,","Anywhere Real Estate Inc. Common Stock,",N,HOUS,N,100.0,N,HOUS
 HOV,"Hovnanian Enterprises, Inc. Class A Common Stock","Hovnanian Enterprises, Inc. Class A Common Stock",N,HOV,N,100.0,N,HOV
 HP,"Helmerich & Payne, Inc. Common Stock","Helmerich & Payne, Inc. Common Stock",N,HP,N,100.0,N,HP
@@ -4659,7 +4663,6 @@ PTIN,Pacer Trendpilot International ETF,Pacer Trendpilot International ETF,P,PTI
 PTL,Northern Lights Fund Trust IV Inspire 500 ETF,Northern Lights Fund Trust IV Inspire 500 ETF,P,PTL,Y,100.0,N,PTL
 PTLC,Pacer Fund Trust Pacer Trendpilot US Large Cap ETF,Pacer Fund Trust Pacer Trendpilot US Large Cap ETF,Z,PTLC,Y,100.0,N,PTLC
 PTMC,Pacer Trendpilot US Mid Cap ETF,Pacer Trendpilot US Mid Cap ETF,Z,PTMC,Y,100.0,N,PTMC
-PTN,"Palatin Technologies, Inc. Common Stock","Palatin Technologies, Inc. Common Stock",A,PTN,N,100.0,N,PTN
 PTRB,PGIM ETF Trust PGIM Total Return Bond ETF,PGIM ETF Trust PGIM Total Return Bond ETF,P,PTRB,Y,100.0,N,PTRB
 PTY,Pimco Corporate & Income Opportunity Fund,Pimco Corporate & Income Opportunity Fund,N,PTY,N,100.0,N,PTY
 PUK,Prudential Public Limited Company Common Stock,Prudential Public Limited Company Common Stock,N,PUK,N,100.0,N,PUK
