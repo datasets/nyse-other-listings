@@ -277,6 +277,7 @@ APRZ,Trust TrueShares Structured Outcome (April) ETF,Trust TrueShares Structured
 APT,"Alpha Pro Tech, Ltd. Common Stock","Alpha Pro Tech, Ltd. Common Stock",A,APT,N,100.0,N,APT
 APTV,Aptiv PLC Ordinary Shares,Aptiv PLC Ordinary Shares,N,APTV,N,100.0,N,APTV
 APUE,Trust for Professional Managers ActivePassive U.S. Equity ETF,Trust for Professional Managers ActivePassive U.S. Equity ETF,P,APUE,Y,100.0,N,APUE
+APUS,"Apimeds Pharmaceuticals US, Inc. Common Stock","Apimeds Pharmaceuticals US, Inc. Common Stock",A,APUS,N,100.0,N,APUS
 APXM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - April,Z,APXM,Y,100.0,N,APXM
 AQLT,iShares Trust iShares MSCI Global Quality Factor ETF,iShares Trust iShares MSCI Global Quality Factor ETF,Z,AQLT,Y,100.0,N,AQLT
 AQN,Algonquin Power & Utilities Corp. Common Shares,Algonquin Power & Utilities Corp. Common Shares,N,AQN,N,100.0,N,AQN
@@ -439,6 +440,7 @@ AZTD,Tidal ETF Trust Aztlan Global Stock Selection DM SMID ETF,Tidal ETF Trust A
 AZTR,Azitra Inc Common Stock,Azitra Inc Common Stock,A,AZTR,N,100.0,N,AZTR
 AZUL,Azul S.A. American Depositary Shares (each representing three preferred shares),Azul S.A. American Depositary Shares (each representing three preferred shares),N,AZUL,N,100.0,N,AZUL
 AZZ,AZZ Inc.,AZZ Inc.,N,AZZ,N,100.0,N,AZZ
+B,Barrick Mining Corporation Common Shares,Barrick Mining Corporation Common Shares,N,B,N,100.0,N,B
 BA,Boeing Company (The) Common Stock,Boeing Company (The) Common Stock,N,BA,N,100.0,N,BA
 BA$A,"Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00","Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00",N,BApA,N,100.0,N,BA-A
 BAB,Invesco Taxable Municipal Bond ETF,Invesco Taxable Municipal Bond ETF,P,BAB,Y,100.0,N,BAB
@@ -2489,7 +2491,6 @@ GOAU,US Global GO Gold and Precious Metal Miners ETF,US Global GO Gold and Preci
 GOCT,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - October,Z,GOCT,Y,100.0,N,GOCT
 GOEX,Global X Gold Explorers ETF,Global X Gold Explorers ETF,P,GOEX,Y,100.0,N,GOEX
 GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,N,GOF,N,100.0,N,GOF
-GOLD,Barrick Gold Corporation Common Stock (BC),Barrick Gold Corporation Common Stock (BC),N,GOLD,N,100.0,N,GOLD
 GOLF,Acushnet Holdings Corp. Common Stock,Acushnet Holdings Corp. Common Stock,N,GOLF,N,100.0,N,GOLF
 GOLY,Strategy Shares Gold Enhanced Yield ETF,Strategy Shares Gold Enhanced Yield ETF,Z,GOLY,Y,100.0,N,GOLY
 GOOP,Kurv Yield Premium Strategy Google (GOOGL) ETF,Kurv Yield Premium Strategy Google (GOOGL) ETF,Z,GOOP,Y,100.0,N,GOOP
