@@ -1346,7 +1346,7 @@ DECT,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Dec ETF,AIM ETF Pr
 DECU,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF,Z,DECU,Y,100.0,N,DECU
 DECW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Dec ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Dec ETF,P,DECW,Y,100.0,N,DECW
 DECZ,TrueShares Structured Outcome (December) ETF,TrueShares Structured Outcome (December) ETF,Z,DECZ,Y,100.0,N,DECZ
-DEED,First Trust TCW Securitized Plus ETF,First Trust TCW Securitized Plus ETF,P,DEED,Y,100.0,N,DEED
+DEED,First Trust Securitized Plus ETF,First Trust Securitized Plus ETF,P,DEED,Y,100.0,N,DEED
 DEEF,Xtrackers FTSE Developed ex US Multifactor ETF,Xtrackers FTSE Developed ex US Multifactor ETF,P,DEEF,Y,100.0,N,DEEF
 DEEP,Acquirers Small and Micro Deep Value ETF,Acquirers Small and Micro Deep Value ETF,P,DEEP,Y,100.0,N,DEEP
 DEFI,Tidal Commodities Trust I Hashdex Bitcoin ETF,Tidal Commodities Trust I Hashdex Bitcoin ETF,P,DEFI,Y,100.0,N,DEFI
@@ -2893,6 +2893,7 @@ IEDI,iShares U.S. Consumer Focused ETF,iShares U.S. Consumer Focused ETF,Z,IEDI,
 IEFA,iShares Core MSCI EAFE ETF,iShares Core MSCI EAFE ETF,Z,IEFA,Y,100.0,N,IEFA
 IEMG,iShares Core MSCI Emerging Markets ETF,iShares Core MSCI Emerging Markets ETF,P,IEMG,Y,100.0,N,IEMG
 IEO,iShares U.S. Oil & Gas Exploration & Production ETF,iShares U.S. Oil & Gas Exploration & Production ETF,Z,IEO,Y,100.0,N,IEO
+IEQ,Lazard Active ETF Trust Lazard International Dynamic Equity ETF,Lazard Active ETF Trust Lazard International Dynamic Equity ETF,P,IEQ,Y,100.0,N,IEQ
 IETC,iShares U.S. Tech Independence Focused ETF,iShares U.S. Tech Independence Focused ETF,Z,IETC,Y,100.0,N,IETC
 IEUR,iShares Core MSCI Europe ETF,iShares Core MSCI Europe ETF,P,IEUR,Y,100.0,N,IEUR
 IEV,iShares Europe ETF,iShares Europe ETF,P,IEV,Y,100.0,N,IEV
@@ -5755,7 +5756,7 @@ TPR,"Tapestry, Inc. Common Stock","Tapestry, Inc. Common Stock",N,TPR,N,100.0,N,
 TPSC,Timothy Plan US Small Cap Core ETF,Timothy Plan US Small Cap Core ETF,P,TPSC,Y,100.0,N,TPSC
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026","Terra Property Trust, Inc. 6.00% Notes due 2026",N,TPTA,N,100.0,N,TPTA
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,TriplePoint Venture Growth BDC Corp. Common Stock,N,TPVG,N,100.0,N,TPVG
-TPYP,Tortoise North American Pipeline ETF,Tortoise North American Pipeline ETF,P,TPYP,Y,100.0,N,TPYP
+TPYP,Tortoise Capital Series Trust Tortoise North American Pipeline Fund,Tortoise Capital Series Trust Tortoise North American Pipeline Fund,N,TPYP,Y,100.0,N,TPYP
 TPZ,Tortoise Essential Energy Fund,Tortoise Essential Energy Fund,N,TPZ,Y,100.0,N,TPZ
 TR,"Tootsie Roll Industries, Inc. Common Stock","Tootsie Roll Industries, Inc. Common Stock",N,TR,N,100.0,N,TR
 TRAK,"ReposiTrak, Inc. Common Stock","ReposiTrak, Inc. Common Stock",N,TRAK,N,100.0,N,TRAK
@@ -5861,7 +5862,7 @@ UCB$I,"United Community Banks, Inc. Depositary Shares, each representing 1/1000t
 UCC,ProShares Ultra Consumer Discretionary,ProShares Ultra Consumer Discretionary,P,UCC,Y,100.0,N,UCC
 UCIB,"ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038","ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038",P,UCIB,N,100.0,N,UCIB
 UCO,ProShares Ultra Bloomberg Crude Oil,ProShares Ultra Bloomberg Crude Oil,P,UCO,Y,100.0,N,UCO
-UCON,First Trust TCW Unconstrained Plus Bond ETF,First Trust TCW Unconstrained Plus Bond ETF,P,UCON,Y,100.0,N,UCON
+UCON,First Trust Smith Unconstrained Bond ETF,First Trust Smith Unconstrained Bond ETF,P,UCON,Y,100.0,N,UCON
 UDEC,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - December,Z,UDEC,Y,100.0,N,UDEC
 UDI,USCF ETF Trust USCF Dividend Income Fund,USCF ETF Trust USCF Dividend Income Fund,P,UDI,Y,100.0,N,UDI
 UDIV,Franklin U.S. Core Dividend Tilt Index ETF,Franklin U.S. Core Dividend Tilt Index ETF,P,UDIV,Y,100.0,N,UDIV
@@ -6100,7 +6101,6 @@ VPU,Vanguard Utilities ETF,Vanguard Utilities ETF,P,VPU,Y,100.0,N,VPU
 VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),N,VPV,N,100.0,N,VPV
 VRAI,Virtus Real Asset Income ETF,Virtus Real Asset Income ETF,P,VRAI,Y,100.0,N,VRAI
 VRE,"Veris Residential, Inc. Common Stock","Veris Residential, Inc. Common Stock",N,VRE,N,100.0,N,VRE
-VRN,Veren Inc. Common shares,Veren Inc. Common shares,N,VRN,N,100.0,N,VRN
 VRP,Invesco Variable Rate Preferred ETF,Invesco Variable Rate Preferred ETF,P,VRP,Y,100.0,N,VRP
 VRT,"Vertiv Holdings, LLC Class A Common Stock","Vertiv Holdings, LLC Class A Common Stock",N,VRT,N,100.0,N,VRT
 VRTS,"Virtus Investment Partners, Inc. Common Stock","Virtus Investment Partners, Inc. Common Stock",N,VRTS,N,100.0,N,VRTS
