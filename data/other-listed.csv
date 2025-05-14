@@ -585,6 +585,7 @@ BFLY,"Butterfly Network, Inc. Class A Common Stock","Butterfly Network, Inc. Cla
 BFLY.W,"Butterfly Network, Inc. Warrants","Butterfly Network, Inc. Warrants",N,BFLY.WS,N,100.0,N,BFLY+
 BFOR,Barron's 400 ETF,Barron's 400 ETF,P,BFOR,Y,100.0,N,BFOR
 BFRE,Ultimus Managers Trust Westwood LBRTY Global Equity ETF,Ultimus Managers Trust Westwood LBRTY Global Equity ETF,P,BFRE,Y,100.0,N,BFRE
+BFRZ,Innovator ETFs Trust Innovator Equity Managed 100 Buffer ETF,Innovator ETFs Trust Innovator Equity Managed 100 Buffer ETF,P,BFRZ,Y,100.0,N,BFRZ
 BFS,"Saul Centers, Inc. Common Stock","Saul Centers, Inc. Common Stock",N,BFS,N,100.0,N,BFS
 BFS$D,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock","Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock",N,BFSpD,N,100.0,N,BFS-D
 BFS$E,"Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock","Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock",N,BFSpE,N,100.0,N,BFS-E
@@ -4295,7 +4296,7 @@ OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cum
 OPP$C,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)",A,OPPpC,N,100.0,N,OPP-C
 OPTT,"Ocean Power Technologies, Inc. Common Stock","Ocean Power Technologies, Inc. Common Stock",A,OPTT,N,100.0,N,OPTT
 OPY,"Oppenheimer Holdings, Inc. Class A Common Stock (DE)","Oppenheimer Holdings, Inc. Class A Common Stock (DE)",N,OPY,N,100.0,N,OPY
-OR,Osisko Gold Royalties Ltd Common Shares,Osisko Gold Royalties Ltd Common Shares,N,OR,N,100.0,N,OR
+OR,OR Royalties Inc. Common Shares,OR Royalties Inc. Common Shares,N,OR,N,100.0,N,OR
 ORA,"Ormat Technologies, Inc. Common Stock","Ormat Technologies, Inc. Common Stock",N,ORA,N,100.0,N,ORA
 ORC,"Orchid Island Capital, Inc. Common Stock","Orchid Island Capital, Inc. Common Stock",N,ORC,N,100.0,N,ORC
 ORCL,Oracle Corporation Common Stock,Oracle Corporation Common Stock,N,ORCL,N,100.0,N,ORCL
@@ -5618,6 +5619,7 @@ TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock","Templeton Emerg
 TEK,BlackRock ETF Trust iShares Technology Opportunities Active ETF,BlackRock ETF Trust iShares Technology Opportunities Active ETF,P,TEK,Y,100.0,N,TEK
 TEL,TE Connectivity plc Ordinary Shares,TE Connectivity plc Ordinary Shares,N,TEL,N,100.0,N,TEL
 TEMP,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Climate Change Solutions ETF,P,TEMP,Y,100.0,N,TEMP
+TEMT,Tradr 2X Long QBTS Daily ETF Tradr 2X Long TEM Daily ETF,Tradr 2X Long QBTS Daily ETF Tradr 2X Long TEM Daily ETF,Z,TEMT,Y,100.0,N,TEMT
 TEMX,Touchstone ETF Trust Touchstone Sands Capital Emerging Markets ex,Touchstone ETF Trust Touchstone Sands Capital Emerging Markets ex-China Growth ETF,Z,TEMX,Y,100.0,N,TEMX
 TEN,Tsakos Energy Navigation Ltd Common Shares,Tsakos Energy Navigation Ltd Common Shares,N,TEN,N,100.0,N,TEN
 TEN$E,Tsakos Energy Navigation Ltd Series E Fixed,"Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",N,TENpE,N,100.0,N,TEN-E
