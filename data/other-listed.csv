@@ -1351,6 +1351,7 @@ DEED,First Trust Securitized Plus ETF,First Trust Securitized Plus ETF,P,DEED,Y,
 DEEF,Xtrackers FTSE Developed ex US Multifactor ETF,Xtrackers FTSE Developed ex US Multifactor ETF,P,DEEF,Y,100.0,N,DEEF
 DEEP,Acquirers Small and Micro Deep Value ETF,Acquirers Small and Micro Deep Value ETF,P,DEEP,Y,100.0,N,DEEP
 DEFI,Tidal Commodities Trust I Hashdex Bitcoin ETF,Tidal Commodities Trust I Hashdex Bitcoin ETF,P,DEFI,Y,100.0,N,DEFI
+DEFR,ETF Series Solutions Aptus Deferred Income ETF,ETF Series Solutions Aptus Deferred Income ETF,Z,DEFR,Y,100.0,N,DEFR
 DEHP,Dimensional ETF Trust Dimensional Emerging Markets High Profitability ETF,Dimensional ETF Trust Dimensional Emerging Markets High Profitability ETF,P,DEHP,Y,100.0,N,DEHP
 DEI,"Douglas Emmett, Inc. Common Stock","Douglas Emmett, Inc. Common Stock",N,DEI,N,100.0,N,DEI
 DELL,Dell Technologies Inc. Class C Common Stock ,Dell Technologies Inc. Class C Common Stock ,N,DELL,N,100.0,N,DELL
@@ -2083,7 +2084,6 @@ FIHL,Fidelis Insurance Holdings Limited Common Shares,Fidelis Insurance Holdings
 FIIG,First Trust Exchange,First Trust Exchange-Traded Fund IV First Trust Intermediate Duration Investment Grade Corporate ETF,P,FIIG,Y,100.0,N,FIIG
 FILL,iShares MSCI Global Energy Producers Fund,iShares MSCI Global Energy Producers Fund,P,FILL,Y,100.0,N,FILL
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,N,FINS,N,100.0,N,FINS
-FINS.R,"Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights","Angel Oak Financial Strategies Income Term Trust Rights (expiring May 14, 2025) Rights",N,FINSr,N,100.0,N,FINS^
 FINT,The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF,The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF,P,FINT,Y,100.0,N,FINT
 FINV,FinVolution Group American Depositary Shares,FinVolution Group American Depositary Shares,N,FINV,N,100.0,N,FINV
 FIRI,Tidal ETF Trust FIRE Funds Income Target ETF,Tidal ETF Trust FIRE Funds Income Target ETF,P,FIRI,Y,100.0,N,FIRI
@@ -3556,7 +3556,6 @@ LNC,Lincoln National Corporation Common Stock,Lincoln National Corporation Commo
 LNC$D,"Lincoln National Corporation Depositary Shares Each Representing a 1/1,000th Interest in a Share of 9.000% Non","Lincoln National Corporation Depositary Shares Each Representing a 1/1,000th Interest in a Share of 9.000% Non-Cumulative Preferred Stock, Series D",N,LNCpD,N,100.0,N,LNC-D
 LND,Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil),Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil),N,LND,N,100.0,N,LND
 LNG,"Cheniere Energy, Inc. Common Stock","Cheniere Energy, Inc. Common Stock",N,LNG,N,100.0,N,LNG
-LNGZ,Exchange Traded Concepts Trust Range Global LNG Ecosystem Index ETF,Exchange Traded Concepts Trust Range Global LNG Ecosystem Index ETF,P,LNGZ,Y,100.0,N,LNGZ
 LNN,Lindsay Corporation Common Stock,Lindsay Corporation Common Stock,N,LNN,N,100.0,N,LNN
 LOAR,Loar Holdings Inc. Common Stock,Loar Holdings Inc. Common Stock,N,LOAR,N,100.0,N,LOAR
 LOB,"Live Oak Bancshares, Inc. Common Stock","Live Oak Bancshares, Inc. Common Stock",N,LOB,N,100.0,N,LOB
@@ -4091,6 +4090,7 @@ NOAH,Noah Holdings Limited American Depositary Shares,Noah Holdings Limited Amer
 NOBL,ProShares S&P 500 Dividend Aristocrats ETF,ProShares S&P 500 Dividend Aristocrats ETF,Z,NOBL,Y,100.0,N,NOBL
 NOC,Northrop Grumman Corporation Common Stock,Northrop Grumman Corporation Common Stock,N,NOC,N,100.0,N,NOC
 NOCT,Innovator Growth,Innovator Growth-100 Power Buffer ETF- October,Z,NOCT,Y,100.0,N,NOCT
+NODE,VanEck Onchain Economy ETF VanEck Onchain Economy ETF,VanEck Onchain Economy ETF VanEck Onchain Economy ETF,Z,NODE,Y,100.0,N,NODE
 NOG,"Northern Oil and Gas, Inc. Common Stock","Northern Oil and Gas, Inc. Common Stock",N,NOG,N,100.0,N,NOG
 NOK,Nokia Corporation Sponsored American Depositary Shares,Nokia Corporation Sponsored American Depositary Shares,N,NOK,N,100.0,N,NOK
 NOM,Nuveen Missouri Quality Municipal Income Fund ,Nuveen Missouri Quality Municipal Income Fund ,N,NOM,N,100.0,N,NOM
@@ -5159,6 +5159,7 @@ SEIV,SEI Enhanced U.S. Large Cap Value Factor ETF,SEI Enhanced U.S. Large Cap Va
 SEIX,Virtus Seix Senior Loan ETF,Virtus Seix Senior Loan ETF,P,SEIX,Y,100.0,N,SEIX
 SELV,SEI Enhanced Low Volatility U.S. Large Cap ETF,SEI Enhanced Low Volatility U.S. Large Cap ETF,Z,SELV,Y,100.0,N,SELV
 SEM,Select Medical Holdings Corporation Common Stock,Select Medical Holdings Corporation Common Stock,N,SEM,N,100.0,N,SEM
+SEMG,EA Series Trust Suncoast Select Growth ETF,EA Series Trust Suncoast Select Growth ETF,P,SEMG,Y,100.0,N,SEMG
 SEMI,Columbia Select Technology ETF,Columbia Select Technology ETF,P,SEMI,Y,100.0,N,SEMI
 SEMR,"SEMrush Holdings, Inc. Class A Common Stock","SEMrush Holdings, Inc. Class A Common Stock",N,SEMR,N,100.0,N,SEMR
 SENS,"Senseonics Holdings, Inc. Common Stock","Senseonics Holdings, Inc. Common Stock",A,SENS,N,100.0,N,SENS
