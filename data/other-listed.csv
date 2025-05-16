@@ -1359,7 +1359,6 @@ DEM,WisdomTree Emerging Markets High Dividend Fund,WisdomTree Emerging Markets H
 DEO,Diageo plc Common Stock,Diageo plc Common Stock,N,DEO,N,100.0,N,DEO
 DES,WisdomTree U.S. SmallCap Dividend Fund,WisdomTree U.S. SmallCap Dividend Fund,P,DES,Y,100.0,N,DES
 DESK,VanEck ETF Trust VanEck Office and Commercial REIT ETF,VanEck ETF Trust VanEck Office and Commercial REIT ETF,P,DESK,Y,100.0,N,DESK
-DESP,"Despegar.com, Corp. Ordinary Shares","Despegar.com, Corp. Ordinary Shares",N,DESP,N,100.0,N,DESP
 DEUS,Xtrackers Russell US Multifactor ETF,Xtrackers Russell US Multifactor ETF,P,DEUS,Y,100.0,N,DEUS
 DEW,WisdomTree Global High Dividend Fund,WisdomTree Global High Dividend Fund,P,DEW,Y,100.0,N,DEW
 DEXC,Dimensional ETF Trust Dimensional Emerging Markets ex China Core Equity ETF,Dimensional ETF Trust Dimensional Emerging Markets ex China Core Equity ETF,P,DEXC,Y,100.0,N,DEXC
@@ -1734,6 +1733,7 @@ EMD,Western Asset Emerging Markets Debt Fund Inc Common Stock,Western Asset Emer
 EMDM,First Trust Exchange,First Trust Exchange-Traded Fund II First Trust Bloomberg Emerging Market Democracies ETF,P,EMDM,Y,100.0,N,EMDM
 EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,ProShares MSCI Emerging Markets Dividend Growers ETF,Z,EMDV,Y,100.0,N,EMDV
 EME,"EMCOR Group, Inc. Common Stock","EMCOR Group, Inc. Common Stock",N,EME,N,100.0,N,EME
+EMES,Harbor ETF Trust Harbor Emerging Markets Select ETF,Harbor ETF Trust Harbor Emerging Markets Select ETF,P,EMES,Y,100.0,N,EMES
 EMF,Templeton Emerging Markets Fund Common Stock,Templeton Emerging Markets Fund Common Stock,N,EMF,N,100.0,N,EMF
 EMGF,iShares Emerging Markets Equity Factor ETF,iShares Emerging Markets Equity Factor ETF,Z,EMGF,Y,100.0,N,EMGF
 EMHC,SPDR Bloomberg Emerging Markets USD Bond ETF,SPDR Bloomberg Emerging Markets USD Bond ETF,P,EMHC,Y,100.0,N,EMHC
@@ -2191,7 +2191,6 @@ FNDE,Schwab Fundamental Emerging Markets Equity ETF,Schwab Fundamental Emerging 
 FNDF,Schwab Fundamental International Equity ETF,Schwab Fundamental International Equity ETF,P,FNDF,Y,100.0,N,FNDF
 FNDX,Schwab Fundamental U.S. Large Company ETF,Schwab Fundamental U.S. Large Company ETF,P,FNDX,Y,100.0,N,FNDX
 FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock","FNF Group of Fidelity National Financial, Inc. Common Stock",N,FNF,N,100.0,N,FNF
-FNGA,"MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038","MicroSectors FANG  Index 3X Leveraged ETNs due January 8, 2038",P,FNGA,N,100.0,N,FNGA
 FNGB,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,Bank Of Montreal MicroSectors FANG+ 3X Leveraged ETNs,P,FNGB,Y,100.0,N,FNGB
 FNGD,MicroSectors FANG  Index ,"MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038",P,FNGD,N,100.0,N,FNGD
 FNGG,Direxion Daily NYSE FANG+ Bull 2X Shares,Direxion Daily NYSE FANG+ Bull 2X Shares,P,FNGG,Y,100.0,N,FNGG
@@ -2526,7 +2525,6 @@ GRC,Gorman,Gorman-Rupp Company (The) Common Stock,N,GRC,N,100.0,N,GRC
 GRDN,"Guardian Pharmacy Services, Inc. Class A Common Stock","Guardian Pharmacy Services, Inc. Class A Common Stock",N,GRDN,N,100.0,N,GRDN
 GREK,Global X MSCI Greece ETF,Global X MSCI Greece ETF,P,GREK,Y,100.0,N,GREK
 GRF,"Eagle Capital Growth Fund, Inc. Common Stock","Eagle Capital Growth Fund, Inc. Common Stock",A,GRF,N,100.0,N,GRF
-GRFX,"Graphex Group Limited American Depositary Shares, each representing twenty (20) Ordinary Shares","Graphex Group Limited American Depositary Shares, each representing twenty (20) Ordinary Shares",A,GRFX,N,100.0,N,GRFX
 GRMN,Garmin Ltd. Common Stock (Switzerland),Garmin Ltd. Common Stock (Switzerland),N,GRMN,N,100.0,N,GRMN
 GRN,iPath Series B Carbon Exchange,iPath Series B Carbon Exchange-Traded Notes,P,GRN,N,100.0,N,GRN
 GRNB,VanEck Green Bond ETF,VanEck Green Bond ETF,P,GRNB,Y,100.0,N,GRNB
@@ -4343,7 +4341,6 @@ PALL,abrdn Physical Palladium Shares ETF,abrdn Physical Palladium Shares ETF,P,P
 PAM,Pampa Energia S.A.,Pampa Energia S.A.,N,PAM,N,100.0,N,PAM
 PAMC,Pacer Lunt MidCap Multi,Pacer Lunt MidCap Multi-Factor Alternator ETF,P,PAMC,Y,100.0,N,PAMC
 PAPI,Morgan Stanley ETF Trust Parametric Equity Premium Income ETF,Morgan Stanley ETF Trust Parametric Equity Premium Income ETF,P,PAPI,Y,100.0,N,PAPI
-PAPL,Pineapple Financial Inc. Common Stock,Pineapple Financial Inc. Common Stock,A,PAPL,N,100.0,N,PAPL
 PAPR,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - April,Z,PAPR,Y,100.0,N,PAPR
 PAR,PAR Technology Corporation Common Stock,PAR Technology Corporation Common Stock,N,PAR,N,100.0,N,PAR
 PARR,"Par Pacific Holdings, Inc.  Common Stock","Par Pacific Holdings, Inc.  Common Stock",N,PARR,N,100.0,N,PARR
@@ -6075,6 +6072,7 @@ VMI,"Valmont Industries, Inc. Common Stock","Valmont Industries, Inc. Common Sto
 VMO,Invesco Municipal Opportunity Trust Common Stock,Invesco Municipal Opportunity Trust Common Stock,N,VMO,N,100.0,N,VMO
 VNAM,Global X Funds Global X MSCI Vietnam ETF,Global X Funds Global X MSCI Vietnam ETF,P,VNAM,Y,100.0,N,VNAM
 VNCE,Vince Holding Corp. Common Stock,Vince Holding Corp. Common Stock,N,VNCE,N,100.0,N,VNCE
+VNIE,The Advisors Inner Circle Fund II Vontobel International Equity Active ETF,The Advisors Inner Circle Fund II Vontobel International Equity Active ETF,P,VNIE,Y,100.0,N,VNIE
 VNLA,Janus Henderson Short Duration Income ETF,Janus Henderson Short Duration Income ETF,P,VNLA,Y,100.0,N,VNLA
 VNM,VanEck Vietnam ETF,VanEck Vietnam ETF,Z,VNM,Y,100.0,N,VNM
 VNO,Vornado Realty Trust Common Stock,Vornado Realty Trust Common Stock,N,VNO,N,100.0,N,VNO
