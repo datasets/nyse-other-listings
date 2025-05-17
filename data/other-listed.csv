@@ -646,7 +646,7 @@ BITO,ProShares Bitcoin ETF,ProShares Bitcoin ETF,P,BITO,Y,100.0,N,BITO
 BITQ,Bitwise Crypto Industry Innovators ETF,Bitwise Crypto Industry Innovators ETF,P,BITQ,Y,100.0,N,BITQ
 BITU,ProShares Trust ProShares Ultra Bitcoin ETF,ProShares Trust ProShares Ultra Bitcoin ETF,P,BITU,Y,100.0,N,BITU
 BITX,Volatility Shares Trust 2x Bitcoin Strategy ETF,Volatility Shares Trust 2x Bitcoin Strategy ETF,Z,BITX,Y,100.0,N,BITX
-BITY,Amplify ETF Trust Amplify Bitcoin 24% Premium Income ETF,Amplify ETF Trust Amplify Bitcoin 24% Premium Income ETF,Z,BITY,Y,100.0,N,BITY
+BITY,Amplify Bitcoin 2% Monthly Option Income ETF,Amplify Bitcoin 2% Monthly Option Income ETF,Z,BITY,Y,100.0,N,BITY
 BIV,Vanguard Intermediate,Vanguard Intermediate-Term Bond ETF,P,BIV,Y,100.0,N,BIV
 BIZD,VanEck BDC Income ETF ,VanEck BDC Income ETF ,P,BIZD,Y,100.0,N,BIZD
 BJ,"BJ's Wholesale Club Holdings, Inc. Common Stock","BJ's Wholesale Club Holdings, Inc. Common Stock",N,BJ,N,100.0,N,BJ
@@ -3838,6 +3838,7 @@ MP,MP Materials Corp. Common Stock,MP Materials Corp. Common Stock,N,MP,N,100.0,
 MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,N,MPA,N,100.0,N,MPA
 MPC,Marathon Petroleum Corporation Common Stock,Marathon Petroleum Corporation Common Stock,N,MPC,N,100.0,N,MPC
 MPLX,MPLX LP Common Units Representing Limited Partner Interests,MPLX LP Common Units Representing Limited Partner Interests,N,MPLX,N,100.0,N,MPLX
+MPLY,Strategy Shares Monopoly ETF,Strategy Shares Monopoly ETF,Z,MPLY,Y,100.0,N,MPLY
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
 MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
 MPTI.W,M,"M-tron Industries, Inc. Warrants to Purchase Shares of Common Stock, Expiring on or before April 25, 2028",A,MPTI.WS,N,100.0,N,MPTI+
@@ -5827,6 +5828,7 @@ TWO,Two Harbors Investment Corp,Two Harbors Investment Corp,N,TWO,N,100.0,N,TWO
 TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),N,TWOpA,N,100.0,N,TWO-A
 TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpB,N,100.0,N,TWO-B
 TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpC,N,100.0,N,TWO-C
+TWOD,Two Harbors Investments Corp 9.375% Senior Notes due 2030,Two Harbors Investments Corp 9.375% Senior Notes due 2030,N,TWOD,N,100.0,N,TWOD
 TWOX,iShares Large Cap Accelerated Outcome ETF,iShares Large Cap Accelerated Outcome ETF,Z,TWOX,Y,100.0,N,TWOX
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)","Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",N,TX,N,100.0,N,TX
 TXNM,"TXNM Energy, Inc. Common Stock","TXNM Energy, Inc. Common Stock",N,TXNM,N,100.0,N,TXNM
