@@ -1007,7 +1007,7 @@ CHT,"Chunghwa Telecom Co., Ltd.","Chunghwa Telecom Co., Ltd.",N,CHT,N,100.0,N,CH
 CHWY,"Chewy, Inc. Class A Common Stock","Chewy, Inc. Class A Common Stock",N,CHWY,N,100.0,N,CHWY
 CI,The Cigna Group Common Stock,The Cigna Group Common Stock,N,CI,N,100.0,N,CI
 CIA,"Citizens, Inc. Class A Common Stock ($1.00 Par)","Citizens, Inc. Class A Common Stock ($1.00 Par)",N,CIA,N,100.0,N,CIA
-CIB,BanColombia S.A. Common Stock,BanColombia S.A. Common Stock,N,CIB,N,100.0,N,CIB
+CIB,Grupo Cibest S.A. American Depositary Shares each representing four Preferred Shares,Grupo Cibest S.A. American Depositary Shares each representing four Preferred Shares,N,CIB,N,100.0,N,CIB
 CICB,CION Investment Corporation 7.50% Notes due 2029,CION Investment Corporation 7.50% Notes due 2029,N,CICB,N,100.0,N,CICB
 CIEN,Ciena Corporation Common Stock,Ciena Corporation Common Stock,N,CIEN,N,100.0,N,CIEN
 CIF,MFS Intermediate High Income Fund Common Stock,MFS Intermediate High Income Fund Common Stock,N,CIF,N,100.0,N,CIF
@@ -1392,7 +1392,6 @@ DFND,Siren DIVCON Dividend Defender ETF,Siren DIVCON Dividend Defender ETF,Z,DFN
 DFNL,Davis Fundamental ETF Trust Davis Select Financial ETF,Davis Fundamental ETF Trust Davis Select Financial ETF,Z,DFNL,Y,100.0,N,DFNL
 DFNM,Dimensional ETF Trust Dimensional National Municipal Bond ETF,Dimensional ETF Trust Dimensional National Municipal Bond ETF,P,DFNM,Y,100.0,N,DFNM
 DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,N,DFP,N,100.0,N,DFP
-DFS,Discover Financial Services Common Stock,Discover Financial Services Common Stock,N,DFS,N,100.0,N,DFS
 DFSB,Dimensional ETF Trust Dimensional Global Sustainability Fixed Income ETF,Dimensional ETF Trust Dimensional Global Sustainability Fixed Income ETF,P,DFSB,Y,100.0,N,DFSB
 DFSD,Dimensional ETF Trust Dimensional Short,Dimensional ETF Trust Dimensional Short-Duration Fixed Income ETF,P,DFSD,Y,100.0,N,DFSD
 DFSE,Dimensional ETF Trust Dimensional Emerging Markets Sustainability Core 1 ETF,Dimensional ETF Trust Dimensional Emerging Markets Sustainability Core 1 ETF,P,DFSE,Y,100.0,N,DFSE
@@ -3657,6 +3656,7 @@ MAV,"Pioneer Municipal High Income Advantage Fund, Inc.","Pioneer Municipal High
 MAVF,EA Series Trust Matrix Advisors Value ETF,EA Series Trust Matrix Advisors Value ETF,P,MAVF,Y,100.0,N,MAVF
 MAX,"MediaAlpha, Inc. Class A Common Stock","MediaAlpha, Inc. Class A Common Stock",N,MAX,N,100.0,N,MAX
 MAXJ,iShares Trust iShares Large Cap Max Buffer Jun ETF,iShares Trust iShares Large Cap Max Buffer Jun ETF,Z,MAXJ,Y,100.0,N,MAXJ
+MAYM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - May,Z,MAYM,Y,100.0,N,MAYM
 MAYP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - May,Z,MAYP,Y,100.0,N,MAYP
 MAYT,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 May ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 May ETF,P,MAYT,Y,100.0,N,MAYT
 MAYU,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped May ETF,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped May ETF,Z,MAYU,Y,100.0,N,MAYU
@@ -5670,7 +5670,7 @@ THTA,Tidal ETF Trust SoFi Enhanced Yield ETF,Tidal ETF Trust SoFi Enhanced Yield
 THW,abrdn World Healthcare Fund Shares of Beneficial Interest,abrdn World Healthcare Fund Shares of Beneficial Interest,N,THW,N,100.0,N,THW
 THY,Toews Agility Shares Dynamic Tactical Income ETF,Toews Agility Shares Dynamic Tactical Income ETF,P,THY,Y,100.0,N,THY
 THYF,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price U.S. High Yield ETF",P,THYF,Y,100.0,N,THYF
-TIC,Acuren Corporation Common Stock,Acuren Corporation Common Stock,A,TIC,N,100.0,N,TIC
+TIC,Acuren Corporation Common Stock,Acuren Corporation Common Stock,N,TIC,N,100.0,N,TIC
 TILL,Listed Funds Trust Teucrium Agricultural Strategy No K,Listed Funds Trust Teucrium Agricultural Strategy No K-1 ETF,P,TILL,Y,100.0,N,TILL
 TILT,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,Z,TILT,Y,100.0,N,TILT
 TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,N,TIMB,N,100.0,N,TIMB
