@@ -728,6 +728,7 @@ BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,Bank Nova Scotia Halifax Pfd 
 BNT,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,N,BNT,N,100.0,N,BNT
 BNY,BlackRock New York Municipal Income Trust,BlackRock New York Municipal Income Trust,N,BNY,N,100.0,N,BNY
 BOAT,SonicShares Global Shipping ETF,SonicShares Global Shipping ETF,P,BOAT,Y,100.0,N,BOAT
+BOBP,Exchange Traded Concepts Trust CORE16 Best of Breed Premier Index ETF,Exchange Traded Concepts Trust CORE16 Best of Breed Premier Index ETF,P,BOBP,Y,100.0,N,BOBP
 BOC,Boston Omaha Corporation Class A Common Stock,Boston Omaha Corporation Class A Common Stock,N,BOC,N,100.0,N,BOC
 BOCT,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - October,Z,BOCT,Y,100.0,N,BOCT
 BODI,"The Beachbody Company, Inc. Class A Common Stock","The Beachbody Company, Inc. Class A Common Stock",N,BODI,N,100.0,N,BODI
@@ -3285,14 +3286,12 @@ JUNZ,TrueShares Structured Outcome (June) ETF,TrueShares Structured Outcome (Jun
 JUSA,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan U.S. Research Enhanced Large Cap ETF,P,JUSA,Y,100.0,N,JUSA
 JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF,Goldman Sachs JUST U.S. Large Cap Equity ETF,P,JUST,Y,100.0,N,JUST
 JVAL,JPMorgan U.S. Value Factor ETF,JPMorgan U.S. Value Factor ETF,P,JVAL,Y,100.0,N,JVAL
-JWN,"Nordstrom, Inc. Common Stock","Nordstrom, Inc. Common Stock",N,JWN,N,100.0,N,JWN
 JXI,iShares Global Utilities ETF,iShares Global Utilities ETF,P,JXI,Y,100.0,N,JXI
 JXN,Jackson Financial Inc. Class A Common Stock ,Jackson Financial Inc. Class A Common Stock ,N,JXN,N,100.0,N,JXN
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed","Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",N,JXNpA,N,100.0,N,JXN-A
 JXX,Janus Detroit Street Trust Janus Henderson Transformational Growth ETF,Janus Detroit Street Trust Janus Henderson Transformational Growth ETF,Z,JXX,Y,100.0,N,JXX
 K,Kellanova Common Stock,Kellanova Common Stock,N,K,N,100.0,N,K
 KAI,Kadant Inc Common Stock,Kadant Inc Common Stock,N,KAI,N,100.0,N,KAI
-KALL,KraneShares MSCI All China Index ETF,KraneShares MSCI All China Index ETF,P,KALL,Y,100.0,N,KALL
 KAPA,"Kairos Pharma, Ltd. Common Stock","Kairos Pharma, Ltd. Common Stock",A,KAPA,N,100.0,N,KAPA
 KAPR,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - April,Z,KAPR,Y,100.0,N,KAPR
 KAR,"OPENLANE, Inc. Common Stock","OPENLANE, Inc. Common Stock",N,KAR,N,100.0,N,KAR
@@ -3313,7 +3312,6 @@ KD,"Kyndryl Holdings, Inc. Common Stock","Kyndryl Holdings, Inc. Common Stock",N
 KDEC,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - December,Z,KDEC,Y,100.0,N,KDEC
 KDEF,Exchange Listed Funds Trust PLUS Korea Defense Industry Index ETF,Exchange Listed Funds Trust PLUS Korea Defense Industry Index ETF,P,KDEF,Y,100.0,N,KDEF
 KDRN,ETF Opportunities Trust Kingsbarn Tactical Bond ETF,ETF Opportunities Trust Kingsbarn Tactical Bond ETF,P,KDRN,Y,100.0,N,KDRN
-KEM,KraneShares Trust KraneShares Dynamic Emerging Markets Strategy ETF,KraneShares Trust KraneShares Dynamic Emerging Markets Strategy ETF,P,KEM,Y,100.0,N,KEM
 KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,KraneShares Emerging Markets Consumer Technology Index ETF,P,KEMQ,Y,100.0,N,KEMQ
 KEMX,KraneShares MSCI Emerging Markets ex China Index ETF,KraneShares MSCI Emerging Markets ex China Index ETF,P,KEMX,Y,100.0,N,KEMX
 KEN,Kenon Holdings Ltd. Ordinary Shares,Kenon Holdings Ltd. Ordinary Shares,N,KEN,N,100.0,N,KEN
@@ -3404,7 +3402,6 @@ KRMN,Karman Holdings Inc. Common Stock,Karman Holdings Inc. Common Stock,N,KRMN,
 KRO,Kronos Worldwide Inc Common Stock,Kronos Worldwide Inc Common Stock,N,KRO,N,100.0,N,KRO
 KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,N,KRP,N,100.0,N,KRP
 KSA,iShares Trust iShares MSCI Saudi Arabia ETF,iShares Trust iShares MSCI Saudi Arabia ETF,P,KSA,Y,100.0,N,KSA
-KSEA,KraneShares Trust KraneShares Rockefeller Ocean Engagement ETF,KraneShares Trust KraneShares Rockefeller Ocean Engagement ETF,P,KSEA,Y,100.0,N,KSEA
 KSEP,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - September,Z,KSEP,Y,100.0,N,KSEP
 KSPY,KraneShares Trust KraneShares Hedgeye Hedged Equity Index ETF,KraneShares Trust KraneShares Hedgeye Hedged Equity Index ETF,P,KSPY,Y,100.0,N,KSPY
 KSS,Kohl's Corporation Common Stock,Kohl's Corporation Common Stock,N,KSS,N,100.0,N,KSS
