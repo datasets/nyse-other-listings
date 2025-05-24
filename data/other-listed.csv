@@ -557,7 +557,6 @@ BDX,"Becton, Dickinson and Company Common Stock","Becton, Dickinson and Company 
 BE,Bloom Energy Corporation Class A Common Stock,Bloom Energy Corporation Class A Common Stock,N,BE,N,100.0,N,BE
 BEDU,"Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share","Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share",N,BEDU,N,100.0,N,BEDU
 BEDZ,AdvisorShares Hotel ETF,AdvisorShares Hotel ETF,P,BEDZ,Y,100.0,N,BEDZ
-BEEP,Mobile Infrastructure Corporation Common Stock,Mobile Infrastructure Corporation Common Stock,A,BEEP,N,100.0,N,BEEP
 BEGS,Collaborative Investment Series Trust Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Collaborative Investment Series Trust Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Z,BEGS,Y,100.0,N,BEGS
 BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),N,BEKE,N,100.0,N,BEKE
 BEMB,iShares Trust iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,iShares Trust iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,Z,BEMB,Y,100.0,N,BEMB
@@ -609,6 +608,7 @@ BHB,"Bar Harbor Bankshares, Inc. Common Stock","Bar Harbor Bankshares, Inc. Comm
 BHC,Bausch Health Companies Inc. Common Stock,Bausch Health Companies Inc. Common Stock,N,BHC,N,100.0,N,BHC
 BHE,"Benchmark Electronics, Inc. Common Stock","Benchmark Electronics, Inc. Common Stock",N,BHE,N,100.0,N,BHE
 BHK,Blackrock Core Bond Trust,Blackrock Core Bond Trust,N,BHK,N,100.0,N,BHK
+BHK.V,"Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued","Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued",N,BHKrw,N,100.0,N,BHK^#
 BHLB,"Berkshire Hills Bancorp, Inc. Common Stock","Berkshire Hills Bancorp, Inc. Common Stock",N,BHLB,N,100.0,N,BHLB
 BHM,"Bluerock Homes Trust, Inc. Class A Common Stock","Bluerock Homes Trust, Inc. Class A Common Stock",A,BHM,N,100.0,N,BHM
 BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),N,BHP,N,100.0,N,BHP
@@ -5348,6 +5348,8 @@ SON,Sonoco Products Company Common Stock,Sonoco Products Company Common Stock,N,
 SONY,Sony Group Corporation American Depositary Shares ,Sony Group Corporation American Depositary Shares ,N,SONY,N,100.0,N,SONY
 SOR,"Source Capital, Inc. Cmn Shs of BI","Source Capital, Inc. Cmn Shs of BI",N,SOR,N,100.0,N,SOR
 SOS,"SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares","SOS Limited American Depositary Shares, one hundred and fifty (150) Class A Ordinary Shares",N,SOS,N,100.0,N,SOS
+SOUL,Soulpower Acquisition Corporation Class A Ordinary Shares,Soulpower Acquisition Corporation Class A Ordinary Shares,N,SOUL,N,100.0,N,SOUL
+SOUL.R,"Soulpower Acquisition Corporation Rights, each right entitling the holder to receive one","Soulpower Acquisition Corporation Rights, each right entitling the holder to receive one-tenth (1/10) of one Class A Ordinary Share",N,SOULr,N,100.0,N,SOUL^
 SOUL.U,"Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right","Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",N,SOUL.U,N,100.0,N,SOUL=
 SOVF,Elevation Series Trust Sovereign's Capital Flourish Fund,Elevation Series Trust Sovereign's Capital Flourish Fund,P,SOVF,Y,100.0,N,SOVF
 SOXL,Direxion Daily Semiconductor Bull 3x Shares,Direxion Daily Semiconductor Bull 3x Shares,P,SOXL,Y,100.0,N,SOXL
@@ -6420,7 +6422,7 @@ YETH,Roundhill ETF Trust Roundhill Ether Covered Call Strategy ETF,Roundhill ETF
 YETI,"YETI Holdings, Inc. Common Stock","YETI Holdings, Inc. Common Stock",N,YETI,N,100.0,N,YETI
 YEXT,"Yext, Inc. Common Stock","Yext, Inc. Common Stock",N,YEXT,N,100.0,N,YEXT
 YFFI,Spinnaker ETF Series Indexperts Yield Focused Fixed Income ETF,Spinnaker ETF Series Indexperts Yield Focused Fixed Income ETF,P,YFFI,Y,100.0,N,YFFI
-YFYA,Listed Funds Trust Yields for You Strategy A ETF,Listed Funds Trust Yields for You Strategy A ETF,P,YFYA,Y,100.0,N,YFYA
+YFYA,Yields for You Income Strategy A ETF,Yields for You Income Strategy A ETF,P,YFYA,Y,100.0,N,YFYA
 YGLD,Simplify Exchange Traded Funds Simplify Gold Strategy PLUS Income ETF,Simplify Exchange Traded Funds Simplify Gold Strategy PLUS Income ETF,P,YGLD,Y,100.0,N,YGLD
 YINN,Direxion Daily FTSE China Bull 3x Shares,Direxion Daily FTSE China Bull 3x Shares,P,YINN,Y,100.0,N,YINN
 YJUN,FT Vest International Equity Moderate Buffer ETF ,FT Vest International Equity Moderate Buffer ETF - June,Z,YJUN,Y,100.0,N,YJUN
