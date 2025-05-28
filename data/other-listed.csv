@@ -246,6 +246,7 @@ AOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protectio
 AOD,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,N,AOD,N,100.0,N,AOD
 AOK,iShares Core 30/70 Conservative Allocation ETF,iShares Core 30/70 Conservative Allocation ETF,P,AOK,Y,100.0,N,AOK
 AOM,iShares Core 40/60 Moderate Allocation ETF,iShares Core 40/60 Moderate Allocation ETF,P,AOM,Y,100.0,N,AOM
+AOMD,"Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030","Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030",N,AOMD,N,100.0,N,AOMD
 AOMN,"Angel Oak Mortgage REIT, Inc. 9.500% Senior Notes due 2029","Angel Oak Mortgage REIT, Inc. 9.500% Senior Notes due 2029",N,AOMN,N,100.0,N,AOMN
 AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock","Angel Oak Mortgage REIT, Inc. Common Stock",N,AOMR,N,100.0,N,AOMR
 AON,Aon plc Class A Ordinary Shares (Ireland),Aon plc Class A Ordinary Shares (Ireland),N,AON,N,100.0,N,AON
@@ -1805,7 +1806,6 @@ EQH$A,"Equitable Holdings, Inc. Depositary Shares","Equitable Holdings, Inc. Dep
 EQH$C,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series C","Equitable Holdings, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series C",N,EQHpC,N,100.0,N,EQH-C
 EQIN,Columbia U.S. Equity Income ETF,Columbia U.S. Equity Income ETF,P,EQIN,Y,100.0,N,EQIN
 EQL,ALPS Equal Sector Weight ETF,ALPS Equal Sector Weight ETF,P,EQL,Y,100.0,N,EQL
-EQLS,Simplify Exchange Traded Funds Simplify Market Neutral Equity Long/Short ETF,Simplify Exchange Traded Funds Simplify Market Neutral Equity Long/Short ETF,P,EQLS,Y,100.0,N,EQLS
 EQLT,iShares Trust iShares MSCI Emerging Markets Quality Factor ETF,iShares Trust iShares MSCI Emerging Markets Quality Factor ETF,Z,EQLT,Y,100.0,N,EQLT
 EQNR,Equinor ASA,Equinor ASA,N,EQNR,N,100.0,N,EQNR
 EQR,Equity Residential Common Shares of Beneficial Interest,Equity Residential Common Shares of Beneficial Interest,N,EQR,N,100.0,N,EQR
@@ -2077,7 +2077,6 @@ FIBR,iShares U.S. Fixed Income Balanced Risk Systematic ETF,iShares U.S. Fixed I
 FICO,Fair Isaac Corporation Common Stock,Fair Isaac Corporation Common Stock,N,FICO,N,100.0,N,FICO
 FIDI,Fidelity International High Dividend ETF,Fidelity International High Dividend ETF,P,FIDI,Y,100.0,N,FIDI
 FIDU,Fidelity MSCI Industrials Index ETF,Fidelity MSCI Industrials Index ETF,P,FIDU,Y,100.0,N,FIDU
-FIG,Simplify Exchange Traded Funds Simplify Macro Strategy ETF,Simplify Exchange Traded Funds Simplify Macro Strategy ETF,P,FIG,Y,100.0,N,FIG
 FIGB,Fidelity Investment Grade Bond ETF,Fidelity Investment Grade Bond ETF,P,FIGB,Y,100.0,N,FIGB
 FIGS,"FIGS, Inc. Class A Common Stock","FIGS, Inc. Class A Common Stock",N,FIGS,N,100.0,N,FIGS
 FIHL,Fidelis Insurance Holdings Limited Common Shares,Fidelis Insurance Holdings Limited Common Shares,N,FIHL,N,100.0,N,FIHL
@@ -4201,7 +4200,6 @@ NXP,Nuveen Select Tax Free Income Portfolio Common Stock,Nuveen Select Tax Free 
 NXRT,"NexPoint Residential Trust, Inc. Common Stock","NexPoint Residential Trust, Inc. Common Stock",N,NXRT,N,100.0,N,NXRT
 NXTE,Investment Managers Series Trust II AXS Green Alpha ETF,Investment Managers Series Trust II AXS Green Alpha ETF,P,NXTE,Y,100.0,N,NXTE
 NXTI,Simplify Exchange Traded Funds Simplify Next Intangible Core Index ETF,Simplify Exchange Traded Funds Simplify Next Intangible Core Index ETF,Z,NXTI,Y,100.0,N,NXTI
-NXTV,Simplify Exchange Traded Funds Simplify Next Intangible Value Index ETF,Simplify Exchange Traded Funds Simplify Next Intangible Value Index ETF,Z,NXTV,Y,100.0,N,NXTV
 NYC,American Strategic Investment Co. Class A Common Stock,American Strategic Investment Co. Class A Common Stock,N,NYC,N,100.0,N,NYC
 NYF,iShares New York Muni Bond ETF,iShares New York Muni Bond ETF,P,NYF,Y,100.0,N,NYF
 NYT,New York Times Company (The) Common Stock,New York Times Company (The) Common Stock,N,NYT,N,100.0,N,NYT
@@ -5123,7 +5121,6 @@ SCMB,Schwab Strategic Trust Schwab Municipal Bond ETF,Schwab Strategic Trust Sch
 SCO,ProShares UltraShort Bloomberg Crude Oil,ProShares UltraShort Bloomberg Crude Oil,P,SCO,Y,100.0,N,SCO
 SCS,Steelcase Inc. Common Stock,Steelcase Inc. Common Stock,N,SCS,N,100.0,N,SCS
 SCUS,Schwab Strategic Trust Schwab Ultra,Schwab Strategic Trust Schwab Ultra-Short Income ETF,P,SCUS,Y,100.0,N,SCUS
-SCY,Simplify Exchange Traded Funds Simplify US Small Cap PLUS Income ETF,Simplify Exchange Traded Funds Simplify US Small Cap PLUS Income ETF,P,SCY,Y,100.0,N,SCY
 SCYB,Schwab Strategic Trust Schwab High Yield Bond ETF,Schwab Strategic Trust Schwab High Yield Bond ETF,P,SCYB,Y,100.0,N,SCYB
 SD,"SandRidge Energy, Inc. Common Stock","SandRidge Energy, Inc. Common Stock",N,SD,N,100.0,N,SD
 SDCI,USCF SummerHaven Dynamic Commodity Strategy No K,USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund,P,SDCI,Y,100.0,N,SDCI
@@ -5402,7 +5399,6 @@ SPNT,SiriusPoint Ltd. Common Shares,SiriusPoint Ltd. Common Shares,N,SPNT,N,100.
 SPNT$B,"SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share","SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share",N,SPNTpB,N,100.0,N,SPNT-B
 SPOT,Spotify Technology S.A. Ordinary Shares,Spotify Technology S.A. Ordinary Shares,N,SPOT,N,100.0,N,SPOT
 SPPP,Sprott Physical Platinum and Palladium Trust,Sprott Physical Platinum and Palladium Trust,P,SPPP,Y,100.0,N,SPPP
-SPQ,Simplify Exchange Traded Funds Simplify US Equity PLUS QIS ETF,Simplify Exchange Traded Funds Simplify US Equity PLUS QIS ETF,P,SPQ,Y,100.0,N,SPQ
 SPR,"Spirit Aerosystems Holdings, Inc. Common Stock","Spirit Aerosystems Holdings, Inc. Common Stock",N,SPR,N,100.0,N,SPR
 SPRE,SP Funds S&P Global REIT Sharia ETF,SP Funds S&P Global REIT Sharia ETF,P,SPRE,Y,100.0,N,SPRE
 SPRU,Spruce Power Holding Corporation Class A Common Stock,Spruce Power Holding Corporation Class A Common Stock,N,SPRU,N,100.0,N,SPRU
@@ -6267,7 +6263,6 @@ WTTR,"Select Water Solutions, Inc. Class A common stock","Select Water Solutions
 WTV,WisdomTree U.S. Value Fund,WisdomTree U.S. Value Fund,P,WTV,Y,100.0,N,WTV
 WU,Western Union Company (The) Common Stock,Western Union Company (The) Common Stock,N,WU,N,100.0,N,WU
 WUGI,AXS Esoterica NextG Economy ETF,AXS Esoterica NextG Economy ETF,Z,WUGI,Y,100.0,N,WUGI
-WUSA,Simplify Exchange Traded Funds Simplify Wolfe US Equity 150/50 ETF,Simplify Exchange Traded Funds Simplify Wolfe US Equity 150/50 ETF,P,WUSA,Y,100.0,N,WUSA
 WWJD,Inspire International ETF,Inspire International ETF,P,WWJD,Y,100.0,N,WWJD
 WWR,"Westwater Resources, Inc. Common Stock","Westwater Resources, Inc. Common Stock",A,WWR,N,100.0,N,WWR
 WWW,"Wolverine World Wide, Inc. Common Stock","Wolverine World Wide, Inc. Common Stock",N,WWW,N,100.0,N,WWW
