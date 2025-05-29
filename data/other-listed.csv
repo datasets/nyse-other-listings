@@ -1726,6 +1726,7 @@ ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each re
 ELQD,iShares ESG Advanced Investment Grade Corporate Bond ETF,iShares ESG Advanced Investment Grade Corporate Bond ETF,P,ELQD,Y,100.0,N,ELQD
 ELS,"Equity Lifestyle Properties, Inc. Common Stock","Equity Lifestyle Properties, Inc. Common Stock",N,ELS,N,100.0,N,ELS
 ELV,"Elevance Health, Inc. Common Stock","Elevance Health, Inc. Common Stock",N,ELV,N,100.0,N,ELV
+EMA,Emera Incorporated Common Shares,Emera Incorporated Common Shares,N,EMA,N,100.0,N,EMA
 EMBD,Global X Emerging Markets Bond ETF,Global X Emerging Markets Bond ETF,P,EMBD,Y,100.0,N,EMBD
 EMC,Global X Funds Global X Emerging Markets Great Consumer ETF,Global X Funds Global X Emerging Markets Great Consumer ETF,P,EMC,Y,100.0,N,EMC
 EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,P,EMCR,Y,100.0,N,EMCR
@@ -2580,7 +2581,6 @@ GTY,Getty Realty Corporation Common Stock,Getty Realty Corporation Common Stock,
 GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,N,GUG,N,100.0,N,GUG
 GUMI,Goldman Sachs ETF Trust Goldman Sachs Ultra Short Municipal Income ETF,Goldman Sachs ETF Trust Goldman Sachs Ultra Short Municipal Income ETF,P,GUMI,Y,100.0,N,GUMI
 GUNR,FlexShares Global Upstream Natural Resources Index Fund ETF,FlexShares Global Upstream Natural Resources Index Fund ETF,P,GUNR,Y,100.0,N,GUNR
-GUNZ,Spinnaker ETF Series Tuttle Capital Self Defense Index ETF,Spinnaker ETF Series Tuttle Capital Self Defense Index ETF,Z,GUNZ,Y,100.0,N,GUNZ
 GURU,Global X Guru Index ETF,Global X Guru Index ETF,P,GURU,Y,100.0,N,GURU
 GUSA,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta U.S. 1000 Equity ETF,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta U.S. 1000 Equity ETF,P,GUSA,Y,100.0,N,GUSA
 GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,P,GUSH,Y,100.0,N,GUSH
@@ -3371,6 +3371,7 @@ KNO,Investment Managers Series Trust II AXS Knowledge Leaders ETF,Investment Man
 KNOP,KNOT Offshore Partners LP Common Units representing Limited Partner Interests,KNOT Offshore Partners LP Common Units representing Limited Partner Interests,N,KNOP,N,100.0,N,KNOP
 KNOV,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - November,Z,KNOV,Y,100.0,N,KNOV
 KNOW,Fundamentals First ETF Fundamentals First ETF,Fundamentals First ETF Fundamentals First ETF,Z,KNOW,Y,100.0,N,KNOW
+KNRG,Simplify Exchange Traded Funds Simplify Kayne Anderson Energy and Infrastructure Credit ETF,Simplify Exchange Traded Funds Simplify Kayne Anderson Energy and Infrastructure Credit ETF,P,KNRG,Y,100.0,N,KNRG
 KNSL,"Kinsale Capital Group, Inc. Common Stock","Kinsale Capital Group, Inc. Common Stock",N,KNSL,N,100.0,N,KNSL
 KNTK,Kinetik Holdings Inc. Class A Common Stock,Kinetik Holdings Inc. Class A Common Stock,N,KNTK,N,100.0,N,KNTK
 KNW,"Know Labs, Inc. Common Stock","Know Labs, Inc. Common Stock",A,KNW,N,100.0,N,KNW
@@ -4175,6 +4176,7 @@ NVDX,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long NVIDIA Dail
 NVDY,Tidal ETF Trust II YieldMax NVDA Option Income Strategy ETF,Tidal ETF Trust II YieldMax NVDA Option Income Strategy ETF,P,NVDY,Y,100.0,N,NVDY
 NVG,Nuveen AMT,Nuveen AMT-Free Municipal Credit Income Fund ,N,NVG,N,100.0,N,NVG
 NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),N,NVGS,N,100.0,N,NVGS
+NVII,REX NVDA Growth & Income ETF REX NVDA Growth & Income ETF,REX NVDA Growth & Income ETF REX NVDA Growth & Income ETF,Z,NVII,Y,100.0,N,NVII
 NVIR,Listed Funds Trust Horizon Kinetics Energy and Remediation ETF,Listed Funds Trust Horizon Kinetics Energy and Remediation ETF,P,NVIR,Y,100.0,N,NVIR
 NVO,Novo Nordisk A/S Common Stock,Novo Nordisk A/S Common Stock,N,NVO,N,100.0,N,NVO
 NVOH,Precidian ETFs Trust Novo Nordisk A/S B Shares ADRhedged,Precidian ETFs Trust Novo Nordisk A/S B Shares ADRhedged,P,NVOH,Y,100.0,N,NVOH
