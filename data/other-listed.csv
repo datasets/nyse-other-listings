@@ -439,7 +439,6 @@ AZNH,Precidian ETFs Trust AstraZeneca PLC ADRhedged,Precidian ETFs Trust AstraZe
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,100.0,N,AZO
 AZTD,Tidal ETF Trust Aztlan Global Stock Selection DM SMID ETF,Tidal ETF Trust Aztlan Global Stock Selection DM SMID ETF,P,AZTD,Y,100.0,N,AZTD
 AZTR,Azitra Inc Common Stock,Azitra Inc Common Stock,A,AZTR,N,100.0,N,AZTR
-AZUL,Azul S.A. American Depositary Shares (each representing three preferred shares),Azul S.A. American Depositary Shares (each representing three preferred shares),N,AZUL,N,100.0,N,AZUL
 AZZ,AZZ Inc.,AZZ Inc.,N,AZZ,N,100.0,N,AZZ
 B,Barrick Mining Corporation Common Shares,Barrick Mining Corporation Common Shares,N,B,N,100.0,N,B
 BA,Boeing Company (The) Common Stock,Boeing Company (The) Common Stock,N,BA,N,100.0,N,BA
@@ -609,7 +608,7 @@ BHB,"Bar Harbor Bankshares, Inc. Common Stock","Bar Harbor Bankshares, Inc. Comm
 BHC,Bausch Health Companies Inc. Common Stock,Bausch Health Companies Inc. Common Stock,N,BHC,N,100.0,N,BHC
 BHE,"Benchmark Electronics, Inc. Common Stock","Benchmark Electronics, Inc. Common Stock",N,BHE,N,100.0,N,BHE
 BHK,Blackrock Core Bond Trust,Blackrock Core Bond Trust,N,BHK,N,100.0,N,BHK
-BHK.V,"Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued","Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued",N,BHKrw,N,100.0,N,BHK^#
+BHK.R,"Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights","Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights",N,BHKr,N,100.0,N,BHK^
 BHLB,"Berkshire Hills Bancorp, Inc. Common Stock","Berkshire Hills Bancorp, Inc. Common Stock",N,BHLB,N,100.0,N,BHLB
 BHM,"Bluerock Homes Trust, Inc. Class A Common Stock","Bluerock Homes Trust, Inc. Class A Common Stock",A,BHM,N,100.0,N,BHM
 BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),N,BHP,N,100.0,N,BHP
@@ -3349,6 +3348,7 @@ KJUN,SHL Telemedicine Ltd Innovator U.S. Small Cap Power Buffer ETF ,SHL Telemed
 KKR,KKR & Co. Inc. Common Stock,KKR & Co. Inc. Common Stock,N,KKR,N,100.0,N,KKR
 KKR$D,KKR & Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock,KKR & Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock,N,KKRpD,N,100.0,N,KKR-D
 KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,N,KKRS,N,100.0,N,KKRS
+KKRT,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,N,KKRT,N,100.0,N,KKRT
 KLC,"KinderCare Learning Companies, Inc. Common Stock","KinderCare Learning Companies, Inc. Common Stock",N,KLC,N,100.0,N,KLC
 KLG,WK Kellogg Co Common Stock,WK Kellogg Co Common Stock,N,KLG,N,100.0,N,KLG
 KLIP,KraneShares KWEB Covered Call Strategy ETF,KraneShares KWEB Covered Call Strategy ETF,P,KLIP,Y,100.0,N,KLIP
@@ -3357,7 +3357,6 @@ KLMT,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI Global 
 KLXY,KraneShares Trust KraneShares Global Luxury Index ETF,KraneShares Trust KraneShares Global Luxury Index ETF,P,KLXY,Y,100.0,N,KLXY
 KMAR,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - March,Z,KMAR,Y,100.0,N,KMAR
 KMAY,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - May,Z,KMAY,Y,100.0,N,KMAY
-KMB,Kimberly,Kimberly-Clark Corporation Common Stock,N,KMB,N,100.0,N,KMB
 KMI,"Kinder Morgan, Inc. Common Stock","Kinder Morgan, Inc. Common Stock",N,KMI,N,100.0,N,KMI
 KMID,Virtus ETF Trust II Virtus KAR Mid,Virtus ETF Trust II Virtus KAR Mid-Cap ETF,P,KMID,Y,100.0,N,KMID
 KMLM,KraneShares Mount Lucas Managed Futures Index Strategy ETF,KraneShares Mount Lucas Managed Futures Index Strategy ETF,P,KMLM,Y,100.0,N,KMLM
@@ -4782,6 +4781,7 @@ QVMS,Invesco S&P SmallCap 600 QVM Multi,Invesco S&P SmallCap 600 QVM Multi-facto
 QVOY,Q3 All,Q3 All-Season Active Rotation ETF Q3 All-Season Active Rotation ETF,Z,QVOY,Y,100.0,N,QVOY
 QWLD,SPDR MSCI World StrategicFactors ETF,SPDR MSCI World StrategicFactors ETF,P,QWLD,Y,100.0,N,QWLD
 QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
+QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock","QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",N,QXOpB,N,100.0,N,QXO-B
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,Brookfield Real Assets Income Fund Inc. Common Stock,N,RA,N,100.0,N,RA
 RAAX,VanEck Real Assets ETF,VanEck Real Assets ETF,P,RAAX,Y,100.0,N,RAAX
@@ -4984,6 +4984,7 @@ RSSB,Tidal Trust II Return Stacked Global Stocks & Bonds ETF,Tidal Trust II Retu
 RSSE,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Equal Weight Buffer ETF  September,P,RSSE,Y,100.0,N,RSSE
 RSSL,Global X Funds Global X Russell 2000 ETF,Global X Funds Global X Russell 2000 ETF,P,RSSL,Y,100.0,N,RSSL
 RSST,Tidal Trust II Return Stacked U.S. Stocks & Managed Futures ETF,Tidal Trust II Return Stacked U.S. Stocks & Managed Futures ETF,Z,RSST,Y,100.0,N,RSST
+RSSX,Tidal Trust II Return Stacked U.S. Stocks & Gold/Bitcoin ETF,Tidal Trust II Return Stacked U.S. Stocks & Gold/Bitcoin ETF,Z,RSSX,Y,100.0,N,RSSX
 RSSY,Tidal Trust II Return Stacked U.S. Stocks & Futures Yield ETF,Tidal Trust II Return Stacked U.S. Stocks & Futures Yield ETF,Z,RSSY,Y,100.0,N,RSSY
 RTAI,Rareview Tax Advantaged Income ETF,Rareview Tax Advantaged Income ETF,Z,RTAI,Y,100.0,N,RTAI
 RTO,Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares),Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares),N,RTO,N,100.0,N,RTO

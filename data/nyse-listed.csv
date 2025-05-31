@@ -258,7 +258,6 @@ AXTA,Axalta Coating Systems Ltd. Common Shares
 AYI,Acuity Inc. Common Stock
 AZEK,The AZEK Company Inc. Class A Common Stock
 AZO,"AutoZone, Inc. Common Stock"
-AZUL,Azul S.A. American Depositary Shares (each representing three preferred shares)
 AZZ,AZZ Inc.
 B,Barrick Mining Corporation Common Shares
 BA,Boeing Company (The) Common Stock
@@ -350,7 +349,7 @@ BH.A,Biglari Holdings Inc. Class A Common Stock
 BHC,Bausch Health Companies Inc. Common Stock
 BHE,"Benchmark Electronics, Inc. Common Stock"
 BHK,Blackrock Core Bond Trust
-BHK.V,"Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights when issued"
+BHK.R,"Blackrock Core Bond Trust Rights (expiring June 18, 2025) Rights"
 BHLB,"Berkshire Hills Bancorp, Inc. Common Stock"
 BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)
 BHR,Braemar Hotels & Resorts Inc. Common Stock
@@ -1476,9 +1475,9 @@ KIO,KKR Income Opportunities Fund Common Shares
 KKR,KKR & Co. Inc. Common Stock
 KKR$D,KKR & Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock
 KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061
+KKRT,KKR & Co. Inc. 6.875% Subordinated Notes due 2065
 KLC,"KinderCare Learning Companies, Inc. Common Stock"
 KLG,WK Kellogg Co Common Stock
-KMB,Kimberly
 KMI,"Kinder Morgan, Inc. Common Stock"
 KMPB,Kemper Corporation 5.875% Fixed
 KMPR,Kemper Corporation
@@ -2153,6 +2152,7 @@ QUAD,"Quad Graphics, Inc Class A Common Stock"
 QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068"
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067"
 QXO,"QXO, Inc. Common Stock"
+QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock"
 R,"Ryder System, Inc. Common Stock"
 RA,Brookfield Real Assets Income Fund Inc. Common Stock
 RAC,Rithm Acquisition Corp. Class A Ordinary Shares
