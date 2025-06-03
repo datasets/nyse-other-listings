@@ -640,7 +640,9 @@ COMP,"Compass, Inc. Class A Common Stock"
 CON,"Concentra Group Holdings Parent, Inc. Common Stock"
 COOK,"Traeger, Inc. Common Stock"
 COP,ConocoPhillips Common Stock
+COPL,Copley Acquisition Corp Ordinary Shares
 COPL.U,"Copley Acquisition Corp Units, each consisting of one ordinary share and one"
+COPL.W,"Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 COR,"Cencora, Inc. Common Stock"
 COTY,Coty Inc. Class A Common Stock
 COUR,"Coursera, Inc. Common Stock"
@@ -2247,6 +2249,7 @@ RRC,Range Resources Corporation Common Stock
 RRX,Regal Rexnord Corporation Common Stock
 RS,"Reliance, Inc. Common Stock"
 RSF,RiverNorth Capital and Income Fund Common Stock
+RSF.V,"RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights when issued"
 RSG,"Republic Services, Inc. Common Stock"
 RSI,"Rush Street Interactive, Inc. Class A Common Stock"
 RSKD,Riskified Ltd. Class A Ordinary Shares
