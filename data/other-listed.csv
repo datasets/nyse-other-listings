@@ -288,7 +288,7 @@ ARB,AltShares Merger Arbitrage ETF,AltShares Merger Arbitrage ETF,P,ARB,Y,100.0,
 ARCM,Arrow Reserve Capital Management ETF,Arrow Reserve Capital Management ETF,Z,ARCM,Y,100.0,N,ARCM
 ARCO,Arcos Dorados Holdings Inc. Class A Shares,Arcos Dorados Holdings Inc. Class A Shares,N,ARCO,N,100.0,N,ARCO
 ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common Shares","Ares Dynamic Credit Allocation Fund, Inc. Common Shares",N,ARDC,N,100.0,N,ARDC
-ARDT,"Ardent Health Partners, Inc. Common Stock","Ardent Health Partners, Inc. Common Stock",N,ARDT,N,100.0,N,ARDT
+ARDT,"Ardent Health, Inc. Common Stock","Ardent Health, Inc. Common Stock",N,ARDT,N,100.0,N,ARDT
 ARE,"Alexandria Real Estate Equities, Inc. Common Stock","Alexandria Real Estate Equities, Inc. Common Stock",N,ARE,N,100.0,N,ARE
 AREA,Harbor ETF Trust Harbor AlphaEdge Next Generation REITs ETF,Harbor ETF Trust Harbor AlphaEdge Next Generation REITs ETF,P,AREA,Y,100.0,N,AREA
 AREN,"The Arena Group Holdings, Inc. Common Stock","The Arena Group Holdings, Inc. Common Stock",A,AREN,N,100.0,N,AREN
@@ -5438,6 +5438,7 @@ SPXU,ProShares UltraPro Short S&P500,ProShares UltraPro Short S&P500,P,SPXU,Y,10
 SPXV,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Health Care ETF,P,SPXV,Y,100.0,N,SPXV
 SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,Nuveen S&P 500 Dynamic Overwrite Fund,N,SPXX,N,100.0,N,SPXX
 SPY,SPDR S&P 500,SPDR S&P 500,P,SPY,Y,100.0,N,SPY
+SPYA,The RBB Fund Trust Twin Oak Endure ETF,The RBB Fund Trust Twin Oak Endure ETF,Z,SPYA,Y,100.0,N,SPYA
 SPYC,Simplify Exchange Traded Funds Simplify US Equity PLUS Convexity ETF,Simplify Exchange Traded Funds Simplify US Equity PLUS Convexity ETF,P,SPYC,Y,100.0,N,SPYC
 SPYD,SPDR Series Trust SPDR Portfolio S&P 500 High Dividend ETF,SPDR Series Trust SPDR Portfolio S&P 500 High Dividend ETF,P,SPYD,Y,100.0,N,SPYD
 SPYG,SPDR Series Trust SPDR Portfolio S&P 500 Growth ETF,SPDR Series Trust SPDR Portfolio S&P 500 Growth ETF,P,SPYG,Y,100.0,N,SPYG
