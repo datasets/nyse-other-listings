@@ -526,6 +526,7 @@ BC$A,Brunswick Corporation 6.500% Senior Notes due 2048,Brunswick Corporation 6.
 BC$C,Brunswick Corporation 6.375% Notes due 2049,Brunswick Corporation 6.375% Notes due 2049,N,BCpC,N,100.0,N,BC-C
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,N,BCAT,N,100.0,N,BCAT
 BCC,"Boise Cascade, L.L.C. Common Stock","Boise Cascade, L.L.C. Common Stock",N,BCC,N,100.0,N,BCC
+BCCC,Global X Funds Global X Bitcoin Covered Call ETF,Global X Funds Global X Bitcoin Covered Call ETF,Z,BCCC,Y,100.0,N,BCCC
 BCD,abrdn Bloomberg All Commodity Longer Dated Strategy K,abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF,P,BCD,Y,100.0,N,BCD
 BCDF,Listed Funds Trust Horizon Kinetics Blockchain Development ETF,Listed Funds Trust Horizon Kinetics Blockchain Development ETF,P,BCDF,Y,100.0,N,BCDF
 BCE,"BCE, Inc. Common Stock","BCE, Inc. Common Stock",N,BCE,N,100.0,N,BCE
@@ -569,6 +570,7 @@ BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,B
 BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,N,BEPI,N,100.0,N,BEPI
 BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,N,BEPJ,N,100.0,N,BEPJ
 BERZ,MicroSectors FANG & Innovation ,MicroSectors FANG & Innovation -3x Inverse Leveraged ETN,P,BERZ,Y,100.0,N,BERZ
+BESF,EA Series Trust Bastion Energy ETF,EA Series Trust Bastion Energy ETF,Z,BESF,Y,100.0,N,BESF
 BETE,ProShares Bitcoin & Ether Equal Weight ETF,ProShares Bitcoin & Ether Equal Weight ETF,P,BETE,Y,100.0,N,BETE
 BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,ProShares Bitcoin & Ether Market Cap Weight ETF,P,BETH,Y,100.0,N,BETH
 BETZ,Roundhill Sports Betting & iGaming ETF,Roundhill Sports Betting & iGaming ETF,P,BETZ,Y,100.0,N,BETZ
@@ -1120,6 +1122,7 @@ COF$L,"Capital One Financial Corporation Depositary Shares, Each Representing a 
 COF$N,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non","Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N",N,COFpN,N,100.0,N,COF-N
 COHN,Cohen & Company Inc.,Cohen & Company Inc.,A,COHN,N,100.0,N,COHN
 COHR,Coherent Corp. Common Stock,Coherent Corp. Common Stock,N,COHR,N,100.0,N,COHR
+COII,REX COIN Growth & Income ETF,REX COIN Growth & Income ETF,Z,COII,Y,100.0,N,COII
 COIW,Roundhill ETF Trust Roundhill COIN WeeklyPay ETF,Roundhill ETF Trust Roundhill COIN WeeklyPay ETF,Z,COIW,Y,100.0,N,COIW
 COLD,"Americold Realty Trust, Inc. Common Stock","Americold Realty Trust, Inc. Common Stock",N,COLD,N,100.0,N,COLD
 COM,Direxion Auspice Broad Commodity Strategy ETF,Direxion Auspice Broad Commodity Strategy ETF,P,COM,Y,100.0,N,COM
@@ -3003,6 +3006,7 @@ INTF,iShares International Equity Factor ETF,iShares International Equity Factor
 INTL,Northern Lights Fund Trust IV Main International ETF,Northern Lights Fund Trust IV Main International ETF,Z,INTL,Y,100.0,N,INTL
 INTT,inTest Corporation Common Stock,inTest Corporation Common Stock,A,INTT,N,100.0,N,INTT
 INUV,"Inuvo, Inc.","Inuvo, Inc.",A,INUV,N,100.0,N,INUV
+INVG,The 2023 ETF Series Trust II GMO Systematic Investment Grade Credit ETF,The 2023 ETF Series Trust II GMO Systematic Investment Grade Credit ETF,P,INVG,Y,100.0,N,INVG
 INVH,Invitation Homes Inc. Common Stock,Invitation Homes Inc. Common Stock,N,INVH,N,100.0,N,INVH
 INVN,The Alger ETF Trust Alger Russell Innovation ETF,The Alger ETF Trust Alger Russell Innovation ETF,P,INVN,Y,100.0,N,INVN
 INVX,"Innovex International, Inc. Common Stock","Innovex International, Inc. Common Stock",N,INVX,N,100.0,N,INVX
@@ -3083,6 +3087,7 @@ ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 
 ITW,Illinois Tool Works Inc. Common Stock,Illinois Tool Works Inc. Common Stock,N,ITW,N,100.0,N,ITW
 ITWO,ProShares Trust ProShares Russell 2000 High Income ETF,ProShares Trust ProShares Russell 2000 High Income ETF,Z,ITWO,Y,100.0,N,ITWO
 IVE,iShares S&P 500 Value ETF,iShares S&P 500 Value ETF,P,IVE,Y,100.0,N,IVE
+IVES,Wedbush Series Trust Dan IVES Wedbush AI Revolution ETF,Wedbush Series Trust Dan IVES Wedbush AI Revolution ETF,P,IVES,Y,100.0,N,IVES
 IVLU,iShares MSCI Intl Value Factor ETF,iShares MSCI Intl Value Factor ETF,P,IVLU,Y,100.0,N,IVLU
 IVOG,Vanguard S&P Mid,Vanguard S&P Mid-Cap 400 Growth ETF,P,IVOG,Y,100.0,N,IVOG
 IVOL,Quadratic Interest Rate Volatility and Inflation Hedge ETF,Quadratic Interest Rate Volatility and Inflation Hedge ETF,P,IVOL,Y,100.0,N,IVOL
@@ -3881,6 +3886,7 @@ MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,Madison Squa
 MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),Madison Square Garden Sports Corp. Class A Common Stock (New),N,MSGS,N,100.0,N,MSGS
 MSI,"Motorola Solutions, Inc. Common Stock","Motorola Solutions, Inc. Common Stock",N,MSI,N,100.0,N,MSI
 MSIF,"MSC Income Fund, Inc. Common Stock","MSC Income Fund, Inc. Common Stock",N,MSIF,N,100.0,N,MSIF
+MSII,REX MSTR Growth & Income ETF,REX MSTR Growth & Income ETF,Z,MSII,Y,100.0,N,MSII
 MSLC,Morgan Stanley Pathway Funds Morgan Stanley Pathway Large Cap Equity ETF,Morgan Stanley Pathway Funds Morgan Stanley Pathway Large Cap Equity ETF,P,MSLC,Y,100.0,N,MSLC
 MSM,"MSC Industrial Direct Company, Inc. Common Stock","MSC Industrial Direct Company, Inc. Common Stock",N,MSM,N,100.0,N,MSM
 MSMR,ETF Series Solutions McElhenny Sheffield Managed Risk ETF,ETF Series Solutions McElhenny Sheffield Managed Risk ETF,Z,MSMR,Y,100.0,N,MSMR
@@ -4180,7 +4186,7 @@ NVDX,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long NVIDIA Dail
 NVDY,Tidal ETF Trust II YieldMax NVDA Option Income Strategy ETF,Tidal ETF Trust II YieldMax NVDA Option Income Strategy ETF,P,NVDY,Y,100.0,N,NVDY
 NVG,Nuveen AMT,Nuveen AMT-Free Municipal Credit Income Fund ,N,NVG,N,100.0,N,NVG
 NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),N,NVGS,N,100.0,N,NVGS
-NVII,REX NVDA Growth & Income ETF REX NVDA Growth & Income ETF,REX NVDA Growth & Income ETF REX NVDA Growth & Income ETF,Z,NVII,Y,100.0,N,NVII
+NVII,REX NVDA Growth & Income ETF,REX NVDA Growth & Income ETF,Z,NVII,Y,100.0,N,NVII
 NVIR,Listed Funds Trust Horizon Kinetics Energy and Remediation ETF,Listed Funds Trust Horizon Kinetics Energy and Remediation ETF,P,NVIR,Y,100.0,N,NVIR
 NVO,Novo Nordisk A/S Common Stock,Novo Nordisk A/S Common Stock,N,NVO,N,100.0,N,NVO
 NVOH,Precidian ETFs Trust Novo Nordisk A/S B Shares ADRhedged,Precidian ETFs Trust Novo Nordisk A/S B Shares ADRhedged,P,NVOH,Y,100.0,N,NVOH
@@ -5802,6 +5808,7 @@ TSE,Trinseo PLC Ordinary Shares ,Trinseo PLC Ordinary Shares ,N,TSE,N,100.0,N,TS
 TSEC,Touchstone ETF Trust Touchstone Securitized Income ETF,Touchstone ETF Trust Touchstone Securitized Income ETF,P,TSEC,Y,100.0,N,TSEC
 TSEP,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
 TSI,"TCW Strategic Income Fund, Inc. Common Stock","TCW Strategic Income Fund, Inc. Common Stock",N,TSI,N,100.0,N,TSI
+TSII,REX TSLA Growth & Income ETF,REX TSLA Growth & Income ETF,Z,TSII,Y,100.0,N,TSII
 TSLP,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Z,TSLP,Y,100.0,N,TSLP
 TSLT,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long Tesla Daily Target ETF,Z,TSLT,Y,100.0,N,TSLT
 TSLW,Roundhill ETF Trust Roundhill TSLA WeeklyPay ETF,Roundhill ETF Trust Roundhill TSLA WeeklyPay ETF,Z,TSLW,Y,100.0,N,TSLW
@@ -6219,6 +6226,7 @@ WHG,Westwood Holdings Group Inc Common Stock,Westwood Holdings Group Inc Common 
 WHR,Whirlpool Corporation Common Stock,Whirlpool Corporation Common Stock,N,WHR,N,100.0,N,WHR
 WHTX,Volatility Shares Trust 2x Wheat ETF,Volatility Shares Trust 2x Wheat ETF,Z,WHTX,Y,100.0,N,WHTX
 WIA,Western Asset Inflation,Western Asset Inflation-Linked Income Fund,N,WIA,N,100.0,N,WIA
+WILD,Tidal Trust III VistaShares Animal Spirits Daily 2X Strategy ETF,Tidal Trust III VistaShares Animal Spirits Daily 2X Strategy ETF,P,WILD,Y,100.0,N,WILD
 WINN,Harbor ETF Trust Harbor Long,Harbor ETF Trust Harbor Long-Term Growers ETF,N,WINN,Y,100.0,N,WINN
 WIP,SPDR FTSE International Government Inflation,SPDR FTSE International Government Inflation-Protected Bond ETF,P,WIP,Y,100.0,N,WIP
 WIT,Wipro Limited Common Stock,Wipro Limited Common Stock,N,WIT,N,100.0,N,WIT
