@@ -709,6 +709,7 @@ BML$H,Bank of America Corporation Depositary Shares (Each representing a 1/1200t
 BML$J,Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)",N,BMLpJ,N,100.0,N,BML-J
 BML$L,Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)",N,BMLpL,N,100.0,N,BML-L
 BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,N,BMN,N,100.0,N,BMN
+BMNR,"BitMine Immersion Technologies, Inc. Common Stock","BitMine Immersion Technologies, Inc. Common Stock",A,BMNR,N,100.0,N,BMNR
 BMO,Bank Of Montreal Common Stock,Bank Of Montreal Common Stock,N,BMO,N,100.0,N,BMO
 BMVP,Invesco Bloomberg MVP Multi,Invesco Bloomberg MVP Multi-factor ETF,P,BMVP,Y,100.0,N,BMVP
 BMY,Bristol,Bristol-Myers Squibb Company Common Stock,N,BMY,N,100.0,N,BMY
@@ -766,6 +767,7 @@ BRIA,BrilliA Inc Class A Ordinary Shares,BrilliA Inc Class A Ordinary Shares,A,B
 BRIF,NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF,NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF,P,BRIF,Y,100.0,N,BRIF
 BRK.A,Berkshire Hathaway Inc. Common Stock,Berkshire Hathaway Inc. Common Stock,N,BRK.A,N,1.0,N,BRK.A
 BRK.B,Berkshire Hathaway Inc. New Common Stock,Berkshire Hathaway Inc. New Common Stock,N,BRK.B,N,100.0,N,BRK.B
+BRKC,Tidal Trust II YieldMax BRK.B Option Income Strategy ETF,Tidal Trust II YieldMax BRK.B Option Income Strategy ETF,P,BRKC,Y,100.0,N,BRKC
 BRLN,iShares Floating Rate Loan Active ETF,iShares Floating Rate Loan Active ETF,Z,BRLN,Y,100.0,N,BRLN
 BRN,"Barnwell Industries, Inc. Common Stock","Barnwell Industries, Inc. Common Stock",A,BRN,N,100.0,N,BRN
 BRO,"Brown & Brown, Inc. Common Stock","Brown & Brown, Inc. Common Stock",N,BRO,N,100.0,N,BRO
@@ -1190,6 +1192,7 @@ CRBD,Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064,Corebri
 CRBG,Corebridge Financial Inc. Common Stock,Corebridge Financial Inc. Common Stock,N,CRBG,N,100.0,N,CRBG
 CRBN,iShares MSCI ACWI Low Carbon Target ETF,iShares MSCI ACWI Low Carbon Target ETF,P,CRBN,Y,100.0,N,CRBN
 CRC,California Resources Corporation Common Stock,California Resources Corporation Common Stock,N,CRC,N,100.0,N,CRC
+CRCL,"Circle Internet Group, Inc. Class A Common Stock","Circle Internet Group, Inc. Class A Common Stock",N,CRCL,N,100.0,N,CRCL
 CRD.A,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.A,N,100.0,N,CRD.A
 CRD.B,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.B,N,100.0,N,CRD.B
 CRDT,Simplify Exchange Traded Funds Simplify Opportunistic Income ETF,Simplify Exchange Traded Funds Simplify Opportunistic Income ETF,P,CRDT,Y,100.0,N,CRDT
@@ -1787,8 +1790,10 @@ EPAC,Enerpac Tool Group Corp. Common Stock,Enerpac Tool Group Corp. Common Stock
 EPAM,"EPAM Systems, Inc. Common Stock","EPAM Systems, Inc. Common Stock",N,EPAM,N,100.0,N,EPAM
 EPC,Edgewell Personal Care Company Common Stock,Edgewell Personal Care Company Common Stock,N,EPC,N,100.0,N,EPC
 EPD,Enterprise Products Partners L.P. Common Stock,Enterprise Products Partners L.P. Common Stock,N,EPD,N,100.0,N,EPD
+EPEM,Harbor ETF Trust Harbor Emerging Markets Equity ETF,Harbor ETF Trust Harbor Emerging Markets Equity ETF,P,EPEM,Y,100.0,N,EPEM
 EPHE,iShares MSCI Philippines ETF,iShares MSCI Philippines ETF,P,EPHE,Y,100.0,N,EPHE
 EPI,WisdomTree India Earnings Fund,WisdomTree India Earnings Fund,P,EPI,Y,100.0,N,EPI
+EPIN,Harbor ETF Trust Harbor International Equity ETF,Harbor ETF Trust Harbor International Equity ETF,P,EPIN,Y,100.0,N,EPIN
 EPM,"Evolution Petroleum Corporation, Inc. Common Stock","Evolution Petroleum Corporation, Inc. Common Stock",A,EPM,N,100.0,N,EPM
 EPMB,Harbor ETF Trust Harbor Mid Cap Core ETF,Harbor ETF Trust Harbor Mid Cap Core ETF,P,EPMB,Y,100.0,N,EPMB
 EPMV,Harbor ETF Trust Harbor Mid Cap Value ETF,Harbor ETF Trust Harbor Mid Cap Value ETF,P,EPMV,Y,100.0,N,EPMV
@@ -2519,6 +2524,7 @@ GPRK,Geopark Ltd Common Shares,Geopark Ltd Common Shares,N,GPRK,N,100.0,N,GPRK
 GPTY,Tidal Trust II YieldMax AI & Tech Portfolio Option Income ETF,Tidal Trust II YieldMax AI & Tech Portfolio Option Income ETF,P,GPTY,Y,100.0,N,GPTY
 GPUS,"Hyperscale Data, Inc. Common Stock","Hyperscale Data, Inc. Common Stock",A,GPUS,N,100.0,N,GPUS
 GPUS$D,"Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock","Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",A,GPUSpD,N,100.0,N,GPUS-D
+GPZ,VanEck ETF Trust VanEck Alternative Asset Manager ETF,VanEck ETF Trust VanEck Alternative Asset Manager ETF,P,GPZ,Y,100.0,N,GPZ
 GQI,Natixis ETF Trust Natixis Gateway Quality Income ETF,Natixis ETF Trust Natixis Gateway Quality Income ETF,P,GQI,Y,100.0,N,GQI
 GQRE,FlexShares Global Quality Real Estate Index Fund,FlexShares Global Quality Real Estate Index Fund,P,GQRE,Y,100.0,N,GQRE
 GRAF,Graf Global Corp. Class A ordinary shares,Graf Global Corp. Class A ordinary shares,A,GRAF,N,100.0,N,GRAF
@@ -2812,6 +2818,7 @@ IAPR,Innovator International Developed Power Buffer ETF  April,Innovator Interna
 IAT,iShares U.S. Regional Banks ETF,iShares U.S. Regional Banks ETF,P,IAT,Y,100.0,N,IAT
 IAU,iShares Gold Trust Shares of the iShares Gold Trust,iShares Gold Trust Shares of the iShares Gold Trust,P,IAU,Y,100.0,N,IAU
 IAUG,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  August,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  August,P,IAUG,Y,100.0,N,IAUG
+IAUI,NEOS ETF Trust NEOS Gold High Income ETF,NEOS ETF Trust NEOS Gold High Income ETF,Z,IAUI,Y,100.0,N,IAUI
 IAUM,iShares Gold Trust Micro Shares,iShares Gold Trust Micro Shares,P,IAUM,Y,100.0,N,IAUM
 IAUX,i,i-80 Gold Corp. Common Shares,A,IAUX,N,100.0,N,IAUX
 IBCA,iShares Trust iShares iBonds Dec 2035 Term Corporate ETF,iShares Trust iShares iBonds Dec 2035 Term Corporate ETF,P,IBCA,Y,100.0,N,IBCA
@@ -5659,6 +5666,8 @@ TFSA,"Terra Income Fund 6, LLC 7.00% Notes due 2026","Terra Income Fund 6, LLC 7
 TFX,Teleflex Incorporated Common Stock,Teleflex Incorporated Common Stock,N,TFX,N,100.0,N,TFX
 TG,Tredegar Corporation Common Stock,Tredegar Corporation Common Stock,N,TG,N,100.0,N,TG
 TGB,"Taseko Mines, Ltd. Common Stock","Taseko Mines, Ltd. Common Stock",A,TGB,N,100.0,N,TGB
+TGE,The Generation Essentials Group Class A Ordinary Shares,The Generation Essentials Group Class A Ordinary Shares,N,TGE,N,100.0,N,TGE
+TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share","The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",A,TGE.WS,N,100.0,N,TGE+
 TGEN,Tecogen Inc. Common Stock,Tecogen Inc. Common Stock,A,TGEN,N,100.0,N,TGEN
 TGI,"Triumph Group, Inc. Common Stock","Triumph Group, Inc. Common Stock",N,TGI,N,100.0,N,TGI
 TGLR,ETF Opportunities Trust LAFFER TENGLER Equity Income ETF,ETF Opportunities Trust LAFFER TENGLER Equity Income ETF,Z,TGLR,Y,100.0,N,TGLR
