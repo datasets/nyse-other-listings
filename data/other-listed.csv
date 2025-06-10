@@ -16,6 +16,7 @@ AAPW,Roundhill ETF Trust Roundhill AAPL WeeklyPay ETF,Roundhill ETF Trust Roundh
 AAPX,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long Apple Daily Target ETF,Z,AAPX,Y,100.0,N,AAPX
 AAPY,Kurv Yield Premium Strategy Apple (AAPL) ETF,Kurv Yield Premium Strategy Apple (AAPL) ETF,Z,AAPY,Y,100.0,N,AAPY
 AAT,"American Assets Trust, Inc. Common Stock","American Assets Trust, Inc. Common Stock",N,AAT,N,100.0,N,AAT
+AAUC,Allied Gold Corporation Common Shares,Allied Gold Corporation Common Shares,N,AAUC,N,100.0,N,AAUC
 AB,AllianceBernstein Holding L.P.  Units,AllianceBernstein Holding L.P.  Units,N,AB,N,100.0,N,AB
 ABBV,AbbVie Inc. Common Stock,AbbVie Inc. Common Stock,N,ABBV,N,100.0,N,ABBV
 ABCB,Ameris Bancorp Common Stock,Ameris Bancorp Common Stock,N,ABCB,N,100.0,N,ABCB
@@ -1223,6 +1224,7 @@ CSRE,Cohen & Steers ETF Trust Cohen & Steers Real Estate Active ETF,Cohen & Stee
 CSTK,Invesco Managed Futures Strategy ETF Invesco Comstock Contrarian Equity ETF,Invesco Managed Futures Strategy ETF Invesco Comstock Contrarian Equity ETF,Z,CSTK,Y,100.0,N,CSTK
 CSTM,Constellium SE Ordinary Shares (France),Constellium SE Ordinary Shares (France),N,CSTM,N,100.0,N,CSTM
 CSV,"Carriage Services, Inc. Common Stock","Carriage Services, Inc. Common Stock",N,CSV,N,100.0,N,CSV
+CSW,"CSW Industrials, Inc. Common Stock","CSW Industrials, Inc. Common Stock",N,CSW,N,100.0,N,CSW
 CTA,Simplify Exchange Traded Funds Simplify Managed Futures Strategy ETF,Simplify Exchange Traded Funds Simplify Managed Futures Strategy ETF,P,CTA,Y,100.0,N,CTA
 CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series","EIDP, Inc. Preferred Stock $3.50 Series",N,CTApA,N,100.0,N,CTA-A
 CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series","EIDP, Inc. Preferred Stock $4.50 Series",N,CTApB,N,100.0,N,CTA-B
@@ -4975,7 +4977,7 @@ RSBY,Tidal Trust II Return Stacked Bonds & Futures Yield ETF,Tidal Trust II Retu
 RSDE,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Equal Weight Buffer ETF - December,P,RSDE,Y,100.0,N,RSDE
 RSEE,Collaborative Investment Series Trust Rareview Systematic Equity ETF,Collaborative Investment Series Trust Rareview Systematic Equity ETF,Z,RSEE,Y,100.0,N,RSEE
 RSF,RiverNorth Capital and Income Fund Common Stock,RiverNorth Capital and Income Fund Common Stock,N,RSF,N,100.0,N,RSF
-RSF.V,"RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights when issued","RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights when issued",N,RSFrw,N,100.0,N,RSF^#
+RSF.R,"RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights","RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights",N,RSFr,N,100.0,N,RSF^
 RSG,"Republic Services, Inc. Common Stock","Republic Services, Inc. Common Stock",N,RSG,N,100.0,N,RSG
 RSHO,Tema ETF Trust Tema American Reshoring ETF,Tema ETF Trust Tema American Reshoring ETF,P,RSHO,Y,100.0,N,RSHO
 RSI,"Rush Street Interactive, Inc. Class A Common Stock","Rush Street Interactive, Inc. Class A Common Stock",N,RSI,N,100.0,N,RSI
