@@ -288,6 +288,7 @@ AR,Antero Resources Corporation Common Stock,Antero Resources Corporation Common
 ARB,AltShares Merger Arbitrage ETF,AltShares Merger Arbitrage ETF,P,ARB,Y,100.0,N,ARB
 ARCM,Arrow Reserve Capital Management ETF,Arrow Reserve Capital Management ETF,Z,ARCM,Y,100.0,N,ARCM
 ARCO,Arcos Dorados Holdings Inc. Class A Shares,Arcos Dorados Holdings Inc. Class A Shares,N,ARCO,N,100.0,N,ARCO
+ARCX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long ACHR Daily ETF,Tradr 2X Long QBTS Daily ETF Tradr 2X Long ACHR Daily ETF,Z,ARCX,Y,100.0,N,ARCX
 ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common Shares","Ares Dynamic Credit Allocation Fund, Inc. Common Shares",N,ARDC,N,100.0,N,ARDC
 ARDT,"Ardent Health, Inc. Common Stock","Ardent Health, Inc. Common Stock",N,ARDT,N,100.0,N,ARDT
 ARE,"Alexandria Real Estate Equities, Inc. Common Stock","Alexandria Real Estate Equities, Inc. Common Stock",N,ARE,N,100.0,N,ARE
@@ -2062,6 +2063,7 @@ FFLS,Northern Lights Fund Trust II The Future Fund Long/Short ETF,Northern Light
 FFLV,Fidelity Covington Trust Fidelity Fundamental Large Cap Value ETF,Fidelity Covington Trust Fidelity Fundamental Large Cap Value ETF,Z,FFLV,Y,100.0,N,FFLV
 FFND,One Global ETF,One Global ETF,P,FFND,Y,100.0,N,FFND
 FFOG,Franklin Templeton ETF Trust Franklin Focused Growth ETF,Franklin Templeton ETF Trust Franklin Focused Growth ETF,Z,FFOG,Y,100.0,N,FFOG
+FFOX,FundX Investment Trust FundX Future Fund Opportunities ETF,FundX Investment Trust FundX Future Fund Opportunities ETF,P,FFOX,Y,100.0,N,FFOX
 FFSM,Fidelity Fundamental Small,Fidelity Fundamental Small-Mid Cap ETF,Z,FFSM,Y,100.0,N,FFSM
 FFTY,Innovator IBD 50 ETF,Innovator IBD 50 ETF,P,FFTY,Y,100.0,N,FFTY
 FFWM,First Foundation Inc. Common Stock,First Foundation Inc. Common Stock,N,FFWM,N,100.0,N,FFWM
@@ -2185,6 +2187,7 @@ FMCE,Northern Lights Fund Trust IV FM Compounders Equity ETF,Northern Lights Fun
 FMCX,FM Focus Equity ETF,FM Focus Equity ETF,P,FMCX,Y,100.0,N,FMCX
 FMDE,Fidelity Covington Trust Fidelity Enhanced Mid Cap ETF,Fidelity Covington Trust Fidelity Enhanced Mid Cap ETF,P,FMDE,Y,100.0,N,FMDE
 FMF,First Trust Managed Futures Strategy Fund,First Trust Managed Futures Strategy Fund,P,FMF,Y,100.0,N,FMF
+FMKT,Tidal ETF Trust The Free Markets ETF,Tidal ETF Trust The Free Markets ETF,P,FMKT,Y,100.0,N,FMKT
 FMN,Federated Hermes Premier Municipal Income Fund,Federated Hermes Premier Municipal Income Fund,N,FMN,N,100.0,N,FMN
 FMNY,First Trust New York Municipal High Income ETF,First Trust New York Municipal High Income ETF,P,FMNY,Y,100.0,N,FMNY
 FMQQ,FMQQ The Next Frontier Internet ETF,FMQQ The Next Frontier Internet ETF,P,FMQQ,Y,100.0,N,FMQQ
@@ -2333,7 +2336,6 @@ GATX,GATX Corporation Common Stock,GATX Corporation Common Stock,N,GATX,N,100.0,
 GAU,Galiano Gold Inc.,Galiano Gold Inc.,A,GAU,N,100.0,N,GAU
 GAUG,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - August,Z,GAUG,Y,100.0,N,GAUG
 GB,Global Blue Group Holding AG Ordinary Shares,Global Blue Group Holding AG Ordinary Shares,N,GB,N,100.0,N,GB
-GB.W,Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holding AG at a price of $11.50 per share,Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holding AG at a price of $11.50 per share,N,GB.WS,N,100.0,N,GB+
 GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,N,GBAB,N,100.0,N,GBAB
 GBCI,"Glacier Bancorp, Inc. Common Stock","Glacier Bancorp, Inc. Common Stock",N,GBCI,N,100.0,N,GBCI
 GBF,iShares Government/Credit Bond ETF,iShares Government/Credit Bond ETF,P,GBF,Y,100.0,N,GBF
@@ -2931,6 +2933,7 @@ IGI,Western Asset Investment Grade Opportunity Trust Inc. Common Stock,Western A
 IGLB,iShares 10  Year Investment Grade Corporate Bond ETF,iShares 10  Year Investment Grade Corporate Bond ETF,P,IGLB,Y,100.0,N,IGLB
 IGLD,FT Vest Gold Strategy Target Income ETF,FT Vest Gold Strategy Target Income ETF,Z,IGLD,Y,100.0,N,IGLD
 IGM,iShares Expanded Tech Sector ETF,iShares Expanded Tech Sector ETF,P,IGM,Y,100.0,N,IGM
+IGME,Bitwise Funds Trust Bitwise GME Option Income Strategy ETF,Bitwise Funds Trust Bitwise GME Option Income Strategy ETF,P,IGME,Y,100.0,N,IGME
 IGPT,Invesco AI and Next Gen Software ETF,Invesco AI and Next Gen Software ETF,P,IGPT,Y,100.0,N,IGPT
 IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,N,IGR,N,100.0,N,IGR
 IGRO,iShares International Dividend Growth ETF,iShares International Dividend Growth ETF,Z,IGRO,Y,100.0,N,IGRO
@@ -4117,7 +4120,6 @@ NORW,Global X MSCI Norway ETF,Global X MSCI Norway ETF,P,NORW,Y,100.0,N,NORW
 NOTE,"FiscalNote Holdings, Inc. Class A common stock","FiscalNote Holdings, Inc. Class A common stock",N,NOTE,N,100.0,N,NOTE
 NOTE.W,"FiscalNote Holdings, Inc. Warrants to purchase one share of Class A common stock, each at an exercise price of $11.50 per share","FiscalNote Holdings, Inc. Warrants to purchase one share of Class A common stock, each at an exercise price of $11.50 per share",N,NOTE.WS,N,100.0,N,NOTE+
 NOV,NOV Inc. Common Stock,NOV Inc. Common Stock,N,NOV,N,100.0,N,NOV
-NOVA,Sunnova Energy International Inc. Common Stock,Sunnova Energy International Inc. Common Stock,N,NOVA,N,100.0,N,NOVA
 NOVM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - November,Z,NOVM,Y,100.0,N,NOVM
 NOVP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - November,Z,NOVP,Y,100.0,N,NOVP
 NOVZ,TrueShares Structured Outcome (November) ETF,TrueShares Structured Outcome (November) ETF,Z,NOVZ,Y,100.0,N,NOVZ
@@ -5947,6 +5949,7 @@ UPGD,Invesco Bloomberg Analyst Rating Improvers ETF,Invesco Bloomberg Analyst Ra
 UPRO,ProShares UltraPro S&P 500,ProShares UltraPro S&P 500,P,UPRO,Y,100.0,N,UPRO
 UPS,"United Parcel Service, Inc. Common Stock","United Parcel Service, Inc. Common Stock",N,UPS,N,100.0,N,UPS
 UPSD,ETF Series Solutions Aptus Large Cap Upside ETF,ETF Series Solutions Aptus Large Cap Upside ETF,Z,UPSD,Y,100.0,N,UPSD
+UPSX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long UPST Daily ETF,Tradr 2X Long QBTS Daily ETF Tradr 2X Long UPST Daily ETF,Z,UPSX,Y,100.0,N,UPSX
 UPV,ProShares Ultra FTSE Europe,ProShares Ultra FTSE Europe,P,UPV,Y,100.0,N,UPV
 UPW,ProShares Ultra Utilities,ProShares Ultra Utilities,P,UPW,Y,100.0,N,UPW
 URA,Global X Uranium ETF,Global X Uranium ETF,P,URA,Y,100.0,N,URA
