@@ -341,6 +341,7 @@ ASH,Ashland Inc. Common Stock,Ashland Inc. Common Stock,N,ASH,N,100.0,N,ASH
 ASHR,Xtrackers Harvest CSI 300 China A,Xtrackers Harvest CSI 300 China A-Shares ETF,P,ASHR,Y,100.0,N,ASHR
 ASHS,Xtrackers Harvest CSI 500 China A,Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF,P,ASHS,Y,100.0,N,ASHS
 ASIA,Matthews International Funds Matthews Pacific Tiger Active ETF,Matthews International Funds Matthews Pacific Tiger Active ETF,P,ASIA,Y,100.0,N,ASIA
+ASIC,Ategrity Specialty Insurance Company Holdings Common Stock,Ategrity Specialty Insurance Company Holdings Common Stock,N,ASIC,N,100.0,N,ASIC
 ASIX,AdvanSix Inc. Common Stock ,AdvanSix Inc. Common Stock ,N,ASIX,N,100.0,N,ASIX
 ASLV,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring Special Large Value ETF,P,ASLV,Y,100.0,N,ASLV
 ASM,Avino Silver & Gold Mines Ltd. Common Shares (Canada),Avino Silver & Gold Mines Ltd. Common Shares (Canada),A,ASM,N,100.0,N,ASM
@@ -2473,7 +2474,7 @@ GMAY,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffe
 GME,GameStop Corporation Common Stock,GameStop Corporation Common Stock,N,GME,N,100.0,N,GME
 GMED,"Globus Medical, Inc. Class A Common Stock","Globus Medical, Inc. Class A Common Stock",N,GMED,N,100.0,N,GMED
 GMET,VanEck Green Metals ETF,VanEck Green Metals ETF,P,GMET,Y,100.0,N,GMET
-GMEU,T,T-REX 2X Long GME Daily Target ETF T-REX 2X Long GME Daily Target ETF,Z,GMEU,Y,100.0,N,GMEU
+GMEU,ETF Opp Tr T,ETF Opp Tr T-REX 2X Long GME Daily Target ETF,Z,GMEU,Y,100.0,N,GMEU
 GMF,SPDR S&P Emerging Asia Pacific ETF,SPDR S&P Emerging Asia Pacific ETF,P,GMF,Y,100.0,N,GMF
 GMMA,Tidal Trust III GammaRoad Market Navigation ETF,Tidal Trust III GammaRoad Market Navigation ETF,P,GMMA,Y,100.0,N,GMMA
 GMMF,BlackRock ETF Trust iShares Government Money Market ETF,BlackRock ETF Trust iShares Government Money Market ETF,P,GMMF,Y,100.0,N,GMMF
@@ -2684,6 +2685,7 @@ HFXI,NYLI FTSE International Equity Currency Neutral ETF,NYLI FTSE International
 HG,"Hamilton Insurance Group, Ltd. Class B Common Shares","Hamilton Insurance Group, Ltd. Class B Common Shares",N,HG,N,100.0,N,HG
 HGER,Harbor Commodity All,Harbor Commodity All-Weather Strategy ETF,N,HGER,Y,100.0,N,HGER
 HGLB,Highland Global Allocation Fund Common Stock,Highland Global Allocation Fund Common Stock,N,HGLB,N,100.0,N,HGLB
+HGRO,ETF Opp Tr Hedgeye Quality Growth ETF,ETF Opp Tr Hedgeye Quality Growth ETF,P,HGRO,Y,100.0,N,HGRO
 HGTY,"Hagerty, Inc. Class A Common Stock","Hagerty, Inc. Class A Common Stock",N,HGTY,N,100.0,N,HGTY
 HGV,Hilton Grand Vacations Inc. Common Stock ,Hilton Grand Vacations Inc. Common Stock ,N,HGV,N,100.0,N,HGV
 HHH,Howard Hughes Holdings Inc. Common Stock,Howard Hughes Holdings Inc. Common Stock,N,HHH,N,100.0,N,HHH
@@ -3928,6 +3930,7 @@ MTH,Meritage Homes Corporation Common Stock,Meritage Homes Corporation Common St
 MTN,"Vail Resorts, Inc. Common Stock","Vail Resorts, Inc. Common Stock",N,MTN,N,100.0,N,MTN
 MTNB,"Matinas Biopharma Holdings, Inc. Common Stock","Matinas Biopharma Holdings, Inc. Common Stock",A,MTNB,N,100.0,N,MTNB
 MTR,Mesa Royalty Trust Common Stock,Mesa Royalty Trust Common Stock,N,MTR,N,100.0,N,MTR
+MTRA,Invesco Managed Futures Strategy ETF Invesco International Growth Focus ETF,Invesco Managed Futures Strategy ETF Invesco International Growth Focus ETF,Z,MTRA,Y,100.0,N,MTRA
 MTRN,Materion Corporation,Materion Corporation,N,MTRN,N,100.0,N,MTRN
 MTUL,ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN,ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN,P,MTUL,Y,100.0,N,MTUL
 MTUM,iShares MSCI USA Momentum Factor ETF,iShares MSCI USA Momentum Factor ETF,Z,MTUM,Y,100.0,N,MTUM
@@ -4605,7 +4608,6 @@ PRGO,Perrigo Company plc Ordinary Shares,Perrigo Company plc Ordinary Shares,N,P
 PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062","Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062",N,PRH,N,100.0,N,PRH
 PRI,"Primerica, Inc. Common Stock","Primerica, Inc. Common Stock",N,PRI,N,100.0,N,PRI
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029","Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",N,PRIFpD,N,100.0,N,PRIF-D
-PRIF$F,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027","Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",N,PRIFpF,N,100.0,N,PRIF-F
 PRIF$I,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028","Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028",N,PRIFpI,N,100.0,N,PRIF-I
 PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028","Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028",N,PRIFpJ,N,100.0,N,PRIF-J
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock","Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",N,PRIFpK,N,100.0,N,PRIF-K
@@ -5106,6 +5108,7 @@ SCCG,Sachem Capital Corp. 8.00% Notes due 2027,Sachem Capital Corp. 8.00% Notes 
 SCCO,Southern Copper Corporation Common Stock,Southern Copper Corporation Common Stock,N,SCCO,N,100.0,N,SCCO
 SCCR,Schwab Strategic Trust Schwab Core Bond ETF,Schwab Strategic Trust Schwab Core Bond ETF,P,SCCR,Y,100.0,N,SCCR
 SCD,LMP Capital and Income Fund Inc. Common Stock,LMP Capital and Income Fund Inc. Common Stock,N,SCD,N,100.0,N,SCD
+SCD.V,"LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued","LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued",N,SCDrw,N,100.0,N,SCD^#
 SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,ETRACS 2x Leveraged US Dividend Factor TR ETN,P,SCDL,Y,100.0,N,SCDL
 SCDV,ETF Series Solutions Bahl & Gaynor Small Cap Dividend ETF,ETF Series Solutions Bahl & Gaynor Small Cap Dividend ETF,P,SCDV,Y,100.0,N,SCDV
 SCE$G,SCE Trust II Trust Preferred Securities,SCE Trust II Trust Preferred Securities,N,SCEpG,N,100.0,N,SCE-G
@@ -5343,7 +5346,7 @@ SNAV,Collaborative Investment Series Trust Mohr Sector Nav ETF,Collaborative Inv
 SNDA,"Sonida Senior Living, Inc. Common Stock","Sonida Senior Living, Inc. Common Stock",N,SNDA,N,100.0,N,SNDA
 SNDR,"Schneider National, Inc. Common Stock","Schneider National, Inc. Common Stock",N,SNDR,N,100.0,N,SNDR
 SNN,"Smith & Nephew SNATS, Inc. Common Stock","Smith & Nephew SNATS, Inc. Common Stock",N,SNN,N,100.0,N,SNN
-SNOU,T,T-REX 2X Long GME Daily Target ETF T-REX 2X Long SNOW Daily Target ETF,Z,SNOU,Y,100.0,N,SNOU
+SNOU,ETF Opp Tr T,ETF Opp Tr T-REX 2X Long SNOW Daily Target ETF,Z,SNOU,Y,100.0,N,SNOU
 SNOV,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - November,Z,SNOV,Y,100.0,N,SNOV
 SNOW,Snowflake Inc. Class A Common Stock,Snowflake Inc. Class A Common Stock,N,SNOW,N,100.0,N,SNOW
 SNOY,Tidal Trust II YieldMax SNOW Option Income Strategy ETF,Tidal Trust II YieldMax SNOW Option Income Strategy ETF,P,SNOY,Y,100.0,N,SNOY
@@ -6070,6 +6073,7 @@ VG,"Venture Global, Inc. Class A common stock","Venture Global, Inc. Class A com
 VGI,Virtus Global Multi,Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,N,VGI,N,100.0,N,VGI
 VGK,Vanguard FTSEEuropean ETF,Vanguard FTSEEuropean ETF,P,VGK,Y,100.0,N,VGK
 VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),Invesco Trust for Investment Grade Municipals Common Stock (DE),N,VGM,N,100.0,N,VGM
+VGMS,Vanguard Malvern Funds Vanguard Multi,Vanguard Malvern Funds Vanguard Multi-Sector Income Bond ETF,Z,VGMS,Y,100.0,N,VGMS
 VGT,Vanguard Information Tech ETF,Vanguard Information Tech ETF,P,VGT,Y,100.0,N,VGT
 VGZ,Vista Gold Corp Common Stock,Vista Gold Corp Common Stock,A,VGZ,N,100.0,N,VGZ
 VHC,VirnetX Holding Corp Common Stock,VirnetX Holding Corp Common Stock,N,VHC,N,100.0,N,VHC
@@ -6129,6 +6133,7 @@ VOTE,TCW Transform 500 ETF,TCW Transform 500 ETF,N,VOTE,Y,100.0,N,VOTE
 VOX,Vanguard Communication Services  ETF,Vanguard Communication Services  ETF,P,VOX,Y,100.0,N,VOX
 VOYA,"Voya Financial, Inc. Common Stock","Voya Financial, Inc. Common Stock",N,VOYA,N,100.0,N,VOYA
 VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed","Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",N,VOYApB,N,100.0,N,VOYA-B
+VOYG,"Voyager Technologies, Inc. Class A Common Stock","Voyager Technologies, Inc. Class A Common Stock",N,VOYG,N,100.0,N,VOYG
 VPC,Virtus Private Credit Strategy ETF,Virtus Private Credit Strategy ETF,P,VPC,Y,100.0,N,VPC
 VPG,"Vishay Precision Group, Inc. Common Stock","Vishay Precision Group, Inc. Common Stock",N,VPG,N,100.0,N,VPG
 VPL,Vanguard FTSE Pacific ETF,Vanguard FTSE Pacific ETF,P,VPL,Y,100.0,N,VPL

@@ -209,6 +209,7 @@ ASG,Liberty All
 ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest
 ASGN,ASGN Incorporated Common Stock
 ASH,Ashland Inc. Common Stock
+ASIC,Ategrity Specialty Insurance Company Holdings Common Stock
 ASIX,AdvanSix Inc. Common Stock 
 ASPN,"Aspen Aerogels, Inc. Common Stock"
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock"
@@ -2089,7 +2090,6 @@ PRGO,Perrigo Company plc Ordinary Shares
 PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062"
 PRI,"Primerica, Inc. Common Stock"
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029"
-PRIF$F,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027"
 PRIF$I,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028"
 PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028"
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock"
@@ -2301,6 +2301,7 @@ SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share a
 SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50"
 SCCO,Southern Copper Corporation Common Stock
 SCD,LMP Capital and Income Fund Inc. Common Stock
+SCD.V,"LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued"
 SCE$G,SCE Trust II Trust Preferred Securities
 SCE$J,Southern California Edison Company 5.375% Fixed
 SCE$K,Southern California Edison Company 5.45% Fixed
@@ -2737,6 +2738,7 @@ VOC,VOC Energy Trust Units of Beneficial Interest
 VOTE,TCW Transform 500 ETF
 VOYA,"Voya Financial, Inc. Common Stock"
 VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed"
+VOYG,"Voyager Technologies, Inc. Class A Common Stock"
 VPG,"Vishay Precision Group, Inc. Common Stock"
 VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)
 VRE,"Veris Residential, Inc. Common Stock"
