@@ -1247,7 +1247,6 @@ CTVA,"Corteva, Inc. Common Stock ","Corteva, Inc. Common Stock ",N,CTVA,N,100.0,
 CUBB,"Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034","Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034",N,CUBB,N,100.0,N,CUBB
 CUBE,CubeSmart Common Shares,CubeSmart Common Shares,N,CUBE,N,100.0,N,CUBE
 CUBI,"Customers Bancorp, Inc Common Stock","Customers Bancorp, Inc Common Stock",N,CUBI,N,100.0,N,CUBI
-CUBI$E,"Customers Bancorp, Inc Fixed","Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series E",N,CUBIpE,N,100.0,N,CUBI-E
 CUBI$F,"Customers Bancorp, Inc Fixed","Customers Bancorp, Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",N,CUBIpF,N,100.0,N,CUBI-F
 CUK,Carnival Plc ADS ADS,Carnival Plc ADS ADS,N,CUK,N,100.0,N,CUK
 CULP,"Culp, Inc. Common Stock","Culp, Inc. Common Stock",N,CULP,N,100.0,N,CULP
@@ -1457,7 +1456,7 @@ DIVO,Amplify CWP Enhanced Dividend Income ETF,Amplify CWP Enhanced Dividend Inco
 DIVP,The Advisors Inner Circle Fund II Cullen Enhanced Equity Income ETF,The Advisors Inner Circle Fund II Cullen Enhanced Equity Income ETF,P,DIVP,Y,100.0,N,DIVP
 DIVS,SmartETFs Dividend Builder ETF,SmartETFs Dividend Builder ETF,P,DIVS,Y,100.0,N,DIVS
 DIVY,Sound Equity Dividend Income ETF,Sound Equity Dividend Income ETF,N,DIVY,Y,100.0,N,DIVY
-DIVZ,Opal Dividend Income ETF,Opal Dividend Income ETF,P,DIVZ,Y,100.0,N,DIVZ
+DIVZ,Listed Funds Trust Opal Dividend Income ETF,Listed Funds Trust Opal Dividend Income ETF,P,DIVZ,N,100.0,N,DIVZ
 DJAN,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - January,Z,DJAN,Y,100.0,N,DJAN
 DJD,Invesco Dow Jones Industrial Average Dividend ETF,Invesco Dow Jones Industrial Average Dividend ETF,P,DJD,Y,100.0,N,DJD
 DJIA,Global X Funds Global X Dow 30 Covered Call ETF,Global X Funds Global X Dow 30 Covered Call ETF,P,DJIA,Y,100.0,N,DJIA
@@ -1997,13 +1996,11 @@ FCTR,First Trust Lunt U.S. Factor Rotation ETF,First Trust Lunt U.S. Factor Rota
 FCUS,Tidal ETF Trust II Pinnacle Focused Opportunities ETF,Tidal ETF Trust II Pinnacle Focused Opportunities ETF,P,FCUS,Y,100.0,N,FCUS
 FCX,Freeport,"Freeport-McMoRan, Inc. Common Stock",N,FCX,N,100.0,N,FCX
 FDAT,Tactical Advantage ETF,Tactical Advantage ETF,P,FDAT,Y,100.0,N,FDAT
-FDCE,Foundations Dynamic Core ETF,Foundations Dynamic Core ETF,Z,FDCE,Y,100.0,N,FDCE
 FDD,First Trust Dow Jones STOXX Select Dividend 30 Index Fund,First Trust Dow Jones STOXX Select Dividend 30 Index Fund,P,FDD,Y,100.0,N,FDD
 FDEC,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - December,Z,FDEC,Y,100.0,N,FDEC
 FDEM,Fidelity Emerging Markets Multifactor ETF,Fidelity Emerging Markets Multifactor ETF,Z,FDEM,Y,100.0,N,FDEM
 FDEV,Fidelity Emerging Markets Multifactor ETF,Fidelity Emerging Markets Multifactor ETF,Z,FDEV,Y,100.0,N,FDEV
 FDG,American Century Focused Dynamic Growth ETF,American Century Focused Dynamic Growth ETF,P,FDG,Y,100.0,N,FDG
-FDGR,Foundations Dynamic Growth ETF,Foundations Dynamic Growth ETF,Z,FDGR,Y,100.0,N,FDGR
 FDHT,Fidelity Digital Health ETF,Fidelity Digital Health ETF,Z,FDHT,Y,100.0,N,FDHT
 FDHY,Fidelity Enhanced High Yield ETF,Fidelity Enhanced High Yield ETF,P,FDHY,Y,100.0,N,FDHY
 FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Fidelity MSCI Consumer Discretionary Index ETF,P,FDIS,Y,100.0,N,FDIS
@@ -2018,9 +2015,7 @@ FDP,"Fresh Del Monte Produce, Inc. Common Stock","Fresh Del Monte Produce, Inc. 
 FDRR,Fidelity Dividend ETF for Rising Rates,Fidelity Dividend ETF for Rising Rates,P,FDRR,Y,100.0,N,FDRR
 FDRV,Fidelity Electric Vehicles and Future Transportation ETF,Fidelity Electric Vehicles and Future Transportation ETF,Z,FDRV,Y,100.0,N,FDRV
 FDS,FactSet Research Systems Inc. Common Stock,FactSet Research Systems Inc. Common Stock,N,FDS,N,100.0,N,FDS
-FDTB,Foundations Dynamic Income ETF,Foundations Dynamic Income ETF,Z,FDTB,Y,100.0,N,FDTB
 FDV,Federated Hermes ETF Trust Federated Hermes U.S. Strategic Dividend ETF,Federated Hermes ETF Trust Federated Hermes U.S. Strategic Dividend ETF,P,FDV,Y,100.0,N,FDV
-FDVL,Foundations Dynamic Value ETF,Foundations Dynamic Value ETF,Z,FDVL,Y,100.0,N,FDVL
 FDVV,Fidelity High Dividend ETF,Fidelity High Dividend ETF,P,FDVV,Y,100.0,N,FDVV
 FDWM,Fidelity Women's Leadership ETF,Fidelity Women's Leadership ETF,P,FDWM,Y,100.0,N,FDWM
 FDX,FedEx Corporation Common Stock,FedEx Corporation Common Stock,N,FDX,N,100.0,N,FDX
@@ -2110,6 +2105,7 @@ FIVA,Fidelity International Value Factor ETF,Fidelity International Value Factor
 FIW,First Trust Water ETF,First Trust Water ETF,P,FIW,Y,100.0,N,FIW
 FIX,"Comfort Systems USA, Inc. Common Stock","Comfort Systems USA, Inc. Common Stock",N,FIX,N,100.0,N,FIX
 FIXP,FolioBeyond Enhanced Fixed Income Premium ETF,FolioBeyond Enhanced Fixed Income Premium ETF,P,FIXP,Y,100.0,N,FIXP
+FIXT,TCW ETF Trust TCW Core Plus Bond ETF,TCW ETF Trust TCW Core Plus Bond ETF,N,FIXT,Y,100.0,N,FIXT
 FJAN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - January,Z,FJAN,Y,100.0,N,FJAN
 FJUL,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - July,Z,FJUL,Y,100.0,N,FJUL
 FJUN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - June,Z,FJUN,Y,100.0,N,FJUN
@@ -3605,7 +3601,7 @@ LRGC,"AB Active ETFs, Inc. AB US Large Cap Strategic Equities ETF","AB Active ET
 LRGF,iShares U.S. Equity Factor ETF,iShares U.S. Equity Factor ETF,P,LRGF,Y,100.0,N,LRGF
 LRGG,Macquarie ETF Trust Macquarie Focused Large Growth ETF,Macquarie ETF Trust Macquarie Focused Large Growth ETF,P,LRGG,Y,100.0,N,LRGG
 LRN,"Stride, Inc. Common Stock","Stride, Inc. Common Stock",N,LRN,N,100.0,N,LRN
-LRNZ,"TrueShares Technology, AI & Deep Learning ETF","TrueShares Technology, AI & Deep Learning ETF",P,LRNZ,Y,100.0,N,LRNZ
+LRNZ,"Listed Funds Trust TrueShares Technology, AI & Deep Learning ETF","Listed Funds Trust TrueShares Technology, AI & Deep Learning ETF",P,LRNZ,Y,100.0,N,LRNZ
 LSAF,LeaderShares AlphaFactor US Core Equity ETF,LeaderShares AlphaFactor US Core Equity ETF,P,LSAF,Y,100.0,N,LSAF
 LSAT,LeaderShares AlphaFactor Tactical Focused ETF,LeaderShares AlphaFactor Tactical Focused ETF,P,LSAT,Y,100.0,N,LSAT
 LSEQ,Harbor ETF Trust Harbor Long,Harbor ETF Trust Harbor Long-Short Equity ETF,P,LSEQ,Y,100.0,N,LSEQ
@@ -5757,6 +5753,7 @@ TMV,Direxion Daily 20,Direxion Daily 20-Year Treasury Bear 3X,P,TMV,Y,100.0,N,TM
 TNA,Direxion Small Cap Bull 3X Shares,Direxion Small Cap Bull 3X Shares,P,TNA,Y,100.0,N,TNA
 TNC,Tennant Company Common Stock,Tennant Company Common Stock,N,TNC,N,100.0,N,TNC
 TNET,"TriNet Group, Inc. Common Stock","TriNet Group, Inc. Common Stock",N,TNET,N,100.0,N,TNET
+TNGY,Tortoise Capital Series Trust Tortoise Energy Fund,Tortoise Capital Series Trust Tortoise Energy Fund,N,TNGY,Y,100.0,N,TNGY
 TNK,Teekay Tankers Ltd.,Teekay Tankers Ltd.,N,TNK,N,100.0,N,TNK
 TNL,Travel   Leisure Co. Common  Stock,Travel   Leisure Co. Common  Stock,N,TNL,N,100.0,N,TNL
 TOAK,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,P,TOAK,Y,100.0,N,TOAK
