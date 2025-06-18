@@ -150,6 +150,7 @@ AIEQ,Amplify ETF Trust Amplify AI Powered Equity ETF,Amplify ETF Trust Amplify A
 AIFD,TCW Artificial Intelligence ETF,TCW Artificial Intelligence ETF,N,AIFD,Y,100.0,N,AIFD
 AIG,"American International Group, Inc. New Common Stock","American International Group, Inc. New Common Stock",N,AIG,N,100.0,N,AIG
 AII,"American Integrity Insurance Group, Inc. Common Stock","American Integrity Insurance Group, Inc. Common Stock",N,AII,N,100.0,N,AII
+AIM,AIM ImmunoTech Inc. Common Stock,AIM ImmunoTech Inc. Common Stock,A,AIM,N,100.0,N,AIM
 AIN,Albany International Corporation Common Stock,Albany International Corporation Common Stock,N,AIN,N,100.0,N,AIN
 AINP,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring Income Plus ETF,P,AINP,Y,100.0,N,AINP
 AIO,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,N,AIO,N,100.0,N,AIO
@@ -697,6 +698,7 @@ BLK,"BlackRock, Inc. Common Stock","BlackRock, Inc. Common Stock",N,BLK,N,100.0,
 BLKC,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF,Z,BLKC,Y,100.0,N,BLKC
 BLND,"Blend Labs, Inc. Class A Common Stock","Blend Labs, Inc. Class A Common Stock",N,BLND,N,100.0,N,BLND
 BLOK,Amplify Transformational Data Sharing ETF,Amplify Transformational Data Sharing ETF,P,BLOK,Y,100.0,N,BLOK
+BLOX,Tidal Trust II Nicholas Crypto Income ETF,Tidal Trust II Nicholas Crypto Income ETF,P,BLOX,Y,100.0,N,BLOX
 BLV,Vanguard Long,Vanguard Long-Term Bond ETF,P,BLV,Y,100.0,N,BLV
 BLW,Blackrock Limited Duration Income Trust,Blackrock Limited Duration Income Trust,N,BLW,N,100.0,N,BLW
 BLX,"Banco Latinoamericano de Comercio Exterior, S.A.","Banco Latinoamericano de Comercio Exterior, S.A.",N,BLX,N,100.0,N,BLX
@@ -2611,6 +2613,7 @@ GWW,"W.W. Grainger, Inc. Common Stock","W.W. Grainger, Inc. Common Stock",N,GWW,
 GWX,SPDR S&P International SmallCap ETF,SPDR S&P International SmallCap ETF,P,GWX,Y,100.0,N,GWX
 GXC,SPDR S&P China ETF,SPDR S&P China ETF,P,GXC,Y,100.0,N,GXC
 GXG,Global X MSCI Colombia ETF,Global X MSCI Colombia ETF,P,GXG,Y,100.0,N,GXG
+GXIG,Global X Funds Global X Investment Grade Corporate Bond ETF,Global X Funds Global X Investment Grade Corporate Bond ETF,P,GXIG,Y,100.0,N,GXIG
 GXO,"GXO Logistics, Inc. Common Stock ","GXO Logistics, Inc. Common Stock ",N,GXO,N,100.0,N,GXO
 GXUS,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta Total International Equity ETF,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta Total International Equity ETF,P,GXUS,Y,100.0,N,GXUS
 GYLD,Arrow Dow Jones Global Yield ETF ETF,Arrow Dow Jones Global Yield ETF ETF,N,GYLD,Y,100.0,N,GYLD
@@ -5107,7 +5110,7 @@ SCCG,Sachem Capital Corp. 8.00% Notes due 2027,Sachem Capital Corp. 8.00% Notes 
 SCCO,Southern Copper Corporation Common Stock,Southern Copper Corporation Common Stock,N,SCCO,N,100.0,N,SCCO
 SCCR,Schwab Strategic Trust Schwab Core Bond ETF,Schwab Strategic Trust Schwab Core Bond ETF,P,SCCR,Y,100.0,N,SCCR
 SCD,LMP Capital and Income Fund Inc. Common Stock,LMP Capital and Income Fund Inc. Common Stock,N,SCD,N,100.0,N,SCD
-SCD.V,"LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued","LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights when issued",N,SCDrw,N,100.0,N,SCD^#
+SCD.R,"LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights","LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights",N,SCDr,N,100.0,N,SCD^
 SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,ETRACS 2x Leveraged US Dividend Factor TR ETN,P,SCDL,Y,100.0,N,SCDL
 SCDV,ETF Series Solutions Bahl & Gaynor Small Cap Dividend ETF,ETF Series Solutions Bahl & Gaynor Small Cap Dividend ETF,P,SCDV,Y,100.0,N,SCDV
 SCE$G,SCE Trust II Trust Preferred Securities,SCE Trust II Trust Preferred Securities,N,SCEpG,N,100.0,N,SCE-G
@@ -6089,6 +6092,7 @@ VIOG,Vanguard S&P Small,Vanguard S&P Small-Cap 600 Growth ETF,P,VIOG,Y,100.0,N,V
 VIOO,Vanguard S&P Small,Vanguard S&P Small-Cap 600 ETF,P,VIOO,Y,100.0,N,VIOO
 VIOV,Vanguard S&P Small,Vanguard S&P Small-Cap 600 Value ETF,P,VIOV,Y,100.0,N,VIOV
 VIPS,"Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares","Vipshop Holdings Limited American Depositary Shares, each representing two ordinary shares",N,VIPS,N,100.0,N,VIPS
+VIRT,"Virtu Financial, Inc. Class A Common Stock","Virtu Financial, Inc. Class A Common Stock",N,VIRT,N,100.0,N,VIRT
 VIS,Vanguard Industrials ETF,Vanguard Industrials ETF,P,VIS,Y,100.0,N,VIS
 VIST,"Vista Energy S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value","Vista Energy S.A.B. de C.V. American Depositary Shares, each representing one series A share, with no par value",N,VIST,N,100.0,N,VIST
 VIV,Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share),Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share),N,VIV,N,100.0,N,VIV
