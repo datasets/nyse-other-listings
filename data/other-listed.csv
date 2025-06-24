@@ -223,6 +223,7 @@ AMPX.W,"Amprius Technologies, Inc. Warrants to purchase one share of Common Stoc
 AMPY,Amplify Energy Corp. Common Stock,Amplify Energy Corp. Common Stock,N,AMPY,N,100.0,N,AMPY
 AMR,"Alpha Metallurgical Resources, Inc. Common Stock","Alpha Metallurgical Resources, Inc. Common Stock",N,AMR,N,100.0,N,AMR
 AMRC,"Ameresco, Inc. Class A Common Stock","Ameresco, Inc. Class A Common Stock",N,AMRC,N,100.0,N,AMRC
+AMRZ,Amrize Ltd Ordinary Shares,Amrize Ltd Ordinary Shares,N,AMRZ,N,100.0,N,AMRZ
 AMS,American Shared Hospital Services Common Stock,American Shared Hospital Services Common Stock,A,AMS,N,100.0,N,AMS
 AMT,American Tower Corporation (REIT) Common Stock,American Tower Corporation (REIT) Common Stock,N,AMT,N,100.0,N,AMT
 AMTB,Amerant Bancorp Inc. Class A Common Stock,Amerant Bancorp Inc. Class A Common Stock,N,AMTB,N,100.0,N,AMTB
@@ -549,6 +550,7 @@ BCUS,Exchange Listed Funds Trust Bancreek U.S. Large Cap ETF,Exchange Listed Fun
 BCV,"Bancroft Fund, Ltd.","Bancroft Fund, Ltd.",A,BCV,N,100.0,N,BCV
 BCV$A,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,A,BCVpA,N,100.0,N,BCV-A
 BCX,BlackRock Resources Common Shares of Beneficial Interest,BlackRock Resources Common Shares of Beneficial Interest,N,BCX,N,100.0,N,BCX
+BDBT,Exchange Traded Concepts Trust Bluemonte Core Bond ETF,Exchange Traded Concepts Trust Bluemonte Core Bond ETF,P,BDBT,Y,100.0,N,BDBT
 BDC,Belden Inc Common Stock,Belden Inc Common Stock,N,BDC,N,100.0,N,BDC
 BDCX,"ETRACS Quarterly Pay 1.5x Leveraged MarketVector BDC Liquid Index ETN due June 10, 2050","ETRACS Quarterly Pay 1.5x Leveraged MarketVector BDC Liquid Index ETN due June 10, 2050",P,BDCX,Y,100.0,N,BDCX
 BDCZ,"ETRACS MarketVector Business Development Companies Liquid Index ETN due April 26, 2041","ETRACS MarketVector Business Development Companies Liquid Index ETN due April 26, 2041",P,BDCZ,N,100.0,N,BDCZ
@@ -633,6 +635,7 @@ BILL,"BILL Holdings, Inc. Common Stock","BILL Holdings, Inc. Common Stock",N,BIL
 BILS,SPDR Bloomberg 3,SPDR Bloomberg 3-12 Month T-Bill ETF,P,BILS,Y,100.0,N,BILS
 BILZ,PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange,PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange-Traded Fund,P,BILZ,Y,100.0,N,BILZ
 BINC,iShares Flexible Income Active ETF,iShares Flexible Income Active ETF,P,BINC,Y,100.0,N,BINC
+BINT,Exchange Traded Concepts Trust Bluemonte Global Equity ETF,Exchange Traded Concepts Trust Bluemonte Global Equity ETF,P,BINT,Y,100.0,N,BINT
 BINV,Brandes International ETF,Brandes International ETF,Z,BINV,Y,100.0,N,BINV
 BIO,Bio,"Bio-Rad Laboratories, Inc. Class A Common Stock",N,BIO,N,100.0,N,BIO
 BIO.B,Bio,"Bio-Rad Laboratories, Inc. Class B  Common Stock",N,BIO.B,N,100.0,N,BIO.B
@@ -694,11 +697,17 @@ BLDG,Cambria Global Real Estate ETF,Cambria Global Real Estate ETF,Z,BLDG,Y,100.
 BLDR,"Builders FirstSource, Inc. Common Stock","Builders FirstSource, Inc. Common Stock",N,BLDR,N,100.0,N,BLDR
 BLE,BlackRock Municipal Income Trust II,BlackRock Municipal Income Trust II,N,BLE,N,100.0,N,BLE
 BLES,Inspire Global Hope ETF,Inspire Global Hope ETF,P,BLES,Y,100.0,N,BLES
+BLGR,Exchange Traded Concepts Trust Bluemonte Large Cap Growth ETF,Exchange Traded Concepts Trust Bluemonte Large Cap Growth ETF,P,BLGR,Y,100.0,N,BLGR
 BLK,"BlackRock, Inc. Common Stock","BlackRock, Inc. Common Stock",N,BLK,N,100.0,N,BLK
 BLKC,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF,Z,BLKC,Y,100.0,N,BLKC
 BLND,"Blend Labs, Inc. Class A Common Stock","Blend Labs, Inc. Class A Common Stock",N,BLND,N,100.0,N,BLND
 BLOK,Amplify Transformational Data Sharing ETF,Amplify Transformational Data Sharing ETF,P,BLOK,Y,100.0,N,BLOK
 BLOX,Tidal Trust II Nicholas Crypto Income ETF,Tidal Trust II Nicholas Crypto Income ETF,P,BLOX,Y,100.0,N,BLOX
+BLST,Exchange Traded Concepts Trust Bluemonte Short Term Bond ETF,Exchange Traded Concepts Trust Bluemonte Short Term Bond ETF,P,BLST,Y,100.0,N,BLST
+BLTD,Exchange Traded Concepts Trust Bluemonte Long Term Bond ETF,Exchange Traded Concepts Trust Bluemonte Long Term Bond ETF,P,BLTD,Y,100.0,N,BLTD
+BLUC,Exchange Traded Concepts Trust Bluemonte Large Cap Core ETF,Exchange Traded Concepts Trust Bluemonte Large Cap Core ETF,P,BLUC,Y,100.0,N,BLUC
+BLUI,Exchange Traded Concepts Trust Bluemonte Diversified Income ETF,Exchange Traded Concepts Trust Bluemonte Diversified Income ETF,P,BLUI,Y,100.0,N,BLUI
+BLUX,Exchange Traded Concepts Trust Bluemonte Dynamic Total Market ETF,Exchange Traded Concepts Trust Bluemonte Dynamic Total Market ETF,P,BLUX,Y,100.0,N,BLUX
 BLV,Vanguard Long,Vanguard Long-Term Bond ETF,P,BLV,Y,100.0,N,BLV
 BLW,Blackrock Limited Duration Income Trust,Blackrock Limited Duration Income Trust,N,BLW,N,100.0,N,BLW
 BLX,"Banco Latinoamericano de Comercio Exterior, S.A.","Banco Latinoamericano de Comercio Exterior, S.A.",N,BLX,N,100.0,N,BLX
@@ -842,6 +851,7 @@ BUYW,Northern Lights Fund Trust IV Main BuyWrite ETF,Northern Lights Fund Trust 
 BUYZ,Franklin Disruptive Commerce ETF,Franklin Disruptive Commerce ETF,Z,BUYZ,Y,100.0,N,BUYZ
 BUZZ,VanEck Social Sentiment ETF,VanEck Social Sentiment ETF,P,BUZZ,Y,100.0,N,BUZZ
 BV,"BrightView Holdings, Inc. Common Stock","BrightView Holdings, Inc. Common Stock",N,BV,N,100.0,N,BV
+BVAL,Exchange Traded Concepts Trust Bluemonte Large Cap Value ETF,Exchange Traded Concepts Trust Bluemonte Large Cap Value ETF,P,BVAL,Y,100.0,N,BVAL
 BVN,Buenaventura Mining Company Inc.,Buenaventura Mining Company Inc.,N,BVN,N,100.0,N,BVN
 BW,"Babcock & Wilcox Enterprises, Inc. Common Stock","Babcock & Wilcox Enterprises, Inc. Common Stock",N,BW,N,100.0,N,BW
 BW$A,"Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock","Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock",N,BWpA,N,100.0,N,BW-A
@@ -1133,6 +1143,7 @@ COHR,Coherent Corp. Common Stock,Coherent Corp. Common Stock,N,COHR,N,100.0,N,CO
 COII,REX COIN Growth & Income ETF,REX COIN Growth & Income ETF,Z,COII,Y,100.0,N,COII
 COIW,Roundhill ETF Trust Roundhill COIN WeeklyPay ETF,Roundhill ETF Trust Roundhill COIN WeeklyPay ETF,Z,COIW,Y,100.0,N,COIW
 COLD,"Americold Realty Trust, Inc. Common Stock","Americold Realty Trust, Inc. Common Stock",N,COLD,N,100.0,N,COLD
+COLO,Global X MSCI Colombia ETF,Global X MSCI Colombia ETF,P,COLO,Y,100.0,N,COLO
 COM,Direxion Auspice Broad Commodity Strategy ETF,Direxion Auspice Broad Commodity Strategy ETF,P,COM,Y,100.0,N,COM
 COMB,GraniteShares Bloomberg Commodity Broad Strategy No K,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,P,COMB,Y,100.0,N,COMB
 COMP,"Compass, Inc. Class A Common Stock","Compass, Inc. Class A Common Stock",N,COMP,N,100.0,N,COMP
@@ -2616,7 +2627,6 @@ GWRE,"Guidewire Software, Inc. Common Stock","Guidewire Software, Inc. Common St
 GWW,"W.W. Grainger, Inc. Common Stock","W.W. Grainger, Inc. Common Stock",N,GWW,N,100.0,N,GWW
 GWX,SPDR S&P International SmallCap ETF,SPDR S&P International SmallCap ETF,P,GWX,Y,100.0,N,GWX
 GXC,SPDR S&P China ETF,SPDR S&P China ETF,P,GXC,Y,100.0,N,GXC
-GXG,Global X MSCI Colombia ETF,Global X MSCI Colombia ETF,P,GXG,Y,100.0,N,GXG
 GXIG,Global X Funds Global X Investment Grade Corporate Bond ETF,Global X Funds Global X Investment Grade Corporate Bond ETF,P,GXIG,Y,100.0,N,GXIG
 GXO,"GXO Logistics, Inc. Common Stock ","GXO Logistics, Inc. Common Stock ",N,GXO,N,100.0,N,GXO
 GXUS,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta Total International Equity ETF,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta Total International Equity ETF,P,GXUS,Y,100.0,N,GXUS
@@ -5725,6 +5735,7 @@ TISI,"Team, Inc. Common Stock","Team, Inc. Common Stock",N,TISI,N,100.0,N,TISI
 TIXT,TELUS International (Cda) Inc. Subordinate Voting Shares,TELUS International (Cda) Inc. Subordinate Voting Shares,N,TIXT,N,100.0,N,TIXT
 TJAN,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 2 Yr to January 2027,Z,TJAN,Y,100.0,N,TJAN
 TJUL,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 2 Yr to July 2025,Z,TJUL,Y,100.0,N,TJUL
+TJUN,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - June,Z,TJUN,Y,100.0,N,TJUN
 TJX,"TJX Companies, Inc. (The) Common Stock","TJX Companies, Inc. (The) Common Stock",N,TJX,N,100.0,N,TJX
 TK,Teekay Corporation Ltd. Common Stock,Teekay Corporation Ltd. Common Stock,N,TK,N,100.0,N,TK
 TKC,Turkcell Iletisim Hizmetleri AS Common Stock,Turkcell Iletisim Hizmetleri AS Common Stock,N,TKC,N,100.0,N,TKC
@@ -6206,7 +6217,6 @@ WAL$A,"Western Alliance Bancorporation Depositary Shares, Each Representing a 1/
 WANT,Direxion Daily Consumer Discretionary Bull 3X Shares,Direxion Daily Consumer Discretionary Bull 3X Shares,P,WANT,Y,100.0,N,WANT
 WAR,ETF Series Solutions U.S. Global Technology and Aerospace & Defense ETF,ETF Series Solutions U.S. Global Technology and Aerospace & Defense ETF,P,WAR,Y,100.0,N,WAR
 WAT,Waters Corporation Common Stock,Waters Corporation Common Stock,N,WAT,N,100.0,N,WAT
-WBAT,WisdomTree Trust WisdomTree Battery Value Chain and Innovation Fund,WisdomTree Trust WisdomTree Battery Value Chain and Innovation Fund,Z,WBAT,Y,100.0,N,WBAT
 WBIF,WBI BullBear Value 3000 ETF,WBI BullBear Value 3000 ETF,P,WBIF,Y,100.0,N,WBIF
 WBIG,WBI BullBear Yield 3000 ETF,WBI BullBear Yield 3000 ETF,P,WBIG,Y,100.0,N,WBIG
 WBIL,WBI BullBear Quality 3000 ETF,WBI BullBear Quality 3000 ETF,P,WBIL,Y,100.0,N,WBIL
@@ -6216,7 +6226,6 @@ WBS$F,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,00
 WBS$G,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non","Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",N,WBSpG,N,100.0,N,WBS-G
 WBX,Wallbox N.V. Class A Ordinary Shares,Wallbox N.V. Class A Ordinary Shares,N,WBX,N,100.0,N,WBX
 WCC,"WESCO International, Inc. Common Stock","WESCO International, Inc. Common Stock",N,WCC,N,100.0,N,WCC
-WCC$A,"WESCO International, Inc. Depositary Shares each representing 1/1,000th interest in a share of Series A Fixed","WESCO International, Inc. Depositary Shares each representing 1/1,000th interest in a share of Series A Fixed-Rate Reset Cumulative Perpetual Preferred Stock",N,WCCpA,N,100.0,N,WCC-A
 WCEO,Hypatia Women CEO ETF,Hypatia Women CEO ETF,P,WCEO,Y,100.0,N,WCEO
 WCME,First Trust Exchange,First Trust Exchange-Traded Fund First Trust WCM Developing World Equity ETF,P,WCME,Y,100.0,N,WCME
 WCMI,First Trust Exchange,First Trust Exchange-Traded Fund First Trust WCM International Equity ETF,P,WCMI,Y,100.0,N,WCMI
