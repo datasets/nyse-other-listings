@@ -831,11 +831,13 @@ BUFB,Innovator ETFs Trust Innovator Laddered Allocation Buffer ETF,Innovator ETF
 BUFD,FT Vest Laddered Deep Buffer ETF,FT Vest Laddered Deep Buffer ETF,Z,BUFD,Y,100.0,N,BUFD
 BUFF,Innovator Laddered Allocation Power Buffer ETF,Innovator Laddered Allocation Power Buffer ETF,Z,BUFF,Y,100.0,N,BUFF
 BUFG,FT Vest Buffered Allocation Growth ETF,FT Vest Buffered Allocation Growth ETF,Z,BUFG,Y,100.0,N,BUFG
+BUFH,FT Vest Laddered Max Buffer ETF FT Vest Laddered Max Buffer ETF,FT Vest Laddered Max Buffer ETF FT Vest Laddered Max Buffer ETF,Z,BUFH,Y,100.0,N,BUFH
 BUFP,PGIM Laddered S&P 500 Buffer 12 ETF,PGIM Laddered S&P 500 Buffer 12 ETF,Z,BUFP,Y,100.0,N,BUFP
 BUFQ,FT Vest Laddered Nasdaq Buffer ETF,FT Vest Laddered Nasdaq Buffer ETF,Z,BUFQ,Y,100.0,N,BUFQ
 BUFR,FT Vest Laddered Buffer ETF,FT Vest Laddered Buffer ETF,Z,BUFR,Y,100.0,N,BUFR
 BUFS,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Laddered Small Cap Moderate Buffer ETF,Z,BUFS,Y,100.0,N,BUFS
 BUFT,FT Vest Buffered Allocation Defensive ETF,FT Vest Buffered Allocation Defensive ETF,Z,BUFT,Y,100.0,N,BUFT
+BUFX,FT Vest Laddered Max Buffer ETF FT Vest Laddered Enhance & Moderate Buffer ETF,FT Vest Laddered Max Buffer ETF FT Vest Laddered Enhance & Moderate Buffer ETF,Z,BUFX,Y,100.0,N,BUFX
 BUFY,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Laddered International Moderate Buffer ETF,Z,BUFY,Y,100.0,N,BUFY
 BUFZ,FT Vest Laddered Moderate Buffer ETF,FT Vest Laddered Moderate Buffer ETF,Z,BUFZ,Y,100.0,N,BUFZ
 BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust","BlackRock Utility, Infrastructure & Power Opportunities Trust",N,BUI,N,100.0,N,BUI
@@ -894,6 +896,7 @@ CAF,Morgan Stanley China A Share Fund Inc. Common Stock,Morgan Stanley China A S
 CAFX,Professionally Managed Portfolios Congress Intermediate Bond ETF,Professionally Managed Portfolios Congress Intermediate Bond ETF,P,CAFX,Y,100.0,N,CAFX
 CAG,"ConAgra Brands, Inc. Common Stock","ConAgra Brands, Inc. Common Stock",N,CAG,N,100.0,N,CAG
 CAH,"Cardinal Health, Inc. Common Stock","Cardinal Health, Inc. Common Stock",N,CAH,N,100.0,N,CAH
+CAIE,Calamos ETF Trust Calamos Autocallable Income ETF,Calamos ETF Trust Calamos Autocallable Income ETF,P,CAIE,Y,100.0,N,CAIE
 CAL,"Caleres, Inc. Common Stock","Caleres, Inc. Common Stock",N,CAL,N,100.0,N,CAL
 CALF,Pacer US Small Cap Cash Cows ETF,Pacer US Small Cap Cash Cows ETF,Z,CALF,Y,100.0,N,CALF
 CALX,"Calix, Inc Common Stock","Calix, Inc Common Stock",N,CALX,N,100.0,N,CALX
@@ -1250,6 +1253,7 @@ CTEF,EA Series Trust Castellan Targeted Equity ETF,EA Series Trust Castellan Tar
 CTEV,Claritev Corporation Class A Common Stock,Claritev Corporation Class A Common Stock,N,CTEV,N,100.0,N,CTEV
 CTEX,ProShares S&P Kensho Cleantech ETF,ProShares S&P Kensho Cleantech ETF,P,CTEX,Y,100.0,N,CTEX
 CTGO,"Contango ORE, Inc. Common Stock","Contango ORE, Inc. Common Stock",A,CTGO,N,100.0,N,CTGO
+CTIF,EA Series Trust Castellan Targeted Income ETF,EA Series Trust Castellan Targeted Income ETF,Z,CTIF,Y,100.0,N,CTIF
 CTM,"Castellum, Inc. Common Stock","Castellum, Inc. Common Stock",A,CTM,N,100.0,N,CTM
 CTO,"CTO Realty Growth, Inc. Common Stock","CTO Realty Growth, Inc. Common Stock",N,CTO,N,100.0,N,CTO
 CTO$A,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock","CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock",N,CTOpA,N,100.0,N,CTO-A
@@ -2295,6 +2299,7 @@ FTRB,Federated Hermes ETF Trust Federated Hermes Total Return Bond ETF,Federated
 FTS,Fortis Inc. Common Shares,Fortis Inc. Common Shares,N,FTS,N,100.0,N,FTS
 FTSD,Franklin Short Duration U.S. Government ETF,Franklin Short Duration U.S. Government ETF,P,FTSD,Y,100.0,N,FTSD
 FTV,Fortive Corporation Common Stock ,Fortive Corporation Common Stock ,N,FTV,N,100.0,N,FTV
+FTV.V,Fortive Corporation Common Stock When,Fortive Corporation Common Stock When-Issued,N,FTVw,N,100.0,N,FTV#
 FTWO,Strive Natural Resources and Security ETF,Strive Natural Resources and Security ETF,N,FTWO,Y,100.0,N,FTWO
 FUBO,fuboTV Inc. Common Stock,fuboTV Inc. Common Stock,N,FUBO,N,100.0,N,FUBO
 FUL,H. B. Fuller Company Common Stock,H. B. Fuller Company Common Stock,N,FUL,N,100.0,N,FUL
@@ -3272,6 +3277,7 @@ JOJO,ATAC Credit Rotation ETF,ATAC Credit Rotation ETF,P,JOJO,Y,100.0,N,JOJO
 JPAN,Matthews International Funds Matthews Japan Active ETF,Matthews International Funds Matthews Japan Active ETF,P,JPAN,Y,100.0,N,JPAN
 JPC,Nuveen Preferred & Income Opportunities Fund,Nuveen Preferred & Income Opportunities Fund,N,JPC,N,100.0,N,JPC
 JPEM,JPMorgan Diversified Return Emerging Markets Equity ETF,JPMorgan Diversified Return Emerging Markets Equity ETF,P,JPEM,Y,100.0,N,JPEM
+JPHY,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active High Yield ETF,Z,JPHY,Y,100.0,N,JPHY
 JPI,Nuveen Preferred Securities & Income Opportunities Fund Common Shares,Nuveen Preferred Securities & Income Opportunities Fund Common Shares,N,JPI,N,100.0,N,JPI
 JPIB,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan International Bond Opportunities ETF,Z,JPIB,Y,100.0,N,JPIB
 JPIE,JPMorgan Income ETF,JPMorgan Income ETF,P,JPIE,Y,100.0,N,JPIE
@@ -4827,6 +4833,7 @@ RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share
 RAC.W,"Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,RAC.WS,N,100.0,N,RAC+
 RACE,Ferrari N.V. Common Shares,Ferrari N.V. Common Shares,N,RACE,N,100.0,N,RACE
 RAFE,PIMCO RAFI ESG U.S. ETF,PIMCO RAFI ESG U.S. ETF,P,RAFE,Y,100.0,N,RAFE
+RAL.V,Ralliant Corporation Common Stock When,Ralliant Corporation Common Stock When-Issued,N,RALw,N,100.0,N,RAL#
 RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stock",N,RAMP,N,100.0,N,RAMP
 RATE,Global X Funds Global X Interest Rate Hedge ETF,Global X Funds Global X Interest Rate Hedge ETF,P,RATE,Y,100.0,N,RATE
 RAVI,FlexShares Ultra,FlexShares Ultra-Short Income Fund,P,RAVI,Y,100.0,N,RAVI
@@ -5558,7 +5565,6 @@ SU,Suncor Energy  Inc. Common Stock,Suncor Energy  Inc. Common Stock,N,SU,N,100.
 SUB,iShares Short,iShares Short-Term National Muni Bond ETF,P,SUB,Y,100.0,N,SUB
 SUI,"Sun Communities, Inc. Common Stock","Sun Communities, Inc. Common Stock",N,SUI,N,100.0,N,SUI
 SUN,Sunoco LP Common Units representing limited partner interests,Sunoco LP Common Units representing limited partner interests,N,SUN,N,100.0,N,SUN
-SUP,"Superior Industries International, Inc. Common Stock (DE)","Superior Industries International, Inc. Common Stock (DE)",N,SUP,N,100.0,N,SUP
 SUPL,ProShares Trust ProShares Supply Chain Logistics ETF,ProShares Trust ProShares Supply Chain Logistics ETF,P,SUPL,Y,100.0,N,SUPL
 SUPP,TCW Transform Supply Chain ETF,TCW Transform Supply Chain ETF,N,SUPP,Y,100.0,N,SUPP
 SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,N,SUPV,N,100.0,N,SUPV
@@ -6323,6 +6329,7 @@ WWW,"Wolverine World Wide, Inc. Common Stock","Wolverine World Wide, Inc. Common
 WXET,Listed Funds Trust Teucrium 2x Daily Wheat ETF,Listed Funds Trust Teucrium 2x Daily Wheat ETF,P,WXET,Y,100.0,N,WXET
 WY,Weyerhaeuser Company Common Stock,Weyerhaeuser Company Common Stock,N,WY,N,100.0,N,WY
 WYY,WidePoint Corporation Common Stock,WidePoint Corporation Common Stock,A,WYY,N,100.0,N,WYY
+WZRD,ETF Opportunities Trust Opportunistic Trader ETF,ETF Opportunities Trust Opportunistic Trader ETF,Z,WZRD,Y,100.0,N,WZRD
 XAPR,SHL Telemedicine Ltd FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,SHL Telemedicine Ltd FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April,Z,XAPR,Y,100.0,N,XAPR
 XAR,SPDR S&P Aerospace & Defense ETF,SPDR S&P Aerospace & Defense ETF,P,XAR,Y,100.0,N,XAR
 XAUG,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August,Z,XAUG,Y,100.0,N,XAUG
