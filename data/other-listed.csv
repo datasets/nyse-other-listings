@@ -147,7 +147,6 @@ AI,"C3.ai, Inc. Class A Common Stock","C3.ai, Inc. Class A Common Stock",N,AI,N,
 AIBD,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bear 2X Shares,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bear 2X Shares,P,AIBD,Y,100.0,N,AIBD
 AIBU,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bull 2X Shares,P,AIBU,Y,100.0,N,AIBU
 AIEQ,Amplify ETF Trust Amplify AI Powered Equity ETF,Amplify ETF Trust Amplify AI Powered Equity ETF,P,AIEQ,Y,100.0,N,AIEQ
-AIFD,TCW Artificial Intelligence ETF,TCW Artificial Intelligence ETF,N,AIFD,Y,100.0,N,AIFD
 AIG,"American International Group, Inc. New Common Stock","American International Group, Inc. New Common Stock",N,AIG,N,100.0,N,AIG
 AII,"American Integrity Insurance Group, Inc. Common Stock","American Integrity Insurance Group, Inc. Common Stock",N,AII,N,100.0,N,AII
 AIM,AIM ImmunoTech Inc. Common Stock,AIM ImmunoTech Inc. Common Stock,A,AIM,N,100.0,N,AIM
@@ -2581,7 +2580,6 @@ GROZ,Zacks Trust Zacks Focus Growth ETF,Zacks Trust Zacks Focus Growth ETF,Z,GRO
 GRP.U,Granite Real Estate Inc. Units,Granite Real Estate Inc. Units,N,GRP.U,N,100.0,N,GRP=
 GRPM,Invesco S&P MidCap 400 GARP ETF,Invesco S&P MidCap 400 GARP ETF,P,GRPM,Y,100.0,N,GRPM
 GRPZ,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap 600 GARP ETF,P,GRPZ,Y,100.0,N,GRPZ
-GRW,TCW Compounders ETF,TCW Compounders ETF,N,GRW,Y,100.0,N,GRW
 GRX,The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest,The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest,N,GRX,N,100.0,N,GRX
 GS,"Goldman Sachs Group, Inc. (The) Common Stock","Goldman Sachs Group, Inc. (The) Common Stock",N,GS,N,100.0,N,GS
 GS$A,"Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non","Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series A",N,GSpA,N,100.0,N,GS-A
@@ -4735,7 +4733,6 @@ PW$A,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,Power REIT 7
 PWB,Invesco Large Cap Growth ETF,Invesco Large Cap Growth ETF,P,PWB,Y,100.0,N,PWB
 PWER,Macquarie ETF Trust Macquarie Energy Transition ETF,Macquarie ETF Trust Macquarie Energy Transition ETF,P,PWER,Y,100.0,N,PWER
 PWR,"Quanta Services, Inc. Common Stock","Quanta Services, Inc. Common Stock",N,PWR,N,100.0,N,PWR
-PWRD,TCW Transform Systems ETF,TCW Transform Systems ETF,N,PWRD,Y,100.0,N,PWRD
 PWS,Pacer WealthShield ETF ,Pacer WealthShield ETF ,Z,PWS,Y,100.0,N,PWS
 PWV,Invesco Large Cap Value ETF,Invesco Large Cap Value ETF,P,PWV,Y,100.0,N,PWV
 PWZ,Invesco California AMT,Invesco California AMT-Free Municipal Bond Portfolio,P,PWZ,Y,100.0,N,PWZ
@@ -4851,6 +4848,7 @@ RAYC,Rayliant Quantamental China Equity ETF,Rayliant Quantamental China Equity E
 RAYD,The Advisors' Inner Circle Fund III Rayliant Quantitative Developed Market Equity ETF,The Advisors' Inner Circle Fund III Rayliant Quantitative Developed Market Equity ETF,P,RAYD,Y,100.0,N,RAYD
 RAYE,Rayliant Quantamental Emerging Market ex,Rayliant Quantamental Emerging Market ex-China Equity ETF,P,RAYE,Y,100.0,N,RAYE
 RAYJ,The Advisors' Inner Circle Fund III Rayliant SMDAM Japan Equity ETF,The Advisors' Inner Circle Fund III Rayliant SMDAM Japan Equity ETF,P,RAYJ,Y,100.0,N,RAYJ
+RB,ProShares Trust ProShares Russell 2000 Dynamic Buffer ETF,ProShares Trust ProShares Russell 2000 Dynamic Buffer ETF,Z,RB,Y,100.0,N,RB
 RBA,"RB Global, Inc. Common Stock","RB Global, Inc. Common Stock",N,RBA,N,100.0,N,RBA
 RBC,RBC Bearings Incorporated Common Stock,RBC Bearings Incorporated Common Stock,N,RBC,N,100.0,N,RBC
 RBLD,First Trust Alerian US NextGen Infrastructure ETF,First Trust Alerian US NextGen Infrastructure ETF,P,RBLD,Y,100.0,N,RBLD
@@ -5578,7 +5576,6 @@ SUB,iShares Short,iShares Short-Term National Muni Bond ETF,P,SUB,Y,100.0,N,SUB
 SUI,"Sun Communities, Inc. Common Stock","Sun Communities, Inc. Common Stock",N,SUI,N,100.0,N,SUI
 SUN,Sunoco LP Common Units representing limited partner interests,Sunoco LP Common Units representing limited partner interests,N,SUN,N,100.0,N,SUN
 SUPL,ProShares Trust ProShares Supply Chain Logistics ETF,ProShares Trust ProShares Supply Chain Logistics ETF,P,SUPL,Y,100.0,N,SUPL
-SUPP,TCW Transform Supply Chain ETF,TCW Transform Supply Chain ETF,N,SUPP,Y,100.0,N,SUPP
 SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,N,SUPV,N,100.0,N,SUPV
 SURE,AdvisorShares Insider Advantage ETF,AdvisorShares Insider Advantage ETF,P,SURE,Y,100.0,N,SURE
 SURI,Simplify Exchange Traded Funds Simplify Propel Opportunities ETF,Simplify Exchange Traded Funds Simplify Propel Opportunities ETF,P,SURI,Y,100.0,N,SURI
@@ -6167,7 +6164,6 @@ VOO,Vanguard S&P 500 ETF,Vanguard S&P 500 ETF,P,VOO,Y,100.0,N,VOO
 VOOG,Vanguard S&P 500 Growth ETF,Vanguard S&P 500 Growth ETF,P,VOOG,Y,100.0,N,VOOG
 VOOV,Vanguard S&P 500 Value ETF,Vanguard S&P 500 Value ETF,P,VOOV,Y,100.0,N,VOOV
 VOT,Vanguard Mid,Vanguard Mid-Cap Growth ETF,P,VOT,Y,100.0,N,VOT
-VOTE,TCW Transform 500 ETF,TCW Transform 500 ETF,N,VOTE,Y,100.0,N,VOTE
 VOX,Vanguard Communication Services  ETF,Vanguard Communication Services  ETF,P,VOX,Y,100.0,N,VOX
 VOYA,"Voya Financial, Inc. Common Stock","Voya Financial, Inc. Common Stock",N,VOYA,N,100.0,N,VOYA
 VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed","Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",N,VOYApB,N,100.0,N,VOYA-B
@@ -6303,7 +6299,7 @@ WNC,Wabash National Corporation Common Stock,Wabash National Corporation Common 
 WNS,WNS (Holdings) Limited Ordinary Shares,WNS (Holdings) Limited Ordinary Shares,N,WNS,N,100.0,N,WNS
 WNTR,Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF,Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF,P,WNTR,Y,100.0,N,WNTR
 WOLF,"Wolfspeed, Inc. Common Stock","Wolfspeed, Inc. Common Stock",N,WOLF,N,100.0,N,WOLF
-WOMN,Impact Shares Trust I ETF Impact Shares YWCA Womenas Empowerment ETF,Impact Shares Trust I ETF Impact Shares YWCA Womenas Empowerment ETF,P,WOMN,Y,100.0,N,WOMN
+WOMN,Tidal Trust III Impact Shares Women's Empowerment ETF,Tidal Trust III Impact Shares Women's Empowerment ETF,P,WOMN,Y,100.0,N,WOMN
 WOR,"Worthington Enterprises, Inc. Common Shares","Worthington Enterprises, Inc. Common Shares",N,WOR,N,100.0,N,WOR
 WOW,"WideOpenWest, Inc. Common Stock","WideOpenWest, Inc. Common Stock",N,WOW,N,100.0,N,WOW
 WPC,W. P. Carey Inc. REIT,W. P. Carey Inc. REIT,N,WPC,N,100.0,N,WPC
