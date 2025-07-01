@@ -361,7 +361,6 @@ ATFV,Alger 35 ETF,Alger 35 ETF,P,ATFV,Y,100.0,N,ATFV
 ATGE,Adtalem Global Education Inc. Common Stock,Adtalem Global Education Inc. Common Stock,N,ATGE,N,100.0,N,ATGE
 ATH$A,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.35% Fixed","Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.35% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Share, Series A",N,ATHpA,N,100.0,N,ATH-A
 ATH$B,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 5.625% Fixed Rate Perpetual Non","Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 5.625% Fixed Rate Perpetual Non- Cumulative Preference Share, Series B, par value $1.00 per share",N,ATHpB,N,100.0,N,ATH-B
-ATH$C,"Athene Holding Ltd. Depositary Shares, each representing a 1/1,000th Interest in a Share of 6.375% Fixed","Athene Holding Ltd. Depositary Shares, each representing a 1/1,000th Interest in a Share of 6.375% Fixed-Rate Reset Perpetual Non-Cumulative Preference Shares, Series C",N,ATHpC,N,100.0,N,ATH-C
 ATH$D,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed","Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed-Rate Perpetual Non-Cumulative Preference Share, Series D",N,ATHpD,N,100.0,N,ATH-D
 ATH$E,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.750% Fixed","Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.750% Fixed-Rate Reset Perpetual Non-Cumulative Preference Share, Series E",N,ATHpE,N,100.0,N,ATH-E
 ATHM,"Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.","Autohome Inc. American Depositary Shares, each representing four class A ordinary shares.",N,ATHM,N,100.0,N,ATHM
@@ -1992,6 +1991,7 @@ FAZ,Direxion Financial Bear 3X Shares,Direxion Financial Bear 3X Shares,P,FAZ,Y,
 FB,ProShares Trust ProShares S&P 500 Dynamic Buffer ETF,ProShares Trust ProShares S&P 500 Dynamic Buffer ETF,Z,FB,Y,100.0,N,FB
 FBCG,Fidelity Blue Chip Growth ETF,Fidelity Blue Chip Growth ETF,Z,FBCG,Y,100.0,N,FBCG
 FBCV,Fidelity Blue Chip Value ETF,Fidelity Blue Chip Value ETF,Z,FBCV,Y,100.0,N,FBCV
+FBDC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Confluence BDC & Specialty Finance Income ETF,P,FBDC,Y,100.0,N,FBDC
 FBIN,"Fortune Brands Innovations, Inc. Common Stock","Fortune Brands Innovations, Inc. Common Stock",N,FBIN,N,100.0,N,FBIN
 FBK,FB Financial Corporation Common Stock,FB Financial Corporation Common Stock,N,FBK,N,100.0,N,FBK
 FBND,Fidelity Total Bond ETF,Fidelity Total Bond ETF,P,FBND,Y,100.0,N,FBND
@@ -2089,7 +2089,6 @@ FFSM,Fidelity Fundamental Small,Fidelity Fundamental Small-Mid Cap ETF,Z,FFSM,Y,
 FFTY,Innovator IBD 50 ETF,Innovator IBD 50 ETF,P,FFTY,Y,100.0,N,FFTY
 FFWM,First Foundation Inc. Common Stock,First Foundation Inc. Common Stock,N,FFWM,N,100.0,N,FFWM
 FG,"F&G Annuities & Life, Inc. Common Stock","F&G Annuities & Life, Inc. Common Stock",N,FG,N,100.0,N,FG
-FGB,First Trust Specialty Finance and Financial Opportunities Fund,First Trust Specialty Finance and Financial Opportunities Fund,N,FGB,N,100.0,N,FGB
 FGD,First Trust DJ Global Select Dividend,First Trust DJ Global Select Dividend,P,FGD,Y,100.0,N,FGD
 FGDL,Franklin Templeton Holdings Trust Franklin Responsibly Sourced Gold ETF,Franklin Templeton Holdings Trust Franklin Responsibly Sourced Gold ETF,P,FGDL,Y,100.0,N,FGDL
 FGN,"F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053","F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",N,FGN,N,100.0,N,FGN
@@ -2304,7 +2303,6 @@ FTRB,Federated Hermes ETF Trust Federated Hermes Total Return Bond ETF,Federated
 FTS,Fortis Inc. Common Shares,Fortis Inc. Common Shares,N,FTS,N,100.0,N,FTS
 FTSD,Franklin Short Duration U.S. Government ETF,Franklin Short Duration U.S. Government ETF,P,FTSD,Y,100.0,N,FTSD
 FTV,Fortive Corporation Common Stock ,Fortive Corporation Common Stock ,N,FTV,N,100.0,N,FTV
-FTV.V,Fortive Corporation Common Stock When,Fortive Corporation Common Stock When-Issued,N,FTVw,N,100.0,N,FTV#
 FTWO,Strive Natural Resources and Security ETF,Strive Natural Resources and Security ETF,N,FTWO,Y,100.0,N,FTWO
 FUBO,fuboTV Inc. Common Stock,fuboTV Inc. Common Stock,N,FUBO,N,100.0,N,FUBO
 FUL,H. B. Fuller Company Common Stock,H. B. Fuller Company Common Stock,N,FUL,N,100.0,N,FUL
@@ -3269,6 +3267,7 @@ JMM,Nuveen Multi,Nuveen Multi-Market Income Fund (MA),N,JMM,N,100.0,N,JMM
 JMOM,JPMorgan U.S. Momentum Factor ETF,JPMorgan U.S. Momentum Factor ETF,P,JMOM,Y,100.0,N,JMOM
 JMSI,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Sustainable Municipal Income ETF,P,JMSI,Y,100.0,N,JMSI
 JMST,JPMorgan Ultra,JPMorgan Ultra-Short Municipal Income ETF,Z,JMST,Y,100.0,N,JMST
+JMTG,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Mortgage-Backed Securities ETF,P,JMTG,Y,100.0,N,JMTG
 JMUB,JPMorgan Municipal ETF,JPMorgan Municipal ETF,Z,JMUB,Y,100.0,N,JMUB
 JNEU,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped June ETF,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped June ETF,Z,JNEU,Y,100.0,N,JNEU
 JNJ,Johnson & Johnson Common Stock,Johnson & Johnson Common Stock,N,JNJ,N,100.0,N,JNJ
@@ -4286,6 +4285,7 @@ OCTU,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Oct ETF,AIM 
 OCTW,AllianzIM U.S. Large Cap Buffer20 Oct ETF,AllianzIM U.S. Large Cap Buffer20 Oct ETF,P,OCTW,Y,100.0,N,OCTW
 OCTZ,TrueShares Structured Outcome (October) ETF,TrueShares Structured Outcome (October) ETF,Z,OCTZ,Y,100.0,N,OCTZ
 ODC,Oil,Oil-Dri Corporation Of America Common Stock,N,ODC,N,100.0,N,ODC
+ODHY,Spinnaker ETF Series Obra Defensive High Yield ETF,Spinnaker ETF Series Obra Defensive High Yield ETF,P,ODHY,Y,100.0,N,ODHY
 ODV,Osisko Development Corp. Common Shares,Osisko Development Corp. Common Shares,N,ODV,N,100.0,N,ODV
 OEC,Orion S.A. Common Shares,Orion S.A. Common Shares,N,OEC,N,100.0,N,OEC
 OEF,iShares S&P 100 ETF,iShares S&P 100 ETF,P,OEF,Y,100.0,N,OEF
@@ -4725,6 +4725,7 @@ PUMP,ProPetro Holding Corp. Common Stock,ProPetro Holding Corp. Common Stock,N,P
 PUSH,PGIM ETF Trust PGIM Ultra Short Municipal Bond ETF,PGIM ETF Trust PGIM Ultra Short Municipal Bond ETF,P,PUSH,Y,100.0,N,PUSH
 PUTD,Cboe Validus S&P 500 Dynamic PutWrite Index ETF,Cboe Validus S&P 500 Dynamic PutWrite Index ETF,Z,PUTD,Y,100.0,N,PUTD
 PVAL,Putnam Focused Large Cap Value ETF,Putnam Focused Large Cap Value ETF,P,PVAL,Y,100.0,N,PVAL
+PVEX,Elevation Series Trust TrueShares ConVex Protect ETF,Elevation Series Trust TrueShares ConVex Protect ETF,Z,PVEX,Y,100.0,N,PVEX
 PVH,PVH Corp. Common Stock,PVH Corp. Common Stock,N,PVH,N,100.0,N,PVH
 PVI,Invesco Floating Rate Municipal Income ETF,Invesco Floating Rate Municipal Income ETF,P,PVI,Y,100.0,N,PVI
 PVL,Permianville Royalty Trust Trust Units ,Permianville Royalty Trust Trust Units ,N,PVL,N,100.0,N,PVL
@@ -4840,7 +4841,7 @@ RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share
 RAC.W,"Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,RAC.WS,N,100.0,N,RAC+
 RACE,Ferrari N.V. Common Shares,Ferrari N.V. Common Shares,N,RACE,N,100.0,N,RACE
 RAFE,PIMCO RAFI ESG U.S. ETF,PIMCO RAFI ESG U.S. ETF,P,RAFE,Y,100.0,N,RAFE
-RAL.V,Ralliant Corporation Common Stock When,Ralliant Corporation Common Stock When-Issued,N,RALw,N,100.0,N,RAL#
+RAL,Ralliant Corporation Common Stock,Ralliant Corporation Common Stock,N,RAL,N,100.0,N,RAL
 RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stock",N,RAMP,N,100.0,N,RAMP
 RATE,Global X Funds Global X Interest Rate Hedge ETF,Global X Funds Global X Interest Rate Hedge ETF,P,RATE,Y,100.0,N,RATE
 RAVI,FlexShares Ultra,FlexShares Ultra-Short Income Fund,P,RAVI,Y,100.0,N,RAVI
@@ -5206,7 +5207,7 @@ SECR,NYLI MacKay Securitized Income ETF,NYLI MacKay Securitized Income ETF,P,SEC
 SECT,Northern Lights Fund Trust IV Main Sector Rotation ETF,Northern Lights Fund Trust IV Main Sector Rotation ETF,Z,SECT,Y,100.0,N,SECT
 SEE,Sealed Air Corporation Common Stock,Sealed Air Corporation Common Stock,N,SEE,N,100.0,N,SEE
 SEF,ProShares Short Financials,ProShares Short Financials,P,SEF,Y,100.0,N,SEF
-SEG,Seaport Entertainment Group Inc. Common Stock,Seaport Entertainment Group Inc. Common Stock,A,SEG,N,100.0,N,SEG
+SEG,Seaport Entertainment Group Inc. Common Stock,Seaport Entertainment Group Inc. Common Stock,N,SEG,N,100.0,N,SEG
 SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock","Solaris Energy Infrastructure, Inc. Class A Common Stock",N,SEI,N,100.0,N,SEI
 SEIM,SEI Enhanced U.S. Large Cap Momentum Factor ETF,SEI Enhanced U.S. Large Cap Momentum Factor ETF,Z,SEIM,Y,100.0,N,SEIM
 SEIQ,SEI Enhanced U.S. Large Cap Quality Factor ETF,SEI Enhanced U.S. Large Cap Quality Factor ETF,Z,SEIQ,Y,100.0,N,SEIQ

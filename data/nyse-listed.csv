@@ -221,7 +221,6 @@ ATEN,"A10 Networks, Inc. Common Stock"
 ATGE,Adtalem Global Education Inc. Common Stock
 ATH$A,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.35% Fixed"
 ATH$B,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 5.625% Fixed Rate Perpetual Non"
-ATH$C,"Athene Holding Ltd. Depositary Shares, each representing a 1/1,000th Interest in a Share of 6.375% Fixed"
 ATH$D,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed"
 ATH$E,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.750% Fixed"
 ATHM,"Autohome Inc. American Depositary Shares, each representing four class A ordinary shares."
@@ -1014,7 +1013,6 @@ FFA,First Trust Enhanced Equity Income Fund
 FFC,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated
 FFWM,First Foundation Inc. Common Stock
 FG,"F&G Annuities & Life, Inc. Common Stock"
-FGB,First Trust Specialty Finance and Financial Opportunities Fund
 FGN,"F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053"
 FGSN,"F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065"
 FHI,"Federated Hermes, Inc. Common Stock"
@@ -1079,7 +1077,6 @@ FTI,TechnipFMC plc Ordinary Share
 FTK,"Flotek Industries, Inc. Common Stock"
 FTS,Fortis Inc. Common Shares
 FTV,Fortive Corporation Common Stock 
-FTV.V,Fortive Corporation Common Stock When
 FTWO,Strive Natural Resources and Security ETF
 FUBO,fuboTV Inc. Common Stock
 FUL,H. B. Fuller Company Common Stock
@@ -2163,7 +2160,7 @@ RAC,Rithm Acquisition Corp. Class A Ordinary Shares
 RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one
 RAC.W,"Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 RACE,Ferrari N.V. Common Shares
-RAL.V,Ralliant Corporation Common Stock When
+RAL,Ralliant Corporation Common Stock
 RAMP,"LiveRamp Holdings, Inc. Common Stock"
 RBA,"RB Global, Inc. Common Stock"
 RBC,RBC Bearings Incorporated Common Stock
@@ -2325,6 +2322,7 @@ SE,"Sea Limited American Depositary Shares, each representing one Class A Ordina
 SEAL$A,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units
 SEAL$B,Seapeak LLC 8.50% Series B Fixed
 SEE,Sealed Air Corporation Common Stock
+SEG,Seaport Entertainment Group Inc. Common Stock
 SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock"
 SEM,Select Medical Holdings Corporation Common Stock
 SEMR,"SEMrush Holdings, Inc. Class A Common Stock"
