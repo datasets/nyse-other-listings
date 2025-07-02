@@ -82,6 +82,7 @@ AEF,abrdn Emerging Markets ex,"abrdn Emerging Markets ex-China Fund, Inc. Common
 AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,N,AEFC,N,100.0,N,AEFC
 AEG,Aegon Ltd. New York Registry Shares,Aegon Ltd. New York Registry Shares,N,AEG,N,100.0,N,AEG
 AEM,Agnico Eagle Mines Limited Common Stock,Agnico Eagle Mines Limited Common Stock,N,AEM,N,100.0,N,AEM
+AEMS,Two Roads Shared Trust Anfield Enhanced Market ETF,Two Roads Shared Trust Anfield Enhanced Market ETF,Z,AEMS,Y,100.0,N,AEMS
 AEO,"American Eagle Outfitters, Inc. Common Stock","American Eagle Outfitters, Inc. Common Stock",N,AEO,N,100.0,N,AEO
 AEON,"AEON Biopharma, Inc. Class A Common Stock","AEON Biopharma, Inc. Class A Common Stock",A,AEON,N,100.0,N,AEON
 AER,AerCap Holdings N.V. Ordinary Shares,AerCap Holdings N.V. Ordinary Shares,N,AER,N,100.0,N,AER
@@ -125,7 +126,6 @@ AGQI,First Trust Exchange,First Trust Exchange-Traded Fund VIII First Trust Acti
 AGRH,iShares U.S. ETF Trust iShares Interest Rate Hedged U.S. Aggregate Bond ETF,iShares U.S. ETF Trust iShares Interest Rate Hedged U.S. Aggregate Bond ETF,P,AGRH,Y,100.0,N,AGRH
 AGRO,Adecoagro S.A. Common Shares,Adecoagro S.A. Common Shares,N,AGRO,N,100.0,N,AGRO
 AGRW,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring LT Large Growth ETF,P,AGRW,Y,100.0,N,AGRW
-AGS,"PlayAGS, Inc. Common Stock","PlayAGS, Inc. Common Stock",N,AGS,N,100.0,N,AGS
 AGX,"Argan, Inc. Common Stock","Argan, Inc. Common Stock",N,AGX,N,100.0,N,AGX
 AGZ,iShares  Agency Bond ETF,iShares  Agency Bond ETF,P,AGZ,Y,100.0,N,AGZ
 AHH,"Armada Hoffler Properties, Inc. Common Stock","Armada Hoffler Properties, Inc. Common Stock",N,AHH,N,100.0,N,AHH
@@ -153,6 +153,7 @@ AIM,AIM ImmunoTech Inc. Common Stock,AIM ImmunoTech Inc. Common Stock,A,AIM,N,10
 AIN,Albany International Corporation Common Stock,Albany International Corporation Common Stock,N,AIN,N,100.0,N,AIN
 AINP,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring Income Plus ETF,P,AINP,Y,100.0,N,AINP
 AIO,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,N,AIO,N,100.0,N,AIO
+AIOO,AIM ETF Products Trust AllianzIM U.S. Equity Buffer100 Protection ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer100 Protection ETF,Z,AIOO,Y,100.0,N,AIOO
 AIR,AAR Corp. Common Stock,AAR Corp. Common Stock,N,AIR,N,100.0,N,AIR
 AIRI,Air Industries Group Common Stock,Air Industries Group Common Stock,A,AIRI,N,100.0,N,AIRI
 AIS,Tidal Trust III VistaShares Artificial Intelligence Supercycle ETF,Tidal Trust III VistaShares Artificial Intelligence Supercycle ETF,P,AIS,Y,100.0,N,AIS
@@ -439,7 +440,6 @@ AXS,Axis Capital Holdings Limited Common Stock,Axis Capital Holdings Limited Com
 AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares","Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",N,AXSpE,N,100.0,N,AXS-E
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
 AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,100.0,N,AYI
-AZEK,The AZEK Company Inc. Class A Common Stock,The AZEK Company Inc. Class A Common Stock,N,AZEK,N,100.0,N,AZEK
 AZNH,Precidian ETFs Trust AstraZeneca PLC ADRhedged,Precidian ETFs Trust AstraZeneca PLC ADRhedged,P,AZNH,Y,100.0,N,AZNH
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,100.0,N,AZO
 AZTD,Aztlan Global Stock Selection DM SMID ETF,Aztlan Global Stock Selection DM SMID ETF,P,AZTD,Y,100.0,N,AZTD
@@ -587,6 +587,7 @@ BFAP,First Trust Exchange,First Trust Exchange-Traded Fund FT Vest Bitcoin Strat
 BFEB,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - February,Z,BFEB,Y,100.0,N,BFEB
 BFH,"Bread Financial Holdings, Inc. Common Stock","Bread Financial Holdings, Inc. Common Stock",N,BFH,N,100.0,N,BFH
 BFIX,Build Funds Trust Build Bond Innovation ETF,Build Funds Trust Build Bond Innovation ETF,P,BFIX,Y,100.0,N,BFIX
+BFJL,First Trust Exchange,First Trust Exchange-Traded Fund FT Vest Bitcoin Strategy Floor15 ETF   July,P,BFJL,Y,100.0,N,BFJL
 BFK,BlackRock Municipal Income Trust,BlackRock Municipal Income Trust,N,BFK,N,100.0,N,BFK
 BFLY,"Butterfly Network, Inc. Class A Common Stock","Butterfly Network, Inc. Class A Common Stock",N,BFLY,N,100.0,N,BFLY
 BFLY.W,"Butterfly Network, Inc. Warrants","Butterfly Network, Inc. Warrants",N,BFLY.WS,N,100.0,N,BFLY+
@@ -765,7 +766,6 @@ BP,BP p.l.c. Common Stock,BP p.l.c. Common Stock,N,BP,N,100.0,N,BP
 BPAY,iShares FinTech Active ETF,iShares FinTech Active ETF,P,BPAY,Y,100.0,N,BPAY
 BPH,Precidian ETFs Trust BP plc ADRhedged,Precidian ETFs Trust BP plc ADRhedged,P,BPH,Y,100.0,N,BPH
 BPI,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,P,BPI,Y,100.0,N,BPI
-BPT,BP Prudhoe Bay Royalty Trust Common Stock,BP Prudhoe Bay Royalty Trust Common Stock,N,BPT,N,100.0,N,BPT
 BQ,Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares),Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares),A,BQ,N,100.0,N,BQ
 BR,"Broadridge Financial Solutions, Inc. Common Stock","Broadridge Financial Solutions, Inc. Common Stock",N,BR,N,100.0,N,BR
 BRAZ,Global X Funds Global X Brazil Active ETF,Global X Funds Global X Brazil Active ETF,P,BRAZ,Y,100.0,N,BRAZ
@@ -1366,11 +1366,13 @@ DD,"DuPont de Nemours, Inc. Common Stock","DuPont de Nemours, Inc. Common Stock"
 DDC,DDC Enterprise Limited Class A Ordinary Shares,DDC Enterprise Limited Class A Ordinary Shares,A,DDC,N,100.0,N,DDC
 DDD,3D Systems Corporation Common Stock,3D Systems Corporation Common Stock,N,DDD,N,100.0,N,DDD
 DDEC,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - December,Z,DDEC,Y,100.0,N,DDEC
+DDFL,Innovator ETFs Trust Innovator Equity Dual Directional 15 Buffer ETF ,Innovator ETFs Trust Innovator Equity Dual Directional 15 Buffer ETF - July,Z,DDFL,Y,100.0,N,DDFL
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),N,DDL,N,100.0,N,DDL
 DDLS,WisdomTree Dynamic International SmallCap Equity Fund,WisdomTree Dynamic International SmallCap Equity Fund,Z,DDLS,Y,100.0,N,DDLS
 DDM,ProShares Ultra Dow30,ProShares Ultra Dow30,P,DDM,Y,100.0,N,DDM
 DDS,"Dillard's, Inc. Common Stock","Dillard's, Inc. Common Stock",N,DDS,N,100.0,N,DDS
 DDT,Dillard's Capital Trust I,Dillard's Capital Trust I,N,DDT,N,100.0,N,DDT
+DDTL,Innovator ETFs Trust Innovator Equity Dual Directional 10 Buffer ETF ,Innovator ETFs Trust Innovator Equity Dual Directional 10 Buffer ETF - July,Z,DDTL,Y,100.0,N,DDTL
 DDWM,WisdomTree Dynamic International Equity Fund,WisdomTree Dynamic International Equity Fund,Z,DDWM,Y,100.0,N,DDWM
 DE,Deere & Company Common Stock,Deere & Company Common Stock,N,DE,N,100.0,N,DE
 DEA,"Easterly Government Properties, Inc. Common Stock","Easterly Government Properties, Inc. Common Stock",N,DEA,N,100.0,N,DEA
@@ -1926,7 +1928,6 @@ EVM,"Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Inte
 EVN,Eaton Vance Municipal Income Trust Common Stock,Eaton Vance Municipal Income Trust Common Stock,N,EVN,N,100.0,N,EVN
 EVNT,AltShares Event,AltShares Event-Driven ETF,P,EVNT,Y,100.0,N,EVNT
 EVR,Evercore Inc. Class A Common Stock,Evercore Inc. Class A Common Stock,N,EVR,N,100.0,N,EVR
-EVRI,Everi Holdings Inc. Common Stock,Everi Holdings Inc. Common Stock,N,EVRI,N,100.0,N,EVRI
 EVSB,Morgan Stanley ETF Trust Eaton Vance Ultra,Morgan Stanley ETF Trust Eaton Vance Ultra-Short Income ETF,P,EVSB,Y,100.0,N,EVSB
 EVSM,Morgan Stanley ETF Trust Eaton Vance Short Duration Municipal Income ETF,Morgan Stanley ETF Trust Eaton Vance Short Duration Municipal Income ETF,P,EVSM,Y,100.0,N,EVSM
 EVT,Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,N,EVT,N,100.0,N,EVT
@@ -2509,7 +2510,7 @@ GMRE,Global Medical REIT Inc. Common Stock,Global Medical REIT Inc. Common Stock
 GMRE$A,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,N,GMREpA,N,100.0,N,GMRE-A
 GMS,GMS Inc. Common Stock,GMS Inc. Common Stock,N,GMS,N,100.0,N,GMS
 GMUB,Goldman Sachs ETF Trust Goldman Sachs Municipal Income ETF,Goldman Sachs ETF Trust Goldman Sachs Municipal Income ETF,P,GMUB,Y,100.0,N,GMUB
-GMUN,Goldman Sachs ETF Trust Goldman Sachs Community Municipal Bond ETF,Goldman Sachs ETF Trust Goldman Sachs Community Municipal Bond ETF,P,GMUN,Y,100.0,N,GMUN
+GMUN,Goldman Sachs Access Municipal Bond ETF,Goldman Sachs Access Municipal Bond ETF,P,GMUN,Y,100.0,N,GMUN
 GNE,Genie Energy Ltd. Class B Common Stock Stock,Genie Energy Ltd. Class B Common Stock Stock,N,GNE,N,100.0,N,GNE
 GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),N,GNK,N,100.0,N,GNK
 GNL,"Global Net Lease, Inc. Common Stock","Global Net Lease, Inc. Common Stock",N,GNL,N,100.0,N,GNL
@@ -2680,6 +2681,7 @@ HDUS,Lattice Strategies Trust Hartford Disciplined US Equity ETF,Lattice Strateg
 HDV,iShares Core High Dividend ETF,iShares Core High Dividend ETF,P,HDV,Y,100.0,N,HDV
 HE,"Hawaiian Electric Industries, Inc. Common Stock","Hawaiian Electric Industries, Inc. Common Stock",N,HE,N,100.0,N,HE
 HEAT,Touchstone ETF Trust Touchstone Climate Transition ETF,Touchstone ETF Trust Touchstone Climate Transition ETF,Z,HEAT,Y,100.0,N,HEAT
+HECA,ETF Opportunities Trust Hedgeye Capital Allocation ETF,ETF Opportunities Trust Hedgeye Capital Allocation ETF,P,HECA,Y,100.0,N,HECA
 HEDJ,WisdomTree Europe Hedged Equity Fund,WisdomTree Europe Hedged Equity Fund,P,HEDJ,Y,100.0,N,HEDJ
 HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,iShares Currency Hedged MSCI Emerging Markets ETF,Z,HEEM,Y,100.0,N,HEEM
 HEFA,iShares Currency Hedged MSCI EAFE ETF,iShares Currency Hedged MSCI EAFE ETF,Z,HEFA,Y,100.0,N,HEFA
@@ -3250,7 +3252,7 @@ JHMU,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock 
 JHPI,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock Preferred Income ETF,P,JHPI,Y,100.0,N,JHPI
 JHS,John Hancock Income Securities Trust Common Stock,John Hancock Income Securities Trust Common Stock,N,JHS,N,100.0,N,JHS
 JHSC,John Hancock Multifactor Small Cap ETF,John Hancock Multifactor Small Cap ETF,P,JHSC,Y,100.0,N,JHSC
-JHX,James Hardie Industries plc American Depositary Shares (Ireland),James Hardie Industries plc American Depositary Shares (Ireland),N,JHX,N,100.0,N,JHX
+JHX,James Hardie Industries plc. Ordinary Shares,James Hardie Industries plc. Ordinary Shares,N,JHX,N,100.0,N,JHX
 JIG,JPMorgan International Growth ETF,JPMorgan International Growth ETF,P,JIG,Y,100.0,N,JIG
 JIII,Janus Detroit Street Trust Janus Henderson Income ETF,Janus Detroit Street Trust Janus Henderson Income ETF,P,JIII,Y,100.0,N,JIII
 JILL,"J. Jill, Inc. Common Stock","J. Jill, Inc. Common Stock",N,JILL,N,100.0,N,JILL
@@ -4586,6 +4588,7 @@ PMF,PIMCO Municipal Income Fund Common Stock,PIMCO Municipal Income Fund Common 
 PMFB,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - February,Z,PMFB,Y,100.0,N,PMFB
 PMIO,PGIM ETF Trust PGIM Municipal Income Opportunities ETF,PGIM ETF Trust PGIM Municipal Income Opportunities ETF,P,PMIO,Y,100.0,N,PMIO
 PMJA,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - January,Z,PMJA,Y,100.0,N,PMJA
+PMJL,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - July,Z,PMJL,Y,100.0,N,PMJL
 PMJN,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - June,Z,PMJN,Y,100.0,N,PMJN
 PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,N,PML,N,100.0,N,PML
 PMM,Putnam Managed Municipal Income Trust Common Stock,Putnam Managed Municipal Income Trust Common Stock,N,PMM,N,100.0,N,PMM
@@ -4754,6 +4757,7 @@ QAI,NYLI Hedge Multi,NYLI Hedge Multi-Strategy Tracker ETF,P,QAI,Y,100.0,N,QAI
 QARP,Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF,Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF,P,QARP,Y,100.0,N,QARP
 QBER,Elevation Series Trust TrueShares Quarterly Bear Hedge ETF,Elevation Series Trust TrueShares Quarterly Bear Hedge ETF,Z,QBER,Y,100.0,N,QBER
 QBF,Innovator ETFs Trust Innovator Uncapped Bitcoin 20 Floor ETF ,Innovator ETFs Trust Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly,Z,QBF,Y,100.0,N,QBF
+QBSF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 ETF,Z,QBSF,Y,100.0,N,QBSF
 QBTS,D,D-Wave Quantum Inc. Common Shares,N,QBTS,N,100.0,N,QBTS
 QBTS.W,D,"D-Wave Quantum Inc. Warrants, each whole warrant exercisable for 1.4541326 Common Shares at an exercise price of $11.50",N,QBTS.WS,N,100.0,N,QBTS+
 QBTX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long QBTS Daily ETF,Tradr 2X Long QBTS Daily ETF Tradr 2X Long QBTS Daily ETF,Z,QBTX,Y,100.0,N,QBTX
@@ -5276,7 +5280,7 @@ SHW,Sherwin,Sherwin-Williams Company (The) Common Stock,N,SHW,N,100.0,N,SHW
 SHYD,VanEck ETF Trust VanEck Short High Yield Muni ETF,VanEck ETF Trust VanEck Short High Yield Muni ETF,Z,SHYD,Y,100.0,N,SHYD
 SHYG,iShares 0,iShares 0-5 Year High Yield Corporate Bond ETF,P,SHYG,Y,100.0,N,SHYG
 SHYL,Xtrackers Short Duration High Yield Bond ETF,Xtrackers Short Duration High Yield Bond ETF,P,SHYL,Y,100.0,N,SHYL
-SHYM,iShares High Yield Muni Income Active ETF,iShares High Yield Muni Income Active ETF,Z,SHYM,Y,100.0,N,SHYM
+SHYM,iShares Short Duration High Yield Muni Active ETF,iShares Short Duration High Yield Muni Active ETF,Z,SHYM,Y,100.0,N,SHYM
 SID,Companhia Siderurgica Nacional S.A. Common Stock,Companhia Siderurgica Nacional S.A. Common Stock,N,SID,N,100.0,N,SID
 SIF,"SIFCO Industries, Inc. Common Stock","SIFCO Industries, Inc. Common Stock",A,SIF,N,100.0,N,SIF
 SIFI,Harbor Scientific Alpha Income ETF,Harbor Scientific Alpha Income ETF,P,SIFI,Y,100.0,N,SIFI
@@ -5747,7 +5751,7 @@ TIPZ,PIMCO Broad U.S. TIPS Index Exchange,PIMCO Broad U.S. TIPS Index Exchange-T
 TISI,"Team, Inc. Common Stock","Team, Inc. Common Stock",N,TISI,N,100.0,N,TISI
 TIXT,TELUS International (Cda) Inc. Subordinate Voting Shares,TELUS International (Cda) Inc. Subordinate Voting Shares,N,TIXT,N,100.0,N,TIXT
 TJAN,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 2 Yr to January 2027,Z,TJAN,Y,100.0,N,TJAN
-TJUL,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 2 Yr to July 2025,Z,TJUL,Y,100.0,N,TJUL
+TJUL,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to July 2027,Z,TJUL,Y,100.0,N,TJUL
 TJUN,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - June,Z,TJUN,Y,100.0,N,TJUN
 TJX,"TJX Companies, Inc. (The) Common Stock","TJX Companies, Inc. (The) Common Stock",N,TJX,N,100.0,N,TJX
 TK,Teekay Corporation Ltd. Common Stock,Teekay Corporation Ltd. Common Stock,N,TK,N,100.0,N,TK
