@@ -431,6 +431,7 @@ BRK.A,Berkshire Hathaway Inc. Common Stock
 BRK.B,Berkshire Hathaway Inc. New Common Stock
 BRO,"Brown & Brown, Inc. Common Stock"
 BROS,Dutch Bros Inc. Class A Common Stock
+BRSL,Brightstar Lottery Ordinary Shares
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock"
 BRT,BRT Apartments Corp. (MD) Common Stock
 BRW,Saba Capital Income & Opportunities Fund SBI
@@ -642,6 +643,7 @@ COPL,Copley Acquisition Corp Ordinary Shares
 COPL.U,"Copley Acquisition Corp Units, each consisting of one ordinary share and one"
 COPL.W,"Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 COR,"Cencora, Inc. Common Stock"
+COSO,"CoastalSouth Bancshares, Inc. Common Stock"
 COTY,Coty Inc. Class A Common Stock
 COUR,"Coursera, Inc. Common Stock"
 CP,Canadian Pacific Kansas City Limited Common Shares
@@ -959,6 +961,7 @@ ETW,Eaton Vance Corporation Eaton Vance Tax
 ETWO,"E2open Parent Holdings, Inc.Class A Common Stock"
 ETX,Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest
 ETY,Eaton Vance Tax
+EVAC.U,"EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one"
 EVC,Entravision Communications Corporation Common Stock
 EVEX,"Eve Holding, Inc. Common Stock"
 EVEX.W,"Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share"
@@ -1344,7 +1347,6 @@ IGCB,TCW Corporate Bond ETF
 IGD,Voya Global Equity Dividend and Premium Opportunity Fund
 IGI,Western Asset Investment Grade Opportunity Trust Inc. Common Stock
 IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest
-IGT,International Game Technology Ordinary Shares
 IH,"iHuman Inc. American depositary shares, each representing five Class A ordinary shares"
 IHD,Voya Emerging Markets High Income Dividend Equity Fund Common Shares
 IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)
@@ -1423,7 +1425,6 @@ JLS,Nuveen Mortgage and Income Fund
 JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares"
 JMM,Nuveen Multi
 JNJ,Johnson & Johnson Common Stock
-JNPR,"Juniper Networks, Inc. Common Stock"
 JOBY,"Joby Aviation, Inc. Common Stock"
 JOBY.W,"Joby Aviation, Inc. Warrants"
 JOE,St. Joe Company (The) Common Stock

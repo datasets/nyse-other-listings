@@ -786,6 +786,7 @@ BRLN,iShares Floating Rate Loan Active ETF,iShares Floating Rate Loan Active ETF
 BRN,"Barnwell Industries, Inc. Common Stock","Barnwell Industries, Inc. Common Stock",A,BRN,N,100.0,N,BRN
 BRO,"Brown & Brown, Inc. Common Stock","Brown & Brown, Inc. Common Stock",N,BRO,N,100.0,N,BRO
 BROS,Dutch Bros Inc. Class A Common Stock,Dutch Bros Inc. Class A Common Stock,N,BROS,N,100.0,N,BROS
+BRSL,Brightstar Lottery Ordinary Shares,Brightstar Lottery Ordinary Shares,N,BRSL,N,100.0,N,BRSL
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock","BrightSpire Capital, Inc. Class A Common Stock",N,BRSP,N,100.0,N,BRSP
 BRT,BRT Apartments Corp. (MD) Common Stock,BRT Apartments Corp. (MD) Common Stock,N,BRT,N,100.0,N,BRT
 BRW,Saba Capital Income & Opportunities Fund SBI,Saba Capital Income & Opportunities Fund SBI,N,BRW,N,100.0,N,BRW
@@ -1028,7 +1029,6 @@ CHMI$B,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed,Cherry 
 CHN,"China Fund, Inc. (The) Common Stock","China Fund, Inc. (The) Common Stock",N,CHN,N,100.0,N,CHN
 CHPT,"ChargePoint Holdings, Inc. Common Stock","ChargePoint Holdings, Inc. Common Stock",N,CHPT,N,100.0,N,CHPT
 CHPY,Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF,Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF,P,CHPY,Y,100.0,N,CHPY
-CHRO,Channel Therapeutics Corporation Common Stock,Channel Therapeutics Corporation Common Stock,A,CHRO,N,100.0,N,CHRO
 CHT,"Chunghwa Telecom Co., Ltd.","Chunghwa Telecom Co., Ltd.",N,CHT,N,100.0,N,CHT
 CHWY,"Chewy, Inc. Class A Common Stock","Chewy, Inc. Class A Common Stock",N,CHWY,N,100.0,N,CHWY
 CI,The Cigna Group Common Stock,The Cigna Group Common Stock,N,CI,N,100.0,N,CI
@@ -1166,6 +1166,7 @@ COR,"Cencora, Inc. Common Stock","Cencora, Inc. Common Stock",N,COR,N,100.0,N,CO
 CORN,Teucrium Corn Fund ETV,Teucrium Corn Fund ETV,P,CORN,Y,100.0,N,CORN
 CORP,Pimco Investment Grade Corporate Bond Index Exchange,Pimco Investment Grade Corporate Bond Index Exchange-Traded Fund,P,CORP,Y,100.0,N,CORP
 CORX,Volatility Shares Trust 2x Corn ETF,Volatility Shares Trust 2x Corn ETF,Z,CORX,Y,100.0,N,CORX
+COSO,"CoastalSouth Bancshares, Inc. Common Stock","CoastalSouth Bancshares, Inc. Common Stock",N,COSO,N,100.0,N,COSO
 COTY,Coty Inc. Class A Common Stock,Coty Inc. Class A Common Stock,N,COTY,N,100.0,N,COTY
 COUR,"Coursera, Inc. Common Stock","Coursera, Inc. Common Stock",N,COUR,N,100.0,N,COUR
 COWZ,Pacer US Cash Cows 100 ETF,Pacer US Cash Cows 100 ETF,Z,COWZ,Y,100.0,N,COWZ
@@ -1912,6 +1913,7 @@ EURL,Direxion Daily FTSE Europe Bull 3x Shares,Direxion Daily FTSE Europe Bull 3
 EUSA,iShares MSCI USA Equal Weighted ETF,iShares MSCI USA Equal Weighted ETF,P,EUSA,Y,100.0,N,EUSA
 EUSB,iShares ESG Advanced Total USD Bond Market ETF,iShares ESG Advanced Total USD Bond Market ETF,P,EUSB,Y,100.0,N,EUSB
 EUSM,Strategy Shares Eventide US Market ETF,Strategy Shares Eventide US Market ETF,P,EUSM,Y,100.0,N,EUSM
+EVAC.U,"EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one","EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one-third of one redeemable warrant",N,EVAC.U,N,100.0,N,EVAC=
 EVAV,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,P,EVAV,Y,100.0,N,EVAV
 EVC,Entravision Communications Corporation Common Stock,Entravision Communications Corporation Common Stock,N,EVC,N,100.0,N,EVC
 EVEX,"Eve Holding, Inc. Common Stock","Eve Holding, Inc. Common Stock",N,EVEX,N,100.0,N,EVEX
@@ -2160,7 +2162,6 @@ FLG$U,"Flagstar Financial, Inc. Bifurcated Option Note Unit SecuritiES","Flagsta
 FLGB,Franklin FTSE United Kingdom ETF,Franklin FTSE United Kingdom ETF,P,FLGB,Y,100.0,N,FLGB
 FLGR,Franklin FTSE Germany ETF,Franklin FTSE Germany ETF,P,FLGR,Y,100.0,N,FLGR
 FLGV,Franklin U.S. Treasury Bond ETF,Franklin U.S. Treasury Bond ETF,P,FLGV,Y,100.0,N,FLGV
-FLHK,Franklin FTSE Hong Kong ETF,Franklin FTSE Hong Kong ETF,P,FLHK,Y,100.0,N,FLHK
 FLHY,Franklin High Yield Corporate ETF,Franklin High Yield Corporate ETF,Z,FLHY,Y,100.0,N,FLHY
 FLIA,Franklin International Aggregate Bond ETF,Franklin International Aggregate Bond ETF,Z,FLIA,Y,100.0,N,FLIA
 FLIN,Franklin FTSE India ETF,Franklin FTSE India ETF,P,FLIN,Y,100.0,N,FLIN
@@ -2728,7 +2729,6 @@ HIPS,GraniteShares HIPS US High Income ETF,GraniteShares HIPS US High Income ETF
 HIW,"Highwoods Properties, Inc. Common Stock","Highwoods Properties, Inc. Common Stock",N,HIW,N,100.0,N,HIW
 HIX,Western Asset High Income Fund II Inc. Common Stock,Western Asset High Income Fund II Inc. Common Stock,N,HIX,N,100.0,N,HIX
 HIYS,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco High Yield Select ETF,Z,HIYS,Y,100.0,N,HIYS
-HJUL,SHL Telemedicine Ltd Innovator Premium Income 9 Buffer ETF ,SHL Telemedicine Ltd Innovator Premium Income 9 Buffer ETF - July,Z,HJUL,Y,100.0,N,HJUL
 HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),N,HKD,N,100.0,N,HKD
 HKND,Humankind US Stock ETF,Humankind US Stock ETF,P,HKND,Y,100.0,N,HKND
 HL,Hecla Mining Company Common Stock,Hecla Mining Company Common Stock,N,HL,N,100.0,N,HL
@@ -2963,7 +2963,6 @@ IGME,Bitwise Funds Trust Bitwise GME Option Income Strategy ETF,Bitwise Funds Tr
 IGPT,Invesco AI and Next Gen Software ETF,Invesco AI and Next Gen Software ETF,P,IGPT,Y,100.0,N,IGPT
 IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,N,IGR,N,100.0,N,IGR
 IGRO,iShares International Dividend Growth ETF,iShares International Dividend Growth ETF,Z,IGRO,Y,100.0,N,IGRO
-IGT,International Game Technology Ordinary Shares,International Game Technology Ordinary Shares,N,IGT,N,100.0,N,IGT
 IGTR,Innovator ETFs Trust Innovator Gradient Tactical Rotation Strategy ETF,Innovator ETFs Trust Innovator Gradient Tactical Rotation Strategy ETF,P,IGTR,Y,100.0,N,IGTR
 IGV,iShares Expanded Tech,iShares Expanded Tech-Software Sector ETF,Z,IGV,Y,100.0,N,IGV
 IH,"iHuman Inc. American depositary shares, each representing five Class A ordinary shares","iHuman Inc. American depositary shares, each representing five Class A ordinary shares",N,IH,N,100.0,N,IH
@@ -3274,7 +3273,6 @@ JMUB,JPMorgan Municipal ETF,JPMorgan Municipal ETF,Z,JMUB,Y,100.0,N,JMUB
 JNEU,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped June ETF,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped June ETF,Z,JNEU,Y,100.0,N,JNEU
 JNJ,Johnson & Johnson Common Stock,Johnson & Johnson Common Stock,N,JNJ,N,100.0,N,JNJ
 JNK,SPDR Bloomberg High Yield Bond ETF,SPDR Bloomberg High Yield Bond ETF,P,JNK,Y,100.0,N,JNK
-JNPR,"Juniper Networks, Inc. Common Stock","Juniper Networks, Inc. Common Stock",N,JNPR,N,100.0,N,JNPR
 JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,Direxion Daily Junior Gold Miners Index Bull 2X Shares,P,JNUG,Y,100.0,N,JNUG
 JOB,GEE Group Inc. Common Stock,GEE Group Inc. Common Stock,A,JOB,N,100.0,N,JOB
 JOBY,"Joby Aviation, Inc. Common Stock","Joby Aviation, Inc. Common Stock",N,JOBY,N,100.0,N,JOBY
@@ -3317,12 +3315,10 @@ JSCP,JPMorgan Short Duration Core Plus ETF,JPMorgan Short Duration Core Plus ETF
 JSI,Janus Detroit Street Trust Janus Henderson Securitized Income ETF,Janus Detroit Street Trust Janus Henderson Securitized Income ETF,P,JSI,Y,100.0,N,JSI
 JSTC,Adasina Social Justice All Cap Global ETF,Adasina Social Justice All Cap Global ETF,P,JSTC,Y,100.0,N,JSTC
 JUCY,ETF Series Solutions Aptus Enhanced Yield ETF,ETF Series Solutions Aptus Enhanced Yield ETF,Z,JUCY,Y,100.0,N,JUCY
-JULD,Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF - July,Z,JULD,Y,100.0,N,JULD
 JULH,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - July,Z,JULH,Y,100.0,N,JULH
 JULJ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - July,Z,JULJ,Y,100.0,N,JULJ
 JULM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - July,Z,JULM,Y,100.0,N,JULM
 JULP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - July,Z,JULP,Y,100.0,N,JULP
-JULQ,Innovator ETFs Trust Innovator Premium Income 40 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 40 Barrier ETF - July,Z,JULQ,Y,100.0,N,JULQ
 JULT,AllianzIM U.S. Large Cap Buffer10 Jul ETF,AllianzIM U.S. Large Cap Buffer10 Jul ETF,P,JULT,Y,100.0,N,JULT
 JULU,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF,Z,JULU,Y,100.0,N,JULU
 JULW,AllianzIM U.S. Large Cap Buffer20 Jul ETF,AllianzIM U.S. Large Cap Buffer20 Jul ETF,P,JULW,Y,100.0,N,JULW
@@ -4715,6 +4711,7 @@ PSX,Phillips 66 Common Stock,Phillips 66 Common Stock,N,PSX,N,100.0,N,PSX
 PTA,Cohen & Steers Tax,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest,N,PTA,N,100.0,N,PTA
 PTBD,Pacer Trendpilot US Bond ETF,Pacer Trendpilot US Bond ETF,P,PTBD,Y,100.0,N,PTBD
 PTEU,Pacer TrendpilotTM European Index ETF,Pacer TrendpilotTM European Index ETF,Z,PTEU,Y,100.0,N,PTEU
+PTHS,Pelthos Therapeutics Inc. Common Stock,Pelthos Therapeutics Inc. Common Stock,A,PTHS,N,100.0,N,PTHS
 PTIN,Pacer Trendpilot International ETF,Pacer Trendpilot International ETF,P,PTIN,Y,100.0,N,PTIN
 PTL,Northern Lights Fund Trust IV Inspire 500 ETF,Northern Lights Fund Trust IV Inspire 500 ETF,P,PTL,Y,100.0,N,PTL
 PTLC,Pacer Fund Trust Pacer Trendpilot US Large Cap ETF,Pacer Fund Trust Pacer Trendpilot US Large Cap ETF,Z,PTLC,Y,100.0,N,PTLC
@@ -5107,7 +5104,6 @@ SAR,Saratoga Investment Corp New,Saratoga Investment Corp New,N,SAR,N,100.0,N,SA
 SARO,"StandardAero, Inc. Common Stock","StandardAero, Inc. Common Stock",N,SARO,N,100.0,N,SARO
 SAT,Saratoga Investment Corp 6.00% Notes due 2027,Saratoga Investment Corp 6.00% Notes due 2027,N,SAT,N,100.0,N,SAT
 SATO,Invesco Alerian Galaxy Crypto Economy ETF,Invesco Alerian Galaxy Crypto Economy ETF,Z,SATO,Y,100.0,N,SATO
-SATX,SatixFy Communications Ltd. Ordinary Share,SatixFy Communications Ltd. Ordinary Share,A,SATX,N,100.0,N,SATX
 SAUG,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - August,Z,SAUG,Y,100.0,N,SAUG
 SAWG,ETF Series Solutions AAM Sawgrass US Large Cap Quality Growth ETF,ETF Series Solutions AAM Sawgrass US Large Cap Quality Growth ETF,P,SAWG,Y,100.0,N,SAWG
 SAWS,ETF Series Solutions AAM Sawgrass US Small Cap Quality Growth ETF,ETF Series Solutions AAM Sawgrass US Small Cap Quality Growth ETF,P,SAWS,Y,100.0,N,SAWS
@@ -5398,6 +5394,7 @@ SO,Southern Company (The) Common Stock,Southern Company (The) Common Stock,N,SO,
 SOAR,"Volato Group, Inc. Class A Common Stock","Volato Group, Inc. Class A Common Stock",A,SOAR,N,100.0,N,SOAR
 SOBO,South Bow Corporation Common Shares,South Bow Corporation Common Shares,N,SOBO,N,100.0,N,SOBO
 SOC,Sable Offshore Corp. Common Stock,Sable Offshore Corp. Common Stock,N,SOC,N,100.0,N,SOC
+SOFL,Tidal Trust III 2x Daily Software Platform ETF,Tidal Trust III 2x Daily Software Platform ETF,P,SOFL,Y,100.0,N,SOFL
 SOFR,Amplify ETF Trust Amplify Samsung SOFR ETF,Amplify ETF Trust Amplify Samsung SOFR ETF,P,SOFR,Y,100.0,N,SOFR
 SOJC,"Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077","Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077",N,SOJC,N,100.0,N,SOJC
 SOJD,"Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080","Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080",N,SOJD,N,100.0,N,SOJD
@@ -5529,6 +5526,7 @@ SSB,SouthState Corporation Common Stock,SouthState Corporation Common Stock,N,SS
 SSD,"Simpson Manufacturing Company, Inc. Common Stock","Simpson Manufacturing Company, Inc. Common Stock",N,SSD,N,100.0,N,SSD
 SSFI,Day Hagan Smart Sector Fixed Income ETF,Day Hagan Smart Sector Fixed Income ETF,P,SSFI,Y,100.0,N,SSFI
 SSG,ProShares UltraShort Semiconductors,ProShares UltraShort Semiconductors,P,SSG,Y,100.0,N,SSG
+SSK,ETF Opportunities Trust REX,ETF Opportunities Trust REX-Osprey SOL + Staking ETF,Z,SSK,Y,100.0,N,SSK
 SSL,Sasol Ltd. American Depositary Shares,Sasol Ltd. American Depositary Shares,N,SSL,N,100.0,N,SSL
 SSO,ProShares Ultra S&P500,ProShares Ultra S&P500,P,SSO,Y,100.0,N,SSO
 SSPX,Janus Henderson U.S. Sustainable Equity ETF,Janus Henderson U.S. Sustainable Equity ETF,P,SSPX,Y,100.0,N,SSPX
@@ -6362,7 +6360,6 @@ XCLR,Global X Funds Global X S&P 500 Collar 95,Global X Funds Global X S&P 500 C
 XCOR,FundX Investment Trust FundX ETF,FundX Investment Trust FundX ETF,P,XCOR,Y,100.0,N,XCOR
 XDAT,Franklin Exponential Data ETF,Franklin Exponential Data ETF,Z,XDAT,Y,100.0,N,XDAT
 XDEC,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December,Z,XDEC,Y,100.0,N,XDEC
-XDJL,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - July,Z,XDJL,Y,100.0,N,XDJL
 XDOC,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - October,Z,XDOC,Y,100.0,N,XDOC
 XDQQ,Innovator Growth Accelerated ETF ,Innovator Growth Accelerated ETF - Quarterly,Z,XDQQ,Y,100.0,N,XDQQ
 XDSQ,Innovator ETFs Trust Innovator U.S. Equity Accelerated ETF ,Innovator ETFs Trust Innovator U.S. Equity Accelerated ETF - Quarterly,Z,XDSQ,Y,100.0,N,XDSQ
