@@ -3978,7 +3978,7 @@ MUSE,TCW Multisector Credit Income ETF,TCW Multisector Credit Income ETF,N,MUSE,
 MUSI,American Century Multisector Income ETF,American Century Multisector Income ETF,P,MUSI,Y,100.0,N,MUSI
 MUSQ,MUSQ Global Music Industry Index ETF,MUSQ Global Music Industry Index ETF,P,MUSQ,Y,100.0,N,MUSQ
 MUST,Columbia Multi,Columbia Multi-Sector Municipal Income ETF,P,MUST,Y,100.0,N,MUST
-MUX,McEwen Mining Inc. Common Stock,McEwen Mining Inc. Common Stock,N,MUX,N,100.0,N,MUX
+MUX,McEwen Inc. Common Stock,McEwen Inc. Common Stock,N,MUX,N,100.0,N,MUX
 MVAL,VanEck ETF Trust VanEck Morningstar Wide Moat Value ETF,VanEck ETF Trust VanEck Morningstar Wide Moat Value ETF,Z,MVAL,Y,100.0,N,MVAL
 MVF,"Blackrock MuniVest Fund, Inc. Common Stock","Blackrock MuniVest Fund, Inc. Common Stock",N,MVF,N,100.0,N,MVF
 MVFD,Northern Lights Fund Trust IV Monarch Volume Factor Dividend Tree Index ETF,Northern Lights Fund Trust IV Monarch Volume Factor Dividend Tree Index ETF,Z,MVFD,Y,100.0,N,MVFD
@@ -5013,7 +5013,6 @@ RSBY,Tidal Trust II Return Stacked Bonds & Futures Yield ETF,Tidal Trust II Retu
 RSDE,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Equal Weight Buffer ETF - December,P,RSDE,Y,100.0,N,RSDE
 RSEE,Collaborative Investment Series Trust Rareview Systematic Equity ETF,Collaborative Investment Series Trust Rareview Systematic Equity ETF,Z,RSEE,Y,100.0,N,RSEE
 RSF,RiverNorth Capital and Income Fund Common Stock,RiverNorth Capital and Income Fund Common Stock,N,RSF,N,100.0,N,RSF
-RSF.R,"RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights","RiverNorth Capital and Income Fund Rights (expiring July 07, 2025) Rights",N,RSFr,N,100.0,N,RSF^
 RSG,"Republic Services, Inc. Common Stock","Republic Services, Inc. Common Stock",N,RSG,N,100.0,N,RSG
 RSHO,Tema ETF Trust Tema American Reshoring ETF,Tema ETF Trust Tema American Reshoring ETF,P,RSHO,Y,100.0,N,RSHO
 RSI,"Rush Street Interactive, Inc. Class A Common Stock","Rush Street Interactive, Inc. Class A Common Stock",N,RSI,N,100.0,N,RSI
@@ -5381,7 +5380,7 @@ SNDR,"Schneider National, Inc. Common Stock","Schneider National, Inc. Common St
 SNN,"Smith & Nephew SNATS, Inc. Common Stock","Smith & Nephew SNATS, Inc. Common Stock",N,SNN,N,100.0,N,SNN
 SNOU,ETF Opp Tr T,ETF Opp Tr T-REX 2X Long SNOW Daily Target ETF,Z,SNOU,Y,100.0,N,SNOU
 SNOV,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - November,Z,SNOV,Y,100.0,N,SNOV
-SNOW,Snowflake Inc. Class A Common Stock,Snowflake Inc. Class A Common Stock,N,SNOW,N,100.0,N,SNOW
+SNOW,Snowflake Inc. Common Stock,Snowflake Inc. Common Stock,N,SNOW,N,100.0,N,SNOW
 SNOY,Tidal Trust II YieldMax SNOW Option Income Strategy ETF,Tidal Trust II YieldMax SNOW Option Income Strategy ETF,P,SNOY,Y,100.0,N,SNOY
 SNPD,Xtrackers S&P Dividend Aristocrats Screened ETF,Xtrackers S&P Dividend Aristocrats Screened ETF,Z,SNPD,Y,100.0,N,SNPD
 SNPE,Xtrackers S&P 500 Scored & Screened ETF,Xtrackers S&P 500 Scored & Screened ETF,P,SNPE,Y,100.0,N,SNPE
@@ -5590,7 +5589,6 @@ SVAL,iShares US Small Cap Value Factor ETF,iShares US Small Cap Value Factor ETF
 SVIX,VS TR ,VS TR -1x Short VIX Futures ETF,Z,SVIX,Y,100.0,N,SVIX
 SVM,Silvercorp Metals Inc. Common Shares,Silvercorp Metals Inc. Common Shares,A,SVM,N,100.0,N,SVM
 SVOL,Simplify Volatility Premium ETF,Simplify Volatility Premium ETF,P,SVOL,Y,100.0,N,SVOL
-SVT,"Servotronics, Inc. Common Stock","Servotronics, Inc. Common Stock",A,SVT,N,100.0,N,SVT
 SVV,"Savers Value Village, Inc. Common Stock","Savers Value Village, Inc. Common Stock",N,SVV,N,100.0,N,SVV
 SVXY,ProShares Short VIX Short Term Futures ETF,ProShares Short VIX Short Term Futures ETF,Z,SVXY,Y,100.0,N,SVXY
 SW,Smurfit WestRock plc Ordinary Shares,Smurfit WestRock plc Ordinary Shares,N,SW,N,100.0,N,SW
