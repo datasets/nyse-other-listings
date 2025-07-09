@@ -190,6 +190,7 @@ ALL$I,"Allstate Corporation (The) Depositary Shares each representing a 1/1,000t
 ALL$J,"Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series J","Allstate Corporation (The) Depositary Shares each representing a 1/1,000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock, Series J",N,ALLpJ,N,100.0,N,ALL-J
 ALLE,Allegion plc Ordinary Shares,Allegion plc Ordinary Shares,N,ALLE,N,100.0,N,ALLE
 ALLY,Ally Financial Inc. Common Stock,Ally Financial Inc. Common Stock,N,ALLY,N,100.0,N,ALLY
+ALRG,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring LT Large Core ETF,P,ALRG,Y,100.0,N,ALRG
 ALSN,"Allison Transmission Holdings, Inc. Common Stock","Allison Transmission Holdings, Inc. Common Stock",N,ALSN,N,100.0,N,ALSN
 ALTG,Alta Equipment Group Inc. Class A Common Stock,Alta Equipment Group Inc. Class A Common Stock,N,ALTG,N,100.0,N,ALTG
 ALTG$A,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),N,ALTGpA,N,100.0,N,ALTG-A
@@ -337,6 +338,7 @@ ASB$E,Associated Banc,"Associated Banc-Corp Depositary Shares, each representing
 ASB$F,Associated Banc,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.625% Non-Cumulative Perpetual Preferred Stock, Series F",N,ASBpF,N,100.0,N,ASB-F
 ASBA,Associated Banc,Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033,N,ASBA,N,100.0,N,ASBA
 ASC,Ardmore Shipping Corporation Common Stock,Ardmore Shipping Corporation Common Stock,N,ASC,N,100.0,N,ASC
+ASCE,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring SMID Core ETF,P,ASCE,Y,100.0,N,ASCE
 ASEA,Global X FTSE Southeast Asia ETF,Global X FTSE Southeast Asia ETF,P,ASEA,Y,100.0,N,ASEA
 ASG,Liberty All,"Liberty All-Star Growth Fund, Inc.",N,ASG,N,100.0,N,ASG
 ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,N,ASGI,N,100.0,N,ASGI
@@ -386,6 +388,7 @@ AUGW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Aug ETF,AIM ETF Pr
 AUGZ,TrueShares Structured Outcome (August) ETF,TrueShares Structured Outcome (August) ETF,Z,AUGZ,Y,100.0,N,AUGZ
 AUNA,Auna SA Class A Ordinary Shares,Auna SA Class A Ordinary Shares,N,AUNA,N,100.0,N,AUNA
 AUSF,Global X Funds Global X Adaptive U.S. Factor ETF,Global X Funds Global X Adaptive U.S. Factor ETF,P,AUSF,Y,100.0,N,AUSF
+AUSM,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring Ultra Short Municipal ETF,P,AUSM,Y,100.0,N,AUSM
 AUST,Austin Gold Corp. Common Shares,Austin Gold Corp. Common Shares,A,AUST,N,100.0,N,AUST
 AVA,Avista Corporation Common Stock,Avista Corporation Common Stock,N,AVA,N,100.0,N,AVA
 AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),N,AVAL,N,100.0,N,AVAL
@@ -929,14 +932,17 @@ CBOA,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF ,Calamos ET
 CBOE,"Cboe Global Markets, Inc. Common Stock","Cboe Global Markets, Inc. Common Stock",Z,CBOE,N,100.0,N,CBOE
 CBOJ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - January,Z,CBOJ,Y,100.0,N,CBOJ
 CBON,VanEck China Bond ETF,VanEck China Bond ETF,P,CBON,Y,100.0,N,CBON
+CBOY,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - July,Z,CBOY,Y,100.0,N,CBOY
 CBRE,CBRE Group Inc Common Stock Class A,CBRE Group Inc Common Stock Class A,N,CBRE,N,100.0,N,CBRE
 CBSE,Elevation Series Trust Clough Select Equity ETF,Elevation Series Trust Clough Select Equity ETF,P,CBSE,Y,100.0,N,CBSE
 CBT,Cabot Corporation Common Stock,Cabot Corporation Common Stock,N,CBT,N,100.0,N,CBT
 CBTA,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - April,Z,CBTA,Y,100.0,N,CBTA
 CBTJ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - January,Z,CBTJ,Y,100.0,N,CBTJ
+CBTY,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - July,Z,CBTY,Y,100.0,N,CBTY
 CBU,"Community Financial System, Inc. Common Stock","Community Financial System, Inc. Common Stock",N,CBU,N,100.0,N,CBU
 CBXA,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - April,Z,CBXA,Y,100.0,N,CBXA
 CBXJ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - January,Z,CBXJ,Y,100.0,N,CBXJ
+CBXY,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - July,Z,CBXY,Y,100.0,N,CBXY
 CBZ,"CBIZ, Inc. Common Stock","CBIZ, Inc. Common Stock",N,CBZ,N,100.0,N,CBZ
 CC,Chemours Company (The) Common Stock,Chemours Company (The) Common Stock,N,CC,N,100.0,N,CC
 CCEF,Calamos ETF Trust Calamos CEF Income & Arbitrage ETF,Calamos ETF Trust Calamos CEF Income & Arbitrage ETF,P,CCEF,Y,100.0,N,CCEF
@@ -2418,6 +2424,7 @@ GENM,Spinnaker ETF Series Genter Capital Municipal Quality Intermediate ETF,Spin
 GENT,Spinnaker ETF Series Genter Capital Taxable Quality Intermediate ETF,Spinnaker ETF Series Genter Capital Taxable Quality Intermediate ETF,P,GENT,Y,100.0,N,GENT
 GENW,Spinnaker ETF Series Genter Capital International Dividend ETF,Spinnaker ETF Series Genter Capital International Dividend ETF,P,GENW,Y,100.0,N,GENW
 GEO,Geo Group Inc (The) REIT,Geo Group Inc (The) REIT,N,GEO,N,100.0,N,GEO
+GEOA,WisdomTree Trust WisdomTree GeoAlpha Opportunities Fund,WisdomTree Trust WisdomTree GeoAlpha Opportunities Fund,P,GEOA,Y,100.0,N,GEOA
 GES,"Guess?, Inc. Common Stock","Guess?, Inc. Common Stock",N,GES,N,100.0,N,GES
 GETY,"Getty Images Holdings, Inc. Class A Common Stock","Getty Images Holdings, Inc. Class A Common Stock",N,GETY,N,100.0,N,GETY
 GEV,GE Vernova Inc. Common Stock,GE Vernova Inc. Common Stock,N,GEV,N,100.0,N,GEV
@@ -3377,6 +3384,7 @@ KFRC,"Kforce, Inc. Common Stock","Kforce, Inc. Common Stock",N,KFRC,N,100.0,N,KF
 KFS,"Kingsway Financial Services, Inc. Common Stock (DE)","Kingsway Financial Services, Inc. Common Stock (DE)",N,KFS,N,100.0,N,KFS
 KFY,Korn Ferry Common Stock,Korn Ferry Common Stock,N,KFY,N,100.0,N,KFY
 KGC,Kinross Gold Corporation Common Stock,Kinross Gold Corporation Common Stock,N,KGC,N,100.0,N,KGC
+KGLD,Kurv ETF Trust Kurv Gold Enhanced Income ETF,Kurv ETF Trust Kurv Gold Enhanced Income ETF,Z,KGLD,Y,100.0,N,KGLD
 KGRN,KraneShares MSCI China Clean Technology Index ETF,KraneShares MSCI China Clean Technology Index ETF,P,KGRN,Y,100.0,N,KGRN
 KGS,"Kodiak Gas Services, Inc. Common Stock","Kodiak Gas Services, Inc. Common Stock",N,KGS,N,100.0,N,KGS
 KHPI,Managed Portfolio Series Kensington Hedged Premium Income ETF,Managed Portfolio Series Kensington Hedged Premium Income ETF,Z,KHPI,Y,100.0,N,KHPI
@@ -5484,6 +5492,7 @@ SPWO,SP Funds Trust SP Funds S&P World (ex,SP Funds Trust SP Funds S&P World (ex
 SPXC,"SPX Technologies, Inc. Common Stock","SPX Technologies, Inc. Common Stock",N,SPXC,N,100.0,N,SPXC
 SPXE,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Energy ETF,P,SPXE,Y,100.0,N,SPXE
 SPXL,Direxion Daily S&P 500 Bull 3X Shares,Direxion Daily S&P 500 Bull 3X Shares,P,SPXL,Y,100.0,N,SPXL
+SPXM,Tidal Trust III Azoria 500 Meritocracy ETF,Tidal Trust III Azoria 500 Meritocracy ETF,Z,SPXM,Y,100.0,N,SPXM
 SPXN,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Financials ETF,P,SPXN,Y,100.0,N,SPXN
 SPXS,Direxion Daily S&P 500 Bear 3X,Direxion Daily S&P 500 Bear 3X,P,SPXS,Y,100.0,N,SPXS
 SPXT,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Technology ETF,P,SPXT,Y,100.0,N,SPXT
