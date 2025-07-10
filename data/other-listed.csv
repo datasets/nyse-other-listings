@@ -4846,6 +4846,7 @@ QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
 QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock","QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",N,QXOpB,N,100.0,N,QXO-B
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,Brookfield Real Assets Income Fund Inc. Common Stock,N,RA,N,100.0,N,RA
+RAAA,Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF,Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF,P,RAAA,Y,100.0,N,RAAA
 RAAX,VanEck Real Assets ETF,VanEck Real Assets ETF,P,RAAX,Y,100.0,N,RAAX
 RAC,Rithm Acquisition Corp. Class A Ordinary Shares,Rithm Acquisition Corp. Class A Ordinary Shares,N,RAC,N,100.0,N,RAC
 RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant),N,RAC.U,N,100.0,N,RAC=
@@ -6120,6 +6121,7 @@ VGK,Vanguard FTSEEuropean ETF,Vanguard FTSEEuropean ETF,P,VGK,Y,100.0,N,VGK
 VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),Invesco Trust for Investment Grade Municipals Common Stock (DE),N,VGM,N,100.0,N,VGM
 VGMS,Vanguard Malvern Funds Vanguard Multi,Vanguard Malvern Funds Vanguard Multi-Sector Income Bond ETF,Z,VGMS,Y,100.0,N,VGMS
 VGT,Vanguard Information Tech ETF,Vanguard Information Tech ETF,P,VGT,Y,100.0,N,VGT
+VGVT,Vanguard Malvern Funds Vanguard Government Securities Active ETF,Vanguard Malvern Funds Vanguard Government Securities Active ETF,P,VGVT,Y,100.0,N,VGVT
 VGZ,Vista Gold Corp Common Stock,Vista Gold Corp Common Stock,A,VGZ,N,100.0,N,VGZ
 VHC,VirnetX Holding Corp Common Stock,VirnetX Holding Corp Common Stock,N,VHC,N,100.0,N,VHC
 VHI,"Valhi, Inc. Common Stock","Valhi, Inc. Common Stock",N,VHI,N,100.0,N,VHI
@@ -6208,11 +6210,13 @@ VTEI,Vanguard Tax,Vanguard Tax-Managed Funds Vanguard Intermediate-Term Tax-Exem
 VTEL,Vanguard Tax,Vanguard Tax-Managed Funds Vanguard Long-Term Tax-Exempt Bond ETF,Z,VTEL,Y,100.0,N,VTEL
 VTES,Vanguard Wellington Fund Vanguard Short,Vanguard Wellington Fund Vanguard Short-Term Tax Exempt Bond ETF,P,VTES,Y,100.0,N,VTES
 VTEX,VTEX Class A Common Shares,VTEX Class A Common Shares,N,VTEX,N,100.0,N,VTEX
+VTG,Vanguard Malvern Funds Vanguard Total Treasury ETF,Vanguard Malvern Funds Vanguard Total Treasury ETF,P,VTG,Y,100.0,N,VTG
 VTI,Vanguard Total Stock Market ETF,Vanguard Total Stock Market ETF,P,VTI,Y,100.0,N,VTI
 VTLE,"Vital Energy, Inc. Common Stock, par value $0.01 per share","Vital Energy, Inc. Common Stock, par value $0.01 per share",N,VTLE,N,100.0,N,VTLE
 VTMX,"Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares","Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares",N,VTMX,N,100.0,N,VTMX
 VTN,Invesco Trust for Investment Grade New York Municipals Common Stock,Invesco Trust for Investment Grade New York Municipals Common Stock,N,VTN,N,100.0,N,VTN
 VTOL,"Bristow Group, Inc. Common Stock","Bristow Group, Inc. Common Stock",N,VTOL,N,100.0,N,VTOL
+VTP,Vanguard Malvern Funds Vanguard Total Inflation,Vanguard Malvern Funds Vanguard Total Inflation-Protected Securities ETF,P,VTP,Y,100.0,N,VTP
 VTR,"Ventas, Inc. Common Stock","Ventas, Inc. Common Stock",N,VTR,N,100.0,N,VTR
 VTS,"Vitesse Energy, Inc. Common Stock","Vitesse Energy, Inc. Common Stock",N,VTS,N,100.0,N,VTS
 VTV,Vanguard Value ETF,Vanguard Value ETF,P,VTV,Y,100.0,N,VTV
@@ -6430,6 +6434,7 @@ XNAV,FundX Investment Trust FundX Aggressive ETF,FundX Investment Trust FundX Ag
 XNOV,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - November,Z,XNOV,Y,100.0,N,XNOV
 XNTK,SPDR NYSE Technology ETF,SPDR NYSE Technology ETF,P,XNTK,Y,100.0,N,XNTK
 XOCT,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - October,Z,XOCT,Y,100.0,N,XOCT
+XOEF,iShares Trust iShares S&P 500 ex S&P 100 ETF,iShares Trust iShares S&P 500 ex S&P 100 ETF,P,XOEF,Y,100.0,N,XOEF
 XOM,Exxon Mobil Corporation Common Stock,Exxon Mobil Corporation Common Stock,N,XOM,N,100.0,N,XOM
 XOMO,Tidal ETF Trust II YieldMax XOM Option Income Strategy ETF,Tidal ETF Trust II YieldMax XOM Option Income Strategy ETF,P,XOMO,Y,100.0,N,XOMO
 XONE,BondBloxx ETF Trust BondBloxx Bloomberg One Year Target Duration US Treasury ETF,BondBloxx ETF Trust BondBloxx Bloomberg One Year Target Duration US Treasury ETF,P,XONE,Y,100.0,N,XONE
