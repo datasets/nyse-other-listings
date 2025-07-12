@@ -355,6 +355,7 @@ ASMF,Virtus ETF Trust II Virtus AlphaSimplex Managed Futures ETF,Virtus ETF Trus
 ASMH,Precidian ETFs Trust ASML Holding NV ADRhedged,Precidian ETFs Trust ASML Holding NV ADRhedged,P,ASMH,Y,100.0,N,ASMH
 ASPN,"Aspen Aerogels, Inc. Common Stock","Aspen Aerogels, Inc. Common Stock",N,ASPN,N,100.0,N,ASPN
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock","Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",N,ASR,N,100.0,N,ASR
+ASTX,Tradr 2X Long ASTS Daily ETF Tradr 2X Long ASTS Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long ASTS Daily ETF,Z,ASTX,Y,100.0,N,ASTX
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ","ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",N,ASX,N,100.0,N,ASX
 ATCH,"AtlasClear Holdings, Inc. Common Stock","AtlasClear Holdings, Inc. Common Stock",A,ATCH,N,100.0,N,ATCH
 ATCO$H,Atlas Corp. 7.875% Series H,Atlas Corp. 7.875% Series H,N,ATCOpH,N,100.0,N,ATCO-H
@@ -769,7 +770,7 @@ BP,BP p.l.c. Common Stock,BP p.l.c. Common Stock,N,BP,N,100.0,N,BP
 BPAY,iShares FinTech Active ETF,iShares FinTech Active ETF,P,BPAY,Y,100.0,N,BPAY
 BPH,Precidian ETFs Trust BP plc ADRhedged,Precidian ETFs Trust BP plc ADRhedged,P,BPH,Y,100.0,N,BPH
 BPI,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,Grayscale Funds Trust Grayscale Bitcoin Premium Income ETF,P,BPI,Y,100.0,N,BPI
-BQ,Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares),Boqii Holding Limited American Depositary Shares (each representing one hundred fifty (150) Class A Ordinary Shares),A,BQ,N,100.0,N,BQ
+BQ,Boqii Holding Limited Class A Ordinary Shares,Boqii Holding Limited Class A Ordinary Shares,A,BQ,N,100.0,N,BQ
 BR,"Broadridge Financial Solutions, Inc. Common Stock","Broadridge Financial Solutions, Inc. Common Stock",N,BR,N,100.0,N,BR
 BRAZ,Global X Funds Global X Brazil Active ETF,Global X Funds Global X Brazil Active ETF,P,BRAZ,Y,100.0,N,BRAZ
 BRBR,"BellRing Brands, Inc. Common Stock ","BellRing Brands, Inc. Common Stock ",N,BRBR,N,100.0,N,BRBR
@@ -974,6 +975,7 @@ CEE,"The Central and Eastern Europe Fund, Inc. (The) Common Stock","The Central 
 CEF,Sprott Physical Gold and Silver Trust Units,Sprott Physical Gold and Silver Trust Units,P,CEF,Y,100.0,N,CEF
 CEFD,ETRACS Monthly Pay 1.5X Leveraged Closed,ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN,P,CEFD,Y,100.0,N,CEFD
 CEFS,Saba Closed,Saba Closed-End Funds ETF,Z,CEFS,Y,100.0,N,CEFS
+CEGX,Tradr 2X Long ASTS Daily ETF Tradr 2X Long CEG Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long CEG Daily ETF,Z,CEGX,Y,100.0,N,CEGX
 CELG.R,Bristol,Bristol-Myers Squibb Company Celegne Contingent Value Rights,N,CELGr,N,100.0,N,CELG^
 CEMB,iShares J.P. Morgan EM Corporate Bond ETF,iShares J.P. Morgan EM Corporate Bond ETF,Z,CEMB,Y,100.0,N,CEMB
 CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),N,CEPU,N,100.0,N,CEPU
@@ -1316,6 +1318,7 @@ CWI,SPDR MSCI ACWI ex,SPDR MSCI ACWI ex-US ETF,P,CWI,Y,100.0,N,CWI
 CWK,Cushman & Wakefield plc Ordinary Shares,Cushman & Wakefield plc Ordinary Shares,N,CWK,N,100.0,N,CWK
 CWS,AdvisorShares Focused Equity ETF,AdvisorShares Focused Equity ETF,P,CWS,Y,100.0,N,CWS
 CWT,California Water Service Group Common Stock,California Water Service Group Common Stock,N,CWT,N,100.0,N,CWT
+CWVX,Tradr 2X Long ASTS Daily ETF Tradr 2X Long CRWV Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long CRWV Daily ETF,Z,CWVX,Y,100.0,N,CWVX
 CX,"Cemex, S.A.B. de C.V. Sponsored ADR","Cemex, S.A.B. de C.V. Sponsored ADR",N,CX,N,100.0,N,CX
 CXE,MFS High Income Municipal Trust Common Stock,MFS High Income Municipal Trust Common Stock,N,CXE,N,100.0,N,CXE
 CXH,MFS Investment Grade Municipal Trust Common Stock,MFS Investment Grade Municipal Trust Common Stock,N,CXH,N,100.0,N,CXH
@@ -2427,6 +2430,7 @@ GEOA,WisdomTree Trust WisdomTree GeoAlpha Opportunities Fund,WisdomTree Trust Wi
 GES,"Guess?, Inc. Common Stock","Guess?, Inc. Common Stock",N,GES,N,100.0,N,GES
 GETY,"Getty Images Holdings, Inc. Class A Common Stock","Getty Images Holdings, Inc. Class A Common Stock",N,GETY,N,100.0,N,GETY
 GEV,GE Vernova Inc. Common Stock,GE Vernova Inc. Common Stock,N,GEV,N,100.0,N,GEV
+GEVX,Tradr 2X Long ASTS Daily ETF Tradr 2X Long GEV Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long GEV Daily ETF,Z,GEVX,Y,100.0,N,GEVX
 GF,"New Germany Fund, Inc. (The) Common Stock","New Germany Fund, Inc. (The) Common Stock",N,GF,N,100.0,N,GF
 GFEB,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - February,Z,GFEB,Y,100.0,N,GFEB
 GFF,Griffon Corporation Common Stock,Griffon Corporation Common Stock,N,GFF,N,100.0,N,GFF
@@ -5147,7 +5151,6 @@ SCCG,Sachem Capital Corp. 8.00% Notes due 2027,Sachem Capital Corp. 8.00% Notes 
 SCCO,Southern Copper Corporation Common Stock,Southern Copper Corporation Common Stock,N,SCCO,N,100.0,N,SCCO
 SCCR,Schwab Strategic Trust Schwab Core Bond ETF,Schwab Strategic Trust Schwab Core Bond ETF,P,SCCR,Y,100.0,N,SCCR
 SCD,LMP Capital and Income Fund Inc. Common Stock,LMP Capital and Income Fund Inc. Common Stock,N,SCD,N,100.0,N,SCD
-SCD.R,"LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights","LMP Capital and Income Fund Inc. Rights (expiring July 11, 2025) Rights",N,SCDr,N,100.0,N,SCD^
 SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,ETRACS 2x Leveraged US Dividend Factor TR ETN,P,SCDL,Y,100.0,N,SCDL
 SCDV,ETF Series Solutions Bahl & Gaynor Small Cap Dividend ETF,ETF Series Solutions Bahl & Gaynor Small Cap Dividend ETF,P,SCDV,Y,100.0,N,SCDV
 SCE$G,SCE Trust II Trust Preferred Securities,SCE Trust II Trust Preferred Securities,N,SCEpG,N,100.0,N,SCE-G
@@ -5378,6 +5381,7 @@ SMP,"Standard Motor Products, Inc. Common Stock","Standard Motor Products, Inc. 
 SMR,NuScale Power Corporation Class A Common Stock,NuScale Power Corporation Class A Common Stock,N,SMR,N,100.0,N,SMR
 SMRT,"SmartRent, Inc. Class A Common Stock","SmartRent, Inc. Class A Common Stock",N,SMRT,N,100.0,N,SMRT
 SMTH,ALPS ETF Trust ALPS,ALPS ETF Trust ALPS,P,SMTH,Y,100.0,N,SMTH
+SMU,Tradr 2X Long ASTS Daily ETF Tradr 2X Long SMR Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long SMR Daily ETF,Z,SMU,Y,100.0,N,SMU
 SMWB,Similarweb Ltd. Ordinary Shares,Similarweb Ltd. Ordinary Shares,N,SMWB,N,100.0,N,SMWB
 SN,"SharkNinja, Inc. Ordinary Shares","SharkNinja, Inc. Ordinary Shares",N,SN,N,100.0,N,SN
 SNA,Snap,Snap-On Incorporated Common Stock,N,SNA,N,100.0,N,SNA
