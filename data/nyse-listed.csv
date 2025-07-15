@@ -1982,8 +1982,8 @@ PBF,PBF Energy Inc. Class A Common Stock
 PBH,Prestige Consumer Healthcare Inc. Common Stock
 PBI,Pitney Bowes Inc. Common Stock
 PBI$B,Pitney Bowes Inc 6.70% Notes Due 2043
-PBR,Petroleo Brasileiro S.A.
-PBR.A,Petroleo Brasileiro S.A.
+PBR,Petroleo Brasileiro S.A. Petrobras ADS
+PBR.A,Petroleo Brasileiro S.A. Petrobras American Depositary Shares representing Preferred Shares
 PBT,Permian Basin Royalty Trust Common Stock
 PCF,High Income Securities Fund Common Stock
 PCG,Pacific Gas & Electric Co. Common Stock
@@ -2085,7 +2085,6 @@ PRGO,Perrigo Company plc Ordinary Shares
 PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062"
 PRI,"Primerica, Inc. Common Stock"
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029"
-PRIF$I,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028"
 PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028"
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock"
 PRIF$L,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029"
@@ -2499,6 +2498,7 @@ TAP.A,Molson Coors Beverage Company Class A Common Stock
 TBB,AT&T Inc. 5.350% Global Notes due 2066
 TBBB,BBB Foods Inc. Class A Common Shares
 TBI,"TrueBlue, Inc. Common Stock"
+TBLU,Tortoise Capital Series Trust Tortoise Global Water Fund
 TBN,Tamboran Resources Corporation Common stock
 TCI,"Transcontinental Realty Investors, Inc. Common Stock"
 TD,Toronto Dominion Bank (The) Common Stock

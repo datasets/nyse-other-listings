@@ -2567,6 +2567,7 @@ GPTY,Tidal Trust II YieldMax AI & Tech Portfolio Option Income ETF,Tidal Trust I
 GPUS,"Hyperscale Data, Inc. Common Stock","Hyperscale Data, Inc. Common Stock",A,GPUS,N,100.0,N,GPUS
 GPUS$D,"Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock","Hyperscale Data, Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock",A,GPUSpD,N,100.0,N,GPUS-D
 GPZ,VanEck ETF Trust VanEck Alternative Asset Manager ETF,VanEck ETF Trust VanEck Alternative Asset Manager ETF,P,GPZ,Y,100.0,N,GPZ
+GQGU,The Advisors' Inner Circle Fund III GQG US Equity ETF,The Advisors' Inner Circle Fund III GQG US Equity ETF,P,GQGU,Y,100.0,N,GQGU
 GQI,Natixis ETF Trust Natixis Gateway Quality Income ETF,Natixis ETF Trust Natixis Gateway Quality Income ETF,P,GQI,Y,100.0,N,GQI
 GQRE,FlexShares Global Quality Real Estate Index Fund,FlexShares Global Quality Real Estate Index Fund,P,GQRE,Y,100.0,N,GQRE
 GRAF,Graf Global Corp. Class A ordinary shares,Graf Global Corp. Class A ordinary shares,A,GRAF,N,100.0,N,GRAF
@@ -2763,6 +2764,7 @@ HNW,"Pioneer Diversified High Income Fund, Inc.","Pioneer Diversified High Incom
 HOCT,Innovator ETFs Trust Innovator Premium Income 9 Buffer ETF ,Innovator ETFs Trust Innovator Premium Income 9 Buffer ETF - October,Z,HOCT,Y,100.0,N,HOCT
 HODL,VanEck Bitcoin Trust Common Shares of Beneficial Interest,VanEck Bitcoin Trust Common Shares of Beneficial Interest,Z,HODL,Y,100.0,N,HODL
 HOG,Harley,"Harley-Davidson, Inc. Common Stock",N,HOG,N,100.0,N,HOG
+HOLA,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan International Hedged Equity Laddered Overlay ETF,P,HOLA,Y,100.0,N,HOLA
 HOMB,"Home BancShares, Inc. Common Stock","Home BancShares, Inc. Common Stock",N,HOMB,N,100.0,N,HOMB
 HOMZ,Hoya Capital Housing ETF,Hoya Capital Housing ETF,P,HOMZ,Y,100.0,N,HOMZ
 HOOW,Roundhill ETF Trust Roundhill HOOD WeeklyPay ETF,Roundhill ETF Trust Roundhill HOOD WeeklyPay ETF,Z,HOOW,Y,100.0,N,HOOW
@@ -3662,6 +3664,7 @@ LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common St
 LUV,Southwest Airlines Company Common Stock,Southwest Airlines Company Common Stock,N,LUV,N,100.0,N,LUV
 LUX,Tema ETF Trust Tema Luxury ETF,Tema ETF Trust Tema Luxury ETF,P,LUX,Y,100.0,N,LUX
 LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share","LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",N,LUXE,N,100.0,N,LUXE
+LVDS,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Fundamental Data Science Large Value ETF,Z,LVDS,Y,100.0,N,LVDS
 LVHI,Franklin International Low Volatility High Dividend Index ETF ,Franklin International Low Volatility High Dividend Index ETF ,Z,LVHI,Y,100.0,N,LVHI
 LVS,Las Vegas Sands Corp. Common Stock,Las Vegas Sands Corp. Common Stock,N,LVS,N,100.0,N,LVS
 LVWR,"LiveWire Group, Inc. Common Stock","LiveWire Group, Inc. Common Stock",N,LVWR,N,100.0,N,LVWR
@@ -4439,8 +4442,8 @@ PBMY,PGIM S&P 500 Buffer 20 ETF ,PGIM S&P 500 Buffer 20 ETF - May,Z,PBMY,Y,100.0
 PBNV,PGIM S&P 500 Buffer 20 ETF ,PGIM S&P 500 Buffer 20 ETF - November,Z,PBNV,Y,100.0,N,PBNV
 PBOC,PGIM S&P 500 Buffer 20 ETF ,PGIM S&P 500 Buffer 20 ETF - October,Z,PBOC,Y,100.0,N,PBOC
 PBP,Invesco S&P 500 BuyWrite ETF,Invesco S&P 500 BuyWrite ETF,Z,PBP,Y,100.0,N,PBP
-PBR,Petroleo Brasileiro S.A.,Petroleo Brasileiro S.A.- Petrobras Common Stock,N,PBR,N,100.0,N,PBR
-PBR.A,Petroleo Brasileiro S.A.,Petroleo Brasileiro S.A.- Petrobras American Depositary Shares,N,PBR.A,N,100.0,N,PBR.A
+PBR,Petroleo Brasileiro S.A. Petrobras ADS,Petroleo Brasileiro S.A. Petrobras ADS,N,PBR,N,100.0,N,PBR
+PBR.A,Petroleo Brasileiro S.A. Petrobras American Depositary Shares representing Preferred Shares,Petroleo Brasileiro S.A. Petrobras American Depositary Shares representing Preferred Shares,N,PBR.A,N,100.0,N,PBR.A
 PBSE,PGIM S&P 500 Buffer 20 ETF ,PGIM S&P 500 Buffer 20 ETF - September,Z,PBSE,Y,100.0,N,PBSE
 PBT,Permian Basin Royalty Trust Common Stock,Permian Basin Royalty Trust Common Stock,N,PBT,N,100.0,N,PBT
 PBTP,Invesco 0,Invesco 0-5 Yr US TIPS ETF,Z,PBTP,Y,100.0,N,PBTP
@@ -4647,7 +4650,6 @@ PRGO,Perrigo Company plc Ordinary Shares,Perrigo Company plc Ordinary Shares,N,P
 PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062","Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062",N,PRH,N,100.0,N,PRH
 PRI,"Primerica, Inc. Common Stock","Primerica, Inc. Common Stock",N,PRI,N,100.0,N,PRI
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029","Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",N,PRIFpD,N,100.0,N,PRIF-D
-PRIF$I,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028","Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028",N,PRIFpI,N,100.0,N,PRIF-I
 PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028","Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028",N,PRIFpJ,N,100.0,N,PRIF-J
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock","Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",N,PRIFpK,N,100.0,N,PRIF-K
 PRIF$L,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029","Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",N,PRIFpL,N,100.0,N,PRIF-L
@@ -5654,7 +5656,7 @@ TBG,EA Series Trust TBG Dividend Focus ETF,EA Series Trust TBG Dividend Focus ET
 TBI,"TrueBlue, Inc. Common Stock","TrueBlue, Inc. Common Stock",N,TBI,N,100.0,N,TBI
 TBJL,Innovator 20  Year Treasury Bond 9 Buffer ETF ,Innovator 20  Year Treasury Bond 9 Buffer ETF - July,Z,TBJL,Y,100.0,N,TBJL
 TBLL,Invesco Short Term Treasury ETF,Invesco Short Term Treasury ETF,P,TBLL,Y,100.0,N,TBLL
-TBLU,Tortoise Global Water ESG Fund,Tortoise Global Water ESG Fund,P,TBLU,Y,100.0,N,TBLU
+TBLU,Tortoise Capital Series Trust Tortoise Global Water Fund,Tortoise Capital Series Trust Tortoise Global Water Fund,N,TBLU,Y,100.0,N,TBLU
 TBN,Tamboran Resources Corporation Common stock,Tamboran Resources Corporation Common stock,N,TBN,N,100.0,N,TBN
 TBT,ProShares UltraShort Lehman 20  Year Treasury,ProShares UltraShort Lehman 20  Year Treasury,P,TBT,Y,100.0,N,TBT
 TBUX,T. Rowe Price Ultra Short,T. Rowe Price Ultra Short-Term Bond ETF,P,TBUX,Y,100.0,N,TBUX
