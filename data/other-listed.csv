@@ -1550,7 +1550,9 @@ DPST,Direxion Daily Regional Banks Bull 3X Shares,Direxion Daily Regional Banks 
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares","DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",N,DQ,N,100.0,N,DQ
 DRAG,Roundhill ETF Trust Roundhill China Dragons ETF,Roundhill ETF Trust Roundhill China Dragons ETF,Z,DRAG,Y,100.0,N,DRAG
 DRAI,EA Series Trust Draco Evolution AI ETF,EA Series Trust Draco Evolution AI ETF,P,DRAI,Y,100.0,N,DRAI
+DRAY,Tidal Trust II YieldMax DKNG Option Income Strategy ETF,Tidal Trust II YieldMax DKNG Option Income Strategy ETF,P,DRAY,Y,100.0,N,DRAY
 DRD,DRDGOLD Limited American Depositary Shares,DRDGOLD Limited American Depositary Shares,N,DRD,N,100.0,N,DRD
+DRGN,Themes ETF Trust Themes China Generative Artificial Intelligence ETF,Themes ETF Trust Themes China Generative Artificial Intelligence ETF,Z,DRGN,Y,100.0,N,DRGN
 DRH,Diamondrock Hospitality Company Common Stock,Diamondrock Hospitality Company Common Stock,N,DRH,N,100.0,N,DRH
 DRH$A,Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock,Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock,N,DRHpA,N,100.0,N,DRH-A
 DRI,"Darden Restaurants, Inc. Common Stock","Darden Restaurants, Inc. Common Stock",N,DRI,N,100.0,N,DRI
@@ -2711,8 +2713,10 @@ HESM,Hess Midstream LP Class A Representing Limited Partner Interests,Hess Midst
 HEWJ,iShares Currency Hedged MSCI Japan ETF,iShares Currency Hedged MSCI Japan ETF,P,HEWJ,Y,100.0,N,HEWJ
 HEZU,iShares Currency Hedged MSCI Eurozone ETF,iShares Currency Hedged MSCI Eurozone ETF,P,HEZU,Y,100.0,N,HEZU
 HF,DGA Core Plus Absolute Return ETF,DGA Core Plus Absolute Return ETF,N,HF,Y,100.0,N,HF
+HFEQ,Tidal Trust I Unlimited HFEQ Equity Long/Short ETF,Tidal Trust I Unlimited HFEQ Equity Long/Short ETF,P,HFEQ,Y,100.0,N,HFEQ
 HFGM,Unlimited HFGM Global Macro ETF,Unlimited HFGM Global Macro ETF,P,HFGM,Y,100.0,N,HFGM
 HFGO,Hartford Large Cap Growth ETF,Hartford Large Cap Growth ETF,Z,HFGO,Y,100.0,N,HFGO
+HFMF,Tidal Trust I Unlimited HFMF Managed Futures ETF,Tidal Trust I Unlimited HFMF Managed Futures ETF,P,HFMF,Y,100.0,N,HFMF
 HFND,Unlimited HFND Multi,Unlimited HFND Multi-Strategy Return Tracker ETF,P,HFND,Y,100.0,N,HFND
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,N,HFRO,N,100.0,N,HFRO
 HFRO$A,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,N,HFROpA,N,100.0,N,HFRO-A
@@ -5133,6 +5137,7 @@ SBEV,"Splash Beverage Group, Inc. (NV) Common Stock","Splash Beverage Group, Inc
 SBEV.W,"Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60","Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60",A,SBEV.WS,N,100.0,N,SBEV+
 SBH,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock","Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",N,SBH,N,100.0,N,SBH
 SBI,Western Asset Intermediate Muni Fund Inc Common Stock,Western Asset Intermediate Muni Fund Inc Common Stock,N,SBI,N,100.0,N,SBI
+SBIL,Simplify Exchange Traded Funds Simplify Government Money Market ETF,Simplify Exchange Traded Funds Simplify Government Money Market ETF,P,SBIL,Y,100.0,N,SBIL
 SBIO,ALPS Medical Breakthroughs ETF,ALPS Medical Breakthroughs ETF,P,SBIO,Y,100.0,N,SBIO
 SBIT,ProShares Trust ProShares UltraShort Bitcoin ETF,ProShares Trust ProShares UltraShort Bitcoin ETF,P,SBIT,Y,100.0,N,SBIT
 SBND,Columbia Short Duration Bond ETF,Columbia Short Duration Bond ETF,P,SBND,Y,100.0,N,SBND
@@ -5342,6 +5347,7 @@ SLI,Standard Lithium Ltd. Common Shares,Standard Lithium Ltd. Common Shares,A,SL
 SLND,"Southland Holdings, Inc. Common Stock","Southland Holdings, Inc. Common Stock",A,SLND,N,100.0,N,SLND
 SLND.W,"Southland Holdings, Inc. Warrants","Southland Holdings, Inc. Warrants",A,SLND.WS,N,100.0,N,SLND+
 SLNZ,TCW Senior Loan ETF,TCW Senior Loan ETF,N,SLNZ,Y,100.0,N,SLNZ
+SLON,ProShares Trust ProShares Ultra Solana ETF,ProShares Trust ProShares Ultra Solana ETF,P,SLON,Y,100.0,N,SLON
 SLQT,"SelectQuote, Inc. Common Stock","SelectQuote, Inc. Common Stock",N,SLQT,N,100.0,N,SLQT
 SLSR,Solaris Resources Inc. Common Shares,Solaris Resources Inc. Common Shares,A,SLSR,N,100.0,N,SLSR
 SLV,iShares Silver Trust,iShares Silver Trust,P,SLV,Y,100.0,N,SLV
@@ -6073,6 +6079,7 @@ UXAP,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equ
 UXI,ProShares Ultra Industrials,ProShares Ultra Industrials,P,UXI,Y,100.0,N,UXI
 UXJA,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - January,Z,UXJA,Y,100.0,N,UXJA
 UXOC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - October,Z,UXOC,Y,100.0,N,UXOC
+UXRP,ProShares Trust ProShares Ultra XRP ETF,ProShares Trust ProShares Ultra XRP ETF,P,UXRP,Y,100.0,N,UXRP
 UYG,ProShares Ultra Financials,ProShares Ultra Financials,P,UYG,Y,100.0,N,UYG
 UYM,ProShares Ultra Materials,ProShares Ultra Materials,P,UYM,Y,100.0,N,UYM
 UZD,United States Cellular Corporation 6.250% Senior Notes due 2069,United States Cellular Corporation 6.250% Senior Notes due 2069,N,UZD,N,100.0,N,UZD
