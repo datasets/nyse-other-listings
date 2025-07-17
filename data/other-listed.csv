@@ -2,6 +2,7 @@ ACT Symbol,Company Name,Security Name,Exchange,CQS Symbol,ETF,Round Lot Size,Tes
 A,"Agilent Technologies, Inc. Common Stock","Agilent Technologies, Inc. Common Stock",N,A,N,100.0,N,A
 AA,Alcoa Corporation Common Stock ,Alcoa Corporation Common Stock ,N,AA,N,100.0,N,AA
 AAA,Alternative Access First Priority CLO Bond ETF,Alternative Access First Priority CLO Bond ETF,P,AAA,Y,100.0,N,AAA
+AAAA,EA Series Trust Amplius Aggressive Asset Allocation ETF,EA Series Trust Amplius Aggressive Asset Allocation ETF,Z,AAAA,Y,100.0,N,AAAA
 AAAU,Goldman Sachs Physical Gold ETF Shares,Goldman Sachs Physical Gold ETF Shares,Z,AAAU,Y,100.0,N,AAAU
 AACT,Ares Acquisition Corporation II Class A Ordinary Shares,Ares Acquisition Corporation II Class A Ordinary Shares,N,AACT,N,100.0,N,AACT
 AACT.U,"Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one","Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,AACT.U,N,100.0,N,AACT=
@@ -1065,9 +1066,6 @@ CIX,CompX International Inc. Common Stock,CompX International Inc. Common Stock,
 CKX,"CKX Lands, Inc. Common Stock","CKX Lands, Inc. Common Stock",A,CKX,N,100.0,N,CKX
 CL,Colgate,Colgate-Palmolive Company Common Stock,N,CL,N,100.0,N,CL
 CLB,Core Laboratories Inc. Common Stock,Core Laboratories Inc. Common Stock,N,CLB,N,100.0,N,CLB
-CLBR,Colombier Acquisition Corp. II Class A Ordinary Shares,Colombier Acquisition Corp. II Class A Ordinary Shares,N,CLBR,N,100.0,N,CLBR
-CLBR.U,"Colombier Acquisition Corp. II Units, each consisting of one Class A ordinary share and one","Colombier Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,CLBR.U,N,100.0,N,CLBR=
-CLBR.W,"Colombier Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share","Colombier Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",N,CLBR.WS,N,100.0,N,CLBR+
 CLCO,Cool Company Ltd. Common Shares,Cool Company Ltd. Common Shares,N,CLCO,N,100.0,N,CLCO
 CLDI,"Calidi Biotherapeutics, Inc. Common Stock","Calidi Biotherapeutics, Inc. Common Stock",A,CLDI,N,100.0,N,CLDI
 CLDL,Direxion Daily Cloud Computing Bull 2X Shares,Direxion Daily Cloud Computing Bull 2X Shares,P,CLDL,Y,100.0,N,CLDL
@@ -2714,10 +2712,10 @@ HEWJ,iShares Currency Hedged MSCI Japan ETF,iShares Currency Hedged MSCI Japan E
 HEZU,iShares Currency Hedged MSCI Eurozone ETF,iShares Currency Hedged MSCI Eurozone ETF,P,HEZU,Y,100.0,N,HEZU
 HF,DGA Core Plus Absolute Return ETF,DGA Core Plus Absolute Return ETF,N,HF,Y,100.0,N,HF
 HFEQ,Tidal Trust I Unlimited HFEQ Equity Long/Short ETF,Tidal Trust I Unlimited HFEQ Equity Long/Short ETF,P,HFEQ,Y,100.0,N,HFEQ
-HFGM,Unlimited HFGM Global Macro ETF,Unlimited HFGM Global Macro ETF,P,HFGM,Y,100.0,N,HFGM
+HFGM,Unlimited HFGM Global Macro ETF,Unlimited HFGM Global Macro ETF,N,HFGM,Y,100.0,N,HFGM
 HFGO,Hartford Large Cap Growth ETF,Hartford Large Cap Growth ETF,Z,HFGO,Y,100.0,N,HFGO
 HFMF,Tidal Trust I Unlimited HFMF Managed Futures ETF,Tidal Trust I Unlimited HFMF Managed Futures ETF,P,HFMF,Y,100.0,N,HFMF
-HFND,Unlimited HFND Multi,Unlimited HFND Multi-Strategy Return Tracker ETF,P,HFND,Y,100.0,N,HFND
+HFND,Unlimited HFND Multi,Unlimited HFND Multi-Strategy Return Tracker ETF,N,HFND,Y,100.0,N,HFND
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,N,HFRO,N,100.0,N,HFRO
 HFRO$A,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,N,HFROpA,N,100.0,N,HFRO-A
 HFRO$B,Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares,Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares,N,HFROpB,N,100.0,N,HFRO-B
@@ -3095,6 +3093,7 @@ IQRA,NYLI CBRE Real Assets ETF,NYLI CBRE Real Assets ETF,P,IQRA,Y,100.0,N,IQRA
 IQSI,NYLI Candriam International Equity ETF,NYLI Candriam International Equity ETF,P,IQSI,Y,100.0,N,IQSI
 IQSM,NYLI Candriam U.S. Mid Cap Equity ETF,NYLI Candriam U.S. Mid Cap Equity ETF,P,IQSM,Y,100.0,N,IQSM
 IQSU,NYLI Candriam U.S. Large Cap Equity ETF,NYLI Candriam U.S. Large Cap Equity ETF,P,IQSU,Y,100.0,N,IQSU
+IQSZ,Invesco Managed Futures Strategy ETF Invesco Global Equity Net Zero ETF,Invesco Managed Futures Strategy ETF Invesco Global Equity Net Zero ETF,P,IQSZ,Y,100.0,N,IQSZ
 IQV,"IQVIA Holdings, Inc. Common Stock","IQVIA Holdings, Inc. Common Stock",N,IQV,N,100.0,N,IQV
 IR,Ingersoll Rand Inc. Common Stock,Ingersoll Rand Inc. Common Stock,N,IR,N,100.0,N,IR
 IRET,Tidal Trust II iREIT ,Tidal Trust II iREIT - MarketVector Quality REIT Index ETF,P,IRET,Y,100.0,N,IRET
@@ -4504,6 +4503,8 @@ PEO,"Adams Natural Resources Fund, Inc. Common Stock","Adams Natural Resources F
 PERF,Perfect Corp. Class A Ordinary Share,Perfect Corp. Class A Ordinary Share,N,PERF,N,100.0,N,PERF
 PERF.W,"Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share","Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share",N,PERF.WS,N,100.0,N,PERF+
 PEVC,Pacer Funds Trust Pacer PE/VC ETF,Pacer Funds Trust Pacer PE/VC ETF,P,PEVC,Y,100.0,N,PEVC
+PEW,GrabAGun Digital Holdings Inc. Common Stock,GrabAGun Digital Holdings Inc. Common Stock,N,PEW,N,100.0,N,PEW
+PEW.W,"GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share","GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",N,PEW.WS,N,100.0,N,PEW+
 PEX,ProShares Global Listed Private Equity ETF,ProShares Global Listed Private Equity ETF,Z,PEX,Y,100.0,N,PEX
 PEXL,Pacer US Export Leaders ETF,Pacer US Export Leaders ETF,P,PEXL,Y,100.0,N,PEXL
 PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated,Flaherty & Crumrine Preferred and Income Fund Incorporated,N,PFD,N,100.0,N,PFD
@@ -5785,6 +5786,7 @@ TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,FlexShares M
 TLTI,NEOS ETF Trust NEOS Enhanced Income 20+ Year Treasury Bond ETF,NEOS ETF Trust NEOS Enhanced Income 20+ Year Treasury Bond ETF,Z,TLTI,Y,100.0,N,TLTI
 TLTP,Amplify Bloomberg U.S. Treasury 12% Premium Income ETF,Amplify Bloomberg U.S. Treasury 12% Premium Income ETF,Z,TLTP,Y,100.0,N,TLTP
 TLTW,iShares Trust iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,iShares Trust iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,Z,TLTW,Y,100.0,N,TLTW
+TLTX,Global X Funds Global X Treasury Bond Enhanced Income ETF,Global X Funds Global X Treasury Bond Enhanced Income ETF,Z,TLTX,Y,100.0,N,TLTX
 TLYS,"Tilly's, Inc. Common Stock","Tilly's, Inc. Common Stock",N,TLYS,N,100.0,N,TLYS
 TM,Toyota Motor Corporation Common Stock,Toyota Motor Corporation Common Stock,N,TM,N,100.0,N,TM
 TMAR,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - March,Z,TMAR,Y,100.0,N,TMAR

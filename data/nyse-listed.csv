@@ -572,9 +572,6 @@ CION,CION Investment Corporation Common Stock
 CIVI,"Civitas Resources, Inc. Common Stock"
 CL,Colgate
 CLB,Core Laboratories Inc. Common Stock
-CLBR,Colombier Acquisition Corp. II Class A Ordinary Shares
-CLBR.U,"Colombier Acquisition Corp. II Units, each consisting of one Class A ordinary share and one"
-CLBR.W,"Colombier Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share"
 CLCO,Cool Company Ltd. Common Shares
 CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
 CLDT$A,Chatham Lodging Trust (REIT) 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest
@@ -1244,6 +1241,8 @@ HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest
 HES,Hess Corporation Common Stock
 HESM,Hess Midstream LP Class A Representing Limited Partner Interests
 HF,DGA Core Plus Absolute Return ETF
+HFGM,Unlimited HFGM Global Macro ETF
+HFND,Unlimited HFND Multi
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest
 HFRO$A,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares
 HFRO$B,Highland Opportunities and Income Fund 5.375% Series B Cumulative Preferred Shares
@@ -2012,6 +2011,8 @@ PEN,"Penumbra, Inc. Common Stock"
 PEO,"Adams Natural Resources Fund, Inc. Common Stock"
 PERF,Perfect Corp. Class A Ordinary Share
 PERF.W,"Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share"
+PEW,GrabAGun Digital Holdings Inc. Common Stock
+PEW.W,"GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share"
 PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated
 PFE,"Pfizer, Inc. Common Stock"
 PFGC,Performance Food Group Company Common Stock
