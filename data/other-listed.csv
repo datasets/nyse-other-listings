@@ -1577,6 +1577,7 @@ DSX.W,Diana Shipping inc. Warrants,Diana Shipping inc. Warrants,N,DSX.WS,N,100.0
 DT,"Dynatrace, Inc. Common Stock","Dynatrace, Inc. Common Stock",N,DT,N,100.0,N,DT
 DTAN,EA Series Trust Sparkline International Intangible Value ETF,EA Series Trust Sparkline International Intangible Value ETF,P,DTAN,Y,100.0,N,DTAN
 DTB,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,N,DTB,N,100.0,N,DTB
+DTC,"Solo Brands, Inc. Class A Common Stock","Solo Brands, Inc. Class A Common Stock",N,DTC,N,100.0,N,DTC
 DTD,WisdomTree U.S. Total Dividend Fund,WisdomTree U.S. Total Dividend Fund,P,DTD,Y,100.0,N,DTD
 DTE,DTE Energy Company Common Stock,DTE Energy Company Common Stock,N,DTE,N,100.0,N,DTE
 DTEC,ALPS ETF Trust ALPS Disruptive Technologies ETF,ALPS ETF Trust ALPS Disruptive Technologies ETF,P,DTEC,Y,100.0,N,DTEC
@@ -2839,7 +2840,7 @@ HYGV,FlexShares High Yield Value,FlexShares High Yield Value-Scored Bond Index F
 HYGW,iShares Trust iShares High Yield Corporate Bond BuyWrite Strategy ETF,iShares Trust iShares High Yield Corporate Bond BuyWrite Strategy ETF,Z,HYGW,Y,100.0,N,HYGW
 HYHG,ProShares High Yield Interest Rate Hedged,ProShares High Yield Interest Rate Hedged,Z,HYHG,Y,100.0,N,HYHG
 HYI,Western Asset High Yield Defined Opportunity Fund Inc. Common Stock,Western Asset High Yield Defined Opportunity Fund Inc. Common Stock,N,HYI,N,100.0,N,HYI
-HYIN,WisdomTree Alternative Income Fund,WisdomTree Alternative Income Fund,Z,HYIN,Y,100.0,N,HYIN
+HYIN,WisdomTree Private Credit and Alternative Income Fund,WisdomTree Private Credit and Alternative Income Fund,Z,HYIN,Y,100.0,N,HYIN
 HYKE,ETF Series Solutions Vest 2 Year Interest Rate Hedge ETF,ETF Series Solutions Vest 2 Year Interest Rate Hedge ETF,Z,HYKE,Y,100.0,N,HYKE
 HYLB,Xtrackers USD High Yield Corporate Bond ETF,Xtrackers USD High Yield Corporate Bond ETF,P,HYLB,Y,100.0,N,HYLB
 HYLN,Hyliion Holdings Corp. Class A Common Stock,Hyliion Holdings Corp. Class A Common Stock,A,HYLN,N,100.0,N,HYLN
@@ -4262,6 +4263,7 @@ NXDT,NexPoint Diversified Real Estate Trust Common Stock,NexPoint Diversified Re
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),N,NXDTpA,N,100.0,N,NXDT-A
 NXE,Nexgen Energy Ltd. Common Shares,Nexgen Energy Ltd. Common Shares,N,NXE,N,100.0,N,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,N,NXG,N,100.0,N,NXG
+NXG.V,"NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued","NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued",N,NXGrw,N,100.0,N,NXG^#
 NXJ,Nuveen New Jersey Qualified Municipal Fund ,Nuveen New Jersey Qualified Municipal Fund ,N,NXJ,N,100.0,N,NXJ
 NXN,Nuveen New York Select Tax,Nuveen New York Select Tax-Free Income Portfolio Common Stock,N,NXN,N,100.0,N,NXN
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,Nuveen Select Tax Free Income Portfolio Common Stock,N,NXP,N,100.0,N,NXP
@@ -5478,6 +5480,7 @@ SPMA,"Sound Point Meridian Capital, Inc. 8.00% Series A Preferred Shares Due 202
 SPMB,SPDR Portfolio Mortgage Backed Bond ETF,SPDR Portfolio Mortgage Backed Bond ETF,P,SPMB,Y,100.0,N,SPMB
 SPMC,"Sound Point Meridian Capital, Inc. Common Stock","Sound Point Meridian Capital, Inc. Common Stock",N,SPMC,N,100.0,N,SPMC
 SPMD,SPDR Portfolio S&P 400 Mid Cap ETF  ,SPDR Portfolio S&P 400 Mid Cap ETF  ,P,SPMD,Y,100.0,N,SPMD
+SPME,"Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 2030","Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 2030",N,SPME,N,100.0,N,SPME
 SPMO,Invesco S&P 500 Momentum ETF,Invesco S&P 500 Momentum ETF,P,SPMO,Y,100.0,N,SPMO
 SPMV,Invesco S&P 500 Minimum Variance ETF,Invesco S&P 500 Minimum Variance ETF,Z,SPMV,Y,100.0,N,SPMV
 SPNT,SiriusPoint Ltd. Common Shares,SiriusPoint Ltd. Common Shares,N,SPNT,N,100.0,N,SPNT
