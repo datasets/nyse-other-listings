@@ -430,7 +430,7 @@ BRK.A,Berkshire Hathaway Inc. Common Stock
 BRK.B,Berkshire Hathaway Inc. New Common Stock
 BRO,"Brown & Brown, Inc. Common Stock"
 BROS,Dutch Bros Inc. Class A Common Stock
-BRSL,Brightstar Lottery Ordinary Shares
+BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares"
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock"
 BRT,BRT Apartments Corp. (MD) Common Stock
 BRW,Saba Capital Income & Opportunities Fund SBI
@@ -1239,7 +1239,6 @@ HE,"Hawaiian Electric Industries, Inc. Common Stock"
 HEI,Heico Corporation Common Stock
 HEI.A,Heico Corporation Common Stock
 HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest
-HES,Hess Corporation Common Stock
 HESM,Hess Midstream LP Class A Representing Limited Partner Interests
 HF,DGA Core Plus Absolute Return ETF
 HFGM,Unlimited HFGM Global Macro ETF
@@ -1409,6 +1408,8 @@ JCE,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest
 JCI,Johnson Controls International plc Ordinary Share
 JEF,Jefferies Financial Group Inc. Common Stock
 JELD,JELD
+JENA,Jena Acquisition Corporation II Class A Ordinary Shares
+JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one"
 JENA.U,"Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right"
 JEQ,"abrdn Japan Equity Fund, Inc. Common Stock"
 JFR,Nuveen Floating Rate Income Fund Common Stock
@@ -1469,7 +1470,6 @@ KIM,Kimco Realty Corporation (HC) Common Stock
 KIM$L,"Kimco Realty Corporation Class L Depositary Shares, each of which represents a one"
 KIM$M,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one"
 KIM$N,"Kimco Realty Corporation Depositary Shares, each representing 1/1,000th interest in a share of 7.25% Class N Cumulative Convertible Perpetual Preferred Stock"
-KIND,"Nextdoor Holdings, Inc. Class A Common Stock"
 KIO,KKR Income Opportunities Fund Common Shares
 KKR,KKR & Co. Inc. Common Stock
 KKR$D,KKR & Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock
@@ -1894,6 +1894,7 @@ NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Or
 NWN,Northwest Natural Holding Company Common Stock
 NX,Quanex Building Products Corporation Common Stock
 NXC,Nuveen California Select Tax
+NXDR,"Nextdoor Holdings, Inc. Class A Common Stock"
 NXDT,NexPoint Diversified Real Estate Trust Common Stock
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share)
 NXE,Nexgen Energy Ltd. Common Shares

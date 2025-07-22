@@ -791,7 +791,7 @@ BRLN,iShares Floating Rate Loan Active ETF,iShares Floating Rate Loan Active ETF
 BRN,"Barnwell Industries, Inc. Common Stock","Barnwell Industries, Inc. Common Stock",A,BRN,N,100.0,N,BRN
 BRO,"Brown & Brown, Inc. Common Stock","Brown & Brown, Inc. Common Stock",N,BRO,N,100.0,N,BRO
 BROS,Dutch Bros Inc. Class A Common Stock,Dutch Bros Inc. Class A Common Stock,N,BROS,N,100.0,N,BROS
-BRSL,Brightstar Lottery Ordinary Shares,Brightstar Lottery Ordinary Shares,N,BRSL,N,100.0,N,BRSL
+BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares","Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares",N,BRSL,N,100.0,N,BRSL
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock","BrightSpire Capital, Inc. Class A Common Stock",N,BRSP,N,100.0,N,BRSP
 BRT,BRT Apartments Corp. (MD) Common Stock,BRT Apartments Corp. (MD) Common Stock,N,BRT,N,100.0,N,BRT
 BRW,Saba Capital Income & Opportunities Fund SBI,Saba Capital Income & Opportunities Fund SBI,N,BRW,N,100.0,N,BRW
@@ -2380,7 +2380,6 @@ GBND,Goldman Sachs ETF Trust Goldman Sachs Core Bond ETF,Goldman Sachs ETF Trust
 GBR,"New Concept Energy, Inc Common Stock","New Concept Energy, Inc Common Stock",A,GBR,N,100.0,N,GBR
 GBTC,Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest,Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest,P,GBTC,Y,100.0,N,GBTC
 GBTG,"Global Business Travel Group, Inc. Class A Common Stock","Global Business Travel Group, Inc. Class A Common Stock",N,GBTG,N,100.0,N,GBTG
-GBUY,Goldman Sachs Future Consumer Equity ETF,Goldman Sachs Future Consumer Equity ETF,P,GBUY,Y,100.0,N,GBUY
 GBX,"Greenbrier Companies, Inc. (The) Common Stock","Greenbrier Companies, Inc. (The) Common Stock",N,GBX,N,100.0,N,GBX
 GBXA,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 1 ETF,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 1 ETF,Z,GBXA,Y,100.0,N,GBXA
 GBXB,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 2 ETF,Goldman Sachs ETF Trust Goldman Sachs U.S. Large Cap Buffer 2 ETF,Z,GBXB,Y,100.0,N,GBXB
@@ -2605,7 +2604,6 @@ GSEE,Goldman Sachs MarketBeta Emerging Markets Equity ETF,Goldman Sachs MarketBe
 GSEP,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - September,Z,GSEP,Y,100.0,N,GSEP
 GSEU,Goldman Sachs ActiveBeta Europe Equity ETF,Goldman Sachs ActiveBeta Europe Equity ETF,P,GSEU,Y,100.0,N,GSEU
 GSEW,Goldman Sachs Equal Weight U.S. Large Cap Equity ETF,Goldman Sachs Equal Weight U.S. Large Cap Equity ETF,Z,GSEW,Y,100.0,N,GSEW
-GSFP,Goldman Sachs Future Planet Equity ETF,Goldman Sachs Future Planet Equity ETF,P,GSFP,Y,100.0,N,GSFP
 GSG,iShares GSCI Commodity,iShares GSCI Commodity-Indexed Trust Fund,P,GSG,Y,100.0,N,GSG
 GSID,Goldman Sachs MarketBeta International Equity ETF,Goldman Sachs MarketBeta International Equity ETF,Z,GSID,Y,100.0,N,GSID
 GSIE,Goldman Sachs ActiveBeta International Equity ETF,Goldman Sachs ActiveBeta International Equity ETF,P,GSIE,Y,100.0,N,GSIE
@@ -2707,7 +2705,6 @@ HELO,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Hedged
 HELX,Franklin Genomic Advancements ETF,Franklin Genomic Advancements ETF,Z,HELX,Y,100.0,N,HELX
 HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,N,HEQ,N,100.0,N,HEQ
 HEQT,Simplify Hedged Equity ETF,Simplify Hedged Equity ETF,P,HEQT,Y,100.0,N,HEQT
-HES,Hess Corporation Common Stock,Hess Corporation Common Stock,N,HES,N,100.0,N,HES
 HESM,Hess Midstream LP Class A Representing Limited Partner Interests,Hess Midstream LP Class A Representing Limited Partner Interests,N,HESM,N,100.0,N,HESM
 HEWJ,iShares Currency Hedged MSCI Japan ETF,iShares Currency Hedged MSCI Japan ETF,P,HEWJ,Y,100.0,N,HEWJ
 HEZU,iShares Currency Hedged MSCI Eurozone ETF,iShares Currency Hedged MSCI Eurozone ETF,P,HEZU,Y,100.0,N,HEZU
@@ -3240,6 +3237,8 @@ JEF,Jefferies Financial Group Inc. Common Stock,Jefferies Financial Group Inc. C
 JELD,JELD,"JELD-WEN Holding, Inc. Common Stock",N,JELD,N,100.0,N,JELD
 JEMA,JPMorgan ActiveBuilders Emerging Markets Equity ETF,JPMorgan ActiveBuilders Emerging Markets Equity ETF,Z,JEMA,Y,100.0,N,JEMA
 JEMB,Janus Detroit Street Trust Janus Henderson Emerging Markets Debt Hard Currency ETF,Janus Detroit Street Trust Janus Henderson Emerging Markets Debt Hard Currency ETF,P,JEMB,Y,100.0,N,JEMB
+JENA,Jena Acquisition Corporation II Class A Ordinary Shares,Jena Acquisition Corporation II Class A Ordinary Shares,N,JENA,N,100.0,N,JENA
+JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one","Jena Acquisition Corporation II Rights, each right to acquire one-twentieth (1/20) of one Class A ordinary share",N,JENAr,N,100.0,N,JENA^
 JENA.U,"Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right","Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right",N,JENA.U,N,100.0,N,JENA=
 JEPI,JPMorgan Equity Premium Income ETF,JPMorgan Equity Premium Income ETF,P,JEPI,Y,100.0,N,JEPI
 JEQ,"abrdn Japan Equity Fund, Inc. Common Stock","abrdn Japan Equity Fund, Inc. Common Stock",N,JEQ,N,100.0,N,JEQ
@@ -3403,7 +3402,6 @@ KIM,Kimco Realty Corporation (HC) Common Stock,Kimco Realty Corporation (HC) Com
 KIM$L,"Kimco Realty Corporation Class L Depositary Shares, each of which represents a one","Kimco Realty Corporation Class L Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",N,KIMpL,N,100.0,N,KIM-L
 KIM$M,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one","Kimco Realty Corporation Class M Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",N,KIMpM,N,100.0,N,KIM-M
 KIM$N,"Kimco Realty Corporation Depositary Shares, each representing 1/1,000th interest in a share of 7.25% Class N Cumulative Convertible Perpetual Preferred Stock","Kimco Realty Corporation Depositary Shares, each representing 1/1,000th interest in a share of 7.25% Class N Cumulative Convertible Perpetual Preferred Stock",N,KIMpN,N,100.0,N,KIM-N
-KIND,"Nextdoor Holdings, Inc. Class A Common Stock","Nextdoor Holdings, Inc. Class A Common Stock",N,KIND,N,100.0,N,KIND
 KIO,KKR Income Opportunities Fund Common Shares,KKR Income Opportunities Fund Common Shares,N,KIO,N,100.0,N,KIO
 KJAN,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - January,Z,KJAN,Y,100.0,N,KJAN
 KJUL,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - July,Z,KJUL,Y,100.0,N,KJUL
@@ -3441,7 +3439,6 @@ KNTK,Kinetik Holdings Inc. Class A Common Stock,Kinetik Holdings Inc. Class A Co
 KNW,"Know Labs, Inc. Common Stock","Know Labs, Inc. Common Stock",A,KNW,N,100.0,N,KNW
 KNX,Knight,Knight-Swift Transportation Holdings Inc.,N,KNX,N,100.0,N,KNX
 KO,Coca,Coca-Cola Company (The) Common Stock,N,KO,N,100.0,N,KO
-KOCG,NEOS ETF Trust FIS Knights of Columbus Global Belief ETF,NEOS ETF Trust FIS Knights of Columbus Global Belief ETF,P,KOCG,Y,100.0,N,KOCG
 KOCT,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - October,Z,KOCT,Y,100.0,N,KOCT
 KODK,Eastman Kodak Company Common New,Eastman Kodak Company Common New,N,KODK,N,100.0,N,KODK
 KOF,"Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)","Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)",N,KOF,N,100.0,N,KOF
@@ -4259,6 +4256,7 @@ NWLG,Nuveen Winslow Large,Nuveen Winslow Large-Cap Growth ESG ETF,P,NWLG,Y,100.0
 NWN,Northwest Natural Holding Company Common Stock,Northwest Natural Holding Company Common Stock,N,NWN,N,100.0,N,NWN
 NX,Quanex Building Products Corporation Common Stock,Quanex Building Products Corporation Common Stock,N,NX,N,100.0,N,NX
 NXC,Nuveen California Select Tax,Nuveen California Select Tax-Free Income Portfolio Common Stock,N,NXC,N,100.0,N,NXC
+NXDR,"Nextdoor Holdings, Inc. Class A Common Stock","Nextdoor Holdings, Inc. Class A Common Stock",N,NXDR,N,100.0,N,NXDR
 NXDT,NexPoint Diversified Real Estate Trust Common Stock,NexPoint Diversified Real Estate Trust Common Stock,N,NXDT,N,100.0,N,NXDT
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),N,NXDTpA,N,100.0,N,NXDT-A
 NXE,Nexgen Energy Ltd. Common Shares,Nexgen Energy Ltd. Common Shares,N,NXE,N,100.0,N,NXE
@@ -6085,6 +6083,7 @@ UX,Roundhill ETF Trust Roundhill Uranium ETF,Roundhill ETF Trust Roundhill Urani
 UXAP,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - April,Z,UXAP,Y,100.0,N,UXAP
 UXI,ProShares Ultra Industrials,ProShares Ultra Industrials,P,UXI,Y,100.0,N,UXI
 UXJA,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - January,Z,UXJA,Y,100.0,N,UXJA
+UXJL,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - July,Z,UXJL,Y,100.0,N,UXJL
 UXOC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Uncapped Accelerator ETF - October,Z,UXOC,Y,100.0,N,UXOC
 UXRP,ProShares Trust ProShares Ultra XRP ETF,ProShares Trust ProShares Ultra XRP ETF,P,UXRP,Y,100.0,N,UXRP
 UYG,ProShares Ultra Financials,ProShares Ultra Financials,P,UYG,Y,100.0,N,UYG
