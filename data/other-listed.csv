@@ -4261,7 +4261,7 @@ NXDT,NexPoint Diversified Real Estate Trust Common Stock,NexPoint Diversified Re
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),N,NXDTpA,N,100.0,N,NXDT-A
 NXE,Nexgen Energy Ltd. Common Shares,Nexgen Energy Ltd. Common Shares,N,NXE,N,100.0,N,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,N,NXG,N,100.0,N,NXG
-NXG.V,"NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued","NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights when issued",N,NXGrw,N,100.0,N,NXG^#
+NXG.R,"NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights","NXG NextGen Infrastructure Income Fund Rights (expiring August 13, 2025) Rights",N,NXGr,N,100.0,N,NXG^
 NXJ,Nuveen New Jersey Qualified Municipal Fund ,Nuveen New Jersey Qualified Municipal Fund ,N,NXJ,N,100.0,N,NXJ
 NXN,Nuveen New York Select Tax,Nuveen New York Select Tax-Free Income Portfolio Common Stock,N,NXN,N,100.0,N,NXN
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,Nuveen Select Tax Free Income Portfolio Common Stock,N,NXP,N,100.0,N,NXP
@@ -4412,6 +4412,7 @@ PALL,abrdn Physical Palladium Shares ETF,abrdn Physical Palladium Shares ETF,P,P
 PAM,Pampa Energia S.A.,Pampa Energia S.A.,N,PAM,N,100.0,N,PAM
 PAMC,Pacer Lunt MidCap Multi,Pacer Lunt MidCap Multi-Factor Alternator ETF,P,PAMC,Y,100.0,N,PAMC
 PAPI,Morgan Stanley ETF Trust Parametric Equity Premium Income ETF,Morgan Stanley ETF Trust Parametric Equity Premium Income ETF,P,PAPI,Y,100.0,N,PAPI
+PAPL,Pineapple Financial Inc. Common Stock,Pineapple Financial Inc. Common Stock,A,PAPL,N,100.0,N,PAPL
 PAPR,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - April,Z,PAPR,Y,100.0,N,PAPR
 PAR,PAR Technology Corporation Common Stock,PAR Technology Corporation Common Stock,N,PAR,N,100.0,N,PAR
 PARR,"Par Pacific Holdings, Inc.  Common Stock","Par Pacific Holdings, Inc.  Common Stock",N,PARR,N,100.0,N,PARR
