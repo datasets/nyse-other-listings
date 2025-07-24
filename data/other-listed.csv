@@ -1066,7 +1066,9 @@ CIX,CompX International Inc. Common Stock,CompX International Inc. Common Stock,
 CKX,"CKX Lands, Inc. Common Stock","CKX Lands, Inc. Common Stock",A,CKX,N,100.0,N,CKX
 CL,Colgate,Colgate-Palmolive Company Common Stock,N,CL,N,100.0,N,CL
 CLB,Core Laboratories Inc. Common Stock,Core Laboratories Inc. Common Stock,N,CLB,N,100.0,N,CLB
+CLCG,Crossmark ETF Trust Crossmark Large Cap Growth ETF,Crossmark ETF Trust Crossmark Large Cap Growth ETF,P,CLCG,Y,100.0,N,CLCG
 CLCO,Cool Company Ltd. Common Shares,Cool Company Ltd. Common Shares,N,CLCO,N,100.0,N,CLCO
+CLCV,Crossmark ETF Trust Crossmark Large Cap Value ETF,Crossmark ETF Trust Crossmark Large Cap Value ETF,P,CLCV,Y,100.0,N,CLCV
 CLDI,"Calidi Biotherapeutics, Inc. Common Stock","Calidi Biotherapeutics, Inc. Common Stock",A,CLDI,N,100.0,N,CLDI
 CLDL,Direxion Daily Cloud Computing Bull 2X Shares,Direxion Daily Cloud Computing Bull 2X Shares,P,CLDL,Y,100.0,N,CLDL
 CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,N,CLDT,N,100.0,N,CLDT
@@ -2628,6 +2630,7 @@ GTLS$B,"Chart Industries, Inc. Depositary Shares, each Representing a 1/20th Int
 GTN,"Gray Media, Inc. Common Stock","Gray Media, Inc. Common Stock",N,GTN,N,100.0,N,GTN
 GTN.A,"Gray Media, Inc. Class A Common Stock","Gray Media, Inc. Class A Common Stock",N,GTN.A,N,100.0,N,GTN.A
 GTO,Invesco Total Return Bond ETF,Invesco Total Return Bond ETF,P,GTO,Y,100.0,N,GTO
+GTOC,Invesco Managed Futures Strategy ETF Invesco Core Fixed Income ETF,Invesco Managed Futures Strategy ETF Invesco Core Fixed Income ETF,Z,GTOC,Y,100.0,N,GTOC
 GTOS,Invesco Short Duration Total Return Bond ETF,Invesco Short Duration Total Return Bond ETF,Z,GTOS,Y,100.0,N,GTOS
 GTY,Getty Realty Corporation Common Stock,Getty Realty Corporation Common Stock,N,GTY,N,100.0,N,GTY
 GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,N,GUG,N,100.0,N,GUG
@@ -2652,6 +2655,11 @@ GWX,SPDR S&P International SmallCap ETF,SPDR S&P International SmallCap ETF,P,GW
 GXC,SPDR S&P China ETF,SPDR S&P China ETF,P,GXC,Y,100.0,N,GXC
 GXIG,Global X Funds Global X Investment Grade Corporate Bond ETF,Global X Funds Global X Investment Grade Corporate Bond ETF,P,GXIG,Y,100.0,N,GXIG
 GXO,"GXO Logistics, Inc. Common Stock ","GXO Logistics, Inc. Common Stock ",N,GXO,N,100.0,N,GXO
+GXPC,Global X Funds Global X PureCap MSCI Communication Services ETF,Global X Funds Global X PureCap MSCI Communication Services ETF,P,GXPC,Y,100.0,N,GXPC
+GXPD,Global X Funds Global X PureCap MSCI Consumer Discretionary ETF,Global X Funds Global X PureCap MSCI Consumer Discretionary ETF,P,GXPD,Y,100.0,N,GXPD
+GXPE,Global X Funds Global X PureCap MSCI Energy ETF,Global X Funds Global X PureCap MSCI Energy ETF,P,GXPE,Y,100.0,N,GXPE
+GXPS,Global X Funds Global X PureCap MSCI Consumer Staples ETF,Global X Funds Global X PureCap MSCI Consumer Staples ETF,P,GXPS,Y,100.0,N,GXPS
+GXPT,Global X Funds Global X PureCap MSCI Information Technology ETF,Global X Funds Global X PureCap MSCI Information Technology ETF,P,GXPT,Y,100.0,N,GXPT
 GXUS,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta Total International Equity ETF,Goldman Sachs ETF Trust II Goldman Sachs MarketBeta Total International Equity ETF,P,GXUS,Y,100.0,N,GXUS
 GYLD,Arrow Dow Jones Global Yield ETF ETF,Arrow Dow Jones Global Yield ETF ETF,N,GYLD,Y,100.0,N,GYLD
 H,Hyatt Hotels Corporation Class A Common Stock,Hyatt Hotels Corporation Class A Common Stock,N,H,N,100.0,N,H
@@ -3055,6 +3063,7 @@ INSP,"Inspire Medical Systems, Inc. Common Stock","Inspire Medical Systems, Inc.
 INSW,"International Seaways, Inc. Common Stock ","International Seaways, Inc. Common Stock ",N,INSW,N,100.0,N,INSW
 INTF,iShares International Equity Factor ETF,iShares International Equity Factor ETF,P,INTF,Y,100.0,N,INTF
 INTL,Northern Lights Fund Trust IV Main International ETF,Northern Lights Fund Trust IV Main International ETF,Z,INTL,Y,100.0,N,INTL
+INTM,Invesco Managed Futures Strategy ETF Invesco Intermediate Municipal ETF,Invesco Managed Futures Strategy ETF Invesco Intermediate Municipal ETF,Z,INTM,Y,100.0,N,INTM
 INTT,inTest Corporation Common Stock,inTest Corporation Common Stock,A,INTT,N,100.0,N,INTT
 INUV,"Inuvo, Inc.","Inuvo, Inc.",A,INUV,N,100.0,N,INUV
 INVG,The 2023 ETF Series Trust II GMO Systematic Investment Grade Credit ETF,The 2023 ETF Series Trust II GMO Systematic Investment Grade Credit ETF,P,INVG,Y,100.0,N,INVG
@@ -3202,6 +3211,7 @@ IYZ,iShares U.S. Telecommunications ETF,iShares U.S. Telecommunications ETF,Z,IY
 IZRL,ARK Israel Innovative Technology ETF,ARK Israel Innovative Technology ETF,Z,IZRL,Y,100.0,N,IZRL
 J,Jacobs Solutions Inc. Common Stock,Jacobs Solutions Inc. Common Stock,N,J,N,100.0,N,J
 JAAA,Janus Henderson AAA CLO ETF,Janus Henderson AAA CLO ETF,P,JAAA,Y,100.0,N,JAAA
+JABS,Janus Detroit Street Trust Janus Henderson Asset,Janus Detroit Street Trust Janus Henderson Asset-Backed Securities ETF,P,JABS,Y,100.0,N,JABS
 JACS,Jackson Acquisition Company II Class A Ordinary Shares,Jackson Acquisition Company II Class A Ordinary Shares,N,JACS,N,100.0,N,JACS
 JACS.R,"Jackson Acquisition Company II Rights, each right to acquire one","Jackson Acquisition Company II Rights, each right to acquire one-tenth (1/10) of one Class A ordinary share",N,JACSr,N,100.0,N,JACS^
 JACS.U,"Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one","Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one-tenth (1/10) of one Class A ordinary share",N,JACS.U,N,100.0,N,JACS=
@@ -4117,6 +4127,7 @@ NIE,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest
 NIM,Nuveen Select Maturities Municipal Fund Common Stock,Nuveen Select Maturities Municipal Fund Common Stock,N,NIM,N,100.0,N,NIM
 NINE,"Nine Energy Service, Inc. Common Stock","Nine Energy Service, Inc. Common Stock",N,NINE,N,100.0,N,NINE
 NIO,"NIO Inc. American depositary shares, each  representing one Class A ordinary share","NIO Inc. American depositary shares, each  representing one Class A ordinary share",N,NIO,N,100.0,N,NIO
+NIQ,NIQ Global Intelligence plc Ordinary Shares,NIQ Global Intelligence plc Ordinary Shares,N,NIQ,N,100.0,N,NIQ
 NITE,Capitol Series Trust The Nightview Fund NITE,Capitol Series Trust The Nightview Fund NITE,P,NITE,Y,100.0,N,NITE
 NJAN,Innovator Growth,Innovator Growth-100 Power Buffer ETF - January,Z,NJAN,Y,100.0,N,NJAN
 NJNK,Columbia ETF Trust I Columbia U.S. High Yield ETF,Columbia ETF Trust I Columbia U.S. High Yield ETF,P,NJNK,Y,100.0,N,NJNK
@@ -5846,7 +5857,6 @@ TPIF,Timothy Plan International ETF,Timothy Plan International ETF,P,TPIF,Y,100.
 TPL,Texas Pacific Land Corporation Common Stock,Texas Pacific Land Corporation Common Stock,N,TPL,N,100.0,N,TPL
 TPLC,Timothy Plan US Large/Mid Cap Core ETF,Timothy Plan US Large/Mid Cap Core ETF,P,TPLC,Y,100.0,N,TPLC
 TPLE,Timothy Plan US Large/Mid Cap Core Enhanced ETF,Timothy Plan US Large/Mid Cap Core Enhanced ETF,P,TPLE,Y,100.0,N,TPLE
-TPMN,The Timothy Plan Timothy Plan Market Neutral ETF,The Timothy Plan Timothy Plan Market Neutral ETF,P,TPMN,Y,100.0,N,TPMN
 TPOR,Direxion Daily Transportation Bull 3X Shares,Direxion Daily Transportation Bull 3X Shares,P,TPOR,Y,100.0,N,TPOR
 TPR,"Tapestry, Inc. Common Stock","Tapestry, Inc. Common Stock",N,TPR,N,100.0,N,TPR
 TPSC,Timothy Plan US Small Cap Core ETF,Timothy Plan US Small Cap Core ETF,P,TPSC,Y,100.0,N,TPSC
