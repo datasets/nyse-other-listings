@@ -210,6 +210,7 @@ AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,Ardagh Metal Packaging S.A. Ord
 AMBP.W,"Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share","Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share",N,AMBP.WS,N,100.0,N,AMBP+
 AMC,"AMC Entertainment Holdings, Inc. Class A Common Stock","AMC Entertainment Holdings, Inc. Class A Common Stock",N,AMC,N,100.0,N,AMC
 AMCR,Amcor plc Ordinary Shares,Amcor plc Ordinary Shares,N,AMCR,N,100.0,N,AMCR
+AMDW,Roundhill ETF Trust Roundhill AMD WeeklyPay ETF,Roundhill ETF Trust Roundhill AMD WeeklyPay ETF,Z,AMDW,Y,100.0,N,AMDW
 AMDY,Tidal Trust II Yieldmax AMD Option Income Strategy ETF,Tidal Trust II Yieldmax AMD Option Income Strategy ETF,P,AMDY,Y,100.0,N,AMDY
 AME,"AMETEK, Inc.","AMETEK, Inc.",N,AME,N,100.0,N,AME
 AMG,"Affiliated Managers Group, Inc. Common Stock","Affiliated Managers Group, Inc. Common Stock",N,AMG,N,100.0,N,AMG
@@ -331,6 +332,7 @@ ARR,"ARMOUR Residential REIT, Inc.","ARMOUR Residential REIT, Inc.",N,ARR,N,100.
 ARR$C,"ARMOUR Residential REIT, Inc. 7% Series C Cumulative Redeemable Preferred Stock (liquidation preference $25.00 per share)","ARMOUR Residential REIT, Inc. 7% Series C Cumulative Redeemable Preferred Stock (liquidation preference $25.00 per share)",N,ARRpC,N,100.0,N,ARR-C
 ARTY,iShares Future AI & Tech ETF,iShares Future AI & Tech ETF,P,ARTY,Y,100.0,N,ARTY
 ARW,"Arrow Electronics, Inc. Common Stock","Arrow Electronics, Inc. Common Stock",N,ARW,N,100.0,N,ARW
+ARX,Accelerant Holdings Class A Common Shares,Accelerant Holdings Class A Common Shares,N,ARX,N,100.0,N,ARX
 AS,"Amer Sports, Inc. Ordinary Shares","Amer Sports, Inc. Ordinary Shares",N,AS,N,100.0,N,AS
 ASA,ASA  Gold and Precious Metals Limited,ASA  Gold and Precious Metals Limited,N,ASA,N,100.0,N,ASA
 ASAN,"Asana, Inc. Class A Common Stock","Asana, Inc. Class A Common Stock",N,ASAN,N,100.0,N,ASAN
@@ -403,6 +405,7 @@ AVEM,Avantis Emerging Markets Equity ETF,Avantis Emerging Markets Equity ETF,P,A
 AVES,Avantis Emerging Markets Value ETF,Avantis Emerging Markets Value ETF,P,AVES,Y,100.0,N,AVES
 AVGE,American Century ETF Trust Avantis All Equity Markets ETF,American Century ETF Trust Avantis All Equity Markets ETF,P,AVGE,Y,100.0,N,AVGE
 AVGV,American Century ETF Trust Avantis All Equity Markets Value ETF,American Century ETF Trust Avantis All Equity Markets Value ETF,P,AVGV,Y,100.0,N,AVGV
+AVGW,Roundhill ETF Trust Roundhill AVGO WeeklyPay ETF,Roundhill ETF Trust Roundhill AVGO WeeklyPay ETF,Z,AVGW,Y,100.0,N,AVGW
 AVIE,American Century ETF Trust Avantis Inflation Focused Equity ETF,American Century ETF Trust Avantis Inflation Focused Equity ETF,P,AVIE,Y,100.0,N,AVIE
 AVIG,Avantis Core Fixed Income ETF,Avantis Core Fixed Income ETF,P,AVIG,Y,100.0,N,AVIG
 AVIV,Avantis International Large Cap Value ETF,Avantis International Large Cap Value ETF,P,AVIV,Y,100.0,N,AVIV
@@ -1579,7 +1582,6 @@ DSX.W,Diana Shipping inc. Warrants,Diana Shipping inc. Warrants,N,DSX.WS,N,100.0
 DT,"Dynatrace, Inc. Common Stock","Dynatrace, Inc. Common Stock",N,DT,N,100.0,N,DT
 DTAN,EA Series Trust Sparkline International Intangible Value ETF,EA Series Trust Sparkline International Intangible Value ETF,P,DTAN,Y,100.0,N,DTAN
 DTB,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,N,DTB,N,100.0,N,DTB
-DTC,"Solo Brands, Inc. Class A Common Stock","Solo Brands, Inc. Class A Common Stock",N,DTC,N,100.0,N,DTC
 DTD,WisdomTree U.S. Total Dividend Fund,WisdomTree U.S. Total Dividend Fund,P,DTD,Y,100.0,N,DTD
 DTE,DTE Energy Company Common Stock,DTE Energy Company Common Stock,N,DTE,N,100.0,N,DTE
 DTEC,ALPS ETF Trust ALPS Disruptive Technologies ETF,ALPS ETF Trust ALPS Disruptive Technologies ETF,P,DTEC,Y,100.0,N,DTEC
@@ -2549,6 +2551,7 @@ GOLF,Acushnet Holdings Corp. Common Stock,Acushnet Holdings Corp. Common Stock,N
 GOLY,Strategy Shares Gold Enhanced Yield ETF,Strategy Shares Gold Enhanced Yield ETF,Z,GOLY,Y,100.0,N,GOLY
 GOOP,Kurv Yield Premium Strategy Google (GOOGL) ETF,Kurv Yield Premium Strategy Google (GOOGL) ETF,Z,GOOP,Y,100.0,N,GOOP
 GOOS,Canada Goose Holdings Inc. Subordinate Voting Shares,Canada Goose Holdings Inc. Subordinate Voting Shares,N,GOOS,N,100.0,N,GOOS
+GOOW,Roundhill ETF Trust Roundhill GOOGL WeeklyPay ETF,Roundhill ETF Trust Roundhill GOOGL WeeklyPay ETF,Z,GOOW,Y,100.0,N,GOOW
 GOOX,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long Alphabet Daily Target ETF,Z,GOOX,Y,100.0,N,GOOX
 GOOY,Tidal ETF Trust II YieldMax GOOGL Option Income Strategy ETF,Tidal ETF Trust II YieldMax GOOGL Option Income Strategy ETF,P,GOOY,Y,100.0,N,GOOY
 GOP,Unusual Whales Subversive Republican Trading ETF,Unusual Whales Subversive Republican Trading ETF,Z,GOP,Y,100.0,N,GOP
@@ -3818,6 +3821,7 @@ MGRE,"Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064"
 MGRO,VanEck ETF Trust VanEck Morningstar Wide Moat Growth ETF,VanEck ETF Trust VanEck Morningstar Wide Moat Growth ETF,Z,MGRO,Y,100.0,N,MGRO
 MGV,Vanguard Mega Cap Value ETF,Vanguard Mega Cap Value ETF,P,MGV,Y,100.0,N,MGV
 MGY,Magnolia Oil & Gas Corporation Class A Common Stock,Magnolia Oil & Gas Corporation Class A Common Stock,N,MGY,N,100.0,N,MGY
+MH,"McGraw Hill, Inc. Common Stock","McGraw Hill, Inc. Common Stock",N,MH,N,100.0,N,MH
 MHD,"Blackrock MuniHoldings Fund, Inc. Common Stock","Blackrock MuniHoldings Fund, Inc. Common Stock",N,MHD,N,100.0,N,MHD
 MHF,"Western Asset Municipal High Income Fund, Inc. Common Stock","Western Asset Municipal High Income Fund, Inc. Common Stock",N,MHF,N,100.0,N,MHF
 MHH,"Mastech Digital, Inc Common Stock","Mastech Digital, Inc Common Stock",A,MHH,N,100.0,N,MHH
@@ -3945,6 +3949,7 @@ MSCI,MSCI Inc. Common Stock,MSCI Inc. Common Stock,N,MSCI,N,100.0,N,MSCI
 MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock","Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",N,MSD,N,100.0,N,MSD
 MSDL,Morgan Stanley Direct Lending Fund Common Stock,Morgan Stanley Direct Lending Fund Common Stock,N,MSDL,N,100.0,N,MSDL
 MSFO,Tidal ETF Trust II YieldMax MSFT Option Income Strategy ETF,Tidal ETF Trust II YieldMax MSFT Option Income Strategy ETF,P,MSFO,Y,100.0,N,MSFO
+MSFW,Roundhill ETF Trust Roundhill MSFT WeeklyPay ETF,Roundhill ETF Trust Roundhill MSFT WeeklyPay ETF,Z,MSFW,Y,100.0,N,MSFW
 MSFX,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long Microsoft Daily Target ETF,Z,MSFX,Y,100.0,N,MSFX
 MSFY,Kurv Yield Premium Strategy Microsoft (MSFT) ETF,Kurv Yield Premium Strategy Microsoft (MSFT) ETF,Z,MSFY,Y,100.0,N,MSFY
 MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,Madison Square Garden Entertainment Corp. Class A Common Stock,N,MSGE,N,100.0,N,MSGE
@@ -3964,6 +3969,7 @@ MSTB,LHA Market State Tactical Beta ETF,LHA Market State Tactical Beta ETF,Z,MST
 MSTI,Madison ETFs Trust Madison Short Term Strategic Income ETF,Madison ETFs Trust Madison Short Term Strategic Income ETF,P,MSTI,Y,100.0,N,MSTI
 MSTQ,ETF Series Solutions LHA Market State Tactical Q ETF,ETF Series Solutions LHA Market State Tactical Q ETF,Z,MSTQ,Y,100.0,N,MSTQ
 MSTU,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Long MSTR Daily Target ETF,Z,MSTU,Y,100.0,N,MSTU
+MSTW,Roundhill ETF Trust Roundhill MSTR WeeklyPay ETF,Roundhill ETF Trust Roundhill MSTR WeeklyPay ETF,Z,MSTW,Y,100.0,N,MSTW
 MSTY,Tidal Trust II YieldMax MSTR Option Income Strategy ETF,Tidal Trust II YieldMax MSTR Option Income Strategy ETF,P,MSTY,Y,100.0,N,MSTY
 MSTZ,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Inverse MSTR Daily Target ETF,Z,MSTZ,Y,100.0,N,MSTZ
 MT,Arcelor Mittal NY Registry Shares NEW,Arcelor Mittal NY Registry Shares NEW,N,MT,N,100.0,N,MT
@@ -5147,8 +5153,8 @@ SB$C,"Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Mars
 SB$D,"Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)","Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)",N,SBpD,N,100.0,N,SB-D
 SBAR,Simplify Exchange Traded Funds Simplify Barrier Income ETF,Simplify Exchange Traded Funds Simplify Barrier Income ETF,P,SBAR,Y,100.0,N,SBAR
 SBB,ProShares Short SmallCap600,ProShares Short SmallCap600,P,SBB,Y,100.0,N,SBB
+SBDS,"Solo Brands, Inc. Class A Common Stock","Solo Brands, Inc. Class A Common Stock",N,SBDS,N,100.0,N,SBDS
 SBEV,"Splash Beverage Group, Inc. (NV) Common Stock","Splash Beverage Group, Inc. (NV) Common Stock",A,SBEV,N,100.0,N,SBEV
-SBEV.W,"Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60","Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise price of $4.60",A,SBEV.WS,N,100.0,N,SBEV+
 SBH,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock","Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",N,SBH,N,100.0,N,SBH
 SBI,Western Asset Intermediate Muni Fund Inc Common Stock,Western Asset Intermediate Muni Fund Inc Common Stock,N,SBI,N,100.0,N,SBI
 SBIL,Simplify Exchange Traded Funds Simplify Government Money Market ETF,Simplify Exchange Traded Funds Simplify Government Money Market ETF,P,SBIL,Y,100.0,N,SBIL
