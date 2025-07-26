@@ -1073,7 +1073,6 @@ CLCG,Crossmark ETF Trust Crossmark Large Cap Growth ETF,Crossmark ETF Trust Cros
 CLCO,Cool Company Ltd. Common Shares,Cool Company Ltd. Common Shares,N,CLCO,N,100.0,N,CLCO
 CLCV,Crossmark ETF Trust Crossmark Large Cap Value ETF,Crossmark ETF Trust Crossmark Large Cap Value ETF,P,CLCV,Y,100.0,N,CLCV
 CLDI,"Calidi Biotherapeutics, Inc. Common Stock","Calidi Biotherapeutics, Inc. Common Stock",A,CLDI,N,100.0,N,CLDI
-CLDL,Direxion Daily Cloud Computing Bull 2X Shares,Direxion Daily Cloud Computing Bull 2X Shares,P,CLDL,Y,100.0,N,CLDL
 CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,N,CLDT,N,100.0,N,CLDT
 CLDT$A,Chatham Lodging Trust (REIT) 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,Chatham Lodging Trust (REIT) 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,N,CLDTpA,N,100.0,N,CLDT-A
 CLF,Cleveland,Cleveland-Cliffs Inc. Common Stock,N,CLF,N,100.0,N,CLF
@@ -1243,6 +1242,7 @@ CRS,Carpenter Technology Corporation Common Stock,Carpenter Technology Corporati
 CRSH,Tidal Trust II YieldMax Short TSLA Option Income Strategy ETF,Tidal Trust II YieldMax Short TSLA Option Income Strategy ETF,P,CRSH,Y,100.0,N,CRSH
 CRT,Cross Timbers Royalty Trust Common Stock,Cross Timbers Royalty Trust Common Stock,N,CRT,N,100.0,N,CRT
 CRTC,DBX ETF Trust Xtrackers US National Critical Technologies ETF,DBX ETF Trust Xtrackers US National Critical Technologies ETF,P,CRTC,Y,100.0,N,CRTC
+CRWU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long CRWV Daily Target ETF,Z,CRWU,Y,100.0,N,CRWU
 CSAN,Cosan S.A. ADS,Cosan S.A. ADS,N,CSAN,N,100.0,N,CSAN
 CSD,Invesco S&P Spin,Invesco S&P Spin-Off ETF,P,CSD,Y,100.0,N,CSD
 CSHI,NEOS Enhanced Income 1,NEOS Enhanced Income 1-3 Month T-Bill ETF,P,CSHI,Y,100.0,N,CSHI
@@ -1509,7 +1509,6 @@ DLB,Dolby Laboratories Common Stock,Dolby Laboratories Common Stock,N,DLB,N,100.
 DLN,WisdomTree U.S. LargeCap Dividend Fund,WisdomTree U.S. LargeCap Dividend Fund,P,DLN,Y,100.0,N,DLN
 DLNG,Dynagas LNG Partners LP Common Units,Dynagas LNG Partners LP Common Units,N,DLNG,N,100.0,N,DLNG
 DLNG$A,Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units,Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units,N,DLNGpA,N,100.0,N,DLNG-A
-DLNG$B,"Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Preferred Units, liquidation preference $25.00 per Uni","Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Preferred Units, liquidation preference $25.00 per Uni",N,DLNGpB,N,100.0,N,DLNG-B
 DLR,"Digital Realty Trust, Inc. Common Stock","Digital Realty Trust, Inc. Common Stock",N,DLR,N,100.0,N,DLR
 DLR$J,"Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock","Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock",N,DLRpJ,N,100.0,N,DLR-J
 DLR$K,"Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share","Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share",N,DLRpK,N,100.0,N,DLR-K
@@ -4367,7 +4366,6 @@ ONTF,"ON24, Inc. Common Stock","ON24, Inc. Common Stock",N,ONTF,N,100.0,N,ONTF
 ONTO,Onto Innovation Inc. Common Stock,Onto Innovation Inc. Common Stock,N,ONTO,N,100.0,N,ONTO
 OOMA,"Ooma, Inc. Common Stock","Ooma, Inc. Common Stock",N,OOMA,N,100.0,N,OOMA
 OOSP,Spinnaker ETF Series Obra Opportunistic Structured Products ETF,Spinnaker ETF Series Obra Opportunistic Structured Products ETF,P,OOSP,Y,100.0,N,OOSP
-OOTO,Direxion Daily Travel & Vacation Bull 2X Shares,Direxion Daily Travel & Vacation Bull 2X Shares,P,OOTO,Y,100.0,N,OOTO
 OPAD,Offerpad Solutions Inc. Class A Common Stock,Offerpad Solutions Inc. Class A Common Stock,N,OPAD,N,100.0,N,OPAD
 OPER,ETF Series Solutions ETF ClearShares Ultra,ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF,P,OPER,Y,100.0,N,OPER
 OPFI,OppFi Inc. Class A Common Stock,OppFi Inc. Class A Common Stock,N,OPFI,N,100.0,N,OPFI
@@ -5410,6 +5408,7 @@ SMR,NuScale Power Corporation Class A Common Stock,NuScale Power Corporation Cla
 SMRT,"SmartRent, Inc. Class A Common Stock","SmartRent, Inc. Class A Common Stock",N,SMRT,N,100.0,N,SMRT
 SMTH,ALPS ETF Trust ALPS,ALPS ETF Trust ALPS,P,SMTH,Y,100.0,N,SMTH
 SMU,Tradr 2X Long ASTS Daily ETF Tradr 2X Long SMR Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long SMR Daily ETF,Z,SMU,Y,100.0,N,SMU
+SMUP,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long SMR Daily Target ETF,Z,SMUP,Y,100.0,N,SMUP
 SMWB,Similarweb Ltd. Ordinary Shares,Similarweb Ltd. Ordinary Shares,N,SMWB,N,100.0,N,SMWB
 SN,"SharkNinja, Inc. Ordinary Shares","SharkNinja, Inc. Ordinary Shares",N,SN,N,100.0,N,SN
 SNA,Snap,Snap-On Incorporated Common Stock,N,SNA,N,100.0,N,SNA
@@ -5751,7 +5750,6 @@ TGB,"Taseko Mines, Ltd. Common Stock","Taseko Mines, Ltd. Common Stock",A,TGB,N,
 TGE,The Generation Essentials Group Class A Ordinary Shares,The Generation Essentials Group Class A Ordinary Shares,N,TGE,N,100.0,N,TGE
 TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share","The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",A,TGE.WS,N,100.0,N,TGE+
 TGEN,Tecogen Inc. Common Stock,Tecogen Inc. Common Stock,A,TGEN,N,100.0,N,TGEN
-TGI,"Triumph Group, Inc. Common Stock","Triumph Group, Inc. Common Stock",N,TGI,N,100.0,N,TGI
 TGLB,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Global Equity ETF",P,TGLB,Y,100.0,N,TGLB
 TGLR,ETF Opportunities Trust LAFFER TENGLER Equity Income ETF,ETF Opportunities Trust LAFFER TENGLER Equity Income ETF,Z,TGLR,Y,100.0,N,TGLR
 TGLS,Tecnoglass Inc. Ordinary Shares,Tecnoglass Inc. Ordinary Shares,N,TGLS,N,100.0,N,TGLS
@@ -5780,6 +5778,7 @@ THY,Toews Agility Shares Dynamic Tactical Income ETF,Toews Agility Shares Dynami
 THYF,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price U.S. High Yield ETF",P,THYF,Y,100.0,N,THYF
 TIC,Acuren Corporation Common Stock,Acuren Corporation Common Stock,N,TIC,N,100.0,N,TIC
 TIER,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price International Equity Research ETF",P,TIER,Y,100.0,N,TIER
+TIIV,ETF Series Solutions AAM Todd International Intrinsic Value ETF,ETF Series Solutions AAM Todd International Intrinsic Value ETF,P,TIIV,Y,100.0,N,TIIV
 TILL,Listed Funds Trust Teucrium Agricultural Strategy No K,Listed Funds Trust Teucrium Agricultural Strategy No K-1 ETF,P,TILL,Y,100.0,N,TILL
 TILT,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,Z,TILT,Y,100.0,N,TILT
 TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,N,TIMB,N,100.0,N,TIMB
