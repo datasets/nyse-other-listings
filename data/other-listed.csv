@@ -2875,6 +2875,7 @@ IAUG,Innovator ETFs Trust Innovator International Developed Power Buffer ETF  Au
 IAUI,NEOS ETF Trust NEOS Gold High Income ETF,NEOS ETF Trust NEOS Gold High Income ETF,Z,IAUI,Y,100.0,N,IAUI
 IAUM,iShares Gold Trust Micro Shares,iShares Gold Trust Micro Shares,P,IAUM,Y,100.0,N,IAUM
 IAUX,i,i-80 Gold Corp. Common Shares,A,IAUX,N,100.0,N,IAUX
+IAUX.W,i,"i-80 Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $0.70",A,IAUX.WS,N,100.0,N,IAUX+
 IBCA,iShares Trust iShares iBonds Dec 2035 Term Corporate ETF,iShares Trust iShares iBonds Dec 2035 Term Corporate ETF,P,IBCA,Y,100.0,N,IBCA
 IBD,Inspire Corporate Bond ETF,Inspire Corporate Bond ETF,P,IBD,Y,100.0,N,IBD
 IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,iShares iBonds Dec 2025 Term Corporate ETF,P,IBDQ,Y,100.0,N,IBDQ
@@ -5125,7 +5126,7 @@ SAA,ProShares Ultra SmallCap600,ProShares Ultra SmallCap600,P,SAA,Y,100.0,N,SAA
 SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,N,SABA,N,100.0,N,SABA
 SACH,Sachem Capital Corp. Common Shares,Sachem Capital Corp. Common Shares,A,SACH,N,100.0,N,SACH
 SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,A,SACHpA,N,100.0,N,SACH-A
-SAEF,Schwab Strategic Trust Schwab Ariel ESG ETF,Schwab Strategic Trust Schwab Ariel ESG ETF,P,SAEF,Y,100.0,N,SAEF
+SAEF,Schwab Ariel Opportunities ETF,Schwab Ariel Opportunities ETF,P,SAEF,Y,100.0,N,SAEF
 SAFE,Safehold Inc. New Common Stock ,Safehold Inc. New Common Stock ,N,SAFE,N,100.0,N,SAFE
 SAGP,The Advisors' Inner Circle Fund III Strategas Global Policy Opportunities ETF,The Advisors' Inner Circle Fund III Strategas Global Policy Opportunities ETF,P,SAGP,Y,100.0,N,SAGP
 SAH,"Sonic Automotive, Inc. Common Stock","Sonic Automotive, Inc. Common Stock",N,SAH,N,100.0,N,SAH
