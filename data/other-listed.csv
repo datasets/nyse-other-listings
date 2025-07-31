@@ -208,6 +208,7 @@ AMBI.W,"Ambipar Emergency Response Warrants to purchase Class A ordinary shares,
 AMBO,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),A,AMBO,N,100.0,N,AMBO
 AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,Ardagh Metal Packaging S.A. Ordinary Shares,N,AMBP,N,100.0,N,AMBP
 AMBP.W,"Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share","Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share",N,AMBP.WS,N,100.0,N,AMBP+
+AMBQ,"Ambiq Micro, Inc. Common Stock","Ambiq Micro, Inc. Common Stock",N,AMBQ,N,100.0,N,AMBQ
 AMC,"AMC Entertainment Holdings, Inc. Class A Common Stock","AMC Entertainment Holdings, Inc. Class A Common Stock",N,AMC,N,100.0,N,AMC
 AMCR,Amcor plc Ordinary Shares,Amcor plc Ordinary Shares,N,AMCR,N,100.0,N,AMCR
 AMDW,Roundhill ETF Trust Roundhill AMD WeeklyPay ETF,Roundhill ETF Trust Roundhill AMD WeeklyPay ETF,Z,AMDW,Y,100.0,N,AMDW
@@ -2036,7 +2037,7 @@ FCTR,First Trust Lunt U.S. Factor Rotation ETF,First Trust Lunt U.S. Factor Rota
 FCUS,Tidal ETF Trust II Pinnacle Focused Opportunities ETF,Tidal ETF Trust II Pinnacle Focused Opportunities ETF,P,FCUS,Y,100.0,N,FCUS
 FCX,Freeport,"Freeport-McMoRan, Inc. Common Stock",N,FCX,N,100.0,N,FCX
 FDAT,Tactical Advantage ETF,Tactical Advantage ETF,P,FDAT,Y,100.0,N,FDAT
-FDD,First Trust Dow Jones STOXX Select Dividend 30 Index Fund,First Trust Dow Jones STOXX Select Dividend 30 Index Fund,P,FDD,Y,100.0,N,FDD
+FDD,First Trust STOXX European Select Dividend Index Fund,First Trust STOXX European Select Dividend Index Fund,P,FDD,Y,100.0,N,FDD
 FDEC,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - December,Z,FDEC,Y,100.0,N,FDEC
 FDEM,Fidelity Emerging Markets Multifactor ETF,Fidelity Emerging Markets Multifactor ETF,Z,FDEM,Y,100.0,N,FDEM
 FDEV,Fidelity Emerging Markets Multifactor ETF,Fidelity Emerging Markets Multifactor ETF,Z,FDEV,Y,100.0,N,FDEV
@@ -6447,18 +6448,29 @@ XJR,iShares ESG Select Screened S&P Small,iShares ESG Select Screened S&P Small-
 XJUL,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - July,Z,XJUL,Y,100.0,N,XJUL
 XJUN,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - June,Z,XJUN,Y,100.0,N,XJUN
 XLB,Materials Select Sector SPDR,Materials Select Sector SPDR,P,XLB,Y,100.0,N,XLB
+XLBI,Select Sector SPDR Trust (The) The Materials Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Materials Select Sector SPDR Premium Income Fund,P,XLBI,Y,100.0,N,XLBI
 XLC,The Communication Services Select Sector SPDR Fund,The Communication Services Select Sector SPDR Fund,P,XLC,Y,100.0,N,XLC
+XLCI,Select Sector SPDR Trust (The) The Communication Services Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Communication Services Select Sector SPDR Premium Income Fund,P,XLCI,Y,100.0,N,XLCI
 XLE,SPDR Select Sector Fund ,SPDR Select Sector Fund - Energy Select Sector,P,XLE,Y,100.0,N,XLE
+XLEI,Select Sector SPDR Trust (The) The Energy Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Energy Select Sector SPDR Premium Income Fund,P,XLEI,Y,100.0,N,XLEI
 XLF,SPDR Select Sector Fund ,SPDR Select Sector Fund - Financial,P,XLF,Y,100.0,N,XLF
+XLFI,Select Sector SPDR Trust (The) The Financial Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Financial Select Sector SPDR Premium Income Fund,P,XLFI,Y,100.0,N,XLFI
 XLG,Invesco S&P 500 Top 50 ETF,Invesco S&P 500 Top 50 ETF,P,XLG,Y,100.0,N,XLG
 XLI,SPDR Select Sector Fund ,SPDR Select Sector Fund - Industrial,P,XLI,Y,100.0,N,XLI
+XLII,Select Sector SPDR Trust (The) The Industrial Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Industrial Select Sector SPDR Premium Income Fund,P,XLII,Y,100.0,N,XLII
 XLK,SPDR Select Sector Fund ,SPDR Select Sector Fund - Technology,P,XLK,Y,100.0,N,XLK
+XLKI,Select Sector SPDR Trust (The) The Technology Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Technology Select Sector SPDR Premium Income Fund,P,XLKI,Y,100.0,N,XLKI
 XLP,SPDR Select Sector Fund ,SPDR Select Sector Fund - Consumer Staples,P,XLP,Y,100.0,N,XLP
 XLRE,Real Estate Select Sector SPDR Fund (The),Real Estate Select Sector SPDR Fund (The),P,XLRE,Y,100.0,N,XLRE
+XLRI,Select Sector SPDR Trust (The) The Real Estate Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Real Estate Select Sector SPDR Premium Income Fund,P,XLRI,Y,100.0,N,XLRI
+XLSI,Select Sector SPDR Trust (The) The Consumer Staples Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Consumer Staples Select Sector SPDR Premium Income Fund,P,XLSI,Y,100.0,N,XLSI
 XLSR,SPDR SSGA U.S. Sector Rotation ETF,SPDR SSGA U.S. Sector Rotation ETF,P,XLSR,Y,100.0,N,XLSR
 XLU,SPDR Select Sector Fund ,SPDR Select Sector Fund - Utilities,P,XLU,Y,100.0,N,XLU
+XLUI,Select Sector SPDR Trust (The) The Utilities Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Utilities Select Sector SPDR Premium Income Fund,P,XLUI,Y,100.0,N,XLUI
 XLV,SPDR Select Sector Fund ,SPDR Select Sector Fund - Health Care,P,XLV,Y,100.0,N,XLV
+XLVI,Select Sector SPDR Trust (The) The Health Care Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Health Care Select Sector SPDR Premium Income Fund,P,XLVI,Y,100.0,N,XLVI
 XLY,SPDR Select Sector Fund ,SPDR Select Sector Fund - Consumer Discretionary,P,XLY,Y,100.0,N,XLY
+XLYI,Select Sector SPDR Trust (The) The Consumer Discretionary Select Sector SPDR Premium Income Fund,Select Sector SPDR Trust (The) The Consumer Discretionary Select Sector SPDR Premium Income Fund,P,XLYI,Y,100.0,N,XLYI
 XMAR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - March,Z,XMAR,Y,100.0,N,XMAR
 XMAY,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Enhance & Moderate Buffer ETF - May,Z,XMAY,Y,100.0,N,XMAY
 XME,SPDR S&P Metals & Mining ETF,SPDR S&P Metals & Mining ETF,P,XME,Y,100.0,N,XME
