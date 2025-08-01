@@ -263,7 +263,6 @@ AOR,iShares Core 60/40 Balanced Allocation ETF,iShares Core 60/40 Balanced Alloc
 AORT,"Artivion, Inc. Common Stock","Artivion, Inc. Common Stock",N,AORT,N,100.0,N,AORT
 AOS,A.O. Smith Corporation Common Stock,A.O. Smith Corporation Common Stock,N,AOS,N,100.0,N,AOS
 AP,Ampco,Ampco-Pittsburgh Corporation Common Stock,N,AP,N,100.0,N,AP
-AP.W,Ampco,Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of common stock,A,AP.WS,N,100.0,N,AP+
 APAM,Artisan Partners Asset Management Inc. Class A Common Stock,Artisan Partners Asset Management Inc. Class A Common Stock,N,APAM,N,100.0,N,APAM
 APCB,Trust for Professional Managers ActivePassive Core Bond ETF,Trust for Professional Managers ActivePassive Core Bond ETF,P,APCB,Y,100.0,N,APCB
 APD,"Air Products and Chemicals, Inc. Common Stock","Air Products and Chemicals, Inc. Common Stock",N,APD,N,100.0,N,APD
@@ -641,6 +640,7 @@ BIL,SPDR Bloomberg 1,SPDR Bloomberg 1-3 Month T-Bill ETF,P,BIL,Y,100.0,N,BIL
 BILD,Macquarie ETF Trust Macquarie Global Listed Infrastructure ETF,Macquarie ETF Trust Macquarie Global Listed Infrastructure ETF,P,BILD,Y,100.0,N,BILD
 BILL,"BILL Holdings, Inc. Common Stock","BILL Holdings, Inc. Common Stock",N,BILL,N,100.0,N,BILL
 BILS,SPDR Bloomberg 3,SPDR Bloomberg 3-12 Month T-Bill ETF,P,BILS,Y,100.0,N,BILS
+BILT,BlackRock ETF Trust iShares Infrastructure Active ETF,BlackRock ETF Trust iShares Infrastructure Active ETF,Z,BILT,Y,100.0,N,BILT
 BILZ,PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange,PIMCO U.S. Treasury Index Fund PIMCO Ultra Short Government Active Exchange-Traded Fund,P,BILZ,Y,100.0,N,BILZ
 BINC,iShares Flexible Income Active ETF,iShares Flexible Income Active ETF,P,BINC,Y,100.0,N,BINC
 BINT,Exchange Traded Concepts Trust Bluemonte Global Equity ETF,Exchange Traded Concepts Trust Bluemonte Global Equity ETF,P,BINT,Y,100.0,N,BINT
@@ -851,6 +851,7 @@ BUFY,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Laddered
 BUFZ,FT Vest Laddered Moderate Buffer ETF,FT Vest Laddered Moderate Buffer ETF,Z,BUFZ,Y,100.0,N,BUFZ
 BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust","BlackRock Utility, Infrastructure & Power Opportunities Trust",N,BUI,N,100.0,N,BUI
 BUL,Pacer US Cash Cows Growth ETF,Pacer US Cash Cows Growth ETF,P,BUL,Y,100.0,N,BUL
+BULU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long BULL Daily Target ETF,Z,BULU,Y,100.0,N,BULU
 BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,MicroSectors FANG & Innovation 3x Leveraged ETN,P,BULZ,Y,100.0,N,BULZ
 BUR,Burford Capital Limited Ordinary Shares,Burford Capital Limited Ordinary Shares,N,BUR,N,100.0,N,BUR
 BURL,"Burlington Stores, Inc. Common Stock","Burlington Stores, Inc. Common Stock",N,BURL,N,100.0,N,BURL
@@ -1506,6 +1507,7 @@ DJUN,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - 
 DK,"Delek US Holdings, Inc. Common Stock","Delek US Holdings, Inc. Common Stock",N,DK,N,100.0,N,DK
 DKL,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests","Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests",N,DKL,N,100.0,N,DKL
 DKS,Dick's Sporting Goods Inc Common Stock,Dick's Sporting Goods Inc Common Stock,N,DKS,N,100.0,N,DKS
+DKUP,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long DKNG Daily Target ETF,Z,DKUP,Y,100.0,N,DKUP
 DLB,Dolby Laboratories Common Stock,Dolby Laboratories Common Stock,N,DLB,N,100.0,N,DLB
 DLN,WisdomTree U.S. LargeCap Dividend Fund,WisdomTree U.S. LargeCap Dividend Fund,P,DLN,Y,100.0,N,DLN
 DLNG,Dynagas LNG Partners LP Common Units,Dynagas LNG Partners LP Common Units,N,DLNG,N,100.0,N,DLNG
@@ -2127,6 +2129,7 @@ FIBR,iShares U.S. Fixed Income Balanced Risk Systematic ETF,iShares U.S. Fixed I
 FICO,Fair Isaac Corporation Common Stock,Fair Isaac Corporation Common Stock,N,FICO,N,100.0,N,FICO
 FIDI,Fidelity International High Dividend ETF,Fidelity International High Dividend ETF,P,FIDI,Y,100.0,N,FIDI
 FIDU,Fidelity MSCI Industrials Index ETF,Fidelity MSCI Industrials Index ETF,P,FIDU,Y,100.0,N,FIDU
+FIG,"Figma, Inc. Class A Common Stock","Figma, Inc. Class A Common Stock",N,FIG,N,100.0,N,FIG
 FIGB,Fidelity Investment Grade Bond ETF,Fidelity Investment Grade Bond ETF,P,FIGB,Y,100.0,N,FIGB
 FIGS,"FIGS, Inc. Class A Common Stock","FIGS, Inc. Class A Common Stock",N,FIGS,N,100.0,N,FIGS
 FIHL,Fidelis Insurance Holdings Limited Common Shares,Fidelis Insurance Holdings Limited Common Shares,N,FIHL,N,100.0,N,FIHL
@@ -4910,6 +4913,7 @@ RCG,"RENN Fund, Inc Common Stock","RENN Fund, Inc Common Stock",A,RCG,N,100.0,N,
 RCI,"Rogers Communication, Inc. Common Stock","Rogers Communication, Inc. Common Stock",N,RCI,N,100.0,N,RCI
 RCL,Royal Caribbean Cruises Ltd. Common Stock,Royal Caribbean Cruises Ltd. Common Stock,N,RCL,N,100.0,N,RCL
 RCS,"PIMCO Strategic Income Fund, Inc.","PIMCO Strategic Income Fund, Inc.",N,RCS,N,100.0,N,RCS
+RCTR,First Trust Exchange,First Trust Exchange-Traded Fund II First Trust Bloomberg Nuclear Power ETF,P,RCTR,Y,100.0,N,RCTR
 RCUS,"Arcus Biosciences, Inc. Common Stock","Arcus Biosciences, Inc. Common Stock",N,RCUS,N,100.0,N,RCUS
 RDDT,"Reddit, Inc. Class A Common Stock","Reddit, Inc. Class A Common Stock",N,RDDT,N,100.0,N,RDDT
 RDFI,Rareview Dynamic Fixed Income ETF,Rareview Dynamic Fixed Income ETF,Z,RDFI,Y,100.0,N,RDFI
@@ -5316,6 +5320,7 @@ SHYD,VanEck ETF Trust VanEck Short High Yield Muni ETF,VanEck ETF Trust VanEck S
 SHYG,iShares 0,iShares 0-5 Year High Yield Corporate Bond ETF,P,SHYG,Y,100.0,N,SHYG
 SHYL,Xtrackers Short Duration High Yield Bond ETF,Xtrackers Short Duration High Yield Bond ETF,P,SHYL,Y,100.0,N,SHYL
 SHYM,iShares Short Duration High Yield Muni Active ETF,iShares Short Duration High Yield Muni Active ETF,Z,SHYM,Y,100.0,N,SHYM
+SI,"Shoulder Innovations, Inc. Common Stock","Shoulder Innovations, Inc. Common Stock",N,SI,N,100.0,N,SI
 SID,Companhia Siderurgica Nacional S.A. Common Stock,Companhia Siderurgica Nacional S.A. Common Stock,N,SID,N,100.0,N,SID
 SIF,"SIFCO Industries, Inc. Common Stock","SIFCO Industries, Inc. Common Stock",A,SIF,N,100.0,N,SIF
 SIFI,Harbor Scientific Alpha Income ETF,Harbor Scientific Alpha Income ETF,P,SIFI,Y,100.0,N,SIFI
@@ -6088,7 +6093,7 @@ UTL,UNITIL Corporation Common Stock,UNITIL Corporation Common Stock,N,UTL,N,100.
 UTSL,Direxion Daily Utilities Bull 3X Shares,Direxion Daily Utilities Bull 3X Shares,P,UTSL,Y,100.0,N,UTSL
 UTZ,Utz Brands Inc Class A Common Stock ,Utz Brands Inc Class A Common Stock ,N,UTZ,N,100.0,N,UTZ
 UUP,Invesco DB USD Index Bullish Fund ETF,Invesco DB USD Index Bullish Fund ETF,P,UUP,Y,100.0,N,UUP
-UUU,"Universal Security Instruments, Inc. Common Stock","Universal Security Instruments, Inc. Common Stock",A,UUU,N,100.0,N,UUU
+UUU,"Universal Safety Products, Inc. Common Stock","Universal Safety Products, Inc. Common Stock",A,UUU,N,100.0,N,UUU
 UUUU,Energy Fuels Inc Ordinary Shares (Canada),Energy Fuels Inc Ordinary Shares (Canada),A,UUUU,N,100.0,N,UUUU
 UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,N,UVE,N,100.0,N,UVE
 UVIX,VS TR 2x Long VIX Futures ETF,VS TR 2x Long VIX Futures ETF,Z,UVIX,Y,100.0,N,UVIX
