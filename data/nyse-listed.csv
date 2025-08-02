@@ -239,6 +239,7 @@ AUNA,Auna SA Class A Ordinary Shares
 AVA,Avista Corporation Common Stock
 AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)
 AVB,"AvalonBay Communities, Inc. Common Stock"
+AVBC,"Avidia Bancorp, Inc. Common Stock"
 AVD,American Vanguard Corporation Common Stock ($0.10 Par Value)
 AVK,Advent Convertible and Income Fund
 AVNS,"Avanos Medical, Inc. Common Stock"
@@ -535,6 +536,7 @@ CF,"CF Industries Holdings, Inc. Common Stock"
 CFG,"Citizens Financial Group, Inc. Common Stock"
 CFG$E,"Citizens Financial Group, Inc. Depositary Shares Each Representing 1/40th Interest in a Share of 5.000% Fixed"
 CFG$H,"Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed"
+CFG$I,"Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.500% Fixed"
 CFR,"Cullen/Frost Bankers, Inc. Common Stock"
 CFR$B,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non"
 CGAU,Centerra Gold Inc. Common Shares
@@ -1013,7 +1015,6 @@ FGN,"F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053"
 FGSN,"F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065"
 FHI,"Federated Hermes, Inc. Common Stock"
 FHN,First Horizon Corporation Common Stock
-FHN$B,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non"
 FHN$C,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non"
 FHN$E,"First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non"
 FHN$F,"First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non"
@@ -1321,7 +1322,7 @@ HYAC,Haymaker Acquisition Corp. 4 Class A Ordinary Shares
 HYAC.U,"Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary Share and one"
 HYAC.W,"Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 HYBX,TCW High Yield Bond ETF
-HYI,Western Asset High Yield Defined Opportunity Fund Inc. Common Stock
+HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock"
 HYTR,Counterpoint High Yield Trend ETF
 HZO,"MarineMax, Inc.  (FL) Common Stock"
