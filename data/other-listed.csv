@@ -358,7 +358,7 @@ ASMF,Virtus ETF Trust II Virtus AlphaSimplex Managed Futures ETF,Virtus ETF Trus
 ASMH,Precidian ETFs Trust ASML Holding NV ADRhedged,Precidian ETFs Trust ASML Holding NV ADRhedged,P,ASMH,Y,100.0,N,ASMH
 ASPN,"Aspen Aerogels, Inc. Common Stock","Aspen Aerogels, Inc. Common Stock",N,ASPN,N,100.0,N,ASPN
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock","Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",N,ASR,N,100.0,N,ASR
-ASTX,Tradr 2X Long ASTS Daily ETF Tradr 2X Long ASTS Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long ASTS Daily ETF,Z,ASTX,Y,100.0,N,ASTX
+ASTX,Tradr 2X Long ASTS Daily ETF,Tradr 2X Long ASTS Daily ETF,Z,ASTX,Y,100.0,N,ASTX
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ","ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",N,ASX,N,100.0,N,ASX
 ATCH,"AtlasClear Holdings, Inc. Common Stock","AtlasClear Holdings, Inc. Common Stock",A,ATCH,N,100.0,N,ATCH
 ATCO$H,Atlas Corp. 7.875% Series H,Atlas Corp. 7.875% Series H,N,ATCOpH,N,100.0,N,ATCO-H
@@ -982,7 +982,8 @@ CEE,"The Central and Eastern Europe Fund, Inc. (The) Common Stock","The Central 
 CEF,Sprott Physical Gold and Silver Trust Units,Sprott Physical Gold and Silver Trust Units,P,CEF,Y,100.0,N,CEF
 CEFD,ETRACS Monthly Pay 1.5X Leveraged Closed,ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN,P,CEFD,Y,100.0,N,CEFD
 CEFS,Saba Closed,Saba Closed-End Funds ETF,Z,CEFS,Y,100.0,N,CEFS
-CEGX,Tradr 2X Long ASTS Daily ETF Tradr 2X Long CEG Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long CEG Daily ETF,Z,CEGX,Y,100.0,N,CEGX
+CEFZ,Elevation Series Trust RiverNorth Active Income ETF,Elevation Series Trust RiverNorth Active Income ETF,Z,CEFZ,Y,100.0,N,CEFZ
+CEGX,Tradr 2X Long CEG Daily ETF,Tradr 2X Long CEG Daily ETF,Z,CEGX,Y,100.0,N,CEGX
 CELG.R,Bristol,Bristol-Myers Squibb Company Celegne Contingent Value Rights,N,CELGr,N,100.0,N,CELG^
 CEMB,iShares J.P. Morgan EM Corporate Bond ETF,iShares J.P. Morgan EM Corporate Bond ETF,Z,CEMB,Y,100.0,N,CEMB
 CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),N,CEPU,N,100.0,N,CEPU
@@ -1325,7 +1326,7 @@ CWI,SPDR MSCI ACWI ex,SPDR MSCI ACWI ex-US ETF,P,CWI,Y,100.0,N,CWI
 CWK,Cushman & Wakefield plc Ordinary Shares,Cushman & Wakefield plc Ordinary Shares,N,CWK,N,100.0,N,CWK
 CWS,AdvisorShares Focused Equity ETF,AdvisorShares Focused Equity ETF,P,CWS,Y,100.0,N,CWS
 CWT,California Water Service Group Common Stock,California Water Service Group Common Stock,N,CWT,N,100.0,N,CWT
-CWVX,Tradr 2X Long ASTS Daily ETF Tradr 2X Long CRWV Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long CRWV Daily ETF,Z,CWVX,Y,100.0,N,CWVX
+CWVX,Tradr 2X Long CRWV Daily ETF,Tradr 2X Long CRWV Daily ETF,Z,CWVX,Y,100.0,N,CWVX
 CX,"Cemex, S.A.B. de C.V. Sponsored ADR","Cemex, S.A.B. de C.V. Sponsored ADR",N,CX,N,100.0,N,CX
 CXE,MFS High Income Municipal Trust Common Stock,MFS High Income Municipal Trust Common Stock,N,CXE,N,100.0,N,CXE
 CXH,MFS Investment Grade Municipal Trust Common Stock,MFS Investment Grade Municipal Trust Common Stock,N,CXH,N,100.0,N,CXH
@@ -1918,7 +1919,6 @@ ETR,Entergy Corporation Common Stock,Entergy Corporation Common Stock,N,ETR,N,10
 ETU,T,T-Rex 2X Long Ether Daily Target ETF,Z,ETU,Y,100.0,N,ETU
 ETV,Eaton Vance Corporation Eaton Vance Tax,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,N,ETV,N,100.0,N,ETV
 ETW,Eaton Vance Corporation Eaton Vance Tax,Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest,N,ETW,N,100.0,N,ETW
-ETWO,"E2open Parent Holdings, Inc.Class A Common Stock","E2open Parent Holdings, Inc.Class A Common Stock",N,ETWO,N,100.0,N,ETWO
 ETX,Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest,Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest,N,ETX,N,100.0,N,ETX
 ETY,Eaton Vance Tax,"Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,",N,ETY,N,100.0,N,ETY
 EUAD,Spinnaker ETF Series Select STOXX Europe Aerospace & Defense ETF,Spinnaker ETF Series Select STOXX Europe Aerospace & Defense ETF,Z,EUAD,Y,100.0,N,EUAD
@@ -1944,6 +1944,7 @@ EVIM,Morgan Stanley ETF Trust Eaton Vance Intermediate Municipal Income ETF,Morg
 EVLN,Morgan Stanley ETF Trust Eaton Vance Floating,Morgan Stanley ETF Trust Eaton Vance Floating-Rate ETF,P,EVLN,Y,100.0,N,EVLN
 EVLU,iShares Trust iShares MSCI Emerging Markets Value Factor ETF,iShares Trust iShares MSCI Emerging Markets Value Factor ETF,Z,EVLU,Y,100.0,N,EVLU
 EVM,"Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value","Eaton Vance California Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",A,EVM,N,100.0,N,EVM
+EVMO,Morgan Stanley ETF Trust Eaton Vance Mortgage Opportunities ETF,Morgan Stanley ETF Trust Eaton Vance Mortgage Opportunities ETF,P,EVMO,Y,100.0,N,EVMO
 EVN,Eaton Vance Municipal Income Trust Common Stock,Eaton Vance Municipal Income Trust Common Stock,N,EVN,N,100.0,N,EVN
 EVNT,AltShares Event,AltShares Event-Driven ETF,P,EVNT,Y,100.0,N,EVNT
 EVR,Evercore Inc. Class A Common Stock,Evercore Inc. Class A Common Stock,N,EVR,N,100.0,N,EVR
@@ -2437,7 +2438,7 @@ GEOA,WisdomTree Trust WisdomTree GeoAlpha Opportunities Fund,WisdomTree Trust Wi
 GES,"Guess?, Inc. Common Stock","Guess?, Inc. Common Stock",N,GES,N,100.0,N,GES
 GETY,"Getty Images Holdings, Inc. Class A Common Stock","Getty Images Holdings, Inc. Class A Common Stock",N,GETY,N,100.0,N,GETY
 GEV,GE Vernova Inc. Common Stock,GE Vernova Inc. Common Stock,N,GEV,N,100.0,N,GEV
-GEVX,Tradr 2X Long ASTS Daily ETF Tradr 2X Long GEV Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long GEV Daily ETF,Z,GEVX,Y,100.0,N,GEVX
+GEVX,Tradr 2X Long GEV Daily ETF,Tradr 2X Long GEV Daily ETF,Z,GEVX,Y,100.0,N,GEVX
 GF,"New Germany Fund, Inc. (The) Common Stock","New Germany Fund, Inc. (The) Common Stock",N,GF,N,100.0,N,GF
 GFEB,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - February,Z,GFEB,Y,100.0,N,GFEB
 GFF,Griffon Corporation Common Stock,Griffon Corporation Common Stock,N,GFF,N,100.0,N,GFF
@@ -4493,7 +4494,6 @@ PCGG,Litman Gregory Funds Trust Polen Capital Global Growth ETF,Litman Gregory F
 PCHI,FundVantage Trust Polen High Income ETF,FundVantage Trust Polen High Income ETF,P,PCHI,Y,100.0,N,PCHI
 PCI,PGIM ETF Trust PGIM Corporate Bond 5,PGIM ETF Trust PGIM Corporate Bond 5-10 Year ETF,Z,PCI,Y,100.0,N,PCI
 PCIG,Litman Gregory Funds Trust Polen Capital International Growth ETF,Litman Gregory Funds Trust Polen Capital International Growth ETF,P,PCIG,Y,100.0,N,PCIG
-PCK,Pimco California Municipal Income Fund II Common Shares of Beneficial Interest,Pimco California Municipal Income Fund II Common Shares of Beneficial Interest,N,PCK,N,100.0,N,PCK
 PCL,PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF,PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF,Z,PCL,Y,100.0,N,PCL
 PCLO,Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF,Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF,P,PCLO,Y,100.0,N,PCLO
 PCM,"PCM Fund, Inc. Common Stock","PCM Fund, Inc. Common Stock",N,PCM,N,100.0,N,PCM
@@ -4627,7 +4627,6 @@ PMAP,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S
 PMAR,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - March,Z,PMAR,Y,100.0,N,PMAR
 PMAU,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - August,Z,PMAU,Y,100.0,N,PMAU
 PMAY,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - May,Z,PMAY,Y,100.0,N,PMAY
-PMF,PIMCO Municipal Income Fund Common Stock,PIMCO Municipal Income Fund Common Stock,N,PMF,N,100.0,N,PMF
 PMFB,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - February,Z,PMFB,Y,100.0,N,PMFB
 PMIO,PGIM ETF Trust PGIM Municipal Income Opportunities ETF,PGIM ETF Trust PGIM Municipal Income Opportunities ETF,P,PMIO,Y,100.0,N,PMIO
 PMJA,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - January,Z,PMJA,Y,100.0,N,PMJA
@@ -4647,9 +4646,7 @@ PMT$C,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Pr
 PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,N,PMTU,N,100.0,N,PMTU
 PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,N,PMTV,N,100.0,N,PMTV
 PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,N,PMTW,N,100.0,N,PMTW
-PMX,PIMCO Municipal Income Fund III Common Shares of Beneficial Interest,PIMCO Municipal Income Fund III Common Shares of Beneficial Interest,N,PMX,N,100.0,N,PMX
 PNC,"PNC Financial Services Group, Inc. (The) Common Stock","PNC Financial Services Group, Inc. (The) Common Stock",N,PNC,N,100.0,N,PNC
-PNF,PIMCO New York Municipal Income Fund Common Stock,PIMCO New York Municipal Income Fund Common Stock,N,PNF,N,100.0,N,PNF
 PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,N,PNI,N,100.0,N,PNI
 PNNT,PennantPark Investment Corporation Common Stock,PennantPark Investment Corporation Common Stock,N,PNNT,N,100.0,N,PNNT
 PNOV,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - November,Z,PNOV,Y,100.0,N,PNOV
@@ -4789,11 +4786,9 @@ PXF,Invesco RAFI Developed Markets ex,Invesco RAFI Developed Markets ex-U.S. ETF
 PXH,Invesco RAFI Emerging Markets ETF,Invesco RAFI Emerging Markets ETF,P,PXH,Y,100.0,N,PXH
 PXJ,Invesco Oil & Gas Services ETF,Invesco Oil & Gas Services ETF,P,PXJ,Y,100.0,N,PXJ
 PYLD,PIMCO U.S. Treasury Index Fund PIMCO Multisector Bond Active Exchange,PIMCO U.S. Treasury Index Fund PIMCO Multisector Bond Active Exchange-Traded Fund,P,PYLD,Y,100.0,N,PYLD
-PYN,PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest,PIMCO New York Municipal Income Fund III Common Shares of Beneficial Interest,N,PYN,N,100.0,N,PYN
 PYPY,Tidal Trust II YieldMax PYPL Option Income Strategy ETF,Tidal Trust II YieldMax PYPL Option Income Strategy ETF,P,PYPY,Y,100.0,N,PYPY
 PYT,PPlus Tr GSC,PPlus Tr GSC-2 Tr Ctf Fltg Rate,N,PYT,N,100.0,N,PYT
 PZA,Invesco National AMT,Invesco National AMT-Free Municipal Bond ETFo,P,PZA,Y,100.0,N,PZA
-PZC,PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest,PIMCO California Municipal Income Fund III Common Shares of Beneficial Interest,N,PZC,N,100.0,N,PZC
 PZG,Paramount Gold Nevada Corp. Common Stock,Paramount Gold Nevada Corp. Common Stock,A,PZG,N,100.0,N,PZG
 PZT,Invesco New York AMT,Invesco New York AMT-Free Municipal Bond ETF,P,PZT,Y,100.0,N,PZT
 QAI,NYLI Hedge Multi,NYLI Hedge Multi-Strategy Tracker ETF,P,QAI,Y,100.0,N,QAI
@@ -5419,7 +5414,7 @@ SMP,"Standard Motor Products, Inc. Common Stock","Standard Motor Products, Inc. 
 SMR,NuScale Power Corporation Class A Common Stock,NuScale Power Corporation Class A Common Stock,N,SMR,N,100.0,N,SMR
 SMRT,"SmartRent, Inc. Class A Common Stock","SmartRent, Inc. Class A Common Stock",N,SMRT,N,100.0,N,SMRT
 SMTH,ALPS ETF Trust ALPS,ALPS ETF Trust ALPS,P,SMTH,Y,100.0,N,SMTH
-SMU,Tradr 2X Long ASTS Daily ETF Tradr 2X Long SMR Daily ETF,Tradr 2X Long ASTS Daily ETF Tradr 2X Long SMR Daily ETF,Z,SMU,Y,100.0,N,SMU
+SMU,Tradr 2X Long SMR Daily ETF,Tradr 2X Long SMR Daily ETF,Z,SMU,Y,100.0,N,SMU
 SMUP,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long SMR Daily Target ETF,Z,SMUP,Y,100.0,N,SMUP
 SMWB,Similarweb Ltd. Ordinary Shares,Similarweb Ltd. Ordinary Shares,N,SMWB,N,100.0,N,SMWB
 SN,"SharkNinja, Inc. Ordinary Shares","SharkNinja, Inc. Ordinary Shares",N,SN,N,100.0,N,SN
