@@ -3252,6 +3252,7 @@ JCTR,JPMorgan Carbon Transition U.S. Equity ETF,JPMorgan Carbon Transition U.S. 
 JDIV,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Dividend Leaders ETF,P,JDIV,Y,100.0,N,JDIV
 JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,Direxion Daily Junior Gold Miners Index Bear 2X Shares,P,JDST,Y,100.0,N,JDST
 JDVI,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock Disciplined Value International Select ETF,P,JDVI,Y,100.0,N,JDVI
+JDVL,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock Disciplined Value Select ETF,P,JDVL,Y,100.0,N,JDVL
 JEF,Jefferies Financial Group Inc. Common Stock,Jefferies Financial Group Inc. Common Stock,N,JEF,N,100.0,N,JEF
 JELD,JELD,"JELD-WEN Holding, Inc. Common Stock",N,JELD,N,100.0,N,JELD
 JEMA,JPMorgan ActiveBuilders Emerging Markets Equity ETF,JPMorgan ActiveBuilders Emerging Markets Equity ETF,Z,JEMA,Y,100.0,N,JEMA
@@ -3634,6 +3635,7 @@ LNG,"Cheniere Energy, Inc. Common Stock","Cheniere Energy, Inc. Common Stock",N,
 LNN,Lindsay Corporation Common Stock,Lindsay Corporation Common Stock,N,LNN,N,100.0,N,LNN
 LOAR,Loar Holdings Inc. Common Stock,Loar Holdings Inc. Common Stock,N,LOAR,N,100.0,N,LOAR
 LOB,"Live Oak Bancshares, Inc. Common Stock","Live Oak Bancshares, Inc. Common Stock",N,LOB,N,100.0,N,LOB
+LOB$A,"Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non","Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non-Cumulative Perpetual Preferred Stock",N,LOBpA,N,100.0,N,LOB-A
 LOCL,Local Bounti Corporation Common Stock,Local Bounti Corporation Common Stock,N,LOCL,N,100.0,N,LOCL
 LOCT,Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF ,Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF - October,Z,LOCT,Y,100.0,N,LOCT
 LODE,Comstock Inc. Common Stock,Comstock Inc. Common Stock,A,LODE,N,100.0,N,LODE
