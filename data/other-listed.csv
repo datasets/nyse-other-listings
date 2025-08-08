@@ -999,6 +999,7 @@ CFG$E,"Citizens Financial Group, Inc. Depositary Shares Each Representing 1/40th
 CFG$H,"Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed","Citizens Financial Group, Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series H",N,CFGpH,N,100.0,N,CFG-H
 CFG$I,"Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.500% Fixed","Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.500% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",N,CFGpI,N,100.0,N,CFG-I
 CFIT,Cambria ETF Trust Cambria Fixed Income Trend ETF,Cambria ETF Trust Cambria Fixed Income Trend ETF,Z,CFIT,Y,100.0,N,CFIT
+CFND,C1 Fund Inc. Common Stock,C1 Fund Inc. Common Stock,N,CFND,N,100.0,N,CFND
 CFR,"Cullen/Frost Bankers, Inc. Common Stock","Cullen/Frost Bankers, Inc. Common Stock",N,CFR,N,100.0,N,CFR
 CFR$B,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non","Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",N,CFRpB,N,100.0,N,CFR-B
 CGAU,Centerra Gold Inc. Common Shares,Centerra Gold Inc. Common Shares,N,CGAU,N,100.0,N,CGAU
@@ -1231,6 +1232,7 @@ CRBD,Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064,Corebri
 CRBG,Corebridge Financial Inc. Common Stock,Corebridge Financial Inc. Common Stock,N,CRBG,N,100.0,N,CRBG
 CRBN,iShares MSCI ACWI Low Carbon Target ETF,iShares MSCI ACWI Low Carbon Target ETF,P,CRBN,Y,100.0,N,CRBN
 CRC,California Resources Corporation Common Stock,California Resources Corporation Common Stock,N,CRC,N,100.0,N,CRC
+CRCA,ProShares Trust ProShares Ultra CRCL,ProShares Trust ProShares Ultra CRCL,P,CRCA,Y,100.0,N,CRCA
 CRCL,"Circle Internet Group, Inc. Class A Common Stock","Circle Internet Group, Inc. Class A Common Stock",N,CRCL,N,100.0,N,CRCL
 CRD.A,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.A,N,100.0,N,CRD.A
 CRD.B,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.B,N,100.0,N,CRD.B
@@ -2960,6 +2962,7 @@ IDV,iShares International Select Dividend ETF,iShares International Select Divid
 IDVO,Amplify CWP International Enhanced Dividend Income ETF,Amplify CWP International Enhanced Dividend Income ETF,P,IDVO,Y,100.0,N,IDVO
 IDVZ,Elevation Series Trust The Opal International Dividend Income ETF,Elevation Series Trust The Opal International Dividend Income ETF,Z,IDVZ,Y,100.0,N,IDVZ
 IDX,VanEck Indonesia Index ETF,VanEck Indonesia Index ETF,P,IDX,Y,100.0,N,IDX
+IDYN,BlackRock ETF Trust iShares International Equity Factor Rotation Active ETF,BlackRock ETF Trust iShares International Equity Factor Rotation Active ETF,P,IDYN,Y,100.0,N,IDYN
 IE,Ivanhoe Electric Inc. Common Stock,Ivanhoe Electric Inc. Common Stock,A,IE,N,100.0,N,IE
 IEDI,iShares U.S. Consumer Focused ETF,iShares U.S. Consumer Focused ETF,Z,IEDI,Y,100.0,N,IEDI
 IEFA,iShares Core MSCI EAFE ETF,iShares Core MSCI EAFE ETF,Z,IEFA,Y,100.0,N,IEFA
@@ -3684,7 +3687,6 @@ LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,Lucky Strike En
 LUD,Luda Technology Group Limited Ordinary Shares,Luda Technology Group Limited Ordinary Shares,A,LUD,N,100.0,N,LUD
 LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common Stock",N,LUMN,N,100.0,N,LUMN
 LUV,Southwest Airlines Company Common Stock,Southwest Airlines Company Common Stock,N,LUV,N,100.0,N,LUV
-LUX,Tema ETF Trust Tema Luxury ETF,Tema ETF Trust Tema Luxury ETF,P,LUX,Y,100.0,N,LUX
 LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share","LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",N,LUXE,N,100.0,N,LUXE
 LVDS,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Fundamental Data Science Large Value ETF,Z,LVDS,Y,100.0,N,LVDS
 LVHI,Franklin International Low Volatility High Dividend Index ETF ,Franklin International Low Volatility High Dividend Index ETF ,Z,LVHI,Y,100.0,N,LVHI
