@@ -1036,9 +1036,6 @@ CHAU,Direxion Daily CSI 300 China A Share Bull 2X Shares,Direxion Daily CSI 300 
 CHCT,Community Healthcare Trust Incorporated Common Stock,Community Healthcare Trust Incorporated Common Stock,N,CHCT,N,100.0,N,CHCT
 CHD,"Church & Dwight Company, Inc. Common Stock","Church & Dwight Company, Inc. Common Stock",N,CHD,N,100.0,N,CHD
 CHE,Chemed Corp,Chemed Corp,N,CHE,N,100.0,N,CHE
-CHEB,Chenghe Acquisition II Co. Class A Ordinary Shares,Chenghe Acquisition II Co. Class A Ordinary Shares,A,CHEB,N,100.0,N,CHEB
-CHEB.U,"Chenghe Acquisition II Co. Units, each consisting of one Class A ordinary share and one","Chenghe Acquisition II Co. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",A,CHEB.U,N,100.0,N,CHEB=
-CHEB.W,"Chenghe Acquisition II Co. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Chenghe Acquisition II Co. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",A,CHEB.WS,N,100.0,N,CHEB+
 CHGG,"Chegg, Inc. Common Stock","Chegg, Inc. Common Stock",N,CHGG,N,100.0,N,CHGG
 CHH,"Choice Hotels International, Inc. Common Stock","Choice Hotels International, Inc. Common Stock",N,CHH,N,100.0,N,CHH
 CHIQ,Global X MSCI China Consumer Discretionary ETF,Global X MSCI China Consumer Discretionary ETF,P,CHIQ,Y,100.0,N,CHIQ
@@ -2516,6 +2513,7 @@ GLU$A,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable a
 GLU$B,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,A,GLUpB,N,100.0,N,GLU-B
 GLV,Clough Global Dividend and Income Fund Common Shares of beneficial interest,Clough Global Dividend and Income Fund Common Shares of beneficial interest,A,GLV,N,100.0,N,GLV
 GLW,Corning Incorporated Common Stock,Corning Incorporated Common Stock,N,GLW,N,100.0,N,GLW
+GLXU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long GLXY Daily Target ETF,Z,GLXU,Y,100.0,N,GLXU
 GM,General Motors Company Common Stock,General Motors Company Common Stock,N,GM,N,100.0,N,GM
 GMAR,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - March,Z,GMAR,Y,100.0,N,GMAR
 GMAY,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - May,Z,GMAY,Y,100.0,N,GMAY
