@@ -282,7 +282,7 @@ APRJ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF ,Innovator ETF
 APRP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - April,Z,APRP,Y,100.0,N,APRP
 APRT,AllianzIM U.S. Large Cap Buffer10 Apr ETF,AllianzIM U.S. Large Cap Buffer10 Apr ETF,P,APRT,Y,100.0,N,APRT
 APRW,AllianzIM U.S. Large Cap Buffer20 Apr ETF,AllianzIM U.S. Large Cap Buffer20 Apr ETF,P,APRW,Y,100.0,N,APRW
-APRZ,Trust TrueShares Structured Outcome (April) ETF,Trust TrueShares Structured Outcome (April) ETF,Z,APRZ,Y,100.0,N,APRZ
+APRZ,TrueShares Structured Outcome (April) ETF,TrueShares Structured Outcome (April) ETF,Z,APRZ,Y,100.0,N,APRZ
 APT,"Alpha Pro Tech, Ltd. Common Stock","Alpha Pro Tech, Ltd. Common Stock",A,APT,N,100.0,N,APT
 APTV,Aptiv PLC Ordinary Shares,Aptiv PLC Ordinary Shares,N,APTV,N,100.0,N,APTV
 APUE,Trust for Professional Managers ActivePassive U.S. Equity ETF,Trust for Professional Managers ActivePassive U.S. Equity ETF,P,APUE,Y,100.0,N,APUE
@@ -969,6 +969,7 @@ CCRD,CoreCard Corporation Common Stock,CoreCard Corporation Common Stock,N,CCRD,
 CCRV,iShares U.S. ETF Trust iShares Commodity Curve Carry Strategy ETF,iShares U.S. ETF Trust iShares Commodity Curve Carry Strategy ETF,P,CCRV,Y,100.0,N,CCRV
 CCS,"Century Communities, Inc. Common Stock","Century Communities, Inc. Common Stock",N,CCS,N,100.0,N,CCS
 CCU,"Compania Cervecerias Unidas, S.A. Common Stock","Compania Cervecerias Unidas, S.A. Common Stock",N,CCU,N,100.0,N,CCU
+CCUP,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long CRCL Daily Target ETF,Z,CCUP,Y,100.0,N,CCUP
 CCZ,Comcast Holdings ZONES,Comcast Holdings ZONES,N,CCZ,N,100.0,N,CCZ
 CDE,"Coeur Mining, Inc. Common Stock","Coeur Mining, Inc. Common Stock",N,CDE,N,100.0,N,CDE
 CDEI,Morgan Stanley ETF Trust Calvert US Large,"Morgan Stanley ETF Trust Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF",P,CDEI,Y,100.0,N,CDEI
@@ -3742,7 +3743,7 @@ MAYP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - May,Z,MAYP,Y,100.0
 MAYT,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 May ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 May ETF,P,MAYT,Y,100.0,N,MAYT
 MAYU,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped May ETF,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped May ETF,Z,MAYU,Y,100.0,N,MAYU
 MAYW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 May ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 May ETF,P,MAYW,Y,100.0,N,MAYW
-MAYZ,Listed Funds Trust TrueShares Structured Outcome (May) ETF,Listed Funds Trust TrueShares Structured Outcome (May) ETF,Z,MAYZ,Y,100.0,N,MAYZ
+MAYZ,TrueShares Structured Outcome (May) ETF,TrueShares Structured Outcome (May) ETF,Z,MAYZ,Y,100.0,N,MAYZ
 MBBB,VanEck Moody's Analytics BBB Corporate Bond ETF,VanEck Moody's Analytics BBB Corporate Bond ETF,Z,MBBB,Y,100.0,N,MBBB
 MBC,"MasterBrand, Inc. Common Stock","MasterBrand, Inc. Common Stock",N,MBC,N,100.0,N,MBC
 MBCC,Monarch Blue Chips Core Index ETF,Monarch Blue Chips Core Index ETF,Z,MBCC,Y,100.0,N,MBCC
@@ -4105,6 +4106,7 @@ NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units","NextEra Energy, Inc. 7.299%
 NEE$T,"NextEra Energy, Inc. 7.234% Corporate Units","NextEra Energy, Inc. 7.234% Corporate Units",N,NEEpT,N,100.0,N,NEE-T
 NEE$U,"NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085","NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085",N,NEEpU,N,100.0,N,NEE-U
 NEM,Newmont Corporation,Newmont Corporation,N,NEM,N,100.0,N,NEM
+NEMD,Neuberger Berman ETF Trust Neuberger Berman Emerging Markets Debt Hard Currency ETF,Neuberger Berman ETF Trust Neuberger Berman Emerging Markets Debt Hard Currency ETF,P,NEMD,Y,100.0,N,NEMD
 NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,A,NEN,N,100.0,N,NEN
 NET,"Cloudflare, Inc. Class A Common Stock","Cloudflare, Inc. Class A Common Stock",N,NET,N,100.0,N,NET
 NETL,NETLease Corporate Real Estate ETF,NETLease Corporate Real Estate ETF,P,NETL,Y,100.0,N,NETL
@@ -5270,7 +5272,7 @@ SEPP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - September,Z,SEPP,Y
 SEPT,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Sep ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Sep ETF,P,SEPT,Y,100.0,N,SEPT
 SEPU,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Sep ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Sep ETF,Z,SEPU,Y,100.0,N,SEPU
 SEPW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Sep ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Sep ETF,P,SEPW,Y,100.0,N,SEPW
-SEPZ,Listed Funds Trust TrueShares Structured Outcome (September) ETF,Listed Funds Trust TrueShares Structured Outcome (September) ETF,Z,SEPZ,Y,100.0,N,SEPZ
+SEPZ,TrueShares Structured Outcome (September) ETF,TrueShares Structured Outcome (September) ETF,Z,SEPZ,Y,100.0,N,SEPZ
 SER,"Serina Therapeutics, Inc. Common Stock","Serina Therapeutics, Inc. Common Stock",A,SER,N,100.0,N,SER
 SES,SES AI Corporation Class A Common Stock,SES AI Corporation Class A Common Stock,N,SES,N,100.0,N,SES
 SES.W,"SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share","SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",N,SES.WS,N,100.0,N,SES+
@@ -5587,7 +5589,6 @@ SST,"System1, Inc. Class A Common Stock","System1, Inc. Class A Common Stock",N,
 SSTK,"Shutterstock, Inc. Common Stock","Shutterstock, Inc. Common Stock",N,SSTK,N,100.0,N,SSTK
 SSUS,Day Hagan Smart Sector ETF,Day Hagan Smart Sector ETF,P,SSUS,Y,100.0,N,SSUS
 SSXU,Day Hagan Smart Sector International ETF,Day Hagan Smart Sector International ETF,P,SSXU,Y,100.0,N,SSXU
-SSY,"SunLink Health Systems, Inc. Common Stock","SunLink Health Systems, Inc. Common Stock",A,SSY,N,100.0,N,SSY
 ST,Sensata Technologies Holding plc Ordinary Shares,Sensata Technologies Holding plc Ordinary Shares,N,ST,N,100.0,N,ST
 STAG,"Stag Industrial, Inc. Common Stock","Stag Industrial, Inc. Common Stock",N,STAG,N,100.0,N,STAG
 STAX,Macquarie ETF Trust Macquarie Tax,Macquarie ETF Trust Macquarie Tax-Free USA Short Term ETF,P,STAX,Y,100.0,N,STAX
