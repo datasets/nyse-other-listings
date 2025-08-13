@@ -40,6 +40,7 @@ ACR$D,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Prefer
 ACRE,Ares Commercial Real Estate Corporation Common Stock
 ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest
 ACVA,ACV Auctions Inc. Class A Common Stock
+AD,"Array Digital Infrastructure, Inc. Common Shares"
 ADC,Agree Realty Corporation Common Stock
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock"
 ADCT,ADC Therapeutics SA Common Shares
@@ -2681,7 +2682,6 @@ USB$Q,"U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in
 USB$R,"U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series M Non"
 USB$S,"U.S. Bancorp Depositary Shares, each representing a 1/1,000th interest in a share of Series O Non"
 USFD,US Foods Holding Corp. Common Stock
-USM,United States Cellular Corporation Common Stock
 USNA,"USANA Health Sciences, Inc. Common Stock"
 USPH,"U.S. Physical Therapy, Inc. Common Stock"
 UTF,"Cohen & Steers Infrastructure Fund, Inc Common Stock"
@@ -2692,9 +2692,9 @@ UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock
 UVV,Universal Corporation Common Stock
 UWMC,UWM Holdings Corporation Class A Common Stock
 UWMC.W,UWM Holdings Corporation Warrant
-UZD,United States Cellular Corporation 6.250% Senior Notes due 2069
-UZE,United States Cellular Corporation 5.500% Senior Notes due 2070
-UZF,United States Cellular Corporation 5.500% Senior Notes due 2070
+UZD,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069"
+UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"
+UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"
 V,Visa Inc.
 VAC,Marriott Vacations Worldwide Corporation Common Stock
 VAL,Valaris Limited Common Shares

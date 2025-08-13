@@ -66,6 +66,7 @@ ACVA,ACV Auctions Inc. Class A Common Stock,ACV Auctions Inc. Class A Common Sto
 ACVF,American Conservative Values ETF,American Conservative Values ETF,P,ACVF,Y,100.0,N,ACVF
 ACVT,The RBB Fund Trust Advent Convertible Bond ETF,The RBB Fund Trust Advent Convertible Bond ETF,P,ACVT,Y,100.0,N,ACVT
 ACWV,iShares MSCI Global Min Vol Factor ETF,iShares MSCI Global Min Vol Factor ETF,Z,ACWV,Y,100.0,N,ACWV
+AD,"Array Digital Infrastructure, Inc. Common Shares","Array Digital Infrastructure, Inc. Common Shares",N,AD,N,100.0,N,AD
 ADC,Agree Realty Corporation Common Stock,Agree Realty Corporation Common Stock,N,ADC,N,100.0,N,ADC
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock","Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",N,ADCpA,N,100.0,N,ADC-A
 ADCT,ADC Therapeutics SA Common Shares,ADC Therapeutics SA Common Shares,N,ADCT,N,100.0,N,ADCT
@@ -1547,6 +1548,7 @@ DOCN,"DigitalOcean Holdings, Inc. Common Stock","DigitalOcean Holdings, Inc. Com
 DOCS,"Doximity, Inc. Class A Common Stock","Doximity, Inc. Class A Common Stock",N,DOCS,N,100.0,N,DOCS
 DOCT,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - October,Z,DOCT,Y,100.0,N,DOCT
 DOG,ProShares Short Dow30,ProShares Short Dow30,P,DOG,Y,100.0,N,DOG
+DOGD,Tradr 2X Long QBTS Daily ETF Tradr 2X Long DDOG Daily ETF,Tradr 2X Long QBTS Daily ETF Tradr 2X Long DDOG Daily ETF,Z,DOGD,Y,100.0,N,DOGD
 DOGG,FT Vest DJIA Dogs 10 Target Income ETF,FT Vest DJIA Dogs 10 Target Income ETF,Z,DOGG,Y,100.0,N,DOGG
 DOL,WisdomTree International LargeCap Dividend Fund,WisdomTree International LargeCap Dividend Fund,P,DOL,Y,100.0,N,DOL
 DOLE,Dole plc Ordinary Shares,Dole plc Ordinary Shares,N,DOLE,N,100.0,N,DOLE
@@ -3511,6 +3513,7 @@ KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.","Kayne Anderson Energy Inf
 L,Loews Corporation Common Stock,Loews Corporation Common Stock,N,L,N,100.0,N,L
 LABD,Direxion Daily S&P Biotech Bear 3X Shares,Direxion Daily S&P Biotech Bear 3X Shares,P,LABD,Y,100.0,N,LABD
 LABU,Direxion Daily S&P Biotech Bull 3X Shares,Direxion Daily S&P Biotech Bull 3X Shares,P,LABU,Y,100.0,N,LABU
+LABX,Tradr 2X Long QBTS Daily ETF Tradr 2X Long ALAB Daily ETF,Tradr 2X Long QBTS Daily ETF Tradr 2X Long ALAB Daily ETF,Z,LABX,Y,100.0,N,LABX
 LAC,Lithium Americas Corp. Common Shares,Lithium Americas Corp. Common Shares,N,LAC,N,100.0,N,LAC
 LAD,"Lithia Motors, Inc. Common Stock","Lithia Motors, Inc. Common Stock",N,LAD,N,100.0,N,LAD
 LADR,Ladder Capital Corp Class A Common Stock,Ladder Capital Corp Class A Common Stock,N,LADR,N,100.0,N,LADR
@@ -5589,6 +5592,7 @@ SST,"System1, Inc. Class A Common Stock","System1, Inc. Class A Common Stock",N,
 SSTK,"Shutterstock, Inc. Common Stock","Shutterstock, Inc. Common Stock",N,SSTK,N,100.0,N,SSTK
 SSUS,Day Hagan Smart Sector ETF,Day Hagan Smart Sector ETF,P,SSUS,Y,100.0,N,SSUS
 SSXU,Day Hagan Smart Sector International ETF,Day Hagan Smart Sector International ETF,P,SSXU,Y,100.0,N,SSXU
+SSY,"SunLink Health Systems, Inc. Common Stock","SunLink Health Systems, Inc. Common Stock",A,SSY,N,100.0,N,SSY
 ST,Sensata Technologies Holding plc Ordinary Shares,Sensata Technologies Holding plc Ordinary Shares,N,ST,N,100.0,N,ST
 STAG,"Stag Industrial, Inc. Common Stock","Stag Industrial, Inc. Common Stock",N,STAG,N,100.0,N,STAG
 STAX,Macquarie ETF Trust Macquarie Tax,Macquarie ETF Trust Macquarie Tax-Free USA Short Term ETF,P,STAX,Y,100.0,N,STAX
@@ -6076,7 +6080,6 @@ USFR,WisdomTree Floating Rate Treasury Fund,WisdomTree Floating Rate Treasury Fu
 USG,USCF Gold Strategy Plus Income Fund,USCF Gold Strategy Plus Income Fund,P,USG,Y,100.0,N,USG
 USHY,iShares Broad USD High Yield Corporate Bond ETF,iShares Broad USD High Yield Corporate Bond ETF,Z,USHY,Y,100.0,N,USHY
 USL,United States 12 Month Oil,United States 12 Month Oil,P,USL,Y,100.0,N,USL
-USM,United States Cellular Corporation Common Stock,United States Cellular Corporation Common Stock,N,USM,N,100.0,N,USM
 USMF,WisdomTree U.S. Multifactor Fund,WisdomTree U.S. Multifactor Fund,Z,USMF,Y,100.0,N,USMF
 USML,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,P,USML,Y,100.0,N,USML
 USMV,iShares MSCI USA Min Vol Factor ETF,iShares MSCI USA Min Vol Factor ETF,Z,USMV,Y,100.0,N,USMV
@@ -6116,9 +6119,9 @@ UXOC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equ
 UXRP,ProShares Trust ProShares Ultra XRP ETF,ProShares Trust ProShares Ultra XRP ETF,P,UXRP,Y,100.0,N,UXRP
 UYG,ProShares Ultra Financials,ProShares Ultra Financials,P,UYG,Y,100.0,N,UYG
 UYM,ProShares Ultra Materials,ProShares Ultra Materials,P,UYM,Y,100.0,N,UYM
-UZD,United States Cellular Corporation 6.250% Senior Notes due 2069,United States Cellular Corporation 6.250% Senior Notes due 2069,N,UZD,N,100.0,N,UZD
-UZE,United States Cellular Corporation 5.500% Senior Notes due 2070,United States Cellular Corporation 5.500% Senior Notes due 2070,N,UZE,N,100.0,N,UZE
-UZF,United States Cellular Corporation 5.500% Senior Notes due 2070,United States Cellular Corporation 5.500% Senior Notes due 2070,N,UZF,N,100.0,N,UZF
+UZD,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069","Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069",N,UZD,N,100.0,N,UZD
+UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070","Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",N,UZE,N,100.0,N,UZE
+UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070","Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070",N,UZF,N,100.0,N,UZF
 V,Visa Inc.,Visa Inc.,N,V,N,100.0,N,V
 VABS,Virtus Newfleet ABS/MBS ETF,Virtus Newfleet ABS/MBS ETF,P,VABS,Y,100.0,N,VABS
 VAC,Marriott Vacations Worldwide Corporation Common Stock,Marriott Vacations Worldwide Corporation Common Stock,N,VAC,N,100.0,N,VAC
