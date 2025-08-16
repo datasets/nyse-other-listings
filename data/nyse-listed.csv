@@ -591,6 +591,7 @@ CLW,Clearwater Paper Corporation Common Stock
 CLX,Clorox Company (The) Common Stock
 CM,Canadian Imperial Bank of Commerce Common Stock
 CMA,Comerica Incorporated Common Stock
+CMA$B,"Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed"
 CMBT,CMB.TECH NV Ordinary Shares
 CMC,Commercial Metals Company Common Stock
 CMCM,"Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares"
@@ -1831,6 +1832,7 @@ NLY,Annaly Capital Management Inc. Common Stock
 NLY$F,Annaly Capital Management Inc 6.95% Series F
 NLY$G,Annaly Capital Management Inc 6.50% Series G Fixed
 NLY$I,Annaly Capital Management Inc 6.750% Series I Fixed
+NLY$J,Annaly Capital Management Inc. 8.875% Series J Fixed
 NMAI,Nuveen Multi
 NMAX,"Newsmax, Inc. Class B Common Stock"
 NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares

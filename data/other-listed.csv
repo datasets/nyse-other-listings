@@ -1099,6 +1099,7 @@ CLW,Clearwater Paper Corporation Common Stock,Clearwater Paper Corporation Commo
 CLX,Clorox Company (The) Common Stock,Clorox Company (The) Common Stock,N,CLX,N,100.0,N,CLX
 CM,Canadian Imperial Bank of Commerce Common Stock,Canadian Imperial Bank of Commerce Common Stock,N,CM,N,100.0,N,CM
 CMA,Comerica Incorporated Common Stock,Comerica Incorporated Common Stock,N,CMA,N,100.0,N,CMA
+CMA$B,"Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed","Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",N,CMApB,N,100.0,N,CMA-B
 CMBS,iShares CMBS Bond ETF,iShares CMBS Bond ETF,P,CMBS,Y,100.0,N,CMBS
 CMBT,CMB.TECH NV Ordinary Shares,CMB.TECH NV Ordinary Shares,N,CMBT,N,100.0,N,CMBT
 CMC,Commercial Metals Company Common Stock,Commercial Metals Company Common Stock,N,CMC,N,100.0,N,CMC
@@ -3462,7 +3463,6 @@ KNOW,Fundamentals First ETF Fundamentals First ETF,Fundamentals First ETF Fundam
 KNRG,Simplify Exchange Traded Funds Simplify Kayne Anderson Energy and Infrastructure Credit ETF,Simplify Exchange Traded Funds Simplify Kayne Anderson Energy and Infrastructure Credit ETF,P,KNRG,Y,100.0,N,KNRG
 KNSL,"Kinsale Capital Group, Inc. Common Stock","Kinsale Capital Group, Inc. Common Stock",N,KNSL,N,100.0,N,KNSL
 KNTK,Kinetik Holdings Inc. Class A Common Stock,Kinetik Holdings Inc. Class A Common Stock,N,KNTK,N,100.0,N,KNTK
-KNW,"Know Labs, Inc. Common Stock","Know Labs, Inc. Common Stock",A,KNW,N,100.0,N,KNW
 KNX,Knight,Knight-Swift Transportation Holdings Inc.,N,KNX,N,100.0,N,KNX
 KO,Coca,Coca-Cola Company (The) Common Stock,N,KO,N,100.0,N,KO
 KOCT,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - October,Z,KOCT,Y,100.0,N,KOCT
@@ -4067,7 +4067,6 @@ NATL,NCR Atleos Corporation Common Stock,NCR Atleos Corporation Common Stock,N,N
 NAUG,Innovator ETFs Trust Innovator Growth,Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - August,Z,NAUG,Y,100.0,N,NAUG
 NAZ,Nuveen Arizona Quality Municipal Income Fund Common Stock,Nuveen Arizona Quality Municipal Income Fund Common Stock,N,NAZ,N,100.0,N,NAZ
 NBB,Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,N,NBB,N,100.0,N,NBB
-NBCC,Neuberger Berman ETF Trust Neuberger Berman Next Generation Connected Consumer ETF,Neuberger Berman ETF Trust Neuberger Berman Next Generation Connected Consumer ETF,P,NBCC,Y,100.0,N,NBCC
 NBCE,Neuberger Berman ETF Trust Neuberger Berman China Equity ETF,Neuberger Berman ETF Trust Neuberger Berman China Equity ETF,P,NBCE,Y,100.0,N,NBCE
 NBCM,Neuberger Berman ETF Trust Neuberger Berman Commodity Strategy ETF,Neuberger Berman ETF Trust Neuberger Berman Commodity Strategy ETF,P,NBCM,Y,100.0,N,NBCM
 NBCR,Neuberger Berman ETF Trust Neuberger Berman Core Equity ETF,Neuberger Berman ETF Trust Neuberger Berman Core Equity ETF,P,NBCR,Y,100.0,N,NBCR
@@ -4166,6 +4165,7 @@ NLY,Annaly Capital Management Inc. Common Stock,Annaly Capital Management Inc. C
 NLY$F,Annaly Capital Management Inc 6.95% Series F,Annaly Capital Management Inc 6.95% Series F,N,NLYpF,N,100.0,N,NLY-F
 NLY$G,Annaly Capital Management Inc 6.50% Series G Fixed,Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,NLYpG,N,100.0,N,NLY-G
 NLY$I,Annaly Capital Management Inc 6.750% Series I Fixed,Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,NLYpI,N,100.0,N,NLY-I
+NLY$J,Annaly Capital Management Inc. 8.875% Series J Fixed,Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock,N,NLYpJ,N,100.0,N,NLY-J
 NMAI,Nuveen Multi,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,N,NMAI,N,100.0,N,NMAI
 NMAR,Innovator ETFs Trust Innovator Growth,Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - March,Z,NMAR,Y,100.0,N,NMAR
 NMAX,"Newsmax, Inc. Class B Common Stock","Newsmax, Inc. Class B Common Stock",N,NMAX,N,100.0,N,NMAX
@@ -5598,7 +5598,6 @@ SST,"System1, Inc. Class A Common Stock","System1, Inc. Class A Common Stock",N,
 SSTK,"Shutterstock, Inc. Common Stock","Shutterstock, Inc. Common Stock",N,SSTK,N,100.0,N,SSTK
 SSUS,Day Hagan Smart Sector ETF,Day Hagan Smart Sector ETF,P,SSUS,Y,100.0,N,SSUS
 SSXU,Day Hagan Smart Sector International ETF,Day Hagan Smart Sector International ETF,P,SSXU,Y,100.0,N,SSXU
-SSY,"SunLink Health Systems, Inc. Common Stock","SunLink Health Systems, Inc. Common Stock",A,SSY,N,100.0,N,SSY
 ST,Sensata Technologies Holding plc Ordinary Shares,Sensata Technologies Holding plc Ordinary Shares,N,ST,N,100.0,N,ST
 STAG,"Stag Industrial, Inc. Common Stock","Stag Industrial, Inc. Common Stock",N,STAG,N,100.0,N,STAG
 STAX,Macquarie ETF Trust Macquarie Tax,Macquarie ETF Trust Macquarie Tax-Free USA Short Term ETF,P,STAX,Y,100.0,N,STAX
@@ -6076,6 +6075,7 @@ USB$P,"U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in 
 USB$Q,"U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series L Non","U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series L Non-Cumulative Perpetual Preferred Stock",N,USBpQ,N,100.0,N,USB-Q
 USB$R,"U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series M Non","U.S. Bancorp Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Series M Non-Cumulative Perpetual Preferred Stock",N,USBpR,N,100.0,N,USB-R
 USB$S,"U.S. Bancorp Depositary Shares, each representing a 1/1,000th interest in a share of Series O Non","U.S. Bancorp Depositary Shares, each representing a 1/1,000th interest in a share of Series O Non-Cumulative Perpetual Preferred Stock",N,USBpS,N,100.0,N,USB-S
+USBC,"USBC, Inc. Common Stock","USBC, Inc. Common Stock",A,USBC,N,100.0,N,USBC
 USCA,DBX ETF Trust Xtrackers MSCI USA Climate Action Equity ETF,DBX ETF Trust Xtrackers MSCI USA Climate Action Equity ETF,P,USCA,Y,100.0,N,USCA
 USCI,United States Commodity Index Fund ETV,United States Commodity Index Fund ETV,P,USCI,Y,100.0,N,USCI
 USD,ProShares Ultra Semiconductors,ProShares Ultra Semiconductors,P,USD,Y,100.0,N,USD
