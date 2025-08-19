@@ -659,6 +659,7 @@ BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,BIP Berm
 BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,N,BIPJ,N,100.0,N,BIPJ
 BIRK,Birkenstock Holding plc Ordinary Shares,Birkenstock Holding plc Ordinary Shares,N,BIRK,N,100.0,N,BIRK
 BIT,BlackRock Multi,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,N,BIT,N,100.0,N,BIT
+BIT.V,BlackRock Multi,"BlackRock Multi-Sector Income Trust Rights (expiring September 9, 2025) Rights when issued",N,BITrw,N,100.0,N,BIT^#
 BITB,Bitwise Bitcoin ETF Common Shares of Beneficial Interest,Bitwise Bitcoin ETF Common Shares of Beneficial Interest,P,BITB,Y,100.0,N,BITB
 BITC,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,P,BITC,Y,100.0,N,BITC
 BITI,ProShares Short Bitcoin ETF,ProShares Short Bitcoin ETF,P,BITI,Y,100.0,N,BITI
@@ -2382,7 +2383,6 @@ GAST,Gabelli Automation ETF,Gabelli Automation ETF,P,GAST,Y,100.0,N,GAST
 GATX,GATX Corporation Common Stock,GATX Corporation Common Stock,N,GATX,N,100.0,N,GATX
 GAU,Galiano Gold Inc.,Galiano Gold Inc.,A,GAU,N,100.0,N,GAU
 GAUG,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - August,Z,GAUG,Y,100.0,N,GAUG
-GB,Global Blue Group Holding AG Ordinary Shares,Global Blue Group Holding AG Ordinary Shares,N,GB,N,100.0,N,GB
 GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,N,GBAB,N,100.0,N,GBAB
 GBCI,"Glacier Bancorp, Inc. Common Stock","Glacier Bancorp, Inc. Common Stock",N,GBCI,N,100.0,N,GBCI
 GBF,iShares Government/Credit Bond ETF,iShares Government/Credit Bond ETF,P,GBF,Y,100.0,N,GBF
