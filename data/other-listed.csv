@@ -2682,7 +2682,6 @@ HAPI,Harbor Human Capital Factor US Large Cap ETF,Harbor Human Capital Factor US
 HAPS,Harbor Human Capital Factor US Small Cap ETF,Harbor Human Capital Factor US Small Cap ETF,P,HAPS,Y,100.0,N,HAPS
 HAPY,Harbor Human Capital Factor Unconstrained ETF,Harbor Human Capital Factor Unconstrained ETF,P,HAPY,Y,100.0,N,HAPY
 HARD,Simplify Exchange Traded Funds Simplify Commodities Strategy No K,Simplify Exchange Traded Funds Simplify Commodities Strategy No K-1 ETF,P,HARD,Y,100.0,N,HARD
-HART,NYLI Healthy Hearts ETF,NYLI Healthy Hearts ETF,P,HART,Y,100.0,N,HART
 HASI,"HA Sustainable Infrastructure Capital, Inc. Common Stock","HA Sustainable Infrastructure Capital, Inc. Common Stock",N,HASI,N,100.0,N,HASI
 HAUS,Residential REIT ETF,Residential REIT ETF,Z,HAUS,Y,100.0,N,HAUS
 HAUZ,Xtrackers International Real Estate ETF,Xtrackers International Real Estate ETF,P,HAUZ,Y,100.0,N,HAUZ
@@ -3281,6 +3280,7 @@ JHG,Janus Henderson Group plc Ordinary Shares,Janus Henderson Group plc Ordinary
 JHHY,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock High Yield ETF,P,JHHY,Y,100.0,N,JHHY
 JHI,John Hancock Investors Trust Common Stock,John Hancock Investors Trust Common Stock,N,JHI,N,100.0,N,JHI
 JHID,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock International High Dividend ETF,P,JHID,Y,100.0,N,JHID
+JHLN,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock Global Senior Loan ETF,P,JHLN,Y,100.0,N,JHLN
 JHMB,John Hancock Mortgage,John Hancock Mortgage-Backed Securities ETF,P,JHMB,Y,100.0,N,JHMB
 JHMD,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock Multifactor Developed International ETF,P,JHMD,Y,100.0,N,JHMD
 JHML,John Hancock Multifactor Large Cap ETF,John Hancock Multifactor Large Cap ETF,P,JHML,Y,100.0,N,JHML
@@ -4667,6 +4667,7 @@ PNNT,PennantPark Investment Corporation Common Stock,PennantPark Investment Corp
 PNOV,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - November,Z,PNOV,Y,100.0,N,PNOV
 PNR,Pentair plc. Ordinary Share,Pentair plc. Ordinary Share,N,PNR,N,100.0,N,PNR
 PNW,Pinnacle West Capital Corporation Common Stock,Pinnacle West Capital Corporation Common Stock,N,PNW,N,100.0,N,PNW
+POAS,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,A,POAS,N,100.0,N,POAS
 POCT,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - October,Z,POCT,Y,100.0,N,POCT
 POR,Portland General Electric Co Common Stock,Portland General Electric Co Common Stock,N,POR,N,100.0,N,POR
 POST,"Post Holdings, Inc. Common Stock","Post Holdings, Inc. Common Stock",N,POST,N,100.0,N,POST
@@ -5310,6 +5311,7 @@ SGLC,"The RBB Fund, Inc. SGI U.S. Large Cap Core ETF","The RBB Fund, Inc. SGI U.
 SGN,"Signing Day Sports, Inc. Common Stock","Signing Day Sports, Inc. Common Stock",A,SGN,N,100.0,N,SGN
 SGOL,abrdn Physical Gold Shares ETF,abrdn Physical Gold Shares ETF,P,SGOL,Y,100.0,N,SGOL
 SGOV,iShares 0,iShares 0-3 Month Treasury Bond ETF,P,SGOV,Y,100.0,N,SGOV
+SGRT,Tidal Trust I SMART Earnings Growth 30 ETF,Tidal Trust I SMART Earnings Growth 30 ETF,P,SGRT,Y,100.0,N,SGRT
 SGU,Star Group L.P. Common Stock,Star Group L.P. Common Stock,N,SGU,N,100.0,N,SGU
 SGVT,Schwab Strategic Trust Schwab Government Money Market ETF,Schwab Strategic Trust Schwab Government Money Market ETF,P,SGVT,Y,100.0,N,SGVT
 SH,ProShares Short S&P500,ProShares Short S&P500,P,SH,Y,100.0,N,SH
@@ -5622,6 +5624,7 @@ STNG,Scorpio Tankers Inc. Common Shares,Scorpio Tankers Inc. Common Shares,N,STN
 STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,SPDR DoubleLine Short Duration Total Return Tactical ETF,Z,STOT,Y,100.0,N,STOT
 STOX,Horizon Funds Horizon Core Equity ETF,Horizon Funds Horizon Core Equity ETF,Z,STOX,Y,100.0,N,STOX
 STPZ,PIMCO 1,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,P,STPZ,Y,100.0,N,STPZ
+STRN,Tidal Trust I SMART Trend 25 ETF,Tidal Trust I SMART Trend 25 ETF,P,STRN,Y,100.0,N,STRN
 STRV,EA Series Trust Strive 500 ETF,EA Series Trust Strive 500 ETF,N,STRV,Y,100.0,N,STRV
 STRW,"Strawberry Fields REIT, Inc. Common Stock","Strawberry Fields REIT, Inc. Common Stock",A,STRW,N,100.0,N,STRW
 STT,State Street Corporation Common Stock,State Street Corporation Common Stock,N,STT,N,100.0,N,STT
