@@ -3537,14 +3537,12 @@ LCTD,BlackRock World ex U.S. Carbon Transition Readiness ETF,BlackRock World ex 
 LCTU,BlackRock U.S. Carbon Transition Readiness ETF,BlackRock U.S. Carbon Transition Readiness ETF,P,LCTU,Y,100.0,N,LCTU
 LCTX,"Lineage Cell Therapeutics, Inc. Common Stock","Lineage Cell Therapeutics, Inc. Common Stock",A,LCTX,N,100.0,N,LCTX
 LDDR,LifeX 2035 Term Income ETF,LifeX 2035 Term Income ETF,Z,LDDR,Y,100.0,N,LDDR
-LDER,LifeX 2040 Term Income ETF,LifeX 2040 Term Income ETF,Z,LDER,Y,100.0,N,LDER
 LDI,"loanDepot, Inc. Class A Common Stock","loanDepot, Inc. Class A Common Stock",N,LDI,N,100.0,N,LDI
 LDOS,"Leidos Holdings, Inc. Common Stock","Leidos Holdings, Inc. Common Stock",N,LDOS,N,100.0,N,LDOS
 LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.","Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",N,LDP,N,100.0,N,LDP
 LDRC,iShares Trust iShares iBonds 1,iShares Trust iShares iBonds 1-5 Year Corporate Ladder ETF,P,LDRC,Y,100.0,N,LDRC
 LDRH,iShares Trust iShares iBonds 1,iShares Trust iShares iBonds 1-5 Year High Yield  and Income Ladder ETF,P,LDRH,Y,100.0,N,LDRH
 LDRI,iShares Trust iShares iBonds 1,iShares Trust iShares iBonds 1-5 Year TIPS Ladder ETF,P,LDRI,Y,100.0,N,LDRI
-LDRR,LifeX 2045 Term Income ETF,LifeX 2045 Term Income ETF,Z,LDRR,Y,100.0,N,LDRR
 LDRT,iShares Trust iShares iBonds 1,iShares Trust iShares iBonds 1-5 Year Treasury Ladder ETF,P,LDRT,Y,100.0,N,LDRT
 LDUR,PIMCO Enhanced Low Duration Active Exchange,PIMCO Enhanced Low Duration Active Exchange-Traded Fund,P,LDUR,Y,100.0,N,LDUR
 LEA,Lear Corporation Common Stock,Lear Corporation Common Stock,N,LEA,N,100.0,N,LEA
@@ -5394,6 +5392,7 @@ SLNZ,TCW Senior Loan ETF,TCW Senior Loan ETF,N,SLNZ,Y,100.0,N,SLNZ
 SLON,ProShares Trust ProShares Ultra Solana ETF,ProShares Trust ProShares Ultra Solana ETF,P,SLON,Y,100.0,N,SLON
 SLQT,"SelectQuote, Inc. Common Stock","SelectQuote, Inc. Common Stock",N,SLQT,N,100.0,N,SLQT
 SLSR,Solaris Resources Inc. Common Shares,Solaris Resources Inc. Common Shares,A,SLSR,N,100.0,N,SLSR
+SLTY,Tidal Trust II YieldMax Ultra Short Option Income Strategy ETF,Tidal Trust II YieldMax Ultra Short Option Income Strategy ETF,P,SLTY,Y,100.0,N,SLTY
 SLV,iShares Silver Trust,iShares Silver Trust,P,SLV,Y,100.0,N,SLV
 SLVM,Sylvamo Corporation Common Stock,Sylvamo Corporation Common Stock,N,SLVM,N,100.0,N,SLVM
 SLVP,iShares MSCI Global Silver Miners Fund,iShares MSCI Global Silver Miners Fund,Z,SLVP,Y,100.0,N,SLVP
