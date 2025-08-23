@@ -1934,7 +1934,9 @@ EURL,Direxion Daily FTSE Europe Bull 3x Shares,Direxion Daily FTSE Europe Bull 3
 EUSA,iShares MSCI USA Equal Weighted ETF,iShares MSCI USA Equal Weighted ETF,P,EUSA,Y,100.0,N,EUSA
 EUSB,iShares ESG Advanced Total USD Bond Market ETF,iShares ESG Advanced Total USD Bond Market ETF,P,EUSB,Y,100.0,N,EUSB
 EUSM,Strategy Shares Eventide US Market ETF,Strategy Shares Eventide US Market ETF,P,EUSM,Y,100.0,N,EUSM
+EVAC,EQV Ventures Acquisition Corp. II Class A Ordinary Shares,EQV Ventures Acquisition Corp. II Class A Ordinary Shares,N,EVAC,N,100.0,N,EVAC
 EVAC.U,"EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one","EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one-third of one redeemable warrant",N,EVAC.U,N,100.0,N,EVAC=
+EVAC.W,"EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,EVAC.WS,N,100.0,N,EVAC+
 EVAV,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,P,EVAV,Y,100.0,N,EVAV
 EVC,Entravision Communications Corporation Common Stock,Entravision Communications Corporation Common Stock,N,EVC,N,100.0,N,EVC
 EVEX,"Eve Holding, Inc. Common Stock","Eve Holding, Inc. Common Stock",N,EVEX,N,100.0,N,EVEX
