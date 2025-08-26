@@ -658,7 +658,7 @@ BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,BIP Berm
 BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,N,BIPJ,N,100.0,N,BIPJ
 BIRK,Birkenstock Holding plc Ordinary Shares,Birkenstock Holding plc Ordinary Shares,N,BIRK,N,100.0,N,BIRK
 BIT,BlackRock Multi,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,N,BIT,N,100.0,N,BIT
-BIT.V,BlackRock Multi,"BlackRock Multi-Sector Income Trust Rights (expiring September 9, 2025) Rights when issued",N,BITrw,N,100.0,N,BIT^#
+BIT.R,BlackRock Multi,"BlackRock Multi-Sector Income Trust Rights (expiring September 9, 2025) Rights",N,BITr,N,100.0,N,BIT^
 BITB,Bitwise Bitcoin ETF Common Shares of Beneficial Interest,Bitwise Bitcoin ETF Common Shares of Beneficial Interest,P,BITB,Y,100.0,N,BITB
 BITC,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,P,BITC,Y,100.0,N,BITC
 BITI,ProShares Short Bitcoin ETF,ProShares Short Bitcoin ETF,P,BITI,Y,100.0,N,BITI
@@ -3735,7 +3735,6 @@ MARZ,TrueShares Structured Outcome (March) ETF,TrueShares Structured Outcome (Ma
 MAS,Masco Corporation Common Stock,Masco Corporation Common Stock,N,MAS,N,100.0,N,MAS
 MATV,"Mativ Holdings, Inc. Common Stock","Mativ Holdings, Inc. Common Stock",N,MATV,N,100.0,N,MATV
 MATX,"Matson, Inc. Common Stock","Matson, Inc. Common Stock",N,MATX,N,100.0,N,MATX
-MAV,"Pioneer Municipal High Income Advantage Fund, Inc.","Pioneer Municipal High Income Advantage Fund, Inc.",N,MAV,N,100.0,N,MAV
 MAVF,EA Series Trust Matrix Advisors Value ETF,EA Series Trust Matrix Advisors Value ETF,P,MAVF,Y,100.0,N,MAVF
 MAX,"MediaAlpha, Inc. Class A Common Stock","MediaAlpha, Inc. Class A Common Stock",N,MAX,N,100.0,N,MAX
 MAXJ,iShares Trust iShares Large Cap Max Buffer Jun ETF,iShares Trust iShares Large Cap Max Buffer Jun ETF,Z,MAXJ,Y,100.0,N,MAXJ
@@ -3836,7 +3835,6 @@ MH,"McGraw Hill, Inc. Common Stock","McGraw Hill, Inc. Common Stock",N,MH,N,100.
 MHD,"Blackrock MuniHoldings Fund, Inc. Common Stock","Blackrock MuniHoldings Fund, Inc. Common Stock",N,MHD,N,100.0,N,MHD
 MHF,"Western Asset Municipal High Income Fund, Inc. Common Stock","Western Asset Municipal High Income Fund, Inc. Common Stock",N,MHF,N,100.0,N,MHF
 MHH,"Mastech Digital, Inc Common Stock","Mastech Digital, Inc Common Stock",A,MHH,N,100.0,N,MHH
-MHI,"Pioneer Municipal High Income Fund, Inc.","Pioneer Municipal High Income Fund, Inc.",N,MHI,N,100.0,N,MHI
 MHK,"Mohawk Industries, Inc. Common Stock","Mohawk Industries, Inc. Common Stock",N,MHK,N,100.0,N,MHK
 MHLA,"Maiden Holdings, Ltd. 6.625% Notes due 2046","Maiden Holdings, Ltd. 6.625% Notes due 2046",N,MHLA,N,100.0,N,MHLA
 MHN,"Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock","Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",N,MHN,N,100.0,N,MHN
@@ -3854,7 +3852,6 @@ MINN,Trust for Professional Managers Mairs & Power Minnesota Municipal Bond ETF,
 MINO,PIMCO Municipal Income Opportunities Active Exchange,PIMCO Municipal Income Opportunities Active Exchange-Traded Fund,P,MINO,Y,100.0,N,MINO
 MINT,PIMCO Enhanced Short Maturity Active Exchange,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,P,MINT,Y,100.0,N,MINT
 MINV,Matthews International Funds Matthews Asia Innovators Active ETF,Matthews International Funds Matthews Asia Innovators Active ETF,P,MINV,Y,100.0,N,MINV
-MIO,"Pioneer Municipal High Income Opportunities Fund, Inc. Common Stock","Pioneer Municipal High Income Opportunities Fund, Inc. Common Stock",N,MIO,N,100.0,N,MIO
 MIR,"Mirion Technologies, Inc. Class A Common Stock","Mirion Technologies, Inc. Class A Common Stock",N,MIR,N,100.0,N,MIR
 MISL,First Trust Exchange,First Trust Exchange-Traded Fund First Trust Indxx Aerospace & Defense ETF,P,MISL,Y,100.0,N,MISL
 MITN,"AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029","AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",N,MITN,N,100.0,N,MITN
@@ -4667,7 +4664,6 @@ PNNT,PennantPark Investment Corporation Common Stock,PennantPark Investment Corp
 PNOV,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - November,Z,PNOV,Y,100.0,N,PNOV
 PNR,Pentair plc. Ordinary Share,Pentair plc. Ordinary Share,N,PNR,N,100.0,N,PNR
 PNW,Pinnacle West Capital Corporation Common Stock,Pinnacle West Capital Corporation Common Stock,N,PNW,N,100.0,N,PNW
-POAS,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,A,POAS,N,100.0,N,POAS
 POCT,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - October,Z,POCT,Y,100.0,N,POCT
 POR,Portland General Electric Co Common Stock,Portland General Electric Co Common Stock,N,POR,N,100.0,N,POR
 POST,"Post Holdings, Inc. Common Stock","Post Holdings, Inc. Common Stock",N,POST,N,100.0,N,POST
@@ -4822,7 +4818,6 @@ QCJL,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-1
 QCOC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Nasdaq-100 Conservative Buffer ETF - October,Z,QCOC,Y,100.0,N,QCOC
 QCON,American Century ETF Trust American Century Quality Convertible Securities ETF,American Century ETF Trust American Century Quality Convertible Securities ETF,Z,QCON,Y,100.0,N,QCON
 QD,"Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share","Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share",N,QD,N,100.0,N,QD
-QDCC,Global X Funds Global X S&P 500 Quality Dividend Covered Call ETF,Global X Funds Global X S&P 500 Quality Dividend Covered Call ETF,P,QDCC,Y,100.0,N,QDCC
 QDEC,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - December,Z,QDEC,Y,100.0,N,QDEC
 QDEF,FlexShares Quality Dividend Defensive Index Fund,FlexShares Quality Dividend Defensive Index Fund,P,QDEF,Y,100.0,N,QDEF
 QDF,FlexShares Quality Dividend Index Fund,FlexShares Quality Dividend Index Fund,P,QDF,Y,100.0,N,QDF
@@ -4903,7 +4898,6 @@ RACE,Ferrari N.V. Common Shares,Ferrari N.V. Common Shares,N,RACE,N,100.0,N,RACE
 RAFE,PIMCO RAFI ESG U.S. ETF,PIMCO RAFI ESG U.S. ETF,P,RAFE,Y,100.0,N,RAFE
 RAL,Ralliant Corporation Common Stock,Ralliant Corporation Common Stock,N,RAL,N,100.0,N,RAL
 RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stock",N,RAMP,N,100.0,N,RAMP
-RATE,Global X Funds Global X Interest Rate Hedge ETF,Global X Funds Global X Interest Rate Hedge ETF,P,RATE,Y,100.0,N,RATE
 RAVI,FlexShares Ultra,FlexShares Ultra-Short Income Fund,P,RAVI,Y,100.0,N,RAVI
 RAYC,Rayliant Quantamental China Equity ETF,Rayliant Quantamental China Equity ETF,P,RAYC,Y,100.0,N,RAYC
 RAYD,The Advisors' Inner Circle Fund III Rayliant Quantitative Developed Market Equity ETF,The Advisors' Inner Circle Fund III Rayliant Quantitative Developed Market Equity ETF,P,RAYD,Y,100.0,N,RAYD
