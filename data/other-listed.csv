@@ -992,7 +992,6 @@ CEMB,iShares J.P. Morgan EM Corporate Bond ETF,iShares J.P. Morgan EM Corporate 
 CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),N,CEPU,N,100.0,N,CEPU
 CERY,SPDR Series Trust SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K,SPDR Series Trust SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF,P,CERY,Y,100.0,N,CERY
 CET,Central Securities Corporation Common Stock,Central Securities Corporation Common Stock,A,CET,N,100.0,N,CET
-CETH,21Shares Core Ethereum ETF,21Shares Core Ethereum ETF,Z,CETH,Y,100.0,N,CETH
 CEV,Eaton Vance California Municipal Income Trust Shares of Beneficial Interest,Eaton Vance California Municipal Income Trust Shares of Beneficial Interest,A,CEV,N,100.0,N,CEV
 CEW,WisdomTree Emerging Currency Strategy Fund,WisdomTree Emerging Currency Strategy Fund,P,CEW,Y,100.0,N,CEW
 CF,"CF Industries Holdings, Inc. Common Stock","CF Industries Holdings, Inc. Common Stock",N,CF,N,100.0,N,CF
@@ -3758,6 +3757,7 @@ MCI,Barings Corporate Investors Common Stock,Barings Corporate Investors Common 
 MCK,McKesson Corporation Common Stock,McKesson Corporation Common Stock,N,MCK,N,100.0,N,MCK
 MCN,XAI Madison Equity Premium Income Fund Common Shares,XAI Madison Equity Premium Income Fund Common Shares,N,MCN,N,100.0,N,MCN
 MCO,Moody's Corporation Common Stock,Moody's Corporation Common Stock,N,MCO,N,100.0,N,MCO
+MCOW,Pacer Funds Trust Pacer S&P MidCap 400 Quality FCF Aristocrats ETF,Pacer Funds Trust Pacer S&P MidCap 400 Quality FCF Aristocrats ETF,Z,MCOW,Y,100.0,N,MCOW
 MCR,MFS Charter Income Trust Common Stock,MFS Charter Income Trust Common Stock,N,MCR,N,100.0,N,MCR
 MCRP,Micropolis Holding Company Ordinary Shares,Micropolis Holding Company Ordinary Shares,A,MCRP,N,100.0,N,MCRP
 MCS,Marcus Corporation (The) Common Stock,Marcus Corporation (The) Common Stock,N,MCS,N,100.0,N,MCS
@@ -5229,6 +5229,7 @@ SCLZ,Northern Lights Fund Trust III Swan Enhanced Dividend Income ETF,Northern L
 SCM,Stellus Capital Investment Corporation Common Stock,Stellus Capital Investment Corporation Common Stock,N,SCM,N,100.0,N,SCM
 SCMB,Schwab Strategic Trust Schwab Municipal Bond ETF,Schwab Strategic Trust Schwab Municipal Bond ETF,P,SCMB,Y,100.0,N,SCMB
 SCO,ProShares UltraShort Bloomberg Crude Oil,ProShares UltraShort Bloomberg Crude Oil,P,SCO,Y,100.0,N,SCO
+SCOW,Pacer Funds Trust Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF,Pacer Funds Trust Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF,Z,SCOW,Y,100.0,N,SCOW
 SCS,Steelcase Inc. Common Stock,Steelcase Inc. Common Stock,N,SCS,N,100.0,N,SCS
 SCUS,Schwab Strategic Trust Schwab Ultra,Schwab Strategic Trust Schwab Ultra-Short Income ETF,P,SCUS,Y,100.0,N,SCUS
 SCYB,Schwab Strategic Trust Schwab High Yield Bond ETF,Schwab Strategic Trust Schwab High Yield Bond ETF,P,SCYB,Y,100.0,N,SCYB
@@ -5747,6 +5748,7 @@ TEN$F,Tsakos Energy Navigation Ltd Series F Fixed,"Tsakos Energy Navigation Ltd 
 TEO,Telecom Argentina SA,Telecom Argentina SA,N,TEO,N,100.0,N,TEO
 TEQI,T. Rowe Price Equity Income ETF,T. Rowe Price Equity Income ETF,P,TEQI,Y,100.0,N,TEQI
 TESL,Simplify Volt TSLA Revolution ETF,Simplify Volt TSLA Revolution ETF,P,TESL,Y,100.0,N,TESL
+TETH,21Shares Ethereum ETF,21Shares Ethereum ETF,Z,TETH,Y,100.0,N,TETH
 TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,Teva Pharmaceutical Industries Limited American Depositary Shares,N,TEVA,N,100.0,N,TEVA
 TEX,Terex Corporation Common Stock,Terex Corporation Common Stock,N,TEX,N,100.0,N,TEX
 TFC,Truist Financial Corporation Common Stock,Truist Financial Corporation Common Stock,N,TFC,N,100.0,N,TFC
