@@ -119,6 +119,7 @@ AGM$D,Federal Agricultural Mortgage Corporation 5.700% Non,"Federal Agricultural
 AGM$E,Federal Agricultural Mortgage Corporation 5.750% Non,"Federal Agricultural Mortgage Corporation 5.750% Non-Cumulative Preferred Stock, Series E",N,AGMpE,N,100.0,N,AGM-E
 AGM$F,Federal Agricultural Mortgage Corporation 5.250% Non,"Federal Agricultural Mortgage Corporation 5.250% Non-Cumulative Preferred Stock, Series F",N,AGMpF,N,100.0,N,AGM-F
 AGM$G,Federal Agricultural Mortgage Corporation 4.875% Non,"Federal Agricultural Mortgage Corporation 4.875% Non-Cumulative Preferred Stock, Series G",N,AGMpG,N,100.0,N,AGM-G
+AGM$H,Federal Agricultural Mortgage Corporation 6.500% Non,"Federal Agricultural Mortgage Corporation 6.500% Non-Cumulative Preferred Stock, Series H",N,AGMpH,N,100.0,N,AGM-H
 AGM.A,Federal Agricultural Mortgage Corporation Common Stock,Federal Agricultural Mortgage Corporation Common Stock,N,AGM.A,N,100.0,N,AGM.A
 AGO,Assured Guaranty Ltd. Common Stock,Assured Guaranty Ltd. Common Stock,N,AGO,N,100.0,N,AGO
 AGOX,Adaptive Alpha Opportunities ETF,Adaptive Alpha Opportunities ETF,P,AGOX,Y,100.0,N,AGOX
@@ -508,6 +509,7 @@ BBAX,JPMorgan BetaBuilders Developed Asia Pacific,JPMorgan BetaBuilders Develope
 BBBI,BondBloxx ETF Trust BondBloxx BBB Rated 5,BondBloxx ETF Trust BondBloxx BBB Rated 5-10 Year Corporate Bond ETF,P,BBBI,Y,100.0,N,BBBI
 BBBL,BondBloxx ETF Trust BondBloxx BBB Rated 10+ Year Corporate Bond ETF,BondBloxx ETF Trust BondBloxx BBB Rated 10+ Year Corporate Bond ETF,P,BBBL,Y,100.0,N,BBBL
 BBBS,BondBloxx ETF Trust BondBloxx BBB Rated 1,BondBloxx ETF Trust BondBloxx BBB Rated 1-5 Year Corporate Bond ETF,P,BBBS,Y,100.0,N,BBBS
+BBBY,"Bed Bath & Beyond, Inc. Common Stock","Bed Bath & Beyond, Inc. Common Stock",N,BBBY,N,100.0,N,BBBY
 BBC,Virtus LifeSci Biotech Clinical Trials ETF,Virtus LifeSci Biotech Clinical Trials ETF,P,BBC,Y,100.0,N,BBC
 BBCA,JPMorgan BetaBuilders Canada ETF ,JPMorgan BetaBuilders Canada ETF ,Z,BBCA,Y,100.0,N,BBCA
 BBCB,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,P,BBCB,Y,100.0,N,BBCB
@@ -893,7 +895,6 @@ BY,"Byline Bancorp, Inc. Common Stock","Byline Bancorp, Inc. Common Stock",N,BY,
 BYD,Boyd Gaming Corporation Common Stock,Boyd Gaming Corporation Common Stock,N,BYD,N,100.0,N,BYD
 BYLD,iShares Yield Optimized Bond ETF,iShares Yield Optimized Bond ETF,P,BYLD,Y,100.0,N,BYLD
 BYM,Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest,Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest,N,BYM,N,100.0,N,BYM
-BYON,"Beyond, Inc. Common Stock","Beyond, Inc. Common Stock",N,BYON,N,100.0,N,BYON
 BYRE,Principal Exchange,Principal Exchange-Traded Funds Principal Real Estate Active Opportunities ETF,P,BYRE,Y,100.0,N,BYRE
 BZH,"Beazer Homes USA, Inc. Common Stock","Beazer Homes USA, Inc. Common Stock",N,BZH,N,100.0,N,BZH
 BZQ,ProShares UltraShort MSCI Brazil Capped,ProShares UltraShort MSCI Brazil Capped,P,BZQ,Y,100.0,N,BZQ
@@ -2206,7 +2207,7 @@ FLQS,Franklin U.S. Small Cap Multifactor Index ETF,Franklin U.S. Small Cap Multi
 FLR,Fluor Corporation Common Stock,Fluor Corporation Common Stock,N,FLR,N,100.0,N,FLR
 FLRG,Fidelity U.S. Multifactor ETF,Fidelity U.S. Multifactor ETF,P,FLRG,Y,100.0,N,FLRG
 FLRN,SPDR Bloomberg Investment Grade Floating Rate ETF,SPDR Bloomberg Investment Grade Floating Rate ETF,P,FLRN,Y,100.0,N,FLRN
-FLRT,Pacer Funds Pacer Pacific Asset Floating Rate High Income ETF,Pacer Funds Pacer Pacific Asset Floating Rate High Income ETF,P,FLRT,Y,100.0,N,FLRT
+FLRT,Pacer Aristotle Pacific Floating Rate High Income ETF,Pacer Aristotle Pacific Floating Rate High Income ETF,P,FLRT,Y,100.0,N,FLRT
 FLS,Flowserve Corporation Common Stock,Flowserve Corporation Common Stock,N,FLS,N,100.0,N,FLS
 FLSA,Franklin FTSE Saudi Arabia ETF,Franklin FTSE Saudi Arabia ETF,P,FLSA,Y,100.0,N,FLSA
 FLSP,Franklin Systematic Style Premia ETF,Franklin Systematic Style Premia ETF,P,FLSP,Y,100.0,N,FLSP
@@ -2285,6 +2286,7 @@ FRDM,Freedom 100 Emerging Markets ETF,Freedom 100 Emerging Markets ETF,Z,FRDM,Y,
 FREL,Fidelity MSCI Real Estate Index ETF,Fidelity MSCI Real Estate Index ETF,P,FREL,Y,100.0,N,FREL
 FRGE,"Forge Global Holdings, Inc. Common Stock","Forge Global Holdings, Inc. Common Stock",N,FRGE,N,100.0,N,FRGE
 FRI,First Trust S&P REIT Index Fund,First Trust S&P REIT Index Fund,P,FRI,Y,100.0,N,FRI
+FRIZ,Franklin Templeton ETF Trust Franklin Dividend Growth ETF,Franklin Templeton ETF Trust Franklin Dividend Growth ETF,P,FRIZ,Y,100.0,N,FRIZ
 FRNW,Fidelity Clean Energy ETF,Fidelity Clean Energy ETF,Z,FRNW,Y,100.0,N,FRNW
 FRO,Frontline Plc Ordinary Shares,Frontline Plc Ordinary Shares,N,FRO,N,100.0,N,FRO
 FRT,Federal Realty Investment Trust Common Stock,Federal Realty Investment Trust Common Stock,N,FRT,N,100.0,N,FRT
@@ -4636,6 +4638,7 @@ PMAR,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer 
 PMAU,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - August,Z,PMAU,Y,100.0,N,PMAU
 PMAY,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - May,Z,PMAY,Y,100.0,N,PMAY
 PMFB,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - February,Z,PMFB,Y,100.0,N,PMFB
+PMI,"Picard Medical, Inc. Common Stock","Picard Medical, Inc. Common Stock",A,PMI,N,100.0,N,PMI
 PMIO,PGIM ETF Trust PGIM Municipal Income Opportunities ETF,PGIM ETF Trust PGIM Municipal Income Opportunities ETF,P,PMIO,Y,100.0,N,PMIO
 PMJA,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - January,Z,PMJA,Y,100.0,N,PMJA
 PMJL,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF ,PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - July,Z,PMJL,Y,100.0,N,PMJL
