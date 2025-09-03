@@ -298,6 +298,7 @@ BBD,Banco Bradesco Sa American Depositary Shares
 BBDC,"Barings BDC, Inc. Common Stock"
 BBDO,Banco Bradesco Sa American Depositary Shares (each representing one Common Share)
 BBN,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest
+BBT,Beacon Financial Corporation Common stock
 BBU,Brookfield Business Partners L.P. Limited Partnership Units 
 BBUC,Brookfield Business Corporation Class A Exchangeable Subordinate Voting Shares
 BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock
@@ -354,7 +355,6 @@ BH.A,Biglari Holdings Inc. Class A Common Stock
 BHC,Bausch Health Companies Inc. Common Stock
 BHE,"Benchmark Electronics, Inc. Common Stock"
 BHK,Blackrock Core Bond Trust
-BHLB,"Berkshire Hills Bancorp, Inc. Common Stock"
 BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)
 BHR,Braemar Hotels & Resorts Inc. Common Stock
 BHR$B,"Braemar Hotels & Resorts Inc. 5.50% Series B Cumulative Convertible Preferred Stock, par value $0.01 per share"
@@ -432,7 +432,6 @@ BR,"Broadridge Financial Solutions, Inc. Common Stock"
 BRBR,"BellRing Brands, Inc. Common Stock "
 BRC,Brady Corporation Common Stock
 BRCC,BRC Inc. Class A Common Stock
-BRDG,Bridge Investment Group Holdings Inc. Class A Common Stock
 BRFS,BRF S.A.
 BRK.A,Berkshire Hathaway Inc. Common Stock
 BRK.B,Berkshire Hathaway Inc. New Common Stock
@@ -1796,7 +1795,6 @@ NE.W,Noble Corporation plc Tranche 1 Warrants
 NEA,Nuveen AMT
 NEE,"NextEra Energy, Inc. Common Stock"
 NEE$N,"NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079"
-NEE$R,"NextEra Energy, Inc. 6.926% Corporate Units"
 NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units"
 NEE$T,"NextEra Energy, Inc. 7.234% Corporate Units"
 NEE$U,"NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085"
@@ -2445,7 +2443,7 @@ SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred 
 SRI,"Stoneridge, Inc. Common Stock"
 SRL,Scully Royalty Ltd.
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest
-SSB,SouthState Corporation Common Stock
+SSB,SouthState Bank Corporation Common Stock
 SSD,"Simpson Manufacturing Company, Inc. Common Stock"
 SSL,Sasol Ltd. American Depositary Shares
 SST,"System1, Inc. Class A Common Stock"
