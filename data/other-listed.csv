@@ -113,6 +113,7 @@ AGGH,Simplify Aggregate Bond ETF,Simplify Aggregate Bond ETF,P,AGGH,Y,100.0,N,AG
 AGGS,Harbor ETF Trust Harbor Disciplined Bond ETF,Harbor ETF Trust Harbor Disciplined Bond ETF,P,AGGS,Y,100.0,N,AGGS
 AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,P,AGGY,Y,100.0,N,AGGY
 AGI,Alamos Gold Inc. Class A Common Shares,Alamos Gold Inc. Class A Common Shares,N,AGI,N,100.0,N,AGI
+AGIQ,Tidal Trust I SoFi Agentic AI ETF,Tidal Trust I SoFi Agentic AI ETF,P,AGIQ,Y,100.0,N,AGIQ
 AGL,"agilon health, inc. Common Stock","agilon health, inc. Common Stock",N,AGL,N,100.0,N,AGL
 AGM,Federal Agricultural Mortgage Corporation Common Stock,Federal Agricultural Mortgage Corporation Common Stock,N,AGM,N,100.0,N,AGM
 AGM$D,Federal Agricultural Mortgage Corporation 5.700% Non,"Federal Agricultural Mortgage Corporation 5.700% Non-Cumulative Preferred Stock, Series D",N,AGMpD,N,100.0,N,AGM-D
@@ -763,7 +764,6 @@ BOAT,SonicShares Global Shipping ETF,SonicShares Global Shipping ETF,P,BOAT,Y,10
 BOBP,Exchange Traded Concepts Trust CORE16 Best of Breed Premier Index ETF,Exchange Traded Concepts Trust CORE16 Best of Breed Premier Index ETF,P,BOBP,Y,100.0,N,BOBP
 BOC,Boston Omaha Corporation Class A Common Stock,Boston Omaha Corporation Class A Common Stock,N,BOC,N,100.0,N,BOC
 BOCT,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - October,Z,BOCT,Y,100.0,N,BOCT
-BODI,"The Beachbody Company, Inc. Class A Common Stock","The Beachbody Company, Inc. Class A Common Stock",N,BODI,N,100.0,N,BODI
 BOE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,N,BOE,N,100.0,N,BOE
 BOH,Bank of Hawaii Corporation Common Stock,Bank of Hawaii Corporation Common Stock,N,BOH,N,100.0,N,BOH
 BOH$A,Bank of Hawaii Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of 4.375% Fixed Rate Non,"Bank of Hawaii Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of 4.375% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A",N,BOHpA,N,100.0,N,BOH-A
@@ -1681,7 +1681,6 @@ ECF$A,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred 
 ECG,"Everus Construction Group, Inc. Common Stock","Everus Construction Group, Inc. Common Stock",N,ECG,N,100.0,N,ECG
 ECH,iShares Inc. iShares MSCI Chile ETF,iShares Inc. iShares MSCI Chile ETF,Z,ECH,Y,100.0,N,ECH
 ECL,Ecolab Inc. Common Stock,Ecolab Inc. Common Stock,N,ECL,N,100.0,N,ECL
-ECLN,First Trust EIP Carbon Impact ETF,First Trust EIP Carbon Impact ETF,P,ECLN,Y,100.0,N,ECLN
 ECML,EA Series Trust Euclidean Fundamental Value ETF,EA Series Trust Euclidean Fundamental Value ETF,P,ECML,Y,100.0,N,ECML
 ECNS,iShares MSCI China Small,iShares MSCI China Small-Cap ETF,P,ECNS,Y,100.0,N,ECNS
 ECO,Okeanis Eco Tankers Corp. Common Stock,Okeanis Eco Tankers Corp. Common Stock,N,ECO,N,100.0,N,ECO
@@ -2224,7 +2223,6 @@ FLYD,Bank of Montreal MicroSectors Travel ,Bank of Montreal MicroSectors Travel 
 FLYU,Bank of Montreal MicroSectors Travel 3x Leveraged ETN,Bank of Montreal MicroSectors Travel 3x Leveraged ETN,P,FLYU,Y,100.0,N,FLYU
 FLYX,"flyExclusive, Inc. Class A Common Stock","flyExclusive, Inc. Class A Common Stock",A,FLYX,N,100.0,N,FLYX
 FLYX.W,"flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share","flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",A,FLYX.WS,N,100.0,N,FLYX+
-FLYY,"Spirit Aviation Holdings, Inc. Common Stock","Spirit Aviation Holdings, Inc. Common Stock",A,FLYY,N,100.0,N,FLYY
 FMAG,Fidelity Magellan ETF,Fidelity Magellan ETF,Z,FMAG,Y,100.0,N,FMAG
 FMAR,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - March,Z,FMAR,Y,100.0,N,FMAR
 FMAT,Fidelity MSCI Materials Index ETF,Fidelity MSCI Materials Index ETF,P,FMAT,Y,100.0,N,FMAT
@@ -2278,6 +2276,7 @@ FPFD,Fidelity Preferred Securities & Income ETF,Fidelity Preferred Securities & 
 FPH,"Five Point Holdings, LLC Class A Common Shares","Five Point Holdings, LLC Class A Common Shares",N,FPH,N,100.0,N,FPH
 FPI,Farmland Partners Inc. Common Stock,Farmland Partners Inc. Common Stock,N,FPI,N,100.0,N,FPI
 FPRO,Fidelity Real Estate Investment ETF,Fidelity Real Estate Investment ETF,Z,FPRO,Y,100.0,N,FPRO
+FPWR,First Trust EIP Power Solutions ETF,First Trust EIP Power Solutions ETF,P,FPWR,Y,100.0,N,FPWR
 FPX,First Trust US Equity Opportunities ETF,First Trust US Equity Opportunities ETF,P,FPX,Y,100.0,N,FPX
 FQAL,Fidelity Quality Factor ETF,Fidelity Quality Factor ETF,P,FQAL,Y,100.0,N,FQAL
 FR,"First Industrial Realty Trust, Inc. Common Stock","First Industrial Realty Trust, Inc. Common Stock",N,FR,N,100.0,N,FR
@@ -5876,6 +5875,7 @@ TOPP,Toppoint Holdings Inc. Common Stock,Toppoint Holdings Inc. Common Stock,A,T
 TOPS,"TOP Ships, Inc. Common Stock","TOP Ships, Inc. Common Stock",A,TOPS,N,100.0,N,TOPS
 TOPT,iShares Trust iShares Top 20 U.S. Stocks ETF,iShares Trust iShares Top 20 U.S. Stocks ETF,P,TOPT,Y,100.0,N,TOPT
 TOST,"Toast, Inc. Class A Common Stock","Toast, Inc. Class A Common Stock",N,TOST,N,100.0,N,TOST
+TOT,Advisor Managed Portfolios LionShares U.S. Equity Total Return ETF,Advisor Managed Portfolios LionShares U.S. Equity Total Return ETF,P,TOT,Y,100.0,N,TOT
 TOTL,SPDR DoubleLine Total Return Tactical ETF,SPDR DoubleLine Total Return Tactical ETF,P,TOTL,Y,100.0,N,TOTL
 TOTR,T. Rowe Price Total Return ETF,T. Rowe Price Total Return ETF,P,TOTR,Y,100.0,N,TOTR
 TOUS,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price International Equity ETF",P,TOUS,Y,100.0,N,TOUS
