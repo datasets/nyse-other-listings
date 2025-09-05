@@ -1904,6 +1904,7 @@ ESUM,Strategy Shares Eventide US Market ETF,Strategy Shares Eventide US Market E
 ET,Energy Transfer LP Common Units ,Energy Transfer LP Common Units ,N,ET,N,100.0,N,ET
 ET$I,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units,N,ETpI,N,100.0,N,ET-I
 ETB,Eaton Vance Tax,Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest,N,ETB,N,100.0,N,ETB
+ETCO,Grayscale Funds Trust Grayscale Ethereum Covered Call ETF,Grayscale Funds Trust Grayscale Ethereum Covered Call ETF,P,ETCO,Y,100.0,N,ETCO
 ETD,Ethan Allen Interiors Inc. Common Stock,Ethan Allen Interiors Inc. Common Stock,N,ETD,N,100.0,N,ETD
 ETG,Eaton Vance Tax,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,N,ETG,N,100.0,N,ETG
 ETH,Grayscale Ethereum Mini Trust (ETH) Common units of fractional undivided beneficial interest,Grayscale Ethereum Mini Trust (ETH) Common units of fractional undivided beneficial interest,P,ETH,Y,100.0,N,ETH
@@ -3707,7 +3708,6 @@ MAA,Mid,"Mid-America Apartment Communities, Inc. Common Stock",N,MAA,N,100.0,N,M
 MAA$I,Mid,"Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock",N,MAApI,N,100.0,N,MAA-I
 MAC,Macerich Company (The) Common Stock,Macerich Company (The) Common Stock,N,MAC,N,100.0,N,MAC
 MADE,iShares Trust iShares U.S. Manufacturing ETF,iShares Trust iShares U.S. Manufacturing ETF,P,MADE,Y,100.0,N,MADE
-MAG,MAG Silver Corporation Ordinary Shares,MAG Silver Corporation Ordinary Shares,A,MAG,N,100.0,N,MAG
 MAGA,Point Bridge America First ETF,Point Bridge America First ETF,Z,MAGA,Y,100.0,N,MAGA
 MAGG,Madison ETFs Trust Madison Aggregate Bond ETF,Madison ETFs Trust Madison Aggregate Bond ETF,P,MAGG,Y,100.0,N,MAGG
 MAGN,Magnera Corporation Common Stock,Magnera Corporation Common Stock,N,MAGN,N,100.0,N,MAGN
@@ -5715,6 +5715,7 @@ TCI,"Transcontinental Realty Investors, Inc. Common Stock","Transcontinental Rea
 TCPB,Thrivent ETF Trust Thrivent Core Plus Bond ETF,Thrivent ETF Trust Thrivent Core Plus Bond ETF,P,TCPB,Y,100.0,N,TCPB
 TCV,EA Series Trust Towle Value ETF,EA Series Trust Towle Value ETF,P,TCV,Y,100.0,N,TCV
 TD,Toronto Dominion Bank (The) Common Stock,Toronto Dominion Bank (The) Common Stock,N,TD,N,100.0,N,TD
+TDAQ,ETF Opportunities Trust TappAlpha Innovation 100 Growth & Daily Income ETF,ETF Opportunities Trust TappAlpha Innovation 100 Growth & Daily Income ETF,Z,TDAQ,Y,100.0,N,TDAQ
 TDC,Teradata Corporation Common Stock,Teradata Corporation Common Stock,N,TDC,N,100.0,N,TDC
 TDEC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets Buffer ETF - December,Z,TDEC,Y,100.0,N,TDEC
 TDF,"Templeton Dragon Fund, Inc. Common Stock","Templeton Dragon Fund, Inc. Common Stock",N,TDF,N,100.0,N,TDF
@@ -6170,7 +6171,7 @@ VEMY,Virtus ETF Trust II Virtus Stone Harbor Emerging Markets High Yield Bond ET
 VENU,Venu Holding Corporation Common Stock,Venu Holding Corporation Common Stock,A,VENU,N,100.0,N,VENU
 VERS,ProShares Trust ProShares Metaverse ETF,ProShares Trust ProShares Metaverse ETF,P,VERS,Y,100.0,N,VERS
 VET,Vermilion Energy Inc. Common (Canada),Vermilion Energy Inc. Common (Canada),N,VET,N,100.0,N,VET
-VETZ,Academy Veteran Impact ETF,Academy Veteran Impact ETF,P,VETZ,Y,100.0,N,VETZ
+VETZ,Academy Veteran Bond ETF,Academy Veteran Bond ETF,P,VETZ,Y,100.0,N,VETZ
 VEU,Vanguard FTSE All World Ex US ETF,Vanguard FTSE All World Ex US ETF,P,VEU,Y,100.0,N,VEU
 VFC,V.F. Corporation Common Stock,V.F. Corporation Common Stock,N,VFC,N,100.0,N,VFC
 VFH,Vanguard Financials ETF,Vanguard Financials ETF,P,VFH,Y,100.0,N,VFH
@@ -6385,6 +6386,7 @@ WOLF,"Wolfspeed, Inc. Common Stock","Wolfspeed, Inc. Common Stock",N,WOLF,N,100.
 WOMN,Tidal Trust III Impact Shares Women's Empowerment ETF,Tidal Trust III Impact Shares Women's Empowerment ETF,P,WOMN,Y,100.0,N,WOMN
 WOR,"Worthington Enterprises, Inc. Common Shares","Worthington Enterprises, Inc. Common Shares",N,WOR,N,100.0,N,WOR
 WOW,"WideOpenWest, Inc. Common Stock","WideOpenWest, Inc. Common Stock",N,WOW,N,100.0,N,WOW
+WPAY,Roundhill ETF Trust Roundhill WeeklyPay Universe ETF,Roundhill ETF Trust Roundhill WeeklyPay Universe ETF,Z,WPAY,Y,100.0,N,WPAY
 WPC,W. P. Carey Inc. REIT,W. P. Carey Inc. REIT,N,WPC,N,100.0,N,WPC
 WPM,Wheaton Precious Metals Corp Common Shares (Canada),Wheaton Precious Metals Corp Common Shares (Canada),N,WPM,N,100.0,N,WPM
 WPP,WPP plc American Depositary Shares,WPP plc American Depositary Shares,N,WPP,N,100.0,N,WPP
@@ -6469,7 +6471,6 @@ XIDV,Franklin International Dividend Booster Index ETF,Franklin International Di
 XIFR,"XPLR Infrastructure, LP Common Units representing limited partner interests","XPLR Infrastructure, LP Common Units representing limited partner interests",N,XIFR,N,100.0,N,XIFR
 XIJN,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Premium Income ETF - June,Z,XIJN,Y,100.0,N,XIJN
 XIMR,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Premium Income ETF - March,Z,XIMR,Y,100.0,N,XIMR
-XIN,Xinyuan Real Estate Co Ltd American Depositary Shares,Xinyuan Real Estate Co Ltd American Depositary Shares,N,XIN,N,100.0,N,XIN
 XISE,FT Vest U.S. Equity Buffer & Premium Income ETF ,FT Vest U.S. Equity Buffer & Premium Income ETF - September,Z,XISE,Y,100.0,N,XISE
 XITK,SPDR FactSet Innovative Technology ETF,SPDR FactSet Innovative Technology ETF,P,XITK,Y,100.0,N,XITK
 XJAN,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Enhance & Moderate Buffer ETF - January,Z,XJAN,Y,100.0,N,XJAN
