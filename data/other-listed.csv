@@ -1161,6 +1161,7 @@ COF$L,"Capital One Financial Corporation Depositary Shares, Each Representing a 
 COF$N,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non","Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N",N,COFpN,N,100.0,N,COF-N
 COHN,Cohen & Company Inc.,Cohen & Company Inc.,A,COHN,N,100.0,N,COHN
 COHR,Coherent Corp. Common Stock,Coherent Corp. Common Stock,N,COHR,N,100.0,N,COHR
+COIA,ProShares Trust ProShares Ultra COIN,ProShares Trust ProShares Ultra COIN,P,COIA,Y,100.0,N,COIA
 COII,REX COIN Growth & Income ETF,REX COIN Growth & Income ETF,Z,COII,Y,100.0,N,COII
 COIO,Themes ETF Trust Leverage Shares 2x Capped Accelerated COIN Monthly ETF,Themes ETF Trust Leverage Shares 2x Capped Accelerated COIN Monthly ETF,Z,COIO,Y,100.0,N,COIO
 COIW,Roundhill ETF Trust Roundhill COIN WeeklyPay ETF,Roundhill ETF Trust Roundhill COIN WeeklyPay ETF,Z,COIW,Y,100.0,N,COIW
@@ -2938,6 +2939,7 @@ ICL,ICL Group Ltd. Ordinary Shares,ICL Group Ltd. Ordinary Shares,N,ICL,N,100.0,
 ICLO,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco AAA CLO Floating Rate Note ETF,Z,ICLO,Y,100.0,N,ICLO
 ICOI,Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF,Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF,P,ICOI,Y,100.0,N,ICOI
 ICOW,Pacer Developed Markets International Cash Cows 100 ETF,Pacer Developed Markets International Cash Cows 100 ETF,Z,ICOW,Y,100.0,N,ICOW
+ICPY,"The RBB Fund Trust Tweedy, Browne International Insider + Value ETF","The RBB Fund Trust Tweedy, Browne International Insider + Value ETF",P,ICPY,Y,100.0,N,ICPY
 ICR$A,"InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock","InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock",N,ICRpA,N,100.0,N,ICR-A
 ICSH,iShares Ultra Short Duration Bond Active ETF,iShares Ultra Short Duration Bond Active ETF,Z,ICSH,Y,100.0,N,ICSH
 ICVT,iShares Convertible Bond ETF,iShares Convertible Bond ETF,Z,ICVT,Y,100.0,N,ICVT
@@ -3431,6 +3433,7 @@ KKR,KKR & Co. Inc. Common Stock,KKR & Co. Inc. Common Stock,N,KKR,N,100.0,N,KKR
 KKR$D,KKR & Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock,KKR & Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock,N,KKRpD,N,100.0,N,KKR-D
 KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,N,KKRS,N,100.0,N,KKRS
 KKRT,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,N,KKRT,N,100.0,N,KKRT
+KLAR,Klarna Group plc Ordinary Shares,Klarna Group plc Ordinary Shares,N,KLAR,N,100.0,N,KLAR
 KLC,"KinderCare Learning Companies, Inc. Common Stock","KinderCare Learning Companies, Inc. Common Stock",N,KLC,N,100.0,N,KLC
 KLG,WK Kellogg Co Common Stock,WK Kellogg Co Common Stock,N,KLG,N,100.0,N,KLG
 KLIP,KraneShares KWEB Covered Call Strategy ETF,KraneShares KWEB Covered Call Strategy ETF,P,KLIP,Y,100.0,N,KLIP
@@ -4265,6 +4268,7 @@ NUW,Nuveen AMT,Nuveen AMT-Free Municipal Value Fund,N,NUW,N,100.0,N,NUW
 NVBT,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Nov ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Nov ETF,P,NVBT,Y,100.0,N,NVBT
 NVBU,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF,Z,NVBU,Y,100.0,N,NVBU
 NVBW,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Nov ETF,AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer20 Nov ETF,P,NVBW,Y,100.0,N,NVBW
+NVDB,ProShares Trust ProShares Ultra NVDA,ProShares Trust ProShares Ultra NVDA,P,NVDB,Y,100.0,N,NVDB
 NVDO,Themes ETF Trust Leverage Shares 2x Capped Accelerated NVDA Monthly ETF,Themes ETF Trust Leverage Shares 2x Capped Accelerated NVDA Monthly ETF,Z,NVDO,Y,100.0,N,NVDO
 NVDQ,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Inverse NVIDIA Daily Target ETF,Z,NVDQ,Y,100.0,N,NVDQ
 NVDW,Roundhill ETF Trust Roundhill NVDA WeeklyPay ETF,Roundhill ETF Trust Roundhill NVDA WeeklyPay ETF,Z,NVDW,Y,100.0,N,NVDW
@@ -4629,6 +4633,7 @@ PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),Platinum Group Metals Lt
 PLNT,"Planet Fitness, Inc. Common Stock","Planet Fitness, Inc. Common Stock",N,PLNT,N,100.0,N,PLNT
 PLOO,Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Z,PLOO,Y,100.0,N,PLOO
 PLOW,"Douglas Dynamics, Inc. Common Stock","Douglas Dynamics, Inc. Common Stock",N,PLOW,N,100.0,N,PLOW
+PLTA,ProShares Trust ProShares Ultra PLTR,ProShares Trust ProShares Ultra PLTR,P,PLTA,Y,100.0,N,PLTA
 PLTM,GraniteShares Platinum Shares ETF,GraniteShares Platinum Shares ETF,P,PLTM,Y,100.0,N,PLTM
 PLTW,Roundhill ETF Trust Roundhill PLTR WeeklyPay ETF,Roundhill ETF Trust Roundhill PLTR WeeklyPay ETF,Z,PLTW,Y,100.0,N,PLTW
 PLTY,Tidal Trust II YieldMax PLTR Option Income Strategy ETF,Tidal Trust II YieldMax PLTR Option Income Strategy ETF,P,PLTY,Y,100.0,N,PLTY
@@ -4706,6 +4711,7 @@ PRMB,Primo Brands Corporation Class A Common Stock,Primo Brands Corporation Clas
 PRNT,3D Printing (The) ETF,3D Printing (The) ETF,Z,PRNT,Y,100.0,N,PRNT
 PRO,"PROS Holdings, Inc. Common Stock","PROS Holdings, Inc. Common Stock",N,PRO,N,100.0,N,PRO
 PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058","Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",N,PRS,N,100.0,N,PRS
+PRSD,SSGA Active Trust State Street Short Duration IG Public & Private Credit ETF,SSGA Active Trust State Street Short Duration IG Public & Private Credit ETF,P,PRSD,Y,100.0,N,PRSD
 PRSU,"Pursuit Attractions and Hospitality, Inc. Common Stock","Pursuit Attractions and Hospitality, Inc. Common Stock",N,PRSU,N,100.0,N,PRSU
 PRT,PermRock Royalty Trust Trust Units,PermRock Royalty Trust Trust Units,N,PRT,N,100.0,N,PRT
 PRU,"Prudential Financial, Inc. Common Stock","Prudential Financial, Inc. Common Stock",N,PRU,N,100.0,N,PRU
@@ -5003,6 +5009,7 @@ RITM$C,Rithm Capital Corp. 6.375% Series C Fixed,Rithm Capital Corp. 6.375% Seri
 RITM$D,Rithm Capital Corp. 7.00% Fixed,Rithm Capital Corp. 7.00% Fixed-Rate Reset Series D Cumulative Redeemable Preferred Stock,N,RITMpD,N,100.0,N,RITM-D
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities Fund, Inc. Common Stock",N,RIV,N,100.0,N,RIV
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
+RIV.V,"RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights when issued","RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights when issued",N,RIVrw,N,100.0,N,RIV^#
 RJF,"Raymond James Financial, Inc. Common Stock","Raymond James Financial, Inc. Common Stock",N,RJF,N,100.0,N,RJF
 RJF$B,"Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed","Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",N,RJFpB,N,100.0,N,RJF-B
 RJMG,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Raymond James Multicap Growth Equity ETF,P,RJMG,Y,100.0,N,RJMG
@@ -5938,6 +5945,7 @@ TSEC,Touchstone ETF Trust Touchstone Securitized Income ETF,Touchstone ETF Trust
 TSEP,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
 TSI,"TCW Strategic Income Fund, Inc. Common Stock","TCW Strategic Income Fund, Inc. Common Stock",N,TSI,N,100.0,N,TSI
 TSII,REX TSLA Growth & Income ETF,REX TSLA Growth & Income ETF,Z,TSII,Y,100.0,N,TSII
+TSLI,ProShares Trust ProShares Ultra TSLA,ProShares Trust ProShares Ultra TSLA,P,TSLI,Y,100.0,N,TSLI
 TSLO,Themes ETF Trust Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,Themes ETF Trust Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,Z,TSLO,Y,100.0,N,TSLO
 TSLP,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Z,TSLP,Y,100.0,N,TSLP
 TSLT,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long Tesla Daily Target ETF,Z,TSLT,Y,100.0,N,TSLT
