@@ -2684,7 +2684,6 @@ HAL,Halliburton Company Common Stock,Halliburton Company Common Stock,N,HAL,N,10
 HAP,VanEck Natural Resources ETF,VanEck Natural Resources ETF,P,HAP,Y,100.0,N,HAP
 HAPI,Harbor Human Capital Factor US Large Cap ETF,Harbor Human Capital Factor US Large Cap ETF,P,HAPI,Y,100.0,N,HAPI
 HAPS,Harbor Human Capital Factor US Small Cap ETF,Harbor Human Capital Factor US Small Cap ETF,P,HAPS,Y,100.0,N,HAPS
-HAPY,Harbor Human Capital Factor Unconstrained ETF,Harbor Human Capital Factor Unconstrained ETF,P,HAPY,Y,100.0,N,HAPY
 HARD,Simplify Exchange Traded Funds Simplify Commodities Strategy No K,Simplify Exchange Traded Funds Simplify Commodities Strategy No K-1 ETF,P,HARD,Y,100.0,N,HARD
 HASI,"HA Sustainable Infrastructure Capital, Inc. Common Stock","HA Sustainable Infrastructure Capital, Inc. Common Stock",N,HASI,N,100.0,N,HASI
 HAUS,Residential REIT ETF,Residential REIT ETF,Z,HAUS,Y,100.0,N,HAUS
@@ -4366,7 +4365,6 @@ OIS,"Oil States International, Inc. Common Stock","Oil States International, Inc
 OKE,"ONEOK, Inc. Common Stock","ONEOK, Inc. Common Stock",N,OKE,N,100.0,N,OKE
 OKLO,Oklo Inc. Class A common stock,Oklo Inc. Class A common stock,N,OKLO,N,100.0,N,OKLO
 OLN,Olin Corporation Common Stock,Olin Corporation Common Stock,N,OLN,N,100.0,N,OLN
-OLO,Olo Inc. Class A Common Stock,Olo Inc. Class A Common Stock,N,OLO,N,100.0,N,OLO
 OLP,"One Liberty Properties, Inc. Common Stock","One Liberty Properties, Inc. Common Stock",N,OLP,N,100.0,N,OLP
 OMAH,Tidal Trust III VistaShares Target 15 Berkshire Select Income ETF,Tidal Trust III VistaShares Target 15 Berkshire Select Income ETF,P,OMAH,Y,100.0,N,OMAH
 OMC,Omnicom Group Inc. Common Stock,Omnicom Group Inc. Common Stock,N,OMC,N,100.0,N,OMC
@@ -5384,7 +5382,6 @@ SKIL,Skillsoft Corp. Class A Common Stock,Skillsoft Corp. Class A Common Stock,N
 SKLZ,Skillz Inc. Class A Common Stock,Skillz Inc. Class A Common Stock,N,SKLZ,N,100.0,N,SKLZ
 SKM,"SK Telecom Co., Ltd. Common Stock","SK Telecom Co., Ltd. Common Stock",N,SKM,N,100.0,N,SKM
 SKT,Tanger Inc. Common Stock,Tanger Inc. Common Stock,N,SKT,N,100.0,N,SKT
-SKX,"Skechers U.S.A., Inc. Common Stock","Skechers U.S.A., Inc. Common Stock",N,SKX,N,100.0,N,SKX
 SKY,"Champion Homes, Inc. Common Stock","Champion Homes, Inc. Common Stock",N,SKY,N,100.0,N,SKY
 SKYH,Sky Harbour Group Corporation Class A Common Stock,Sky Harbour Group Corporation Class A Common Stock,N,SKYH,N,100.0,N,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",N,SKYH.WS,N,100.0,N,SKYH+
@@ -6208,6 +6205,7 @@ VGZ,Vista Gold Corp Common Stock,Vista Gold Corp Common Stock,A,VGZ,N,100.0,N,VG
 VHC,VirnetX Holding Corp Common Stock,VirnetX Holding Corp Common Stock,N,VHC,N,100.0,N,VHC
 VHI,"Valhi, Inc. Common Stock","Valhi, Inc. Common Stock",N,VHI,N,100.0,N,VHI
 VHT,Vanguard Health Care ETF,Vanguard Health Care ETF,P,VHT,Y,100.0,N,VHT
+VIA,"Via Transportation, Inc. Class A Common Stock","Via Transportation, Inc. Class A Common Stock",N,VIA,N,100.0,N,VIA
 VICE,AdvisorShares Trust AdvisorShares Vice ETF,AdvisorShares Trust AdvisorShares Vice ETF,P,VICE,Y,100.0,N,VICE
 VICI,VICI Properties Inc. Common Stock,VICI Properties Inc. Common Stock,N,VICI,N,100.0,N,VICI
 VIDI,Vident International Equity Strategy ETF,Vident International Equity Strategy ETF,P,VIDI,Y,100.0,N,VIDI
