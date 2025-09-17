@@ -104,6 +104,7 @@ AFK,VanEck Africa Index ETF,VanEck Africa Index ETF,P,AFK,Y,100.0,N,AFK
 AFL,AFLAC Incorporated Common Stock,AFLAC Incorporated Common Stock,N,AFL,N,100.0,N,AFL
 AFLG,First Trust Active Factor Large Cap ETF,First Trust Active Factor Large Cap ETF,P,AFLG,Y,100.0,N,AFLG
 AFMC,First Trust Active Factor Mid Cap ETF,First Trust Active Factor Mid Cap ETF,P,AFMC,Y,100.0,N,AFMC
+AFRU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long AFRM Daily Target ETF,Z,AFRU,Y,100.0,N,AFRU
 AFSM,First Trust Active Factor Small Cap ETF,First Trust Active Factor Small Cap ETF,P,AFSM,Y,100.0,N,AFSM
 AG,First Majestic Silver Corp. Ordinary Shares (Canada),First Majestic Silver Corp. Ordinary Shares (Canada),N,AG,N,100.0,N,AG
 AGCO,AGCO Corporation Common Stock,AGCO Corporation Common Stock,N,AGCO,N,100.0,N,AGCO
@@ -450,6 +451,7 @@ AXR,AMREP Corporation Common Stock,AMREP Corporation Common Stock,N,AXR,N,100.0,
 AXS,Axis Capital Holdings Limited Common Stock,Axis Capital Holdings Limited Common Stock,N,AXS,N,100.0,N,AXS
 AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares","Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",N,AXSpE,N,100.0,N,AXS-E
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
+AXUP,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long AXON Daily Target ETF,Z,AXUP,Y,100.0,N,AXUP
 AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,100.0,N,AYI
 AZNH,Precidian ETFs Trust AstraZeneca PLC ADRhedged,Precidian ETFs Trust AstraZeneca PLC ADRhedged,P,AZNH,Y,100.0,N,AZNH
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,100.0,N,AZO
@@ -1043,6 +1045,7 @@ CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,Cherry Hill Mortga
 CHMI$A,Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Redeemable Preferred Stock,Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Redeemable Preferred Stock,N,CHMIpA,N,100.0,N,CHMI-A
 CHMI$B,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,CHMIpB,N,100.0,N,CHMI-B
 CHN,"China Fund, Inc. (The) Common Stock","China Fund, Inc. (The) Common Stock",N,CHN,N,100.0,N,CHN
+CHOW,ChowChow Cloud International Holdings Limited Ordinary Shares,ChowChow Cloud International Holdings Limited Ordinary Shares,A,CHOW,N,100.0,N,CHOW
 CHPT,"ChargePoint Holdings, Inc. Common Stock","ChargePoint Holdings, Inc. Common Stock",N,CHPT,N,100.0,N,CHPT
 CHPY,Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF,Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF,P,CHPY,Y,100.0,N,CHPY
 CHT,"Chunghwa Telecom Co., Ltd.","Chunghwa Telecom Co., Ltd.",N,CHT,N,100.0,N,CHT
@@ -1091,6 +1094,7 @@ CLOZ,Eldridge BBB,Eldridge BBB-B CLO ETF,P,CLOZ,Y,100.0,N,CLOZ
 CLPR,Clipper Realty Inc. Common Stock,Clipper Realty Inc. Common Stock,N,CLPR,N,100.0,N,CLPR
 CLS,"Celestica, Inc. Common Stock","Celestica, Inc. Common Stock",N,CLS,N,100.0,N,CLS
 CLSE,Trust for Professional Managers Convergence Long/Short Equity ETF,Trust for Professional Managers Convergence Long/Short Equity ETF,Z,CLSE,Y,100.0,N,CLSE
+CLSX,Investment Managers Series Trust II Tradr 2X Long CLSK Daily ETF,Investment Managers Series Trust II Tradr 2X Long CLSK Daily ETF,Z,CLSX,Y,100.0,N,CLSX
 CLVT,Clarivate Plc Ordinary Shares,Clarivate Plc Ordinary Shares,N,CLVT,N,100.0,N,CLVT
 CLW,Clearwater Paper Corporation Common Stock,Clearwater Paper Corporation Common Stock,N,CLW,N,100.0,N,CLW
 CLX,Clorox Company (The) Common Stock,Clorox Company (The) Common Stock,N,CLX,N,100.0,N,CLX
@@ -1237,6 +1241,7 @@ CRCL,"Circle Internet Group, Inc. Class A Common Stock","Circle Internet Group, 
 CRD.A,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.A,N,100.0,N,CRD.A
 CRD.B,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.B,N,100.0,N,CRD.B
 CRDT,Simplify Exchange Traded Funds Simplify Opportunistic Income ETF,Simplify Exchange Traded Funds Simplify Opportunistic Income ETF,P,CRDT,Y,100.0,N,CRDT
+CRDU,Investment Managers Series Trust II Tradr 2X Long CRDO Daily ETF,Investment Managers Series Trust II Tradr 2X Long CRDO Daily ETF,Z,CRDU,Y,100.0,N,CRDU
 CRED,Columbia ETF Trust I Columbia Research Enhanced Real Estate ETF,Columbia ETF Trust I Columbia Research Enhanced Real Estate ETF,P,CRED,Y,100.0,N,CRED
 CRF,"Cornerstone Total Return Fund, Inc. (The) Common Stock","Cornerstone Total Return Fund, Inc. (The) Common Stock",A,CRF,N,100.0,N,CRF
 CRGY,Crescent Energy Company Class A Common Stock,Crescent Energy Company Class A Common Stock,N,CRGY,N,100.0,N,CRGY
@@ -1496,6 +1501,7 @@ DISV,Dimensional ETF Trust Dimensional International Small Cap Value ETF,Dimensi
 DIT,AMCON Distributing Company Common Stock,AMCON Distributing Company Common Stock,A,DIT,N,10.0,N,DIT
 DIV,Global X Super Dividend ETF,Global X Super Dividend ETF,P,DIV,Y,100.0,N,DIV
 DIVB,iShares Core Dividend ETF,iShares Core Dividend ETF,Z,DIVB,Y,100.0,N,DIVB
+DIVE,Tidal Trust I Dana Concentrated Dividend ETF,Tidal Trust I Dana Concentrated Dividend ETF,P,DIVE,Y,100.0,N,DIVE
 DIVG,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco S&P 500 High Dividend Growers ETF,P,DIVG,Y,100.0,N,DIVG
 DIVI,Franklin International Core Dividend Tilt Index ETF,Franklin International Core Dividend Tilt Index ETF,P,DIVI,Y,100.0,N,DIVI
 DIVL,Madison ETFs Trust Madison Dividend Value ETF,Madison ETFs Trust Madison Dividend Value ETF,P,DIVL,Y,100.0,N,DIVL
@@ -1610,6 +1616,7 @@ DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,Duke
 DUKQ,Northern Lights Fund Trust Ocean Park Domestic ETF,Northern Lights Fund Trust Ocean Park Domestic ETF,P,DUKQ,Y,100.0,N,DUKQ
 DUKZ,Northern Lights Fund Trust Ocean Park Diversified Income ETF,Northern Lights Fund Trust Ocean Park Diversified Income ETF,P,DUKZ,Y,100.0,N,DUKZ
 DULL,Bank Of Montreal MicroSectors Gold ,"Bank Of Montreal MicroSectors Gold -3X Inverse Leveraged ETNs due January 29, 2043",P,DULL,Y,100.0,N,DULL
+DUNK,Tidal Trust I Dana Unconstrained Equity ETF,Tidal Trust I Dana Unconstrained Equity ETF,P,DUNK,Y,100.0,N,DUNK
 DURA,VanEck Durable High Dividend ETF,VanEck Durable High Dividend ETF,Z,DURA,Y,100.0,N,DURA
 DUSA,Davis Fundamental ETF Trust Davis Select U.S. Equity ETF,Davis Fundamental ETF Trust Davis Select U.S. Equity ETF,Z,DUSA,Y,100.0,N,DUSA
 DUSB,Dimensional ETF Trust Dimensional Ultrashort Fixed Income ETF,Dimensional ETF Trust Dimensional Ultrashort Fixed Income ETF,P,DUSB,Y,100.0,N,DUSB
@@ -1823,6 +1830,7 @@ ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 
 ENO,"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066","Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",N,ENO,N,100.0,N,ENO
 ENOR,iShares Inc iShares MSCI Norway ETF,iShares Inc iShares MSCI Norway ETF,Z,ENOR,Y,100.0,N,ENOR
 ENOV,Enovis Corporation Common Stock,Enovis Corporation Common Stock,N,ENOV,N,100.0,N,ENOV
+ENPX,Investment Managers Series Trust II Tradr 2X Long ENPH Daily ETF,Investment Managers Series Trust II Tradr 2X Long ENPH Daily ETF,Z,ENPX,Y,100.0,N,ENPX
 ENR,"Energizer Holdings, Inc. Common Stock","Energizer Holdings, Inc. Common Stock",N,ENR,N,100.0,N,ENR
 ENS,EnerSys Common Stock,EnerSys Common Stock,N,ENS,N,100.0,N,ENS
 ENVA,"Enova International, Inc. Common Stock","Enova International, Inc. Common Stock",N,ENVA,N,100.0,N,ENVA
@@ -2631,6 +2639,7 @@ GSPY,Gotham Enhanced 500 ETF,Gotham Enhanced 500 ETF,P,GSPY,Y,100.0,N,GSPY
 GSSC,GS ActiveBeta U.S. Small Cap Equity ETF,GS ActiveBeta U.S. Small Cap Equity ETF,P,GSSC,Y,100.0,N,GSSC
 GSST,Goldman Sachs Ultra Short Bond ETF,Goldman Sachs Ultra Short Bond ETF,Z,GSST,Y,100.0,N,GSST
 GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,Goldman Sachs MarketBeta U.S. Equity ETF,Z,GSUS,Y,100.0,N,GSUS
+GSX,Investment Managers Series Trust II Tradr 2X Long GS Daily ETF,Investment Managers Series Trust II Tradr 2X Long GS Daily ETF,Z,GSX,Y,100.0,N,GSX
 GSY,Invesco Ultra Short Duration ETF,Invesco Ultra Short Duration ETF,P,GSY,Y,100.0,N,GSY
 GTE,Gran Tierra Energy Inc. Common Stock,Gran Tierra Energy Inc. Common Stock,A,GTE,N,100.0,N,GTE
 GTEK,Goldman Sachs Future Tech Leaders Equity ETF,Goldman Sachs Future Tech Leaders Equity ETF,P,GTEK,Y,100.0,N,GTEK
@@ -3497,6 +3506,7 @@ KTEC,KraneShares Hang Seng TECH Index ETF,KraneShares Hang Seng TECH Index ETF,P
 KTF,DWS Municipal Income Trust,DWS Municipal Income Trust,N,KTF,N,100.0,N,KTF
 KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,N,KTH,N,100.0,N,KTH
 KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),N,KTN,N,100.0,N,KTN
+KTUP,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long KTOS Daily Target ETF,Z,KTUP,Y,100.0,N,KTUP
 KUKE,Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares),Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares),N,KUKE,N,100.0,N,KUKE
 KULR,"KULR Technology Group, Inc. Common Stock","KULR Technology Group, Inc. Common Stock",A,KULR,N,100.0,N,KULR
 KURE,KraneShares MSCI All China Health Care Index ETF,KraneShares MSCI All China Health Care Index ETF,P,KURE,Y,100.0,N,KURE
@@ -3561,10 +3571,6 @@ LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock","BNY Mellon Strategic M
 LEU,Centrus Energy Corp. Class A Common Stock,Centrus Energy Corp. Class A Common Stock,A,LEU,N,100.0,N,LEU
 LEVI,Levi Strauss & Co Class A Common Stock,Levi Strauss & Co Class A Common Stock,N,LEVI,N,100.0,N,LEVI
 LFAI,LifeX 2050 Longevity Income ETF,LifeX 2050 Longevity Income ETF,Z,LFAI,Y,100.0,N,LFAI
-LFAJ,LifeX 2051 Longevity Income ETF,LifeX 2051 Longevity Income ETF,Z,LFAJ,Y,100.0,N,LFAJ
-LFAK,LifeX 2052 Longevity Income ETF,LifeX 2052 Longevity Income ETF,Z,LFAK,Y,100.0,N,LFAK
-LFAL,LifeX 2053 Longevity Income ETF,LifeX 2053 Longevity Income ETF,Z,LFAL,Y,100.0,N,LFAL
-LFAN,LifeX 2054 Longevity Income ETF,LifeX 2054 Longevity Income ETF,Z,LFAN,Y,100.0,N,LFAN
 LFAO,LifeX 2055 Longevity Income ETF,LifeX 2055 Longevity Income ETF,Z,LFAO,Y,100.0,N,LFAO
 LFAQ,LifeX 2056 Longevity Income ETF,LifeX 2056 Longevity Income ETF,Z,LFAQ,Y,100.0,N,LFAQ
 LFAR,LifeX 2057 Longevity Income ETF,LifeX 2057 Longevity Income ETF,Z,LFAR,Y,100.0,N,LFAR
@@ -3594,10 +3600,6 @@ LGPS,LogProstyle Inc. Common Shares,LogProstyle Inc. Common Shares,A,LGPS,N,100.
 LH,Labcorp Holdings Inc. Common Stock,Labcorp Holdings Inc. Common Stock,N,LH,N,100.0,N,LH
 LHX,"L3Harris Technologies, Inc. Common Stock","L3Harris Technologies, Inc. Common Stock",N,LHX,N,100.0,N,LHX
 LIAE,LifeX 2050 Inflation,LifeX 2050 Inflation-Protected Longevity Income ETF,Z,LIAE,Y,100.0,N,LIAE
-LIAF,LifeX 2051 Inflation,LifeX 2051 Inflation-Protected Longevity Income ETF,Z,LIAF,Y,100.0,N,LIAF
-LIAG,LifeX 2052 Inflation,LifeX 2052 Inflation-Protected Longevity Income ETF,Z,LIAG,Y,100.0,N,LIAG
-LIAJ,LifeX 2053 Inflation,LifeX 2053 Inflation-Protected Longevity Income ETF,Z,LIAJ,Y,100.0,N,LIAJ
-LIAK,LifeX 2054 Inflation,LifeX 2054 Inflation-Protected Longevity Income ETF,Z,LIAK,Y,100.0,N,LIAK
 LIAM,LifeX 2055 Inflation,LifeX 2055 Inflation-Protected Longevity Income ETF,Z,LIAM,Y,100.0,N,LIAM
 LIAO,LifeX 2056 Inflation,LifeX 2056 Inflation-Protected Longevity Income ETF,Z,LIAO,Y,100.0,N,LIAO
 LIAP,LifeX 2057 Inflation,LifeX 2057 Inflation-Protected Longevity Income ETF,Z,LIAP,Y,100.0,N,LIAP
@@ -6060,6 +6062,7 @@ UNM,Unum Group Common Stock,Unum Group Common Stock,N,UNM,N,100.0,N,UNM
 UNMA,Unum Group 6.250% Junior Subordinated Notes due 2058,Unum Group 6.250% Junior Subordinated Notes due 2058,N,UNMA,N,100.0,N,UNMA
 UNOV,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - November,Z,UNOV,Y,100.0,N,UNOV
 UNP,Union Pacific Corporation Common Stock,Union Pacific Corporation Common Stock,N,UNP,N,100.0,N,UNP
+UNX,Investment Managers Series Trust II Tradr 2X Long U Daily ETF,Investment Managers Series Trust II Tradr 2X Long U Daily ETF,Z,UNX,Y,100.0,N,UNX
 UOCT,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - October,Z,UOCT,Y,100.0,N,UOCT
 UP,Wheels Up Experience Inc. Class A Common Stock,Wheels Up Experience Inc. Class A Common Stock,N,UP,N,100.0,N,UP
 UPAR,UPAR Ultra Risk Parity ETF,UPAR Ultra Risk Parity ETF,P,UPAR,Y,100.0,N,UPAR
