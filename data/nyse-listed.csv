@@ -898,7 +898,7 @@ EME,"EMCOR Group, Inc. Common Stock"
 EMF,Templeton Emerging Markets Fund Common Stock
 EMN,Eastman Chemical Company Common Stock
 EMO,ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock
-EMO.V,"ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights when issued"
+EMO.R,"ClearBridge Energy Midstream Opportunity Fund Inc. Rights (expiring October 10, 2025) Rights"
 EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series Due October 1, 2066"
 EMR,Emerson Electric Company Common Stock
 ENB,Enbridge Inc Common Stock
@@ -2212,7 +2212,7 @@ RITM$C,Rithm Capital Corp. 6.375% Series C Fixed
 RITM$D,Rithm Capital Corp. 7.00% Fixed
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock"
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock"
-RIV.V,"RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights when issued"
+RIV.R,"RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights"
 RJF,"Raymond James Financial, Inc. Common Stock"
 RJF$B,"Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed"
 RKT,"Rocket Companies, Inc. Class A Common Stock"
@@ -2429,7 +2429,7 @@ SPRU,Spruce Power Holding Corporation Class A Common Stock
 SPXC,"SPX Technologies, Inc. Common Stock"
 SPXX,Nuveen S&P 500 Dynamic Overwrite Fund
 SQM,Sociedad Quimica y Minera S.A. Common Stock
-SQNS,Sequans Communications S.A. American Depositary Shares (each representing ten (10) Ordinary Shares)
+SQNS,Sequans Communications S.A. American Depositary Shares (each representing one hundred (100) Ordinary Shares)
 SR,Spire Inc. Common Stock
 SR$A,"Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock"
 SRE,DBA Sempra Common Stock
@@ -2461,6 +2461,7 @@ STNG,Scorpio Tankers Inc. Common Shares
 STRV,EA Series Trust Strive 500 ETF
 STT,State Street Corporation Common Stock
 STT$G,"State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed"
+STUB,"StubHub Holdings, Inc. Class A Common Stock"
 STVN,Stevanato Group S.p.A. Ordinary Shares
 STWD,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc."
 STXD,EA Series Trust Strive 1000 Dividend Growth ETF
@@ -2763,6 +2764,7 @@ WAB,Westinghouse Air Brake Technologies Corporation Common Stock
 WAL,Western Alliance Bancorporation Common Stock (DE)
 WAL$A,"Western Alliance Bancorporation Depositary Shares, Each Representing a 1/400th Interest in a Share of 4.250% Fixed"
 WAT,Waters Corporation Common Stock
+WBI,WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests
 WBS,Webster Financial Corporation Common Stock
 WBS$F,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non"
 WBS$G,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non"
