@@ -1068,6 +1068,7 @@ CIM$C,Chimera Investment Corporation 7.75% Series C Fixed,Chimera Investment Cor
 CIM$D,Chimera Investment Corporation 8.00% Series D Fixed,Chimera Investment Corporation 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,CIMpD,N,100.0,N,CIM-D
 CIMN,Chimera Investment Corporation 9.000% Senior Notes due 2029,Chimera Investment Corporation 9.000% Senior Notes due 2029,N,CIMN,N,100.0,N,CIMN
 CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029,Chimera Investment Corporation 9.250% Senior Notes due 2029,N,CIMO,N,100.0,N,CIMO
+CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,Chimera Investment Corporation 8.875% Senior Notes due 2030,N,CIMP,N,100.0,N,CIMP
 CINT,CI&T Inc Class A Common Shares,CI&T Inc Class A Common Shares,N,CINT,N,100.0,N,CINT
 CIO,"City Office REIT, Inc. Common Stock","City Office REIT, Inc. Common Stock",N,CIO,N,100.0,N,CIO
 CIO$A,"City Office REIT, Inc. 6.625% Series A Cumulative Redeemable Preferred Stock","City Office REIT, Inc. 6.625% Series A Cumulative Redeemable Preferred Stock",N,CIOpA,N,100.0,N,CIO-A
@@ -1559,6 +1560,7 @@ DOCT,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - 
 DOG,ProShares Short Dow30,ProShares Short Dow30,P,DOG,Y,100.0,N,DOG
 DOGD,Tradr 2X Long DDOG Daily ETF,Tradr 2X Long DDOG Daily ETF,Z,DOGD,Y,100.0,N,DOGD
 DOGG,FT Vest DJIA Dogs 10 Target Income ETF,FT Vest DJIA Dogs 10 Target Income ETF,Z,DOGG,Y,100.0,N,DOGG
+DOJE,ETF Opportunities Trust REX,ETF Opportunities Trust REX-Osprey DOGE ETF,Z,DOJE,Y,100.0,N,DOJE
 DOL,WisdomTree International LargeCap Dividend Fund,WisdomTree International LargeCap Dividend Fund,P,DOL,Y,100.0,N,DOL
 DOLE,Dole plc Ordinary Shares,Dole plc Ordinary Shares,N,DOLE,N,100.0,N,DOLE
 DON,WisdomTree U.S. MidCap Dividend Fund,WisdomTree U.S. MidCap Dividend Fund,P,DON,Y,100.0,N,DON
@@ -3575,10 +3577,6 @@ LEVI,Levi Strauss & Co Class A Common Stock,Levi Strauss & Co Class A Common Sto
 LFAI,LifeX 2050 Longevity Income ETF,LifeX 2050 Longevity Income ETF,Z,LFAI,Y,100.0,N,LFAI
 LFAO,LifeX 2055 Longevity Income ETF,LifeX 2055 Longevity Income ETF,Z,LFAO,Y,100.0,N,LFAO
 LFAW,LifeX 2060 Longevity Income ETF,LifeX 2060 Longevity Income ETF,Z,LFAW,Y,100.0,N,LFAW
-LFAX,LifeX 2061 Longevity Income ETF,LifeX 2061 Longevity Income ETF,Z,LFAX,Y,100.0,N,LFAX
-LFAZ,LifeX 2062 Longevity Income ETF,LifeX 2062 Longevity Income ETF,Z,LFAZ,Y,100.0,N,LFAZ
-LFBB,LifeX 2063 Longevity Income ETF,LifeX 2063 Longevity Income ETF,Z,LFBB,Y,100.0,N,LFBB
-LFBD,LifeX 2064 Longevity Income ETF,LifeX 2064 Longevity Income ETF,Z,LFBD,Y,100.0,N,LFBD
 LFBE,LifeX 2065 Longevity Income ETF,LifeX 2065 Longevity Income ETF,Z,LFBE,Y,100.0,N,LFBE
 LFDR,LifeX Durable Income ETF,LifeX Durable Income ETF,Z,LFDR,Y,100.0,N,LFDR
 LFEQ,VanEck Long/Flat Trend ETF,VanEck Long/Flat Trend ETF,P,LFEQ,Y,100.0,N,LFEQ
@@ -3600,10 +3598,6 @@ LHX,"L3Harris Technologies, Inc. Common Stock","L3Harris Technologies, Inc. Comm
 LIAE,LifeX 2050 Inflation,LifeX 2050 Inflation-Protected Longevity Income ETF,Z,LIAE,Y,100.0,N,LIAE
 LIAM,LifeX 2055 Inflation,LifeX 2055 Inflation-Protected Longevity Income ETF,Z,LIAM,Y,100.0,N,LIAM
 LIAU,LifeX 2060 Inflation,LifeX 2060 Inflation-Protected Longevity Income ETF,Z,LIAU,Y,100.0,N,LIAU
-LIAV,LifeX 2061 Inflation,LifeX 2061 Inflation-Protected Longevity Income ETF,Z,LIAV,Y,100.0,N,LIAV
-LIAW,LifeX 2062 Inflation,LifeX 2062 Inflation-Protected Longevity Income ETF,Z,LIAW,Y,100.0,N,LIAW
-LIAX,LifeX 2063 Inflation,LifeX 2063 Inflation-Protected Longevity Income ETF,Z,LIAX,Y,100.0,N,LIAX
-LIAY,LifeX 2064 Inflation,LifeX 2064 Inflation-Protected Longevity Income ETF,Z,LIAY,Y,100.0,N,LIAY
 LIBD,LifeX 2065 Inflation,LifeX 2065 Inflation-Protected Longevity Income ETF,Z,LIBD,Y,100.0,N,LIBD
 LII,"Lennox International, Inc. Common Stock","Lennox International, Inc. Common Stock",N,LII,N,100.0,N,LII
 LIMI,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Z,LIMI,Y,100.0,N,LIMI
@@ -3714,6 +3708,7 @@ MAIN,Main Street Capital Corporation Common Stock,Main Street Capital Corporatio
 MAKX,ProShares S&P Kensho Smart Factories ETF,ProShares S&P Kensho Smart Factories ETF,P,MAKX,Y,100.0,N,MAKX
 MAMB,Monarch Ambassador Income Index ETF,Monarch Ambassador Income Index ETF,Z,MAMB,Y,100.0,N,MAMB
 MAN,ManpowerGroup Common Stock,ManpowerGroup Common Stock,N,MAN,N,100.0,N,MAN
+MANI,Man ETF Series Trust Man Active Income ETF,Man ETF Series Trust Man Active Income ETF,P,MANI,Y,100.0,N,MANI
 MANU,Manchester United Ltd. Class A Ordinary Shares,Manchester United Ltd. Class A Ordinary Shares,N,MANU,N,100.0,N,MANU
 MAPP,Harbor ETF Trust Harbor Multi,Harbor ETF Trust Harbor Multi-Asset Explorer ETF,P,MAPP,Y,100.0,N,MAPP
 MARB,First Trust Merger Arbitrage ETF,First Trust Merger Arbitrage ETF,P,MARB,Y,100.0,N,MARB
@@ -3832,6 +3827,7 @@ MHLA,"Maiden Holdings, Ltd. 6.625% Notes due 2046","Maiden Holdings, Ltd. 6.625%
 MHN,"Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock","Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",N,MHN,N,100.0,N,MHN
 MHNC,"Maiden Holdings North America, Ltd. 7.75% Notes due 2043","Maiden Holdings North America, Ltd. 7.75% Notes due 2043",N,MHNC,N,100.0,N,MHNC
 MHO,"M/I Homes, Inc. Common Stock","M/I Homes, Inc. Common Stock",N,MHO,N,100.0,N,MHO
+MHY,Man ETF Series Trust Man Active High Yield ETF,Man ETF Series Trust Man Active High Yield ETF,P,MHY,Y,100.0,N,MHY
 MI,NFT Limited Class A Ordinary Share,NFT Limited Class A Ordinary Share,A,MI,N,100.0,N,MI
 MIAX,"Miami International Holdings, Inc. Common Stock","Miami International Holdings, Inc. Common Stock",N,MIAX,N,100.0,N,MIAX
 MID,American Century Mid Cap Growth Impact ETF,American Century Mid Cap Growth Impact ETF,P,MID,Y,100.0,N,MID
@@ -6545,6 +6541,7 @@ XPRO,Expro Group Holdings N.V. Common Stock,Expro Group Holdings N.V. Common Sto
 XRLV,Invesco S&P 500 ex,Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,P,XRLV,Y,100.0,N,XRLV
 XRLX,FundX Investment Trust FundX Conservative ETF,FundX Investment Trust FundX Conservative ETF,P,XRLX,Y,100.0,N,XRLX
 XRMI,Global X Funds Global X S&P 500 Risk Managed Income ETF,Global X Funds Global X S&P 500 Risk Managed Income ETF,P,XRMI,Y,100.0,N,XRMI
+XRPR,ETF Opportunities Trust REX,ETF Opportunities Trust REX-Osprey XRP ETF,Z,XRPR,Y,100.0,N,XRPR
 XRT,SPDR S&P Retail ETF,SPDR S&P Retail ETF,P,XRT,Y,100.0,N,XRT
 XSD,SPDR S&P Semiconductor ETF,SPDR S&P Semiconductor ETF,P,XSD,Y,100.0,N,XSD
 XSEP,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September,Z,XSEP,Y,100.0,N,XSEP
