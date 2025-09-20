@@ -2422,6 +2422,7 @@ GDE,WisdomTree Trust WisdomTree Efficient Gold Plus Equity Strategy Fund,WisdomT
 GDEC,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - December,Z,GDEC,Y,100.0,N,GDEC
 GDIV,Harbor ETF Trust Harbor Dividend Growth Leaders ETF,Harbor ETF Trust Harbor Dividend Growth Leaders ETF,N,GDIV,Y,100.0,N,GDIV
 GDL,"GDL Fund, The Common Shares of Beneficial Interest","GDL Fund, The Common Shares of Beneficial Interest",N,GDL,N,100.0,N,GDL
+GDLC,Grayscale CoinDesk Crypto 5 ETF Grayscale CoinDesk Crypto 5 ETF,Grayscale CoinDesk Crypto 5 ETF Grayscale CoinDesk Crypto 5 ETF,P,GDLC,Y,100.0,N,GDLC
 GDMA,GadsdenA DynamicA Multi,GadsdenA DynamicA Multi-AssetA ETF,Z,GDMA,Y,100.0,N,GDMA
 GDMN,WisdomTree Trust WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,WisdomTree Trust WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,Z,GDMN,Y,100.0,N,GDMN
 GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,N,GDO,N,100.0,N,GDO
@@ -3552,7 +3553,7 @@ LCR,Managed Portfolio Series Leuthold Core ETF,Managed Portfolio Series Leuthold
 LCTD,BlackRock World ex U.S. Carbon Transition Readiness ETF,BlackRock World ex U.S. Carbon Transition Readiness ETF,P,LCTD,Y,100.0,N,LCTD
 LCTU,BlackRock U.S. Carbon Transition Readiness ETF,BlackRock U.S. Carbon Transition Readiness ETF,P,LCTU,Y,100.0,N,LCTU
 LCTX,"Lineage Cell Therapeutics, Inc. Common Stock","Lineage Cell Therapeutics, Inc. Common Stock",A,LCTX,N,100.0,N,LCTX
-LDDR,LifeX 2035 Term Income ETF,LifeX 2035 Term Income ETF,Z,LDDR,Y,100.0,N,LDDR
+LDDR,LifeX 2035 Income Bucket ETF,LifeX 2035 Income Bucket ETF,Z,LDDR,Y,100.0,N,LDDR
 LDI,"loanDepot, Inc. Class A Common Stock","loanDepot, Inc. Class A Common Stock",N,LDI,N,100.0,N,LDI
 LDOS,"Leidos Holdings, Inc. Common Stock","Leidos Holdings, Inc. Common Stock",N,LDOS,N,100.0,N,LDOS
 LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.","Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",N,LDP,N,100.0,N,LDP
@@ -4985,7 +4986,6 @@ RIET,Hoya Capital High Dividend Yield ETF,Hoya Capital High Dividend Yield ETF,P
 RIG,Transocean Ltd (Switzerland) Common Stock,Transocean Ltd (Switzerland) Common Stock,N,RIG,N,100.0,N,RIG
 RIGS,RiverFront Strategic Income Fund,RiverFront Strategic Income Fund,P,RIGS,Y,100.0,N,RIGS
 RILA,Spinnaker ETF Series Indexperts Gorilla Aggressive Growth ETF,Spinnaker ETF Series Indexperts Gorilla Aggressive Growth ETF,P,RILA,Y,100.0,N,RILA
-RINC,Investment Managers Series Trust II AXS Real Estate Income ETF,Investment Managers Series Trust II AXS Real Estate Income ETF,P,RINC,Y,100.0,N,RINC
 RINF,ProShares Inflation Expectations ETF,ProShares Inflation Expectations ETF,P,RINF,Y,100.0,N,RINF
 RIO,Rio Tinto Plc Common Stock,Rio Tinto Plc Common Stock,N,RIO,N,100.0,N,RIO
 RIOX,Tidal Trust II Defiance Daily Target 2X Long RIOT ETF,Tidal Trust II Defiance Daily Target 2X Long RIOT ETF,P,RIOX,Y,100.0,N,RIOX
@@ -6116,6 +6116,7 @@ USSG,Xtrackers MSCI USA Selection Equity ETF,Xtrackers MSCI USA Selection Equity
 UST,ProShares Ultra 7,ProShares Ultra 7-10 Year Treasury,P,UST,Y,100.0,N,UST
 UTES,Virtus Reaves Utilities ETF,Virtus Reaves Utilities ETF,P,UTES,Y,100.0,N,UTES
 UTF,"Cohen & Steers Infrastructure Fund, Inc Common Stock","Cohen & Steers Infrastructure Fund, Inc Common Stock",N,UTF,N,100.0,N,UTF
+UTF.V,"Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights when issued","Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights when issued",N,UTFrw,N,100.0,N,UTF^#
 UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,Reaves Utility Income Fund Common Shares of Beneficial Interest,A,UTG,N,100.0,N,UTG
 UTI,Universal Technical Institute Inc Common Stock,Universal Technical Institute Inc Common Stock,N,UTI,N,100.0,N,UTI
 UTL,UNITIL Corporation Common Stock,UNITIL Corporation Common Stock,N,UTL,N,100.0,N,UTL
