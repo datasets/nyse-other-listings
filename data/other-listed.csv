@@ -1524,6 +1524,7 @@ DK,"Delek US Holdings, Inc. Common Stock","Delek US Holdings, Inc. Common Stock"
 DKL,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests","Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests",N,DKL,N,100.0,N,DKL
 DKS,Dick's Sporting Goods Inc Common Stock,Dick's Sporting Goods Inc Common Stock,N,DKS,N,100.0,N,DKS
 DKUP,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long DKNG Daily Target ETF,Z,DKUP,Y,100.0,N,DKUP
+DLAG,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Dual Directional Buffer ETF - August,Z,DLAG,Y,100.0,N,DLAG
 DLB,Dolby Laboratories Common Stock,Dolby Laboratories Common Stock,N,DLB,N,100.0,N,DLB
 DLN,WisdomTree U.S. LargeCap Dividend Fund,WisdomTree U.S. LargeCap Dividend Fund,P,DLN,Y,100.0,N,DLN
 DLNG,Dynagas LNG Partners LP Common Units,Dynagas LNG Partners LP Common Units,N,DLNG,N,100.0,N,DLNG
@@ -1607,6 +1608,7 @@ DTEC,ALPS ETF Trust ALPS Disruptive Technologies ETF,ALPS ETF Trust ALPS Disrupt
 DTF,DTF Tax,DTF Tax-Free Income 2028 Term Fund Inc. Common Stock,N,DTF,N,100.0,N,DTF
 DTG,DTE Energy Company 2021 Series E 4.375% Junior Subordinated Debentures,DTE Energy Company 2021 Series E 4.375% Junior Subordinated Debentures,N,DTG,N,100.0,N,DTG
 DTH,WisdomTree International High Dividend Fund,WisdomTree International High Dividend Fund,P,DTH,Y,100.0,N,DTH
+DTK,DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085,DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085,N,DTK,N,100.0,N,DTK
 DTM,"DT Midstream, Inc. Common Stock ","DT Midstream, Inc. Common Stock ",N,DTM,N,100.0,N,DTM
 DTRE,First Trust Alerian Disruptive Technology Real Estate ETF,First Trust Alerian Disruptive Technology Real Estate ETF,P,DTRE,Y,100.0,N,DTRE
 DTW,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077,N,DTW,N,100.0,N,DTW
@@ -3339,7 +3341,6 @@ JPAN,Matthews International Funds Matthews Japan Active ETF,Matthews Internation
 JPC,Nuveen Preferred & Income Opportunities Fund,Nuveen Preferred & Income Opportunities Fund,N,JPC,N,100.0,N,JPC
 JPEM,JPMorgan Diversified Return Emerging Markets Equity ETF,JPMorgan Diversified Return Emerging Markets Equity ETF,P,JPEM,Y,100.0,N,JPEM
 JPHY,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active High Yield ETF,Z,JPHY,Y,100.0,N,JPHY
-JPI,Nuveen Preferred Securities & Income Opportunities Fund Common Shares,Nuveen Preferred Securities & Income Opportunities Fund Common Shares,N,JPI,N,100.0,N,JPI
 JPIB,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan International Bond Opportunities ETF,Z,JPIB,Y,100.0,N,JPIB
 JPIE,JPMorgan Income ETF,JPMorgan Income ETF,P,JPIE,Y,100.0,N,JPIE
 JPIN,JPMorgan Diversified Return International Equity ETF,JPMorgan Diversified Return International Equity ETF,P,JPIN,Y,100.0,N,JPIN
@@ -3816,7 +3817,6 @@ MGR,"Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059",
 MGRB,"Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060","Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060",N,MGRB,N,100.0,N,MGRB
 MGRD,"Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061","Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061",N,MGRD,N,100.0,N,MGRD
 MGRE,"Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064","Affiliated Managers Group, Inc. 6.750% Junior Subordinated Notes due 2064",N,MGRE,N,100.0,N,MGRE
-MGRO,VanEck ETF Trust VanEck Morningstar Wide Moat Growth ETF,VanEck ETF Trust VanEck Morningstar Wide Moat Growth ETF,Z,MGRO,Y,100.0,N,MGRO
 MGV,Vanguard Mega Cap Value ETF,Vanguard Mega Cap Value ETF,P,MGV,Y,100.0,N,MGV
 MGY,Magnolia Oil & Gas Corporation Class A Common Stock,Magnolia Oil & Gas Corporation Class A Common Stock,N,MGY,N,100.0,N,MGY
 MH,"McGraw Hill, Inc. Common Stock","McGraw Hill, Inc. Common Stock",N,MH,N,100.0,N,MH
@@ -3904,7 +3904,6 @@ MOH,Molina Healthcare Inc Common Stock,Molina Healthcare Inc Common Stock,N,MOH,
 MOO,VanEck Agribusiness ETF ,VanEck Agribusiness ETF ,P,MOO,Y,100.0,N,MOO
 MORT,VanEck Mortgage REIT Income ETF,VanEck Mortgage REIT Income ETF,P,MORT,Y,100.0,N,MORT
 MOS,Mosaic Company (The) Common Stock,Mosaic Company (The) Common Stock,N,MOS,N,100.0,N,MOS
-MOTE,VanEck Morningstar ESG Moat ETF,VanEck Morningstar ESG Moat ETF,Z,MOTE,Y,100.0,N,MOTE
 MOTG,VanEck Morningstar Global Wide Moat ETF,VanEck Morningstar Global Wide Moat ETF,Z,MOTG,Y,100.0,N,MOTG
 MOTI,VanEck Morningstar International Moat ETF,VanEck Morningstar International Moat ETF,Z,MOTI,Y,100.0,N,MOTI
 MOTO,SmartETFs Smart Transportation & Technology ETF,SmartETFs Smart Transportation & Technology ETF,P,MOTO,Y,100.0,N,MOTO
