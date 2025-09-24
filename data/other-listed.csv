@@ -791,7 +791,6 @@ BRBS,"Blue Ridge Bankshares, Inc. Common Stock","Blue Ridge Bankshares, Inc. Com
 BRC,Brady Corporation Common Stock,Brady Corporation Common Stock,N,BRC,N,100.0,N,BRC
 BRCC,BRC Inc. Class A Common Stock,BRC Inc. Class A Common Stock,N,BRCC,N,100.0,N,BRCC
 BRF,VanEck Brazil Small,VanEck Brazil Small-Cap ETF,P,BRF,Y,100.0,N,BRF
-BRFS,BRF S.A.,BRF S.A.,N,BRFS,N,100.0,N,BRFS
 BRIA,BrilliA Inc Class A Ordinary Shares,BrilliA Inc Class A Ordinary Shares,A,BRIA,N,100.0,N,BRIA
 BRIF,NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF,NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF,P,BRIF,Y,100.0,N,BRIF
 BRK.A,Berkshire Hathaway Inc. Common Stock,Berkshire Hathaway Inc. Common Stock,N,BRK.A,N,1.0,N,BRK.A
@@ -1116,6 +1115,7 @@ CMF,iShares California Muni Bond ETF,iShares California Muni Bond ETF,P,CMF,Y,10
 CMG,"Chipotle Mexican Grill, Inc. Common Stock","Chipotle Mexican Grill, Inc. Common Stock",N,CMG,N,100.0,N,CMG
 CMI,Cummins Inc. Common Stock,Cummins Inc. Common Stock,N,CMI,N,100.0,N,CMI
 CMP,Compass Minerals Intl Inc Common Stock,Compass Minerals Intl Inc Common Stock,N,CMP,N,100.0,N,CMP
+CMPO,"CompoSecure, Inc. Class A Common Stock","CompoSecure, Inc. Class A Common Stock",N,CMPO,N,100.0,N,CMPO
 CMRE,Costamare Inc. Common Stock $0.0001 par value,Costamare Inc. Common Stock $0.0001 par value,N,CMRE,N,100.0,N,CMRE
 CMRE$B,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),N,CMREpB,N,100.0,N,CMRE-B
 CMRE$C,Costamare Inc. Perpetual Preferred Series C (Marshall Islands),Costamare Inc. Perpetual Preferred Series C (Marshall Islands),N,CMREpC,N,100.0,N,CMRE-C
@@ -2774,6 +2774,7 @@ HIPS,GraniteShares HIPS US High Income ETF,GraniteShares HIPS US High Income ETF
 HIW,"Highwoods Properties, Inc. Common Stock","Highwoods Properties, Inc. Common Stock",N,HIW,N,100.0,N,HIW
 HIX,Western Asset High Income Fund II Inc. Common Stock,Western Asset High Income Fund II Inc. Common Stock,N,HIX,N,100.0,N,HIX
 HIYS,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trus Invesco High Yield Select ETF,Z,HIYS,Y,100.0,N,HIYS
+HIYY,Tidal Trust II YieldMax HIMS Option Income Strategy ETF,Tidal Trust II YieldMax HIMS Option Income Strategy ETF,P,HIYY,Y,100.0,N,HIYY
 HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),N,HKD,N,100.0,N,HKD
 HKND,Humankind US Stock ETF,Humankind US Stock ETF,P,HKND,Y,100.0,N,HKND
 HL,Hecla Mining Company Common Stock,Hecla Mining Company Common Stock,N,HL,N,100.0,N,HL
@@ -4504,6 +4505,7 @@ PCM,"PCM Fund, Inc. Common Stock","PCM Fund, Inc. Common Stock",N,PCM,N,100.0,N,
 PCN,Pimco Corporate & Income Strategy Fund Common Stock,Pimco Corporate & Income Strategy Fund Common Stock,N,PCN,N,100.0,N,PCN
 PCOR,"Procore Technologies, Inc. Common Stock","Procore Technologies, Inc. Common Stock",N,PCOR,N,100.0,N,PCOR
 PCQ,PIMCO California Municipal Income Fund Common Stock,PIMCO California Municipal Income Fund Common Stock,N,PCQ,N,100.0,N,PCQ
+PCR,Simplify Exchange Traded Funds Simplify VettaFi Private Credit Strategy ETF,Simplify Exchange Traded Funds Simplify VettaFi Private Credit Strategy ETF,P,PCR,Y,100.0,N,PCR
 PCRB,Putnam ETF Trust Putnam ESG Core Bond ETF,Putnam ETF Trust Putnam ESG Core Bond ETF,P,PCRB,Y,100.0,N,PCRB
 PCS,PGIM ETF Trust PGIM Corporate Bond 0,PGIM ETF Trust PGIM Corporate Bond 0-5 Year ETF,Z,PCS,Y,100.0,N,PCS
 PCY,Invesco Emerging Markets Sovereign Debt ETF,Invesco Emerging Markets Sovereign Debt ETF,P,PCY,Y,100.0,N,PCY
@@ -4978,6 +4980,7 @@ RGT,"Royce Global Trust, Inc. Common Stock","Royce Global Trust, Inc. Common Sto
 RGTU,Tradr 2X Long RGTI Daily ETF,Tradr 2X Long RGTI Daily ETF,Z,RGTU,Y,100.0,N,RGTU
 RH,RH Common Stock,RH Common Stock,N,RH,N,100.0,N,RH
 RHI,Robert Half Inc. Common Stock,Robert Half Inc. Common Stock,N,RHI,N,100.0,N,RHI
+RHLD,Resolute Holdings Management Common Stock ,Resolute Holdings Management Common Stock ,N,RHLD,N,100.0,N,RHLD
 RHP,"Ryman Hospitality Properties, Inc. (REIT)","Ryman Hospitality Properties, Inc. (REIT)",N,RHP,N,100.0,N,RHP
 RHRX,RH Tactical Rotation ETF,RH Tactical Rotation ETF,P,RHRX,Y,100.0,N,RHRX
 RHTX,RH Tactical Outlook ETF,RH Tactical Outlook ETF,P,RHTX,Y,100.0,N,RHTX
@@ -6194,7 +6197,6 @@ VGMS,Vanguard Malvern Funds Vanguard Multi,Vanguard Malvern Funds Vanguard Multi
 VGT,Vanguard Information Tech ETF,Vanguard Information Tech ETF,P,VGT,Y,100.0,N,VGT
 VGVT,Vanguard Malvern Funds Vanguard Government Securities Active ETF,Vanguard Malvern Funds Vanguard Government Securities Active ETF,P,VGVT,Y,100.0,N,VGVT
 VGZ,Vista Gold Corp Common Stock,Vista Gold Corp Common Stock,A,VGZ,N,100.0,N,VGZ
-VHC,VirnetX Holding Corp Common Stock,VirnetX Holding Corp Common Stock,N,VHC,N,100.0,N,VHC
 VHI,"Valhi, Inc. Common Stock","Valhi, Inc. Common Stock",N,VHI,N,100.0,N,VHI
 VHT,Vanguard Health Care ETF,Vanguard Health Care ETF,P,VHT,Y,100.0,N,VHT
 VIA,"Via Transportation, Inc. Class A Common Stock","Via Transportation, Inc. Class A Common Stock",N,VIA,N,100.0,N,VIA
