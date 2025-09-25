@@ -556,6 +556,7 @@ BCHP,Principal Exchange,Principal Exchange-Traded Funds Principal Focused Blue C
 BCI,abrdn Bloomberg All Commodity Strategy K,abrdn Bloomberg All Commodity Strategy K-1 Free ETF,P,BCI,Y,100.0,N,BCI
 BCIL,Exchange Listed Funds Trust Bancreek International Large Cap ETF,Exchange Listed Funds Trust Bancreek International Large Cap ETF,P,BCIL,Y,100.0,N,BCIL
 BCIM,abrdn Bloomberg Industrial Metals Strategy K,abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF,P,BCIM,Y,100.0,N,BCIM
+BCKT,Stone Ridge Trust LifeX 2030 Income Bucket ETF,Stone Ridge Trust LifeX 2030 Income Bucket ETF,Z,BCKT,Y,100.0,N,BCKT
 BCO,Brinks Company (The) Common Stock,Brinks Company (The) Common Stock,N,BCO,N,100.0,N,BCO
 BCOR,Grayscale Funds Trust Grayscale Bitcoin Adopters ETF,Grayscale Funds Trust Grayscale Bitcoin Adopters ETF,P,BCOR,Y,100.0,N,BCOR
 BCS,Barclays PLC Common Stock,Barclays PLC Common Stock,N,BCS,N,100.0,N,BCS
@@ -666,6 +667,7 @@ BIT,BlackRock Multi,BlackRock Multi-Sector Income Trust Common Shares of Benefic
 BITB,Bitwise Bitcoin ETF Common Shares of Beneficial Interest,Bitwise Bitcoin ETF Common Shares of Beneficial Interest,P,BITB,Y,100.0,N,BITB
 BITC,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,P,BITC,Y,100.0,N,BITC
 BITI,ProShares Short Bitcoin ETF,ProShares Short Bitcoin ETF,P,BITI,Y,100.0,N,BITI
+BITK,ETF Opportunities Trust Tuttle Capital IBIT 0DTE Covered Call ETF,ETF Opportunities Trust Tuttle Capital IBIT 0DTE Covered Call ETF,Z,BITK,Y,100.0,N,BITK
 BITO,ProShares Bitcoin ETF,ProShares Bitcoin ETF,P,BITO,Y,100.0,N,BITO
 BITQ,Bitwise Crypto Industry Innovators ETF,Bitwise Crypto Industry Innovators ETF,P,BITQ,Y,100.0,N,BITQ
 BITU,ProShares Trust ProShares Ultra Bitcoin ETF,ProShares Trust ProShares Ultra Bitcoin ETF,P,BITU,Y,100.0,N,BITU
@@ -2680,6 +2682,7 @@ GWW,"W.W. Grainger, Inc. Common Stock","W.W. Grainger, Inc. Common Stock",N,GWW,
 GWX,SPDR S&P International SmallCap ETF,SPDR S&P International SmallCap ETF,P,GWX,Y,100.0,N,GWX
 GXC,SPDR S&P China ETF,SPDR S&P China ETF,P,GXC,Y,100.0,N,GXC
 GXIG,Global X Funds Global X Investment Grade Corporate Bond ETF,Global X Funds Global X Investment Grade Corporate Bond ETF,P,GXIG,Y,100.0,N,GXIG
+GXLC,Global X Funds Global X U.S. 500 ETF,Global X Funds Global X U.S. 500 ETF,P,GXLC,Y,100.0,N,GXLC
 GXO,"GXO Logistics, Inc. Common Stock ","GXO Logistics, Inc. Common Stock ",N,GXO,N,100.0,N,GXO
 GXPC,Global X Funds Global X PureCap MSCI Communication Services ETF,Global X Funds Global X PureCap MSCI Communication Services ETF,P,GXPC,Y,100.0,N,GXPC
 GXPD,Global X Funds Global X PureCap MSCI Consumer Discretionary ETF,Global X Funds Global X PureCap MSCI Consumer Discretionary ETF,P,GXPD,Y,100.0,N,GXPD
@@ -3602,6 +3605,7 @@ LIAE,LifeX 2050 Inflation,LifeX 2050 Inflation-Protected Longevity Income ETF,Z,
 LIAM,LifeX 2055 Inflation,LifeX 2055 Inflation-Protected Longevity Income ETF,Z,LIAM,Y,100.0,N,LIAM
 LIAU,LifeX 2060 Inflation,LifeX 2060 Inflation-Protected Longevity Income ETF,Z,LIAU,Y,100.0,N,LIAU
 LIBD,LifeX 2065 Inflation,LifeX 2065 Inflation-Protected Longevity Income ETF,Z,LIBD,Y,100.0,N,LIBD
+LIFT,Stone Ridge Trust LifeX 2028 Income Bucket ETF,Stone Ridge Trust LifeX 2028 Income Bucket ETF,Z,LIFT,Y,100.0,N,LIFT
 LII,"Lennox International, Inc. Common Stock","Lennox International, Inc. Common Stock",N,LII,N,100.0,N,LII
 LIMI,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Themes ETF Trust Themes Lithium & Battery Metal Miners ETF,Z,LIMI,Y,100.0,N,LIMI
 LION,Lionsgate Studios Corp Common Shares,Lionsgate Studios Corp Common Shares,N,LION,N,100.0,N,LION
@@ -3877,6 +3881,7 @@ MMC,"Marsh & McLennan Companies, Inc. Common Stock","Marsh & McLennan Companies,
 MMCA,NYLI MacKay California Muni Intermediate ETF,NYLI MacKay California Muni Intermediate ETF,P,MMCA,Y,100.0,N,MMCA
 MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,N,MMD,N,100.0,N,MMD
 MMI,"Marcus & Millichap, Inc. Common Stock","Marcus & Millichap, Inc. Common Stock",N,MMI,N,100.0,N,MMI
+MMID,MFS Active Exchange Traded Funds Trust MFS Active Mid Cap ETF,MFS Active Exchange Traded Funds Trust MFS Active Mid Cap ETF,N,MMID,Y,100.0,N,MMID
 MMIN,NYLI MacKay Muni Insured ETF,NYLI MacKay Muni Insured ETF,P,MMIN,Y,100.0,N,MMIN
 MMIT,NYLI MacKay Muni Intermediate ETF,NYLI MacKay Muni Intermediate ETF,P,MMIT,Y,100.0,N,MMIT
 MMKT,Texas Capital Funds Trust Texas Capital Government Money Market ETF,Texas Capital Funds Trust Texas Capital Government Money Market ETF,N,MMKT,Y,100.0,N,MMKT
@@ -4130,6 +4135,7 @@ NGVT,Ingevity Corporation Common Stock ,Ingevity Corporation Common Stock ,N,NGV
 NHC,National HealthCare Corporation Common Stock,National HealthCare Corporation Common Stock,A,NHC,N,100.0,N,NHC
 NHI,"National Health Investors, Inc. Common Stock","National Health Investors, Inc. Common Stock",N,NHI,N,100.0,N,NHI
 NHS,Neuberger Berman High Yield Strategies Fund,Neuberger Berman High Yield Strategies Fund,A,NHS,N,100.0,N,NHS
+NHYB,NuShares ETF Trust Nuveen High Yield Corporate Bond ETF,NuShares ETF Trust Nuveen High Yield Corporate Bond ETF,P,NHYB,Y,100.0,N,NHYB
 NHYM,NuShares ETF Trust Nuveen High Yield Municipal Income ETF,NuShares ETF Trust Nuveen High Yield Municipal Income ETF,P,NHYM,Y,100.0,N,NHYM
 NI,NiSource Inc Common Stock,NiSource Inc Common Stock,N,NI,N,100.0,N,NI
 NIC,Nicolet Bankshares Inc. Common Stock,Nicolet Bankshares Inc. Common Stock,N,NIC,N,100.0,N,NIC
@@ -4220,6 +4226,7 @@ NSA,National Storage Affiliates Trust Common Shares of Beneficial Interest,Natio
 NSA$A,National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share),National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share),N,NSApA,N,100.0,N,NSA-A
 NSA$B,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest,N,NSApB,N,100.0,N,NSA-B
 NSC,Norfolk Southern Corporation Common Stock,Norfolk Southern Corporation Common Stock,N,NSC,N,100.0,N,NSC
+NSCI,NuShares ETF Trust Nuveen Securitized Income ETF,NuShares ETF Trust Nuveen Securitized Income ETF,P,NSCI,Y,100.0,N,NSCI
 NSEP,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - September Innovator Growth-100 Power Buffer ETF - September,Z,NSEP,Y,100.0,N,NSEP
 NSP,"Insperity, Inc. Common Stock","Insperity, Inc. Common Stock",N,NSP,N,100.0,N,NSP
 NSRX,Nasus Pharma Ltd. Ordinary Shares,Nasus Pharma Ltd. Ordinary Shares,A,NSRX,N,100.0,N,NSRX
@@ -4294,6 +4301,7 @@ NXP,Nuveen Select Tax Free Income Portfolio Common Stock,Nuveen Select Tax Free 
 NXRT,"NexPoint Residential Trust, Inc. Common Stock","NexPoint Residential Trust, Inc. Common Stock",N,NXRT,N,100.0,N,NXRT
 NXTE,Investment Managers Series Trust II AXS Green Alpha ETF,Investment Managers Series Trust II AXS Green Alpha ETF,P,NXTE,Y,100.0,N,NXTE
 NXTI,Simplify Exchange Traded Funds Simplify Next Intangible Core Index ETF,Simplify Exchange Traded Funds Simplify Next Intangible Core Index ETF,Z,NXTI,Y,100.0,N,NXTI
+NXUS,NuShares ETF Trust Nuveen International Aggregate Bond ETF,NuShares ETF Trust Nuveen International Aggregate Bond ETF,P,NXUS,Y,100.0,N,NXUS
 NYC,American Strategic Investment Co. Class A Common Stock,American Strategic Investment Co. Class A Common Stock,N,NYC,N,100.0,N,NYC
 NYF,iShares New York Muni Bond ETF,iShares New York Muni Bond ETF,P,NYF,Y,100.0,N,NYF
 NYT,New York Times Company (The) Common Stock,New York Times Company (The) Common Stock,N,NYT,N,100.0,N,NYT
