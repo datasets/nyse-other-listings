@@ -4,9 +4,6 @@ AA,Alcoa Corporation Common Stock ,Alcoa Corporation Common Stock ,N,AA,N,100.0,
 AAA,Alternative Access First Priority CLO Bond ETF,Alternative Access First Priority CLO Bond ETF,P,AAA,Y,100.0,N,AAA
 AAAA,EA Series Trust Amplius Aggressive Asset Allocation ETF,EA Series Trust Amplius Aggressive Asset Allocation ETF,Z,AAAA,Y,100.0,N,AAAA
 AAAU,Goldman Sachs Physical Gold ETF Shares,Goldman Sachs Physical Gold ETF Shares,Z,AAAU,Y,100.0,N,AAAU
-AACT,Ares Acquisition Corporation II Class A Ordinary Shares,Ares Acquisition Corporation II Class A Ordinary Shares,N,AACT,N,100.0,N,AACT
-AACT.U,"Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one","Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,AACT.U,N,100.0,N,AACT=
-AACT.W,"Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,AACT.WS,N,100.0,N,AACT+
 AAM,AA Mission Acquisition Corp. Class A Ordinary Shares,AA Mission Acquisition Corp. Class A Ordinary Shares,N,AAM,N,100.0,N,AAM
 AAM.U,"AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one","AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",N,AAM.U,N,100.0,N,AAM=
 AAM.W,"AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share","AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",N,AAM.WS,N,100.0,N,AAM+
@@ -40,12 +37,14 @@ ABXB,Abacus Flexible Bond Leaders ETF,Abacus Flexible Bond Leaders ETF,Z,ABXB,Y,
 ACA,"Arcosa, Inc. Common Stock ","Arcosa, Inc. Common Stock ",N,ACA,N,100.0,N,ACA
 ACCO,Acco Brands Corporation Common Stock,Acco Brands Corporation Common Stock,N,ACCO,N,100.0,N,ACCO
 ACCS,ACCESS Newswire Inc. Common Stock,ACCESS Newswire Inc. Common Stock,A,ACCS,N,100.0,N,ACCS
+ACEI,Innovator ETFs Trust Innovator Equity Autocallable Income Strategy ETF,Innovator ETFs Trust Innovator Equity Autocallable Income Strategy ETF,P,ACEI,Y,100.0,N,ACEI
 ACEL,"Accel Entertainment, Inc. ","Accel Entertainment, Inc. ",N,ACEL,N,100.0,N,ACEL
 ACES,ALPS Clean Energy ETF,ALPS Clean Energy ETF,P,ACES,Y,100.0,N,ACES
 ACGR,American Century Large Cap Growth ETF,American Century Large Cap Growth ETF,P,ACGR,Y,100.0,N,ACGR
 ACHR,Archer Aviation Inc. Class A Common Stock,Archer Aviation Inc. Class A Common Stock,N,ACHR,N,100.0,N,ACHR
 ACHR.W,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50","Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",N,ACHR.WS,N,100.0,N,ACHR+
 ACI,"Albertsons Companies, Inc. Class A Common Stock","Albertsons Companies, Inc. Class A Common Stock",N,ACI,N,100.0,N,ACI
+ACII,Innovator ETFs Trust Innovator Index Autocallable Income Strategy ETF,Innovator ETFs Trust Innovator Index Autocallable Income Strategy ETF,P,ACII,Y,100.0,N,ACII
 ACIO,Aptus Collared Investment Opportunity ETF,Aptus Collared Investment Opportunity ETF,Z,ACIO,Y,100.0,N,ACIO
 ACKY,Tidal Trust III VistaShares Target 15 ACKtivist Distribution ETF,Tidal Trust III VistaShares Target 15 ACKtivist Distribution ETF,P,ACKY,Y,100.0,N,ACKY
 ACLC,American Century Large Cap Equity ETF,American Century Large Cap Equity ETF,P,ACLC,Y,100.0,N,ACLC
@@ -1910,6 +1909,7 @@ ESGG,FlexShares STOXX Global ESG Select Index Fund,FlexShares STOXX Global ESG S
 ESGV,Vanguard ESG U.S. Stock ETF,Vanguard ESG U.S. Stock ETF,Z,ESGV,Y,100.0,N,ESGV
 ESI,Element Solutions Inc. Common Stock,Element Solutions Inc. Common Stock,N,ESI,N,100.0,N,ESI
 ESIX,SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF,SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF,P,ESIX,Y,100.0,N,ESIX
+ESK,ETF Opportunities Trust REX,ETF Opportunities Trust REX-Osprey ETH + Staking ETF,Z,ESK,Y,100.0,N,ESK
 ESML,iShares ESG Aware MSCI USA Small,iShares ESG Aware MSCI USA Small-Cap ETF,Z,ESML,Y,100.0,N,ESML
 ESNT,Essent Group Ltd. Common Shares,Essent Group Ltd. Common Shares,N,ESNT,N,100.0,N,ESNT
 ESP,Espey Mfg. & Electronics Corp. Common Stock,Espey Mfg. & Electronics Corp. Common Stock,A,ESP,N,100.0,N,ESP
@@ -3862,6 +3862,7 @@ MKC,"McCormick & Company, Incorporated Common Stock","McCormick & Company, Incor
 MKC.V,"McCormick & Company, Incorporated Common Stock","McCormick & Company, Incorporated Common Stock",N,MKC.V,N,100.0,N,MKC.V
 MKL,Markel Group Inc. Common Stock,Markel Group Inc. Common Stock,N,MKL,N,10.0,N,MKL
 MKOR,Matthews International Funds Matthews Korea Active ETF,Matthews International Funds Matthews Korea Active ETF,P,MKOR,Y,100.0,N,MKOR
+MKTN,Federated Hermes ETF Trust Federated Hermes MDT Market Neutral ETF,Federated Hermes ETF Trust Federated Hermes MDT Market Neutral ETF,P,MKTN,Y,100.0,N,MKTN
 MLDR,Global X Funds Global X Intermediate,Global X Funds Global X Intermediate-Term Treasury Ladder ETF,P,MLDR,Y,100.0,N,MLDR
 MLI,"Mueller Industries, Inc. Common Stock","Mueller Industries, Inc. Common Stock",N,MLI,N,100.0,N,MLI
 MLM,"Martin Marietta Materials, Inc. Common Stock","Martin Marietta Materials, Inc. Common Stock",N,MLM,N,100.0,N,MLM
@@ -6126,7 +6127,7 @@ USSG,Xtrackers MSCI USA Selection Equity ETF,Xtrackers MSCI USA Selection Equity
 UST,ProShares Ultra 7,ProShares Ultra 7-10 Year Treasury,P,UST,Y,100.0,N,UST
 UTES,Virtus Reaves Utilities ETF,Virtus Reaves Utilities ETF,P,UTES,Y,100.0,N,UTES
 UTF,"Cohen & Steers Infrastructure Fund, Inc Common Stock","Cohen & Steers Infrastructure Fund, Inc Common Stock",N,UTF,N,100.0,N,UTF
-UTF.V,"Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights when issued","Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights when issued",N,UTFrw,N,100.0,N,UTF^#
+UTF.R,"Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights","Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights",N,UTFr,N,100.0,N,UTF^
 UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,Reaves Utility Income Fund Common Shares of Beneficial Interest,A,UTG,N,100.0,N,UTG
 UTI,Universal Technical Institute Inc Common Stock,Universal Technical Institute Inc Common Stock,N,UTI,N,100.0,N,UTI
 UTL,UNITIL Corporation Common Stock,UNITIL Corporation Common Stock,N,UTL,N,100.0,N,UTL

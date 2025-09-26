@@ -1,9 +1,6 @@
 ACT Symbol,Company Name
 A,"Agilent Technologies, Inc. Common Stock"
 AA,Alcoa Corporation Common Stock 
-AACT,Ares Acquisition Corporation II Class A Ordinary Shares
-AACT.U,"Ares Acquisition Corporation II Units, each consisting of one Class A ordinary share and one"
-AACT.W,"Ares Acquisition Corporation II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 AAM,AA Mission Acquisition Corp. Class A Ordinary Shares
 AAM.U,"AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one"
 AAM.W,"AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share"
@@ -2686,7 +2683,7 @@ USFD,US Foods Holding Corp. Common Stock
 USNA,"USANA Health Sciences, Inc. Common Stock"
 USPH,"U.S. Physical Therapy, Inc. Common Stock"
 UTF,"Cohen & Steers Infrastructure Fund, Inc Common Stock"
-UTF.V,"Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights when issued"
+UTF.R,"Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights"
 UTI,Universal Technical Institute Inc Common Stock
 UTL,UNITIL Corporation Common Stock
 UTZ,Utz Brands Inc Class A Common Stock 
