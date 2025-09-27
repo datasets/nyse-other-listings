@@ -91,6 +91,7 @@ AES,The AES Corporation Common Stock,The AES Corporation Common Stock,N,AES,N,10
 AESI,Atlas Energy Solutions Inc. Common Stock,Atlas Energy Solutions Inc. Common Stock,N,AESI,N,100.0,N,AESI
 AESR,Anfield U.S. Equity Sector Rotation ETF,Anfield U.S. Equity Sector Rotation ETF,Z,AESR,Y,100.0,N,AESR
 AETH,Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF,Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF,P,AETH,Y,100.0,N,AETH
+AEXA,American Exceptionalism Acquisition Corp. A Class A Ordinary Shares,American Exceptionalism Acquisition Corp. A Class A Ordinary Shares,N,AEXA,N,100.0,N,AEXA
 AFB,AllianceBernstein National Municipal Income Fund Inc,AllianceBernstein National Municipal Income Fund Inc,N,AFB,N,100.0,N,AFB
 AFG,"American Financial Group, Inc. Common Stock","American Financial Group, Inc. Common Stock",N,AFG,N,100.0,N,AFG
 AFGB,"American Financial Group, Inc. 5.875% Subordinated Debentures due 2059","American Financial Group, Inc. 5.875% Subordinated Debentures due 2059",N,AFGB,N,100.0,N,AFGB
@@ -310,16 +311,13 @@ ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferre
 ARGT,Global X MSCI Argentina ETF,Global X MSCI Argentina ETF,P,ARGT,Y,100.0,N,ARGT
 ARI,"Apollo Commercial Real Estate Finance, Inc","Apollo Commercial Real Estate Finance, Inc",N,ARI,N,100.0,N,ARI
 ARIS,"Aris Water Solutions, Inc. Class A Common Stock","Aris Water Solutions, Inc. Class A Common Stock",N,ARIS,N,100.0,N,ARIS
-ARKA,EA Series Trust ARK 21Shares Active Bitcoin Futures Strategy ETF,EA Series Trust ARK 21Shares Active Bitcoin Futures Strategy ETF,Z,ARKA,Y,100.0,N,ARKA
 ARKB,ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests,ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests,Z,ARKB,Y,100.0,N,ARKB
-ARKD,EA Series Trust ARK 21Shares Blockchain and Digital Economy Innovation ETF,EA Series Trust ARK 21Shares Blockchain and Digital Economy Innovation ETF,Z,ARKD,Y,100.0,N,ARKD
 ARKF,ARK Fintech Innovation ETF,ARK Fintech Innovation ETF,Z,ARKF,Y,100.0,N,ARKF
 ARKG,ARK Genomic Revolution ETF,ARK Genomic Revolution ETF,Z,ARKG,Y,100.0,N,ARKG
 ARKK,ARK Innovation ETF,ARK Innovation ETF,Z,ARKK,Y,100.0,N,ARKK
 ARKQ,ARK Autonomous Technology & Robotics ETF,ARK Autonomous Technology & Robotics ETF,Z,ARKQ,Y,100.0,N,ARKQ
 ARKW,ARK Next Generation Internet ETF,ARK Next Generation Internet ETF,Z,ARKW,Y,100.0,N,ARKW
 ARKX,ARK Space Exploration & Innovation ETF,ARK Space Exploration & Innovation ETF,Z,ARKX,Y,100.0,N,ARKX
-ARKZ,EA Series Trust ARK 21Shares Active Ethereum Futures Strategy ETF,EA Series Trust ARK 21Shares Active Ethereum Futures Strategy ETF,Z,ARKZ,Y,100.0,N,ARKZ
 ARL,"American Realty Investors, Inc. Common Stock","American Realty Investors, Inc. Common Stock",N,ARL,N,100.0,N,ARL
 ARLO,"Arlo Technologies, Inc. Common Stock","Arlo Technologies, Inc. Common Stock",N,ARLO,N,100.0,N,ARLO
 ARLU,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,SHL Telemedicine Ltd AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,Z,ARLU,Y,100.0,N,ARLU
@@ -703,6 +701,7 @@ BKSE,BNY Mellon US Small Cap Core Equity ETF,BNY Mellon US Small Cap Core Equity
 BKSY,BlackSky Technology Inc. Class A Common Stock,BlackSky Technology Inc. Class A Common Stock,N,BKSY,N,100.0,N,BKSY
 BKSY.W,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock","BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",N,BKSY.WS,N,100.0,N,BKSY+
 BKT,BlackRock Income Trust Inc. (The),BlackRock Income Trust Inc. (The),N,BKT,N,100.0,N,BKT
+BKT.V,"BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights when issued","BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights when issued",N,BKTrw,N,100.0,N,BKT^#
 BKTI,BK Technologies Corporation Common Stock,BK Technologies Corporation Common Stock,A,BKTI,N,100.0,N,BKTI
 BKU,"BankUnited, Inc. Common Stock","BankUnited, Inc. Common Stock",N,BKU,N,100.0,N,BKU
 BKUI,BNY Mellon Ultra Short Income ETF,BNY Mellon Ultra Short Income ETF,P,BKUI,Y,100.0,N,BKUI
@@ -742,6 +741,7 @@ BML$J,Bank of America Corporation Depositary Shares (Each representing a 1/1200t
 BML$L,Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)",N,BMLpL,N,100.0,N,BML-L
 BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,N,BMN,N,100.0,N,BMN
 BMNR,"BitMine Immersion Technologies, Inc. Common Stock","BitMine Immersion Technologies, Inc. Common Stock",A,BMNR,N,100.0,N,BMNR
+BMNU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long BMNR Daily Target ETF,Z,BMNU,Y,100.0,N,BMNU
 BMO,Bank Of Montreal Common Stock,Bank Of Montreal Common Stock,N,BMO,N,100.0,N,BMO
 BMVP,Invesco Bloomberg MVP Multi,Invesco Bloomberg MVP Multi-factor ETF,P,BMVP,Y,100.0,N,BMVP
 BMY,Bristol,Bristol-Myers Squibb Company Common Stock,N,BMY,N,100.0,N,BMY
@@ -1187,6 +1187,7 @@ COPL.W,"Copley Acquisition Corp Redeemable warrants, each whole warrant exercisa
 COPX,Global X Copper Miners ETF,Global X Copper Miners ETF,P,COPX,Y,100.0,N,COPX
 COPY,"The RBB Fund Trust Tweedy, Browne Insider + Value ETF","The RBB Fund Trust Tweedy, Browne Insider + Value ETF",P,COPY,Y,100.0,N,COPY
 COR,"Cencora, Inc. Common Stock","Cencora, Inc. Common Stock",N,COR,N,100.0,N,COR
+CORD,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Inverse CRWV Daily Target ETF,Z,CORD,Y,100.0,N,CORD
 CORN,Teucrium Corn Fund ETV,Teucrium Corn Fund ETV,P,CORN,Y,100.0,N,CORN
 CORP,Pimco Investment Grade Corporate Bond Index Exchange,Pimco Investment Grade Corporate Bond Index Exchange-Traded Fund,P,CORP,Y,100.0,N,CORP
 CORX,Volatility Shares Trust 2x Corn ETF,Volatility Shares Trust 2x Corn ETF,Z,CORX,Y,100.0,N,CORX
@@ -1240,6 +1241,7 @@ CRBG,Corebridge Financial Inc. Common Stock,Corebridge Financial Inc. Common Sto
 CRBN,iShares MSCI ACWI Low Carbon Target ETF,iShares MSCI ACWI Low Carbon Target ETF,P,CRBN,Y,100.0,N,CRBN
 CRC,California Resources Corporation Common Stock,California Resources Corporation Common Stock,N,CRC,N,100.0,N,CRC
 CRCA,ProShares Trust ProShares Ultra CRCL,ProShares Trust ProShares Ultra CRCL,P,CRCA,Y,100.0,N,CRCA
+CRCD,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Inverse CRCL Daily Target ETF,Z,CRCD,Y,100.0,N,CRCD
 CRCL,"Circle Internet Group, Inc. Class A Common Stock","Circle Internet Group, Inc. Class A Common Stock",N,CRCL,N,100.0,N,CRCL
 CRD.A,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.A,N,100.0,N,CRD.A
 CRD.B,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.B,N,100.0,N,CRD.B
@@ -2057,6 +2059,7 @@ FCOM,Fidelity MSCI Communication Services Index ETF,Fidelity MSCI Communication 
 FCOR,Fidelity Corporate Bond ETF,Fidelity Corporate Bond ETF,P,FCOR,Y,100.0,N,FCOR
 FCPI,Fidelity Stocks for Inflation ETF ,Fidelity Stocks for Inflation ETF ,Z,FCPI,Y,100.0,N,FCPI
 FCPT,"Four Corners Property Trust, Inc. Common Stock","Four Corners Property Trust, Inc. Common Stock",N,FCPT,N,100.0,N,FCPT
+FCRS.U,"FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one","FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",N,FCRS.U,N,100.0,N,FCRS=
 FCRX,"Crescent Capital BDC, Inc. 5.00% Notes due 2026","Crescent Capital BDC, Inc. 5.00% Notes due 2026",N,FCRX,N,100.0,N,FCRX
 FCSH,Federated Hermes ETF Trust Federated Hermes Short Duration Corporate ETF,Federated Hermes ETF Trust Federated Hermes Short Duration Corporate ETF,P,FCSH,Y,100.0,N,FCSH
 FCT,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,N,FCT,N,100.0,N,FCT
@@ -2796,7 +2799,6 @@ HMOP,Hartford Municipal Opportunities ETF,Hartford Municipal Opportunities ETF,P
 HMY,Harmony Gold Mining Company Limited,Harmony Gold Mining Company Limited,N,HMY,N,100.0,N,HMY
 HNGE,"Hinge Health, Inc. Class A Common Stock","Hinge Health, Inc. Class A Common Stock",N,HNGE,N,100.0,N,HNGE
 HNI,HNI Corporation Common Stock,HNI Corporation Common Stock,N,HNI,N,100.0,N,HNI
-HNW,"Pioneer Diversified High Income Fund, Inc.","Pioneer Diversified High Income Fund, Inc.",A,HNW,N,100.0,N,HNW
 HOCT,Innovator ETFs Trust Innovator Premium Income 9 Buffer ETF ,Innovator ETFs Trust Innovator Premium Income 9 Buffer ETF - October,Z,HOCT,Y,100.0,N,HOCT
 HODL,VanEck Bitcoin Trust Common Shares of Beneficial Interest,VanEck Bitcoin Trust Common Shares of Beneficial Interest,Z,HODL,Y,100.0,N,HODL
 HOG,Harley,"Harley-Davidson, Inc. Common Stock",N,HOG,N,100.0,N,HOG
@@ -3273,6 +3275,7 @@ JDIV,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Divide
 JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,Direxion Daily Junior Gold Miners Index Bear 2X Shares,P,JDST,Y,100.0,N,JDST
 JDVI,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock Disciplined Value International Select ETF,P,JDVI,Y,100.0,N,JDVI
 JDVL,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock Disciplined Value Select ETF,P,JDVL,Y,100.0,N,JDVL
+JEDI,ETF Series Solutions Defiance Drone and Modern Warfare ETF,ETF Series Solutions Defiance Drone and Modern Warfare ETF,P,JEDI,Y,100.0,N,JEDI
 JEF,Jefferies Financial Group Inc. Common Stock,Jefferies Financial Group Inc. Common Stock,N,JEF,N,100.0,N,JEF
 JELD,JELD,"JELD-WEN Holding, Inc. Common Stock",N,JELD,N,100.0,N,JELD
 JEMA,JPMorgan ActiveBuilders Emerging Markets Equity ETF,JPMorgan ActiveBuilders Emerging Markets Equity ETF,Z,JEMA,Y,100.0,N,JEMA
@@ -3454,7 +3457,6 @@ KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,KKR Group F
 KKRT,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,N,KKRT,N,100.0,N,KKRT
 KLAR,Klarna Group plc Ordinary Shares,Klarna Group plc Ordinary Shares,N,KLAR,N,100.0,N,KLAR
 KLC,"KinderCare Learning Companies, Inc. Common Stock","KinderCare Learning Companies, Inc. Common Stock",N,KLC,N,100.0,N,KLC
-KLG,WK Kellogg Co Common Stock,WK Kellogg Co Common Stock,N,KLG,N,100.0,N,KLG
 KLIP,KraneShares KWEB Covered Call Strategy ETF,KraneShares KWEB Covered Call Strategy ETF,P,KLIP,Y,100.0,N,KLIP
 KLMN,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI North America Climate ETF,P,KLMN,Y,100.0,N,KLMN
 KLMT,Invesco Exchange,Invesco Exchange-Traded Fund Trust II Invesco MSCI Global Climate 500 ETF,P,KLMT,Y,100.0,N,KLMT
@@ -4590,7 +4592,6 @@ PHIN,PHINIA Inc. Common Stock,PHINIA Inc. Common Stock,N,PHIN,N,100.0,N,PHIN
 PHK,Pimco High Income Fund,Pimco High Income Fund,N,PHK,N,100.0,N,PHK
 PHM,"PulteGroup, Inc. Common Stock","PulteGroup, Inc. Common Stock",N,PHM,N,100.0,N,PHM
 PHR,"Phreesia, Inc. Common Stock","Phreesia, Inc. Common Stock",N,PHR,N,100.0,N,PHR
-PHT,"Pioneer High Income Fund, Inc.","Pioneer High Income Fund, Inc.",N,PHT,N,100.0,N,PHT
 PHYD,Putnam ETF Trust Putnam ESG High Yield ETF,Putnam ETF Trust Putnam ESG High Yield ETF,P,PHYD,Y,100.0,N,PHYD
 PHYL,PGIM Active High Yield Bond ETF,PGIM Active High Yield Bond ETF,P,PHYL,Y,100.0,N,PHYL
 PHYS,Sprott Physical Gold Trust ETV,Sprott Physical Gold Trust ETV,P,PHYS,Y,100.0,N,PHYS
