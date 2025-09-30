@@ -1483,6 +1483,7 @@ DGZ,"DB Gold Short ETN due February 15, 2038","DB Gold Short ETN due February 15
 DHDG,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Quarterly 2.5 to 15 Buffer ETF,Z,DHDG,Y,100.0,N,DHDG
 DHF,BNY Mellon High Yield Strategies Fund Common Stock,BNY Mellon High Yield Strategies Fund Common Stock,N,DHF,N,100.0,N,DHF
 DHI,"D.R. Horton, Inc. Common Stock","D.R. Horton, Inc. Common Stock",N,DHI,N,100.0,N,DHI
+DHLX,Diamond Hill Funds Diamond Hill Large Cap Concentrated ETF,Diamond Hill Funds Diamond Hill Large Cap Concentrated ETF,P,DHLX,Y,100.0,N,DHLX
 DHR,Danaher Corporation Common Stock,Danaher Corporation Common Stock,N,DHR,N,100.0,N,DHR
 DHS,WisdomTree U.S. High Dividend Fund,WisdomTree U.S. High Dividend Fund,P,DHS,Y,100.0,N,DHS
 DHSB,Strategy Shares Day Hagan Smart Buffer ETF,Strategy Shares Day Hagan Smart Buffer ETF,P,DHSB,Y,100.0,N,DHSB
@@ -3289,6 +3290,7 @@ JETD,Bank Of Montreal MAX Airlines ,Bank Of Montreal MAX Airlines -3X Inverse Le
 JETS,U.S. Global Jets ETF,U.S. Global Jets ETF,P,JETS,Y,100.0,N,JETS
 JETU,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,P,JETU,Y,100.0,N,JETU
 JFLI,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Flexible Income ETF,P,JFLI,Y,100.0,N,JFLI
+JFLX,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Flexible Debt ETF,P,JFLX,Y,100.0,N,JFLX
 JFR,Nuveen Floating Rate Income Fund Common Stock,Nuveen Floating Rate Income Fund Common Stock,N,JFR,N,100.0,N,JFR
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,Nuveen Global High Income Fund Common Shares of Beneficial Interest,N,JGH,N,100.0,N,JGH
 JGRO,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Growth ETF,P,JGRO,Y,100.0,N,JGRO
@@ -3479,6 +3481,7 @@ KNOP,KNOT Offshore Partners LP Common Units representing Limited Partner Interes
 KNOV,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF ,Innovator ETFs Trust Innovator U.S. Small Cap Power Buffer ETF - November,Z,KNOV,Y,100.0,N,KNOV
 KNOW,Fundamentals First ETF Fundamentals First ETF,Fundamentals First ETF Fundamentals First ETF,Z,KNOW,Y,100.0,N,KNOW
 KNRG,Simplify Exchange Traded Funds Simplify Kayne Anderson Energy and Infrastructure Credit ETF,Simplify Exchange Traded Funds Simplify Kayne Anderson Energy and Infrastructure Credit ETF,P,KNRG,Y,100.0,N,KNRG
+KNRX,KNOREX LTD. Class A Ordinary Shares,KNOREX LTD. Class A Ordinary Shares,A,KNRX,N,100.0,N,KNRX
 KNSL,"Kinsale Capital Group, Inc. Common Stock","Kinsale Capital Group, Inc. Common Stock",N,KNSL,N,100.0,N,KNSL
 KNTK,Kinetik Holdings Inc. Class A Common Stock,Kinetik Holdings Inc. Class A Common Stock,N,KNTK,N,100.0,N,KNTK
 KNX,Knight,Knight-Swift Transportation Holdings Inc.,N,KNX,N,100.0,N,KNX
@@ -6403,7 +6406,7 @@ WMT,Walmart Inc. Common Stock,Walmart Inc. Common Stock,N,WMT,N,100.0,N,WMT
 WNC,Wabash National Corporation Common Stock,Wabash National Corporation Common Stock,N,WNC,N,100.0,N,WNC
 WNS,WNS (Holdings) Limited Ordinary Shares,WNS (Holdings) Limited Ordinary Shares,N,WNS,N,100.0,N,WNS
 WNTR,Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF,Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF,P,WNTR,Y,100.0,N,WNTR
-WOLF,"Wolfspeed, Inc. Common Stock","Wolfspeed, Inc. Common Stock",N,WOLF,N,100.0,N,WOLF
+WOLF,"Wolfspeed, Inc. Common Stock New","Wolfspeed, Inc. Common Stock New",N,WOLF,N,100.0,N,WOLF
 WOMN,Tidal Trust III Impact Shares Women's Empowerment ETF,Tidal Trust III Impact Shares Women's Empowerment ETF,P,WOMN,Y,100.0,N,WOMN
 WOR,"Worthington Enterprises, Inc. Common Shares","Worthington Enterprises, Inc. Common Shares",N,WOR,N,100.0,N,WOR
 WOW,"WideOpenWest, Inc. Common Stock","WideOpenWest, Inc. Common Stock",N,WOW,N,100.0,N,WOW
