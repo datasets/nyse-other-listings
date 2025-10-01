@@ -558,6 +558,7 @@ BCO,Brinks Company (The) Common Stock,Brinks Company (The) Common Stock,N,BCO,N,
 BCOR,Grayscale Funds Trust Grayscale Bitcoin Adopters ETF,Grayscale Funds Trust Grayscale Bitcoin Adopters ETF,P,BCOR,Y,100.0,N,BCOR
 BCS,Barclays PLC Common Stock,Barclays PLC Common Stock,N,BCS,N,100.0,N,BCS
 BCSF,"Bain Capital Specialty Finance, Inc. Common Stock","Bain Capital Specialty Finance, Inc. Common Stock",N,BCSF,N,100.0,N,BCSF
+BCSS.U,"Bain Capital GSS Investment Corp. Units, each consisting of one Class A Ordinary Share and one","Bain Capital GSS Investment Corp. Units, each consisting of one Class A Ordinary Share and one-fifth of one redeemable warrant",N,BCSS.U,N,100.0,N,BCSS=
 BCUS,Exchange Listed Funds Trust Bancreek U.S. Large Cap ETF,Exchange Listed Funds Trust Bancreek U.S. Large Cap ETF,P,BCUS,Y,100.0,N,BCUS
 BCV,"Bancroft Fund, Ltd.","Bancroft Fund, Ltd.",A,BCV,N,100.0,N,BCV
 BCV$A,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,A,BCVpA,N,100.0,N,BCV-A
@@ -1243,6 +1244,7 @@ CRC,California Resources Corporation Common Stock,California Resources Corporati
 CRCA,ProShares Trust ProShares Ultra CRCL,ProShares Trust ProShares Ultra CRCL,P,CRCA,Y,100.0,N,CRCA
 CRCD,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Inverse CRCL Daily Target ETF,Z,CRCD,Y,100.0,N,CRCD
 CRCL,"Circle Internet Group, Inc. Class A Common Stock","Circle Internet Group, Inc. Class A Common Stock",N,CRCL,N,100.0,N,CRCL
+CRCO,Tidal Trust II YieldMax CRCL Option Income Strategy ETF,Tidal Trust II YieldMax CRCL Option Income Strategy ETF,P,CRCO,Y,100.0,N,CRCO
 CRD.A,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.A,N,100.0,N,CRD.A
 CRD.B,Crawford & Company Common Stock,Crawford & Company Common Stock,N,CRD.B,N,100.0,N,CRD.B
 CRDT,Simplify Exchange Traded Funds Simplify Opportunistic Income ETF,Simplify Exchange Traded Funds Simplify Opportunistic Income ETF,P,CRDT,Y,100.0,N,CRDT
@@ -1549,9 +1551,6 @@ DMBS,DoubleLine ETF Trust DoubleLine Mortgage ETF,DoubleLine ETF Trust DoubleLin
 DMCY,Democracy International Fund,Democracy International Fund,P,DMCY,Y,100.0,N,DMCY
 DMO,Western Asset Mortgage Opportunity Fund Inc. Common Stock,Western Asset Mortgage Opportunity Fund Inc. Common Stock,N,DMO,N,100.0,N,DMO
 DMX,DoubleLine ETF Trust DoubleLine Multi,DoubleLine ETF Trust DoubleLine Multi-Sector Income ETF,P,DMX,Y,100.0,N,DMX
-DMYY,"dMY Squared Technology Group, Inc. Class A Common Stock","dMY Squared Technology Group, Inc. Class A Common Stock",A,DMYY,N,100.0,N,DMYY
-DMYY.U,"dMY Squared Technology Group, Inc. Units, each consisting of one share of Class A common stock and one","dMY Squared Technology Group, Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant",A,DMYY.U,N,100.0,N,DMYY=
-DMYY.W,"dMY Squared Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","dMY Squared Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",A,DMYY.WS,N,100.0,N,DMYY+
 DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock","Ginkgo Bioworks Holdings, Inc. Class A Common Stock",N,DNA,N,100.0,N,DNA
 DNL,WisdomTree Global ex,WisdomTree Global ex-US Quality Dividend Growth Fund,P,DNL,Y,100.0,N,DNL
 DNN,Denison Mines Corp Ordinary Shares (Canada),Denison Mines Corp Ordinary Shares (Canada),A,DNN,N,100.0,N,DNN
@@ -1913,11 +1912,14 @@ ESGV,Vanguard ESG U.S. Stock ETF,Vanguard ESG U.S. Stock ETF,Z,ESGV,Y,100.0,N,ES
 ESI,Element Solutions Inc. Common Stock,Element Solutions Inc. Common Stock,N,ESI,N,100.0,N,ESI
 ESIX,SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF,SSGA Active Trust SPDR S&P SmallCap 600 ESG ETF,P,ESIX,Y,100.0,N,ESIX
 ESK,ETF Opportunities Trust REX,ETF Opportunities Trust REX-Osprey ETH + Staking ETF,Z,ESK,Y,100.0,N,ESK
+ESLG,Strategy Shares Eventide Large Cap Growth ETF,Strategy Shares Eventide Large Cap Growth ETF,P,ESLG,Y,100.0,N,ESLG
+ESLV,Strategy Shares Eventide Large Cap Value ETF,Strategy Shares Eventide Large Cap Value ETF,P,ESLV,Y,100.0,N,ESLV
 ESML,iShares ESG Aware MSCI USA Small,iShares ESG Aware MSCI USA Small-Cap ETF,Z,ESML,Y,100.0,N,ESML
 ESNT,Essent Group Ltd. Common Shares,Essent Group Ltd. Common Shares,N,ESNT,N,100.0,N,ESNT
 ESP,Espey Mfg. & Electronics Corp. Common Stock,Espey Mfg. & Electronics Corp. Common Stock,A,ESP,N,100.0,N,ESP
 ESRT,"Empire State Realty Trust, Inc. Class A Common Stock","Empire State Realty Trust, Inc. Class A Common Stock",N,ESRT,N,100.0,N,ESRT
 ESS,"Essex Property Trust, Inc. Common Stock","Essex Property Trust, Inc. Common Stock",N,ESS,N,100.0,N,ESS
+ESSC,Strategy Shares Eventide Small Cap ETF,Strategy Shares Eventide Small Cap ETF,P,ESSC,Y,100.0,N,ESSC
 ESTC,Elastic N.V. Ordinary Shares,Elastic N.V. Ordinary Shares,N,ESTC,N,100.0,N,ESTC
 ESUM,Strategy Shares Eventide US Market ETF,Strategy Shares Eventide US Market ETF,P,ESUM,Y,100.0,N,ESUM
 ET,Energy Transfer LP Common Units ,Energy Transfer LP Common Units ,N,ET,N,100.0,N,ET
@@ -3512,6 +3514,7 @@ KRO,Kronos Worldwide Inc Common Stock,Kronos Worldwide Inc Common Stock,N,KRO,N,
 KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,N,KRP,N,100.0,N,KRP
 KSA,iShares Trust iShares MSCI Saudi Arabia ETF,iShares Trust iShares MSCI Saudi Arabia ETF,P,KSA,Y,100.0,N,KSA
 KSEP,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - September,Z,KSEP,Y,100.0,N,KSEP
+KSLV,Kurv ETF Trust Kurv Silver Enhanced Income ETF,Kurv ETF Trust Kurv Silver Enhanced Income ETF,Z,KSLV,Y,100.0,N,KSLV
 KSPY,KraneShares Trust KraneShares Hedgeye Hedged Equity Index ETF,KraneShares Trust KraneShares Hedgeye Hedged Equity Index ETF,P,KSPY,Y,100.0,N,KSPY
 KSS,Kohl's Corporation Common Stock,Kohl's Corporation Common Stock,N,KSS,N,100.0,N,KSS
 KSTR,KraneShares SSE STAR Market 50 Index ETF,KraneShares SSE STAR Market 50 Index ETF,P,KSTR,Y,100.0,N,KSTR
@@ -4514,6 +4517,7 @@ PCHI,FundVantage Trust Polen High Income ETF,FundVantage Trust Polen High Income
 PCI,PGIM ETF Trust PGIM Corporate Bond 5,PGIM ETF Trust PGIM Corporate Bond 5-10 Year ETF,Z,PCI,Y,100.0,N,PCI
 PCIG,Litman Gregory Funds Trust Polen Capital International Growth ETF,Litman Gregory Funds Trust Polen Capital International Growth ETF,P,PCIG,Y,100.0,N,PCIG
 PCL,PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF,PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF,Z,PCL,Y,100.0,N,PCL
+PCLG,FundVantage Trust Polen Focus Growth ETF,FundVantage Trust Polen Focus Growth ETF,P,PCLG,Y,100.0,N,PCLG
 PCLO,Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF,Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF,P,PCLO,Y,100.0,N,PCLO
 PCM,"PCM Fund, Inc. Common Stock","PCM Fund, Inc. Common Stock",N,PCM,N,100.0,N,PCM
 PCN,Pimco Corporate & Income Strategy Fund Common Stock,Pimco Corporate & Income Strategy Fund Common Stock,N,PCN,N,100.0,N,PCN
@@ -4595,6 +4599,7 @@ PHIN,PHINIA Inc. Common Stock,PHINIA Inc. Common Stock,N,PHIN,N,100.0,N,PHIN
 PHK,Pimco High Income Fund,Pimco High Income Fund,N,PHK,N,100.0,N,PHK
 PHM,"PulteGroup, Inc. Common Stock","PulteGroup, Inc. Common Stock",N,PHM,N,100.0,N,PHM
 PHR,"Phreesia, Inc. Common Stock","Phreesia, Inc. Common Stock",N,PHR,N,100.0,N,PHR
+PHXE$,"Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares","Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",A,PHXEp,N,100.0,N,PHXE-
 PHYD,Putnam ETF Trust Putnam ESG High Yield ETF,Putnam ETF Trust Putnam ESG High Yield ETF,P,PHYD,Y,100.0,N,PHYD
 PHYL,PGIM Active High Yield Bond ETF,PGIM Active High Yield Bond ETF,P,PHYL,Y,100.0,N,PHYL
 PHYS,Sprott Physical Gold Trust ETV,Sprott Physical Gold Trust ETV,P,PHYS,Y,100.0,N,PHYS
@@ -5012,6 +5017,7 @@ RITM$A,Rithm Capital Corp. 7.50% Series A Fixed,Rithm Capital Corp. 7.50% Series
 RITM$B,Rithm Capital Corp. 7.125% Series B Fixed,Rithm Capital Corp. 7.125% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,RITMpB,N,100.0,N,RITM-B
 RITM$C,Rithm Capital Corp. 6.375% Series C Fixed,Rithm Capital Corp. 6.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,RITMpC,N,100.0,N,RITM-C
 RITM$D,Rithm Capital Corp. 7.00% Fixed,Rithm Capital Corp. 7.00% Fixed-Rate Reset Series D Cumulative Redeemable Preferred Stock,N,RITMpD,N,100.0,N,RITM-D
+RITM$E,Rithm Capital Corp. 8.75% Series E Fixed,Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable Preferred Stock,N,RITMpE,N,100.0,N,RITM-E
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities Fund, Inc. Common Stock",N,RIV,N,100.0,N,RIV
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
 RIV.R,"RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights","RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights",N,RIVr,N,100.0,N,RIV^
@@ -5199,7 +5205,6 @@ SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share a
 SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50","SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",N,SBXD.WS,N,100.0,N,SBXD+
 SCAP,Infrastructure Capital Small Cap Income ETF,Infrastructure Capital Small Cap Income ETF,P,SCAP,Y,100.0,N,SCAP
 SCC,ProShares UltraShort Consumer Discretionary,ProShares UltraShort Consumer Discretionary,P,SCC,Y,100.0,N,SCC
-SCCC,Sachem Capital Corp. 7.75% Notes due 2025,Sachem Capital Corp. 7.75% Notes due 2025,A,SCCC,N,100.0,N,SCCC
 SCCD,Sachem Capital Corp. 6.00% Notes due 2026,Sachem Capital Corp. 6.00% Notes due 2026,A,SCCD,N,100.0,N,SCCD
 SCCE,Sachem Capital Corp. 6.00% Notes due 2027,Sachem Capital Corp. 6.00% Notes due 2027,A,SCCE,N,100.0,N,SCCE
 SCCF,Sachem Capital Corp. 7.125% Notes due 2027,Sachem Capital Corp. 7.125% Notes due 2027,A,SCCF,N,100.0,N,SCCF
@@ -5954,6 +5959,7 @@ TSLI,ProShares Trust ProShares Ultra TSLA,ProShares Trust ProShares Ultra TSLA,P
 TSLO,Themes ETF Trust Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,Themes ETF Trust Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,Z,TSLO,Y,100.0,N,TSLO
 TSLP,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Z,TSLP,Y,100.0,N,TSLP
 TSLT,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long Tesla Daily Target ETF,Z,TSLT,Y,100.0,N,TSLT
+TSLV,Tidal Trust III Azoria TSLA Convexity ETF,Tidal Trust III Azoria TSLA Convexity ETF,Z,TSLV,Y,100.0,N,TSLV
 TSLW,Roundhill ETF Trust Roundhill TSLA WeeklyPay ETF,Roundhill ETF Trust Roundhill TSLA WeeklyPay ETF,Z,TSLW,Y,100.0,N,TSLW
 TSLX,"Sixth Street Specialty Lending, Inc. Common Stock","Sixth Street Specialty Lending, Inc. Common Stock",N,TSLX,N,100.0,N,TSLX
 TSLY,Tidal ETF Trust II YieldMax TSLA Option Income Strategy ETF,Tidal ETF Trust II YieldMax TSLA Option Income Strategy ETF,P,TSLY,Y,100.0,N,TSLY
@@ -6202,7 +6208,7 @@ VFMV,Vanguard U.S. Minimum Volatility ETF,Vanguard U.S. Minimum Volatility ETF,Z
 VFQY,Vanguard U.S. Quality Factor ETF,Vanguard U.S. Quality Factor ETF,Z,VFQY,Y,100.0,N,VFQY
 VFVA,Vanguard U.S. Value Factor ETF,Vanguard U.S. Value Factor ETF,Z,VFVA,Y,100.0,N,VFVA
 VG,"Venture Global, Inc. Class A common stock","Venture Global, Inc. Class A common stock",N,VG,N,100.0,N,VG
-VGHY,Vanguard High,Vanguard High-Yield Active ETF Vanguard High-Yield Active ETF,Z,VGHY,Y,100.0,N,VGHY
+VGHY,Vanguard High,Vanguard High-Yield Active ETF,Z,VGHY,Y,100.0,N,VGHY
 VGI,Virtus Global Multi,Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,N,VGI,N,100.0,N,VGI
 VGK,Vanguard FTSEEuropean ETF,Vanguard FTSEEuropean ETF,P,VGK,Y,100.0,N,VGK
 VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),Invesco Trust for Investment Grade Municipals Common Stock (DE),N,VGM,N,100.0,N,VGM
