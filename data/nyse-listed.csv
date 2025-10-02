@@ -382,7 +382,7 @@ BKN,BlackRock Investment Quality Municipal Trust Inc. (The)
 BKSY,BlackSky Technology Inc. Class A Common Stock
 BKSY.W,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock"
 BKT,BlackRock Income Trust Inc. (The)
-BKT.V,"BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights when issued"
+BKT.R,"BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights"
 BKU,"BankUnited, Inc. Common Stock"
 BKV,BKV Corporation Common Stock
 BLCO,Bausch + Lomb Corporation Common Shares
@@ -1175,7 +1175,6 @@ GNL$E,"Global Net Lease, Inc. 7.375% Series E Cumulative Redeemable Perpetual Pr
 GNRC,Generac Holdlings Inc. Common Stock
 GNT,"GAMCO Natural Resources, Gold & Income Trust"
 GNT$A,"GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)"
-GNTY,"Guaranty Bancshares, Inc. Common Stock"
 GNW,Genworth Financial Inc Common Stock
 GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest
 GOLF,Acushnet Holdings Corp. Common Stock
@@ -1505,6 +1504,7 @@ KRG,Kite Realty Group Trust Common Stock
 KRMN,Karman Holdings Inc. Common Stock
 KRO,Kronos Worldwide Inc Common Stock
 KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests
+KRSP.U,"Rice Acquisition Corporation 3 Units, each consisting of one Class A ordinary share, and one"
 KSS,Kohl's Corporation Common Stock
 KT,KT Corporation Common Stock
 KTB,"Kontoor Brands, Inc. Common Stock "
@@ -1852,6 +1852,7 @@ NOTE,"FiscalNote Holdings, Inc. Class A common stock"
 NOTE.W,"FiscalNote Holdings, Inc. Warrants to purchase one share of Class A common stock, each at an exercise price of $11.50 per share"
 NOV,NOV Inc. Common Stock
 NOW,"ServiceNow, Inc. Common Stock"
+NP,Neptune Insurance Holdings Inc. Class A Common Stock
 NPB,"Northpointe Bancshares, Inc. Common Stock"
 NPCT,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest
 NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares
@@ -2857,6 +2858,7 @@ XYF,"X Financial American Depositary Shares, each representing six Class A Ordin
 XYL,Xylem Inc. Common Stock New
 XYZ,"Block, Inc. Class A Common Stock,"
 YALA,"Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share"
+YCY.U,"AA Mission Acquisition Corp. II Units, each consisting of one Class A ordinary share and one"
 YELP,Yelp Inc. Common Stock
 YETI,"YETI Holdings, Inc. Common Stock"
 YEXT,"Yext, Inc. Common Stock"
