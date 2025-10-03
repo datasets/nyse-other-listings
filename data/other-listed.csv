@@ -2806,7 +2806,6 @@ HMOP,Hartford Municipal Opportunities ETF,Hartford Municipal Opportunities ETF,P
 HMY,Harmony Gold Mining Company Limited,Harmony Gold Mining Company Limited,N,HMY,N,100.0,N,HMY
 HNGE,"Hinge Health, Inc. Class A Common Stock","Hinge Health, Inc. Class A Common Stock",N,HNGE,N,100.0,N,HNGE
 HNI,HNI Corporation Common Stock,HNI Corporation Common Stock,N,HNI,N,100.0,N,HNI
-HOCT,Innovator ETFs Trust Innovator Premium Income 9 Buffer ETF ,Innovator ETFs Trust Innovator Premium Income 9 Buffer ETF - October,Z,HOCT,Y,100.0,N,HOCT
 HODL,VanEck Bitcoin Trust Common Shares of Beneficial Interest,VanEck Bitcoin Trust Common Shares of Beneficial Interest,Z,HODL,Y,100.0,N,HODL
 HOG,Harley,"Harley-Davidson, Inc. Common Stock",N,HOG,N,100.0,N,HOG
 HOLA,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan International Hedged Equity Laddered Overlay ETF,P,HOLA,Y,100.0,N,HOLA
@@ -2968,6 +2967,7 @@ ICOI,Bitwise Funds Trust Bitwise COIN Option Income Strategy ETF,Bitwise Funds T
 ICOW,Pacer Developed Markets International Cash Cows 100 ETF,Pacer Developed Markets International Cash Cows 100 ETF,Z,ICOW,Y,100.0,N,ICOW
 ICPY,"The RBB Fund Trust Tweedy, Browne International Insider + Value ETF","The RBB Fund Trust Tweedy, Browne International Insider + Value ETF",P,ICPY,Y,100.0,N,ICPY
 ICR$A,"InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock","InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock",N,ICRpA,N,100.0,N,ICR-A
+ICRC,Bitwise Funds Trust Bitwise CRCL Option Income Strategy ETF,Bitwise Funds Trust Bitwise CRCL Option Income Strategy ETF,P,ICRC,Y,100.0,N,ICRC
 ICSH,iShares Ultra Short Duration Bond Active ETF,iShares Ultra Short Duration Bond Active ETF,Z,ICSH,Y,100.0,N,ICSH
 ICVT,iShares Convertible Bond ETF,iShares Convertible Bond ETF,Z,ICVT,Y,100.0,N,ICVT
 IDA,"IDACORP, Inc. Common Stock","IDACORP, Inc. Common Stock",N,IDA,N,100.0,N,IDA
@@ -2997,6 +2997,7 @@ IEFA,iShares Core MSCI EAFE ETF,iShares Core MSCI EAFE ETF,Z,IEFA,Y,100.0,N,IEFA
 IEMG,iShares Core MSCI Emerging Markets ETF,iShares Core MSCI Emerging Markets ETF,P,IEMG,Y,100.0,N,IEMG
 IEO,iShares U.S. Oil & Gas Exploration & Production ETF,iShares U.S. Oil & Gas Exploration & Production ETF,Z,IEO,Y,100.0,N,IEO
 IETC,iShares U.S. Tech Independence Focused ETF,iShares U.S. Tech Independence Focused ETF,Z,IETC,Y,100.0,N,IETC
+IETH,Bitwise Funds Trust Bitwise Ethereum Option Income Strategy ETF,Bitwise Funds Trust Bitwise Ethereum Option Income Strategy ETF,P,IETH,Y,100.0,N,IETH
 IEUR,iShares Core MSCI Europe ETF,iShares Core MSCI Europe ETF,P,IEUR,Y,100.0,N,IEUR
 IEV,iShares Europe ETF,iShares Europe ETF,P,IEV,Y,100.0,N,IEV
 IEX,IDEX Corporation Common Stock,IDEX Corporation Common Stock,N,IEX,N,100.0,N,IEX
@@ -4126,7 +4127,6 @@ NERD,Roundhill Video Games ETF,Roundhill Video Games ETF,Z,NERD,Y,100.0,N,NERD
 NET,"Cloudflare, Inc. Class A Common Stock","Cloudflare, Inc. Class A Common Stock",N,NET,N,100.0,N,NET
 NETL,NETLease Corporate Real Estate ETF,NETLease Corporate Real Estate ETF,P,NETL,Y,100.0,N,NETL
 NEU,NewMarket Corp Common Stock,NewMarket Corp Common Stock,N,NEU,N,100.0,N,NEU
-NEUE,"NeueHealth, Inc. Common Stock","NeueHealth, Inc. Common Stock",N,NEUE,N,100.0,N,NEUE
 NEWP,New Pacific Metals Corp. Common Shares,New Pacific Metals Corp. Common Shares,A,NEWP,N,100.0,N,NEWP
 NEXA,Nexa Resources S.A. Common Shares,Nexa Resources S.A. Common Shares,N,NEXA,N,100.0,N,NEXA
 NFEB,Innovator ETFs Trust Innovator Growth,Innovator ETFs Trust Innovator Growth-100 Power Buffer ETF - February,Z,NFEB,Y,100.0,N,NFEB
@@ -4342,12 +4342,10 @@ OC,Owens Corning Inc Common Stock New,Owens Corning Inc Common Stock New,N,OC,N,
 OCFS,Professionally Managed Portfolios Otter Creek Focus Strategy ETF,Professionally Managed Portfolios Otter Creek Focus Strategy ETF,P,OCFS,Y,100.0,N,OCFS
 OCFT,"OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares","OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares",N,OCFT,N,100.0,N,OCFT
 OCIO,ClearShares OCIO ETF,ClearShares OCIO ETF,P,OCIO,Y,100.0,N,OCIO
-OCTD,Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 10 Barrier ETF - October,Z,OCTD,Y,100.0,N,OCTD
 OCTH,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - October,Z,OCTH,Y,100.0,N,OCTH
 OCTJ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - October,Z,OCTJ,Y,100.0,N,OCTJ
 OCTM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - October,Z,OCTM,Y,100.0,N,OCTM
 OCTP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - October,Z,OCTP,Y,100.0,N,OCTP
-OCTQ,Innovator ETFs Trust Innovator Premium Income 40 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 40 Barrier ETF - October,Z,OCTQ,Y,100.0,N,OCTQ
 OCTT,AllianzIM U.S. Large Cap Buffer10 Oct ETF,AllianzIM U.S. Large Cap Buffer10 Oct ETF,P,OCTT,Y,100.0,N,OCTT
 OCTU,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Oct ETF,AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped Oct ETF,Z,OCTU,Y,100.0,N,OCTU
 OCTW,AllianzIM U.S. Large Cap Buffer20 Oct ETF,AllianzIM U.S. Large Cap Buffer20 Oct ETF,P,OCTW,Y,100.0,N,OCTW
@@ -5030,9 +5028,12 @@ RITM$E,Rithm Capital Corp. 8.75% Series E Fixed,Rithm Capital Corp. 8.75% Series
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities Fund, Inc. Common Stock",N,RIV,N,100.0,N,RIV
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
 RIV.R,"RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights","RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights",N,RIVr,N,100.0,N,RIV^
+RJDI,Carillon Series Trust RJ Eagle GCM Dividend Select Income ETF,Carillon Series Trust RJ Eagle GCM Dividend Select Income ETF,P,RJDI,Y,100.0,N,RJDI
 RJF,"Raymond James Financial, Inc. Common Stock","Raymond James Financial, Inc. Common Stock",N,RJF,N,100.0,N,RJF
 RJF$B,"Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed","Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",N,RJFpB,N,100.0,N,RJF-B
 RJMG,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Raymond James Multicap Growth Equity ETF,P,RJMG,Y,100.0,N,RJMG
+RJMI,Carillon Series Trust RJ Eagle Municipal Income ETF,Carillon Series Trust RJ Eagle Municipal Income ETF,P,RJMI,Y,100.0,N,RJMI
+RJVI,Carillon Series Trust RJ Eagle Vertical Income ETF,Carillon Series Trust RJ Eagle Vertical Income ETF,P,RJVI,Y,100.0,N,RJVI
 RKT,"Rocket Companies, Inc. Class A Common Stock","Rocket Companies, Inc. Class A Common Stock",N,RKT,N,100.0,N,RKT
 RL,Ralph Lauren Corporation Common Stock,Ralph Lauren Corporation Common Stock,N,RL,N,100.0,N,RL
 RLGT,"Radiant Logistics, Inc. Common Stock","Radiant Logistics, Inc. Common Stock",A,RLGT,N,100.0,N,RLGT
@@ -6216,6 +6217,7 @@ VERS,ProShares Trust ProShares Metaverse ETF,ProShares Trust ProShares Metaverse
 VET,Vermilion Energy Inc. Common (Canada),Vermilion Energy Inc. Common (Canada),N,VET,N,100.0,N,VET
 VETZ,Academy Veteran Bond ETF,Academy Veteran Bond ETF,P,VETZ,Y,100.0,N,VETZ
 VEU,Vanguard FTSE All World Ex US ETF,Vanguard FTSE All World Ex US ETF,P,VEU,Y,100.0,N,VEU
+VEXC,Vanguard World Funds Vanguard Emerging Markets Ex,Vanguard World Funds Vanguard Emerging Markets Ex-China ETF,P,VEXC,Y,100.0,N,VEXC
 VFC,V.F. Corporation Common Stock,V.F. Corporation Common Stock,N,VFC,N,100.0,N,VFC
 VFH,Vanguard Financials ETF,Vanguard Financials ETF,P,VFH,Y,100.0,N,VFH
 VFL,abrdn National Municipal Income Fund Common Stock,abrdn National Municipal Income Fund Common Stock,A,VFL,N,100.0,N,VFL
@@ -6490,7 +6492,6 @@ XCOR,FundX Investment Trust FundX ETF,FundX Investment Trust FundX ETF,P,XCOR,Y,
 XDAT,Franklin Exponential Data ETF,Franklin Exponential Data ETF,Z,XDAT,Y,100.0,N,XDAT
 XDEC,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December,Z,XDEC,Y,100.0,N,XDEC
 XDIV,Roundhill ETF Trust Roundhill S&P 500 No Dividend Target ETF,Roundhill ETF Trust Roundhill S&P 500 No Dividend Target ETF,Z,XDIV,Y,100.0,N,XDIV
-XDOC,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - October,Z,XDOC,Y,100.0,N,XDOC
 XDQQ,Innovator Growth Accelerated ETF ,Innovator Growth Accelerated ETF - Quarterly,Z,XDQQ,Y,100.0,N,XDQQ
 XDSQ,Innovator ETFs Trust Innovator U.S. Equity Accelerated ETF ,Innovator ETFs Trust Innovator U.S. Equity Accelerated ETF - Quarterly,Z,XDSQ,Y,100.0,N,XDSQ
 XDTE,Roundhill ETF Trust Roundhill S&P 500 0DTE Covered Call Strategy ETF,Roundhill ETF Trust Roundhill S&P 500 0DTE Covered Call Strategy ETF,Z,XDTE,Y,100.0,N,XDTE
