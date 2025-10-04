@@ -154,6 +154,7 @@ AIBU,Direxion Shares ETF Trust Direxion Daily AI and Big Data Bull 2X Shares,Dir
 AIEQ,Amplify ETF Trust Amplify AI Powered Equity ETF,Amplify ETF Trust Amplify AI Powered Equity ETF,P,AIEQ,Y,100.0,N,AIEQ
 AIG,"American International Group, Inc. New Common Stock","American International Group, Inc. New Common Stock",N,AIG,N,100.0,N,AIG
 AII,"American Integrity Insurance Group, Inc. Common Stock","American Integrity Insurance Group, Inc. Common Stock",N,AII,N,100.0,N,AII
+AIIA.U,"AI Infrastructure Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one Right","AI Infrastructure Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one Right",N,AIIA.U,N,100.0,N,AIIA=
 AIM,AIM ImmunoTech Inc. Common Stock,AIM ImmunoTech Inc. Common Stock,A,AIM,N,100.0,N,AIM
 AIN,Albany International Corporation Common Stock,Albany International Corporation Common Stock,N,AIN,N,100.0,N,AIN
 AINP,Allspring Exchange,Allspring Exchange-Traded Funds Trust Allspring Income Plus ETF,P,AINP,Y,100.0,N,AINP
@@ -810,6 +811,7 @@ BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock","BrightSpire Capital, Inc. Class A Common Stock",N,BRSP,N,100.0,N,BRSP
 BRT,BRT Apartments Corp. (MD) Common Stock,BRT Apartments Corp. (MD) Common Stock,N,BRT,N,100.0,N,BRT
 BRW,Saba Capital Income & Opportunities Fund SBI,Saba Capital Income & Opportunities Fund SBI,N,BRW,N,100.0,N,BRW
+BRW.V,"Saba Capital Income & Opportunities Fund Rights (expiring October 28, 2025) Rights when issued","Saba Capital Income & Opportunities Fund Rights (expiring October 28, 2025) Rights when issued",N,BRWrw,N,100.0,N,BRW^#
 BRX,Brixmor Property Group Inc. Common Stock,Brixmor Property Group Inc. Common Stock,N,BRX,N,100.0,N,BRX
 BRZU,Direxion Daily Brazil Bull 2X Shares,Direxion Daily Brazil Bull 2X Shares,P,BRZU,Y,100.0,N,BRZU
 BSAC,Banco Santander ,Banco Santander - Chile ADS,N,BSAC,N,100.0,N,BSAC
@@ -3776,6 +3778,7 @@ MCRP,Micropolis Holding Company Ordinary Shares,Micropolis Holding Company Ordin
 MCS,Marcus Corporation (The) Common Stock,Marcus Corporation (The) Common Stock,N,MCS,N,100.0,N,MCS
 MCY,Mercury General Corporation Common Stock,Mercury General Corporation Common Stock,N,MCY,N,100.0,N,MCY
 MD,"Pediatrix Medical Group, Inc. Common Stock","Pediatrix Medical Group, Inc. Common Stock",N,MD,N,100.0,N,MD
+MDAA,Series Portfolios Trust Myriad Dynamic Asset Allocation ETF,Series Portfolios Trust Myriad Dynamic Asset Allocation ETF,P,MDAA,Y,100.0,N,MDAA
 MDBX,Tradr 2X Long MDB Daily ETF,Tradr 2X Long MDB Daily ETF,Z,MDBX,Y,100.0,N,MDBX
 MDEV,First Trust Indxx Medical Devices ETF,First Trust Indxx Medical Devices ETF,Z,MDEV,Y,100.0,N,MDEV
 MDLV,EA Series Trust Morgan Dempsey Large Cap Value ETF,EA Series Trust Morgan Dempsey Large Cap Value ETF,Z,MDLV,Y,100.0,N,MDLV
