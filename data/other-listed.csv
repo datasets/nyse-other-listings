@@ -251,7 +251,6 @@ AN,"AutoNation, Inc. Common Stock","AutoNation, Inc. Common Stock",N,AN,N,100.0,
 ANET,"Arista Networks, Inc. Common Stock","Arista Networks, Inc. Common Stock",N,ANET,N,100.0,N,ANET
 ANEW,ProShares MSCI Transformational Changes ETF,ProShares MSCI Transformational Changes ETF,P,ANEW,Y,100.0,N,ANEW
 ANF,Abercrombie & Fitch Company Common Stock,Abercrombie & Fitch Company Common Stock,N,ANF,N,100.0,N,ANF
-ANG$B,"American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed","American National Group Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.625% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",N,ANGpB,N,100.0,N,ANG-B
 ANG$D,"American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed","American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D",N,ANGpD,N,100.0,N,ANG-D
 ANGX,"Angel Studios, Inc. Class A Common Stock","Angel Studios, Inc. Class A Common Stock",N,ANGX,N,100.0,N,ANGX
 ANRO,"Alto Neuroscience, Inc. Common Stock","Alto Neuroscience, Inc. Common Stock",N,ANRO,N,100.0,N,ANRO
@@ -922,6 +921,7 @@ CAIE,Calamos ETF Trust Calamos Autocallable Income ETF,Calamos ETF Trust Calamos
 CAL,"Caleres, Inc. Common Stock","Caleres, Inc. Common Stock",N,CAL,N,100.0,N,CAL
 CALF,Pacer US Small Cap Cash Cows ETF,Pacer US Small Cap Cash Cows ETF,Z,CALF,Y,100.0,N,CALF
 CALX,"Calix, Inc Common Stock","Calix, Inc Common Stock",N,CALX,N,100.0,N,CALX
+CAM,"AB Active ETFs, Inc. AB California Intermediate Municipal ETF","AB Active ETFs, Inc. AB California Intermediate Municipal ETF",P,CAM,Y,100.0,N,CAM
 CAML,Professionally Managed Portfolios Congress Large Cap Growth ETF,Professionally Managed Portfolios Congress Large Cap Growth ETF,P,CAML,Y,100.0,N,CAML
 CAMX,The Advisors Inner Circle Fund Cambiar Aggressive Value ETF,The Advisors Inner Circle Fund Cambiar Aggressive Value ETF,P,CAMX,Y,100.0,N,CAMX
 CANE,Teucrium Sugar Fund ETV,Teucrium Sugar Fund ETV,P,CANE,Y,100.0,N,CANE
@@ -1807,6 +1807,7 @@ ELS,"Equity Lifestyle Properties, Inc. Common Stock","Equity Lifestyle Propertie
 ELV,"Elevance Health, Inc. Common Stock","Elevance Health, Inc. Common Stock",N,ELV,N,100.0,N,ELV
 EMA,Emera Incorporated Common Shares,Emera Incorporated Common Shares,N,EMA,N,100.0,N,EMA
 EMBD,Global X Emerging Markets Bond ETF,Global X Emerging Markets Bond ETF,P,EMBD,Y,100.0,N,EMBD
+EMBX,VanEck Funds VanEck Emerging Markets Bond ETF,VanEck Funds VanEck Emerging Markets Bond ETF,P,EMBX,Y,100.0,N,EMBX
 EMC,Global X Funds Global X Emerging Markets Great Consumer ETF,Global X Funds Global X Emerging Markets Great Consumer ETF,P,EMC,Y,100.0,N,EMC
 EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,P,EMCR,Y,100.0,N,EMCR
 EMCS,Xtrackers MSCI Emerging Markets Climate Selection ETF,Xtrackers MSCI Emerging Markets Climate Selection ETF,P,EMCS,Y,100.0,N,EMCS
@@ -2527,6 +2528,7 @@ GLD,SPDR Gold Trust,SPDR Gold Trust,P,GLD,Y,100.0,N,GLD
 GLDG,GoldMining Inc. Common Shares,GoldMining Inc. Common Shares,A,GLDG,N,100.0,N,GLDG
 GLDM,SPDR Gold MiniShares Trust,SPDR Gold MiniShares Trust,P,GLDM,Y,100.0,N,GLDM
 GLIN,VanEck India Growth Leaders ETF,VanEck India Growth Leaders ETF,P,GLIN,Y,100.0,N,GLIN
+GLIX,Lazard Active ETF Trust Lazard Listed Infrastructure ETF,Lazard Active ETF Trust Lazard Listed Infrastructure ETF,P,GLIX,Y,100.0,N,GLIX
 GLL,ProShares UltraShort Gold,ProShares UltraShort Gold,P,GLL,Y,100.0,N,GLL
 GLO,Clough Global Opportunities Fund Common Stock,Clough Global Opportunities Fund Common Stock,A,GLO,N,100.0,N,GLO
 GLOB,Globant S.A. Common Shares,Globant S.A. Common Shares,N,GLOB,N,100.0,N,GLOB
@@ -3280,7 +3282,6 @@ JCHI,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active
 JCI,Johnson Controls International plc Ordinary Share,Johnson Controls International plc Ordinary Share,N,JCI,N,100.0,N,JCI
 JCPB,JPMorgan Core Plus Bond ETF,JPMorgan Core Plus Bond ETF,Z,JCPB,Y,100.0,N,JCPB
 JCPI,J P MORGAN EXCHANGE,J P MORGAN EXCHANGE-TRADED FD TR JPMorgan Inflation Managed Bond ETF,Z,JCPI,Y,100.0,N,JCPI
-JCTR,JPMorgan Carbon Transition U.S. Equity ETF,JPMorgan Carbon Transition U.S. Equity ETF,P,JCTR,Y,100.0,N,JCTR
 JDIV,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Dividend Leaders ETF,P,JDIV,Y,100.0,N,JDIV
 JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,Direxion Daily Junior Gold Miners Index Bear 2X Shares,P,JDST,Y,100.0,N,JDST
 JDVI,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock Disciplined Value International Select ETF,P,JDVI,Y,100.0,N,JDVI
@@ -5030,7 +5031,6 @@ RITM$D,Rithm Capital Corp. 7.00% Fixed,Rithm Capital Corp. 7.00% Fixed-Rate Rese
 RITM$E,Rithm Capital Corp. 8.75% Series E Fixed,Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable Preferred Stock,N,RITMpE,N,100.0,N,RITM-E
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities Fund, Inc. Common Stock",N,RIV,N,100.0,N,RIV
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
-RIV.R,"RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights","RiverNorth Opportunities Fund, Inc. Rights (expiring October 6, 2025) Rights",N,RIVr,N,100.0,N,RIV^
 RJDI,Carillon Series Trust RJ Eagle GCM Dividend Select Income ETF,Carillon Series Trust RJ Eagle GCM Dividend Select Income ETF,P,RJDI,Y,100.0,N,RJDI
 RJF,"Raymond James Financial, Inc. Common Stock","Raymond James Financial, Inc. Common Stock",N,RJF,N,100.0,N,RJF
 RJF$B,"Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed","Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",N,RJFpB,N,100.0,N,RJF-B
@@ -5747,6 +5747,7 @@ TBXU,Direxion Shares ETF Trust Direxion Daily Biotech Top 5 Bull 2X ETF,Direxion
 TCAF,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Capital Appreciation Equity ETF",P,TCAF,Y,100.0,N,TCAF
 TCAI,Tortoise Capital Series Trust Tortoise AI Infrastructure ETF,Tortoise Capital Series Trust Tortoise AI Infrastructure ETF,N,TCAI,Y,100.0,N,TCAI
 TCAL,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Capital Appreciation Premium Income ETF",P,TCAL,Y,100.0,N,TCAL
+TCBX,"Third Coast Bancshares, Inc. Common Stock","Third Coast Bancshares, Inc. Common Stock",N,TCBX,N,100.0,N,TCBX
 TCHP,T. Rowe Price Blue Chip Growth ETF,T. Rowe Price Blue Chip Growth ETF,P,TCHP,Y,100.0,N,TCHP
 TCI,"Transcontinental Realty Investors, Inc. Common Stock","Transcontinental Realty Investors, Inc. Common Stock",N,TCI,N,100.0,N,TCI
 TCPB,Thrivent ETF Trust Thrivent Core Plus Bond ETF,Thrivent ETF Trust Thrivent Core Plus Bond ETF,P,TCPB,Y,100.0,N,TCPB
@@ -5780,7 +5781,6 @@ TEF,Telefonica SA Common Stock,Telefonica SA Common Stock,N,TEF,N,100.0,N,TEF
 TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock","Templeton Emerging Markets Income Fund, Inc. Common Stock",N,TEI,N,100.0,N,TEI
 TEK,BlackRock ETF Trust iShares Technology Opportunities Active ETF,BlackRock ETF Trust iShares Technology Opportunities Active ETF,P,TEK,Y,100.0,N,TEK
 TEL,TE Connectivity plc Ordinary Shares,TE Connectivity plc Ordinary Shares,N,TEL,N,100.0,N,TEL
-TEMP,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Climate Change Solutions ETF,P,TEMP,Y,100.0,N,TEMP
 TEMT,Tradr 2X Long TEM Daily ETF,Tradr 2X Long TEM Daily ETF,Z,TEMT,Y,100.0,N,TEMT
 TEMX,Touchstone ETF Trust Touchstone Sands Capital Emerging Markets ex,Touchstone ETF Trust Touchstone Sands Capital Emerging Markets ex-China Growth ETF,Z,TEMX,Y,100.0,N,TEMX
 TEN,Tsakos Energy Navigation Ltd Common Shares,Tsakos Energy Navigation Ltd Common Shares,N,TEN,N,100.0,N,TEN
@@ -5926,11 +5926,9 @@ TPC,Tutor Perini Corporation Common Stock,Tutor Perini Corporation Common Stock,
 TPET,Trio Petroleum Corp. Common Stock,Trio Petroleum Corp. Common Stock,A,TPET,N,100.0,N,TPET
 TPH,"Tri Pointe Homes, Inc. Common Stock","Tri Pointe Homes, Inc. Common Stock",N,TPH,N,100.0,N,TPH
 TPHD,Timothy Plan High Dividend Stock ETF,Timothy Plan High Dividend Stock ETF,P,TPHD,Y,100.0,N,TPHD
-TPHE,Timothy Plan High Dividend Stock Enhanced ETF,Timothy Plan High Dividend Stock Enhanced ETF,P,TPHE,Y,100.0,N,TPHE
 TPIF,Timothy Plan International ETF,Timothy Plan International ETF,P,TPIF,Y,100.0,N,TPIF
 TPL,Texas Pacific Land Corporation Common Stock,Texas Pacific Land Corporation Common Stock,N,TPL,N,100.0,N,TPL
 TPLC,Timothy Plan US Large/Mid Cap Core ETF,Timothy Plan US Large/Mid Cap Core ETF,P,TPLC,Y,100.0,N,TPLC
-TPLE,Timothy Plan US Large/Mid Cap Core Enhanced ETF,Timothy Plan US Large/Mid Cap Core Enhanced ETF,P,TPLE,Y,100.0,N,TPLE
 TPOR,Direxion Daily Transportation Bull 3X Shares,Direxion Daily Transportation Bull 3X Shares,P,TPOR,Y,100.0,N,TPOR
 TPR,"Tapestry, Inc. Common Stock","Tapestry, Inc. Common Stock",N,TPR,N,100.0,N,TPR
 TPSC,Timothy Plan US Small Cap Core ETF,Timothy Plan US Small Cap Core ETF,P,TPSC,Y,100.0,N,TPSC
