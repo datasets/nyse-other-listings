@@ -436,7 +436,7 @@ BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock"
 BRT,BRT Apartments Corp. (MD) Common Stock
 BRW,Saba Capital Income & Opportunities Fund SBI
-BRW.V,"Saba Capital Income & Opportunities Fund Rights (expiring October 28, 2025) Rights when issued"
+BRW.R,"Saba Capital Income & Opportunities Fund Rights (expiring October 28, 2025) Rights"
 BRX,Brixmor Property Group Inc. Common Stock
 BSAC,Banco Santander 
 BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit"
@@ -1163,6 +1163,7 @@ GLP$B,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetu
 GLW,Corning Incorporated Common Stock
 GM,General Motors Company Common Stock
 GME,GameStop Corporation Common Stock
+GME.W,GameStop Corporation Warrants to Purchase Common Stock
 GMED,"Globus Medical, Inc. Class A Common Stock"
 GMRE,Global Medical REIT Inc. Common Stock
 GMRE$A,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock
@@ -2365,7 +2366,7 @@ SKT,Tanger Inc. Common Stock
 SKY,"Champion Homes, Inc. Common Stock"
 SKYH,Sky Harbour Group Corporation Class A Common Stock
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share"
-SLB,Schlumberger N.V. Common Stock
+SLB,SLB Limited Common Shares
 SLF,Sun Life Financial Inc. Common Stock
 SLG,SL Green Realty Corp Common Stock
 SLG$I,SL Green Realty Corporation Preferred Series I
