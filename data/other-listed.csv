@@ -187,6 +187,7 @@ ALC,Alcon Inc. Ordinary Shares,Alcon Inc. Ordinary Shares,N,ALC,N,100.0,N,ALC
 ALE,"Allete, Inc.","Allete, Inc.",N,ALE,N,100.0,N,ALE
 ALEX,"Alexander & Baldwin, Inc. Common Stock REIT Holding Company","Alexander & Baldwin, Inc. Common Stock REIT Holding Company",N,ALEX,N,100.0,N,ALEX
 ALG,"Alamo Group, Inc. Common Stock","Alamo Group, Inc. Common Stock",N,ALG,N,100.0,N,ALG
+ALH,Alliance Laundry Holdings Inc. Common Stock,Alliance Laundry Holdings Inc. Common Stock,N,ALH,N,100.0,N,ALH
 ALIT,"Alight, Inc. Class A Common Stock","Alight, Inc. Class A Common Stock",N,ALIT,N,100.0,N,ALIT
 ALK,"Alaska Air Group, Inc. Common Stock","Alaska Air Group, Inc. Common Stock",N,ALK,N,100.0,N,ALK
 ALL,Allstate Corporation (The) Common Stock,Allstate Corporation (The) Common Stock,N,ALL,N,100.0,N,ALL
@@ -1780,6 +1781,7 @@ EGY,"VAALCO Energy, Inc.  Common Stock","VAALCO Energy, Inc.  Common Stock",N,EG
 EHAB,"Enhabit, Inc. Common Stock","Enhabit, Inc. Common Stock",N,EHAB,N,100.0,N,EHAB
 EHC,Encompass Health Corporation Common Stock,Encompass Health Corporation Common Stock,N,EHC,N,100.0,N,EHC
 EHI,Western Asset Global High Income Fund Inc Common Stock,Western Asset Global High Income Fund Inc Common Stock,N,EHI,N,100.0,N,EHI
+EHY,Amplify ETF Trust Amplify Ethereum Max Income Covered Call ETF,Amplify ETF Trust Amplify Ethereum Max Income Covered Call ETF,Z,EHY,Y,100.0,N,EHY
 EIC,Eagle Point Income Company Inc. Common Stock,Eagle Point Income Company Inc. Common Stock,N,EIC,N,100.0,N,EIC
 EICA,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,N,EICA,N,100.0,N,EICA
 EICB,Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028,Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028,N,EICB,N,100.0,N,EICB
@@ -1956,6 +1958,7 @@ ETN,"Eaton Corporation, PLC Ordinary Shares","Eaton Corporation, PLC Ordinary Sh
 ETO,Eaton Vance Tax,Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,N,ETO,N,100.0,N,ETO
 ETQ,T,T-Rex 2X Inverse Ether Daily Target ETF,Z,ETQ,Y,100.0,N,ETQ
 ETR,Entergy Corporation Common Stock,Entergy Corporation Common Stock,N,ETR,N,100.0,N,ETR
+ETTY,Amplify ETF Trust Amplify Ethereum 3% Monthly Option Income ETF,Amplify ETF Trust Amplify Ethereum 3% Monthly Option Income ETF,Z,ETTY,Y,100.0,N,ETTY
 ETU,T,T-Rex 2X Long Ether Daily Target ETF,Z,ETU,Y,100.0,N,ETU
 ETV,Eaton Vance Corporation Eaton Vance Tax,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,N,ETV,N,100.0,N,ETV
 ETW,Eaton Vance Corporation Eaton Vance Tax,Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest,N,ETW,N,100.0,N,ETW
@@ -4835,6 +4838,7 @@ PWV,Invesco Large Cap Value ETF,Invesco Large Cap Value ETF,P,PWV,Y,100.0,N,PWV
 PWZ,Invesco California AMT,Invesco California AMT-Free Municipal Bond Portfolio,P,PWZ,Y,100.0,N,PWZ
 PX,"P10, Inc. Class A Common Stock","P10, Inc. Class A Common Stock",N,PX,N,100.0,N,PX
 PXE,Invesco Energy Exploration & Production ETF,Invesco Energy Exploration & Production ETF,P,PXE,Y,100.0,N,PXE
+PXED,"Phoenix Education Partners, Inc. Common Stock","Phoenix Education Partners, Inc. Common Stock",N,PXED,N,100.0,N,PXED
 PXF,Invesco RAFI Developed Markets ex,Invesco RAFI Developed Markets ex-U.S. ETF,P,PXF,Y,100.0,N,PXF
 PXH,Invesco RAFI Emerging Markets ETF,Invesco RAFI Emerging Markets ETF,P,PXH,Y,100.0,N,PXH
 PXIU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long UPXI Daily Target ETF,Z,PXIU,Y,100.0,N,PXIU
@@ -6453,6 +6457,7 @@ WPAY,Roundhill ETF Trust Roundhill WeeklyPay Universe ETF,Roundhill ETF Trust Ro
 WPC,W. P. Carey Inc. REIT,W. P. Carey Inc. REIT,N,WPC,N,100.0,N,WPC
 WPM,Wheaton Precious Metals Corp Common Shares (Canada),Wheaton Precious Metals Corp Common Shares (Canada),N,WPM,N,100.0,N,WPM
 WPP,WPP plc American Depositary Shares,WPP plc American Depositary Shares,N,WPP,N,100.0,N,WPP
+WQTM,WisdomTree Trust WisdomTree Quantum Computing Fund,WisdomTree Trust WisdomTree Quantum Computing Fund,Z,WQTM,Y,100.0,N,WQTM
 WRB,W.R. Berkley Corporation Common Stock,W.R. Berkley Corporation Common Stock,N,WRB,N,100.0,N,WRB
 WRB$E,W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058,W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058,N,WRBpE,N,100.0,N,WRB-E
 WRB$F,W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059,W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059,N,WRBpF,N,100.0,N,WRB-F
