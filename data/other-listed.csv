@@ -724,7 +724,7 @@ BLGR,Exchange Traded Concepts Trust Bluemonte Large Cap Growth ETF,Exchange Trad
 BLK,"BlackRock, Inc. Common Stock","BlackRock, Inc. Common Stock",N,BLK,N,100.0,N,BLK
 BLKC,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF,Z,BLKC,Y,100.0,N,BLKC
 BLND,"Blend Labs, Inc. Class A Common Stock","Blend Labs, Inc. Class A Common Stock",N,BLND,N,100.0,N,BLND
-BLOK,Amplify Transformational Data Sharing ETF,Amplify Transformational Data Sharing ETF,P,BLOK,Y,100.0,N,BLOK
+BLOK,Amplify Blockchain Technology ETF,Amplify Blockchain Technology ETF,P,BLOK,Y,100.0,N,BLOK
 BLOX,Tidal Trust II Nicholas Crypto Income ETF,Tidal Trust II Nicholas Crypto Income ETF,P,BLOX,Y,100.0,N,BLOX
 BLSH,Bullish Ordinary Shares,Bullish Ordinary Shares,N,BLSH,N,100.0,N,BLSH
 BLST,Exchange Traded Concepts Trust Bluemonte Short Term Bond ETF,Exchange Traded Concepts Trust Bluemonte Short Term Bond ETF,P,BLST,Y,100.0,N,BLST
@@ -1957,6 +1957,7 @@ ETN,"Eaton Corporation, PLC Ordinary Shares","Eaton Corporation, PLC Ordinary Sh
 ETO,Eaton Vance Tax,Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,N,ETO,N,100.0,N,ETO
 ETQ,T,T-Rex 2X Inverse Ether Daily Target ETF,Z,ETQ,Y,100.0,N,ETQ
 ETR,Entergy Corporation Common Stock,Entergy Corporation Common Stock,N,ETR,N,100.0,N,ETR
+ETSY,"Etsy, Inc. Common Stock","Etsy, Inc. Common Stock",N,ETSY,N,100.0,N,ETSY
 ETTY,Amplify ETF Trust Amplify Ethereum 3% Monthly Option Income ETF,Amplify ETF Trust Amplify Ethereum 3% Monthly Option Income ETF,Z,ETTY,Y,100.0,N,ETTY
 ETU,T,T-Rex 2X Long Ether Daily Target ETF,Z,ETU,Y,100.0,N,ETU
 ETV,Eaton Vance Corporation Eaton Vance Tax,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,N,ETV,N,100.0,N,ETV
@@ -2753,6 +2754,7 @@ HDV,iShares Core High Dividend ETF,iShares Core High Dividend ETF,P,HDV,Y,100.0,
 HE,"Hawaiian Electric Industries, Inc. Common Stock","Hawaiian Electric Industries, Inc. Common Stock",N,HE,N,100.0,N,HE
 HEAT,Touchstone ETF Trust Touchstone Climate Transition ETF,Touchstone ETF Trust Touchstone Climate Transition ETF,Z,HEAT,Y,100.0,N,HEAT
 HECA,ETF Opportunities Trust Hedgeye Capital Allocation ETF,ETF Opportunities Trust Hedgeye Capital Allocation ETF,P,HECA,Y,100.0,N,HECA
+HEDG,Series Portfolios Trust Equable Shares Hedged Equity ETF,Series Portfolios Trust Equable Shares Hedged Equity ETF,P,HEDG,Y,100.0,N,HEDG
 HEDJ,WisdomTree Europe Hedged Equity Fund,WisdomTree Europe Hedged Equity Fund,P,HEDJ,Y,100.0,N,HEDJ
 HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,iShares Currency Hedged MSCI Emerging Markets ETF,Z,HEEM,Y,100.0,N,HEEM
 HEFA,iShares Currency Hedged MSCI EAFE ETF,iShares Currency Hedged MSCI EAFE ETF,Z,HEFA,Y,100.0,N,HEFA
@@ -3304,7 +3306,6 @@ JENA,Jena Acquisition Corporation II Class A Ordinary Shares,Jena Acquisition Co
 JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one","Jena Acquisition Corporation II Rights, each right to acquire one-twentieth (1/20) of one Class A ordinary share",N,JENAr,N,100.0,N,JENA^
 JENA.U,"Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right","Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right",N,JENA.U,N,100.0,N,JENA=
 JEPI,JPMorgan Equity Premium Income ETF,JPMorgan Equity Premium Income ETF,P,JEPI,Y,100.0,N,JEPI
-JEQ,"abrdn Japan Equity Fund, Inc. Common Stock","abrdn Japan Equity Fund, Inc. Common Stock",N,JEQ,N,100.0,N,JEQ
 JETD,Bank Of Montreal MAX Airlines ,Bank Of Montreal MAX Airlines -3X Inverse Leveraged ETNs,P,JETD,Y,100.0,N,JETD
 JETS,U.S. Global Jets ETF,U.S. Global Jets ETF,P,JETS,Y,100.0,N,JETS
 JETU,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,Bank Of Montreal MAX Airlines 3X Leveraged ETNs,P,JETU,Y,100.0,N,JETU
@@ -4010,7 +4011,6 @@ MSTY,Tidal Trust II YieldMax MSTR Option Income Strategy ETF,Tidal Trust II Yiel
 MSTZ,ETF Opportunities Trust T,ETF Opportunities Trust T-Rex 2X Inverse MSTR Daily Target ETF,Z,MSTZ,Y,100.0,N,MSTZ
 MT,Arcelor Mittal NY Registry Shares NEW,Arcelor Mittal NY Registry Shares NEW,N,MT,N,100.0,N,MT
 MTA,Metalla Royalty & Streaming Ltd. Common Shares,Metalla Royalty & Streaming Ltd. Common Shares,A,MTA,N,100.0,N,MTA
-MTAL,MAC Copper Limited Ordinary Shares,MAC Copper Limited Ordinary Shares,N,MTAL,N,100.0,N,MTAL
 MTB,M&T Bank Corporation Common Stock,M&T Bank Corporation Common Stock,N,MTB,N,100.0,N,MTB
 MTB$H,M&T Bank Corporation Perpetual Fixed,"M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H",N,MTBpH,N,100.0,N,MTB-H
 MTB$J,M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J",N,MTBpJ,N,100.0,N,MTB-J
@@ -4613,7 +4613,6 @@ PGX,Invesco Preferred ETF,Invesco Preferred ETF,P,PGX,Y,100.0,N,PGX
 PGZ,Principal Real Estate Income Fund Common Shares of Beneficial Interest,Principal Real Estate Income Fund Common Shares of Beneficial Interest,N,PGZ,N,100.0,N,PGZ
 PH,Parker,Parker-Hannifin Corporation Common Stock,N,PH,N,100.0,N,PH
 PHB,Invesco Fundamental High Yield Corporate Bond ETF,Invesco Fundamental High Yield Corporate Bond ETF,P,PHB,Y,100.0,N,PHB
-PHD,"Pioneer Floating Rate Fund, Inc.","Pioneer Floating Rate Fund, Inc.",N,PHD,N,100.0,N,PHD
 PHDG,Invesco S&P 500 Downside Hedged ETF,Invesco S&P 500 Downside Hedged ETF,P,PHDG,Y,100.0,N,PHDG
 PHEQ,Morgan Stanley ETF Trust Parametric Hedged Equity ETF,Morgan Stanley ETF Trust Parametric Hedged Equity ETF,P,PHEQ,Y,100.0,N,PHEQ
 PHG,Koninklijke Philips N.V. NY Registry Shares,Koninklijke Philips N.V. NY Registry Shares,N,PHG,N,100.0,N,PHG
@@ -5854,7 +5853,7 @@ THTA,SoFi Enhanced Yield ETF,SoFi Enhanced Yield ETF,P,THTA,Y,100.0,N,THTA
 THW,abrdn World Healthcare Fund Shares of Beneficial Interest,abrdn World Healthcare Fund Shares of Beneficial Interest,N,THW,N,100.0,N,THW
 THY,Toews Agility Shares Dynamic Tactical Income ETF,Toews Agility Shares Dynamic Tactical Income ETF,P,THY,Y,100.0,N,THY
 THYF,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price U.S. High Yield ETF",P,THYF,Y,100.0,N,THYF
-TIC,Acuren Corporation Common Stock,Acuren Corporation Common Stock,N,TIC,N,100.0,N,TIC
+TIC,"TIC Solutions, Inc. Common Stock","TIC Solutions, Inc. Common Stock",N,TIC,N,100.0,N,TIC
 TIER,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price International Equity Research ETF",P,TIER,Y,100.0,N,TIER
 TIIV,ETF Series Solutions AAM Todd International Intrinsic Value ETF,ETF Series Solutions AAM Todd International Intrinsic Value ETF,P,TIIV,Y,100.0,N,TIIV
 TILL,Listed Funds Trust Teucrium Agricultural Strategy No K,Listed Funds Trust Teucrium Agricultural Strategy No K-1 ETF,P,TILL,Y,100.0,N,TILL
@@ -6668,7 +6667,7 @@ YSG,"Yatsen Holding Limited American Depositary Shares, each representing twenty
 YUM,"Yum! Brands, Inc.","Yum! Brands, Inc.",N,YUM,N,100.0,N,YUM
 YUMC,"Yum China Holdings, Inc. Common Stock","Yum China Holdings, Inc. Common Stock",N,YUMC,N,100.0,N,YUMC
 YXI,ProShares Short FTSE China 50,ProShares Short FTSE China 50,P,YXI,Y,100.0,N,YXI
-YYY,Amplify High Income ETF,Amplify High Income ETF,P,YYY,Y,100.0,N,YYY
+YYY,Amplify CEF High Income ETF,Amplify CEF High Income ETF,P,YYY,Y,100.0,N,YYY
 ZALT,Innovator ETFs Trust Innovator U.S. Equity 10 Buffer ETF ,Innovator ETFs Trust Innovator U.S. Equity 10 Buffer ETF - Quarterly,Z,ZALT,Y,100.0,N,ZALT
 ZAPR,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr April,Z,ZAPR,Y,100.0,N,ZAPR
 ZAUG,Innovator ETFs Trust Innovator Equity Defined Protection ETF ,Innovator ETFs Trust Innovator Equity Defined Protection ETF - 1 Yr August,Z,ZAUG,Y,100.0,N,ZAUG
