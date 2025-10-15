@@ -284,6 +284,7 @@ APO,"Apollo Global Management, Inc. (New) Common Stock","Apollo Global Managemen
 APO$A,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock","Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",N,APOpA,N,100.0,N,APO-A
 APOC,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 6mo Apr/Oct,Z,APOC,Y,100.0,N,APOC
 APOS,"Apollo Global Management, Inc. 7.625% Fixed","Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",N,APOS,N,100.0,N,APOS
+APRB,ETF Series Solutions Aptus April Buffer ETF,ETF Series Solutions Aptus April Buffer ETF,Z,APRB,Y,100.0,N,APRB
 APRH,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - April,Z,APRH,Y,100.0,N,APRH
 APRJ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - April,Z,APRJ,Y,100.0,N,APRJ
 APRP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - April,Z,APRP,Y,100.0,N,APRP
@@ -514,6 +515,7 @@ BBBI,BondBloxx ETF Trust BondBloxx BBB Rated 5,BondBloxx ETF Trust BondBloxx BBB
 BBBL,BondBloxx ETF Trust BondBloxx BBB Rated 10+ Year Corporate Bond ETF,BondBloxx ETF Trust BondBloxx BBB Rated 10+ Year Corporate Bond ETF,P,BBBL,Y,100.0,N,BBBL
 BBBS,BondBloxx ETF Trust BondBloxx BBB Rated 1,BondBloxx ETF Trust BondBloxx BBB Rated 1-5 Year Corporate Bond ETF,P,BBBS,Y,100.0,N,BBBS
 BBBY,"Bed Bath & Beyond, Inc. Common Stock","Bed Bath & Beyond, Inc. Common Stock",N,BBBY,N,100.0,N,BBBY
+BBBY.W,"Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock","Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock",N,BBBY.WS,N,100.0,N,BBBY+
 BBC,Virtus LifeSci Biotech Clinical Trials ETF,Virtus LifeSci Biotech Clinical Trials ETF,P,BBC,Y,100.0,N,BBC
 BBCA,JPMorgan BetaBuilders Canada ETF ,JPMorgan BetaBuilders Canada ETF ,Z,BBCA,Y,100.0,N,BBCA
 BBCB,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,P,BBCB,Y,100.0,N,BBCB
@@ -952,6 +954,7 @@ CBNA,"Chain Bridge Bancorp, Inc. Class A Common Stock","Chain Bridge Bancorp, In
 CBOA,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - April,Z,CBOA,Y,100.0,N,CBOA
 CBOE,"Cboe Global Markets, Inc. Common Stock","Cboe Global Markets, Inc. Common Stock",Z,CBOE,N,100.0,N,CBOE
 CBOJ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - January,Z,CBOJ,Y,100.0,N,CBOJ
+CBOL,Calamos ETF Trust Calamos Laddered Bitcoin Structured Alt Protection ETF,Calamos ETF Trust Calamos Laddered Bitcoin Structured Alt Protection ETF,Z,CBOL,Y,100.0,N,CBOL
 CBON,VanEck China Bond ETF,VanEck China Bond ETF,P,CBON,Y,100.0,N,CBON
 CBOO,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - October,Z,CBOO,Y,100.0,N,CBOO
 CBOY,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin Structured Alt Protection ETF - July,Z,CBOY,Y,100.0,N,CBOY
@@ -960,11 +963,13 @@ CBSE,Elevation Series Trust Clough Select Equity ETF,Elevation Series Trust Clou
 CBT,Cabot Corporation Common Stock,Cabot Corporation Common Stock,N,CBT,N,100.0,N,CBT
 CBTA,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - April,Z,CBTA,Y,100.0,N,CBTA
 CBTJ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - January,Z,CBTJ,Y,100.0,N,CBTJ
+CBTL,Calamos ETF Trust Calamos Laddered Bitcoin 80 Series Structured Alt Protection ETF,Calamos ETF Trust Calamos Laddered Bitcoin 80 Series Structured Alt Protection ETF,Z,CBTL,Y,100.0,N,CBTL
 CBTO,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - October,Z,CBTO,Y,100.0,N,CBTO
 CBTY,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 80 Series Structured Alt Protection ETF - July,Z,CBTY,Y,100.0,N,CBTY
 CBU,"Community Financial System, Inc. Common Stock","Community Financial System, Inc. Common Stock",N,CBU,N,100.0,N,CBU
 CBXA,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - April,Z,CBXA,Y,100.0,N,CBXA
 CBXJ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - January,Z,CBXJ,Y,100.0,N,CBXJ
+CBXL,Calamos ETF Trust Calamos Laddered Bitcoin 90 Series Structured Alt Protection ETF,Calamos ETF Trust Calamos Laddered Bitcoin 90 Series Structured Alt Protection ETF,Z,CBXL,Y,100.0,N,CBXL
 CBXO,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - October,Z,CBXO,Y,100.0,N,CBXO
 CBXY,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF ,Calamos ETF Trust Calamos Bitcoin 90 Series Structured Alt Protection ETF - July,Z,CBXY,Y,100.0,N,CBXY
 CBZ,"CBIZ, Inc. Common Stock","CBIZ, Inc. Common Stock",N,CBZ,N,100.0,N,CBZ
@@ -1847,7 +1852,6 @@ EMTY,ProShares Decline of the Retail Store ETF,ProShares Decline of the Retail S
 EMX,EMX Royalty Corporation Common Shares (Canada),EMX Royalty Corporation Common Shares (Canada),A,EMX,N,100.0,N,EMX
 ENB,Enbridge Inc Common Stock,Enbridge Inc Common Stock,N,ENB,N,100.0,N,ENB
 ENFR,Alerian Energy Infrastructure ETF,Alerian Energy Infrastructure ETF,P,ENFR,Y,100.0,N,ENFR
-ENFY,Enlightify Inc. Common Stock,Enlightify Inc. Common Stock,N,ENFY,N,100.0,N,ENFY
 ENIC,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),N,ENIC,N,100.0,N,ENIC
 ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052","Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052",N,ENJ,N,100.0,N,ENJ
 ENO,"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066","Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",N,ENO,N,100.0,N,ENO
@@ -2570,6 +2574,7 @@ GMF,SPDR S&P Emerging Asia Pacific ETF,SPDR S&P Emerging Asia Pacific ETF,P,GMF,
 GMMA,Tidal Trust III GammaRoad Market Navigation ETF,Tidal Trust III GammaRoad Market Navigation ETF,P,GMMA,Y,100.0,N,GMMA
 GMMF,BlackRock ETF Trust iShares Government Money Market ETF,BlackRock ETF Trust iShares Government Money Market ETF,P,GMMF,Y,100.0,N,GMMF
 GMNY,Goldman Sachs ETF Trust Goldman Sachs Dynamic New York Municipal Income ETF,Goldman Sachs ETF Trust Goldman Sachs Dynamic New York Municipal Income ETF,P,GMNY,Y,100.0,N,GMNY
+GMOD,The 2023 ETF Series Trust II GMO Dynamic Allocation ETF,The 2023 ETF Series Trust II GMO Dynamic Allocation ETF,P,GMOD,Y,100.0,N,GMOD
 GMOI,The 2023 ETF Series Trust II GMO International Value ETF,The 2023 ETF Series Trust II GMO International Value ETF,P,GMOI,Y,100.0,N,GMOI
 GMOM,Cambria Global Momentum ETF,Cambria Global Momentum ETF,Z,GMOM,Y,100.0,N,GMOM
 GMOV,The 2023 ETF Series Trust II GMO US Value ETF,The 2023 ETF Series Trust II GMO US Value ETF,P,GMOV,Y,100.0,N,GMOV
@@ -3271,6 +3276,7 @@ JACS.R,"Jackson Acquisition Company II Rights, each right to acquire one","Jacks
 JACS.U,"Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one","Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one-tenth (1/10) of one Class A ordinary share",N,JACS.U,N,100.0,N,JACS=
 JADE,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Developing Markets Equity ETF,P,JADE,Y,100.0,N,JADE
 JAJL,SHL Telemedicine Ltd Innovator Equity Defined Protection ETF ,SHL Telemedicine Ltd Innovator Equity Defined Protection ETF - 6mo Jan/Jul,Z,JAJL,Y,100.0,N,JAJL
+JANB,ETF Series Solutions Aptus January Buffer ETF,ETF Series Solutions Aptus January Buffer ETF,Z,JANB,Y,100.0,N,JANB
 JANH,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - January,Z,JANH,Y,100.0,N,JANH
 JANJ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - January,Z,JANJ,Y,100.0,N,JANJ
 JANM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - January,Z,JANM,Y,100.0,N,JANM
@@ -3399,6 +3405,7 @@ JSCP,JPMorgan Short Duration Core Plus ETF,JPMorgan Short Duration Core Plus ETF
 JSI,Janus Detroit Street Trust Janus Henderson Securitized Income ETF,Janus Detroit Street Trust Janus Henderson Securitized Income ETF,P,JSI,Y,100.0,N,JSI
 JSTC,Adasina Social Justice All Cap Global ETF,Adasina Social Justice All Cap Global ETF,P,JSTC,Y,100.0,N,JSTC
 JUCY,ETF Series Solutions Aptus Enhanced Yield ETF,ETF Series Solutions Aptus Enhanced Yield ETF,Z,JUCY,Y,100.0,N,JUCY
+JULB,ETF Series Solutions Aptus July Buffer ETF,ETF Series Solutions Aptus July Buffer ETF,Z,JULB,Y,100.0,N,JULB
 JULH,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - July,Z,JULH,Y,100.0,N,JULH
 JULJ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - July,Z,JULJ,Y,100.0,N,JULJ
 JULM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - July,Z,JULM,Y,100.0,N,JULM
@@ -4140,7 +4147,7 @@ NEMD,Neuberger Berman ETF Trust Neuberger Berman Emerging Markets Debt Hard Curr
 NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,A,NEN,N,100.0,N,NEN
 NERD,Roundhill Video Games ETF,Roundhill Video Games ETF,Z,NERD,Y,100.0,N,NERD
 NET,"Cloudflare, Inc. Class A Common Stock","Cloudflare, Inc. Class A Common Stock",N,NET,N,100.0,N,NET
-NETL,NETLease Corporate Real Estate ETF,NETLease Corporate Real Estate ETF,P,NETL,Y,100.0,N,NETL
+NETL,Colterpoint Net Lease Real Estate ETF,Colterpoint Net Lease Real Estate ETF,P,NETL,Y,100.0,N,NETL
 NETX,Investment Managers Series Trust II Tradr 2X Long NET Daily ETF,Investment Managers Series Trust II Tradr 2X Long NET Daily ETF,Z,NETX,Y,100.0,N,NETX
 NEU,NewMarket Corp Common Stock,NewMarket Corp Common Stock,N,NEU,N,100.0,N,NEU
 NEWP,New Pacific Metals Corp. Common Shares,New Pacific Metals Corp. Common Shares,A,NEWP,N,100.0,N,NEWP
@@ -4358,6 +4365,7 @@ OC,Owens Corning Inc Common Stock New,Owens Corning Inc Common Stock New,N,OC,N,
 OCFS,Professionally Managed Portfolios Otter Creek Focus Strategy ETF,Professionally Managed Portfolios Otter Creek Focus Strategy ETF,P,OCFS,Y,100.0,N,OCFS
 OCFT,"OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares","OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares",N,OCFT,N,100.0,N,OCFT
 OCIO,ClearShares OCIO ETF,ClearShares OCIO ETF,P,OCIO,Y,100.0,N,OCIO
+OCTB,ETF Series Solutions Aptus October Buffer ETF,ETF Series Solutions Aptus October Buffer ETF,Z,OCTB,Y,100.0,N,OCTB
 OCTH,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF - October,Z,OCTH,Y,100.0,N,OCTH
 OCTJ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF ,Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF - October,Z,OCTJ,Y,100.0,N,OCTJ
 OCTM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - October,Z,OCTM,Y,100.0,N,OCTM
@@ -4820,7 +4828,6 @@ PULS,PGIM Ultra Short Bond ETF,PGIM Ultra Short Bond ETF,P,PULS,Y,100.0,N,PULS
 PULT,Putnam ETF Trust Putnam ESG Ultra Short ETF,Putnam ETF Trust Putnam ESG Ultra Short ETF,P,PULT,Y,100.0,N,PULT
 PUMP,ProPetro Holding Corp. Common Stock,ProPetro Holding Corp. Common Stock,N,PUMP,N,100.0,N,PUMP
 PUSH,PGIM ETF Trust PGIM Ultra Short Municipal Bond ETF,PGIM ETF Trust PGIM Ultra Short Municipal Bond ETF,P,PUSH,Y,100.0,N,PUSH
-PUTD,Cboe Validus S&P 500 Dynamic PutWrite Index ETF,Cboe Validus S&P 500 Dynamic PutWrite Index ETF,Z,PUTD,Y,100.0,N,PUTD
 PVAL,Putnam Focused Large Cap Value ETF,Putnam Focused Large Cap Value ETF,P,PVAL,Y,100.0,N,PVAL
 PVEX,Elevation Series Trust TrueShares ConVex Protect ETF,Elevation Series Trust TrueShares ConVex Protect ETF,Z,PVEX,Y,100.0,N,PVEX
 PVH,PVH Corp. Common Stock,PVH Corp. Common Stock,N,PVH,N,100.0,N,PVH
