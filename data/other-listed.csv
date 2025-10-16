@@ -313,7 +313,6 @@ ARES,Ares Management Corporation Class A Common Stock,Ares Management Corporatio
 ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,N,ARESpB,N,100.0,N,ARES-B
 ARGT,Global X MSCI Argentina ETF,Global X MSCI Argentina ETF,P,ARGT,Y,100.0,N,ARGT
 ARI,"Apollo Commercial Real Estate Finance, Inc","Apollo Commercial Real Estate Finance, Inc",N,ARI,N,100.0,N,ARI
-ARIS,"Aris Water Solutions, Inc. Class A Common Stock","Aris Water Solutions, Inc. Class A Common Stock",N,ARIS,N,100.0,N,ARIS
 ARKB,ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests,ARK 21Shares Bitcoin ETF Common Shares of Beneficial Interests,Z,ARKB,Y,100.0,N,ARKB
 ARKF,ARK Fintech Innovation ETF,ARK Fintech Innovation ETF,Z,ARKF,Y,100.0,N,ARKF
 ARKG,ARK Genomic Revolution ETF,ARK Genomic Revolution ETF,Z,ARKG,Y,100.0,N,ARKG
@@ -1343,7 +1342,6 @@ CVRD,Madison ETFs Trust Madison Covered Call ETF,Madison ETFs Trust Madison Cove
 CVRT,Calamos ETF Trust Calamos Convertible Equity Alternative ETF,Calamos ETF Trust Calamos Convertible Equity Alternative ETF,P,CVRT,Y,100.0,N,CVRT
 CVS,CVS Health Corporation Common Stock,CVS Health Corporation Common Stock,N,CVS,N,100.0,N,CVS
 CVSB,Morgan Stanley ETF Trust Calvert Ultra,Morgan Stanley ETF Trust Calvert Ultra-Short Investment Grade ETF,P,CVSB,Y,100.0,N,CVSB
-CVSE,Morgan Stanley ETF Trust Calvert US Select Equity ETF,Morgan Stanley ETF Trust Calvert US Select Equity ETF,P,CVSE,Y,100.0,N,CVSE
 CVU,"CPI Aerostructures, Inc. Common Stock","CPI Aerostructures, Inc. Common Stock",A,CVU,N,100.0,N,CVU
 CVX,Chevron Corporation Common Stock,Chevron Corporation Common Stock,N,CVX,N,100.0,N,CVX
 CVY,Invesco Zacks Multi,Invesco Zacks Multi-Asset Income ETF,P,CVY,Y,100.0,N,CVY
@@ -4142,6 +4140,7 @@ NEE$N,"NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1,
 NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units","NextEra Energy, Inc. 7.299% Corporate Units",N,NEEpS,N,100.0,N,NEE-S
 NEE$T,"NextEra Energy, Inc. 7.234% Corporate Units","NextEra Energy, Inc. 7.234% Corporate Units",N,NEEpT,N,100.0,N,NEE-T
 NEE$U,"NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085","NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085",N,NEEpU,N,100.0,N,NEE-U
+NELS,Collaborative Investment Series Trust Nelson Select ETF,Collaborative Investment Series Trust Nelson Select ETF,Z,NELS,Y,100.0,N,NELS
 NEM,Newmont Corporation,Newmont Corporation,N,NEM,N,100.0,N,NEM
 NEMD,Neuberger Berman ETF Trust Neuberger Berman Emerging Markets Debt Hard Currency ETF,Neuberger Berman ETF Trust Neuberger Berman Emerging Markets Debt Hard Currency ETF,P,NEMD,Y,100.0,N,NEMD
 NEN,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,New England Realty Associates Limited Partnership Class A Depositary Receipts Evidencing Units of Limited Partnership,A,NEN,N,100.0,N,NEN
@@ -5768,8 +5767,10 @@ TCAF,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe P
 TCAI,Tortoise Capital Series Trust Tortoise AI Infrastructure ETF,Tortoise Capital Series Trust Tortoise AI Infrastructure ETF,N,TCAI,Y,100.0,N,TCAI
 TCAL,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Capital Appreciation Premium Income ETF",P,TCAL,Y,100.0,N,TCAL
 TCBX,"Third Coast Bancshares, Inc. Common Stock","Third Coast Bancshares, Inc. Common Stock",N,TCBX,N,100.0,N,TCBX
+TCGL,TechCreate Group Ltd. Class A Ordinary Shares,TechCreate Group Ltd. Class A Ordinary Shares,A,TCGL,N,100.0,N,TCGL
 TCHP,T. Rowe Price Blue Chip Growth ETF,T. Rowe Price Blue Chip Growth ETF,P,TCHP,Y,100.0,N,TCHP
 TCI,"Transcontinental Realty Investors, Inc. Common Stock","Transcontinental Realty Investors, Inc. Common Stock",N,TCI,N,100.0,N,TCI
+TCPA,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085,N,TCPA,N,100.0,N,TCPA
 TCPB,Thrivent ETF Trust Thrivent Core Plus Bond ETF,Thrivent ETF Trust Thrivent Core Plus Bond ETF,P,TCPB,Y,100.0,N,TCPB
 TCV,EA Series Trust Towle Value ETF,EA Series Trust Towle Value ETF,P,TCV,Y,100.0,N,TCV
 TD,Toronto Dominion Bank (The) Common Stock,Toronto Dominion Bank (The) Common Stock,N,TD,N,100.0,N,TD
