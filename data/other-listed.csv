@@ -58,7 +58,9 @@ ACR,ACRES Commercial Realty Corp. Common Stock,ACRES Commercial Realty Corp. Com
 ACR$C,ACRES Commercial Realty Corp. 8.625% Fixed,ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock ,N,ACRpC,N,100.0,N,ACR-C
 ACR$D,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Preferred Stock,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Preferred Stock,N,ACRpD,N,100.0,N,ACR-D
 ACRE,Ares Commercial Real Estate Corporation Common Stock,Ares Commercial Real Estate Corporation Common Stock,N,ACRE,N,100.0,N,ACRE
+ACSG,American Century ETF Trust American Century Small Cap Growth Insights ETF,American Century ETF Trust American Century Small Cap Growth Insights ETF,Z,ACSG,Y,100.0,N,ACSG
 ACSI,American Customer Satisfaction ETF,American Customer Satisfaction ETF,Z,ACSI,Y,100.0,N,ACSI
+ACSV,American Century ETF Trust American Century Small Cap Value Insights ETF,American Century ETF Trust American Century Small Cap Value Insights ETF,Z,ACSV,Y,100.0,N,ACSV
 ACTV,LeaderShares Activist Leaders ETF,LeaderShares Activist Leaders ETF,P,ACTV,Y,100.0,N,ACTV
 ACU,Acme United Corporation. Common Stock,Acme United Corporation. Common Stock,A,ACU,N,100.0,N,ACU
 ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,N,ACV,N,100.0,N,ACV
@@ -480,7 +482,7 @@ BAGY,Amplify ETF Trust Amplify Bitcoin Max Income Covered Call ETF,Amplify ETF T
 BAH,Booz Allen Hamilton Holding Corporation Common Stock,Booz Allen Hamilton Holding Corporation Common Stock,N,BAH,N,100.0,N,BAH
 BAI,BlackRock ETF Trust iShares A.I. Innovation and Tech Active ETF,BlackRock ETF Trust iShares A.I. Innovation and Tech Active ETF,P,BAI,Y,100.0,N,BAI
 BAK,Braskem SA ADR,Braskem SA ADR,N,BAK,N,100.0,N,BAK
-BALI,iShares Advantage Large Cap Income ETF,iShares Advantage Large Cap Income ETF,Z,BALI,Y,100.0,N,BALI
+BALI,iShares U.S. Large Cap Premium Income Active ETF,iShares U.S. Large Cap Premium Income Active ETF,Z,BALI,Y,100.0,N,BALI
 BALL,Ball Corporation Common Stock,Ball Corporation Common Stock,N,BALL,N,100.0,N,BALL
 BALT,Innovator Defined Wealth Shield ETF,Innovator Defined Wealth Shield ETF,Z,BALT,Y,100.0,N,BALT
 BALY,Bally's Corporation Common Stock,Bally's Corporation Common Stock,N,BALY,N,100.0,N,BALY
@@ -2948,7 +2950,6 @@ IBHI,iShares Trust iShares iBonds 2029 Term High Yield and Income ETF,iShares Tr
 IBHJ,iShares Trust iShares iBonds 2030 Term High Yield and Income ETF,iShares Trust iShares iBonds 2030 Term High Yield and Income ETF,Z,IBHJ,Y,100.0,N,IBHJ
 IBHK,iShares Trust iShares iBonds 2031 Term High Yield and Income ETF,iShares Trust iShares iBonds 2031 Term High Yield and Income ETF,Z,IBHK,Y,100.0,N,IBHK
 IBHL,iShares Trust iShares iBonds 2032 Term High Yield and Income ETF,iShares Trust iShares iBonds 2032 Term High Yield and Income ETF,Z,IBHL,Y,100.0,N,IBHL
-IBIB,iShares Trust iShares iBonds Oct 2025 Term TIPS ETF,iShares Trust iShares iBonds Oct 2025 Term TIPS ETF,P,IBIB,Y,100.0,N,IBIB
 IBIC,iShares Trust iShares iBonds Oct 2026 Term TIPS ETF,iShares Trust iShares iBonds Oct 2026 Term TIPS ETF,P,IBIC,Y,100.0,N,IBIC
 IBID,iShares Trust iShares iBonds Oct 2027 Term TIPS ETF,iShares Trust iShares iBonds Oct 2027 Term TIPS ETF,P,IBID,Y,100.0,N,IBID
 IBIE,iShares Trust iShares iBonds Oct 2028 Term TIPS ETF,iShares Trust iShares iBonds Oct 2028 Term TIPS ETF,P,IBIE,Y,100.0,N,IBIE
@@ -4520,6 +4521,7 @@ PBMR,PGIM S&P 500 Buffer 20 ETF ,PGIM S&P 500 Buffer 20 ETF - March,Z,PBMR,Y,100
 PBMY,PGIM S&P 500 Buffer 20 ETF ,PGIM S&P 500 Buffer 20 ETF - May,Z,PBMY,Y,100.0,N,PBMY
 PBNV,PGIM S&P 500 Buffer 20 ETF ,PGIM S&P 500 Buffer 20 ETF - November,Z,PBNV,Y,100.0,N,PBNV
 PBOC,PGIM S&P 500 Buffer 20 ETF ,PGIM S&P 500 Buffer 20 ETF - October,Z,PBOC,Y,100.0,N,PBOC
+PBOT,The 2023 ETF Series Trust Pictet AI & Automation ETF,The 2023 ETF Series Trust Pictet AI & Automation ETF,P,PBOT,Y,100.0,N,PBOT
 PBP,Invesco S&P 500 BuyWrite ETF,Invesco S&P 500 BuyWrite ETF,Z,PBP,Y,100.0,N,PBP
 PBR,Petroleo Brasileiro S.A. Petrobras ADS,Petroleo Brasileiro S.A. Petrobras ADS,N,PBR,N,100.0,N,PBR
 PBR.A,Petroleo Brasileiro S.A. Petrobras American Depositary Shares representing Preferred Shares,Petroleo Brasileiro S.A. Petrobras American Depositary Shares representing Preferred Shares,N,PBR.A,N,100.0,N,PBR.A
@@ -4549,6 +4551,7 @@ PCI,PGIM ETF Trust PGIM Corporate Bond 5,PGIM ETF Trust PGIM Corporate Bond 5-10
 PCIG,Litman Gregory Funds Trust Polen Capital International Growth ETF,Litman Gregory Funds Trust Polen Capital International Growth ETF,P,PCIG,Y,100.0,N,PCIG
 PCL,PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF,PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF,Z,PCL,Y,100.0,N,PCL
 PCLG,FundVantage Trust Polen Focus Growth ETF,FundVantage Trust Polen Focus Growth ETF,P,PCLG,Y,100.0,N,PCLG
+PCLN,The 2023 ETF Series Trust Pictet Cleaner Planet ETF,The 2023 ETF Series Trust Pictet Cleaner Planet ETF,P,PCLN,Y,100.0,N,PCLN
 PCLO,Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF,Virtus ETF Trust II VIRTUS SEIX AAA Private Credit CLO ETF,P,PCLO,Y,100.0,N,PCLO
 PCM,"PCM Fund, Inc. Common Stock","PCM Fund, Inc. Common Stock",N,PCM,N,100.0,N,PCM
 PCN,Pimco Corporate & Income Strategy Fund Common Stock,Pimco Corporate & Income Strategy Fund Common Stock,N,PCN,N,100.0,N,PCN
@@ -4725,6 +4728,7 @@ PPLT,abrdn Physical Platinum Shares ETF,abrdn Physical Platinum Shares ETF,P,PPL
 PPT,Putnam Premier Income Trust Common Stock,Putnam Premier Income Trust Common Stock,N,PPT,N,100.0,N,PPT
 PPTY,U.S. Diversified Real Estate ETF,U.S. Diversified Real Estate ETF,P,PPTY,Y,100.0,N,PPTY
 PQDI,Principal Spectrum Tax,Principal Spectrum Tax-Advantaged Dividend Active ETF,P,PQDI,Y,100.0,N,PQDI
+PQNT,The 2023 ETF Series Trust Pictet AI Enhanced International Equity ETF,The 2023 ETF Series Trust Pictet AI Enhanced International Equity ETF,P,PQNT,Y,100.0,N,PQNT
 PR,Permian Resources Corporation Class A Common Stock,Permian Resources Corporation Class A Common Stock,N,PR,N,100.0,N,PR
 PRA,ProAssurance Corporation Common Stock,ProAssurance Corporation Common Stock,N,PRA,N,100.0,N,PRA
 PRAE,Northern Lights Fund Trust III PlanRock Alternative Growth ETF,Northern Lights Fund Trust III PlanRock Alternative Growth ETF,P,PRAE,Y,100.0,N,PRAE
@@ -4937,7 +4941,7 @@ QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
 QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock","QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",N,QXOpB,N,100.0,N,QXO-B
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,Brookfield Real Assets Income Fund Inc. Common Stock,N,RA,N,100.0,N,RA
-RAAA,Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF,Advisor Managed Portfolios Reckoner Leveraged AAA CLO ETF,P,RAAA,Y,100.0,N,RAAA
+RAAA,Reckoner Yield Enhanced AAA CLO ETF,Reckoner Yield Enhanced AAA CLO ETF,P,RAAA,Y,100.0,N,RAAA
 RAAX,VanEck Real Assets ETF,VanEck Real Assets ETF,P,RAAX,Y,100.0,N,RAAX
 RAC,Rithm Acquisition Corp. Class A Ordinary Shares,Rithm Acquisition Corp. Class A Ordinary Shares,N,RAC,N,100.0,N,RAC
 RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant),N,RAC.U,N,100.0,N,RAC=
@@ -6178,7 +6182,6 @@ USSG,Xtrackers MSCI USA Selection Equity ETF,Xtrackers MSCI USA Selection Equity
 UST,ProShares Ultra 7,ProShares Ultra 7-10 Year Treasury,P,UST,Y,100.0,N,UST
 UTES,Virtus Reaves Utilities ETF,Virtus Reaves Utilities ETF,P,UTES,Y,100.0,N,UTES
 UTF,"Cohen & Steers Infrastructure Fund, Inc Common Stock","Cohen & Steers Infrastructure Fund, Inc Common Stock",N,UTF,N,100.0,N,UTF
-UTF.R,"Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights","Cohen & Steers Infrastructure Fund, Inc Rights (expiring October 16, 2025) Rights",N,UTFr,N,100.0,N,UTF^
 UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,Reaves Utility Income Fund Common Shares of Beneficial Interest,A,UTG,N,100.0,N,UTG
 UTI,Universal Technical Institute Inc Common Stock,Universal Technical Institute Inc Common Stock,N,UTI,N,100.0,N,UTI
 UTL,UNITIL Corporation Common Stock,UNITIL Corporation Common Stock,N,UTL,N,100.0,N,UTL
