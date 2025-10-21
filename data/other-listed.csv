@@ -711,7 +711,6 @@ BKSE,BNY Mellon US Small Cap Core Equity ETF,BNY Mellon US Small Cap Core Equity
 BKSY,BlackSky Technology Inc. Class A Common Stock,BlackSky Technology Inc. Class A Common Stock,N,BKSY,N,100.0,N,BKSY
 BKSY.W,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock","BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",N,BKSY.WS,N,100.0,N,BKSY+
 BKT,BlackRock Income Trust Inc. (The),BlackRock Income Trust Inc. (The),N,BKT,N,100.0,N,BKT
-BKT.R,"BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights","BlackRock Income Trust Inc. (The) Rights (expiring October 20, 2025) Rights",N,BKTr,N,100.0,N,BKT^
 BKTI,BK Technologies Corporation Common Stock,BK Technologies Corporation Common Stock,A,BKTI,N,100.0,N,BKTI
 BKU,"BankUnited, Inc. Common Stock","BankUnited, Inc. Common Stock",N,BKU,N,100.0,N,BKU
 BKUI,BNY Mellon Ultra Short Income ETF,BNY Mellon Ultra Short Income ETF,P,BKUI,Y,100.0,N,BKUI
@@ -837,7 +836,6 @@ BTC,Grayscale Bitcoin Mini Trust (BTC) Common units of fractional undivided bene
 BTCC,Grayscale Funds Trust Grayscale Bitcoin Covered Call ETF,Grayscale Funds Trust Grayscale Bitcoin Covered Call ETF,P,BTCC,Y,100.0,N,BTCC
 BTCI,NEOS ETF Trust NEOS Bitcoin High Income ETF,NEOS ETF Trust NEOS Bitcoin High Income ETF,Z,BTCI,Y,100.0,N,BTCI
 BTCL,T,T-Rex 2X Long Bitcoin Daily Target ETF,Z,BTCL,Y,100.0,N,BTCL
-BTCM,BIT Mining Limited ADS,BIT Mining Limited ADS,N,BTCM,N,100.0,N,BTCM
 BTCO,Invesco Galaxy Bitcoin ETF Common Shares of Beneficial Interest,Invesco Galaxy Bitcoin ETF Common Shares of Beneficial Interest,Z,BTCO,Y,100.0,N,BTCO
 BTCW,WisdomTree Bitcoin Fund Common Shares of Beneficial Interest,WisdomTree Bitcoin Fund Common Shares of Beneficial Interest,Z,BTCW,Y,100.0,N,BTCW
 BTCZ,T,T-Rex 2X Inverse Bitcoin Daily Target ETF,Z,BTCZ,Y,100.0,N,BTCZ
@@ -1495,6 +1493,7 @@ DFVE,DoubleLine ETF Trust DoubleLine Fortune 500 Equal Weight ETF,DoubleLine ETF
 DFVX,Dimensional ETF Trust Dimensional US Large Cap Vector ETF,Dimensional ETF Trust Dimensional US Large Cap Vector ETF,P,DFVX,Y,100.0,N,DFVX
 DG,Dollar General Corporation Common Stock,Dollar General Corporation Common Stock,N,DG,N,100.0,N,DG
 DGIN,VanEck ETF Trust VanEck Digital India ETF,VanEck ETF Trust VanEck Digital India ETF,P,DGIN,Y,100.0,N,DGIN
+DGOC,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Buffer & Digital Return ETF - October,Z,DGOC,Y,100.0,N,DGOC
 DGP,"DB Gold Double Long ETN due February 15, 2038","DB Gold Double Long ETN due February 15, 2038",P,DGP,N,100.0,N,DGP
 DGRO,iShares Core Dividend Growth ETF,iShares Core Dividend Growth ETF,P,DGRO,Y,100.0,N,DGRO
 DGS,WisdomTree Emerging Market SmallCap Fund,WisdomTree Emerging Market SmallCap Fund,P,DGS,Y,100.0,N,DGS
@@ -2221,9 +2220,9 @@ FLDR,Fidelity Low Duration Bond Factor ETF,Fidelity Low Duration Bond Factor ETF
 FLDZ,RiverNorth Patriot ETF,RiverNorth Patriot ETF,Z,FLDZ,Y,100.0,N,FLDZ
 FLEE,Franklin FTSE Europe ETF,Franklin FTSE Europe ETF,P,FLEE,Y,100.0,N,FLEE
 FLEU,Franklin FTSE Eurozone ETF,Franklin FTSE Eurozone ETF,P,FLEU,Y,100.0,N,FLEU
-FLG,"Flagstar Financial, Inc. Common Stock","Flagstar Financial, Inc. Common Stock",N,FLG,N,100.0,N,FLG
-FLG$A,"Flagstar Financial, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed","Flagstar Financial, Inc. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",N,FLGpA,N,100.0,N,FLG-A
-FLG$U,"Flagstar Financial, Inc. Bifurcated Option Note Unit SecuritiES","Flagstar Financial, Inc. Bifurcated Option Note Unit SecuritiES",N,FLGpU,N,100.0,N,FLG-U
+FLG,"Flagstar Bank, N.A. Common Stock","Flagstar Bank, N.A. Common Stock",N,FLG,N,100.0,N,FLG
+FLG$A,"Flagstar Bank, N.A. Depositary shares, each representing a 1/40th interest in a share of Fixed","Flagstar Bank, N.A. Depositary shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Series A Noncumulative Perpetual Preferred Stock",N,FLGpA,N,100.0,N,FLG-A
+FLG$U,"Flagstar Bank, N.A. Bifurcated Option Note Unit SecuritiES","Flagstar Bank, N.A. Bifurcated Option Note Unit SecuritiES",N,FLGpU,N,100.0,N,FLG-U
 FLGB,Franklin FTSE United Kingdom ETF,Franklin FTSE United Kingdom ETF,P,FLGB,Y,100.0,N,FLGB
 FLGR,Franklin FTSE Germany ETF,Franklin FTSE Germany ETF,P,FLGR,Y,100.0,N,FLGR
 FLGV,Franklin U.S. Treasury Bond ETF,Franklin U.S. Treasury Bond ETF,P,FLGV,Y,100.0,N,FLGV
@@ -3318,6 +3317,7 @@ JFLI,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Flexib
 JFLX,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Flexible Debt ETF,P,JFLX,Y,100.0,N,JFLX
 JFR,Nuveen Floating Rate Income Fund Common Stock,Nuveen Floating Rate Income Fund Common Stock,N,JFR,N,100.0,N,JFR
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,Nuveen Global High Income Fund Common Shares of Beneficial Interest,N,JGH,N,100.0,N,JGH
+JGH.V,"Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights when issued","Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights when issued",N,JGHrw,N,100.0,N,JGH^#
 JGRO,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Growth ETF,P,JGRO,Y,100.0,N,JGRO
 JGRW,Trust for Professional Managers Jensen Quality Growth ETF,Trust for Professional Managers Jensen Quality Growth ETF,P,JGRW,Y,100.0,N,JGRW
 JHAC,John Hancock Exchange,John Hancock Exchange-Traded Fund Trust John Hancock Fundamental All Cap Core ETF,P,JHAC,Y,100.0,N,JHAC
@@ -5209,7 +5209,6 @@ SAM,"Boston Beer Company, Inc. (The) Common Stock","Boston Beer Company, Inc. (T
 SAMM,The Advisors' Inner Circle Fund III Strategas Macro Momentum ETF,The Advisors' Inner Circle Fund III Strategas Macro Momentum ETF,P,SAMM,Y,100.0,N,SAMM
 SAMT,The Advisors' Inner Circle Fund III Strategas Macro Thematic Opportunities ETF,The Advisors' Inner Circle Fund III Strategas Macro Thematic Opportunities ETF,P,SAMT,Y,100.0,N,SAMT
 SAN,"Banco Santander, S.A. Sponsored ADR (Spain)","Banco Santander, S.A. Sponsored ADR (Spain)",N,SAN,N,100.0,N,SAN
-SAND,Sandstorm Gold Ltd. Ordinary Shares (Canada),Sandstorm Gold Ltd. Ordinary Shares (Canada),N,SAND,N,100.0,N,SAND
 SAP,SAP  SE ADS,SAP  SE ADS,N,SAP,N,100.0,N,SAP
 SAPH,Precidian ETFs Trust SAP SE ADRhedged,Precidian ETFs Trust SAP SE ADRhedged,P,SAPH,Y,100.0,N,SAPH
 SAR,Saratoga Investment Corp New,Saratoga Investment Corp New,N,SAR,N,100.0,N,SAR
@@ -5432,6 +5431,7 @@ SKT,Tanger Inc. Common Stock,Tanger Inc. Common Stock,N,SKT,N,100.0,N,SKT
 SKY,"Champion Homes, Inc. Common Stock","Champion Homes, Inc. Common Stock",N,SKY,N,100.0,N,SKY
 SKYH,Sky Harbour Group Corporation Class A Common Stock,Sky Harbour Group Corporation Class A Common Stock,N,SKYH,N,100.0,N,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",N,SKYH.WS,N,100.0,N,SKYH+
+SLAI,SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),N,SLAI,N,100.0,N,SLAI
 SLB,SLB Limited Common Shares,SLB Limited Common Shares,N,SLB,N,100.0,N,SLB
 SLDR,Global X Funds Global X Short,Global X Funds Global X Short-Term Treasury Ladder ETF,P,SLDR,Y,100.0,N,SLDR
 SLF,Sun Life Financial Inc. Common Stock,Sun Life Financial Inc. Common Stock,N,SLF,N,100.0,N,SLF
