@@ -1570,7 +1570,7 @@ DMCY,Democracy International Fund,Democracy International Fund,P,DMCY,Y,100.0,N,
 DMO,Western Asset Mortgage Opportunity Fund Inc. Common Stock,Western Asset Mortgage Opportunity Fund Inc. Common Stock,N,DMO,N,100.0,N,DMO
 DMX,DoubleLine ETF Trust DoubleLine Multi,DoubleLine ETF Trust DoubleLine Multi-Sector Income ETF,P,DMX,Y,100.0,N,DMX
 DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock","Ginkgo Bioworks Holdings, Inc. Class A Common Stock",N,DNA,N,100.0,N,DNA
-DNL,WisdomTree Global ex,WisdomTree Global ex-US Quality Dividend Growth Fund,P,DNL,Y,100.0,N,DNL
+DNL,WisdomTree Global ex,WisdomTree Global ex-U.S. Quality Growth Fund,P,DNL,Y,100.0,N,DNL
 DNN,Denison Mines Corp Ordinary Shares (Canada),Denison Mines Corp Ordinary Shares (Canada),A,DNN,N,100.0,N,DNN
 DNOV,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - November,Z,DNOV,Y,100.0,N,DNOV
 DNOW,DNOW Inc. Common Stock,DNOW Inc. Common Stock,N,DNOW,N,100.0,N,DNOW
@@ -1583,7 +1583,7 @@ DOG,ProShares Short Dow30,ProShares Short Dow30,P,DOG,Y,100.0,N,DOG
 DOGD,Tradr 2X Long DDOG Daily ETF,Tradr 2X Long DDOG Daily ETF,Z,DOGD,Y,100.0,N,DOGD
 DOGG,FT Vest DJIA Dogs 10 Target Income ETF,FT Vest DJIA Dogs 10 Target Income ETF,Z,DOGG,Y,100.0,N,DOGG
 DOJE,ETF Opportunities Trust REX,ETF Opportunities Trust REX-Osprey DOGE ETF,Z,DOJE,Y,100.0,N,DOJE
-DOL,WisdomTree International LargeCap Dividend Fund,WisdomTree International LargeCap Dividend Fund,P,DOL,Y,100.0,N,DOL
+DOL,WisdomTree True Developed International Fund,WisdomTree True Developed International Fund,P,DOL,Y,100.0,N,DOL
 DOLE,Dole plc Ordinary Shares,Dole plc Ordinary Shares,N,DOLE,N,100.0,N,DOLE
 DON,WisdomTree U.S. MidCap Dividend Fund,WisdomTree U.S. MidCap Dividend Fund,P,DON,Y,100.0,N,DON
 DOUG,Douglas Elliman Inc. Common Stock,Douglas Elliman Inc. Common Stock,N,DOUG,N,100.0,N,DOUG
@@ -3159,6 +3159,7 @@ IQSU,NYLI Candriam U.S. Large Cap Equity ETF,NYLI Candriam U.S. Large Cap Equity
 IQSZ,Invesco Global Equity Net Zero ETF,Invesco Global Equity Net Zero ETF,P,IQSZ,Y,100.0,N,IQSZ
 IQV,"IQVIA Holdings, Inc. Common Stock","IQVIA Holdings, Inc. Common Stock",N,IQV,N,100.0,N,IQV
 IR,Ingersoll Rand Inc. Common Stock,Ingersoll Rand Inc. Common Stock,N,IR,N,100.0,N,IR
+IRE,Tidal Trust II Defiance Daily Target 2X Long IREN ETF,Tidal Trust II Defiance Daily Target 2X Long IREN ETF,P,IRE,Y,100.0,N,IRE
 IRET,Tidal Trust II iREIT ,Tidal Trust II iREIT - MarketVector Quality REIT Index ETF,P,IRET,Y,100.0,N,IRET
 IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,Iron Mountain Incorporated (Delaware)Common Stock REIT,N,IRM,N,100.0,N,IRM
 IROC,Invesco Rochester High Yield Municipal ETF,Invesco Rochester High Yield Municipal ETF,Z,IROC,Y,100.0,N,IROC
@@ -3955,6 +3956,7 @@ MOV,Movado Group Inc. Common Stock,Movado Group Inc. Common Stock,N,MOV,N,100.0,
 MP,MP Materials Corp. Common Stock,MP Materials Corp. Common Stock,N,MP,N,100.0,N,MP
 MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,N,MPA,N,100.0,N,MPA
 MPC,Marathon Petroleum Corporation Common Stock,Marathon Petroleum Corporation Common Stock,N,MPC,N,100.0,N,MPC
+MPL,Tidal Trust II Defiance Daily Target 2X Long MP ETF,Tidal Trust II Defiance Daily Target 2X Long MP ETF,P,MPL,Y,100.0,N,MPL
 MPLX,MPLX LP Common Units Representing Limited Partner Interests,MPLX LP Common Units Representing Limited Partner Interests,N,MPLX,N,100.0,N,MPLX
 MPLY,Strategy Shares Monopoly ETF,Strategy Shares Monopoly ETF,Z,MPLY,Y,100.0,N,MPLY
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
@@ -4916,6 +4918,7 @@ QS,QuantumScape Corporation Class A Common Stock,QuantumScape Corporation Class 
 QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,WisdomTree U.S. Short Term Corporate Bond Fund,Z,QSIG,Y,100.0,N,QSIG
 QSPT,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - September,Z,QSPT,Y,100.0,N,QSPT
 QSR,Restaurant Brands International Inc. Common Shares,Restaurant Brands International Inc. Common Shares,N,QSR,N,100.0,N,QSR
+QSU,Tidal Trust II Defiance Daily Target 2X Long QS ETF,Tidal Trust II Defiance Daily Target 2X Long QS ETF,P,QSU,Y,100.0,N,QSU
 QTAP,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - April,Z,QTAP,Y,100.0,N,QTAP
 QTJA,Innovator ETFs Trust Innovator Growth Accelerated Plus ETF ,Innovator ETFs Trust Innovator Growth Accelerated Plus ETF - January,Z,QTJA,Y,100.0,N,QTJA
 QTJL,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - July,Z,QTJL,Y,100.0,N,QTJL
@@ -5104,7 +5107,6 @@ ROLR,"High Roller Technologies, Inc. Common Stock","High Roller Technologies, In
 ROM,ProShares Ultra Technology,ProShares Ultra Technology,P,ROM,Y,100.0,N,ROM
 ROMO,Strategy Shares Newfound/ReSolve Robust Momentum ETF,Strategy Shares Newfound/ReSolve Robust Momentum ETF,Z,ROMO,Y,100.0,N,ROMO
 ROPE,EA Series Trust Coastal Compass 100 ETF,EA Series Trust Coastal Compass 100 ETF,P,ROPE,Y,100.0,N,ROPE
-RORO,ATAC US Rotation ETF,ATAC US Rotation ETF,P,RORO,Y,100.0,N,RORO
 ROSC,Hartford Multifactor Small Cap ETF,Hartford Multifactor Small Cap ETF,P,ROSC,Y,100.0,N,ROSC
 ROUS,Hartford Multifactor U.S. Equity ETF,Hartford Multifactor U.S. Equity ETF,P,ROUS,Y,100.0,N,ROUS
 RPAR,RPAR Risk Parity ETF,RPAR Risk Parity ETF,P,RPAR,Y,100.0,N,RPAR
@@ -5237,6 +5239,7 @@ SBR,Sabine Royalty Trust Common Stock,Sabine Royalty Trust Common Stock,N,SBR,N,
 SBS,Companhia de saneamento Basico Do Estado De Sao Paulo ,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares),N,SBS,N,100.0,N,SBS
 SBSI,"Southside Bancshares, Inc. Common Stock","Southside Bancshares, Inc. Common Stock",N,SBSI,N,100.0,N,SBSI
 SBSW,D/B/A Sibanye,D/B/A Sibanye-Stillwater Limited ADS,N,SBSW,N,100.0,N,SBSW
+SBTU,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long SBET Daily Target ETF,Z,SBTU,Y,100.0,N,SBTU
 SBXD,SilverBox Corp IV Class A Ordinary Shares,SilverBox Corp IV Class A Ordinary Shares,N,SBXD,N,100.0,N,SBXD
 SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one","SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,SBXD.U,N,100.0,N,SBXD=
 SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50","SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",N,SBXD.WS,N,100.0,N,SBXD+
@@ -6296,7 +6299,6 @@ VMC,Vulcan Materials Company (Holding Company) Common Stock,Vulcan Materials Com
 VMI,"Valmont Industries, Inc. Common Stock","Valmont Industries, Inc. Common Stock",N,VMI,N,100.0,N,VMI
 VMO,Invesco Municipal Opportunity Trust Common Stock,Invesco Municipal Opportunity Trust Common Stock,N,VMO,N,100.0,N,VMO
 VNAM,Global X Funds Global X MSCI Vietnam ETF,Global X Funds Global X MSCI Vietnam ETF,P,VNAM,Y,100.0,N,VNAM
-VNCE,Vince Holding Corp. Common Stock,Vince Holding Corp. Common Stock,N,VNCE,N,100.0,N,VNCE
 VNIE,The Advisors Inner Circle Fund II Vontobel International Equity Active ETF,The Advisors Inner Circle Fund II Vontobel International Equity Active ETF,P,VNIE,Y,100.0,N,VNIE
 VNLA,Janus Henderson Short Duration Income ETF,Janus Henderson Short Duration Income ETF,P,VNLA,Y,100.0,N,VNLA
 VNM,VanEck Vietnam ETF,VanEck Vietnam ETF,Z,VNM,Y,100.0,N,VNM
