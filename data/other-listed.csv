@@ -800,8 +800,10 @@ BRBR,"BellRing Brands, Inc. Common Stock ","BellRing Brands, Inc. Common Stock "
 BRBS,"Blue Ridge Bankshares, Inc. Common Stock","Blue Ridge Bankshares, Inc. Common Stock",A,BRBS,N,100.0,N,BRBS
 BRC,Brady Corporation Common Stock,Brady Corporation Common Stock,N,BRC,N,100.0,N,BRC
 BRCC,BRC Inc. Class A Common Stock,BRC Inc. Class A Common Stock,N,BRCC,N,100.0,N,BRCC
+BRCE,MFS Active Exchange Traded Funds Trust MFS Blended Research Core Equity ETF,MFS Active Exchange Traded Funds Trust MFS Blended Research Core Equity ETF,N,BRCE,Y,100.0,N,BRCE
 BRF,VanEck Brazil Small,VanEck Brazil Small-Cap ETF,P,BRF,Y,100.0,N,BRF
 BRIA,BrilliA Inc Class A Ordinary Shares,BrilliA Inc Class A Ordinary Shares,A,BRIA,N,100.0,N,BRIA
+BRIE,MFS Active Exchange Traded Funds Trust MFS Blended Research International Equity ETF,MFS Active Exchange Traded Funds Trust MFS Blended Research International Equity ETF,N,BRIE,Y,100.0,N,BRIE
 BRIF,NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF,NEOS ETF Trust FIS Bright Portfolios Focused Equity ETF,P,BRIF,Y,100.0,N,BRIF
 BRK.A,Berkshire Hathaway Inc. Common Stock,Berkshire Hathaway Inc. Common Stock,N,BRK.A,N,1.0,N,BRK.A
 BRK.B,Berkshire Hathaway Inc. New Common Stock,Berkshire Hathaway Inc. New Common Stock,N,BRK.B,N,100.0,N,BRK.B
@@ -3551,7 +3553,6 @@ KTF,DWS Municipal Income Trust,DWS Municipal Income Trust,N,KTF,N,100.0,N,KTF
 KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,N,KTH,N,100.0,N,KTH
 KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),N,KTN,N,100.0,N,KTN
 KTUP,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Long KTOS Daily Target ETF,Z,KTUP,Y,100.0,N,KTUP
-KUKE,Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares),Kuke Music Holding Limited American Depositary Shares (each representing ten (10) Class A Ordinary Shares),N,KUKE,N,100.0,N,KUKE
 KULR,"KULR Technology Group, Inc. Common Stock","KULR Technology Group, Inc. Common Stock",A,KULR,N,100.0,N,KULR
 KURE,KraneShares MSCI All China Health Care Index ETF,KraneShares MSCI All China Health Care Index ETF,P,KURE,Y,100.0,N,KURE
 KVLE,KraneShares Value Line Dynamic Dividend Equity Index ETF,KraneShares Value Line Dynamic Dividend Equity Index ETF,P,KVLE,Y,100.0,N,KVLE
@@ -4382,6 +4383,7 @@ ODV,Osisko Development Corp. Common Shares,Osisko Development Corp. Common Share
 OEC,Orion S.A. Common Shares,Orion S.A. Common Shares,N,OEC,N,100.0,N,OEC
 OEF,iShares S&P 100 ETF,iShares S&P 100 ETF,P,OEF,Y,100.0,N,OEF
 OEFA,ALPS ,ALPS - O'Shares International Developed Quality Dividend ETF,Z,OEFA,Y,100.0,N,OEFA
+OEI,Listed Funds Trust Optimized Equity Income ETF,Listed Funds Trust Optimized Equity Income ETF,P,OEI,Y,100.0,N,OEI
 OFG,OFG Bancorp Common Stock,OFG Bancorp Common Stock,N,OFG,N,100.0,N,OFG
 OGCP,"Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests","Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests",P,OGCP,N,100.0,N,OGCP
 OGE,OGE Energy Corp Common Stock,OGE Energy Corp Common Stock,N,OGE,N,100.0,N,OGE
@@ -4979,6 +4981,7 @@ RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,Ready Capital Corporat
 RCG,"RENN Fund, Inc Common Stock","RENN Fund, Inc Common Stock",A,RCG,N,100.0,N,RCG
 RCI,"Rogers Communication, Inc. Common Stock","Rogers Communication, Inc. Common Stock",N,RCI,N,100.0,N,RCI
 RCL,Royal Caribbean Cruises Ltd. Common Stock,Royal Caribbean Cruises Ltd. Common Stock,N,RCL,N,100.0,N,RCL
+RCLO,Advisor Managed Portfolios Reckoner BBB,Advisor Managed Portfolios Reckoner BBB-B CLO ETF,P,RCLO,Y,100.0,N,RCLO
 RCS,"PIMCO Strategic Income Fund, Inc.","PIMCO Strategic Income Fund, Inc.",N,RCS,N,100.0,N,RCS
 RCTR,First Trust Exchange,First Trust Exchange-Traded Fund II First Trust Bloomberg Nuclear Power ETF,P,RCTR,Y,100.0,N,RCTR
 RCUS,"Arcus Biosciences, Inc. Common Stock","Arcus Biosciences, Inc. Common Stock",N,RCUS,N,100.0,N,RCUS
@@ -5816,6 +5819,8 @@ TEN,Tsakos Energy Navigation Ltd Common Shares,Tsakos Energy Navigation Ltd Comm
 TEN$E,Tsakos Energy Navigation Ltd Series E Fixed,"Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",N,TENpE,N,100.0,N,TEN-E
 TEN$F,Tsakos Energy Navigation Ltd Series F Fixed,"Tsakos Energy Navigation Ltd Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares, par value $1.00",N,TENpF,N,100.0,N,TEN-F
 TEND,iShares Trust iShares Large Cap 10% Target Buffer Dec ETF,iShares Trust iShares Large Cap 10% Target Buffer Dec ETF,Z,TEND,Y,100.0,N,TEND
+TENJ,iShares Trust iShares Large Cap 10% Target Buffer Jun ETF,iShares Trust iShares Large Cap 10% Target Buffer Jun ETF,Z,TENJ,Y,100.0,N,TENJ
+TENM,iShares Trust iShares Large Cap 10% Target Buffer Mar ETF,iShares Trust iShares Large Cap 10% Target Buffer Mar ETF,Z,TENM,Y,100.0,N,TENM
 TEO,Telecom Argentina SA,Telecom Argentina SA,N,TEO,N,100.0,N,TEO
 TEQI,T. Rowe Price Equity Income ETF,T. Rowe Price Equity Income ETF,P,TEQI,Y,100.0,N,TEQI
 TESL,Simplify Volt TSLA Revolution ETF,Simplify Volt TSLA Revolution ETF,P,TESL,Y,100.0,N,TESL
