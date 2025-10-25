@@ -1986,7 +1986,6 @@ EUSB,iShares ESG Advanced Total USD Bond Market ETF,iShares ESG Advanced Total U
 EVAC,EQV Ventures Acquisition Corp. II Class A Ordinary Shares,EQV Ventures Acquisition Corp. II Class A Ordinary Shares,N,EVAC,N,100.0,N,EVAC
 EVAC.U,"EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one","EQV Ventures Acquisition Corp. II Units, each unit consists of one Class A ordinary share and one-third of one redeemable warrant",N,EVAC.U,N,100.0,N,EVAC=
 EVAC.W,"EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,EVAC.WS,N,100.0,N,EVAC+
-EVAV,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,P,EVAV,Y,100.0,N,EVAV
 EVC,Entravision Communications Corporation Common Stock,Entravision Communications Corporation Common Stock,N,EVC,N,100.0,N,EVC
 EVEX,"Eve Holding, Inc. Common Stock","Eve Holding, Inc. Common Stock",N,EVEX,N,100.0,N,EVEX
 EVEX.W,"Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share","Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,EVEX.WS,N,100.0,N,EVEX+
@@ -3914,7 +3913,6 @@ MLDR,Global X Funds Global X Intermediate,Global X Funds Global X Intermediate-T
 MLI,"Mueller Industries, Inc. Common Stock","Mueller Industries, Inc. Common Stock",N,MLI,N,100.0,N,MLI
 MLM,"Martin Marietta Materials, Inc. Common Stock","Martin Marietta Materials, Inc. Common Stock",N,MLM,N,100.0,N,MLM
 MLN,VanEck ETF Trust VanEck Long Muni ETF,VanEck ETF Trust VanEck Long Muni ETF,Z,MLN,Y,100.0,N,MLN
-MLNK,"MeridianLink, Inc. Common Stock","MeridianLink, Inc. Common Stock",N,MLNK,N,100.0,N,MLNK
 MLP,"Maui Land & Pineapple Company, Inc. Common Stock","Maui Land & Pineapple Company, Inc. Common Stock",N,MLP,N,100.0,N,MLP
 MLPA,Global X MLP ETF,Global X MLP ETF,P,MLPA,Y,100.0,N,MLPA
 MLPB,"ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040","ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040",P,MLPB,N,100.0,N,MLPB
@@ -6453,7 +6451,6 @@ WFC$L,Wells Fargo & Company 7.50% Non,"Wells Fargo & Company 7.50% Non-Cumulativ
 WFC$Y,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non","Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Y",N,WFCpY,N,100.0,N,WFC-Y
 WFC$Z,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non","Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cumulative Perpetual Class A Preferred Stock, Series Z",N,WFCpZ,N,100.0,N,WFC-Z
 WFG,West Fraser Timber Co. Ltd Common stock,West Fraser Timber Co. Ltd Common stock,N,WFG,N,100.0,N,WFG
-WFH,Direxion Work From Home ETF,Direxion Work From Home ETF,P,WFH,Y,100.0,N,WFH
 WGO,"Winnebago Industries, Inc. Common Stock","Winnebago Industries, Inc. Common Stock",N,WGO,N,100.0,N,WGO
 WH,"Wyndham Hotels & Resorts, Inc. Common Stock ","Wyndham Hotels & Resorts, Inc. Common Stock ",N,WH,N,100.0,N,WH
 WHD,"Cactus, Inc. Class A Common Stock","Cactus, Inc. Class A Common Stock",N,WHD,N,100.0,N,WHD
@@ -6661,7 +6658,6 @@ XUSP,Innovator ETFs Trust Innovator Uncapped Accelerated U.S. Equity ETF,Innovat
 XV,Simplify Exchange Traded Funds Simplify Target 15 Distribution ETF,Simplify Exchange Traded Funds Simplify Target 15 Distribution ETF,P,XV,Y,100.0,N,XV
 XVOL,Acruence Active Hedge U.S. Equity ETF,Acruence Active Hedge U.S. Equity ETF,Z,XVOL,Y,100.0,N,XVOL
 XVV,iShares ESG Select Screened S&P 500 ETF,iShares ESG Select Screened S&P 500 ETF,Z,XVV,Y,100.0,N,XVV
-XXCH,Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily MSCI Emerging Markets ex China Bull 2X Shares,P,XXCH,Y,100.0,N,XXCH
 XXRP,Listed Funds Trust Teucrium 2x Long Daily XRP ETF,Listed Funds Trust Teucrium 2x Long Daily XRP ETF,P,XXRP,Y,100.0,N,XXRP
 XYF,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares","X Financial American Depositary Shares, each representing six Class A Ordinary Shares",N,XYF,N,100.0,N,XYF
 XYL,Xylem Inc. Common Stock New,Xylem Inc. Common Stock New,N,XYL,N,100.0,N,XYL
