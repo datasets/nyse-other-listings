@@ -211,8 +211,6 @@ ALX,"Alexander's, Inc. Common Stock","Alexander's, Inc. Common Stock",N,ALX,N,10
 AM,Antero Midstream Corporation Common Stock,Antero Midstream Corporation Common Stock,N,AM,N,100.0,N,AM
 AMAX,Adaptive Hedged Multi,Adaptive Hedged Multi-Asset Income ETF,P,AMAX,Y,100.0,N,AMAX
 AMBC,"Ambac Financial Group, Inc. Common Stock","Ambac Financial Group, Inc. Common Stock",N,AMBC,N,100.0,N,AMBC
-AMBI,Ambipar Emergency Response Class A Ordinary Shares,Ambipar Emergency Response Class A Ordinary Shares,A,AMBI,N,100.0,N,AMBI
-AMBI.W,"Ambipar Emergency Response Warrants to purchase Class A ordinary shares, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Ambipar Emergency Response Warrants to purchase Class A ordinary shares, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",A,AMBI.WS,N,100.0,N,AMBI+
 AMBO,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),A,AMBO,N,100.0,N,AMBO
 AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,Ardagh Metal Packaging S.A. Ordinary Shares,N,AMBP,N,100.0,N,AMBP
 AMBP.W,"Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share","Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share",N,AMBP.WS,N,100.0,N,AMBP+
@@ -988,7 +986,6 @@ CCJ,Cameco Corporation Common Stock,Cameco Corporation Common Stock,N,CCJ,N,100.
 CCK,"Crown Holdings, Inc.","Crown Holdings, Inc.",N,CCK,N,100.0,N,CCK
 CCL,Carnival Corporation Common Stock,Carnival Corporation Common Stock,N,CCL,N,100.0,N,CCL
 CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),N,CCM,N,100.0,N,CCM
-CCMG,EA Series Trust CCM Global Equity ETF,EA Series Trust CCM Global Equity ETF,P,CCMG,Y,100.0,N,CCMG
 CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock","Clear Channel Outdoor Holdings, Inc. Common Stock",N,CCO,N,100.0,N,CCO
 CCOR,Core Alternative ETF,Core Alternative ETF,P,CCOR,Y,100.0,N,CCOR
 CCRD,CoreCard Corporation Common Stock,CoreCard Corporation Common Stock,N,CCRD,N,100.0,N,CCRD
@@ -2191,7 +2188,6 @@ FIGB,Fidelity Investment Grade Bond ETF,Fidelity Investment Grade Bond ETF,P,FIG
 FIGS,"FIGS, Inc. Class A Common Stock","FIGS, Inc. Class A Common Stock",N,FIGS,N,100.0,N,FIGS
 FIHL,Fidelis Insurance Holdings Limited Common Shares,Fidelis Insurance Holdings Limited Common Shares,N,FIHL,N,100.0,N,FIHL
 FIIG,First Trust Exchange,First Trust Exchange-Traded Fund IV First Trust Intermediate Duration Investment Grade Corporate ETF,P,FIIG,Y,100.0,N,FIIG
-FILL,iShares MSCI Global Energy Producers Fund,iShares MSCI Global Energy Producers Fund,P,FILL,Y,100.0,N,FILL
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,N,FINS,N,100.0,N,FINS
 FINT,The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF,The Advisors' Inner Circle Fund II Frontier Asset Total International Equity ETF,P,FINT,Y,100.0,N,FINT
 FINV,FinVolution Group American Depositary Shares,FinVolution Group American Depositary Shares,N,FINV,N,100.0,N,FINV
@@ -2684,6 +2680,7 @@ GSKH,Precidian ETFs Trust GSK plc ADRhedged,Precidian ETFs Trust GSK plc ADRhedg
 GSL,Global Ship Lease Inc New Class A Common Shares,Global Ship Lease Inc New Class A Common Shares,N,GSL,N,100.0,N,GSL
 GSL$B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)","Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)",N,GSLpB,N,100.0,N,GSL-B
 GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,P,GSLC,Y,100.0,N,GSLC
+GSOL,Grayscale Solana Trust ETF Grayscale Solana Trust ETF Shares,Grayscale Solana Trust ETF Grayscale Solana Trust ETF Shares,P,GSOL,Y,100.0,N,GSOL
 GSPY,Gotham Enhanced 500 ETF,Gotham Enhanced 500 ETF,P,GSPY,Y,100.0,N,GSPY
 GSSC,GS ActiveBeta U.S. Small Cap Equity ETF,GS ActiveBeta U.S. Small Cap Equity ETF,P,GSSC,Y,100.0,N,GSSC
 GSST,Goldman Sachs Ultra Short Bond ETF,Goldman Sachs Ultra Short Bond ETF,Z,GSST,Y,100.0,N,GSST
@@ -3674,6 +3671,7 @@ LNC,Lincoln National Corporation Common Stock,Lincoln National Corporation Commo
 LNC$D,"Lincoln National Corporation Depositary Shares Each Representing a 1/1,000th Interest in a Share of 9.000% Non","Lincoln National Corporation Depositary Shares Each Representing a 1/1,000th Interest in a Share of 9.000% Non-Cumulative Preferred Stock, Series D",N,LNCpD,N,100.0,N,LNC-D
 LND,Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil),Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil),N,LND,N,100.0,N,LND
 LNG,"Cheniere Energy, Inc. Common Stock","Cheniere Energy, Inc. Common Stock",N,LNG,N,100.0,N,LNG
+LNGX,Global X Funds Global X U.S. Natural Gas ETF,Global X Funds Global X U.S. Natural Gas ETF,P,LNGX,Y,100.0,N,LNGX
 LNN,Lindsay Corporation Common Stock,Lindsay Corporation Common Stock,N,LNN,N,100.0,N,LNN
 LOAR,Loar Holdings Inc. Common Stock,Loar Holdings Inc. Common Stock,N,LOAR,N,100.0,N,LOAR
 LOB,"Live Oak Bancshares, Inc. Common Stock","Live Oak Bancshares, Inc. Common Stock",N,LOB,N,100.0,N,LOB
@@ -4741,6 +4739,7 @@ POR,Portland General Electric Co Common Stock,Portland General Electric Co Commo
 POST,"Post Holdings, Inc. Common Stock","Post Holdings, Inc. Common Stock",N,POST,N,100.0,N,POST
 POW,Tidal Trust III VistaShares Electrification Supercycle ETF,Tidal Trust III VistaShares Electrification Supercycle ETF,P,POW,Y,100.0,N,POW
 POWA,Invesco Bloomberg Pricing Power ETF,Invesco Bloomberg Pricing Power ETF,P,POWA,Y,100.0,N,POWA
+POWR,iShares U.S. Power Infrastructure ETF,iShares U.S. Power Infrastructure ETF,P,POWR,Y,100.0,N,POWR
 PPA,Invesco Aerospace & Defense ETF ,Invesco Aerospace & Defense ETF ,P,PPA,Y,100.0,N,PPA
 PPEM,Putnam ETF Trust Putnam PanAgora ESG Emerging Markets Equity ETF,Putnam ETF Trust Putnam PanAgora ESG Emerging Markets Equity ETF,P,PPEM,Y,100.0,N,PPEM
 PPG,"PPG Industries, Inc. Common Stock","PPG Industries, Inc. Common Stock",N,PPG,N,100.0,N,PPG
@@ -5373,6 +5372,7 @@ SF$D,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000t
 SFB,Stifel Financial Corporation 5.20% Senior Notes due 2047,Stifel Financial Corporation 5.20% Senior Notes due 2047,N,SFB,N,100.0,N,SFB
 SFBS,"ServisFirst Bancshares, Inc. Common Stock","ServisFirst Bancshares, Inc. Common Stock",N,SFBS,N,100.0,N,SFBS
 SFEB,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Small Cap Moderate Buffer ETF - February,Z,SFEB,Y,100.0,N,SFEB
+SFGV,Sequoia Global Value ETF,Sequoia Global Value ETF,P,SFGV,Y,100.0,N,SFGV
 SFL,SFL Corporation Ltd,SFL Corporation Ltd,N,SFL,N,100.0,N,SFL
 SFLR,Innovator ETFs Trust Innovator Equity Managed Floor ETF,Innovator ETFs Trust Innovator Equity Managed Floor ETF,P,SFLR,Y,100.0,N,SFLR
 SFTY,Horizon Funds Horizon Managed Risk ETF,Horizon Funds Horizon Managed Risk ETF,Z,SFTY,Y,100.0,N,SFTY
@@ -6679,7 +6679,9 @@ YBTC,Roundhill ETF Trust Roundhill Bitcoin Covered Call Strategy ETF,Roundhill E
 YCBD,"cbdMD, Inc. Common Stock","cbdMD, Inc. Common Stock",A,YCBD,N,100.0,N,YCBD
 YCL,ProShares Ultra Yen,ProShares Ultra Yen,P,YCL,Y,100.0,N,YCL
 YCS,ProShares UltraShort Yen New,ProShares UltraShort Yen New,P,YCS,Y,100.0,N,YCS
+YCY,AA Mission Acquisition Corp. II Class A Ordinary Shares,AA Mission Acquisition Corp. II Class A Ordinary Shares,N,YCY,N,100.0,N,YCY
 YCY.U,"AA Mission Acquisition Corp. II Units, each consisting of one Class A ordinary share and one","AA Mission Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one warrant",N,YCY.U,N,100.0,N,YCY=
+YCY.W,"AA Mission Acquisition Corp. II Warrants, each whole warrant entitles to purchase one Class A ordinary share at a price of $11.50 per share","AA Mission Acquisition Corp. II Warrants, each whole warrant entitles to purchase one Class A ordinary share at a price of $11.50 per share",N,YCY.WS,N,100.0,N,YCY+
 YDEC,FT Vest International Equity Moderate Buffer ETF ,FT Vest International Equity Moderate Buffer ETF - December,Z,YDEC,Y,100.0,N,YDEC
 YEAR,"AB Active ETFs, Inc. AB Ultra Short Income ETF","AB Active ETFs, Inc. AB Ultra Short Income ETF",P,YEAR,Y,100.0,N,YEAR
 YELP,Yelp Inc. Common Stock,Yelp Inc. Common Stock,N,YELP,N,100.0,N,YELP
