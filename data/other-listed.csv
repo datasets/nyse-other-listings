@@ -366,7 +366,6 @@ ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock","Grupo Aeroport
 ASTX,Tradr 2X Long ASTS Daily ETF,Tradr 2X Long ASTS Daily ETF,Z,ASTX,Y,100.0,N,ASTX
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ","ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",N,ASX,N,100.0,N,ASX
 ATCH,"AtlasClear Holdings, Inc. Common Stock","AtlasClear Holdings, Inc. Common Stock",A,ATCH,N,100.0,N,ATCH
-ATCO$H,Atlas Corp. 7.875% Series H,Atlas Corp. 7.875% Series H,N,ATCOpH,N,100.0,N,ATCO-H
 ATEN,"A10 Networks, Inc. Common Stock","A10 Networks, Inc. Common Stock",N,ATEN,N,100.0,N,ATEN
 ATFV,Alger 35 ETF,Alger 35 ETF,P,ATFV,Y,100.0,N,ATFV
 ATGE,Adtalem Global Education Inc. Common Stock,Adtalem Global Education Inc. Common Stock,N,ATGE,N,100.0,N,ATGE
@@ -1065,7 +1064,6 @@ CHIQ,Global X MSCI China Consumer Discretionary ETF,Global X MSCI China Consumer
 CHMI,Cherry Hill Mortgage Investment Corporation Common Stock,Cherry Hill Mortgage Investment Corporation Common Stock,N,CHMI,N,100.0,N,CHMI
 CHMI$A,Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Redeemable Preferred Stock,Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Redeemable Preferred Stock,N,CHMIpA,N,100.0,N,CHMI-A
 CHMI$B,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,CHMIpB,N,100.0,N,CHMI-B
-CHN,"China Fund, Inc. (The) Common Stock","China Fund, Inc. (The) Common Stock",N,CHN,N,100.0,N,CHN
 CHOW,ChowChow Cloud International Holdings Limited Ordinary Shares,ChowChow Cloud International Holdings Limited Ordinary Shares,A,CHOW,N,100.0,N,CHOW
 CHPT,"ChargePoint Holdings, Inc. Common Stock","ChargePoint Holdings, Inc. Common Stock",N,CHPT,N,100.0,N,CHPT
 CHPY,Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF,Tidal Trust II YieldMax Semiconductor Portfolio Option Income ETF,P,CHPY,Y,100.0,N,CHPY
@@ -2378,7 +2376,7 @@ FTS,Fortis Inc. Common Shares,Fortis Inc. Common Shares,N,FTS,N,100.0,N,FTS
 FTSD,Franklin Short Duration U.S. Government ETF,Franklin Short Duration U.S. Government ETF,P,FTSD,Y,100.0,N,FTSD
 FTV,Fortive Corporation Common Stock ,Fortive Corporation Common Stock ,N,FTV,N,100.0,N,FTV
 FTWO,Strive Natural Resources and Security ETF,Strive Natural Resources and Security ETF,N,FTWO,Y,100.0,N,FTWO
-FUBO,fuboTV Inc. Common Stock,fuboTV Inc. Common Stock,N,FUBO,N,100.0,N,FUBO
+FUBO,FuboTV Inc. Class A Common Stock,FuboTV Inc. Class A Common Stock,N,FUBO,N,100.0,N,FUBO
 FUL,H. B. Fuller Company Common Stock,H. B. Fuller Company Common Stock,N,FUL,N,100.0,N,FUL
 FUMB,First Trust Ultra Short Duration Municipal ETF,First Trust Ultra Short Duration Municipal ETF,P,FUMB,Y,100.0,N,FUMB
 FUN,Six Flags Entertainment Corporation Common Stock New,Six Flags Entertainment Corporation Common Stock New,N,FUN,N,100.0,N,FUN
@@ -2473,6 +2471,7 @@ GDX,VanEck Gold Miners ETF ,VanEck Gold Miners ETF ,P,GDX,Y,100.0,N,GDX
 GDXD,MicroSectors Gold Miners ,MicroSectors Gold Miners -3X Inverse Leveraged ETNs,P,GDXD,Y,100.0,N,GDXD
 GDXJ,VanEck Junior Gold Miners ETF,VanEck Junior Gold Miners ETF,P,GDXJ,Y,100.0,N,GDXJ
 GDXU,MicroSectors Gold Miners 3X Leveraged ETN,MicroSectors Gold Miners 3X Leveraged ETN,P,GDXU,Y,100.0,N,GDXU
+GDXW,Roundhill Gold Miners WeeklyPay ETF,Roundhill Gold Miners WeeklyPay ETF,Z,GDXW,Y,100.0,N,GDXW
 GDXY,Tidal Trust II YieldMax Gold Miners Option Income Strategy ETF,Tidal Trust II YieldMax Gold Miners Option Income Strategy ETF,P,GDXY,Y,100.0,N,GDXY
 GE,GE Aerospace Common Stock,GE Aerospace Common Stock,N,GE,N,100.0,N,GE
 GEF,Greif Inc. Class A Common Stock,Greif Inc. Class A Common Stock,N,GEF,N,100.0,N,GEF
@@ -2547,6 +2546,7 @@ GLBL,Pacer Funds Trust Pacer MSCI World Industry Advantage ETF,Pacer Funds Trust
 GLD,SPDR Gold Trust,SPDR Gold Trust,P,GLD,Y,100.0,N,GLD
 GLDG,GoldMining Inc. Common Shares,GoldMining Inc. Common Shares,A,GLDG,N,100.0,N,GLDG
 GLDM,SPDR Gold MiniShares Trust,SPDR Gold MiniShares Trust,P,GLDM,Y,100.0,N,GLDM
+GLDW,Roundhill Gold WeeklyPay ETF,Roundhill Gold WeeklyPay ETF,Z,GLDW,Y,100.0,N,GLDW
 GLIN,VanEck India Growth Leaders ETF,VanEck India Growth Leaders ETF,P,GLIN,Y,100.0,N,GLIN
 GLIX,Lazard Active ETF Trust Lazard Listed Infrastructure ETF,Lazard Active ETF Trust Lazard Listed Infrastructure ETF,P,GLIX,Y,100.0,N,GLIX
 GLL,ProShares UltraShort Gold,ProShares UltraShort Gold,P,GLL,Y,100.0,N,GLL
@@ -4061,6 +4061,7 @@ MUNB,Northern Funds Northern Trust 2035 Tax,Northern Funds Northern Trust 2035 T
 MUNC,Northern Funds Northern Trust 2045 Tax,Northern Funds Northern Trust 2045 Tax-Exempt Distributing Ladder ETF,P,MUNC,Y,100.0,N,MUNC
 MUND,Northern Funds Northern Trust 2055 Tax,Northern Funds Northern Trust 2055 Tax-Exempt Distributing Ladder ETF,P,MUND,Y,100.0,N,MUND
 MUNI,PIMCO Intermediate Municipal Bond Active Exchange,PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund,P,MUNI,Y,100.0,N,MUNI
+MUNX,AMG ETF Trust AMG GW&K Muni Income ETF,AMG ETF Trust AMG GW&K Muni Income ETF,P,MUNX,Y,100.0,N,MUNX
 MUNY,Vanguard New York Tax,Vanguard New York Tax-Exempt Bond ETF,Z,MUNY,Y,100.0,N,MUNY
 MUR,Murphy Oil Corporation Common Stock,Murphy Oil Corporation Common Stock,N,MUR,N,100.0,N,MUR
 MUSA,Murphy USA Inc. Common Stock,Murphy USA Inc. Common Stock,N,MUSA,N,100.0,N,MUSA
@@ -4376,7 +4377,6 @@ OBK,"Origin Bancorp, Inc. Common Stock","Origin Bancorp, Inc. Common Stock",N,OB
 OBND,SPDR Loomis Sayles Opportunistic Bond ETF,SPDR Loomis Sayles Opportunistic Bond ETF,Z,OBND,Y,100.0,N,OBND
 OBOR,KraneShares MSCI One Belt One Road Index ETF,KraneShares MSCI One Belt One Road Index ETF,P,OBOR,Y,100.0,N,OBOR
 OC,Owens Corning Inc Common Stock New,Owens Corning Inc Common Stock New,N,OC,N,100.0,N,OC
-OCFS,Professionally Managed Portfolios Otter Creek Focus Strategy ETF,Professionally Managed Portfolios Otter Creek Focus Strategy ETF,P,OCFS,Y,100.0,N,OCFS
 OCFT,"OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares","OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares",N,OCFT,N,100.0,N,OCFT
 OCIO,ClearShares OCIO ETF,ClearShares OCIO ETF,P,OCIO,Y,100.0,N,OCIO
 OCTB,ETF Series Solutions Aptus October Buffer ETF,ETF Series Solutions Aptus October Buffer ETF,Z,OCTB,Y,100.0,N,OCTB
@@ -4448,7 +4448,7 @@ OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock","River
 OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock",N,OPPpA,N,100.0,N,OPP-A
 OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock",N,OPPpB,N,100.0,N,OPP-B
 OPP$C,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share)",A,OPPpC,N,100.0,N,OPP-C
-OPP.V,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights when issued","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights when issued",N,OPPrw,N,100.0,N,OPP^#
+OPP.R,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights",N,OPPr,N,100.0,N,OPP^
 OPPE,WisdomTree European Opportunities Fund,WisdomTree European Opportunities Fund,P,OPPE,Y,100.0,N,OPPE
 OPTT,"Ocean Power Technologies, Inc. Common Stock","Ocean Power Technologies, Inc. Common Stock",A,OPTT,N,100.0,N,OPTT
 OPY,"Oppenheimer Holdings, Inc. Class A Common Stock (DE)","Oppenheimer Holdings, Inc. Class A Common Stock (DE)",N,OPY,N,100.0,N,OPY
