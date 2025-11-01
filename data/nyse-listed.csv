@@ -344,6 +344,7 @@ BGH,Barings Global Short Duration High Yield Fund Common Shares of Beneficial In
 BGR,BlackRock Energy and Resources Trust
 BGS,"B&G Foods, Inc. Common Stock"
 BGSF,"BGSF, Inc. Common Stock"
+BGSI,Boyd Group Services Inc. Common Shares
 BGT,BlackRock Floating Rate Income Trust
 BGX,Blackstone Long Short Credit Income Fund Common Shares
 BGY,Blackrock Enhanced International Dividend Trust
@@ -516,7 +517,6 @@ CCK,"Crown Holdings, Inc."
 CCL,Carnival Corporation Common Stock
 CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)
 CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock"
-CCRD,CoreCard Corporation Common Stock
 CCS,"Century Communities, Inc. Common Stock"
 CCU,"Compania Cervecerias Unidas, S.A. Common Stock"
 CCZ,Comcast Holdings ZONES
@@ -2561,7 +2561,6 @@ THW,abrdn World Healthcare Fund Shares of Beneficial Interest
 TIC,"TIC Solutions, Inc. Common Stock"
 TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
 TISI,"Team, Inc. Common Stock"
-TIXT,TELUS International (Cda) Inc. Subordinate Voting Shares
 TJX,"TJX Companies, Inc. (The) Common Stock"
 TK,Teekay Corporation Ltd. Common Stock
 TKC,Turkcell Iletisim Hizmetleri AS Common Stock
@@ -2698,6 +2697,7 @@ UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"
 UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"
 V,Visa Inc.
 VAC,Marriott Vacations Worldwide Corporation Common Stock
+VACI.U,"Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one"
 VAL,Valaris Limited Common Shares
 VAL.W,Valaris Limited Warrants
 VALE,VALE S.A.  American Depositary Shares Each Representing one common share
@@ -2841,7 +2841,6 @@ WU,Western Union Company (The) Common Stock
 WWW,"Wolverine World Wide, Inc. Common Stock"
 WY,Weyerhaeuser Company Common Stock
 XFLT,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest
-XFLT$A,"XAI Octagon Floating Rate & Alternative Income Trust 6.50% Series 2026 Term Preferred Shares, (Liquidation Preference $25.00)"
 XHR,"Xenia Hotels & Resorts, Inc. Common Stock"
 XIFR,"XPLR Infrastructure, LP Common Units representing limited partner interests"
 XOM,Exxon Mobil Corporation Common Stock
