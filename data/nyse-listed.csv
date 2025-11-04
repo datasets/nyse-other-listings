@@ -510,7 +510,6 @@ CBU,"Community Financial System, Inc. Common Stock"
 CBZ,"CBIZ, Inc. Common Stock"
 CC,Chemours Company (The) Common Stock
 CCI,Crown Castle Inc. Common Stock
-CCIA,Carlyle Credit Income Fund 8.75% Series A Preferred Shares due 2028
 CCIF,Carlyle Credit Income Fund Shares of Beneficial Interest
 CCJ,Cameco Corporation Common Stock
 CCK,"Crown Holdings, Inc."
@@ -744,7 +743,6 @@ DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J "
 DCI,"Donaldson Company, Inc. Common Stock"
 DCO,Ducommun Incorporated Common Stock
 DD,"DuPont de Nemours, Inc. Common Stock"
-DD.V,"DuPont de Nemours, Inc. Common Stock When"
 DDD,3D Systems Corporation Common Stock
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)
 DDS,"Dillard's, Inc. Common Stock"
@@ -895,6 +893,7 @@ ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each re
 ELS,"Equity Lifestyle Properties, Inc. Common Stock"
 ELV,"Elevance Health, Inc. Common Stock"
 EMA,Emera Incorporated Common Shares
+EMBJ,Embraer S.A. Common Stock
 EMD,Western Asset Emerging Markets Debt Fund Inc Common Stock
 EME,"EMCOR Group, Inc. Common Stock"
 EMF,Templeton Emerging Markets Fund Common Stock
@@ -933,10 +932,6 @@ EQNR,Equinor ASA
 EQR,Equity Residential Common Shares of Beneficial Interest
 EQS,"Equus Total Return, Inc. Common Stock"
 EQT,EQT Corporation Common Stock
-EQV,EQV Ventures Acquisition Corp. Class A Ordinary Shares
-EQV.U,"EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one"
-EQV.W,"EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
-ERJ,Embraer S.A. Common Stock
 ERO,Ero Copper Corp. Common Shares
 ES,Eversource Energy (D/B/A) Common Stock
 ESAB,ESAB Corporation Common Stock
@@ -1078,6 +1073,9 @@ FTI,TechnipFMC plc Ordinary Share
 FTK,"Flotek Industries, Inc. Common Stock"
 FTS,Fortis Inc. Common Shares
 FTV,Fortive Corporation Common Stock 
+FTW,EQV Ventures Acquisition Corp. Class A Ordinary Shares
+FTW.U,"EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one"
+FTW.W,"EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 FTWO,Strive Natural Resources and Security ETF
 FUBO,FuboTV Inc. Class A Common Stock
 FUL,H. B. Fuller Company Common Stock
@@ -2120,7 +2118,6 @@ PSBD,Palmer Square Capital BDC Inc. Common Stock
 PSEC$A,Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock
 PSF,"Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock"
 PSFE,Paysafe Limited Common Shares
-PSFE.W,"Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 per share"
 PSN,Parsons Corporation Common Stock
 PSO,"Pearson, Plc Common Stock"
 PSQH,"PSQ Holdings, Inc. Class A Common Stock"
@@ -2138,7 +2135,7 @@ PWR,"Quanta Services, Inc. Common Stock"
 PX,"P10, Inc. Class A Common Stock"
 PXED,"Phoenix Education Partners, Inc. Common Stock"
 PYT,PPlus Tr GSC
-Q.V,"Qnity Electronics, Inc. Common Stock When"
+Q,"Qnity Electronics, Inc. Common Stock"
 QBTS,D
 QBTS.W,D
 QD,"Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share"
@@ -2477,6 +2474,7 @@ STZ,"Constellation Brands, Inc. Common Stock"
 SU,Suncor Energy  Inc. Common Stock
 SUI,"Sun Communities, Inc. Common Stock"
 SUN,Sunoco LP Common Units representing limited partner interests
+SUNC,"SunocoCorp LLC Common Units, representing limited liability company interests"
 SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares
 SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
 SVV,"Savers Value Village, Inc. Common Stock"
