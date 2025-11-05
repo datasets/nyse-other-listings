@@ -598,6 +598,7 @@ BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,B
 BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,N,BEPJ,N,100.0,N,BEPJ
 BERZ,MicroSectors FANG & Innovation ,MicroSectors FANG & Innovation -3x Inverse Leveraged ETN,P,BERZ,Y,100.0,N,BERZ
 BESF,EA Series Trust Bastion Energy ETF,EA Series Trust Bastion Energy ETF,Z,BESF,Y,100.0,N,BESF
+BETA,"Beta Technologies, Inc. Class A Common Stock","Beta Technologies, Inc. Class A Common Stock",N,BETA,N,100.0,N,BETA
 BETE,ProShares Bitcoin & Ether Equal Weight ETF,ProShares Bitcoin & Ether Equal Weight ETF,P,BETE,Y,100.0,N,BETE
 BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,ProShares Bitcoin & Ether Market Cap Weight ETF,P,BETH,Y,100.0,N,BETH
 BETZ,Roundhill Sports Betting & iGaming ETF,Roundhill Sports Betting & iGaming ETF,P,BETZ,Y,100.0,N,BETZ
@@ -980,6 +981,7 @@ CC,Chemours Company (The) Common Stock,Chemours Company (The) Common Stock,N,CC,
 CCEF,Calamos ETF Trust Calamos CEF Income & Arbitrage ETF,Calamos ETF Trust Calamos CEF Income & Arbitrage ETF,P,CCEF,Y,100.0,N,CCEF
 CCEL,Cryo,"Cryo-Cell International, Inc. Common Stock",A,CCEL,N,100.0,N,CCEL
 CCI,Crown Castle Inc. Common Stock,Crown Castle Inc. Common Stock,N,CCI,N,100.0,N,CCI
+CCID,Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028,Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028,N,CCID,N,100.0,N,CCID
 CCIF,Carlyle Credit Income Fund Shares of Beneficial Interest,Carlyle Credit Income Fund Shares of Beneficial Interest,N,CCIF,N,100.0,N,CCIF
 CCJ,Cameco Corporation Common Stock,Cameco Corporation Common Stock,N,CCJ,N,100.0,N,CCJ
 CCK,"Crown Holdings, Inc.","Crown Holdings, Inc.",N,CCK,N,100.0,N,CCK
@@ -1355,6 +1357,7 @@ CWEN,"Clearway Energy, Inc. Class C Common Stock","Clearway Energy, Inc. Class C
 CWEN.A,"Clearway Energy, Inc. Class A Common Stock","Clearway Energy, Inc. Class A Common Stock",N,CWEN.A,N,100.0,N,CWEN.A
 CWH,"Camping World Holdings, Inc. Class A Common Stock","Camping World Holdings, Inc. Class A Common Stock",N,CWH,N,100.0,N,CWH
 CWI,SPDR MSCI ACWI ex,SPDR MSCI ACWI ex-US ETF,P,CWI,Y,100.0,N,CWI
+CWII,REX ETF Trust REX CRWV Growth & Income ETF,REX ETF Trust REX CRWV Growth & Income ETF,Z,CWII,Y,100.0,N,CWII
 CWK,Cushman & Wakefield plc Ordinary Shares,Cushman & Wakefield plc Ordinary Shares,N,CWK,N,100.0,N,CWK
 CWS,AdvisorShares Focused Equity ETF,AdvisorShares Focused Equity ETF,P,CWS,Y,100.0,N,CWS
 CWT,California Water Service Group Common Stock,California Water Service Group Common Stock,N,CWT,N,100.0,N,CWT
@@ -2434,7 +2437,6 @@ GBCI,"Glacier Bancorp, Inc. Common Stock","Glacier Bancorp, Inc. Common Stock",N
 GBF,iShares Government/Credit Bond ETF,iShares Government/Credit Bond ETF,P,GBF,Y,100.0,N,GBF
 GBIL,Goldman Sachs Access Treasury 0,Goldman Sachs Access Treasury 0-1 Year ETF,P,GBIL,Y,100.0,N,GBIL
 GBLD,Invesco MSCI Green Building ETF,Invesco MSCI Green Building ETF,P,GBLD,Y,100.0,N,GBLD
-GBLI,"Global Indemnity Group, LLC Class A Common Stock (DE)","Global Indemnity Group, LLC Class A Common Stock (DE)",N,GBLI,N,100.0,N,GBLI
 GBND,Goldman Sachs ETF Trust Goldman Sachs Core Bond ETF,Goldman Sachs ETF Trust Goldman Sachs Core Bond ETF,P,GBND,Y,100.0,N,GBND
 GBR,"New Concept Energy, Inc Common Stock","New Concept Energy, Inc Common Stock",A,GBR,N,100.0,N,GBR
 GBTC,Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest,Grayscale Bitcoin Trust (BTC) Common Units of fractional undivided beneficial interest,P,GBTC,Y,100.0,N,GBTC
@@ -2838,6 +2840,7 @@ HNGE,"Hinge Health, Inc. Class A Common Stock","Hinge Health, Inc. Class A Commo
 HNI,HNI Corporation Common Stock,HNI Corporation Common Stock,N,HNI,N,100.0,N,HNI
 HODL,VanEck Bitcoin Trust Common Shares of Beneficial Interest,VanEck Bitcoin Trust Common Shares of Beneficial Interest,Z,HODL,Y,100.0,N,HODL
 HOG,Harley,"Harley-Davidson, Inc. Common Stock",N,HOG,N,100.0,N,HOG
+HOII,REX ETF Trust REX HOOD Growth & Income ETF,REX ETF Trust REX HOOD Growth & Income ETF,Z,HOII,Y,100.0,N,HOII
 HOLA,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan International Hedged Equity Laddered Overlay ETF,P,HOLA,Y,100.0,N,HOLA
 HOLD,Harbor ETF Trust Harbor Alpha Layering ETF,Harbor ETF Trust Harbor Alpha Layering ETF,P,HOLD,Y,100.0,N,HOLD
 HOMB,"Home BancShares, Inc. Common Stock","Home BancShares, Inc. Common Stock",N,HOMB,N,100.0,N,HOMB
@@ -3661,6 +3664,7 @@ LJAN,Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF ,Innovator ETFs
 LJUL,SHL Telemedicine Ltd Innovator Premium Income 15 Buffer ETF ,SHL Telemedicine Ltd Innovator Premium Income 15 Buffer ETF - July,Z,LJUL,Y,100.0,N,LJUL
 LKOR,FlexShares Trust FlexShares Credit,FlexShares Trust FlexShares Credit-Scored US Long Corporate Bond Index Fund,Z,LKOR,Y,100.0,N,LKOR
 LLDR,Global X Funds Global X Long,Global X Funds Global X Long-Term Treasury Ladder ETF,P,LLDR,Y,100.0,N,LLDR
+LLII,REX ETF Trust REX LLY Growth & Income ETF,REX ETF Trust REX LLY Growth & Income ETF,Z,LLII,Y,100.0,N,LLII
 LLY,Eli Lilly and Company Common Stock,Eli Lilly and Company Common Stock,N,LLY,N,40.0,N,LLY
 LLYX,Tidal Trust II Defiance Daily Target 2X Long LLY ETF,Tidal Trust II Defiance Daily Target 2X Long LLY ETF,P,LLYX,Y,100.0,N,LLYX
 LMBO,Direxion Shares ETF Trust Direxion Daily Crypto Industry Bull 2X Shares,Direxion Shares ETF Trust Direxion Daily Crypto Industry Bull 2X Shares,P,LMBO,Y,100.0,N,LMBO
@@ -4697,6 +4701,7 @@ PLNT,"Planet Fitness, Inc. Common Stock","Planet Fitness, Inc. Common Stock",N,P
 PLOO,Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Z,PLOO,Y,100.0,N,PLOO
 PLOW,"Douglas Dynamics, Inc. Common Stock","Douglas Dynamics, Inc. Common Stock",N,PLOW,N,100.0,N,PLOW
 PLTA,ProShares Trust ProShares Ultra PLTR,ProShares Trust ProShares Ultra PLTR,P,PLTA,Y,100.0,N,PLTA
+PLTI,REX ETF Trust REX PLTR Growth & Income ETF,REX ETF Trust REX PLTR Growth & Income ETF,Z,PLTI,Y,100.0,N,PLTI
 PLTM,GraniteShares Platinum Shares ETF,GraniteShares Platinum Shares ETF,P,PLTM,Y,100.0,N,PLTM
 PLTW,Roundhill ETF Trust Roundhill PLTR WeeklyPay ETF,Roundhill ETF Trust Roundhill PLTR WeeklyPay ETF,Z,PLTW,Y,100.0,N,PLTW
 PLTY,Tidal Trust II YieldMax PLTR Option Income Strategy ETF,Tidal Trust II YieldMax PLTR Option Income Strategy ETF,P,PLTY,Y,100.0,N,PLTY
@@ -5546,6 +5551,7 @@ SOJD,"Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due Ja
 SOJE,"Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060","Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060",N,SOJE,N,100.0,N,SOJE
 SOJF,"Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085","Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085",N,SOJF,N,100.0,N,SOJF
 SOL,"Emeren Group Ltd American Depositary Shares, each representing 10 shares","Emeren Group Ltd American Depositary Shares, each representing 10 shares",N,SOL,N,100.0,N,SOL
+SOLM,Amplify ETF Trust Amplify Solana 3% Monthly Option Income ETF,Amplify ETF Trust Amplify Solana 3% Monthly Option Income ETF,Z,SOLM,Y,100.0,N,SOLM
 SOLR,SmartETFs Sustainable Energy II ETF,SmartETFs Sustainable Energy II ETF,P,SOLR,Y,100.0,N,SOLR
 SOLV,Solventum Corporation Common Stock,Solventum Corporation Common Stock,N,SOLV,N,100.0,N,SOLV
 SON,Sonoco Products Company Common Stock,Sonoco Products Company Common Stock,N,SON,N,100.0,N,SON
@@ -6485,6 +6491,7 @@ WMB,"Williams Companies, Inc. (The) Common Stock","Williams Companies, Inc. (The
 WMK,"Weis Markets, Inc. Common Stock","Weis Markets, Inc. Common Stock",N,WMK,N,100.0,N,WMK
 WMS,"Advanced Drainage Systems, Inc. Common Stock","Advanced Drainage Systems, Inc. Common Stock",N,WMS,N,100.0,N,WMS
 WMT,Walmart Inc. Common Stock,Walmart Inc. Common Stock,N,WMT,N,100.0,N,WMT
+WMTI,REX ETF Trust REX WMT Growth & Income ETF,REX ETF Trust REX WMT Growth & Income ETF,Z,WMTI,Y,100.0,N,WMTI
 WNC,Wabash National Corporation Common Stock,Wabash National Corporation Common Stock,N,WNC,N,100.0,N,WNC
 WNTR,Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF,Tidal Trust II YieldMax  MSTR Short Option Income Strategy ETF,P,WNTR,Y,100.0,N,WNTR
 WOLF,"Wolfspeed, Inc. Common Stock New","Wolfspeed, Inc. Common Stock New",N,WOLF,N,100.0,N,WOLF
