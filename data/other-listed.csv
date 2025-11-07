@@ -89,6 +89,7 @@ AEMS,Two Roads Shared Trust Anfield Enhanced Market ETF,Two Roads Shared Trust A
 AEO,"American Eagle Outfitters, Inc. Common Stock","American Eagle Outfitters, Inc. Common Stock",N,AEO,N,100.0,N,AEO
 AEON,"AEON Biopharma, Inc. Class A Common Stock","AEON Biopharma, Inc. Class A Common Stock",A,AEON,N,100.0,N,AEON
 AER,AerCap Holdings N.V. Ordinary Shares,AerCap Holdings N.V. Ordinary Shares,N,AER,N,100.0,N,AER
+AERO,"Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)","Grupo Aeromexico, S.A.B. de C.V. American Depositary Shares (each representing ten (10) Common Shares)",N,AERO,N,100.0,N,AERO
 AES,The AES Corporation Common Stock,The AES Corporation Common Stock,N,AES,N,100.0,N,AES
 AESI,Atlas Energy Solutions Inc. Common Stock,Atlas Energy Solutions Inc. Common Stock,N,AESI,N,100.0,N,AESI
 AESR,Anfield U.S. Equity Sector Rotation ETF,Anfield U.S. Equity Sector Rotation ETF,Z,AESR,Y,100.0,N,AESR
@@ -1977,6 +1978,7 @@ EUAD,Spinnaker ETF Series Select STOXX Europe Aerospace & Defense ETF,Spinnaker 
 EUDG,WisdomTree Europe Quality Dividend Growth Fund,WisdomTree Europe Quality Dividend Growth Fund,P,EUDG,Y,100.0,N,EUDG
 EUDV,ProShares MSCI Europe Dividend Growers ETF,ProShares MSCI Europe Dividend Growers ETF,Z,EUDV,Y,100.0,N,EUDV
 EUHY,iShares Euro High Yield Corporate Bond USD Hedged ETF,iShares Euro High Yield Corporate Bond USD Hedged ETF,Z,EUHY,Y,100.0,N,EUHY
+EUIG,iShares Trust iShares Euro Investment Grade Corporate Bond USD Hedged ETF,iShares Trust iShares Euro Investment Grade Corporate Bond USD Hedged ETF,Z,EUIG,Y,100.0,N,EUIG
 EUM,ProShares Short MSCI Emerging Markets,ProShares Short MSCI Emerging Markets,P,EUM,Y,100.0,N,EUM
 EUO,ProShares UltraShort Euro,ProShares UltraShort Euro,P,EUO,Y,100.0,N,EUO
 EURL,Direxion Daily FTSE Europe Bull 3x Shares,Direxion Daily FTSE Europe Bull 3x Shares,P,EURL,Y,100.0,N,EURL
@@ -1996,6 +1998,7 @@ EVI,"EVI Industries, Inc.  Common Stock","EVI Industries, Inc.  Common Stock",A,
 EVIM,Morgan Stanley ETF Trust Eaton Vance Intermediate Municipal Income ETF,Morgan Stanley ETF Trust Eaton Vance Intermediate Municipal Income ETF,P,EVIM,Y,100.0,N,EVIM
 EVLN,Morgan Stanley ETF Trust Eaton Vance Floating,Morgan Stanley ETF Trust Eaton Vance Floating-Rate ETF,P,EVLN,Y,100.0,N,EVLN
 EVLU,iShares Trust iShares MSCI Emerging Markets Value Factor ETF,iShares Trust iShares MSCI Emerging Markets Value Factor ETF,Z,EVLU,Y,100.0,N,EVLU
+EVMN,"Evommune, Inc. Common Stock","Evommune, Inc. Common Stock",N,EVMN,N,100.0,N,EVMN
 EVMO,Morgan Stanley ETF Trust Eaton Vance Mortgage Opportunities ETF,Morgan Stanley ETF Trust Eaton Vance Mortgage Opportunities ETF,P,EVMO,Y,100.0,N,EVMO
 EVN,Eaton Vance Municipal Income Trust Common Stock,Eaton Vance Municipal Income Trust Common Stock,N,EVN,N,100.0,N,EVN
 EVNT,AltShares Event,AltShares Event-Driven ETF,P,EVNT,Y,100.0,N,EVNT
@@ -3986,7 +3989,6 @@ MPW,"Medical Properties Trust, Inc. common stock","Medical Properties Trust, Inc
 MPX,Marine Products Corporation Common Stock,Marine Products Corporation Common Stock,N,MPX,N,100.0,N,MPX
 MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock","Blackrock MuniYield Quality Fund II, Inc. Common Stock",N,MQT,N,100.0,N,MQT
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock","Blackrock MuniYield Quality Fund, Inc. Common Stock",N,MQY,N,100.0,N,MQY
-MRC,MRC Global Inc. Common Stock,MRC Global Inc. Common Stock,N,MRC,N,100.0,N,MRC
 MRCP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - March,Z,MRCP,Y,100.0,N,MRCP
 MRGR,ProShares Merger ETF,ProShares Merger ETF,Z,MRGR,Y,100.0,N,MRGR
 MRK,"Merck & Company, Inc. Common Stock (new)","Merck & Company, Inc. Common Stock (new)",N,MRK,N,100.0,N,MRK
@@ -4041,6 +4043,7 @@ MTA,Metalla Royalty & Streaming Ltd. Common Shares,Metalla Royalty & Streaming L
 MTB,M&T Bank Corporation Common Stock,M&T Bank Corporation Common Stock,N,MTB,N,100.0,N,MTB
 MTB$H,M&T Bank Corporation Perpetual Fixed,"M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H",N,MTBpH,N,100.0,N,MTB-H
 MTB$J,M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J",N,MTBpJ,N,100.0,N,MTB-J
+MTB$K,M&T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non,"M&T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",N,MTBpK,N,100.0,N,MTB-K
 MTBA,Simplify Exchange Traded Funds Simplify MBS ETF,Simplify Exchange Traded Funds Simplify MBS ETF,P,MTBA,Y,100.0,N,MTBA
 MTD,Mettler,"Mettler-Toledo International, Inc. Common Stock",N,MTD,N,10.0,N,MTD
 MTDR,Matador Resources Company Common Stock,Matador Resources Company Common Stock,N,MTDR,N,100.0,N,MTDR
@@ -5735,6 +5738,7 @@ SU,Suncor Energy  Inc. Common Stock,Suncor Energy  Inc. Common Stock,N,SU,N,100.
 SUB,iShares Short,iShares Short-Term National Muni Bond ETF,P,SUB,Y,100.0,N,SUB
 SUI,"Sun Communities, Inc. Common Stock","Sun Communities, Inc. Common Stock",N,SUI,N,100.0,N,SUI
 SUN,Sunoco LP Common Units representing limited partner interests,Sunoco LP Common Units representing limited partner interests,N,SUN,N,100.0,N,SUN
+SUNC,"SunocoCorp LLC Common Units, representing limited liability company interests","SunocoCorp LLC Common Units, representing limited liability company interests",N,SUNC,N,100.0,N,SUNC
 SUPL,ProShares Trust ProShares Supply Chain Logistics ETF,ProShares Trust ProShares Supply Chain Logistics ETF,P,SUPL,Y,100.0,N,SUPL
 SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,N,SUPV,N,100.0,N,SUPV
 SURE,AdvisorShares Insider Advantage ETF,AdvisorShares Insider Advantage ETF,P,SURE,Y,100.0,N,SURE
