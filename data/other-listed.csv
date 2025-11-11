@@ -447,6 +447,8 @@ AWP,abrdn Global Premier Properties Fund Common Shares of Beneficial Interest,ab
 AWR,American States Water Company Common Stock,American States Water Company Common Stock,N,AWR,N,100.0,N,AWR
 AWX,Avalon Holdings Corporation Common Stock,Avalon Holdings Corporation Common Stock,A,AWX,N,100.0,N,AWX
 AX,"Axos Financial, Inc. Common Stock","Axos Financial, Inc. Common Stock",N,AX,N,100.0,N,AX
+AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share),AXIA Energia American Depositary Shares (Each representing one Common Share),N,AXIA,N,100.0,N,AXIA
+AXIA$,AXIA Energia American Depositary Shares (Each representing one Preferred Share),AXIA Energia American Depositary Shares (Each representing one Preferred Share),N,AXIAp,N,100.0,N,AXIA-
 AXIL,"AXIL Brands, Inc. Common Stock","AXIL Brands, Inc. Common Stock",A,AXIL,N,100.0,N,AXIL
 AXL,"American Axle & Manufacturing Holdings, Inc. Common Stock","American Axle & Manufacturing Holdings, Inc. Common Stock",N,AXL,N,100.0,N,AXL
 AXP,American Express Company Common Stock,American Express Company Common Stock,N,AXP,N,40.0,N,AXP
@@ -1208,6 +1210,7 @@ COPL.W,"Copley Acquisition Corp Redeemable warrants, each whole warrant exercisa
 COPX,Global X Copper Miners ETF,Global X Copper Miners ETF,P,COPX,Y,100.0,N,COPX
 COPY,"The RBB Fund Trust Tweedy, Browne Insider + Value ETF","The RBB Fund Trust Tweedy, Browne Insider + Value ETF",P,COPY,Y,100.0,N,COPY
 COR,"Cencora, Inc. Common Stock","Cencora, Inc. Common Stock",N,COR,N,40.0,N,COR
+CORB,"AB Active ETFs, Inc. AB Core Bond ETF","AB Active ETFs, Inc. AB Core Bond ETF",P,CORB,Y,100.0,N,CORB
 CORD,ETF Opportunities Trust T,ETF Opportunities Trust T-REX 2X Inverse CRWV Daily Target ETF,Z,CORD,Y,100.0,N,CORD
 CORN,Teucrium Corn Fund ETV,Teucrium Corn Fund ETV,P,CORN,Y,100.0,N,CORN
 CORP,Pimco Investment Grade Corporate Bond Index Exchange,Pimco Investment Grade Corporate Bond Index Exchange-Traded Fund,P,CORP,Y,100.0,N,CORP
@@ -1706,8 +1709,6 @@ EB,"Eventbrite, Inc. Class A Common Stock","Eventbrite, Inc. Class A Common Stoc
 EBF,"Ennis, Inc. Common Stock","Ennis, Inc. Common Stock",N,EBF,N,100.0,N,EBF
 EBIT,Harbor ETF Trust Harbor AlphaEdge Small Cap Earners ETF,Harbor ETF Trust Harbor AlphaEdge Small Cap Earners ETF,P,EBIT,Y,100.0,N,EBIT
 EBND,SPDR Bloomberg Emerging Markets Local Bond ETF,SPDR Bloomberg Emerging Markets Local Bond ETF,P,EBND,Y,100.0,N,EBND
-EBR,Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share),Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share),N,EBR,N,100.0,N,EBR
-EBR.B,Centrais Electricas Brasileiras S.A. Sponsored ADS representing Pfd Shares,Centrais Electricas Brasileiras S.A. Sponsored ADS representing Pfd Shares,N,EBR.B,N,100.0,N,EBR.B
 EBS,Emergent BioSolutions Inc. Common Stock,Emergent BioSolutions Inc. Common Stock,N,EBS,N,100.0,N,EBS
 EBUF,SHL Telemedicine Ltd Innovator Emerging Markets 10 Buffer ETF ,SHL Telemedicine Ltd Innovator Emerging Markets 10 Buffer ETF - Quarterly,P,EBUF,Y,100.0,N,EBUF
 EC,Ecopetrol S.A. American Depositary Shares,Ecopetrol S.A. American Depositary Shares,N,EC,N,100.0,N,EC
@@ -1823,7 +1824,7 @@ ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),Ellomay Capital Ltd Ordinary S
 ELM,Series Portfolios Trust Elm Market Navigator ETF,Series Portfolios Trust Elm Market Navigator ETF,P,ELM,Y,100.0,N,ELM
 ELMD,"Electromed, Inc. Common Stock","Electromed, Inc. Common Stock",A,ELMD,N,100.0,N,ELMD
 ELME,Elme Communities Common Stock,Elme Communities Common Stock,N,ELME,N,100.0,N,ELME
-ELP,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non-voting Class B Preferred Shares),N,ELP,N,100.0,N,ELP
+ELP,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares),Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares),N,ELP,N,100.0,N,ELP
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),N,ELPC,N,100.0,N,ELPC
 ELS,"Equity Lifestyle Properties, Inc. Common Stock","Equity Lifestyle Properties, Inc. Common Stock",N,ELS,N,100.0,N,ELS
 ELV,"Elevance Health, Inc. Common Stock","Elevance Health, Inc. Common Stock",N,ELV,N,40.0,N,ELV
@@ -2373,10 +2374,15 @@ FTIF,First Trust Exchange,First Trust Exchange-Traded Fund First Trust Bloomberg
 FTK,"Flotek Industries, Inc. Common Stock","Flotek Industries, Inc. Common Stock",N,FTK,N,100.0,N,FTK
 FTKI,First Trust Exchange,First Trust Exchange-Traded Fund VI First Trust Small Cap BuyWrite Income ETF,P,FTKI,Y,100.0,N,FTKI
 FTLS,First Trust Long/Short Equity,First Trust Long/Short Equity,P,FTLS,Y,100.0,N,FTLS
+FTMA,Putnam ETF Trust Franklin Massachusetts Municipal Income ETF,Putnam ETF Trust Franklin Massachusetts Municipal Income ETF,P,FTMA,Y,100.0,N,FTMA
 FTMH,Putnam ETF Trust Franklin Municipal High Yield ETF,Putnam ETF Trust Franklin Municipal High Yield ETF,P,FTMH,Y,100.0,N,FTMH
+FTMN,Putnam ETF Trust Franklin Minnesota Municipal Income ETF,Putnam ETF Trust Franklin Minnesota Municipal Income ETF,P,FTMN,Y,100.0,N,FTMN
 FTMS,Putnam ETF Trust Franklin Short,Putnam ETF Trust Franklin Short-Term Municipal Income ETF,P,FTMS,Y,100.0,N,FTMS
 FTMU,Putnam ETF Trust Franklin Municipal Income ETF,Putnam ETF Trust Franklin Municipal Income ETF,P,FTMU,Y,100.0,N,FTMU
+FTNJ,Putnam ETF Trust Franklin New Jersey Municipal Income ETF,Putnam ETF Trust Franklin New Jersey Municipal Income ETF,P,FTNJ,Y,100.0,N,FTNJ
 FTNY,Putnam ETF Trust Franklin New York Municipal Income ETF,Putnam ETF Trust Franklin New York Municipal Income ETF,P,FTNY,Y,100.0,N,FTNY
+FTOH,Putnam ETF Trust Franklin Ohio Municipal Income ETF,Putnam ETF Trust Franklin Ohio Municipal Income ETF,P,FTOH,Y,100.0,N,FTOH
+FTPA,Putnam ETF Trust Franklin Pennsylvania Municipal Income ETF,Putnam ETF Trust Franklin Pennsylvania Municipal Income ETF,P,FTPA,Y,100.0,N,FTPA
 FTRB,Federated Hermes ETF Trust Federated Hermes Total Return Bond ETF,Federated Hermes ETF Trust Federated Hermes Total Return Bond ETF,P,FTRB,Y,100.0,N,FTRB
 FTS,Fortis Inc. Common Shares,Fortis Inc. Common Shares,N,FTS,N,100.0,N,FTS
 FTSD,Franklin Short Duration U.S. Government ETF,Franklin Short Duration U.S. Government ETF,P,FTSD,Y,100.0,N,FTSD
@@ -4371,6 +4377,7 @@ NXTI,Simplify Exchange Traded Funds Simplify Next Intangible Core Index ETF,Simp
 NXUS,NuShares ETF Trust Nuveen International Aggregate Bond ETF,NuShares ETF Trust Nuveen International Aggregate Bond ETF,P,NXUS,Y,100.0,N,NXUS
 NYC,American Strategic Investment Co. Class A Common Stock,American Strategic Investment Co. Class A Common Stock,N,NYC,N,100.0,N,NYC
 NYF,iShares New York Muni Bond ETF,iShares New York Muni Bond ETF,P,NYF,Y,100.0,N,NYF
+NYM,"AB Active ETFs, Inc. AB New York Intermediate Municipal ETF","AB Active ETFs, Inc. AB New York Intermediate Municipal ETF",P,NYM,Y,100.0,N,NYM
 NYT,New York Times Company (The) Common Stock,New York Times Company (The) Common Stock,N,NYT,N,100.0,N,NYT
 NZF,Nuveen Municipal Credit Income Fund ,Nuveen Municipal Credit Income Fund ,N,NZF,N,100.0,N,NZF
 O,Realty Income Corporation Common Stock,Realty Income Corporation Common Stock,N,O,N,100.0,N,O
@@ -5837,7 +5844,6 @@ TDW,Tidewater Inc. Common Stock,Tidewater Inc. Common Stock,N,TDW,N,100.0,N,TDW
 TDY,Teledyne Technologies Incorporated Common Stock,Teledyne Technologies Incorporated Common Stock,N,TDY,N,40.0,N,TDY
 TE,T1 Energy Inc. Common Stock,T1 Energy Inc. Common Stock,N,TE,N,100.0,N,TE
 TE.W,"T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share","T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",N,TE.WS,N,100.0,N,TE+
-TEAF,Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest,Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest,N,TEAF,N,100.0,N,TEAF
 TEC,Harbor ETF Trust Harbor Transformative Technologies ETF,Harbor ETF Trust Harbor Transformative Technologies ETF,P,TEC,Y,100.0,N,TEC
 TECB,iShares U.S. Tech Breakthrough Multisector ETF,iShares U.S. Tech Breakthrough Multisector ETF,P,TECB,Y,100.0,N,TECB
 TECK,Teck Resources Ltd Ordinary Shares,Teck Resources Ltd Ordinary Shares,N,TECK,N,100.0,N,TECK
@@ -6547,6 +6553,7 @@ WXET,Listed Funds Trust Teucrium 2x Daily Wheat ETF,Listed Funds Trust Teucrium 
 WY,Weyerhaeuser Company Common Stock,Weyerhaeuser Company Common Stock,N,WY,N,100.0,N,WY
 WYY,WidePoint Corporation Common Stock,WidePoint Corporation Common Stock,A,WYY,N,100.0,N,WYY
 WZRD,ETF Opportunities Trust Opportunistic Trader ETF,ETF Opportunities Trust Opportunistic Trader ETF,Z,WZRD,Y,100.0,N,WZRD
+XAGG,Morgan Stanley ETF Trust Eaton Vance Income Opportunities ETF,Morgan Stanley ETF Trust Eaton Vance Income Opportunities ETF,P,XAGG,Y,100.0,N,XAGG
 XAPR,SHL Telemedicine Ltd FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,SHL Telemedicine Ltd FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April,Z,XAPR,Y,100.0,N,XAPR
 XAR,State Street SPDR S&P Aerospace & Defense ETF,State Street SPDR S&P Aerospace & Defense ETF,P,XAR,Y,100.0,N,XAR
 XAUG,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August,Z,XAUG,Y,100.0,N,XAUG

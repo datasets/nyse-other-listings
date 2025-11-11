@@ -250,6 +250,8 @@ AWK,"American Water Works Company, Inc. Common Stock"
 AWP,abrdn Global Premier Properties Fund Common Shares of Beneficial Interest
 AWR,American States Water Company Common Stock
 AX,"Axos Financial, Inc. Common Stock"
+AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share)
+AXIA$,AXIA Energia American Depositary Shares (Each representing one Preferred Share)
 AXL,"American Axle & Manufacturing Holdings, Inc. Common Stock"
 AXP,American Express Company Common Stock
 AXR,AMREP Corporation Common Stock
@@ -838,8 +840,6 @@ EARN,Ellington Credit Company Common Shares of Beneficial Interest
 EAT,"Brinker International, Inc. Common Stock"
 EB,"Eventbrite, Inc. Class A Common Stock"
 EBF,"Ennis, Inc. Common Stock"
-EBR,Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share)
-EBR.B,Centrais Electricas Brasileiras S.A. Sponsored ADS representing Pfd Shares
 EBS,Emergent BioSolutions Inc. Common Stock
 EC,Ecopetrol S.A. American Depositary Shares
 ECAT,BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest
@@ -891,7 +891,7 @@ ELAN,Elanco Animal Health Incorporated Common Stock
 ELC,"Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066"
 ELF,"e.l.f. Beauty, Inc. Common Stock"
 ELME,Elme Communities Common Stock
-ELP,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non
+ELP,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares)
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
 ELS,"Equity Lifestyle Properties, Inc. Common Stock"
 ELV,"Elevance Health, Inc. Common Stock"
@@ -2523,7 +2523,6 @@ TDW,Tidewater Inc. Common Stock
 TDY,Teledyne Technologies Incorporated Common Stock
 TE,T1 Energy Inc. Common Stock
 TE.W,"T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share"
-TEAF,Tortoise Sustainable and Social Impact Term Fund Common shares of beneficial interest
 TECK,Teck Resources Ltd Ordinary Shares
 TEF,Telefonica SA Common Stock
 TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock"
