@@ -1501,6 +1501,7 @@ DFSE,Dimensional ETF Trust Dimensional Emerging Markets Sustainability Core 1 ET
 DFSI,Dimensional ETF Trust Dimensional International Sustainability Core 1 ETF,Dimensional ETF Trust Dimensional International Sustainability Core 1 ETF,P,DFSI,Y,100.0,N,DFSI
 DFSU,Dimensional ETF Trust Dimensional US Sustainability Core 1 ETF,Dimensional ETF Trust Dimensional US Sustainability Core 1 ETF,P,DFSU,Y,100.0,N,DFSU
 DFSV,Dimensional ETF Trust Dimensional US Small Cap Value ETF,Dimensional ETF Trust Dimensional US Small Cap Value ETF,P,DFSV,Y,100.0,N,DFSV
+DFTT,Northern Lights Fund Trust DF Tactical 30 ETF,Northern Lights Fund Trust DF Tactical 30 ETF,P,DFTT,Y,100.0,N,DFTT
 DFUS,Dimensional U.S. Equity Market ETF,Dimensional U.S. Equity Market ETF,P,DFUS,Y,100.0,N,DFUS
 DFUV,Dimensional ETF Trust Dimensional US Marketwide Value ETF,Dimensional ETF Trust Dimensional US Marketwide Value ETF,P,DFUV,Y,100.0,N,DFUV
 DFVE,DoubleLine ETF Trust DoubleLine Fortune 500 Equal Weight ETF,DoubleLine ETF Trust DoubleLine Fortune 500 Equal Weight ETF,P,DFVE,Y,100.0,N,DFVE
@@ -4388,7 +4389,7 @@ OAK$B,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units","Brookf
 OAKM,Harris Oakmark ETF Trust Oakmark U.S. Large Cap ETF,Harris Oakmark ETF Trust Oakmark U.S. Large Cap ETF,P,OAKM,Y,100.0,N,OAKM
 OALC,Unified Series Trust OneAscent Large Cap Core ETF,Unified Series Trust OneAscent Large Cap Core ETF,P,OALC,Y,100.0,N,OALC
 OARK,YieldMax Innovation Option Income Strategy ETF,YieldMax Innovation Option Income Strategy ETF,P,OARK,Y,100.0,N,OARK
-OASC,Unified Series Trust OneAscent Small Cap Core ETF,Unified Series Trust OneAscent Small Cap Core ETF,P,OASC,Y,100.0,N,OASC
+OASC,OneAscent Enhanced Small and Mid Cap ETF,OneAscent Enhanced Small and Mid Cap ETF,P,OASC,Y,100.0,N,OASC
 OBDC,Blue Owl Capital Corporation Common Stock,Blue Owl Capital Corporation Common Stock,N,OBDC,N,100.0,N,OBDC
 OBE,Obsidian Energy Ltd. Common Shares,Obsidian Energy Ltd. Common Shares,A,OBE,N,100.0,N,OBE
 OBK,"Origin Bancorp, Inc. Common Stock","Origin Bancorp, Inc. Common Stock",N,OBK,N,100.0,N,OBK
@@ -4864,6 +4865,7 @@ PTIN,Pacer Trendpilot International ETF,Pacer Trendpilot International ETF,P,PTI
 PTL,Northern Lights Fund Trust IV Inspire 500 ETF,Northern Lights Fund Trust IV Inspire 500 ETF,P,PTL,Y,100.0,N,PTL
 PTLC,Pacer Fund Trust Pacer Trendpilot US Large Cap ETF,Pacer Fund Trust Pacer Trendpilot US Large Cap ETF,Z,PTLC,Y,100.0,N,PTLC
 PTMC,Pacer Trendpilot US Mid Cap ETF,Pacer Trendpilot US Mid Cap ETF,Z,PTMC,Y,100.0,N,PTMC
+PTN,"Palatin Technologies, Inc. Common Stock","Palatin Technologies, Inc. Common Stock",A,PTN,N,100.0,N,PTN
 PTRB,PGIM ETF Trust PGIM Total Return Bond ETF,PGIM ETF Trust PGIM Total Return Bond ETF,P,PTRB,Y,100.0,N,PTRB
 PTY,Pimco Corporate & Income Opportunity Fund,Pimco Corporate & Income Opportunity Fund,N,PTY,N,100.0,N,PTY
 PUK,Prudential Public Limited Company Common Stock,Prudential Public Limited Company Common Stock,N,PUK,N,100.0,N,PUK
@@ -5566,6 +5568,7 @@ SOL,"Emeren Group Ltd American Depositary Shares, each representing 10 shares","
 SOLM,Amplify ETF Trust Amplify Solana 3% Monthly Option Income ETF,Amplify ETF Trust Amplify Solana 3% Monthly Option Income ETF,Z,SOLM,Y,100.0,N,SOLM
 SOLR,SmartETFs Sustainable Energy II ETF,SmartETFs Sustainable Energy II ETF,P,SOLR,Y,100.0,N,SOLR
 SOLV,Solventum Corporation Common Stock,Solventum Corporation Common Stock,N,SOLV,N,100.0,N,SOLV
+SOMN,Southern Company (The) 2025 Series A Corporate Units,Southern Company (The) 2025 Series A Corporate Units,N,SOMN,N,100.0,N,SOMN
 SON,Sonoco Products Company Common Stock,Sonoco Products Company Common Stock,N,SON,N,100.0,N,SON
 SONY,Sony Group Corporation American Depositary Shares ,Sony Group Corporation American Depositary Shares ,N,SONY,N,100.0,N,SONY
 SOR,"Source Capital, Inc. Cmn Shs of BI","Source Capital, Inc. Cmn Shs of BI",N,SOR,N,100.0,N,SOR
