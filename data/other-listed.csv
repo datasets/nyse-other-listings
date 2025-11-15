@@ -1386,6 +1386,7 @@ D,"Dominion Energy, Inc. Common Stock","Dominion Energy, Inc. Common Stock",N,D,
 DABS,DoubleLine ETF Trust DoubleLine Asset,DoubleLine ETF Trust DoubleLine Asset-Backed Securities ETF,P,DABS,Y,100.0,N,DABS
 DAC,Danaos Corporation Common Stock,Danaos Corporation Common Stock,N,DAC,N,100.0,N,DAC
 DAL,"Delta Air Lines, Inc. Common Stock","Delta Air Lines, Inc. Common Stock",N,DAL,N,100.0,N,DAL
+DAMD,Tidal Trust II Defiance Daily Target 2X Short AMD ETF,Tidal Trust II Defiance Daily Target 2X Short AMD ETF,P,DAMD,Y,100.0,N,DAMD
 DAN,Dana Incorporated Common Stock ,Dana Incorporated Common Stock ,N,DAN,N,100.0,N,DAN
 DAO,"Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share","Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share",N,DAO,N,100.0,N,DAO
 DAPR,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - April,Z,DAPR,Y,100.0,N,DAPR
@@ -2110,7 +2111,6 @@ FDEC,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - December,Z
 FDEM,Fidelity Emerging Markets Multifactor ETF,Fidelity Emerging Markets Multifactor ETF,Z,FDEM,Y,100.0,N,FDEM
 FDEV,Fidelity Emerging Markets Multifactor ETF,Fidelity Emerging Markets Multifactor ETF,Z,FDEV,Y,100.0,N,FDEV
 FDG,American Century Focused Dynamic Growth ETF,American Century Focused Dynamic Growth ETF,P,FDG,Y,100.0,N,FDG
-FDHT,Fidelity Digital Health ETF,Fidelity Digital Health ETF,Z,FDHT,Y,100.0,N,FDHT
 FDHY,Fidelity Enhanced High Yield ETF,Fidelity Enhanced High Yield ETF,P,FDHY,Y,100.0,N,FDHY
 FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Fidelity MSCI Consumer Discretionary Index ETF,P,FDIS,Y,100.0,N,FDIS
 FDL,First Trust Morningstar ETF,First Trust Morningstar ETF,P,FDL,Y,100.0,N,FDL
@@ -2126,7 +2126,6 @@ FDRV,Fidelity Electric Vehicles and Future Transportation ETF,Fidelity Electric 
 FDS,FactSet Research Systems Inc. Common Stock,FactSet Research Systems Inc. Common Stock,N,FDS,N,40.0,N,FDS
 FDV,Federated Hermes ETF Trust Federated Hermes U.S. Strategic Dividend ETF,Federated Hermes ETF Trust Federated Hermes U.S. Strategic Dividend ETF,P,FDV,Y,100.0,N,FDV
 FDVV,Fidelity High Dividend ETF,Fidelity High Dividend ETF,P,FDVV,Y,100.0,N,FDVV
-FDWM,Fidelity Women's Leadership ETF,Fidelity Women's Leadership ETF,P,FDWM,Y,100.0,N,FDWM
 FDX,FedEx Corporation Common Stock,FedEx Corporation Common Stock,N,FDX,N,100.0,N,FDX
 FE,FirstEnergy Corp. Common Stock,FirstEnergy Corp. Common Stock,N,FE,N,100.0,N,FE
 FEAC,Fidelity Covington Trust Fidelity Enhanced U.S. All,Fidelity Covington Trust Fidelity Enhanced U.S. All-Cap Equity ETF,P,FEAC,Y,100.0,N,FEAC
@@ -2346,7 +2345,6 @@ FRO,Frontline Plc Ordinary Shares,Frontline Plc Ordinary Shares,N,FRO,N,100.0,N,
 FRT,Federal Realty Investment Trust Common Stock,Federal Realty Investment Trust Common Stock,N,FRT,N,100.0,N,FRT
 FRT$C,"Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share","Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share",N,FRTpC,N,100.0,N,FRT-C
 FRTY,Alger Mid Cap 40 ETF,Alger Mid Cap 40 ETF,P,FRTY,Y,100.0,N,FRTY
-FSBD,Fidelity Merrimack Street Trust Fidelity Sustainable Core Plus Bond ETF,Fidelity Merrimack Street Trust Fidelity Sustainable Core Plus Bond ETF,P,FSBD,Y,100.0,N,FSBD
 FSCC,Federated Hermes ETF Trust Federated Hermes MDT Small Cap Core ETF,Federated Hermes ETF Trust Federated Hermes MDT Small Cap Core ETF,P,FSCC,Y,100.0,N,FSCC
 FSCO,FS Credit Opportunities Corp. Common Stock,FS Credit Opportunities Corp. Common Stock,N,FSCO,N,100.0,N,FSCO
 FSEC,Fidelity Investment Grade Securitized ETF,Fidelity Investment Grade Securitized ETF,P,FSEC,Y,100.0,N,FSEC
@@ -2354,7 +2352,6 @@ FSEP,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - September,
 FSI,Flexible Solutions International Inc. Common Stock (CDA),Flexible Solutions International Inc. Common Stock (CDA),A,FSI,N,100.0,N,FSI
 FSIG,First Trust Limited Duration Investment Grade Corporate ETF,First Trust Limited Duration Investment Grade Corporate ETF,P,FSIG,Y,100.0,N,FSIG
 FSK,FS KKR Capital Corp. Common Stock,FS KKR Capital Corp. Common Stock,N,FSK,N,100.0,N,FSK
-FSLD,Fidelity Merrimack Street Trust Fidelity Sustainable Low Duration Bond ETF,Fidelity Merrimack Street Trust Fidelity Sustainable Low Duration Bond ETF,P,FSLD,Y,100.0,N,FSLD
 FSLY,"Fastly, Inc. Class A Common Stock","Fastly, Inc. Class A Common Stock",N,FSLY,N,100.0,N,FSLY
 FSM,Fortuna Mining Corp. Common Shares,Fortuna Mining Corp. Common Shares,N,FSM,N,100.0,N,FSM
 FSMB,First Trust Short Duration Managed Municipal ETF,First Trust Short Duration Managed Municipal ETF,P,FSMB,Y,100.0,N,FSMB
@@ -2362,7 +2359,6 @@ FSMD,Fidelity Small,Fidelity Small-Mid Multifactor ETF,P,FSMD,Y,100.0,N,FSMD
 FSP,Franklin Street Properties Corp. Common Stock,Franklin Street Properties Corp. Common Stock,A,FSP,N,100.0,N,FSP
 FSS,Federal Signal Corporation Common Stock,Federal Signal Corporation Common Stock,N,FSS,N,100.0,N,FSS
 FSSL,FS Specialty Lending Fund Common Shares of Beneficial Interest,FS Specialty Lending Fund Common Shares of Beneficial Interest,N,FSSL,N,100.0,N,FSSL
-FSST,Fidelity Sustainable U.S. Equity ETF,Fidelity Sustainable U.S. Equity ETF,P,FSST,Y,100.0,N,FSST
 FSTA,Fidelity MSCI COnsumer Staples Index ETF,Fidelity MSCI COnsumer Staples Index ETF,P,FSTA,Y,100.0,N,FSTA
 FSYD,Fidelity Covington Trust Fidelity Sustainable High Yield ETF,Fidelity Covington Trust Fidelity Sustainable High Yield ETF,P,FSYD,Y,100.0,N,FSYD
 FT,Franklin Universal Trust Common Stock,Franklin Universal Trust Common Stock,N,FT,N,100.0,N,FT
@@ -2517,6 +2513,7 @@ GFF,Griffon Corporation Common Stock,Griffon Corporation Common Stock,N,GFF,N,10
 GFI,Gold Fields Limited American Depositary Shares,Gold Fields Limited American Depositary Shares,N,GFI,N,100.0,N,GFI
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value","GFL Environmental Inc. Subordinate voting shares, no par value",N,GFL,N,100.0,N,GFL
 GFR,Greenfire Resources Ltd. Common Shares,Greenfire Resources Ltd. Common Shares,N,GFR,N,100.0,N,GFR
+GFR.V,"Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights when issued","Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights when issued",N,GFRrw,N,100.0,N,GFR^#
 GGB,Gerdau S.A. Common Stock,Gerdau S.A. Common Stock,N,GGB,N,100.0,N,GGB
 GGG,Graco Inc. Common Stock,Graco Inc. Common Stock,N,GGG,N,100.0,N,GGG
 GGM,Northern Lights Fund Trust II GGM Macro Alignment ETF,Northern Lights Fund Trust II GGM Macro Alignment ETF,P,GGM,Y,100.0,N,GGM
@@ -5700,6 +5697,7 @@ SRPU,Investment Managers Series Trust II Tradr 2X Long SRPT Daily ETF,Investment
 SRS,ProShares UltraShort Real Estate,ProShares UltraShort Real Estate,P,SRS,Y,100.0,N,SRS
 SRTY,ProShares UltraPro Short Russell2000,ProShares UltraPro Short Russell2000,P,SRTY,Y,100.0,N,SRTY
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,N,SRV,N,100.0,N,SRV
+SRV.V,"NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights when issued","NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights when issued",N,SRVrw,N,100.0,N,SRV^#
 SRVR,Pacer Data & Infrastructure Real Estate ETF,Pacer Data & Infrastructure Real Estate ETF,P,SRVR,Y,100.0,N,SRVR
 SRXH,"SRX Health Solutions, Inc. Common Stock","SRX Health Solutions, Inc. Common Stock",A,SRXH,N,100.0,N,SRXH
 SSB,SouthState Bank Corporation Common Stock,SouthState Bank Corporation Common Stock,N,SSB,N,100.0,N,SSB
@@ -5786,7 +5784,6 @@ SYF$B,Synchrony Financial Depositary Shares Each Representing a 1/40th Interest 
 SYFI,"AB Active ETFs, Inc. AB Short Duration High Yield ETF","AB Active ETFs, Inc. AB Short Duration High Yield ETF",P,SYFI,Y,100.0,N,SYFI
 SYK,Stryker Corporation Common Stock,Stryker Corporation Common Stock,N,SYK,N,40.0,N,SYK
 SYLD,Cambria Shareholder Yield ETF,Cambria Shareholder Yield ETF,Z,SYLD,Y,100.0,N,SYLD
-SYNB,Putnam ETF Trust Putnam BioRevolution ETF,Putnam ETF Trust Putnam BioRevolution ETF,P,SYNB,Y,100.0,N,SYNB
 SYNX,Silynxcom Ltd. Ordinary Shares,Silynxcom Ltd. Ordinary Shares,A,SYNX,N,100.0,N,SYNX
 SYSB,iShares Systematic Bond ETF,iShares Systematic Bond ETF,Z,SYSB,Y,100.0,N,SYSB
 SYY,Sysco Corporation Common Stock,Sysco Corporation Common Stock,N,SYY,N,100.0,N,SYY
