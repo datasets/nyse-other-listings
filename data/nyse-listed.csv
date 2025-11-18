@@ -498,7 +498,7 @@ CAG,"ConAgra Brands, Inc. Common Stock"
 CAH,"Cardinal Health, Inc. Common Stock"
 CAL,"Caleres, Inc. Common Stock"
 CALX,"Calix, Inc Common Stock"
-CANG,"Cango Inc. American Depositary Shares,  each representing two (2) Class A Ordinary Shares"
+CANG,Cango Inc. Class A Ordinary Shares
 CAPL,CrossAmerica Partners LP Common Units representing limited partner interests
 CARR,Carrier Global Corporation Common Stock 
 CARS,Cars.com Inc. Common Stock 
@@ -996,7 +996,9 @@ FC,Franklin Covey Company Common Stock
 FCF,First Commonwealth Financial Corporation Common Stock
 FCN,"FTI Consulting, Inc. Common Stock"
 FCPT,"Four Corners Property Trust, Inc. Common Stock"
+FCRS,FutureCrest Acquisition Corp. Class A Ordinary Shares
 FCRS.U,"FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one"
+FCRS.W,"FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 FCRX,"Crescent Capital BDC, Inc. 5.00% Notes due 2026"
 FCT,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest
 FCX,Freeport
@@ -2047,6 +2049,7 @@ PHR,"Phreesia, Inc. Common Stock"
 PII,Polaris Inc. Common Stock
 PIM,Putnam Master Intermediate Income Trust Common Stock
 PINE,"Alpine Income Property Trust, Inc. Common Stock"
+PINE$A,"Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock"
 PINS,"Pinterest, Inc. Class A Common Stock"
 PIPR,Piper Sandler Companies Common Stock
 PJT,PJT Partners Inc. Class A Common Stock

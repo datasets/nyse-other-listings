@@ -529,6 +529,8 @@ BBDC,"Barings BDC, Inc. Common Stock","Barings BDC, Inc. Common Stock",N,BBDC,N,
 BBDO,Banco Bradesco Sa American Depositary Shares (each representing one Common Share),Banco Bradesco Sa American Depositary Shares (each representing one Common Share),N,BBDO,N,100.0,N,BBDO
 BBEM,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan BetaBuilders Emerging Markets Equity ETF,Z,BBEM,Y,100.0,N,BBEM
 BBEU,JPMorgan BetaBuilders Europe ETF ,JPMorgan BetaBuilders Europe ETF ,Z,BBEU,Y,100.0,N,BBEU
+BBHL,BBH Trust BBH Select Large Cap ETF,BBH Trust BBH Select Large Cap ETF,P,BBHL,Y,100.0,N,BBHL
+BBHM,BBH Trust BBH Select Mid Cap ETF,BBH Trust BBH Select Mid Cap ETF,P,BBHM,Y,100.0,N,BBHM
 BBHY,JPMorgan BetaBuilders USD High Yield Corporate Bond ETF,JPMorgan BetaBuilders USD High Yield Corporate Bond ETF,Z,BBHY,Y,100.0,N,BBHY
 BBIB,J.P. Morgan Exchange,J.P. Morgan Exchange-Traded Fund Trust JPMorgan BetaBuilders U.S. Treasury Bond 3-10 Year ETF,Z,BBIB,Y,100.0,N,BBIB
 BBIN,JPMorgan BetaBuilders International Equity ETF,JPMorgan BetaBuilders International Equity ETF,Z,BBIN,Y,100.0,N,BBIN
@@ -941,7 +943,7 @@ CAML,Professionally Managed Portfolios Congress Large Cap Growth ETF,Professiona
 CAMX,The Advisors Inner Circle Fund Cambiar Aggressive Value ETF,The Advisors Inner Circle Fund Cambiar Aggressive Value ETF,P,CAMX,Y,100.0,N,CAMX
 CANE,Teucrium Sugar Fund ETV,Teucrium Sugar Fund ETV,P,CANE,Y,100.0,N,CANE
 CANF,Can,Can-Fite Biopharma Ltd Sponsored ADR (Israel),A,CANF,N,100.0,N,CANF
-CANG,"Cango Inc. American Depositary Shares,  each representing two (2) Class A Ordinary Shares","Cango Inc. American Depositary Shares,  each representing two (2) Class A Ordinary Shares",N,CANG,N,100.0,N,CANG
+CANG,Cango Inc. Class A Ordinary Shares,Cango Inc. Class A Ordinary Shares,N,CANG,N,100.0,N,CANG
 CAOS,EA Series Trust Alpha Architect Tail Risk ETF,EA Series Trust Alpha Architect Tail Risk ETF,Z,CAOS,Y,100.0,N,CAOS
 CAPE,DoubleLine ETF Trust DoubleLine Shiller CAPE U.S. Equities ETF,DoubleLine ETF Trust DoubleLine Shiller CAPE U.S. Equities ETF,P,CAPE,Y,100.0,N,CAPE
 CAPL,CrossAmerica Partners LP Common Units representing limited partner interests,CrossAmerica Partners LP Common Units representing limited partner interests,N,CAPL,N,100.0,N,CAPL
@@ -2098,7 +2100,9 @@ FCOM,Fidelity MSCI Communication Services Index ETF,Fidelity MSCI Communication 
 FCOR,Fidelity Corporate Bond ETF,Fidelity Corporate Bond ETF,P,FCOR,Y,100.0,N,FCOR
 FCPI,Fidelity Stocks for Inflation ETF ,Fidelity Stocks for Inflation ETF ,Z,FCPI,Y,100.0,N,FCPI
 FCPT,"Four Corners Property Trust, Inc. Common Stock","Four Corners Property Trust, Inc. Common Stock",N,FCPT,N,100.0,N,FCPT
+FCRS,FutureCrest Acquisition Corp. Class A Ordinary Shares,FutureCrest Acquisition Corp. Class A Ordinary Shares,N,FCRS,N,100.0,N,FCRS
 FCRS.U,"FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one","FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",N,FCRS.U,N,100.0,N,FCRS=
+FCRS.W,"FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,FCRS.WS,N,100.0,N,FCRS+
 FCRX,"Crescent Capital BDC, Inc. 5.00% Notes due 2026","Crescent Capital BDC, Inc. 5.00% Notes due 2026",N,FCRX,N,100.0,N,FCRX
 FCSH,Federated Hermes ETF Trust Federated Hermes Short Duration Corporate ETF,Federated Hermes ETF Trust Federated Hermes Short Duration Corporate ETF,P,FCSH,Y,100.0,N,FCSH
 FCT,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,N,FCT,N,100.0,N,FCT
@@ -2448,6 +2452,7 @@ GAUG,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffe
 GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,N,GBAB,N,100.0,N,GBAB
 GBCI,"Glacier Bancorp, Inc. Common Stock","Glacier Bancorp, Inc. Common Stock",N,GBCI,N,100.0,N,GBCI
 GBF,iShares Government/Credit Bond ETF,iShares Government/Credit Bond ETF,P,GBF,Y,100.0,N,GBF
+GBHI,Gabelli ETFs Trust Gabelli High Income ETF,Gabelli ETFs Trust Gabelli High Income ETF,P,GBHI,Y,100.0,N,GBHI
 GBIL,Goldman Sachs Access Treasury 0,Goldman Sachs Access Treasury 0-1 Year ETF,P,GBIL,Y,100.0,N,GBIL
 GBLD,Invesco MSCI Green Building ETF,Invesco MSCI Green Building ETF,P,GBLD,Y,100.0,N,GBLD
 GBND,Goldman Sachs ETF Trust Goldman Sachs Core Bond ETF,Goldman Sachs ETF Trust Goldman Sachs Core Bond ETF,P,GBND,Y,100.0,N,GBND
@@ -4689,6 +4694,7 @@ PILL,Direxion Daily Pharmaceutical & Medical Bull 3X Shares,Direxion Daily Pharm
 PIM,Putnam Master Intermediate Income Trust Common Stock,Putnam Master Intermediate Income Trust Common Stock,N,PIM,N,100.0,N,PIM
 PIN,Invesco India ETF,Invesco India ETF,P,PIN,Y,100.0,N,PIN
 PINE,"Alpine Income Property Trust, Inc. Common Stock","Alpine Income Property Trust, Inc. Common Stock",N,PINE,N,100.0,N,PINE
+PINE$A,"Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock","Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock",N,PINEpA,N,100.0,N,PINE-A
 PINK,Simplify Health Care ETF,Simplify Health Care ETF,P,PINK,Y,100.0,N,PINK
 PINS,"Pinterest, Inc. Class A Common Stock","Pinterest, Inc. Class A Common Stock",N,PINS,N,100.0,N,PINS
 PIPE,Invesco Actively Managed Exchange,Invesco Actively Managed Exchange-Traded Fund Trust Invesco SteelPath MLP & Energy Infrastructure ETF,Z,PIPE,Y,100.0,N,PIPE
@@ -5381,7 +5387,6 @@ SEM,Select Medical Holdings Corporation Common Stock,Select Medical Holdings Cor
 SEMG,EA Series Trust Suncoast Select Growth ETF,EA Series Trust Suncoast Select Growth ETF,P,SEMG,Y,100.0,N,SEMG
 SEMI,Columbia Select Technology ETF,Columbia Select Technology ETF,P,SEMI,Y,100.0,N,SEMI
 SEMR,"SEMrush Holdings, Inc. Class A Common Stock","SEMrush Holdings, Inc. Class A Common Stock",N,SEMR,N,100.0,N,SEMR
-SENS,"Senseonics Holdings, Inc. Common Stock","Senseonics Holdings, Inc. Common Stock",A,SENS,N,100.0,N,SENS
 SEPI,SCM Trust Shelton Equity Premium Income ETF,SCM Trust Shelton Equity Premium Income ETF,P,SEPI,Y,100.0,N,SEPI
 SEPM,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max Buffer ETF - September,Z,SEPM,Y,100.0,N,SEPM
 SEPP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - September,Z,SEPP,Y,100.0,N,SEPP
@@ -5980,6 +5985,7 @@ TMP,Tompkins Financial Corporation Common Stock,Tompkins Financial Corporation C
 TMQ,Trilogy Metals Inc. Common Stock,Trilogy Metals Inc. Common Stock,A,TMQ,N,100.0,N,TMQ
 TMSL,T. Rowe Price Exchange,"T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Small-Mid Cap ETF",P,TMSL,Y,100.0,N,TMSL
 TMV,Direxion Daily 20,Direxion Daily 20-Year Treasury Bear 3X,P,TMV,Y,100.0,N,TMV
+TMVE,Thrivent ETF Trust Thrivent Mid Cap Value ETF,Thrivent ETF Trust Thrivent Mid Cap Value ETF,P,TMVE,Y,100.0,N,TMVE
 TNA,Direxion Small Cap Bull 3X Shares,Direxion Small Cap Bull 3X Shares,P,TNA,Y,100.0,N,TNA
 TNC,Tennant Company Common Stock,Tennant Company Common Stock,N,TNC,N,100.0,N,TNC
 TNET,"TriNet Group, Inc. Common Stock","TriNet Group, Inc. Common Stock",N,TNET,N,100.0,N,TNET
@@ -6050,6 +6056,7 @@ TRU,TransUnion Common Stock,TransUnion Common Stock,N,TRU,N,100.0,N,TRU
 TRV,"The Travelers Companies, Inc. Common Stock","The Travelers Companies, Inc. Common Stock",N,TRV,N,40.0,N,TRV
 TRX,TRX Gold Corporation Common Stock,TRX Gold Corporation Common Stock,A,TRX,N,100.0,N,TRX
 TS,Tenaris S.A. American Depositary Shares,Tenaris S.A. American Depositary Shares,N,TS,N,100.0,N,TS
+TSCV,Thrivent ETF Trust Thrivent Small Cap Value ETF,Thrivent ETF Trust Thrivent Small Cap Value ETF,P,TSCV,Y,100.0,N,TSCV
 TSE,Trinseo PLC Ordinary Shares ,Trinseo PLC Ordinary Shares ,N,TSE,N,100.0,N,TSE
 TSEC,Touchstone ETF Trust Touchstone Securitized Income ETF,Touchstone ETF Trust Touchstone Securitized Income ETF,P,TSEC,Y,100.0,N,TSEC
 TSEP,First Trust Exchange,First Trust Exchange-Traded Fund VIII FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
