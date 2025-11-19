@@ -1103,7 +1103,6 @@ GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shar
 GBCI,"Glacier Bancorp, Inc. Common Stock"
 GBTG,"Global Business Travel Group, Inc. Class A Common Stock"
 GBX,"Greenbrier Companies, Inc. (The) Common Stock"
-GCI,"Gannett Co., Inc. Common Stock"
 GCO,Genesco Inc. Common Stock
 GCTS,"GCT Semiconductor Holding, Inc. Common Stock"
 GCTS.W,"GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50"
@@ -1951,7 +1950,6 @@ OPFI.W,OppFi Inc. Warrants
 OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock"
 OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock"
 OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock"
-OPP.R,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Rights (expiring November 18, 2025) Rights"
 OPY,"Oppenheimer Holdings, Inc. Class A Common Stock (DE)"
 OR,OR Royalties Inc. Common Shares
 ORA,"Ormat Technologies, Inc. Common Stock"
@@ -2145,7 +2143,6 @@ PXED,"Phoenix Education Partners, Inc. Common Stock"
 PYT,PPlus Tr GSC
 Q,"Qnity Electronics, Inc. Common Stock"
 QBTS,D
-QBTS.W,D
 QD,"Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share"
 QGEN,Qiagen N.V. Common Shares
 QS,QuantumScape Corporation Class A Common Stock
@@ -2447,7 +2444,7 @@ SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred 
 SRI,"Stoneridge, Inc. Common Stock"
 SRL,Scully Royalty Ltd.
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest
-SRV.V,"NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights when issued"
+SRV.R,"NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights"
 SSB,SouthState Bank Corporation Common Stock
 SSD,"Simpson Manufacturing Company, Inc. Common Stock"
 SSL,Sasol Ltd. American Depositary Shares
@@ -2519,6 +2516,7 @@ TCBX,"Third Coast Bancshares, Inc. Common Stock"
 TCI,"Transcontinental Realty Investors, Inc. Common Stock"
 TCPA,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085
 TD,Toronto Dominion Bank (The) Common Stock
+TDAY,"USA TODAY Co., Inc. Common Stock"
 TDC,Teradata Corporation Common Stock
 TDF,"Templeton Dragon Fund, Inc. Common Stock"
 TDG,Transdigm Group Incorporated Common Stock
