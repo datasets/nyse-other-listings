@@ -132,7 +132,6 @@ ALUR.W,"Allurion Technologies, Inc. Warrants, each whole warrant exercisable to 
 ALV,"Autoliv, Inc. Common Stock"
 ALX,"Alexander's, Inc. Common Stock"
 AM,Antero Midstream Corporation Common Stock
-AMBC,"Ambac Financial Group, Inc. Common Stock"
 AMBP,Ardagh Metal Packaging S.A. Ordinary Shares
 AMBP.W,"Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share"
 AMBQ,"Ambiq Micro, Inc. Common Stock"
@@ -314,7 +313,9 @@ BCH,Banco De Chile ADS
 BCO,Brinks Company (The) Common Stock
 BCS,Barclays PLC Common Stock
 BCSF,"Bain Capital Specialty Finance, Inc. Common Stock"
+BCSS,Bain Capital GSS Investment Corp. Class A Ordinary Shares
 BCSS.U,"Bain Capital GSS Investment Corp. Units, each consisting of one Class A Ordinary Share and one"
+BCSS.W,"Bain Capital GSS Investment Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 BCX,BlackRock Resources Common Shares of Beneficial Interest
 BDC,Belden Inc Common Stock
 BDJ,Blackrock Enhanced Equity Dividend Trust
@@ -1418,7 +1419,6 @@ JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one"
 JENA.U,"Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right"
 JFR,Nuveen Floating Rate Income Fund Common Stock
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest
-JGH.R,"Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights"
 JHG,Janus Henderson Group plc Ordinary Shares
 JHI,John Hancock Investors Trust Common Stock
 JHS,John Hancock Income Securities Trust Common Stock
@@ -1957,6 +1957,7 @@ ORCL,Oracle Corporation Common Stock
 ORI,Old Republic International Corporation Common Stock
 ORN,"Orion Group Holdings, Inc. Common"
 OSCR,"Oscar Health, Inc. Class A Common Stock"
+OSG,"Octave Specialty Group, Inc. Common Stock"
 OSK,Oshkosh Corporation (Holding Company)Common Stock
 OTF,Blue Owl Technology Finance Corp. Common Stock
 OTIS,Otis Worldwide Corporation Common Stock 
@@ -2701,7 +2702,9 @@ UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"
 UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"
 V,Visa Inc.
 VAC,Marriott Vacations Worldwide Corporation Common Stock
+VACI,Viking Acquisition Corp. I Class A Ordinary Shares
 VACI.U,"Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one"
+VACI.W,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share
 VAL,Valaris Limited Common Shares
 VAL.W,Valaris Limited Warrants
 VALE,VALE S.A.  American Depositary Shares Each Representing one common share

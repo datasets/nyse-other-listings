@@ -212,7 +212,6 @@ ALV,"Autoliv, Inc. Common Stock","Autoliv, Inc. Common Stock",N,ALV,N,100.0,N,AL
 ALX,"Alexander's, Inc. Common Stock","Alexander's, Inc. Common Stock",N,ALX,N,100.0,N,ALX
 AM,Antero Midstream Corporation Common Stock,Antero Midstream Corporation Common Stock,N,AM,N,100.0,N,AM
 AMAX,Adaptive Hedged Multi,Adaptive Hedged Multi-Asset Income ETF,P,AMAX,Y,100.0,N,AMAX
-AMBC,"Ambac Financial Group, Inc. Common Stock","Ambac Financial Group, Inc. Common Stock",N,AMBC,N,100.0,N,AMBC
 AMBO,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),A,AMBO,N,100.0,N,AMBO
 AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,Ardagh Metal Packaging S.A. Ordinary Shares,N,AMBP,N,100.0,N,AMBP
 AMBP.W,"Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share","Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share",N,AMBP.WS,N,100.0,N,AMBP+
@@ -571,7 +570,9 @@ BCO,Brinks Company (The) Common Stock,Brinks Company (The) Common Stock,N,BCO,N,
 BCOR,Grayscale Bitcoin Adopters ETF,Grayscale Bitcoin Adopters ETF,P,BCOR,Y,100.0,N,BCOR
 BCS,Barclays PLC Common Stock,Barclays PLC Common Stock,N,BCS,N,100.0,N,BCS
 BCSF,"Bain Capital Specialty Finance, Inc. Common Stock","Bain Capital Specialty Finance, Inc. Common Stock",N,BCSF,N,100.0,N,BCSF
+BCSS,Bain Capital GSS Investment Corp. Class A Ordinary Shares,Bain Capital GSS Investment Corp. Class A Ordinary Shares,N,BCSS,N,100.0,N,BCSS
 BCSS.U,"Bain Capital GSS Investment Corp. Units, each consisting of one Class A Ordinary Share and one","Bain Capital GSS Investment Corp. Units, each consisting of one Class A Ordinary Share and one-fifth of one redeemable warrant",N,BCSS.U,N,100.0,N,BCSS=
+BCSS.W,"Bain Capital GSS Investment Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Bain Capital GSS Investment Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,BCSS.WS,N,100.0,N,BCSS+
 BCUS,Exchange Bancreek U.S. Large Cap ETF,Exchange Bancreek U.S. Large Cap ETF,P,BCUS,Y,100.0,N,BCUS
 BCV,"Bancroft Fund, Ltd.","Bancroft Fund, Ltd.",A,BCV,N,100.0,N,BCV
 BCV$A,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,A,BCVpA,N,100.0,N,BCV-A
@@ -3019,6 +3020,7 @@ ICL,ICL Group Ltd. Ordinary Shares,ICL Group Ltd. Ordinary Shares,N,ICL,N,100.0,
 ICLO,Invesco AAA CLO Floating Rate Note ETF,Invesco AAA CLO Floating Rate Note ETF,Z,ICLO,Y,100.0,N,ICLO
 ICOI,Bitwise COIN Option Income Strategy ETF,Bitwise COIN Option Income Strategy ETF,P,ICOI,Y,100.0,N,ICOI
 ICOW,Pacer Developed Markets International Cash Cows 100 ETF,Pacer Developed Markets International Cash Cows 100 ETF,Z,ICOW,Y,100.0,N,ICOW
+ICPI,iShares 0,iShares 0-1 Year TIPS Bond ETF,P,ICPI,Y,100.0,N,ICPI
 ICPY,"Tweedy, Browne International Insider + Value ETF","Tweedy, Browne International Insider + Value ETF",P,ICPY,Y,100.0,N,ICPY
 ICR$A,"InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock","InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock",N,ICRpA,N,100.0,N,ICR-A
 ICRC,Bitwise CRCL Option Income Strategy ETF,Bitwise CRCL Option Income Strategy ETF,P,ICRC,Y,100.0,N,ICRC
@@ -3059,6 +3061,7 @@ IEZ,iShares U.S. Oil Equipment & Services ETF,iShares U.S. Oil Equipment & Servi
 IFEB,Innovator International Developed Power Buffer ETF  February,Innovator International Developed Power Buffer ETF  February,P,IFEB,Y,100.0,N,IFEB
 IFED,ETRACS IFED Invest with the Fed TR Index ETN,ETRACS IFED Invest with the Fed TR Index ETN,P,IFED,Y,100.0,N,IFED
 IFF,"International Flavors & Fragrances, Inc. Common Stock","International Flavors & Fragrances, Inc. Common Stock",N,IFF,N,100.0,N,IFF
+IFLR,Innovator International Developed Managed Floor ETF,Innovator International Developed Managed Floor ETF,P,IFLR,Y,100.0,N,IFLR
 IFN,"India Fund, Inc. (The) Common Stock","India Fund, Inc. (The) Common Stock",N,IFN,N,100.0,N,IFN
 IFRA,iShares U.S. Infrastructure ETF,iShares U.S. Infrastructure ETF,Z,IFRA,Y,100.0,N,IFRA
 IFS,Intercorp Financial Services Inc. Common Shares,Intercorp Financial Services Inc. Common Shares,N,IFS,N,100.0,N,IFS
@@ -3354,7 +3357,6 @@ JFLI,JPMorgan Flexible Income ETF,JPMorgan Flexible Income ETF,P,JFLI,Y,100.0,N,
 JFLX,JPMorgan Flexible Debt ETF,JPMorgan Flexible Debt ETF,P,JFLX,Y,100.0,N,JFLX
 JFR,Nuveen Floating Rate Income Fund Common Stock,Nuveen Floating Rate Income Fund Common Stock,N,JFR,N,100.0,N,JFR
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,Nuveen Global High Income Fund Common Shares of Beneficial Interest,N,JGH,N,100.0,N,JGH
-JGH.R,"Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights","Nuveen Global High Income Fund Rights (expiring November 20, 2025) Rights",N,JGHr,N,100.0,N,JGH^
 JGRO,JPMorgan Active Growth ETF,JPMorgan Active Growth ETF,P,JGRO,Y,100.0,N,JGRO
 JGRW,Jensen Quality Growth ETF,Jensen Quality Growth ETF,P,JGRW,Y,100.0,N,JGRW
 JHAC,John Hancock Fundamental All Cap Core ETF,John Hancock Fundamental All Cap Core ETF,P,JHAC,Y,100.0,N,JHAC
@@ -4496,6 +4498,7 @@ ORO,Arrow Valtoro ETF,Arrow Valtoro ETF,Z,ORO,Y,100.0,N,ORO
 OSCR,"Oscar Health, Inc. Class A Common Stock","Oscar Health, Inc. Class A Common Stock",N,OSCR,N,100.0,N,OSCR
 OSCV,Opus Small Cap Value ETF,Opus Small Cap Value ETF,Z,OSCV,Y,100.0,N,OSCV
 OSEA,Harbor International Compounders ETF,Harbor International Compounders ETF,P,OSEA,Y,100.0,N,OSEA
+OSG,"Octave Specialty Group, Inc. Common Stock","Octave Specialty Group, Inc. Common Stock",N,OSG,N,100.0,N,OSG
 OSK,Oshkosh Corporation (Holding Company)Common Stock,Oshkosh Corporation (Holding Company)Common Stock,N,OSK,N,100.0,N,OSK
 OSTX,OS Therapies Incorporated Common Stock,OS Therapies Incorporated Common Stock,A,OSTX,N,100.0,N,OSTX
 OTF,Blue Owl Technology Finance Corp. Common Stock,Blue Owl Technology Finance Corp. Common Stock,N,OTF,N,100.0,N,OTF
@@ -6081,6 +6084,7 @@ TSM,Taiwan Semiconductor Manufacturing Company Ltd.,Taiwan Semiconductor Manufac
 TSME,Thrivent Small,Thrivent Small-Mid Cap Equity ETF,P,TSME,Y,100.0,N,TSME
 TSMY,YieldMax TSM Option Income Strategy ETF,YieldMax TSM Option Income Strategy ETF,P,TSMY,Y,100.0,N,TSMY
 TSN,"Tyson Foods, Inc. Common Stock","Tyson Foods, Inc. Common Stock",N,TSN,N,100.0,N,TSN
+TSOL,21Shares Solana ETF,21Shares Solana ETF,Z,TSOL,Y,100.0,N,TSOL
 TSPA,T. Rowe Price U.S. Equity Research ETF,T. Rowe Price U.S. Equity Research ETF,P,TSPA,Y,100.0,N,TSPA
 TSPX,Twin Oak Active Opportunities ETF,Twin Oak Active Opportunities ETF,Z,TSPX,Y,100.0,N,TSPX
 TSQ,"Townsquare Media, Inc. Class A Common Stock","Townsquare Media, Inc. Class A Common Stock",N,TSQ,N,100.0,N,TSQ
@@ -6288,7 +6292,9 @@ UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070","Array Dig
 V,Visa Inc.,Visa Inc.,N,V,N,40.0,N,V
 VABS,Virtus Newfleet ABS/MBS ETF,Virtus Newfleet ABS/MBS ETF,P,VABS,Y,100.0,N,VABS
 VAC,Marriott Vacations Worldwide Corporation Common Stock,Marriott Vacations Worldwide Corporation Common Stock,N,VAC,N,100.0,N,VAC
+VACI,Viking Acquisition Corp. I Class A Ordinary Shares,Viking Acquisition Corp. I Class A Ordinary Shares,N,VACI,N,100.0,N,VACI
 VACI.U,"Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one","Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",N,VACI.U,N,100.0,N,VACI=
+VACI.W,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,N,VACI.WS,N,100.0,N,VACI+
 VAL,Valaris Limited Common Shares,Valaris Limited Common Shares,N,VAL,N,100.0,N,VAL
 VAL.W,Valaris Limited Warrants,Valaris Limited Warrants,N,VAL.WS,N,100.0,N,VAL+
 VALE,VALE S.A.  American Depositary Shares Each Representing one common share,VALE S.A.  American Depositary Shares Each Representing one common share,N,VALE,N,100.0,N,VALE
@@ -6690,6 +6696,7 @@ XPRO,Expro Group Holdings N.V. Common Stock,Expro Group Holdings N.V. Common Sto
 XRLV,Invesco S&P 500 ex,Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,P,XRLV,Y,100.0,N,XRLV
 XRLX,FundX Conservative ETF,FundX Conservative ETF,P,XRLX,Y,100.0,N,XRLX
 XRMI,Global X S&P 500 Risk Managed Income ETF,Global X S&P 500 Risk Managed Income ETF,P,XRMI,Y,100.0,N,XRMI
+XRP,Bitwise XRP ETF,Bitwise XRP ETF,P,XRP,Y,100.0,N,XRP
 XRPM,Amplify XRP 3% Monthly Premium Income ETF,Amplify XRP 3% Monthly Premium Income ETF,Z,XRPM,Y,100.0,N,XRPM
 XRPR,REX,REX-Osprey XRP ETF,Z,XRPR,Y,100.0,N,XRPR
 XRT,State Street SPDR S&P Retail ETF,State Street SPDR S&P Retail ETF,P,XRT,Y,100.0,N,XRT
