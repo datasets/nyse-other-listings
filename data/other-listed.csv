@@ -1085,6 +1085,7 @@ CIB,Grupo Cibest S.A. American Depositary Shares each representing four Preferre
 CICB,CION Investment Corporation 7.50% Notes due 2029,CION Investment Corporation 7.50% Notes due 2029,N,CICB,N,100.0,N,CICB
 CIEN,Ciena Corporation Common Stock,Ciena Corporation Common Stock,N,CIEN,N,100.0,N,CIEN
 CIF,MFS Intermediate High Income Fund Common Stock,MFS Intermediate High Income Fund Common Stock,N,CIF,N,100.0,N,CIF
+CIFU,T,T-REX 2X Long CIFR Daily Target ETF,Z,CIFU,Y,100.0,N,CIFU
 CIG,Comp En De Mn Cemig ADS American Depositary Shares,Comp En De Mn Cemig ADS American Depositary Shares,N,CIG,N,100.0,N,CIG
 CIG.C,Comp En De Mn Cemig ADS American Depositary Receipts,Comp En De Mn Cemig ADS American Depositary Receipts,N,CIG.C,N,100.0,N,CIG.C
 CII,"BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock","BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock",N,CII,N,100.0,N,CII
@@ -2798,6 +2799,7 @@ HEDG,Equable Shares Hedged Equity ETF,Equable Shares Hedged Equity ETF,P,HEDG,Y,
 HEDJ,WisdomTree Europe Hedged Equity Fund,WisdomTree Europe Hedged Equity Fund,P,HEDJ,Y,100.0,N,HEDJ
 HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,iShares Currency Hedged MSCI Emerging Markets ETF,Z,HEEM,Y,100.0,N,HEEM
 HEFA,iShares Currency Hedged MSCI EAFE ETF,iShares Currency Hedged MSCI EAFE ETF,Z,HEFA,Y,100.0,N,HEFA
+HEFT,Hedgeye Fourth Turning ETF,Hedgeye Fourth Turning ETF,P,HEFT,Y,100.0,N,HEFT
 HEGD,Swan Hedged Equity US Large Cap ETF,Swan Hedged Equity US Large Cap ETF,Z,HEGD,Y,100.0,N,HEGD
 HEI,Heico Corporation Common Stock,Heico Corporation Common Stock,N,HEI,N,40.0,N,HEI
 HEI.A,Heico Corporation Common Stock,Heico Corporation Common Stock,N,HEI.A,N,40.0,N,HEI.A
@@ -3575,7 +3577,9 @@ KRG,Kite Realty Group Trust Common Stock,Kite Realty Group Trust Common Stock,N,
 KRMN,Karman Holdings Inc. Common Stock,Karman Holdings Inc. Common Stock,N,KRMN,N,100.0,N,KRMN
 KRO,Kronos Worldwide Inc Common Stock,Kronos Worldwide Inc Common Stock,N,KRO,N,100.0,N,KRO
 KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,N,KRP,N,100.0,N,KRP
+KRSP,Rice Acquisition Corporation 3 Class A Ordinary Shares,Rice Acquisition Corporation 3 Class A Ordinary Shares,N,KRSP,N,100.0,N,KRSP
 KRSP.U,"Rice Acquisition Corporation 3 Units, each consisting of one Class A ordinary share, and one","Rice Acquisition Corporation 3 Units, each consisting of one Class A ordinary share, and one-sixth of one redeemable warrant",N,KRSP.U,N,100.0,N,KRSP=
+KRSP.W,"Rice Acquisition Corporation 3 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Rice Acquisition Corporation 3 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,KRSP.WS,N,100.0,N,KRSP+
 KSA,iShares MSCI Saudi Arabia ETF,iShares MSCI Saudi Arabia ETF,P,KSA,Y,100.0,N,KSA
 KSEP,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - September,Z,KSEP,Y,100.0,N,KSEP
 KSLV,Kurv Silver Enhanced Income ETF,Kurv Silver Enhanced Income ETF,Z,KSLV,Y,100.0,N,KSLV
@@ -3627,8 +3631,8 @@ LCII,LCI Industries,LCI Industries,N,LCII,N,100.0,N,LCII
 LCLG,Logan Capital Broad Innovative Growth ETF,Logan Capital Broad Innovative Growth ETF,P,LCLG,Y,100.0,N,LCLG
 LCOW,Pacer S&P 500 Quality FCF Aristocrats ETF,Pacer S&P 500 Quality FCF Aristocrats ETF,Z,LCOW,Y,100.0,N,LCOW
 LCR,Leuthold Core ETF,Leuthold Core ETF,P,LCR,Y,100.0,N,LCR
-LCTD,BlackRock World ex U.S. Carbon Transition Readiness ETF,BlackRock World ex U.S. Carbon Transition Readiness ETF,P,LCTD,Y,100.0,N,LCTD
-LCTU,BlackRock U.S. Carbon Transition Readiness ETF,BlackRock U.S. Carbon Transition Readiness ETF,P,LCTU,Y,100.0,N,LCTU
+LCTD,iShares World ex U.S. Carbon Transition Readiness Aware Active ETF,iShares World ex U.S. Carbon Transition Readiness Aware Active ETF,P,LCTD,Y,100.0,N,LCTD
+LCTU,iShares U.S. Carbon Transition Readiness Aware Active ETF,iShares U.S. Carbon Transition Readiness Aware Active ETF,P,LCTU,Y,100.0,N,LCTU
 LCTX,"Lineage Cell Therapeutics, Inc. Common Stock","Lineage Cell Therapeutics, Inc. Common Stock",A,LCTX,N,100.0,N,LCTX
 LDDR,LifeX 2035 Income Bucket ETF,LifeX 2035 Income Bucket ETF,Z,LDDR,Y,100.0,N,LDDR
 LDI,"loanDepot, Inc. Class A Common Stock","loanDepot, Inc. Class A Common Stock",N,LDI,N,100.0,N,LDI
@@ -4412,7 +4416,6 @@ OBK,"Origin Bancorp, Inc. Common Stock","Origin Bancorp, Inc. Common Stock",N,OB
 OBND,State Street Loomis Sayles Opportunistic Bond ETF,State Street Loomis Sayles Opportunistic Bond ETF,Z,OBND,Y,100.0,N,OBND
 OBOR,KraneShares MSCI One Belt One Road Index ETF,KraneShares MSCI One Belt One Road Index ETF,P,OBOR,Y,100.0,N,OBOR
 OC,Owens Corning Inc Common Stock New,Owens Corning Inc Common Stock New,N,OC,N,100.0,N,OC
-OCFT,"OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares","OneConnect Financial Technology Co., Ltd. American Depositary Shares, each representing thirty ordinary shares",N,OCFT,N,100.0,N,OCFT
 OCIO,ClearShares OCIO ETF,ClearShares OCIO ETF,P,OCIO,Y,100.0,N,OCIO
 OCTB,Aptus October Buffer ETF,Aptus October Buffer ETF,Z,OCTB,Y,100.0,N,OCTB
 OCTH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrier ETF - October,Z,OCTH,Y,100.0,N,OCTH
@@ -5940,6 +5943,7 @@ THY,Toews Agility Shares Dynamic Tactical Income ETF,Toews Agility Shares Dynami
 THYF,T. Rowe Price U.S. High Yield ETF,T. Rowe Price U.S. High Yield ETF,P,THYF,Y,100.0,N,THYF
 TIC,"TIC Solutions, Inc. Common Stock","TIC Solutions, Inc. Common Stock",N,TIC,N,100.0,N,TIC
 TIER,T. Rowe Price International Equity Research ETF,T. Rowe Price International Equity Research ETF,P,TIER,Y,100.0,N,TIER
+TII,Titan Mining Corporation Common Shares,Titan Mining Corporation Common Shares,A,TII,N,100.0,N,TII
 TIIV,AAM Todd International Intrinsic Value ETF,AAM Todd International Intrinsic Value ETF,P,TIIV,Y,100.0,N,TIIV
 TILL,Teucrium Agricultural Strategy No K,Teucrium Agricultural Strategy No K-1 ETF,P,TILL,Y,100.0,N,TILL
 TILT,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,Z,TILT,Y,100.0,N,TILT
