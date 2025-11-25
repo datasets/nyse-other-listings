@@ -156,6 +156,8 @@ AIBU,Direxion Daily AI and Big Data Bull 2X Shares,Direxion Daily AI and Big Dat
 AIEQ,Amplify AI Powered Equity ETF,Amplify AI Powered Equity ETF,P,AIEQ,Y,100.0,N,AIEQ
 AIG,"American International Group, Inc. New Common Stock","American International Group, Inc. New Common Stock",N,AIG,N,100.0,N,AIG
 AII,"American Integrity Insurance Group, Inc. Common Stock","American Integrity Insurance Group, Inc. Common Stock",N,AII,N,100.0,N,AII
+AIIA,AI Infrastructure Acquisition Corp. Class A Ordinary Shares,AI Infrastructure Acquisition Corp. Class A Ordinary Shares,N,AIIA,N,100.0,N,AIIA
+AIIA.R,"AI Infrastructure Acquisition Corp. Rights, each entitling the holder to receive one","AI Infrastructure Acquisition Corp. Rights, each entitling the holder to receive one-fifth (1/5) of one Class A Ordinary Share",N,AIIAr,N,100.0,N,AIIA^
 AIIA.U,"AI Infrastructure Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one Right","AI Infrastructure Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one Right",N,AIIA.U,N,100.0,N,AIIA=
 AIM,AIM ImmunoTech Inc. Common Stock,AIM ImmunoTech Inc. Common Stock,A,AIM,N,100.0,N,AIM
 AIN,Albany International Corporation Common Stock,Albany International Corporation Common Stock,N,AIN,N,100.0,N,AIN
@@ -316,13 +318,13 @@ ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferre
 ARGT,Global X MSCI Argentina ETF,Global X MSCI Argentina ETF,P,ARGT,Y,100.0,N,ARGT
 ARI,"Apollo Commercial Real Estate Finance, Inc","Apollo Commercial Real Estate Finance, Inc",N,ARI,N,100.0,N,ARI
 ARKB,ARK 21Shares Bitcoin ETF ,ARK 21Shares Bitcoin ETF ,Z,ARKB,Y,100.0,N,ARKB
-ARKF,ARK Fintech Innovation ETF,ARK Fintech Innovation ETF,Z,ARKF,Y,100.0,N,ARKF
+ARKF,ARK Blockchain & Fintech Innovation ETF,ARK Blockchain & Fintech Innovation ETF,Z,ARKF,Y,100.0,N,ARKF
 ARKG,ARK Genomic Revolution ETF,ARK Genomic Revolution ETF,Z,ARKG,Y,100.0,N,ARKG
 ARKK,ARK Innovation ETF,ARK Innovation ETF,Z,ARKK,Y,100.0,N,ARKK
 ARKQ,ARK Autonomous Technology & Robotics ETF,ARK Autonomous Technology & Robotics ETF,Z,ARKQ,Y,100.0,N,ARKQ
 ARKT,ARK DIET Q4 Buffer ETF,ARK DIET Q4 Buffer ETF,Z,ARKT,Y,100.0,N,ARKT
 ARKW,ARK Next Generation Internet ETF,ARK Next Generation Internet ETF,Z,ARKW,Y,100.0,N,ARKW
-ARKX,ARK Space Exploration & Innovation ETF,ARK Space Exploration & Innovation ETF,Z,ARKX,Y,100.0,N,ARKX
+ARKX,ARK Space & Defense Innovation ETF,ARK Space & Defense Innovation ETF,Z,ARKX,Y,100.0,N,ARKX
 ARL,"American Realty Investors, Inc. Common Stock","American Realty Investors, Inc. Common Stock",N,ARL,N,100.0,N,ARL
 ARLO,"Arlo Technologies, Inc. Common Stock","Arlo Technologies, Inc. Common Stock",N,ARLO,N,100.0,N,ARLO
 ARLU,AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,Z,ARLU,Y,100.0,N,ARLU
@@ -1453,7 +1455,7 @@ DDX,Defined Duration 10 ETF,Defined Duration 10 ETF,Z,DDX,Y,100.0,N,DDX
 DDXX,Defined Duration 20 ETF,Defined Duration 20 ETF,Z,DDXX,Y,100.0,N,DDXX
 DE,Deere & Company Common Stock,Deere & Company Common Stock,N,DE,N,40.0,N,DE
 DEA,"Easterly Government Properties, Inc. Common Stock","Easterly Government Properties, Inc. Common Stock",N,DEA,N,100.0,N,DEA
-DEC,Diversified Energy Company plc Ordinary Shares,Diversified Energy Company plc Ordinary Shares,N,DEC,N,100.0,N,DEC
+DEC,Diversified Energy Company Common Stock,Diversified Energy Company Common Stock,N,DEC,N,100.0,N,DEC
 DECK,Deckers Outdoor Corporation Common Stock,Deckers Outdoor Corporation Common Stock,N,DECK,N,100.0,N,DECK
 DECM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - December,Z,DECM,Y,100.0,N,DECM
 DECP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - December,Z,DECP,Y,100.0,N,DECP
@@ -1579,6 +1581,7 @@ DLB,Dolby Laboratories Common Stock,Dolby Laboratories Common Stock,N,DLB,N,100.
 DLN,WisdomTree U.S. LargeCap Dividend Fund,WisdomTree U.S. LargeCap Dividend Fund,P,DLN,Y,100.0,N,DLN
 DLNG,Dynagas LNG Partners LP Common Units,Dynagas LNG Partners LP Common Units,N,DLNG,N,100.0,N,DLNG
 DLNG$A,Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units,Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units,N,DLNGpA,N,100.0,N,DLNG-A
+DLNV,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - November,Z,DLNV,Y,100.0,N,DLNV
 DLR,"Digital Realty Trust, Inc. Common Stock","Digital Realty Trust, Inc. Common Stock",N,DLR,N,100.0,N,DLR
 DLR$J,"Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock","Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock",N,DLRpJ,N,100.0,N,DLR-J
 DLR$K,"Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share","Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 per share",N,DLRpK,N,100.0,N,DLR-K
@@ -2487,6 +2490,7 @@ GDMA,GadsdenA DynamicA Multi,GadsdenA DynamicA Multi-AssetA ETF,Z,GDMA,Y,100.0,N
 GDMN,WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,Z,GDMN,Y,100.0,N,GDMN
 GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,N,GDO,N,100.0,N,GDO
 GDOC,Goldman Sachs Future Health Care Equity ETF,Goldman Sachs Future Health Care Equity ETF,P,GDOC,Y,100.0,N,GDOC
+GDOG,Grayscale Dogecoin Trust ETF,Grayscale Dogecoin Trust ETF,P,GDOG,Y,100.0,N,GDOG
 GDOT,"Green Dot Corporation Class A Common Stock, $0.001 par value","Green Dot Corporation Class A Common Stock, $0.001 par value",N,GDOT,N,100.0,N,GDOT
 GDV,Gabelli Dividend & Income Trust Common Shares of Beneficial Interest,Gabelli Dividend & Income Trust Common Shares of Beneficial Interest,N,GDV,N,100.0,N,GDV
 GDV$H,The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares,The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares,N,GDVpH,N,100.0,N,GDV-H
@@ -2613,6 +2617,7 @@ GMOM,Cambria Global Momentum ETF,Cambria Global Momentum ETF,Z,GMOM,Y,100.0,N,GM
 GMOV,GMO US Value ETF,GMO US Value ETF,P,GMOV,Y,100.0,N,GMOV
 GMRE,Global Medical REIT Inc. Common Stock,Global Medical REIT Inc. Common Stock,N,GMRE,N,100.0,N,GMRE
 GMRE$A,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,N,GMREpA,N,100.0,N,GMRE-A
+GMRE$B,"Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share","Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",N,GMREpB,N,100.0,N,GMRE-B
 GMUB,Goldman Sachs Municipal Income ETF,Goldman Sachs Municipal Income ETF,P,GMUB,Y,100.0,N,GMUB
 GMUN,Goldman Sachs Access Municipal Bond ETF,Goldman Sachs Access Municipal Bond ETF,P,GMUN,Y,100.0,N,GMUN
 GNE,Genie Energy Ltd. Class B Common Stock Stock,Genie Energy Ltd. Class B Common Stock Stock,N,GNE,N,100.0,N,GNE
@@ -2754,6 +2759,7 @@ GXPD,Global X PureCap MSCI Consumer Discretionary ETF,Global X PureCap MSCI Cons
 GXPE,Global X PureCap MSCI Energy ETF,Global X PureCap MSCI Energy ETF,P,GXPE,Y,100.0,N,GXPE
 GXPS,Global X PureCap MSCI Consumer Staples ETF,Global X PureCap MSCI Consumer Staples ETF,P,GXPS,Y,100.0,N,GXPS
 GXPT,Global X PureCap MSCI Information Technology ETF,Global X PureCap MSCI Information Technology ETF,P,GXPT,Y,100.0,N,GXPT
+GXRP,Grayscale XRP Trust ETF,Grayscale XRP Trust ETF,P,GXRP,Y,100.0,N,GXRP
 GXUS,Goldman Sachs MarketBeta Total International Equity ETF,Goldman Sachs MarketBeta Total International Equity ETF,P,GXUS,Y,100.0,N,GXUS
 GYLD,Arrow Dow Jones Global Yield ETF ETF,Arrow Dow Jones Global Yield ETF ETF,N,GYLD,Y,100.0,N,GYLD
 H,Hyatt Hotels Corporation Class A Common Stock,Hyatt Hotels Corporation Class A Common Stock,N,H,N,100.0,N,H
@@ -4017,6 +4023,7 @@ MRGR,ProShares Merger ETF,ProShares Merger ETF,Z,MRGR,Y,100.0,N,MRGR
 MRK,"Merck & Company, Inc. Common Stock (new)","Merck & Company, Inc. Common Stock (new)",N,MRK,N,100.0,N,MRK
 MRNY,YieldMax MRNA Option Income Strategy ETF,YieldMax MRNA Option Income Strategy ETF,P,MRNY,Y,100.0,N,MRNY
 MRP,"Millrose Properties, Inc. Class A Common Stock","Millrose Properties, Inc. Class A Common Stock",N,MRP,N,100.0,N,MRP
+MRP.V,"Millrose Properties, Inc. Class A Common Stock When","Millrose Properties, Inc. Class A Common Stock When-Issued",N,MRPw,N,100.0,N,MRP#
 MRSK,Toews Agility Shares Managed Risk ETF,Toews Agility Shares Managed Risk ETF,P,MRSK,Y,100.0,N,MRSK
 MRT,"Marti Technologies, Inc. Class A Ordinary Shares","Marti Technologies, Inc. Class A Ordinary Shares",A,MRT,N,100.0,N,MRT
 MS,Morgan Stanley Common Stock,Morgan Stanley Common Stock,N,MS,N,100.0,N,MS
@@ -5974,7 +5981,7 @@ TLK,"PT Telekomunikasi Indonesia, Tbk","PT Telekomunikasi Indonesia, Tbk",N,TLK,
 TLTD,FlexShares Morningstar Developed Markets ex,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund,P,TLTD,Y,100.0,N,TLTD
 TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,P,TLTE,Y,100.0,N,TLTE
 TLTI,NEOS Enhanced Income 20+ Year Treasury Bond ETF,NEOS Enhanced Income 20+ Year Treasury Bond ETF,Z,TLTI,Y,100.0,N,TLTI
-TLTP,Amplify Bloomberg U.S. Treasury 12% Premium Income ETF,Amplify Bloomberg U.S. Treasury 12% Premium Income ETF,Z,TLTP,Y,100.0,N,TLTP
+TLTP,Amplify TLT U.S. Treasury 12% Option Income ETF,Amplify TLT U.S. Treasury 12% Option Income ETF,Z,TLTP,Y,100.0,N,TLTP
 TLTW,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,Z,TLTW,Y,100.0,N,TLTW
 TLTX,Global X Treasury Bond Enhanced Income ETF,Global X Treasury Bond Enhanced Income ETF,Z,TLTX,Y,100.0,N,TLTX
 TLYS,"Tilly's, Inc. Common Stock","Tilly's, Inc. Common Stock",N,TLYS,N,100.0,N,TLYS
@@ -6703,6 +6710,7 @@ XRMI,Global X S&P 500 Risk Managed Income ETF,Global X S&P 500 Risk Managed Inco
 XRP,Bitwise XRP ETF,Bitwise XRP ETF,P,XRP,Y,100.0,N,XRP
 XRPM,Amplify XRP 3% Monthly Premium Income ETF,Amplify XRP 3% Monthly Premium Income ETF,Z,XRPM,Y,100.0,N,XRPM
 XRPR,REX,REX-Osprey XRP ETF,Z,XRPR,Y,100.0,N,XRPR
+XRPZ,Franklin XRP ETF,Franklin XRP ETF,P,XRPZ,Y,100.0,N,XRPZ
 XRT,State Street SPDR S&P Retail ETF,State Street SPDR S&P Retail ETF,P,XRT,Y,100.0,N,XRT
 XSD,State Street SPDR S&P Semiconductor ETF,State Street SPDR S&P Semiconductor ETF,P,XSD,Y,40.0,N,XSD
 XSEP,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September,Z,XSEP,Y,100.0,N,XSEP

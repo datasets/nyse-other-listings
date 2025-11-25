@@ -92,6 +92,8 @@ AHT$I,Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock
 AI,"C3.ai, Inc. Class A Common Stock"
 AIG,"American International Group, Inc. New Common Stock"
 AII,"American Integrity Insurance Group, Inc. Common Stock"
+AIIA,AI Infrastructure Acquisition Corp. Class A Ordinary Shares
+AIIA.R,"AI Infrastructure Acquisition Corp. Rights, each entitling the holder to receive one"
 AIIA.U,"AI Infrastructure Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one Right"
 AIN,Albany International Corporation Common Stock
 AIO,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest
@@ -755,7 +757,7 @@ DDS,"Dillard's, Inc. Common Stock"
 DDT,Dillard's Capital Trust I
 DE,Deere & Company Common Stock
 DEA,"Easterly Government Properties, Inc. Common Stock"
-DEC,Diversified Energy Company plc Ordinary Shares
+DEC,Diversified Energy Company Common Stock
 DECK,Deckers Outdoor Corporation Common Stock
 DEI,"Douglas Emmett, Inc. Common Stock"
 DELL,Dell Technologies Inc. Class C Common Stock 
@@ -1169,6 +1171,7 @@ GME.W,GameStop Corporation Warrants to Purchase Common Stock
 GMED,"Globus Medical, Inc. Class A Common Stock"
 GMRE,Global Medical REIT Inc. Common Stock
 GMRE$A,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock
+GMRE$B,"Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share"
 GNE,Genie Energy Ltd. Class B Common Stock Stock
 GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)
 GNL,"Global Net Lease, Inc. Common Stock"
@@ -1711,6 +1714,7 @@ MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock"
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock"
 MRK,"Merck & Company, Inc. Common Stock (new)"
 MRP,"Millrose Properties, Inc. Class A Common Stock"
+MRP.V,"Millrose Properties, Inc. Class A Common Stock When"
 MS,Morgan Stanley Common Stock
 MS$A,Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A
 MS$E,Morgan Stanley DEPOSITARY SHARES REP 1/1000TH SHARES FIXED/FLTG PREFERRED STOCK SERIES E
