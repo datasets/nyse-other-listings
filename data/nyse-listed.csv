@@ -1132,7 +1132,7 @@ GFF,Griffon Corporation Common Stock
 GFI,Gold Fields Limited American Depositary Shares
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value"
 GFR,Greenfire Resources Ltd. Common Shares
-GFR.V,"Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights when issued"
+GFR.R,"Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights"
 GGB,Gerdau S.A. Common Stock
 GGG,Graco Inc. Common Stock
 GGT,Gabelli Multi
@@ -2268,6 +2268,7 @@ RWT$A,"Redwood Trust, Inc. 10.00% Series A Fixed"
 RWTN,"Redwood Trust, Inc. 9.125% Senior Notes Due 2029"
 RWTO,"Redwood Trust, Inc. 9.00% Senior Notes Due 2029"
 RWTP,"Redwood Trust, Inc. 9.125% Senior Notes Due 2030"
+RWTQ,"Redwood Trust, Inc. 9.500% Senior Notes Due 2030"
 RXO,"RXO, Inc. Common Stock"
 RY,Royal Bank Of Canada Common Stock
 RYAM,Rayonier Advanced Materials Inc. Common Stock

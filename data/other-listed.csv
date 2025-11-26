@@ -1273,7 +1273,7 @@ CR,Crane Company Common Stock,Crane Company Common Stock,N,CR,N,100.0,N,CR
 CRAK,VanEck Oil Refiners ETF,VanEck Oil Refiners ETF,P,CRAK,Y,100.0,N,CRAK
 CRBD,Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064,Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064,N,CRBD,N,100.0,N,CRBD
 CRBG,Corebridge Financial Inc. Common Stock,Corebridge Financial Inc. Common Stock,N,CRBG,N,100.0,N,CRBG
-CRBN,iShares MSCI ACWI Low Carbon Target ETF,iShares MSCI ACWI Low Carbon Target ETF,P,CRBN,Y,100.0,N,CRBN
+CRBN,iShares Low Carbon Optimized MSCI ACWI ETF,iShares Low Carbon Optimized MSCI ACWI ETF,P,CRBN,Y,100.0,N,CRBN
 CRC,California Resources Corporation Common Stock,California Resources Corporation Common Stock,N,CRC,N,100.0,N,CRC
 CRCA,ProShares Ultra CRCL,ProShares Ultra CRCL,P,CRCA,Y,100.0,N,CRCA
 CRCD,T,T-REX 2X Inverse CRCL Daily Target ETF,Z,CRCD,Y,100.0,N,CRCD
@@ -2525,7 +2525,7 @@ GFF,Griffon Corporation Common Stock,Griffon Corporation Common Stock,N,GFF,N,10
 GFI,Gold Fields Limited American Depositary Shares,Gold Fields Limited American Depositary Shares,N,GFI,N,100.0,N,GFI
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value","GFL Environmental Inc. Subordinate voting shares, no par value",N,GFL,N,100.0,N,GFL
 GFR,Greenfire Resources Ltd. Common Shares,Greenfire Resources Ltd. Common Shares,N,GFR,N,100.0,N,GFR
-GFR.V,"Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights when issued","Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights when issued",N,GFRrw,N,100.0,N,GFR^#
+GFR.R,"Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights","Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights",N,GFRr,N,100.0,N,GFR^
 GGB,Gerdau S.A. Common Stock,Gerdau S.A. Common Stock,N,GGB,N,100.0,N,GGB
 GGG,Graco Inc. Common Stock,Graco Inc. Common Stock,N,GGG,N,100.0,N,GGG
 GGM,GGM Macro Alignment ETF,GGM Macro Alignment ETF,P,GGM,Y,100.0,N,GGM
@@ -5249,6 +5249,7 @@ RWT$A,"Redwood Trust, Inc. 10.00% Series A Fixed","Redwood Trust, Inc. 10.00% Se
 RWTN,"Redwood Trust, Inc. 9.125% Senior Notes Due 2029","Redwood Trust, Inc. 9.125% Senior Notes Due 2029",N,RWTN,N,100.0,N,RWTN
 RWTO,"Redwood Trust, Inc. 9.00% Senior Notes Due 2029","Redwood Trust, Inc. 9.00% Senior Notes Due 2029",N,RWTO,N,100.0,N,RWTO
 RWTP,"Redwood Trust, Inc. 9.125% Senior Notes Due 2030","Redwood Trust, Inc. 9.125% Senior Notes Due 2030",N,RWTP,N,100.0,N,RWTP
+RWTQ,"Redwood Trust, Inc. 9.500% Senior Notes Due 2030","Redwood Trust, Inc. 9.500% Senior Notes Due 2030",N,RWTQ,N,100.0,N,RWTQ
 RWX,SPDR DJ Wilshire Intl Real Estate,SPDR DJ Wilshire Intl Real Estate,P,RWX,Y,100.0,N,RWX
 RXD,ProShares UltraShort Health Care,ProShares UltraShort Health Care,P,RXD,Y,100.0,N,RXD
 RXI,iShares Global Consumer Discretionary ETF,iShares Global Consumer Discretionary ETF,P,RXI,Y,100.0,N,RXI
