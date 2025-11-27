@@ -141,7 +141,7 @@ AHL,Aspen Insurance Holdings Limited Class A Ordinary Shares,Aspen Insurance Hol
 AHL$D,Aspen Insurance Holdings Limited 5.625% Perpetual Non,Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares,N,AHLpD,N,100.0,N,AHL-D
 AHL$E,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 5.625% Perpetual Non","Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 5.625% Perpetual Non-Cumulative Preference Shares",N,AHLpE,N,100.0,N,AHL-E
 AHL$F,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1,000th Interest in a 7.00% Perpetual Non","Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1,000th Interest in a 7.00% Perpetual Non-Cumulative Preference Share",N,AHLpF,N,100.0,N,AHL-F
-AHLT,American Beacon Select Funds American Beacon AHL Trend ETF,American Beacon Select Funds American Beacon AHL Trend ETF,P,AHLT,Y,100.0,N,AHLT
+AHLT,AHL Trend ETF,AHL Trend ETF,P,AHLT,Y,100.0,N,AHLT
 AHR,"American Healthcare REIT, Inc. Common Stock","American Healthcare REIT, Inc. Common Stock",N,AHR,N,100.0,N,AHR
 AHT,Ashford Hospitality Trust Inc Common Stock,Ashford Hospitality Trust Inc Common Stock,N,AHT,N,100.0,N,AHT
 AHT$D,Ashford Hospitality Trust Inc 8.45% Series D Cumulative Preferred Stock,Ashford Hospitality Trust Inc 8.45% Series D Cumulative Preferred Stock,N,AHTpD,N,100.0,N,AHT-D
@@ -227,7 +227,7 @@ AMG,"Affiliated Managers Group, Inc. Common Stock","Affiliated Managers Group, I
 AMH,American Homes 4 Rent Common Shares of Beneficial Interest,American Homes 4 Rent Common Shares of Beneficial Interest,N,AMH,N,100.0,N,AMH
 AMH$G,American Homes 4 Rent Series G cumulative redeemable perpetual preferred shares of beneficial interest,American Homes 4 Rent Series G cumulative redeemable perpetual preferred shares of beneficial interest,N,AMHpG,N,100.0,N,AMH-G
 AMH$H,American Homes 4 Rent Series H cumulative redeemable perpetual Preferred Shares of Beneficial Interest,American Homes 4 Rent Series H cumulative redeemable perpetual Preferred Shares of Beneficial Interest,N,AMHpH,N,100.0,N,AMH-H
-AMJB,"JPMorgan Chase & Co. Alerian MLP Index ETNs due January 28, 2044","JPMorgan Chase & Co. Alerian MLP Index ETNs due January 28, 2044",P,AMJB,Y,100.0,N,AMJB
+AMJB,Alerian MLP Index ETN,Alerian MLP Index ETN,P,AMJB,Y,100.0,N,AMJB
 AMLP,Alerian MLP ETF,Alerian MLP ETF,P,AMLP,Y,100.0,N,AMLP
 AMN,AMN Healthcare Services Inc,AMN Healthcare Services Inc,N,AMN,N,100.0,N,AMN
 AMOM,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap Momentum ETF,P,AMOM,Y,100.0,N,AMOM
@@ -906,6 +906,7 @@ BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,BrandywineGLOBAL Glob
 BWLP,BW LPG Limited Common Shares,BW LPG Limited Common Shares,N,BWLP,N,100.0,N,BWLP
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares","Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",N,BWMX,N,100.0,N,BWMX
 BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026","Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",N,BWNB,N,100.0,N,BWNB
+BWOW,Bitwise Dogecoin ETF,Bitwise Dogecoin ETF,P,BWOW,Y,100.0,N,BWOW
 BWSN,"Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026","Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026",N,BWSN,N,100.0,N,BWSN
 BWTG,Brendan Wood TopGun Index ETF,Brendan Wood TopGun Index ETF,Z,BWTG,Y,100.0,N,BWTG
 BWX,SPDR Bloomberg International Treasury Bond ETF,SPDR Bloomberg International Treasury Bond ETF,P,BWX,Y,100.0,N,BWX
@@ -2164,7 +2165,7 @@ FETH,Fidelity Ethereum Fund Fidelity Ethereum Fund,Fidelity Ethereum Fund Fideli
 FEUS,FlexShares ESG & Climate US Large Cap Core Index Fund,FlexShares ESG & Climate US Large Cap Core Index Fund,P,FEUS,Y,100.0,N,FEUS
 FEZ,SPDR DJ Euro STOXX 50 Etf,SPDR DJ Euro STOXX 50 Etf,P,FEZ,Y,100.0,N,FEZ
 FF,FutureFuel Corp.  Common shares,FutureFuel Corp.  Common shares,N,FF,N,100.0,N,FF
-FFA,First Trust Enhanced Equity Income Fund,First Trust Enhanced Equity Income Fund,N,FFA,N,100.0,N,FFA
+FFA,First Trust Enhanced Equity Income Fund Common Shares of Beneficial Interest,First Trust Enhanced Equity Income Fund Common Shares of Beneficial Interest,N,FFA,N,100.0,N,FFA
 FFC,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,N,FFC,N,100.0,N,FFC
 FFDI,Fidelity Fundamental Developed International ETF,Fidelity Fundamental Developed International ETF,Z,FFDI,Y,100.0,N,FFDI
 FFEB,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - February,Z,FFEB,Y,100.0,N,FFEB
@@ -2302,7 +2303,7 @@ FMQQ,FMQQ The Next Frontier Internet ETF,FMQQ The Next Frontier Internet ETF,P,F
 FMS,Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 of an Ordinary Share),Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 of an Ordinary Share),N,FMS,N,100.0,N,FMS
 FMTL,First Trust Indxx Critical Metals ETF,First Trust Indxx Critical Metals ETF,P,FMTL,Y,100.0,N,FMTL
 FMX,Fomento Economico Mexicano S.A.B. de C.V. Common Stock,Fomento Economico Mexicano S.A.B. de C.V. Common Stock,N,FMX,N,100.0,N,FMX
-FMY,First Trust Motgage Income Fund Common Shares of Beneficial Interest,First Trust Motgage Income Fund Common Shares of Beneficial Interest,N,FMY,N,100.0,N,FMY
+FMY,First Trust Mortgage Income Fund Common Shares of Beneficial Interest,First Trust Mortgage Income Fund Common Shares of Beneficial Interest,N,FMY,N,100.0,N,FMY
 FN,Fabrinet Ordinary Shares,Fabrinet Ordinary Shares,N,FN,N,40.0,N,FN
 FNB,F.N.B. Corporation Common Stock,F.N.B. Corporation Common Stock,N,FNB,N,100.0,N,FNB
 FNCL,Fidelity MSCI Financials Index ETF,Fidelity MSCI Financials Index ETF,P,FNCL,Y,100.0,N,FNCL
@@ -2544,7 +2545,6 @@ GHG,"GreenTree Hospitality Group Ltd. American depositary shares, each represent
 GHI,Greystone Housing Impact Investors LP Beneficial Unit Certificates representing assignments of limited partnership interests,Greystone Housing Impact Investors LP Beneficial Unit Certificates representing assignments of limited partnership interests,N,GHI,N,100.0,N,GHI
 GHLD,Guild Holdings Company Class A Common Stock,Guild Holdings Company Class A Common Stock,N,GHLD,N,100.0,N,GHLD
 GHM,Graham Corporation Common Stock,Graham Corporation Common Stock,N,GHM,N,100.0,N,GHM
-GHMS,Goose Hollow Multi,Goose Hollow Multi-Strategy Income ETF,Z,GHMS,Y,100.0,N,GHMS
 GHTA,Goose Hollow Tactical Allocation ETF,Goose Hollow Tactical Allocation ETF,Z,GHTA,Y,100.0,N,GHTA
 GHY,"PGIM Global High Yield Fund, Inc.","PGIM Global High Yield Fund, Inc.",N,GHY,N,100.0,N,GHY
 GHYB,Goldman Sachs Access High Yield Corporate Bond ETF,Goldman Sachs Access High Yield Corporate Bond ETF,P,GHYB,Y,100.0,N,GHYB
@@ -4087,7 +4087,7 @@ MTR,Mesa Royalty Trust Common Stock,Mesa Royalty Trust Common Stock,N,MTR,N,100.
 MTRA,Invesco International Growth Focus ETF,Invesco International Growth Focus ETF,Z,MTRA,Y,100.0,N,MTRA
 MTRN,Materion Corporation,Materion Corporation,N,MTRN,N,100.0,N,MTRN
 MTUL,ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN,ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN,P,MTUL,Y,100.0,N,MTUL
-MTUM,ETF,ETF,Z,MTUM,Y,40.0,N,MTUM
+MTUM,iShares MSCI USA Momentum Factor ETF,iShares MSCI USA Momentum Factor ETF,Z,MTUM,Y,40.0,N,MTUM
 MTUS,Metallus Inc. Common Shares,Metallus Inc. Common Shares,N,MTUS,N,100.0,N,MTUS
 MTW,"Manitowoc Company, Inc. (The) Common Stock","Manitowoc Company, Inc. (The) Common Stock",N,MTW,N,100.0,N,MTW
 MTX,Minerals Technologies Inc. Common Stock,Minerals Technologies Inc. Common Stock,N,MTX,N,100.0,N,MTX
@@ -4451,7 +4451,7 @@ OGSP,Obra High Grade Structured Products ETF,Obra High Grade Structured Products
 OHI,"Omega Healthcare Investors, Inc. Common Stock","Omega Healthcare Investors, Inc. Common Stock",N,OHI,N,100.0,N,OHI
 OI,O,"O-I Glass, Inc. Common Stock",N,OI,N,100.0,N,OI
 OIA,Invesco Municipal Income Opportunities Trust Common Stock,Invesco Municipal Income Opportunities Trust Common Stock,N,OIA,N,100.0,N,OIA
-OIH,ETF,ETF,P,OIH,Y,40.0,N,OIH
+OIH,VanEck Oil Services ETF,VanEck Oil Services ETF,P,OIH,Y,40.0,N,OIH
 OII,"Oceaneering International, Inc. Common Stock","Oceaneering International, Inc. Common Stock",N,OII,N,100.0,N,OII
 OILD,MicroSectors Oil & Gas Exp. & Prod. ,MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN,P,OILD,Y,100.0,N,OILD
 OILK,ProShares K,ProShares K-1 Free Crude Oil ETF,Z,OILK,Y,100.0,N,OILK
@@ -4460,6 +4460,7 @@ OILU,MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN,MicroSectors Oil & Gas
 OIS,"Oil States International, Inc. Common Stock","Oil States International, Inc. Common Stock",N,OIS,N,100.0,N,OIS
 OKE,"ONEOK, Inc. Common Stock","ONEOK, Inc. Common Stock",N,OKE,N,100.0,N,OKE
 OKLO,Oklo Inc. Class A common stock,Oklo Inc. Class A common stock,N,OKLO,N,100.0,N,OKLO
+OKLS,Defiance Daily Target 2X Short OKLO ETF,Defiance Daily Target 2X Short OKLO ETF,P,OKLS,Y,100.0,N,OKLS
 OKTX,Tradr 2X Long OKTA Daily ETF,Tradr 2X Long OKTA Daily ETF,Z,OKTX,Y,100.0,N,OKTX
 OLN,Olin Corporation Common Stock,Olin Corporation Common Stock,N,OLN,N,100.0,N,OLN
 OLP,"One Liberty Properties, Inc. Common Stock","One Liberty Properties, Inc. Common Stock",N,OLP,N,100.0,N,OLP
@@ -5560,7 +5561,7 @@ SMOT,VanEck Morningstar SMID Moat ETF,VanEck Morningstar SMID Moat ETF,Z,SMOT,Y,
 SMP,"Standard Motor Products, Inc. Common Stock","Standard Motor Products, Inc. Common Stock",N,SMP,N,100.0,N,SMP
 SMR,NuScale Power Corporation Class A Common Stock,NuScale Power Corporation Class A Common Stock,N,SMR,N,100.0,N,SMR
 SMRT,"SmartRent, Inc. Class A Common Stock","SmartRent, Inc. Class A Common Stock",N,SMRT,N,100.0,N,SMRT
-SMTH,ALPS,ALPS,P,SMTH,Y,100.0,N,SMTH
+SMTH,ALPS Smith Core Plus Bond ETF,ALPS Smith Core Plus Bond ETF,P,SMTH,Y,100.0,N,SMTH
 SMU,Tradr 2X Long SMR Daily ETF,Tradr 2X Long SMR Daily ETF,Z,SMU,Y,100.0,N,SMU
 SMUP,T,T-REX 2X Long SMR Daily Target ETF,Z,SMUP,Y,100.0,N,SMUP
 SMWB,Similarweb Ltd. Ordinary Shares,Similarweb Ltd. Ordinary Shares,N,SMWB,N,100.0,N,SMWB
@@ -6408,8 +6409,8 @@ VNTG,Vantage Corp Class A Ordinary Shares,Vantage Corp Class A Ordinary Shares,A
 VO,Vanguard Mid,Vanguard Mid-Cap VIPERs Index Fund,P,VO,Y,40.0,N,VO
 VOC,VOC Energy Trust Units of Beneficial Interest,VOC Energy Trust Units of Beneficial Interest,N,VOC,N,100.0,N,VOC
 VOE,Vanguard Mid,Vanguard Mid-Cap Value ETF,P,VOE,Y,100.0,N,VOE
-VOO,ETF,ETF,P,VOO,Y,40.0,N,VOO
-VOOG,ETF,ETF,P,VOOG,Y,40.0,N,VOOG
+VOO,Vanguard S&P 500 ETF,Vanguard S&P 500 ETF,P,VOO,Y,40.0,N,VOO
+VOOG,Vanguard S&P 500 Growth ETF,Vanguard S&P 500 Growth ETF,P,VOOG,Y,40.0,N,VOOG
 VOOV,Vanguard S&P 500 Value ETF,Vanguard S&P 500 Value ETF,P,VOOV,Y,100.0,N,VOOV
 VOT,Mid,Mid-Cap Growth Index Viper Shs ETF,P,VOT,Y,40.0,N,VOT
 VOX,Vanguard Communication Services  ETF,Vanguard Communication Services  ETF,P,VOX,Y,100.0,N,VOX
