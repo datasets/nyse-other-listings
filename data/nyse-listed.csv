@@ -135,7 +135,6 @@ ALV,"Autoliv, Inc. Common Stock"
 ALX,"Alexander's, Inc. Common Stock"
 AM,Antero Midstream Corporation Common Stock
 AMBP,Ardagh Metal Packaging S.A. Ordinary Shares
-AMBP.W,"Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share"
 AMBQ,"Ambiq Micro, Inc. Common Stock"
 AMC,"AMC Entertainment Holdings, Inc. Class A Common Stock"
 AMCR,Amcor plc Ordinary Shares
@@ -306,7 +305,6 @@ BBW,Build
 BBWI,"Bath & Body Works, Inc."
 BBY,"Best Buy Co., Inc. Common Stock"
 BC,Brunswick Corporation Common Stock
-BC$A,Brunswick Corporation 6.500% Senior Notes due 2048
 BC$C,Brunswick Corporation 6.375% Notes due 2049
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest
 BCC,"Boise Cascade, L.L.C. Common Stock"
@@ -338,6 +336,7 @@ BF.A,Brown Forman Inc Class A Common Stock
 BF.B,Brown Forman Inc Class B Common Stock
 BFAM,Bright Horizons Family Solutions Inc. Common Stock
 BFH,"Bread Financial Holdings, Inc. Common Stock"
+BFH$A,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non"
 BFK,BlackRock Municipal Income Trust
 BFLY,"Butterfly Network, Inc. Class A Common Stock"
 BFLY.W,"Butterfly Network, Inc. Warrants"
@@ -805,7 +804,6 @@ DOW,Dow Inc. Common Stock
 DPG,Duff & Phelps Utility and Infrastructure Fund Inc.
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares"
 DRD,DRDGOLD Limited American Depositary Shares
-DRH,Diamondrock Hospitality Company Common Stock
 DRH$A,Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock
 DRI,"Darden Restaurants, Inc. Common Stock"
 DRLL,Strive U.S. Energy ETF
@@ -1236,7 +1234,6 @@ HAL,Halliburton Company Common Stock
 HASI,"HA Sustainable Infrastructure Capital, Inc. Common Stock"
 HAYW,"Hayward Holdings, Inc. Common Stock"
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock 
-HBI,Hanesbrands Inc. Common Stock
 HBM,Hudbay Minerals Inc. Ordinary Shares (Canada)
 HCA,"HCA Healthcare, Inc. Common Stock"
 HCC,"Warrior Met Coal, Inc. Common Stock"
@@ -1712,7 +1709,6 @@ MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock"
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock"
 MRK,"Merck & Company, Inc. Common Stock (new)"
 MRP,"Millrose Properties, Inc. Class A Common Stock"
-MRP.V,"Millrose Properties, Inc. Class A Common Stock When"
 MS,Morgan Stanley Common Stock
 MS$A,Morgan Stanley Dep Shs repstg 1/1000 Pfd Ser A
 MS$E,Morgan Stanley DEPOSITARY SHARES REP 1/1000TH SHARES FIXED/FLTG PREFERRED STOCK SERIES E

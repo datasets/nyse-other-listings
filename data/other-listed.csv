@@ -216,7 +216,6 @@ AM,Antero Midstream Corporation Common Stock,Antero Midstream Corporation Common
 AMAX,Adaptive Hedged Multi,Adaptive Hedged Multi-Asset Income ETF,P,AMAX,Y,100.0,N,AMAX
 AMBO,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),A,AMBO,N,100.0,N,AMBO
 AMBP,Ardagh Metal Packaging S.A. Ordinary Shares,Ardagh Metal Packaging S.A. Ordinary Shares,N,AMBP,N,100.0,N,AMBP
-AMBP.W,"Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share","Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50 per share",N,AMBP.WS,N,100.0,N,AMBP+
 AMBQ,"Ambiq Micro, Inc. Common Stock","Ambiq Micro, Inc. Common Stock",N,AMBQ,N,100.0,N,AMBQ
 AMC,"AMC Entertainment Holdings, Inc. Class A Common Stock","AMC Entertainment Holdings, Inc. Class A Common Stock",N,AMC,N,100.0,N,AMC
 AMCR,Amcor plc Ordinary Shares,Amcor plc Ordinary Shares,N,AMCR,N,100.0,N,AMCR
@@ -553,7 +552,6 @@ BBW,Build,"Build-A-Bear Workshop, Inc. Common Stock",N,BBW,N,100.0,N,BBW
 BBWI,"Bath & Body Works, Inc.","Bath & Body Works, Inc.",N,BBWI,N,100.0,N,BBWI
 BBY,"Best Buy Co., Inc. Common Stock","Best Buy Co., Inc. Common Stock",N,BBY,N,100.0,N,BBY
 BC,Brunswick Corporation Common Stock,Brunswick Corporation Common Stock,N,BC,N,100.0,N,BC
-BC$A,Brunswick Corporation 6.500% Senior Notes due 2048,Brunswick Corporation 6.500% Senior Notes due 2048,N,BCpA,N,100.0,N,BC-A
 BC$C,Brunswick Corporation 6.375% Notes due 2049,Brunswick Corporation 6.375% Notes due 2049,N,BCpC,N,100.0,N,BC-C
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,N,BCAT,N,100.0,N,BCAT
 BCC,"Boise Cascade, L.L.C. Common Stock","Boise Cascade, L.L.C. Common Stock",N,BCC,N,100.0,N,BCC
@@ -618,6 +616,7 @@ BFAM,Bright Horizons Family Solutions Inc. Common Stock,Bright Horizons Family S
 BFAP,FT Vest Bitcoin Strategy Floor15 ETF April,FT Vest Bitcoin Strategy Floor15 ETF April,P,BFAP,Y,100.0,N,BFAP
 BFEB,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - February,Z,BFEB,Y,100.0,N,BFEB
 BFH,"Bread Financial Holdings, Inc. Common Stock","Bread Financial Holdings, Inc. Common Stock",N,BFH,N,100.0,N,BFH
+BFH$A,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non","Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A",N,BFHpA,N,100.0,N,BFH-A
 BFIX,Build Bond Innovation ETF,Build Bond Innovation ETF,P,BFIX,Y,100.0,N,BFIX
 BFJL,FT Vest Bitcoin Strategy Floor15 ETF July,FT Vest Bitcoin Strategy Floor15 ETF July,P,BFJL,Y,100.0,N,BFJL
 BFK,BlackRock Municipal Income Trust,BlackRock Municipal Income Trust,N,BFK,N,100.0,N,BFK
@@ -1437,6 +1436,7 @@ DD,"DuPont de Nemours, Inc. Common Stock","DuPont de Nemours, Inc. Common Stock"
 DDC,DDC Enterprise Limited Class A Ordinary Shares,DDC Enterprise Limited Class A Ordinary Shares,A,DDC,N,100.0,N,DDC
 DDD,3D Systems Corporation Common Stock,3D Systems Corporation Common Stock,N,DDD,N,100.0,N,DDD
 DDEC,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - December,Z,DDEC,Y,100.0,N,DDEC
+DDFD,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - December,Z,DDFD,Y,100.0,N,DDFD
 DDFL,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - July,Z,DDFL,Y,100.0,N,DDFL
 DDFN,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - November,Z,DDFN,Y,100.0,N,DDFN
 DDFO,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - October,Z,DDFO,Y,100.0,N,DDFO
@@ -1446,6 +1446,7 @@ DDLS,WisdomTree Dynamic International SmallCap Equity Fund,WisdomTree Dynamic In
 DDM,ProShares Ultra Dow30,ProShares Ultra Dow30,P,DDM,Y,100.0,N,DDM
 DDS,"Dillard's, Inc. Common Stock","Dillard's, Inc. Common Stock",N,DDS,N,40.0,N,DDS
 DDT,Dillard's Capital Trust I,Dillard's Capital Trust I,N,DDT,N,100.0,N,DDT
+DDTD,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - December,Z,DDTD,Y,100.0,N,DDTD
 DDTL,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - July,Z,DDTL,Y,100.0,N,DDTL
 DDTN,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - November,Z,DDTN,Y,100.0,N,DDTN
 DDTO,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - October,Z,DDTO,Y,100.0,N,DDTO
@@ -1627,7 +1628,6 @@ DRAY,YieldMax DKNG Option Income Strategy ETF,YieldMax DKNG Option Income Strate
 DRD,DRDGOLD Limited American Depositary Shares,DRDGOLD Limited American Depositary Shares,N,DRD,N,100.0,N,DRD
 DRES,GMO Domestic Resilience ETF,GMO Domestic Resilience ETF,P,DRES,Y,100.0,N,DRES
 DRGN,Themes China Generative Artificial Intelligence ETF,Themes China Generative Artificial Intelligence ETF,Z,DRGN,Y,100.0,N,DRGN
-DRH,Diamondrock Hospitality Company Common Stock,Diamondrock Hospitality Company Common Stock,N,DRH,N,100.0,N,DRH
 DRH$A,Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock,Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock,N,DRHpA,N,100.0,N,DRH-A
 DRI,"Darden Restaurants, Inc. Common Stock","Darden Restaurants, Inc. Common Stock",N,DRI,N,100.0,N,DRI
 DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,P,DRIP,Y,100.0,N,DRIP
@@ -2777,7 +2777,6 @@ HAUZ,Xtrackers International Real Estate ETF,Xtrackers International Real Estate
 HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,iShares Currency Hedged MSCI ACWI ex U.S. ETF,P,HAWX,Y,100.0,N,HAWX
 HAYW,"Hayward Holdings, Inc. Common Stock","Hayward Holdings, Inc. Common Stock",N,HAYW,N,100.0,N,HAYW
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,Hamilton Beach Brands Holding Company Class A Common Stock ,N,HBB,N,100.0,N,HBB
-HBI,Hanesbrands Inc. Common Stock,Hanesbrands Inc. Common Stock,N,HBI,N,100.0,N,HBI
 HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),Hudbay Minerals Inc. Ordinary Shares (Canada),N,HBM,N,100.0,N,HBM
 HBTA,Horizon Expedition Plus ETF,Horizon Expedition Plus ETF,P,HBTA,Y,100.0,N,HBTA
 HBTC,Fortuna Hedged Bitcoin Fund,Fortuna Hedged Bitcoin Fund,Z,HBTC,Y,100.0,N,HBTC
@@ -4021,7 +4020,6 @@ MRGR,ProShares Merger ETF,ProShares Merger ETF,Z,MRGR,Y,100.0,N,MRGR
 MRK,"Merck & Company, Inc. Common Stock (new)","Merck & Company, Inc. Common Stock (new)",N,MRK,N,100.0,N,MRK
 MRNY,YieldMax MRNA Option Income Strategy ETF,YieldMax MRNA Option Income Strategy ETF,P,MRNY,Y,100.0,N,MRNY
 MRP,"Millrose Properties, Inc. Class A Common Stock","Millrose Properties, Inc. Class A Common Stock",N,MRP,N,100.0,N,MRP
-MRP.V,"Millrose Properties, Inc. Class A Common Stock When","Millrose Properties, Inc. Class A Common Stock When-Issued",N,MRPw,N,100.0,N,MRP#
 MRSK,Toews Agility Shares Managed Risk ETF,Toews Agility Shares Managed Risk ETF,P,MRSK,Y,100.0,N,MRSK
 MRT,"Marti Technologies, Inc. Class A Ordinary Shares","Marti Technologies, Inc. Class A Ordinary Shares",A,MRT,N,100.0,N,MRT
 MS,Morgan Stanley Common Stock,Morgan Stanley Common Stock,N,MS,N,100.0,N,MS
@@ -4753,6 +4751,7 @@ PMAP,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - April,Z,PMAP,Y,1
 PMAR,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - March,Z,PMAR,Y,100.0,N,PMAR
 PMAU,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - August,Z,PMAU,Y,100.0,N,PMAU
 PMAY,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - May,Z,PMAY,Y,100.0,N,PMAY
+PMDE,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - December,Z,PMDE,Y,100.0,N,PMDE
 PMFB,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - February,Z,PMFB,Y,100.0,N,PMFB
 PMI,"Picard Medical, Inc. Common Stock","Picard Medical, Inc. Common Stock",A,PMI,N,100.0,N,PMI
 PMIO,PGIM Municipal Income Opportunities ETF,PGIM Municipal Income Opportunities ETF,P,PMIO,Y,100.0,N,PMIO
@@ -5557,6 +5556,7 @@ SMN,ProShares UltraShort Materials,ProShares UltraShort Materials,P,SMN,Y,100.0,
 SMOG,VanEck Low Carbon Energy ETF,VanEck Low Carbon Energy ETF,P,SMOG,Y,100.0,N,SMOG
 SMOT,VanEck Morningstar SMID Moat ETF,VanEck Morningstar SMID Moat ETF,Z,SMOT,Y,100.0,N,SMOT
 SMP,"Standard Motor Products, Inc. Common Stock","Standard Motor Products, Inc. Common Stock",N,SMP,N,100.0,N,SMP
+SMQ,Tradr 1X Short Innovation 100 Monthly ETF,Tradr 1X Short Innovation 100 Monthly ETF,Z,SMQ,Y,100.0,N,SMQ
 SMR,NuScale Power Corporation Class A Common Stock,NuScale Power Corporation Class A Common Stock,N,SMR,N,100.0,N,SMR
 SMRT,"SmartRent, Inc. Class A Common Stock","SmartRent, Inc. Class A Common Stock",N,SMRT,N,100.0,N,SMRT
 SMTH,ALPS Smith Core Plus Bond ETF,ALPS Smith Core Plus Bond ETF,P,SMTH,Y,100.0,N,SMTH
