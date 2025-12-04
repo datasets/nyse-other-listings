@@ -1394,6 +1394,7 @@ DAC,Danaos Corporation Common Stock,Danaos Corporation Common Stock,N,DAC,N,100.
 DAL,"Delta Air Lines, Inc. Common Stock","Delta Air Lines, Inc. Common Stock",N,DAL,N,100.0,N,DAL
 DAMD,Defiance Daily Target 2X Short AMD ETF,Defiance Daily Target 2X Short AMD ETF,P,DAMD,Y,100.0,N,DAMD
 DAN,Dana Incorporated Common Stock ,Dana Incorporated Common Stock ,N,DAN,N,100.0,N,DAN
+DANA,Dana Limited Volatility ETF,Dana Limited Volatility ETF,P,DANA,Y,100.0,N,DANA
 DAO,"Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share","Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share",N,DAO,N,100.0,N,DAO
 DAPR,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - April,Z,DAPR,Y,100.0,N,DAPR
 DAR,Darling Ingredients Inc. Common Stock,Darling Ingredients Inc. Common Stock,N,DAR,N,100.0,N,DAR
@@ -2350,6 +2351,7 @@ FRA,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock,Blackrock F
 FRDM,Freedom 100 Emerging Markets ETF,Freedom 100 Emerging Markets ETF,Z,FRDM,Y,100.0,N,FRDM
 FREL,Fidelity MSCI Real Estate Index ETF,Fidelity MSCI Real Estate Index ETF,P,FREL,Y,100.0,N,FREL
 FRGE,"Forge Global Holdings, Inc. Common Stock","Forge Global Holdings, Inc. Common Stock",N,FRGE,N,100.0,N,FRGE
+FRGN,Horizon International Equity ETF,Horizon International Equity ETF,P,FRGN,Y,100.0,N,FRGN
 FRI,First Trust S&P REIT Index Fund,First Trust S&P REIT Index Fund,P,FRI,Y,100.0,N,FRI
 FRIZ,Franklin Dividend Growth ETF,Franklin Dividend Growth ETF,P,FRIZ,Y,100.0,N,FRIZ
 FRNW,Fidelity Clean Energy ETF,Fidelity Clean Energy ETF,Z,FRNW,Y,100.0,N,FRNW
@@ -4194,6 +4196,7 @@ NEE$N,"NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1,
 NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units","NextEra Energy, Inc. 7.299% Corporate Units",N,NEEpS,N,100.0,N,NEE-S
 NEE$T,"NextEra Energy, Inc. 7.234% Corporate Units","NextEra Energy, Inc. 7.234% Corporate Units",N,NEEpT,N,100.0,N,NEE-T
 NEE$U,"NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085","NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085",N,NEEpU,N,100.0,N,NEE-U
+NEHI,NEOS Ethereum High Income ETF,NEOS Ethereum High Income ETF,Z,NEHI,Y,100.0,N,NEHI
 NELS,Nelson Select ETF,Nelson Select ETF,Z,NELS,Y,100.0,N,NELS
 NEM,Newmont Corporation,Newmont Corporation,N,NEM,N,100.0,N,NEM
 NEMD,Neuberger Berman Emerging Markets Debt Hard Currency ETF,Neuberger Berman Emerging Markets Debt Hard Currency ETF,P,NEMD,Y,100.0,N,NEMD
@@ -5312,6 +5315,7 @@ SBTU,T,T-REX 2X Long SBET Daily Target ETF,Z,SBTU,Y,100.0,N,SBTU
 SBXD,SilverBox Corp IV Class A Ordinary Shares,SilverBox Corp IV Class A Ordinary Shares,N,SBXD,N,100.0,N,SBXD
 SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one","SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,SBXD.U,N,100.0,N,SBXD=
 SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50","SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",N,SBXD.WS,N,100.0,N,SBXD+
+SBXE.U,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one","SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",N,SBXE.U,N,100.0,N,SBXE=
 SCAP,Infrastructure Capital Small Cap Income ETF,Infrastructure Capital Small Cap Income ETF,P,SCAP,Y,100.0,N,SCAP
 SCC,ProShares UltraShort Consumer Discretionary,ProShares UltraShort Consumer Discretionary,P,SCC,Y,100.0,N,SCC
 SCCD,Sachem Capital Corp. 6.00% Notes due 2026,Sachem Capital Corp. 6.00% Notes due 2026,A,SCCD,N,100.0,N,SCCD
@@ -5422,6 +5426,7 @@ SFEB,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate
 SFGV,Sequoia Global Value ETF,Sequoia Global Value ETF,P,SFGV,Y,100.0,N,SFGV
 SFL,SFL Corporation Ltd,SFL Corporation Ltd,N,SFL,N,100.0,N,SFL
 SFLR,Innovator Equity Managed Floor ETF,Innovator Equity Managed Floor ETF,P,SFLR,Y,100.0,N,SFLR
+SFTX,Horizon International Managed Risk ETF,Horizon International Managed Risk ETF,P,SFTX,Y,100.0,N,SFTX
 SFTY,Horizon Managed Risk ETF,Horizon Managed Risk ETF,Z,SFTY,Y,100.0,N,SFTY
 SFY,SoFi Select 500 ETF,SoFi Select 500 ETF,P,SFY,Y,100.0,N,SFY
 SFYF,SoFi Social 50 ETF,SoFi Social 50 ETF,P,SFYF,Y,100.0,N,SFYF
@@ -5554,6 +5559,7 @@ SMMV,iShares MSCI USA Small,iShares MSCI USA Small-Cap Min Vol Factor ETF,Z,SMMV
 SMN,ProShares UltraShort Materials,ProShares UltraShort Materials,P,SMN,Y,100.0,N,SMN
 SMOG,VanEck Low Carbon Energy ETF,VanEck Low Carbon Energy ETF,P,SMOG,Y,100.0,N,SMOG
 SMOT,VanEck Morningstar SMID Moat ETF,VanEck Morningstar SMID Moat ETF,Z,SMOT,Y,100.0,N,SMOT
+SMOX,Horizon Small/Mid Cap Core Equity ETF,Horizon Small/Mid Cap Core Equity ETF,P,SMOX,Y,100.0,N,SMOX
 SMP,"Standard Motor Products, Inc. Common Stock","Standard Motor Products, Inc. Common Stock",N,SMP,N,100.0,N,SMP
 SMQ,Tradr 1X Short Innovation 100 Monthly ETF,Tradr 1X Short Innovation 100 Monthly ETF,Z,SMQ,Y,100.0,N,SMQ
 SMR,NuScale Power Corporation Class A Common Stock,NuScale Power Corporation Class A Common Stock,N,SMR,N,100.0,N,SMR
@@ -5587,6 +5593,7 @@ SO,Southern Company (The) Common Stock,Southern Company (The) Common Stock,N,SO,
 SOAR,"Volato Group, Inc. Class A Common Stock","Volato Group, Inc. Class A Common Stock",A,SOAR,N,100.0,N,SOAR
 SOBO,South Bow Corporation Common Shares,South Bow Corporation Common Shares,N,SOBO,N,100.0,N,SOBO
 SOC,Sable Offshore Corp. Common Stock,Sable Offshore Corp. Common Stock,N,SOC,N,100.0,N,SOC
+SOEZ,Franklin Solana ETF,Franklin Solana ETF,P,SOEZ,Y,100.0,N,SOEZ
 SOFR,Amplify Samsung SOFR ETF,Amplify Samsung SOFR ETF,P,SOFR,Y,100.0,N,SOFR
 SOJC,"Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077","Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077",N,SOJC,N,100.0,N,SOJC
 SOJD,"Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080","Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080",N,SOJD,N,100.0,N,SOJD
@@ -6209,6 +6216,7 @@ UNF,Unifirst Corporation Common Stock,Unifirst Corporation Common Stock,N,UNF,N,
 UNFI,"United Natural Foods, Inc. Common Stock","United Natural Foods, Inc. Common Stock",N,UNFI,N,100.0,N,UNFI
 UNG,United States Natural Gas Fund LP,United States Natural Gas Fund LP,P,UNG,Y,100.0,N,UNG
 UNH,UnitedHealth Group Incorporated Common Stock (DE),UnitedHealth Group Incorporated Common Stock (DE),N,UNH,N,40.0,N,UNH
+UNHW,Roundhill UNH WeeklyPay ETF,Roundhill UNH WeeklyPay ETF,Z,UNHW,Y,100.0,N,UNHW
 UNL,United States 12 Month Natural Gas Fund,United States 12 Month Natural Gas Fund,P,UNL,Y,100.0,N,UNL
 UNM,Unum Group Common Stock,Unum Group Common Stock,N,UNM,N,100.0,N,UNM
 UNMA,Unum Group 6.250% Junior Subordinated Notes due 2058,Unum Group 6.250% Junior Subordinated Notes due 2058,N,UNMA,N,100.0,N,UNMA
@@ -6326,6 +6334,7 @@ VCRM,Vanguard Core Tax,Vanguard Core Tax-Exempt Bond ETF,Z,VCRM,Y,100.0,N,VCRM
 VCV,Invesco California Value Municipal Income Trust Common Stock,Invesco California Value Municipal Income Trust Common Stock,N,VCV,N,100.0,N,VCV
 VDC,Vanguard Consumer Staples ETF,Vanguard Consumer Staples ETF,P,VDC,Y,100.0,N,VDC
 VDE,Vanguard Energy ETF,Vanguard Energy ETF,P,VDE,Y,100.0,N,VDE
+VDI,Virtus International Dividend ETF,Virtus International Dividend ETF,P,VDI,Y,100.0,N,VDI
 VDIG,Vanguard Wellington Dividend Growth Active ETF,Vanguard Wellington Dividend Growth Active ETF,Z,VDIG,Y,100.0,N,VDIG
 VEA,Vanguard FTSE Developed Markets ETF,Vanguard FTSE Developed Markets ETF,P,VEA,Y,100.0,N,VEA
 VEEV,Veeva Systems Inc. Class A Common Stock,Veeva Systems Inc. Class A Common Stock,N,VEEV,N,40.0,N,VEEV
@@ -6390,6 +6399,7 @@ VMAX,Hartford US Value ETF,Hartford US Value ETF,Z,VMAX,Y,100.0,N,VMAX
 VMC,Vulcan Materials Company (Holding Company) Common Stock,Vulcan Materials Company (Holding Company) Common Stock,N,VMC,N,40.0,N,VMC
 VMI,"Valmont Industries, Inc. Common Stock","Valmont Industries, Inc. Common Stock",N,VMI,N,40.0,N,VMI
 VMO,Invesco Municipal Opportunity Trust Common Stock,Invesco Municipal Opportunity Trust Common Stock,N,VMO,N,100.0,N,VMO
+VMSB,Voya Multi,Voya Multi-Sector Income ETF,P,VMSB,Y,100.0,N,VMSB
 VNAM,Global X MSCI Vietnam ETF,Global X MSCI Vietnam ETF,P,VNAM,Y,100.0,N,VNAM
 VNIE,Vontobel International Equity Active ETF,Vontobel International Equity Active ETF,P,VNIE,Y,100.0,N,VNIE
 VNLA,Janus Henderson Short Duration Income ETF,Janus Henderson Short Duration Income ETF,P,VNLA,Y,100.0,N,VNLA
@@ -6455,6 +6465,7 @@ VTR,"Ventas, Inc. Common Stock","Ventas, Inc. Common Stock",N,VTR,N,100.0,N,VTR
 VTS,"Vitesse Energy, Inc. Common Stock","Vitesse Energy, Inc. Common Stock",N,VTS,N,100.0,N,VTS
 VTV,Vanguard Value ETF,Vanguard Value ETF,P,VTV,Y,100.0,N,VTV
 VUG,Vanguard Growth ETF,Vanguard Growth ETF,P,VUG,Y,40.0,N,VUG
+VUS,Virtus US Dividend ETF,Virtus US Dividend ETF,P,VUS,Y,100.0,N,VUS
 VUSB,Vanguard Ultra,Vanguard Ultra-Short Bond ETF,Z,VUSB,Y,100.0,N,VUSB
 VUSE,Vident U.S. Equity Strategy ETF,Vident U.S. Equity Strategy ETF,P,VUSE,Y,100.0,N,VUSE
 VUSG,Vanguard Wellington U.S. Growth Active ETF,Vanguard Wellington U.S. Growth Active ETF,Z,VUSG,Y,100.0,N,VUSG
