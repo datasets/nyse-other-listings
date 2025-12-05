@@ -564,7 +564,6 @@ BCHI,GMO Beyond China ETF,GMO Beyond China ETF,P,BCHI,Y,100.0,N,BCHI
 BCHP,Principal Focused Blue Chip ETF,Principal Focused Blue Chip ETF,Z,BCHP,Y,100.0,N,BCHP
 BCI,abrdn Bloomberg All Commodity Strategy K,abrdn Bloomberg All Commodity Strategy K-1 Free ETF,P,BCI,Y,100.0,N,BCI
 BCIL,Bancreek International Large Cap ETF,Bancreek International Large Cap ETF,P,BCIL,Y,100.0,N,BCIL
-BCIM,abrdn Bloomberg Industrial Metals Strategy K,abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF,P,BCIM,Y,100.0,N,BCIM
 BCKT,LifeX 2030 Income Bucket ETF,LifeX 2030 Income Bucket ETF,Z,BCKT,Y,100.0,N,BCKT
 BCO,Brinks Company (The) Common Stock,Brinks Company (The) Common Stock,N,BCO,N,100.0,N,BCO
 BCOR,Grayscale Bitcoin Adopters ETF,Grayscale Bitcoin Adopters ETF,P,BCOR,Y,100.0,N,BCOR
@@ -1104,6 +1103,7 @@ CINT,CI&T Inc Class A Common Shares,CI&T Inc Class A Common Shares,N,CINT,N,100.
 CIO,"City Office REIT, Inc. Common Stock","City Office REIT, Inc. Common Stock",N,CIO,N,100.0,N,CIO
 CIO$A,"City Office REIT, Inc. 6.625% Series A Cumulative Redeemable Preferred Stock","City Office REIT, Inc. 6.625% Series A Cumulative Redeemable Preferred Stock",N,CIOpA,N,100.0,N,CIO-A
 CION,CION Investment Corporation Common Stock,CION Investment Corporation Common Stock,N,CION,N,100.0,N,CION
+CITR,"General Enterprise Ventures, Inc. Common Stock","General Enterprise Ventures, Inc. Common Stock",A,CITR,N,100.0,N,CITR
 CIVI,"Civitas Resources, Inc. Common Stock","Civitas Resources, Inc. Common Stock",N,CIVI,N,100.0,N,CIVI
 CIX,CompX International Inc. Common Stock,CompX International Inc. Common Stock,A,CIX,N,100.0,N,CIX
 CKX,"CKX Lands, Inc. Common Stock","CKX Lands, Inc. Common Stock",A,CKX,N,100.0,N,CKX
@@ -3572,6 +3572,7 @@ KORE,"KORE Group Holdings, Inc. Common Stock","KORE Group Holdings, Inc. Common 
 KORP,American Century Diversified Corporate Bond ETF,American Century Diversified Corporate Bond ETF,P,KORP,Y,100.0,N,KORP
 KORU,Direxion Daily South Korea Bull 3X Shares,Direxion Daily South Korea Bull 3X Shares,P,KORU,Y,100.0,N,KORU
 KOS,Kosmos Energy Ltd. Common Shares (DE),Kosmos Energy Ltd. Common Shares (DE),N,KOS,N,100.0,N,KOS
+KPHO,KraneShares Dragon Capital Vietnam Growth Index ETF,KraneShares Dragon Capital Vietnam Growth Index ETF,P,KPHO,Y,100.0,N,KPHO
 KPRO,KraneShares 100% KWEB Defined Outcome January 2027 ETF,KraneShares 100% KWEB Defined Outcome January 2027 ETF,P,KPRO,Y,100.0,N,KPRO
 KR,Kroger Company (The) Common Stock,Kroger Company (The) Common Stock,N,KR,N,100.0,N,KR
 KRBN,KraneShares Global Carbon Strategy ETF,KraneShares Global Carbon Strategy ETF,P,KRBN,Y,100.0,N,KRBN
@@ -3660,7 +3661,7 @@ LEN,Lennar Corporation Class A Common Stock,Lennar Corporation Class A Common St
 LEN.B,Lennar Corporation Class B,Lennar Corporation Class B,N,LEN.B,N,100.0,N,LEN.B
 LENS,Sarmaya Thematic ETF,Sarmaya Thematic ETF,Z,LENS,Y,100.0,N,LENS
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock","BNY Mellon Strategic Municipals, Inc. Common Stock",N,LEO,N,100.0,N,LEO
-LEU,Centrus Energy Corp. Class A Common Stock,Centrus Energy Corp. Class A Common Stock,A,LEU,N,40.0,N,LEU
+LEU,Centrus Energy Corp. Class A Common Stock,Centrus Energy Corp. Class A Common Stock,N,LEU,N,100.0,N,LEU
 LEVI,Levi Strauss & Co Class A Common Stock,Levi Strauss & Co Class A Common Stock,N,LEVI,N,100.0,N,LEVI
 LFAI,LifeX 2050 Longevity Income ETF,LifeX 2050 Longevity Income ETF,Z,LFAI,Y,100.0,N,LFAI
 LFAO,LifeX 2055 Longevity Income ETF,LifeX 2055 Longevity Income ETF,Z,LFAO,Y,100.0,N,LFAO
@@ -4384,6 +4385,7 @@ NVS,Novartis AG Common Stock,Novartis AG Common Stock,N,NVS,N,100.0,N,NVS
 NVST,Envista Holdings Corporation Common Stock,Envista Holdings Corporation Common Stock,N,NVST,N,100.0,N,NVST
 NVT,nVent Electric plc Ordinary Shares ,nVent Electric plc Ordinary Shares ,N,NVT,N,100.0,N,NVT
 NVTX,Tradr 2X Long NVTS Daily ETF,Tradr 2X Long NVTS Daily ETF,Z,NVTX,Y,100.0,N,NVTX
+NWAX.U,"New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one","New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant",N,NWAX.U,N,100.0,N,NWAX=
 NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)","NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)",N,NWG,N,100.0,N,NWG
 NWLG,Nuveen Winslow Large,Nuveen Winslow Large-Cap Growth ESG ETF,P,NWLG,Y,100.0,N,NWLG
 NWMX,Tradr 2X Long NEM Daily ETF,Tradr 2X Long NEM Daily ETF,Z,NWMX,Y,100.0,N,NWMX
@@ -5102,6 +5104,7 @@ RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock","RiverNor
 RFV,Invesco S&P MidCap 400 Pure Value ETF,Invesco S&P MidCap 400 Pure Value ETF,P,RFV,Y,100.0,N,RFV
 RGA,"Reinsurance Group of America, Incorporated Common Stock","Reinsurance Group of America, Incorporated Common Stock",N,RGA,N,100.0,N,RGA
 RGEF,Rockefeller Global Equity ETF,Rockefeller Global Equity ETF,P,RGEF,Y,100.0,N,RGEF
+RGNT,Regentis Biomaterials Ltd. Ordinary Shares,Regentis Biomaterials Ltd. Ordinary Shares,A,RGNT,N,100.0,N,RGNT
 RGR,"Sturm, Ruger & Company, Inc. Common Stock","Sturm, Ruger & Company, Inc. Common Stock",N,RGR,N,100.0,N,RGR
 RGT,"Royce Global Trust, Inc. Common Stock","Royce Global Trust, Inc. Common Stock",N,RGT,N,100.0,N,RGT
 RGTU,Tradr 2X Long RGTI Daily ETF,Tradr 2X Long RGTI Daily ETF,Z,RGTU,Y,100.0,N,RGTU
@@ -5272,6 +5275,7 @@ S,"SentinelOne, Inc. Class A Common Stock","SentinelOne, Inc. Class A Common Sto
 SA,"Seabridge Gold, Inc. Ordinary Shares (Canada)","Seabridge Gold, Inc. Ordinary Shares (Canada)",N,SA,N,100.0,N,SA
 SAA,ProShares Ultra SmallCap600,ProShares Ultra SmallCap600,P,SAA,Y,100.0,N,SAA
 SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,N,SABA,N,100.0,N,SABA
+SAC.U,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one","Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,SAC.U,N,100.0,N,SAC=
 SACH,Sachem Capital Corp. Common Shares,Sachem Capital Corp. Common Shares,A,SACH,N,100.0,N,SACH
 SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,A,SACHpA,N,100.0,N,SACH-A
 SAEF,Schwab Ariel Opportunities ETF,Schwab Ariel Opportunities ETF,P,SAEF,Y,100.0,N,SAEF
@@ -5550,6 +5554,7 @@ SMHI,SEACOR Marine Holdings Inc. Common Stock ,SEACOR Marine Holdings Inc. Commo
 SMIG,Bahl & Gaynor Small/Mid Cap Income Growth ETF,Bahl & Gaynor Small/Mid Cap Income Growth ETF,P,SMIG,Y,100.0,N,SMIG
 SMIN,Ishares MSCI India Small Cap ETF,Ishares MSCI India Small Cap ETF,Z,SMIN,Y,100.0,N,SMIN
 SMIZ,Zacks Small/Mid Cap ETF,Zacks Small/Mid Cap ETF,P,SMIZ,Y,100.0,N,SMIZ
+SMJF,SMJ International Holdings Inc. Class A Ordinary Shares,SMJ International Holdings Inc. Class A Ordinary Shares,A,SMJF,N,100.0,N,SMJF
 SMLF,iShares U.S. Small,iShares U.S. Small-Cap Equity Factor ETF,P,SMLF,Y,100.0,N,SMLF
 SMLL,Harbor Active Small Cap ETF,Harbor Active Small Cap ETF,P,SMLL,Y,100.0,N,SMLL
 SMLV,State Street SPDR US Small Cap Low Volatility Index ETF,State Street SPDR US Small Cap Low Volatility Index ETF,P,SMLV,Y,100.0,N,SMLV
