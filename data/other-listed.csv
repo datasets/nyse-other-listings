@@ -3661,7 +3661,7 @@ LEN,Lennar Corporation Class A Common Stock,Lennar Corporation Class A Common St
 LEN.B,Lennar Corporation Class B,Lennar Corporation Class B,N,LEN.B,N,100.0,N,LEN.B
 LENS,Sarmaya Thematic ETF,Sarmaya Thematic ETF,Z,LENS,Y,100.0,N,LENS
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock","BNY Mellon Strategic Municipals, Inc. Common Stock",N,LEO,N,100.0,N,LEO
-LEU,Centrus Energy Corp. Class A Common Stock,Centrus Energy Corp. Class A Common Stock,N,LEU,N,100.0,N,LEU
+LEU,Centrus Energy Corp. Class A Common Stock,Centrus Energy Corp. Class A Common Stock,N,LEU,N,40.0,N,LEU
 LEVI,Levi Strauss & Co Class A Common Stock,Levi Strauss & Co Class A Common Stock,N,LEVI,N,100.0,N,LEVI
 LFAI,LifeX 2050 Longevity Income ETF,LifeX 2050 Longevity Income ETF,Z,LFAI,Y,100.0,N,LFAI
 LFAO,LifeX 2055 Longevity Income ETF,LifeX 2055 Longevity Income ETF,Z,LFAO,Y,100.0,N,LFAO
@@ -5065,6 +5065,7 @@ RDW,Redwire Corporation Common Stock,Redwire Corporation Common Stock,N,RDW,N,10
 RDY,Dr. Reddy's Laboratories Ltd Common Stock,Dr. Reddy's Laboratories Ltd Common Stock,N,RDY,N,100.0,N,RDY
 RDYY,YieldMax RDDT Option Income Strategy ETF,YieldMax RDDT Option Income Strategy ETF,P,RDYY,Y,100.0,N,RDYY
 RECS,Columbia Research Enhanced Core ETF,Columbia Research Enhanced Core ETF,P,RECS,Y,100.0,N,RECS
+REED,"Reed's, Inc. Common Stock","Reed's, Inc. Common Stock",A,REED,N,100.0,N,REED
 REET,iShares Global REIT ETF,iShares Global REIT ETF,P,REET,Y,100.0,N,REET
 REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,ProShares S&P MidCap 400 Dividend Aristocrats ETF,Z,REGL,Y,100.0,N,REGL
 REI,"Ring Energy, Inc. Common Stock","Ring Energy, Inc. Common Stock",A,REI,N,100.0,N,REI
