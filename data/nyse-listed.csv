@@ -474,7 +474,6 @@ BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.
 BWLP,BW LPG Limited Common Shares
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares"
 BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026"
-BWSN,"Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026"
 BWXT,"BWX Technologies, Inc. Common Stock"
 BX,Blackstone Inc. Common Stock
 BXC,Bluelinx Holdings Inc. Common Stock
@@ -1663,6 +1662,7 @@ MHN,"Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock"
 MHNC,"Maiden Holdings North America, Ltd. 7.75% Notes due 2043"
 MHO,"M/I Homes, Inc. Common Stock"
 MIAX,"Miami International Holdings, Inc. Common Stock"
+MICC,The Magnum Ice Cream Company N.V. Ordinary Shares
 MIN,MFS Intermediate Income Trust Common Stock
 MIR,"Mirion Technologies, Inc. Class A Common Stock"
 MITN,"AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029"
@@ -2433,7 +2433,6 @@ SPME,"Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 20
 SPNT,SiriusPoint Ltd. Common Shares
 SPNT$B,"SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share"
 SPOT,Spotify Technology S.A. Ordinary Shares
-SPR,"Spirit Aerosystems Holdings, Inc. Common Stock"
 SPRU,Spruce Power Holding Corporation Class A Common Stock
 SPXC,"SPX Technologies, Inc. Common Stock"
 SPXX,Nuveen S&P 500 Dynamic Overwrite Fund
@@ -2627,7 +2626,7 @@ TSQ,"Townsquare Media, Inc. Class A Common Stock"
 TT,Trane Technologies plc
 TTAM,Titan America SA Common Shares
 TTC,Toro Company (The) Common Stock
-TTE,TotalEnergies SE
+TTE,TotalEnergies SE Ordinary Shares
 TTI,"Tetra Technologies, Inc. Common Stock"
 TU,Telus Corporation Ordinary Shares
 TUYA,"Tuya Inc. American Depositary Shares, each representing one Class A Ordinary Share"

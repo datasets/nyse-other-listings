@@ -117,6 +117,7 @@ AGGH,Simplify Aggregate Bond ETF,Simplify Aggregate Bond ETF,P,AGGH,Y,100.0,N,AG
 AGGS,Harbor Disciplined Bond ETF,Harbor Disciplined Bond ETF,P,AGGS,Y,100.0,N,AGGS
 AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,P,AGGY,Y,100.0,N,AGGY
 AGI,Alamos Gold Inc. Class A Common Shares,Alamos Gold Inc. Class A Common Shares,N,AGI,N,100.0,N,AGI
+AGIG,Abundia Global Impact Group Inc. Common stock,Abundia Global Impact Group Inc. Common stock,A,AGIG,N,100.0,N,AGIG
 AGIQ,SoFi Agentic AI ETF,SoFi Agentic AI ETF,P,AGIQ,Y,100.0,N,AGIQ
 AGL,"agilon health, inc. Common Stock","agilon health, inc. Common Stock",N,AGL,N,100.0,N,AGL
 AGM,Federal Agricultural Mortgage Corporation Common Stock,Federal Agricultural Mortgage Corporation Common Stock,N,AGM,N,100.0,N,AGM
@@ -905,7 +906,6 @@ BWLP,BW LPG Limited Common Shares,BW LPG Limited Common Shares,N,BWLP,N,100.0,N,
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares","Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",N,BWMX,N,100.0,N,BWMX
 BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026","Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",N,BWNB,N,100.0,N,BWNB
 BWOW,Bitwise Dogecoin ETF,Bitwise Dogecoin ETF,P,BWOW,Y,100.0,N,BWOW
-BWSN,"Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026","Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026",N,BWSN,N,100.0,N,BWSN
 BWTG,Brendan Wood TopGun Index ETF,Brendan Wood TopGun Index ETF,Z,BWTG,Y,100.0,N,BWTG
 BWX,SPDR Bloomberg International Treasury Bond ETF,SPDR Bloomberg International Treasury Bond ETF,P,BWX,Y,100.0,N,BWX
 BWXT,"BWX Technologies, Inc. Common Stock","BWX Technologies, Inc. Common Stock",N,BWXT,N,100.0,N,BWXT
@@ -2921,7 +2921,6 @@ HUBS,"HubSpot, Inc. Common Stock","HubSpot, Inc. Common Stock",N,HUBS,N,40.0,N,H
 HUM,Humana Inc. Common Stock,Humana Inc. Common Stock,N,HUM,N,40.0,N,HUM
 HUMN,Roundhill Humanoid Robotics ETF,Roundhill Humanoid Robotics ETF,Z,HUMN,Y,100.0,N,HUMN
 HUN,Huntsman Corporation Common Stock,Huntsman Corporation Common Stock,N,HUN,N,100.0,N,HUN
-HUSA,Houston American Energy Corporation Common Stock,Houston American Energy Corporation Common Stock,A,HUSA,N,100.0,N,HUSA
 HUSV,First Trust Horizon Managed Volatility Domestic ETF,First Trust Horizon Managed Volatility Domestic ETF,P,HUSV,Y,100.0,N,HUSV
 HUYA,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share","HUYA Inc. American depositary shares, each  representing one Class A ordinary share",N,HUYA,N,100.0,N,HUYA
 HVAC,AdvisorShares HVAC and Industrials ETF,AdvisorShares HVAC and Industrials ETF,P,HVAC,Y,100.0,N,HVAC
@@ -3494,6 +3493,7 @@ KD,"Kyndryl Holdings, Inc. Common Stock","Kyndryl Holdings, Inc. Common Stock",N
 KDEC,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - December,Z,KDEC,Y,100.0,N,KDEC
 KDEF,PLUS Korea Defense Industry Index ETF,PLUS Korea Defense Industry Index ETF,P,KDEF,Y,100.0,N,KDEF
 KDRN,Kingsbarn Tactical Bond ETF,Kingsbarn Tactical Bond ETF,P,KDRN,Y,100.0,N,KDRN
+KDVD,Keeley Dividend ETF,Keeley Dividend ETF,P,KDVD,Y,100.0,N,KDVD
 KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,KraneShares Emerging Markets Consumer Technology Index ETF,P,KEMQ,Y,100.0,N,KEMQ
 KEMX,KraneShares MSCI Emerging Markets ex China Index ETF,KraneShares MSCI Emerging Markets ex China Index ETF,P,KEMX,Y,100.0,N,KEMX
 KEN,Kenon Holdings Ltd. Ordinary Shares,Kenon Holdings Ltd. Ordinary Shares,N,KEN,N,100.0,N,KEN
@@ -3926,6 +3926,7 @@ MHO,"M/I Homes, Inc. Common Stock","M/I Homes, Inc. Common Stock",N,MHO,N,100.0,
 MHY,Man Active High Yield ETF,Man Active High Yield ETF,P,MHY,Y,100.0,N,MHY
 MI,NFT Limited Class A Ordinary Share,NFT Limited Class A Ordinary Share,A,MI,N,100.0,N,MI
 MIAX,"Miami International Holdings, Inc. Common Stock","Miami International Holdings, Inc. Common Stock",N,MIAX,N,100.0,N,MIAX
+MICC,The Magnum Ice Cream Company N.V. Ordinary Shares,The Magnum Ice Cream Company N.V. Ordinary Shares,N,MICC,N,100.0,N,MICC
 MID,American Century Mid Cap Growth Impact ETF,American Century Mid Cap Growth Impact ETF,P,MID,Y,100.0,N,MID
 MIDE,Xtrackers S&P MidCap 400 Scored & Screened ETF,Xtrackers S&P MidCap 400 Scored & Screened ETF,P,MIDE,Y,100.0,N,MIDE
 MIDU,Direxion Mid Cap Bull 3X Shares,Direxion Mid Cap Bull 3X Shares,P,MIDU,Y,100.0,N,MIDU
@@ -5669,7 +5670,6 @@ SPNT,SiriusPoint Ltd. Common Shares,SiriusPoint Ltd. Common Shares,N,SPNT,N,100.
 SPNT$B,"SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share","SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share",N,SPNTpB,N,100.0,N,SPNT-B
 SPOT,Spotify Technology S.A. Ordinary Shares,Spotify Technology S.A. Ordinary Shares,N,SPOT,N,40.0,N,SPOT
 SPPP,Sprott Physical Platinum and Palladium Trust,Sprott Physical Platinum and Palladium Trust,P,SPPP,Y,100.0,N,SPPP
-SPR,"Spirit Aerosystems Holdings, Inc. Common Stock","Spirit Aerosystems Holdings, Inc. Common Stock",N,SPR,N,100.0,N,SPR
 SPRE,SP Funds S&P Global REIT Sharia ETF,SP Funds S&P Global REIT Sharia ETF,P,SPRE,Y,100.0,N,SPRE
 SPRU,Spruce Power Holding Corporation Class A Common Stock,Spruce Power Holding Corporation Class A Common Stock,N,SPRU,N,100.0,N,SPRU
 SPSB,State Street SPDR Portfolio Short Term Corporate Bond ETF,State Street SPDR Portfolio Short Term Corporate Bond ETF,P,SPSB,Y,100.0,N,SPSB
@@ -6119,7 +6119,7 @@ TT,Trane Technologies plc,Trane Technologies plc,N,TT,N,40.0,N,TT
 TTAM,Titan America SA Common Shares,Titan America SA Common Shares,N,TTAM,N,100.0,N,TTAM
 TTC,Toro Company (The) Common Stock,Toro Company (The) Common Stock,N,TTC,N,100.0,N,TTC
 TTDU,T,T-REX 2X Long TTD Daily Target ETF,Z,TTDU,Y,100.0,N,TTDU
-TTE,TotalEnergies SE,TotalEnergies SE,N,TTE,N,100.0,N,TTE
+TTE,TotalEnergies SE Ordinary Shares,TotalEnergies SE Ordinary Shares,N,TTE,N,100.0,N,TTE
 TTI,"Tetra Technologies, Inc. Common Stock","Tetra Technologies, Inc. Common Stock",N,TTI,N,100.0,N,TTI
 TTOP,21Shares FTSE Crypto 10 Index ETF,21Shares FTSE Crypto 10 Index ETF,P,TTOP,Y,100.0,N,TTOP
 TTT,ProShares UltraPro Short 20 Year Treasury,ProShares UltraPro Short 20 Year Treasury,P,TTT,Y,100.0,N,TTT
