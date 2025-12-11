@@ -389,6 +389,7 @@ ATR,"AptarGroup, Inc. Common Stock","AptarGroup, Inc. Common Stock",N,ATR,N,100.
 ATS,ATS Corporation Common Shares,ATS Corporation Common Shares,N,ATS,N,100.0,N,ATS
 ATTR,Arin Tactical Tail Risk ETF,Arin Tactical Tail Risk ETF,Z,ATTR,Y,100.0,N,ATTR
 AU,AngloGold Ashanti PLC Ordinary Shares,AngloGold Ashanti PLC Ordinary Shares,N,AU,N,100.0,N,AU
+AUAU,Global X Gold Miners ETF,Global X Gold Miners ETF,P,AUAU,Y,100.0,N,AUAU
 AUB,Atlantic Union Bankshares Corporation Common Stock,Atlantic Union Bankshares Corporation Common Stock,N,AUB,N,100.0,N,AUB
 AUB$A,Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non,"Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non-Cumulative Preferred Stock, Series A",N,AUBpA,N,100.0,N,AUB-A
 AUGM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - August,Z,AUGM,Y,100.0,N,AUGM
@@ -1303,6 +1304,7 @@ CSD,Invesco S&P Spin,Invesco S&P Spin-Off ETF,P,CSD,Y,100.0,N,CSD
 CSEX,Tradr 2X Long CLS Daily ETF,Tradr 2X Long CLS Daily ETF,Z,CSEX,Y,100.0,N,CSEX
 CSHI,NEOS Enhanced Income 1,NEOS Enhanced Income 1-3 Month T-Bill ETF,P,CSHI,Y,100.0,N,CSHI
 CSHP,iShares Enhanced Short,iShares Enhanced Short-Term Bond Active ETF,P,CSHP,Y,100.0,N,CSHP
+CSIO,Cohen & Steers Infrastructure Opportunities Active ETF,Cohen & Steers Infrastructure Opportunities Active ETF,P,CSIO,Y,100.0,N,CSIO
 CSL,Carlisle Companies Incorporated Common Stock,Carlisle Companies Incorporated Common Stock,N,CSL,N,40.0,N,CSL
 CSM,ProShares Large Cap Core Plus,ProShares Large Cap Core Plus,Z,CSM,Y,100.0,N,CSM
 CSMD,Congress SMid Growth ETF,Congress SMid Growth ETF,P,CSMD,Y,100.0,N,CSMD
@@ -1310,6 +1312,7 @@ CSNR,Cohen & Steers Natural Resources Active ETF,Cohen & Steers Natural Resource
 CSPF,Cohen & Steers Preferred and Income Opportunities Active ETF,Cohen & Steers Preferred and Income Opportunities Active ETF,P,CSPF,Y,100.0,N,CSPF
 CSR,D/B/A Centerspace Common Stock,D/B/A Centerspace Common Stock,N,CSR,N,100.0,N,CSR
 CSRE,Cohen & Steers Real Estate Active ETF,Cohen & Steers Real Estate Active ETF,P,CSRE,Y,100.0,N,CSRE
+CSSD,Cohen & Steers Short Duration Preferred and Income Active ETF,Cohen & Steers Short Duration Preferred and Income Active ETF,P,CSSD,Y,100.0,N,CSSD
 CSTK,Invesco Comstock Contrarian Equity ETF,Invesco Comstock Contrarian Equity ETF,Z,CSTK,Y,100.0,N,CSTK
 CSTM,Constellium SE Ordinary Shares (France),Constellium SE Ordinary Shares (France),N,CSTM,N,100.0,N,CSTM
 CSV,"Carriage Services, Inc. Common Stock","Carriage Services, Inc. Common Stock",N,CSV,N,100.0,N,CSV
@@ -3397,6 +3400,7 @@ JLQD,Janus Henderson Corporate Bond ETF,Janus Henderson Corporate Bond ETF,P,JLQ
 JLS,Nuveen Mortgage and Income Fund,Nuveen Mortgage and Income Fund,N,JLS,N,100.0,N,JLS
 JMBS,Janus Henderson Mortgage,Janus Henderson Mortgage-Backed Securities ETF,P,JMBS,Y,100.0,N,JMBS
 JMEE,JPMorgan Small & Mid Cap Enhanced Equity ETF,JPMorgan Small & Mid Cap Enhanced Equity ETF,P,JMEE,Y,100.0,N,JMEE
+JMG,JM Group Limited Ordinary Shares,JM Group Limited Ordinary Shares,A,JMG,N,100.0,N,JMG
 JMHI,JPMorgan High Yield Municipal ETF,JPMorgan High Yield Municipal ETF,P,JMHI,Y,100.0,N,JMHI
 JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares","Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",N,JMIA,N,100.0,N,JMIA
 JMM,Nuveen Multi,Nuveen Multi-Market Income Fund (MA),N,JMM,N,100.0,N,JMM
@@ -4254,6 +4258,7 @@ NKX,Nuveen California AMT,Nuveen California AMT-Free Quality Municipal Income Fu
 NL,"NL Industries, Inc. Common Stock","NL Industries, Inc. Common Stock",N,NL,N,100.0,N,NL
 NLOP,Net Lease Office Properties Common Shares of Beneficial Interest,Net Lease Office Properties Common Shares of Beneficial Interest,N,NLOP,N,100.0,N,NLOP
 NLR,VanEck Uranium and Nuclear ETF,VanEck Uranium and Nuclear ETF,P,NLR,Y,100.0,N,NLR
+NLSI,NEOS Long/Short Equity Income ETF,NEOS Long/Short Equity Income ETF,Z,NLSI,Y,100.0,N,NLSI
 NLY,Annaly Capital Management Inc. Common Stock,Annaly Capital Management Inc. Common Stock,N,NLY,N,100.0,N,NLY
 NLY$F,Annaly Capital Management Inc 6.95% Series F,Annaly Capital Management Inc 6.95% Series F,N,NLYpF,N,100.0,N,NLY-F
 NLY$G,Annaly Capital Management Inc 6.50% Series G Fixed,Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,NLYpG,N,100.0,N,NLY-G
@@ -4744,6 +4749,7 @@ PLAG,Planet Green Holdings Corp. Common Stock,Planet Green Holdings Corp. Common
 PLD,"Prologis, Inc. Common Stock","Prologis, Inc. Common Stock",N,PLD,N,100.0,N,PLD
 PLDR,Putnam Sustainable Leaders ETF,Putnam Sustainable Leaders ETF,P,PLDR,Y,100.0,N,PLDR
 PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),Platinum Group Metals Ltd. Ordinary Shares (Canada),A,PLG,N,100.0,N,PLG
+PLGI,PL Growth and Income ETF,PL Growth and Income ETF,Z,PLGI,Y,100.0,N,PLGI
 PLNT,"Planet Fitness, Inc. Common Stock","Planet Fitness, Inc. Common Stock",N,PLNT,N,100.0,N,PLNT
 PLOO,Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Z,PLOO,Y,100.0,N,PLOO
 PLOW,"Douglas Dynamics, Inc. Common Stock","Douglas Dynamics, Inc. Common Stock",N,PLOW,N,100.0,N,PLOW
@@ -5099,7 +5105,6 @@ RFG,Invesco S&P MidCap 400 Pure Growth ETF,Invesco S&P MidCap 400 Pure Growth ET
 RFI,"Cohen & Steers Total Return Realty Fund, Inc. Common Stock","Cohen & Steers Total Return Realty Fund, Inc. Common Stock",N,RFI,N,100.0,N,RFI
 RFIX,Simplify Bond Bull ETF,Simplify Bond Bull ETF,P,RFIX,Y,100.0,N,RFIX
 RFL,"Rafael Holdings, Inc. Class B Common Stock","Rafael Holdings, Inc. Class B Common Stock",N,RFL,N,100.0,N,RFL
-RFL.W,"Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock","Rafael Holdings, Inc. Warrants to Purchase Shares of Class B Common Stock",N,RFL.WS,N,100.0,N,RFL+
 RFLR,Innovator U.S. Small Cap Managed Floor ETF,Innovator U.S. Small Cap Managed Floor ETF,P,RFLR,Y,100.0,N,RFLR
 RFM,"RiverNorth Flexible Municipal Income Fund, Inc. Common Stock","RiverNorth Flexible Municipal Income Fund, Inc. Common Stock",N,RFM,N,100.0,N,RFM
 RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock","RiverNorth Flexible Municipal Income Fund II, Inc. Common Stock",N,RFMZ,N,100.0,N,RFMZ
@@ -5372,7 +5377,6 @@ SCM,Stellus Capital Investment Corporation Common Stock,Stellus Capital Investme
 SCMB,Schwab Municipal Bond ETF,Schwab Municipal Bond ETF,P,SCMB,Y,100.0,N,SCMB
 SCO,ProShares UltraShort Bloomberg Crude Oil,ProShares UltraShort Bloomberg Crude Oil,P,SCO,Y,100.0,N,SCO
 SCOW,Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF,Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF,Z,SCOW,Y,100.0,N,SCOW
-SCS,Steelcase Inc. Common Stock,Steelcase Inc. Common Stock,N,SCS,N,100.0,N,SCS
 SCUS,Schwab Ultra,Schwab Ultra-Short Income ETF,P,SCUS,Y,100.0,N,SCUS
 SCYB,Schwab High Yield Bond ETF,Schwab High Yield Bond ETF,P,SCYB,Y,100.0,N,SCYB
 SD,"SandRidge Energy, Inc. Common Stock","SandRidge Energy, Inc. Common Stock",N,SD,N,100.0,N,SD
@@ -6595,6 +6599,7 @@ WST,"West Pharmaceutical Services, Inc. Common Stock","West Pharmaceutical Servi
 WT,"WisdomTree, Inc. Common Stock","WisdomTree, Inc. Common Stock",N,WT,N,100.0,N,WT
 WTAI,WisdomTree Artificial Intelligence and Innovation Fund,WisdomTree Artificial Intelligence and Innovation Fund,Z,WTAI,Y,100.0,N,WTAI
 WTI,"W&T Offshore, Inc. Common Stock","W&T Offshore, Inc. Common Stock",N,WTI,N,100.0,N,WTI
+WTIB,USCF Oil Plus Bitcoin Strategy Fund,USCF Oil Plus Bitcoin Strategy Fund,P,WTIB,Y,100.0,N,WTIB
 WTID,MicroSectors Energy 3X Inverse Leveraged ETNs,MicroSectors Energy 3X Inverse Leveraged ETNs,P,WTID,Y,100.0,N,WTID
 WTIU,MicroSectors Energy 3X Leveraged ETNs,MicroSectors Energy 3X Leveraged ETNs,P,WTIU,Y,100.0,N,WTIU
 WTM,"White Mountains Insurance Group, Ltd. Common Stock","White Mountains Insurance Group, Ltd. Common Stock",N,WTM,N,10.0,N,WTM
