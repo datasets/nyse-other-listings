@@ -3,6 +3,7 @@ A,"Agilent Technologies, Inc. Common Stock","Agilent Technologies, Inc. Common S
 AA,Alcoa Corporation Common Stock ,Alcoa Corporation Common Stock ,N,AA,N,100.0,N,AA
 AAA,Alternative Access First Priority CLO Bond ETF,Alternative Access First Priority CLO Bond ETF,P,AAA,Y,100.0,N,AAA
 AAAA,Amplius Aggressive Asset Allocation ETF,Amplius Aggressive Asset Allocation ETF,Z,AAAA,Y,100.0,N,AAAA
+AAAC,Columbia AAA CLO ETF,Columbia AAA CLO ETF,P,AAAC,Y,100.0,N,AAAC
 AAAU,Goldman Sachs Physical Gold ETF Shares,Goldman Sachs Physical Gold ETF Shares,Z,AAAU,Y,100.0,N,AAAU
 AAM,AA Mission Acquisition Corp. Class A Ordinary Shares,AA Mission Acquisition Corp. Class A Ordinary Shares,N,AAM,N,100.0,N,AAM
 AAM.U,"AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one","AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",N,AAM.U,N,100.0,N,AAM=
@@ -861,6 +862,7 @@ BTG,B2Gold Corp Common shares (Canada),B2Gold Corp Common shares (Canada),A,BTG,
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR","British American Tobacco  Industries, p.l.c. Common Stock ADR",N,BTI,N,100.0,N,BTI
 BTO,John Hancock Financial Opportunities Fund Common Stock,John Hancock Financial Opportunities Fund Common Stock,N,BTO,N,100.0,N,BTO
 BTOP,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,P,BTOP,Y,100.0,N,BTOP
+BTOT,iShares Total USD Fixed Income Market ETF,iShares Total USD Fixed Income Market ETF,P,BTOT,Y,100.0,N,BTOT
 BTR,Beacon Tactical Risk ETF,Beacon Tactical Risk ETF,P,BTR,Y,100.0,N,BTR
 BTRN,Global X Bitcoin Trend Strategy ETF,Global X Bitcoin Trend Strategy ETF,P,BTRN,Y,100.0,N,BTRN
 BTT,BlackRock Municipal 2030 Target Term Trust,BlackRock Municipal 2030 Target Term Trust,N,BTT,N,100.0,N,BTT
@@ -1001,6 +1003,7 @@ CCL,Carnival Corporation Common Stock,Carnival Corporation Common Stock,N,CCL,N,
 CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),N,CCM,N,100.0,N,CCM
 CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock","Clear Channel Outdoor Holdings, Inc. Common Stock",N,CCO,N,100.0,N,CCO
 CCOR,Core Alternative ETF,Core Alternative ETF,P,CCOR,Y,100.0,N,CCOR
+CCRP,Columbia Corporate Bond ETF,Columbia Corporate Bond ETF,P,CCRP,Y,100.0,N,CCRP
 CCS,"Century Communities, Inc. Common Stock","Century Communities, Inc. Common Stock",N,CCS,N,100.0,N,CCS
 CCU,"Compania Cervecerias Unidas, S.A. Common Stock","Compania Cervecerias Unidas, S.A. Common Stock",N,CCU,N,100.0,N,CCU
 CCUP,T,T-REX 2X Long CRCL Daily Target ETF,Z,CCUP,Y,100.0,N,CCUP
@@ -1299,6 +1302,7 @@ CRSH,YieldMax Short TSLA Option Income Strategy ETF,YieldMax Short TSLA Option I
 CRT,Cross Timbers Royalty Trust Common Stock,Cross Timbers Royalty Trust Common Stock,N,CRT,N,100.0,N,CRT
 CRTC,Xtrackers US National Critical Technologies ETF,Xtrackers US National Critical Technologies ETF,P,CRTC,Y,100.0,N,CRTC
 CRWU,T,T-REX 2X Long CRWV Daily Target ETF,Z,CRWU,Y,100.0,N,CRWU
+CRXP,Columbia Core Plus Bond ETF,Columbia Core Plus Bond ETF,P,CRXP,Y,100.0,N,CRXP
 CSAN,Cosan S.A. ADS,Cosan S.A. ADS,N,CSAN,N,100.0,N,CSAN
 CSD,Invesco S&P Spin,Invesco S&P Spin-Off ETF,P,CSD,Y,100.0,N,CSD
 CSEX,Tradr 2X Long CLS Daily ETF,Tradr 2X Long CLS Daily ETF,Z,CSEX,Y,100.0,N,CSEX
@@ -2374,6 +2378,7 @@ FSK,FS KKR Capital Corp. Common Stock,FS KKR Capital Corp. Common Stock,N,FSK,N,
 FSM,Fortuna Mining Corp. Common Shares,Fortuna Mining Corp. Common Shares,N,FSM,N,100.0,N,FSM
 FSMB,First Trust Short Duration Managed Municipal ETF,First Trust Short Duration Managed Municipal ETF,P,FSMB,Y,100.0,N,FSMB
 FSMD,Fidelity Small,Fidelity Small-Mid Multifactor ETF,P,FSMD,Y,100.0,N,FSMD
+FSML,Franklin Small Cap Enhanced ETF,Franklin Small Cap Enhanced ETF,P,FSML,Y,100.0,N,FSML
 FSOL,Fidelity Solana Fund,Fidelity Solana Fund,P,FSOL,Y,100.0,N,FSOL
 FSP,Franklin Street Properties Corp. Common Stock,Franklin Street Properties Corp. Common Stock,A,FSP,N,100.0,N,FSP
 FSS,Federal Signal Corporation Common Stock,Federal Signal Corporation Common Stock,N,FSS,N,100.0,N,FSS
@@ -2817,6 +2822,7 @@ HEGD,Swan Hedged Equity US Large Cap ETF,Swan Hedged Equity US Large Cap ETF,Z,H
 HEI,Heico Corporation Common Stock,Heico Corporation Common Stock,N,HEI,N,40.0,N,HEI
 HEI.A,Heico Corporation Common Stock,Heico Corporation Common Stock,N,HEI.A,N,40.0,N,HEI.A
 HELO,JPMorgan Hedged Equity Laddered Overlay ETF,JPMorgan Hedged Equity Laddered Overlay ETF,P,HELO,Y,100.0,N,HELO
+HELS,Hedgeye 130/30 Equity ETF,Hedgeye 130/30 Equity ETF,P,HELS,Y,100.0,N,HELS
 HELX,Franklin Genomic Advancements ETF,Franklin Genomic Advancements ETF,Z,HELX,Y,100.0,N,HELX
 HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,N,HEQ,N,100.0,N,HEQ
 HEQT,Simplify Hedged Equity ETF,Simplify Hedged Equity ETF,P,HEQT,Y,100.0,N,HEQT
@@ -3404,6 +3410,7 @@ JMG,JM Group Limited Ordinary Shares,JM Group Limited Ordinary Shares,A,JMG,N,10
 JMHI,JPMorgan High Yield Municipal ETF,JPMorgan High Yield Municipal ETF,P,JMHI,Y,100.0,N,JMHI
 JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares","Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",N,JMIA,N,100.0,N,JMIA
 JMM,Nuveen Multi,Nuveen Multi-Market Income Fund (MA),N,JMM,N,100.0,N,JMM
+JMMF,JPMorgan 100% U.S. Treasury Securities Money Market ETF,JPMorgan 100% U.S. Treasury Securities Money Market ETF,P,JMMF,Y,100.0,N,JMMF
 JMOM,JPMorgan U.S. Momentum Factor ETF,JPMorgan U.S. Momentum Factor ETF,P,JMOM,Y,100.0,N,JMOM
 JMSI,JPMorgan Sustainable Municipal Income ETF,JPMorgan Sustainable Municipal Income ETF,P,JMSI,Y,100.0,N,JMSI
 JMST,JPMorgan Ultra,JPMorgan Ultra-Short Municipal Income ETF,Z,JMST,Y,100.0,N,JMST
@@ -3476,7 +3483,6 @@ JXI,iShares Global Utilities ETF,iShares Global Utilities ETF,P,JXI,Y,100.0,N,JX
 JXN,Jackson Financial Inc. Class A Common Stock ,Jackson Financial Inc. Class A Common Stock ,N,JXN,N,100.0,N,JXN
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed","Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",N,JXNpA,N,100.0,N,JXN-A
 JXX,Janus Henderson Transformational Growth ETF,Janus Henderson Transformational Growth ETF,Z,JXX,Y,100.0,N,JXX
-K,Kellanova Common Stock,Kellanova Common Stock,N,K,N,100.0,N,K
 KAI,Kadant Inc Common Stock,Kadant Inc Common Stock,N,KAI,N,40.0,N,KAI
 KAPA,"Kairos Pharma, Ltd. Common Stock","Kairos Pharma, Ltd. Common Stock",A,KAPA,N,100.0,N,KAPA
 KAPR,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - April,Z,KAPR,Y,100.0,N,KAPR
@@ -4422,6 +4428,8 @@ OAEM,OneAscent Emerging Markets ETF,OneAscent Emerging Markets ETF,P,OAEM,Y,100.
 OAIM,OneAscent International Equity ETF,OneAscent International Equity ETF,P,OAIM,Y,100.0,N,OAIM
 OAK$A,"Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units","Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units",N,OAKpA,N,100.0,N,OAK-A
 OAK$B,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units","Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",N,OAKpB,N,100.0,N,OAK-B
+OAKG,Oakmark Global Large Cap ETF,Oakmark Global Large Cap ETF,P,OAKG,Y,100.0,N,OAKG
+OAKI,Oakmark International Large Cap ETF,Oakmark International Large Cap ETF,P,OAKI,Y,100.0,N,OAKI
 OAKM,Oakmark U.S. Large Cap ETF,Oakmark U.S. Large Cap ETF,P,OAKM,Y,100.0,N,OAKM
 OALC,OneAscent Large Cap Core ETF,OneAscent Large Cap Core ETF,P,OALC,Y,100.0,N,OALC
 OARK,YieldMax Innovation Option Income Strategy ETF,YieldMax Innovation Option Income Strategy ETF,P,OARK,Y,100.0,N,OARK
@@ -5074,16 +5082,19 @@ RDYY,YieldMax RDDT Option Income Strategy ETF,YieldMax RDDT Option Income Strate
 RECS,Columbia Research Enhanced Core ETF,Columbia Research Enhanced Core ETF,P,RECS,Y,100.0,N,RECS
 REED,"Reed's, Inc. Common Stock","Reed's, Inc. Common Stock",A,REED,N,100.0,N,REED
 REET,iShares Global REIT ETF,iShares Global REIT ETF,P,REET,Y,100.0,N,REET
+REFA,Columbia Research Enhanced International Equity ETF,Columbia Research Enhanced International Equity ETF,P,REFA,Y,100.0,N,REFA
 REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,ProShares S&P MidCap 400 Dividend Aristocrats ETF,Z,REGL,Y,100.0,N,REGL
 REI,"Ring Energy, Inc. Common Stock","Ring Energy, Inc. Common Stock",A,REI,N,100.0,N,REI
 REK,ProShares Short Real Estate,ProShares Short Real Estate,P,REK,Y,100.0,N,REK
 REKT,Direxion Daily Crypto Industry Bear 1X Shares,Direxion Daily Crypto Industry Bear 1X Shares,P,REKT,Y,100.0,N,REKT
 RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),N,RELX,N,100.0,N,RELX
 REM,iShares Mortgage Real Estate ETF,iShares Mortgage Real Estate ETF,Z,REM,Y,100.0,N,REM
+REMC,Columbia Research Enhanced Mid Cap ETF,Columbia Research Enhanced Mid Cap ETF,P,REMC,Y,100.0,N,REMC
 REMX,VanEck Rare Earth and Strategic Metals ETF,VanEck Rare Earth and Strategic Metals ETF,P,REMX,Y,100.0,N,REMX
 REPX,"Riley Exploration Permian, Inc. Common Stock","Riley Exploration Permian, Inc. Common Stock",A,REPX,N,100.0,N,REPX
 RERE,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares),ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares),N,RERE,N,100.0,N,RERE
 RES,"RPC, Inc. Common Stock","RPC, Inc. Common Stock",N,RES,N,100.0,N,RES
+RESM,Columbia Research Enhanced Small Cap ETF,Columbia Research Enhanced Small Cap ETF,P,RESM,Y,100.0,N,RESM
 RETL,Direxion Daily Retail Bull 3X Shares ETF,Direxion Daily Retail Bull 3X Shares ETF,P,RETL,Y,100.0,N,RETL
 REVG,"REV Group, Inc. Common Stock","REV Group, Inc. Common Stock",N,REVG,N,100.0,N,REVG
 REVS,Columbia Research Enhanced Value ETF,Columbia Research Enhanced Value ETF,P,REVS,Y,100.0,N,REVS
@@ -5345,6 +5356,7 @@ SCE$L,SCE TRUST VI,SCE TRUST VI,N,SCEpL,N,100.0,N,SCE-L
 SCE$M,SCE Trust VII 7.50% Trust Preference Securities,SCE Trust VII 7.50% Trust Preference Securities,N,SCEpM,N,100.0,N,SCE-M
 SCE$N,SCE Trust VIII 6.95% Trust Preference Securities,SCE Trust VIII 6.95% Trust Preference Securities,N,SCEpN,N,100.0,N,SCE-N
 SCEC,Sterling Capital Enhanced Core Bond ETF,Sterling Capital Enhanced Core Bond ETF,Z,SCEC,Y,100.0,N,SCEC
+SCEP,Sterling Capital Hedged Equity Premium Income ETF,Sterling Capital Hedged Equity Premium Income ETF,Z,SCEP,Y,100.0,N,SCEP
 SCHA,Schwab U.S. Small,Schwab U.S. Small-Cap ETF,P,SCHA,Y,100.0,N,SCHA
 SCHB,Schwab U.S. Broad Market ETF,Schwab U.S. Broad Market ETF,P,SCHB,Y,100.0,N,SCHB
 SCHC,Schwab International Small,Schwab International Small-Cap Equity ETF,P,SCHC,Y,100.0,N,SCHC
@@ -5375,6 +5387,8 @@ SCL,Stepan Company Common Stock,Stepan Company Common Stock,N,SCL,N,100.0,N,SCL
 SCLZ,Swan Enhanced Dividend Income ETF,Swan Enhanced Dividend Income ETF,Z,SCLZ,Y,100.0,N,SCLZ
 SCM,Stellus Capital Investment Corporation Common Stock,Stellus Capital Investment Corporation Common Stock,N,SCM,N,100.0,N,SCM
 SCMB,Schwab Municipal Bond ETF,Schwab Municipal Bond ETF,P,SCMB,Y,100.0,N,SCMB
+SCMC,Sterling Capital Multi,Sterling Capital Multi-Strategy Income ETF,Z,SCMC,Y,100.0,N,SCMC
+SCNM,Sterling Capital National Municipal Bond ETF,Sterling Capital National Municipal Bond ETF,Z,SCNM,Y,100.0,N,SCNM
 SCO,ProShares UltraShort Bloomberg Crude Oil,ProShares UltraShort Bloomberg Crude Oil,P,SCO,Y,100.0,N,SCO
 SCOW,Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF,Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF,Z,SCOW,Y,100.0,N,SCOW
 SCUS,Schwab Ultra,Schwab Ultra-Short Income ETF,P,SCUS,Y,100.0,N,SCUS
@@ -5491,6 +5505,7 @@ SILJ,Amplify Junior Silver Miners ETF,Amplify Junior Silver Miners ETF,P,SILJ,Y,
 SIM,"Grupo Simec, S.A.B. de C.V. American Depositary Shares","Grupo Simec, S.A.B. de C.V. American Depositary Shares",A,SIM,N,100.0,N,SIM
 SIMS,State Street SPDR S&P Kensho Intelligent Structures ETF,State Street SPDR S&P Kensho Intelligent Structures ETF,P,SIMS,Y,100.0,N,SIMS
 SIO,Touchstone Strategic Income ETF,Touchstone Strategic Income ETF,P,SIO,Y,100.0,N,SIO
+SIOO,VistaShares Target 15 S&P 100 Distribution ETF,VistaShares Target 15 S&P 100 Distribution ETF,P,SIOO,Y,100.0,N,SIOO
 SITC,SITE Centers Corp. Common Stock,SITE Centers Corp. Common Stock,N,SITC,N,100.0,N,SITC
 SITE,"SiteOne Landscape Supply, Inc. Common Stock","SiteOne Landscape Supply, Inc. Common Stock",N,SITE,N,100.0,N,SITE
 SIVR,abrdn Physical Silver Shares ETF,abrdn Physical Silver Shares ETF,P,SIVR,Y,100.0,N,SIVR
@@ -5734,7 +5749,6 @@ SRPU,Tradr 2X Long SRPT Daily ETF,Tradr 2X Long SRPT Daily ETF,Z,SRPU,Y,100.0,N,
 SRS,ProShares UltraShort Real Estate,ProShares UltraShort Real Estate,P,SRS,Y,100.0,N,SRS
 SRTY,ProShares UltraPro Short Russell2000,ProShares UltraPro Short Russell2000,P,SRTY,Y,100.0,N,SRTY
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,N,SRV,N,100.0,N,SRV
-SRV.R,"NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights","NXG Cushing Midstream Energy Fund Rights (expiring December 11, 2025) Rights",N,SRVr,N,100.0,N,SRV^
 SRVR,Pacer Data & Infrastructure Real Estate ETF,Pacer Data & Infrastructure Real Estate ETF,P,SRVR,Y,100.0,N,SRVR
 SRXH,"SRX Health Solutions, Inc. Common Stock","SRX Health Solutions, Inc. Common Stock",A,SRXH,N,100.0,N,SRXH
 SSB,SouthState Bank Corporation Common Stock,SouthState Bank Corporation Common Stock,N,SSB,N,100.0,N,SSB
@@ -5832,6 +5846,8 @@ T$A,"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a sh
 T$C,"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual Preferred Stock, Series C","AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",N,TpC,N,100.0,N,T-C
 TAC,TransAlta Corporation Ordinary Shares,TransAlta Corporation Ordinary Shares,N,TAC,N,100.0,N,TAC
 TACK,Fairlead Tactical Sector ETF,Fairlead Tactical Sector ETF,P,TACK,Y,100.0,N,TACK
+TACN,T. Rowe Price Active Core International Equity ETF,T. Rowe Price Active Core International Equity ETF,P,TACN,Y,100.0,N,TACN
+TACU,T. Rowe Price Active Core U.S. Equity ETF,T. Rowe Price Active Core U.S. Equity ETF,P,TACU,Y,100.0,N,TACU
 TAFI,AB Tax,AB Tax-Aware Short Duration Municipal ETF,P,TAFI,Y,100.0,N,TAFI
 TAFL,AB Tax,AB Tax-Aware Long Municipal ETF,P,TAFL,Y,100.0,N,TAFL
 TAFM,AB Tax,AB Tax-Aware Intermediate Municipal ETF,P,TAFM,Y,100.0,N,TAFM
@@ -6048,6 +6064,7 @@ TOTR,T. Rowe Price Total Return ETF,T. Rowe Price Total Return ETF,P,TOTR,Y,100.
 TOUS,T. Rowe Price International Equity ETF,T. Rowe Price International Equity ETF,P,TOUS,Y,100.0,N,TOUS
 TOV,JLens 500 Jewish Advocacy U.S. ETF,JLens 500 Jewish Advocacy U.S. ETF,P,TOV,Y,100.0,N,TOV
 TOVX,"Theriva Biologics, Inc. Common Stock","Theriva Biologics, Inc. Common Stock",A,TOVX,N,100.0,N,TOVX
+TOXR,Shares of Beneficial Interest,Shares of Beneficial Interest,Z,TOXR,Y,100.0,N,TOXR
 TPB,"Turning Point Brands, Inc. Common Stock","Turning Point Brands, Inc. Common Stock",N,TPB,N,100.0,N,TPB
 TPC,Tutor Perini Corporation Common Stock,Tutor Perini Corporation Common Stock,N,TPC,N,100.0,N,TPC
 TPET,Trio Petroleum Corp. Common Stock,Trio Petroleum Corp. Common Stock,A,TPET,N,100.0,N,TPET
@@ -6504,7 +6521,7 @@ WBI,WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability
 WBIF,WBI BullBear Value 3000 ETF,WBI BullBear Value 3000 ETF,P,WBIF,Y,100.0,N,WBIF
 WBIG,WBI BullBear Yield 3000 ETF,WBI BullBear Yield 3000 ETF,P,WBIG,Y,100.0,N,WBIG
 WBIL,WBI BullBear Quality 3000 ETF,WBI BullBear Quality 3000 ETF,P,WBIL,Y,100.0,N,WBIL
-WBIY,WBI Power Factor High Dividend ETF,WBI Power Factor High Dividend ETF,P,WBIY,Y,100.0,N,WBIY
+WBIY,WBI Power Factor High Dividend ETF,WBI Power Factor High Dividend ETF,N,WBIY,Y,100.0,N,WBIY
 WBS,Webster Financial Corporation Common Stock,Webster Financial Corporation Common Stock,N,WBS,N,100.0,N,WBS
 WBS$F,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non","Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",N,WBSpF,N,100.0,N,WBS-F
 WBS$G,"Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non","Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",N,WBSpG,N,100.0,N,WBS-G
