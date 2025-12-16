@@ -112,7 +112,6 @@ AL,Air Lease Corporation Class A Common Stock
 ALB,Albemarle Corporation Common Stock
 ALB$A,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock
 ALC,Alcon Inc. Ordinary Shares
-ALE,"Allete, Inc."
 ALEX,"Alexander & Baldwin, Inc. Common Stock REIT Holding Company"
 ALG,"Alamo Group, Inc. Common Stock"
 ALH,Alliance Laundry Holdings Inc. Common Stock
@@ -309,10 +308,12 @@ BC$C,Brunswick Corporation 6.375% Notes due 2049
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest
 BCC,"Boise Cascade, L.L.C. Common Stock"
 BCE,"BCE, Inc. Common Stock"
+BCGD,Baron Global Durable Advantage ETF
 BCH,Banco De Chile ADS
 BCO,Brinks Company (The) Common Stock
 BCS,Barclays PLC Common Stock
 BCSF,"Bain Capital Specialty Finance, Inc. Common Stock"
+BCSM,Baron SMID Cap ETF
 BCSS,Bain Capital GSS Investment Corp. Class A Ordinary Shares
 BCSS.U,"Bain Capital GSS Investment Corp. Units, each consisting of one Class A Ordinary Share and one"
 BCSS.W,"Bain Capital GSS Investment Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
@@ -701,7 +702,6 @@ CTVA,"Corteva, Inc. Common Stock "
 CUBB,"Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034"
 CUBE,CubeSmart Common Shares
 CUBI,"Customers Bancorp, Inc Common Stock"
-CUBI$F,"Customers Bancorp, Inc Fixed"
 CUK,Carnival Plc ADS ADS
 CULP,"Culp, Inc. Common Stock"
 CURB,Curbline Properties Corp. Common Stock
@@ -1212,7 +1212,6 @@ GSL,Global Ship Lease Inc New Class A Common Shares
 GSL$B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)"
 GTES,Gates Industrial Corporation plc Ordinary Shares
 GTLS,"Chart Industries, Inc. Common Stock"
-GTLS$B,"Chart Industries, Inc. Depositary Shares, each Representing a 1/20th Interest in a Share of 6.75% Series B Mandatory Convertible Preferred Stock"
 GTN,"Gray Media, Inc. Common Stock"
 GTN.A,"Gray Media, Inc. Class A Common Stock"
 GTY,Getty Realty Corporation Common Stock
@@ -2240,6 +2239,7 @@ RNST,Renasant Corporation Common Stock
 ROG,Rogers Corporation Common Stock
 ROK,"Rockwell Automation, Inc. Common Stock"
 ROL,"Rollins, Inc. Common Stock"
+RONB,Baron First Principles ETF
 RPM,RPM International Inc. Common Stock
 RPT,Rithm Property Trust Inc. Common stock
 RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed
@@ -2402,7 +2402,6 @@ SOJC,"Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due De
 SOJD,"Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080"
 SOJE,"Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060"
 SOJF,"Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085"
-SOL,"Emeren Group Ltd American Depositary Shares, each representing 10 shares"
 SOLV,Solventum Corporation Common Stock
 SOMN,Southern Company (The) 2025 Series A Corporate Units
 SON,Sonoco Products Company Common Stock
@@ -2754,7 +2753,6 @@ VSH,"Vishay Intertechnology, Inc. Common Stock"
 VST,Vistra Corp. Common Stock
 VSTS,Vestis Corporation Common Stock
 VTEX,VTEX Class A Common Shares
-VTLE,"Vital Energy, Inc. Common Stock, par value $0.01 per share"
 VTMX,"Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares"
 VTN,Invesco Trust for Investment Grade New York Municipals Common Stock
 VTOL,"Bristow Group, Inc. Common Stock"
