@@ -507,7 +507,6 @@ BAP,Credicorp Ltd. Common Stock,Credicorp Ltd. Common Stock,N,BAP,N,40.0,N,BAP
 BAPR,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - April,Z,BAPR,Y,100.0,N,BAPR
 BAR,GraniteShares Gold Trust Shares of Beneficial Interest,GraniteShares Gold Trust Shares of Beneficial Interest,P,BAR,N,100.0,N,BAR
 BARK,"BARK, Inc. Class A Common Stock","BARK, Inc. Class A Common Stock",N,BARK,N,100.0,N,BARK
-BARK.W,"BARK, Inc. Redeemable Warrants, each whole warrant exercisable for shares of Common Stock at an exercise price of $11.50 per share","BARK, Inc. Redeemable Warrants, each whole warrant exercisable for shares of Common Stock at an exercise price of $11.50 per share",N,BARK.WS,N,100.0,N,BARK+
 BATL,Battalion Oil Corporation Common Stock,Battalion Oil Corporation Common Stock,A,BATL,N,100.0,N,BATL
 BATT,Amplify Lithium & Battery Technology ETF,Amplify Lithium & Battery Technology ETF,P,BATT,Y,100.0,N,BATT
 BAUG,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - August,Z,BAUG,Y,100.0,N,BAUG
@@ -593,7 +592,6 @@ BDRY,Breakwave Dry Bulk Shipping ETF,Breakwave Dry Bulk Shipping ETF,P,BDRY,Y,10
 BDVG,IMGP Berkshire Dividend Growth ETF,IMGP Berkshire Dividend Growth ETF,P,BDVG,Y,100.0,N,BDVG
 BDX,"Becton, Dickinson and Company Common Stock","Becton, Dickinson and Company Common Stock",N,BDX,N,100.0,N,BDX
 BE,Bloom Energy Corporation Class A Common Stock,Bloom Energy Corporation Class A Common Stock,N,BE,N,100.0,N,BE
-BEDU,"Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share","Bright Scholar Education Holdings Limited American Depositary Shares, each  representing four Class A Ordinary Share",N,BEDU,N,100.0,N,BEDU
 BEDZ,AdvisorShares Hotel ETF,AdvisorShares Hotel ETF,P,BEDZ,Y,100.0,N,BEDZ
 BEGS,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Z,BEGS,Y,100.0,N,BEGS
 BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),N,BEKE,N,100.0,N,BEKE
@@ -810,6 +808,7 @@ BP,BP p.l.c. Common Stock,BP p.l.c. Common Stock,N,BP,N,100.0,N,BP
 BPAY,iShares FinTech Active ETF,iShares FinTech Active ETF,P,BPAY,Y,100.0,N,BPAY
 BPH,BP plc ADRhedged,BP plc ADRhedged,P,BPH,Y,100.0,N,BPH
 BPI,Grayscale Bitcoin Premium Income ETF,Grayscale Bitcoin Premium Income ETF,P,BPI,Y,100.0,N,BPI
+BPRE,Bluerock Private Real Estate Fund Common Shares of Beneficial Interest,Bluerock Private Real Estate Fund Common Shares of Beneficial Interest,N,BPRE,N,100.0,N,BPRE
 BQ,Boqii Holding Limited Class A Ordinary Shares,Boqii Holding Limited Class A Ordinary Shares,A,BQ,N,100.0,N,BQ
 BR,"Broadridge Financial Solutions, Inc. Common Stock","Broadridge Financial Solutions, Inc. Common Stock",N,BR,N,100.0,N,BR
 BRAZ,Global X Brazil Active ETF,Global X Brazil Active ETF,P,BRAZ,Y,100.0,N,BRAZ
@@ -2536,7 +2535,6 @@ GFF,Griffon Corporation Common Stock,Griffon Corporation Common Stock,N,GFF,N,10
 GFI,Gold Fields Limited American Depositary Shares,Gold Fields Limited American Depositary Shares,N,GFI,N,100.0,N,GFI
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value","GFL Environmental Inc. Subordinate voting shares, no par value",N,GFL,N,100.0,N,GFL
 GFR,Greenfire Resources Ltd. Common Shares,Greenfire Resources Ltd. Common Shares,N,GFR,N,100.0,N,GFR
-GFR.R,"Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights","Greenfire Resources Ltd. Rights (expiring December 16, 2025) Rights",N,GFRr,N,100.0,N,GFR^
 GGB,Gerdau S.A. Common Stock,Gerdau S.A. Common Stock,N,GGB,N,100.0,N,GGB
 GGG,Graco Inc. Common Stock,Graco Inc. Common Stock,N,GGG,N,100.0,N,GGG
 GGM,GGM Macro Alignment ETF,GGM Macro Alignment ETF,P,GGM,Y,100.0,N,GGM
@@ -2985,7 +2983,6 @@ IAUX,i,i-80 Gold Corp. Common Shares,A,IAUX,N,100.0,N,IAUX
 IAUX.W,i,"i-80 Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $0.70",A,IAUX.WS,N,100.0,N,IAUX+
 IBCA,iShares iBonds Dec 2035 Term Corporate ETF,iShares iBonds Dec 2035 Term Corporate ETF,P,IBCA,Y,100.0,N,IBCA
 IBD,Inspire Corporate Bond ETF,Inspire Corporate Bond ETF,P,IBD,Y,100.0,N,IBD
-IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,iShares iBonds Dec 2025 Term Corporate ETF,P,IBDQ,Y,100.0,N,IBDQ
 IBDR,iShares iBonds Dec 2026 Term Corporate ETF,iShares iBonds Dec 2026 Term Corporate ETF,P,IBDR,Y,100.0,N,IBDR
 IBDS,iShares iBonds Dec 2027 Term Corporate ETF,iShares iBonds Dec 2027 Term Corporate ETF,P,IBDS,Y,100.0,N,IBDS
 IBDT,iShares iBonds Dec 2028 Term Corporate ETF,iShares iBonds Dec 2028 Term Corporate ETF,P,IBDT,Y,100.0,N,IBDT
@@ -2995,7 +2992,6 @@ IBDW,iShares iBonds Dec 2031 Term Corporate ETF,iShares iBonds Dec 2031 Term Cor
 IBDX,iShares iBonds Dec 2032 Term Corporate ETF,iShares iBonds Dec 2032 Term Corporate ETF,P,IBDX,Y,100.0,N,IBDX
 IBDY,iShares iBonds Dec 2033 Term Corporate ETF,iShares iBonds Dec 2033 Term Corporate ETF,P,IBDY,Y,100.0,N,IBDY
 IBDZ,iShares iBonds Dec 2034 Term Corporate ETF,iShares iBonds Dec 2034 Term Corporate ETF,P,IBDZ,Y,100.0,N,IBDZ
-IBHE,iShares iBonds 2025 Term High Yield and Income ETF,iShares iBonds 2025 Term High Yield and Income ETF,Z,IBHE,Y,100.0,N,IBHE
 IBHF,iShares iBonds 2026 Term High Yield and Income ETF,iShares iBonds 2026 Term High Yield and Income ETF,Z,IBHF,Y,100.0,N,IBHF
 IBHG,iShares iBonds 2027 Term High Yield and Income ETF,iShares iBonds 2027 Term High Yield and Income ETF,Z,IBHG,Y,100.0,N,IBHG
 IBHH,iShares iBonds 2028 Term High Yield and Income ETF,iShares iBonds 2028 Term High Yield and Income ETF,Z,IBHH,Y,100.0,N,IBHH
@@ -3987,6 +3983,7 @@ MMIT,NYLI MacKay Muni Intermediate ETF,NYLI MacKay Muni Intermediate ETF,P,MMIT,
 MMKT,Texas Capital Government Money Market ETF,Texas Capital Government Money Market ETF,N,MMKT,Y,100.0,N,MMKT
 MMLG,First Trust Multi,First Trust Multi-Manager Large Growth ETF,P,MMLG,Y,100.0,N,MMLG
 MMM,3M Company Common Stock,3M Company Common Stock,N,MMM,N,100.0,N,MMM
+MMMA,NYLI MacKay Muni Allocation ETF,NYLI MacKay Muni Allocation ETF,P,MMMA,Y,100.0,N,MMMA
 MMS,"Maximus, Inc. Common Stock","Maximus, Inc. Common Stock",N,MMS,N,100.0,N,MMS
 MMSC,First Trust Multi,First Trust Multi-Manager Small Cap Opportunities ETF,P,MMSC,Y,100.0,N,MMSC
 MMSD,NYLI MacKay Muni Short Duration ETF,NYLI MacKay Muni Short Duration ETF,P,MMSD,Y,100.0,N,MMSD
@@ -4133,7 +4130,7 @@ MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ETRACS Monthly Pay 1.5X
 MVT,"Blackrock MuniVest Fund II, Inc.  Common Stock","Blackrock MuniVest Fund II, Inc.  Common Stock",N,MVT,N,100.0,N,MVT
 MVV,ProShares Ultra MidCap400,ProShares Ultra MidCap400,P,MVV,Y,100.0,N,MVV
 MWA,MUELLER WATER PRODUCTS Common Stock,MUELLER WATER PRODUCTS Common Stock,N,MWA,N,100.0,N,MWA
-MWG,Multi Ways Holdings Limited Ordinary Shares,Multi Ways Holdings Limited Ordinary Shares,A,MWG,N,100.0,N,MWG
+MWG,Multi Ways Holdings Limited Class A Ordinary Shares,Multi Ways Holdings Limited Class A Ordinary Shares,A,MWG,N,100.0,N,MWG
 MX,Magnachip Semiconductor Corporation Common Stock,Magnachip Semiconductor Corporation Common Stock,N,MX,N,100.0,N,MX
 MXC,Mexco Energy Corporation Common Stock,Mexco Energy Corporation Common Stock,A,MXC,N,100.0,N,MXC
 MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock","Mexico Equity and Income Fund, Inc. (The) Common Stock",N,MXE,N,100.0,N,MXE
@@ -5006,6 +5003,7 @@ QSPT,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - September,Z,QSPT,Y,100.0,N,Q
 QSR,Restaurant Brands International Inc. Common Shares,Restaurant Brands International Inc. Common Shares,N,QSR,N,100.0,N,QSR
 QSU,Defiance Daily Target 2X Long QS ETF,Defiance Daily Target 2X Long QS ETF,P,QSU,Y,100.0,N,QSU
 QSX,Tradr 2X Long QS Daily ETF,Tradr 2X Long QS Daily ETF,Z,QSX,Y,100.0,N,QSX
+QTAC,Q3 All,Q3 All-Season Tactical Advantage ETF,Z,QTAC,Y,100.0,N,QTAC
 QTAP,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - April,Z,QTAP,Y,100.0,N,QTAP
 QTJA,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - January,Z,QTJA,Y,100.0,N,QTJA
 QTJL,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - July,Z,QTJL,Y,100.0,N,QTJL
@@ -5843,6 +5841,7 @@ SZNE,Pacer CFRA,Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF,P,SZNE,Y,1
 T,AT&T Inc.,AT&T Inc.,N,T,N,100.0,N,T
 T$A,"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A","AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",N,TpA,N,100.0,N,T-A
 T$C,"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual Preferred Stock, Series C","AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",N,TpC,N,100.0,N,T-C
+TABD,Transamerica Bond Active ETF,Transamerica Bond Active ETF,P,TABD,Y,100.0,N,TABD
 TAC,TransAlta Corporation Ordinary Shares,TransAlta Corporation Ordinary Shares,N,TAC,N,100.0,N,TAC
 TACK,Fairlead Tactical Sector ETF,Fairlead Tactical Sector ETF,P,TACK,Y,100.0,N,TACK
 TACN,T. Rowe Price Active Core International Equity ETF,T. Rowe Price Active Core International Equity ETF,P,TACN,Y,100.0,N,TACN
@@ -5856,6 +5855,7 @@ TAIL,Cambria Tail Risk ETF,Cambria Tail Risk ETF,Z,TAIL,Y,100.0,N,TAIL
 TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),N,TAK,N,100.0,N,TAK
 TAL,TAL Education Group American Depositary Shares,TAL Education Group American Depositary Shares,N,TAL,N,100.0,N,TAL
 TALO,"Talos Energy, Inc. Common Stock","Talos Energy, Inc. Common Stock",N,TALO,N,100.0,N,TALO
+TALV,Transamerica Large Value Active ETF,Transamerica Large Value Active ETF,P,TALV,Y,100.0,N,TALV
 TAN,Invesco Solar ETF,Invesco Solar ETF,P,TAN,Y,100.0,N,TAN
 TAP,Molson Coors Beverage Company Class B Common Stock,Molson Coors Beverage Company Class B Common Stock,N,TAP,N,100.0,N,TAP
 TAP.A,Molson Coors Beverage Company Class A Common Stock,Molson Coors Beverage Company Class A Common Stock,N,TAP.A,N,100.0,N,TAP.A
