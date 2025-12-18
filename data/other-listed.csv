@@ -252,6 +252,7 @@ AMZP,Kurv Yield Premium Strategy Amazon (AMZN) ETF,Kurv Yield Premium Strategy A
 AMZW,Roundhill AMZN WeeklyPay ETF,Roundhill AMZN WeeklyPay ETF,Z,AMZW,Y,100.0,N,AMZW
 AMZY,YieldMax AMZN Option Income Strategy ETF,YieldMax AMZN Option Income Strategy ETF,P,AMZY,Y,100.0,N,AMZY
 AN,"AutoNation, Inc. Common Stock","AutoNation, Inc. Common Stock",N,AN,N,100.0,N,AN
+ANDG,Andersen Group Inc. Class A Common Stock,Andersen Group Inc. Class A Common Stock,N,ANDG,N,100.0,N,ANDG
 ANET,"Arista Networks, Inc. Common Stock","Arista Networks, Inc. Common Stock",N,ANET,N,100.0,N,ANET
 ANEW,ProShares MSCI Transformational Changes ETF,ProShares MSCI Transformational Changes ETF,P,ANEW,Y,100.0,N,ANEW
 ANF,Abercrombie & Fitch Company Common Stock,Abercrombie & Fitch Company Common Stock,N,ANF,N,100.0,N,ANF
@@ -1960,6 +1961,7 @@ ESG,FlexShares STOXX US ESG Select Index Fund,FlexShares STOXX US ESG Select Ind
 ESGG,FlexShares STOXX Global ESG Select Index Fund,FlexShares STOXX Global ESG Select Index Fund,Z,ESGG,Y,100.0,N,ESGG
 ESGV,Vanguard ESG U.S. Stock ETF,Vanguard ESG U.S. Stock ETF,Z,ESGV,Y,100.0,N,ESGV
 ESI,Element Solutions Inc. Common Stock,Element Solutions Inc. Common Stock,N,ESI,N,100.0,N,ESI
+ESIM,Eventide International ETF,Eventide International ETF,P,ESIM,Y,100.0,N,ESIM
 ESIX,State Street SPDR S&P SmallCap 600 ESG ETF,State Street SPDR S&P SmallCap 600 ESG ETF,P,ESIX,Y,100.0,N,ESIX
 ESK,REX,REX-Osprey ETH + Staking ETF,Z,ESK,Y,100.0,N,ESK
 ESLG,Eventide Large Cap Growth ETF,Eventide Large Cap Growth ETF,P,ESLG,Y,100.0,N,ESLG
@@ -2820,6 +2822,7 @@ HEI.A,Heico Corporation Common Stock,Heico Corporation Common Stock,N,HEI.A,N,40
 HELO,JPMorgan Hedged Equity Laddered Overlay ETF,JPMorgan Hedged Equity Laddered Overlay ETF,P,HELO,Y,100.0,N,HELO
 HELS,Hedgeye 130/30 Equity ETF,Hedgeye 130/30 Equity ETF,P,HELS,Y,100.0,N,HELS
 HELX,Franklin Genomic Advancements ETF,Franklin Genomic Advancements ETF,Z,HELX,Y,100.0,N,HELX
+HEMI,Hartford Equity Premium Income ETF,Hartford Equity Premium Income ETF,Z,HEMI,Y,100.0,N,HEMI
 HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,N,HEQ,N,100.0,N,HEQ
 HEQT,Simplify Hedged Equity ETF,Simplify Hedged Equity ETF,P,HEQT,Y,100.0,N,HEQT
 HESM,Hess Midstream LP Class A Representing Limited Partner Interests,Hess Midstream LP Class A Representing Limited Partner Interests,N,HESM,N,100.0,N,HESM
@@ -2933,7 +2936,6 @@ HVAC,AdvisorShares HVAC and Industrials ETF,AdvisorShares HVAC and Industrials E
 HVT,"Haverty Furniture Companies, Inc. Common Stock","Haverty Furniture Companies, Inc. Common Stock",N,HVT,N,100.0,N,HVT
 HVT.A,"Haverty Furniture Companies, Inc. Common Stock","Haverty Furniture Companies, Inc. Common Stock",N,HVT.A,N,100.0,N,HVT.A
 HWM,Howmet Aerospace Inc. Common Stock,Howmet Aerospace Inc. Common Stock,N,HWM,N,100.0,N,HWM
-HWM$,Howmet Aerospace Inc. $3.75 Preferred Stock,Howmet Aerospace Inc. $3.75 Preferred Stock,A,HWMp,N,100.0,N,HWM-
 HXL,Hexcel Corporation Common Stock,Hexcel Corporation Common Stock,N,HXL,N,100.0,N,HXL
 HY,Hyster,"Hyster-Yale, Inc. Class A common stock",N,HY,N,100.0,N,HY
 HYAC,Haymaker Acquisition Corp. 4 Class A Ordinary Shares,Haymaker Acquisition Corp. 4 Class A Ordinary Shares,N,HYAC,N,100.0,N,HYAC
@@ -3478,6 +3480,7 @@ JXN,Jackson Financial Inc. Class A Common Stock ,Jackson Financial Inc. Class A 
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed","Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed-Rate Reset Noncumulative Perpetual Preferred Stock, Series A",N,JXNpA,N,100.0,N,JXN-A
 JXX,Janus Henderson Transformational Growth ETF,Janus Henderson Transformational Growth ETF,Z,JXX,Y,100.0,N,JXX
 KAI,Kadant Inc Common Stock,Kadant Inc Common Stock,N,KAI,N,40.0,N,KAI
+KAMO,Kensington Credit Opportunities ETF,Kensington Credit Opportunities ETF,Z,KAMO,Y,100.0,N,KAMO
 KAPA,"Kairos Pharma, Ltd. Common Stock","Kairos Pharma, Ltd. Common Stock",A,KAPA,N,100.0,N,KAPA
 KAPR,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - April,Z,KAPR,Y,100.0,N,KAPR
 KAR,"OPENLANE, Inc. Common Stock","OPENLANE, Inc. Common Stock",N,KAR,N,100.0,N,KAR
@@ -5050,7 +5053,6 @@ RBLU,T,T-REX 2X Long RBLX Daily Target ETF,Z,RBLU,Y,100.0,N,RBLU
 RBLX,Roblox Corporation Class A Common Stock,Roblox Corporation Class A Common Stock,N,RBLX,N,100.0,N,RBLX
 RBLY,YieldMax RBLX Option Income Strategy ETF,YieldMax RBLX Option Income Strategy ETF,P,RBLY,Y,100.0,N,RBLY
 RBOT,Vicarious Surgical Inc. Class A Common Stock,Vicarious Surgical Inc. Class A Common Stock,N,RBOT,N,100.0,N,RBOT
-RBOT.W,"Vicarious Surgical Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share","Vicarious Surgical Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",N,RBOT.WS,N,100.0,N,RBOT+
 RBRK,"Rubrik, Inc. Class A Common Stock","Rubrik, Inc. Class A Common Stock",N,RBRK,N,100.0,N,RBRK
 RBUF,Innovator U.S. Small Cap 10 Buffer ETF ,Innovator U.S. Small Cap 10 Buffer ETF - Quarterly,Z,RBUF,Y,100.0,N,RBUF
 RC,Ready Capital Corporation Common Stock,Ready Capital Corporation Common Stock,N,RC,N,100.0,N,RC
