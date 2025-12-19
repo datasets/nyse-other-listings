@@ -1908,6 +1908,7 @@ EOT,Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNIT
 EP,Empire Petroleum Corporation Common Stock,Empire Petroleum Corporation Common Stock,A,EP,N,100.0,N,EP
 EP$C,El Paso Corporation Preferred Stock,El Paso Corporation Preferred Stock,N,EPpC,N,100.0,N,EP-C
 EPAC,Enerpac Tool Group Corp. Common Stock,Enerpac Tool Group Corp. Common Stock,N,EPAC,N,100.0,N,EPAC
+EPAI,Harbor AI Inflection Strategy ETF,Harbor AI Inflection Strategy ETF,P,EPAI,Y,100.0,N,EPAI
 EPAM,"EPAM Systems, Inc. Common Stock","EPAM Systems, Inc. Common Stock",N,EPAM,N,100.0,N,EPAM
 EPC,Edgewell Personal Care Company Common Stock,Edgewell Personal Care Company Common Stock,N,EPC,N,100.0,N,EPC
 EPD,Enterprise Products Partners L.P. Common Stock,Enterprise Products Partners L.P. Common Stock,N,EPD,N,100.0,N,EPD
@@ -2181,6 +2182,7 @@ FFC,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,Flaher
 FFDI,Fidelity Fundamental Developed International ETF,Fidelity Fundamental Developed International ETF,Z,FFDI,Y,100.0,N,FFDI
 FFEB,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - February,Z,FFEB,Y,100.0,N,FFEB
 FFEM,Fidelity Fundamental Emerging Markets ETF,Fidelity Fundamental Emerging Markets ETF,Z,FFEM,Y,100.0,N,FFEM
+FFF,Founders 100 ETF,Founders 100 ETF,Z,FFF,Y,100.0,N,FFF
 FFGX,Fidelity Fundamental Global ex,Fidelity Fundamental Global ex-U.S. ETF,Z,FFGX,Y,100.0,N,FFGX
 FFIU,UVA Unconstrained Medium,UVA Unconstrained Medium-Term Fixed Income ETF,P,FFIU,Y,100.0,N,FFIU
 FFLC,Fidelity Fundamental Large Cap Core ETF,Fidelity Fundamental Large Cap Core ETF,Z,FFLC,Y,100.0,N,FFLC
@@ -2231,6 +2233,7 @@ FIX,"Comfort Systems USA, Inc. Common Stock","Comfort Systems USA, Inc. Common S
 FIXP,FolioBeyond Enhanced Fixed Income Premium ETF,FolioBeyond Enhanced Fixed Income Premium ETF,P,FIXP,Y,100.0,N,FIXP
 FIXT,TCW Core Plus Bond ETF,TCW Core Plus Bond ETF,N,FIXT,Y,100.0,N,FIXT
 FJAN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - January,Z,FJAN,Y,100.0,N,FJAN
+FJET,"Starfighters Space, Inc. Common Stock","Starfighters Space, Inc. Common Stock",A,FJET,N,100.0,N,FJET
 FJUL,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - July,Z,FJUL,Y,100.0,N,FJUL
 FJUN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - June,Z,FJUN,Y,100.0,N,FJUN
 FLAG,Global X S&P 500 U.S. Market Leaders Top 50 ETF,Global X S&P 500 U.S. Market Leaders Top 50 ETF,P,FLAG,Y,100.0,N,FLAG
@@ -3853,7 +3856,7 @@ MCN,XAI Madison Equity Premium Income Fund Common Shares,XAI Madison Equity Prem
 MCO,Moody's Corporation Common Stock,Moody's Corporation Common Stock,N,MCO,N,40.0,N,MCO
 MCOW,Pacer S&P MidCap 400 Quality FCF Aristocrats ETF,Pacer S&P MidCap 400 Quality FCF Aristocrats ETF,Z,MCOW,Y,100.0,N,MCOW
 MCR,MFS Charter Income Trust Common Stock,MFS Charter Income Trust Common Stock,N,MCR,N,100.0,N,MCR
-MCRP,Micropolis Holding Company Ordinary Shares,Micropolis Holding Company Ordinary Shares,A,MCRP,N,100.0,N,MCRP
+MCRP,Micropolis AI Robotics Ordinary Shares,Micropolis AI Robotics Ordinary Shares,A,MCRP,N,100.0,N,MCRP
 MCS,Marcus Corporation (The) Common Stock,Marcus Corporation (The) Common Stock,N,MCS,N,100.0,N,MCS
 MCY,Mercury General Corporation Common Stock,Mercury General Corporation Common Stock,N,MCY,N,100.0,N,MCY
 MD,"Pediatrix Medical Group, Inc. Common Stock","Pediatrix Medical Group, Inc. Common Stock",N,MD,N,100.0,N,MD
@@ -3970,6 +3973,7 @@ MLP,"Maui Land & Pineapple Company, Inc. Common Stock","Maui Land & Pineapple Co
 MLPA,Global X MLP ETF,Global X MLP ETF,P,MLPA,Y,100.0,N,MLPA
 MLPB,"ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040","ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040",P,MLPB,N,100.0,N,MLPB
 MLPD,Global X MLP & Energy Infrastructure Covered Call ETF,Global X MLP & Energy Infrastructure Covered Call ETF,P,MLPD,Y,100.0,N,MLPD
+MLPI,NEOS MLP & Energy Infrastructure High Income ETF,NEOS MLP & Energy Infrastructure High Income ETF,Z,MLPI,Y,100.0,N,MLPI
 MLPR,ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN,ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN,P,MLPR,Y,100.0,N,MLPR
 MLPX,Global X MLP & Energy Infrastructure ETF,Global X MLP & Energy Infrastructure ETF,P,MLPX,Y,100.0,N,MLPX
 MLR,"Miller Industries, Inc. Common Stock","Miller Industries, Inc. Common Stock",N,MLR,N,100.0,N,MLR
@@ -4163,22 +4167,22 @@ NATL,NCR Atleos Corporation Common Stock,NCR Atleos Corporation Common Stock,N,N
 NAUG,Innovator Growth,Innovator Growth-100 Power Buffer ETF - August,Z,NAUG,Y,100.0,N,NAUG
 NAZ,Nuveen Arizona Quality Municipal Income Fund Common Stock,Nuveen Arizona Quality Municipal Income Fund Common Stock,N,NAZ,N,100.0,N,NAZ
 NBB,Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,N,NBB,N,100.0,N,NBB
-NBCE,Neuberger Berman China Equity ETF,Neuberger Berman China Equity ETF,P,NBCE,Y,100.0,N,NBCE
-NBCM,Neuberger Berman Commodity Strategy ETF,Neuberger Berman Commodity Strategy ETF,P,NBCM,Y,100.0,N,NBCM
-NBCR,Neuberger Berman Core Equity ETF,Neuberger Berman Core Equity ETF,P,NBCR,Y,100.0,N,NBCR
-NBDS,Neuberger Berman Disrupters ETF,Neuberger Berman Disrupters ETF,P,NBDS,Y,100.0,N,NBDS
+NBCE,Neuberger China Equity ETF,Neuberger China Equity ETF,P,NBCE,Y,100.0,N,NBCE
+NBCM,Neuberger Commodity Strategy ETF,Neuberger Commodity Strategy ETF,P,NBCM,Y,100.0,N,NBCM
+NBCR,Neuberger Core Equity ETF,Neuberger Core Equity ETF,P,NBCR,Y,100.0,N,NBCR
+NBDS,Neuberger Disrupters ETF,Neuberger Disrupters ETF,P,NBDS,Y,100.0,N,NBDS
 NBET,Neuberger Berman Energy Transition & Infrastructure ETF,Neuberger Berman Energy Transition & Infrastructure ETF,P,NBET,Y,100.0,N,NBET
 NBFC,Neuberger Berman Flexible Credit Income ETF,Neuberger Berman Flexible Credit Income ETF,P,NBFC,Y,100.0,N,NBFC
-NBGX,Neuberger Berman Growth ETF,Neuberger Berman Growth ETF,P,NBGX,Y,100.0,N,NBGX
-NBH,Neuberger Berman Municipal Fund Inc. Common Stock,Neuberger Berman Municipal Fund Inc. Common Stock,A,NBH,N,100.0,N,NBH
+NBGX,Neuberger Growth ETF,Neuberger Growth ETF,P,NBGX,Y,100.0,N,NBGX
+NBH,Neuberger Municipal Fund Inc. Common Stock,Neuberger Municipal Fund Inc. Common Stock,A,NBH,N,100.0,N,NBH
 NBHC,National Bank Holdings Corporation Common Stock,National Bank Holdings Corporation Common Stock,N,NBHC,N,100.0,N,NBHC
-NBJP,Neuberger Berman Japan Equity ETF,Neuberger Berman Japan Equity ETF,P,NBJP,Y,100.0,N,NBJP
-NBOS,Neuberger Berman Option Strategy ETF,Neuberger Berman Option Strategy ETF,P,NBOS,Y,100.0,N,NBOS
+NBJP,Neuberger Japan Equity ETF,Neuberger Japan Equity ETF,P,NBJP,Y,100.0,N,NBJP
+NBOS,Neuberger Option Strategy ETF,Neuberger Option Strategy ETF,P,NBOS,Y,100.0,N,NBOS
 NBR,Nabors Industries Ltd.,Nabors Industries Ltd.,N,NBR,N,100.0,N,NBR
 NBSD,Neuberger Berman Short Duration Income ETF,Neuberger Berman Short Duration Income ETF,P,NBSD,Y,100.0,N,NBSD
-NBSM,Neuberger Berman Small,Neuberger Berman Small-Mid Cap ETF,P,NBSM,Y,100.0,N,NBSM
+NBSM,Neuberger Small,Neuberger Small-Mid Cap ETF,P,NBSM,Y,100.0,N,NBSM
 NBTR,Neuberger Berman Total Return Bond ETF,Neuberger Berman Total Return Bond ETF,P,NBTR,Y,100.0,N,NBTR
-NBXG,Neuberger Berman Next Generation Connectivity Fund Inc. Common Stock,Neuberger Berman Next Generation Connectivity Fund Inc. Common Stock,N,NBXG,N,100.0,N,NBXG
+NBXG,Neuberger Next Generation Connectivity Fund Inc. Common Stock,Neuberger Next Generation Connectivity Fund Inc. Common Stock,N,NBXG,N,100.0,N,NBXG
 NBY,"NovaBay Pharmaceuticals, Inc. Common Stock","NovaBay Pharmaceuticals, Inc. Common Stock",A,NBY,N,100.0,N,NBY
 NC,"NACCO Industries, Inc. Common Stock","NACCO Industries, Inc. Common Stock",N,NC,N,100.0,N,NC
 NCA,Nuveen California Municipal Value Fund,Nuveen California Municipal Value Fund,N,NCA,N,100.0,N,NCA
@@ -4240,7 +4244,7 @@ NGVC,"Natural Grocers by Vitamin Cottage, Inc. Common Stock","Natural Grocers by
 NGVT,Ingevity Corporation Common Stock ,Ingevity Corporation Common Stock ,N,NGVT,N,100.0,N,NGVT
 NHC,National HealthCare Corporation Common Stock,National HealthCare Corporation Common Stock,A,NHC,N,100.0,N,NHC
 NHI,"National Health Investors, Inc. Common Stock","National Health Investors, Inc. Common Stock",N,NHI,N,100.0,N,NHI
-NHS,Neuberger Berman High Yield Strategies Fund,Neuberger Berman High Yield Strategies Fund,A,NHS,N,100.0,N,NHS
+NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,Neuberger High Yield Strategies Fund Inc. Common Stock,A,NHS,N,100.0,N,NHS
 NHYB,Nuveen High Yield Corporate Bond ETF,Nuveen High Yield Corporate Bond ETF,P,NHYB,Y,100.0,N,NHYB
 NHYM,Nuveen High Yield Municipal Income ETF,Nuveen High Yield Municipal Income ETF,P,NHYM,Y,100.0,N,NHYM
 NI,NiSource Inc Common Stock,NiSource Inc Common Stock,N,NI,N,100.0,N,NI
@@ -4277,7 +4281,7 @@ NMBL,NovaTide Flexible Allocation ETF,NovaTide Flexible Allocation ETF,P,NMBL,Y,
 NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,Nuveen Municipal Credit Opportunities Fund Common Shares,N,NMCO,N,100.0,N,NMCO
 NMG,Nouveau Monde Graphite Inc. Common Shares,Nouveau Monde Graphite Inc. Common Shares,N,NMG,N,100.0,N,NMG
 NMI,"Nuveen Municipal Income Fund, Inc. Common Stock","Nuveen Municipal Income Fund, Inc. Common Stock",N,NMI,N,100.0,N,NMI
-NML,Neuberger Berman Energy Infrastructure and Income Fund Inc. Common Stock,Neuberger Berman Energy Infrastructure and Income Fund Inc. Common Stock,A,NML,N,100.0,N,NML
+NML,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,A,NML,N,100.0,N,NML
 NMM,Navios Maritime Partners LP Common Units Representing Limited Partner Interests,Navios Maritime Partners LP Common Units Representing Limited Partner Interests,N,NMM,N,100.0,N,NMM
 NMR,Nomura Holdings Inc ADR American Depositary Shares,Nomura Holdings Inc ADR American Depositary Shares,N,NMR,N,100.0,N,NMR
 NMS,Nuveen Minnesota Quality Municipal Income Fund ,Nuveen Minnesota Quality Municipal Income Fund ,N,NMS,N,100.0,N,NMS
@@ -4326,7 +4330,7 @@ NRGD,MicroSectors U.S. Big Oil ,"MicroSectors U.S. Big Oil -3 Inverse Leveraged 
 NRGU,"MicroSectors U.S. Big Oil 3 Leveraged ETNs due February 17, 2045","MicroSectors U.S. Big Oil 3 Leveraged ETNs due February 17, 2045",P,NRGU,Y,100.0,N,NRGU
 NRGV,"Energy Vault Holdings, Inc. Common Stock","Energy Vault Holdings, Inc. Common Stock",N,NRGV,N,100.0,N,NRGV
 NRK,Nuveen New York AMT,Nuveen New York AMT-Free Quality Municipal Income Fund ,N,NRK,N,100.0,N,NRK
-NRO,"Neuberger Berman Real Estate Securities Income Fund, Inc.","Neuberger Berman Real Estate Securities Income Fund, Inc.",A,NRO,N,100.0,N,NRO
+NRO,Neuberger Real Estate Securities Income Fund Inc. Common Stock,Neuberger Real Estate Securities Income Fund Inc. Common Stock,A,NRO,N,100.0,N,NRO
 NRP,Natural Resource Partners LP Limited Partnership,Natural Resource Partners LP Limited Partnership,N,NRP,N,100.0,N,NRP
 NRSH,Aztlan North America Nearshoring Stock Selection ETF,Aztlan North America Nearshoring Stock Selection ETF,P,NRSH,Y,100.0,N,NRSH
 NRT,North European Oil Royality Trust Common Stock,North European Oil Royality Trust Common Stock,N,NRT,N,100.0,N,NRT
@@ -5350,7 +5354,6 @@ SCD,LMP Capital and Income Fund Inc. Common Stock,LMP Capital and Income Fund In
 SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,ETRACS 2x Leveraged US Dividend Factor TR ETN,P,SCDL,Y,100.0,N,SCDL
 SCDV,Bahl & Gaynor Small Cap Dividend ETF,Bahl & Gaynor Small Cap Dividend ETF,P,SCDV,Y,100.0,N,SCDV
 SCE$G,SCE Trust II Trust Preferred Securities,SCE Trust II Trust Preferred Securities,N,SCEpG,N,100.0,N,SCE-G
-SCE$J,Southern California Edison Company 5.375% Fixed,Southern California Edison Company 5.375% Fixed-to-Floating Rate Trust Preference Securities,N,SCEpJ,N,100.0,N,SCE-J
 SCE$K,Southern California Edison Company 5.45% Fixed,Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities,N,SCEpK,N,100.0,N,SCE-K
 SCE$L,SCE TRUST VI,SCE TRUST VI,N,SCEpL,N,100.0,N,SCE-L
 SCE$M,SCE Trust VII 7.50% Trust Preference Securities,SCE Trust VII 7.50% Trust Preference Securities,N,SCEpM,N,100.0,N,SCE-M
@@ -6045,6 +6048,7 @@ TNET,"TriNet Group, Inc. Common Stock","TriNet Group, Inc. Common Stock",N,TNET,
 TNGY,Tortoise Energy Fund,Tortoise Energy Fund,N,TNGY,Y,100.0,N,TNGY
 TNK,Teekay Tankers Ltd.,Teekay Tankers Ltd.,N,TNK,N,100.0,N,TNK
 TNL,Travel   Leisure Co. Common  Stock,Travel   Leisure Co. Common  Stock,N,TNL,N,100.0,N,TNL
+TNUK,Tortoise Nuclear Renaissance ETF,Tortoise Nuclear Renaissance ETF,P,TNUK,Y,100.0,N,TNUK
 TOAK,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,P,TOAK,Y,100.0,N,TOAK
 TOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to October 2027,Z,TOCT,Y,100.0,N,TOCT
 TOGA,Managed Portfolio Series Tremblant Global ETF,Managed Portfolio Series Tremblant Global ETF,P,TOGA,Y,100.0,N,TOGA
@@ -6287,6 +6291,7 @@ USD,ProShares Ultra Semiconductors,ProShares Ultra Semiconductors,P,USD,Y,100.0,
 USDU,WisdomTree Bloomberg U.S. Dollar Bullish Fund,WisdomTree Bloomberg U.S. Dollar Bullish Fund,P,USDU,Y,100.0,N,USDU
 USE,USCF Energy Commodity Strategy Absolute Return Fund,USCF Energy Commodity Strategy Absolute Return Fund,P,USE,Y,100.0,N,USE
 USEP,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - September,Z,USEP,Y,100.0,N,USEP
+USEW,Cambria US EW ETF,Cambria US EW ETF,Z,USEW,Y,100.0,N,USEW
 USFD,US Foods Holding Corp. Common Stock,US Foods Holding Corp. Common Stock,N,USFD,N,100.0,N,USFD
 USFR,WisdomTree Floating Rate Treasury Fund,WisdomTree Floating Rate Treasury Fund,P,USFR,Y,100.0,N,USFR
 USG,USCF Gold Strategy Plus Income Fund,USCF Gold Strategy Plus Income Fund,P,USG,Y,100.0,N,USG
