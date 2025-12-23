@@ -292,8 +292,8 @@ APRB,Aptus April Buffer ETF,Aptus April Buffer ETF,Z,APRB,Y,100.0,N,APRB
 APRH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrier ETF - April,Z,APRH,Y,100.0,N,APRH
 APRJ,Innovator Premium Income 30 Barrier ETF ,Innovator Premium Income 30 Barrier ETF - April,Z,APRJ,Y,100.0,N,APRJ
 APRP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - April,Z,APRP,Y,100.0,N,APRP
-APRT,AllianzIM U.S. Large Cap Buffer10 Apr ETF,AllianzIM U.S. Large Cap Buffer10 Apr ETF,P,APRT,Y,100.0,N,APRT
-APRW,AllianzIM U.S. Large Cap Buffer20 Apr ETF,AllianzIM U.S. Large Cap Buffer20 Apr ETF,P,APRW,Y,100.0,N,APRW
+APRT,AllianzIM U.S. Large Cap Buffer10 Apr ETF,AllianzIM U.S. Large Cap Buffer10 Apr ETF,Z,APRT,Y,100.0,N,APRT
+APRW,AllianzIM U.S. Large Cap Buffer20 Apr ETF,AllianzIM U.S. Large Cap Buffer20 Apr ETF,Z,APRW,Y,100.0,N,APRW
 APRZ,TrueShares Structured Outcome (April) ETF,TrueShares Structured Outcome (April) ETF,Z,APRZ,Y,100.0,N,APRZ
 APT,"Alpha Pro Tech, Ltd. Common Stock","Alpha Pro Tech, Ltd. Common Stock",A,APT,N,100.0,N,APT
 APTV,Aptiv PLC Ordinary Shares,Aptiv PLC Ordinary Shares,N,APTV,N,100.0,N,APTV
@@ -395,9 +395,9 @@ AUB,Atlantic Union Bankshares Corporation Common Stock,Atlantic Union Bankshares
 AUB$A,Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non,"Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non-Cumulative Preferred Stock, Series A",N,AUBpA,N,100.0,N,AUB-A
 AUGM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - August,Z,AUGM,Y,100.0,N,AUGM
 AUGP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - August,Z,AUGP,Y,100.0,N,AUGP
-AUGT,AllianzIM U.S. Large Cap Buffer10 Aug ETF,AllianzIM U.S. Large Cap Buffer10 Aug ETF,P,AUGT,Y,100.0,N,AUGT
+AUGT,AllianzIM U.S. Large Cap Buffer10 Aug ETF,AllianzIM U.S. Large Cap Buffer10 Aug ETF,Z,AUGT,Y,100.0,N,AUGT
 AUGU,AllianzIM U.S. Equity Buffer15 Uncapped Aug ETF,AllianzIM U.S. Equity Buffer15 Uncapped Aug ETF,Z,AUGU,Y,100.0,N,AUGU
-AUGW,AllianzIM U.S. Large Cap Buffer20 Aug ETF,AllianzIM U.S. Large Cap Buffer20 Aug ETF,P,AUGW,Y,100.0,N,AUGW
+AUGW,AllianzIM U.S. Large Cap Buffer20 Aug ETF,AllianzIM U.S. Large Cap Buffer20 Aug ETF,Z,AUGW,Y,100.0,N,AUGW
 AUGZ,TrueShares Structured Outcome (August) ETF,TrueShares Structured Outcome (August) ETF,Z,AUGZ,Y,100.0,N,AUGZ
 AUNA,Auna SA Class A Ordinary Shares,Auna SA Class A Ordinary Shares,N,AUNA,N,100.0,N,AUNA
 AURU,Tradr 2X Long AUR Daily ETF,Tradr 2X Long AUR Daily ETF,Z,AURU,Y,100.0,N,AURU
@@ -1472,9 +1472,9 @@ DEC,Diversified Energy Company Common Stock,Diversified Energy Company Common St
 DECK,Deckers Outdoor Corporation Common Stock,Deckers Outdoor Corporation Common Stock,N,DECK,N,100.0,N,DECK
 DECM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - December,Z,DECM,Y,100.0,N,DECM
 DECP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - December,Z,DECP,Y,100.0,N,DECP
-DECT,AllianzIM U.S. Large Cap Buffer10 Dec ETF,AllianzIM U.S. Large Cap Buffer10 Dec ETF,P,DECT,Y,100.0,N,DECT
+DECT,AllianzIM U.S. Large Cap Buffer10 Dec ETF,AllianzIM U.S. Large Cap Buffer10 Dec ETF,Z,DECT,Y,100.0,N,DECT
 DECU,AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF,AllianzIM U.S. Equity Buffer15 Uncapped Dec ETF,Z,DECU,Y,100.0,N,DECU
-DECW,AllianzIM U.S. Large Cap Buffer20 Dec ETF,AllianzIM U.S. Large Cap Buffer20 Dec ETF,P,DECW,Y,100.0,N,DECW
+DECW,AllianzIM U.S. Large Cap Buffer20 Dec ETF,AllianzIM U.S. Large Cap Buffer20 Dec ETF,Z,DECW,Y,100.0,N,DECW
 DECZ,TrueShares Structured Outcome (December) ETF,TrueShares Structured Outcome (December) ETF,Z,DECZ,Y,100.0,N,DECZ
 DEED,First Trust Securitized Plus ETF,First Trust Securitized Plus ETF,P,DEED,Y,100.0,N,DEED
 DEEF,Xtrackers FTSE Developed ex US Multifactor ETF,Xtrackers FTSE Developed ex US Multifactor ETF,P,DEEF,Y,100.0,N,DEEF
@@ -2155,9 +2155,9 @@ FE,FirstEnergy Corp. Common Stock,FirstEnergy Corp. Common Stock,N,FE,N,100.0,N,
 FEAC,Fidelity Enhanced U.S. All,Fidelity Enhanced U.S. All-Cap Equity ETF,P,FEAC,Y,100.0,N,FEAC
 FEBM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - February,Z,FEBM,Y,100.0,N,FEBM
 FEBP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - February,Z,FEBP,Y,100.0,N,FEBP
-FEBT,AllianzIM U.S. Large Cap Buffer10 Feb ETF,AllianzIM U.S. Large Cap Buffer10 Feb ETF,P,FEBT,Y,100.0,N,FEBT
+FEBT,AllianzIM U.S. Large Cap Buffer10 Feb ETF,AllianzIM U.S. Large Cap Buffer10 Feb ETF,Z,FEBT,Y,100.0,N,FEBT
 FEBU,AllianzIM U.S. Equity Buffer15 Uncapped Feb ETF,AllianzIM U.S. Equity Buffer15 Uncapped Feb ETF,Z,FEBU,Y,100.0,N,FEBU
-FEBW,AllianzIM U.S. Large Cap Buffer20 Feb ETF,AllianzIM U.S. Large Cap Buffer20 Feb ETF,P,FEBW,Y,100.0,N,FEBW
+FEBW,AllianzIM U.S. Large Cap Buffer20 Feb ETF,AllianzIM U.S. Large Cap Buffer20 Feb ETF,Z,FEBW,Y,100.0,N,FEBW
 FEBZ,TrueShares Structured Outcome (February) ETF,TrueShares Structured Outcome (February) ETF,Z,FEBZ,Y,100.0,N,FEBZ
 FEDM,FlexShares ESG & Climate Developed Markets ex,FlexShares ESG & Climate Developed Markets ex-US Core Index Fund,P,FEDM,Y,100.0,N,FEDM
 FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares","Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares",N,FEDU,N,100.0,N,FEDU
@@ -2238,7 +2238,7 @@ FJET,"Starfighters Space, Inc. Common Stock","Starfighters Space, Inc. Common St
 FJUL,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - July,Z,FJUL,Y,100.0,N,FJUL
 FJUN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - June,Z,FJUN,Y,100.0,N,FJUN
 FLAG,Global X S&P 500 U.S. Market Leaders Top 50 ETF,Global X S&P 500 U.S. Market Leaders Top 50 ETF,P,FLAG,Y,100.0,N,FLAG
-FLAO,AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF,AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF,P,FLAO,Y,100.0,N,FLAO
+FLAO,AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF,AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF,Z,FLAO,Y,100.0,N,FLAO
 FLAU,Franklin FTSE Australia ETF,Franklin FTSE Australia ETF,P,FLAU,Y,100.0,N,FLAU
 FLAX,Franklin FTSE Asia ex Japan ETF,Franklin FTSE Asia ex Japan ETF,P,FLAX,Y,100.0,N,FLAX
 FLBL,Franklin Senior Loan ETF,Franklin Senior Loan ETF,Z,FLBL,Y,100.0,N,FLBL
@@ -2266,7 +2266,7 @@ FLHY,Franklin High Yield Corporate ETF,Franklin High Yield Corporate ETF,Z,FLHY,
 FLIA,Franklin International Aggregate Bond ETF,Franklin International Aggregate Bond ETF,Z,FLIA,Y,100.0,N,FLIA
 FLIN,Franklin FTSE India ETF,Franklin FTSE India ETF,P,FLIN,Y,100.0,N,FLIN
 FLJH,Franklin FTSE Japan Hedged ETF,Franklin FTSE Japan Hedged ETF,P,FLJH,Y,100.0,N,FLJH
-FLJJ,AllianzIM U.S. Equity 6 Month Floor5 Jan/Jul ETF,AllianzIM U.S. Equity 6 Month Floor5 Jan/Jul ETF,P,FLJJ,Y,100.0,N,FLJJ
+FLJJ,AllianzIM U.S. Equity 6 Month Floor5 Jan/Jul ETF,AllianzIM U.S. Equity 6 Month Floor5 Jan/Jul ETF,Z,FLJJ,Y,100.0,N,FLJJ
 FLJP,Franklin FTSE Japan ETF,Franklin FTSE Japan ETF,P,FLJP,Y,100.0,N,FLJP
 FLKR,Franklin FTSE South Korea ETF,Franklin FTSE South Korea ETF,P,FLKR,Y,100.0,N,FLKR
 FLLA,Franklin FTSE Latin America ETF,Franklin FTSE Latin America ETF,P,FLLA,Y,100.0,N,FLLA
@@ -2462,15 +2462,18 @@ GAB$H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H","Gabelli Equity Trust, Inc. (
 GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock","Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock",N,GABpK,N,100.0,N,GAB-K
 GABF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,P,GABF,Y,100.0,N,GABF
 GAEM,Simplify Gamma Emerging Market Bond ETF,Simplify Gamma Emerging Market Bond ETF,P,GAEM,Y,100.0,N,GAEM
+GAID,Guinness Atkinson International Dividend Builder ETF,Guinness Atkinson International Dividend Builder ETF,P,GAID,Y,100.0,N,GAID
 GAL,State Street Global Allocation ETF,State Street Global Allocation ETF,P,GAL,Y,100.0,N,GAL
 GAM,"General American Investors, Inc. Common Stock","General American Investors, Inc. Common Stock",N,GAM,N,100.0,N,GAM
 GAM$B,"General American Investors Company, Inc. Cumulative Preferred Stock","General American Investors Company, Inc. Cumulative Preferred Stock",N,GAMpB,N,100.0,N,GAM-B
 GAMR,Amplify Video Game Leaders ETF,Amplify Video Game Leaders ETF,P,GAMR,Y,100.0,N,GAMR
 GAP,"Gap, Inc. (The) Common Stock","Gap, Inc. (The) Common Stock",N,GAP,N,100.0,N,GAP
 GAPR,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - April,Z,GAPR,Y,100.0,N,GAPR
+GARA,Guinness Atkinson Real Assets Income ETF,Guinness Atkinson Real Assets Income ETF,P,GARA,Y,100.0,N,GARA
 GARP,iShares MSCI USA Quality GARP ETF,iShares MSCI USA Quality GARP ETF,Z,GARP,Y,100.0,N,GARP
 GATX,GATX Corporation Common Stock,GATX Corporation Common Stock,N,GATX,N,100.0,N,GATX
 GAU,Galiano Gold Inc.,Galiano Gold Inc.,A,GAU,N,100.0,N,GAU
+GAUD,Guinness Atkinson US Dividend Builder ETF,Guinness Atkinson US Dividend Builder ETF,P,GAUD,Y,100.0,N,GAUD
 GAUG,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - August,Z,GAUG,Y,100.0,N,GAUG
 GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,N,GBAB,N,100.0,N,GBAB
 GBCI,"Glacier Bancorp, Inc. Common Stock","Glacier Bancorp, Inc. Common Stock",N,GBCI,N,100.0,N,GBCI
@@ -2813,7 +2816,6 @@ HDMV,First Trust Horizon Managed Volatility Developed International ETF,First Tr
 HDUS,Hartford Disciplined US Equity ETF,Hartford Disciplined US Equity ETF,P,HDUS,Y,100.0,N,HDUS
 HDV,iShares Core High Dividend ETF,iShares Core High Dividend ETF,P,HDV,Y,100.0,N,HDV
 HE,"Hawaiian Electric Industries, Inc. Common Stock","Hawaiian Electric Industries, Inc. Common Stock",N,HE,N,100.0,N,HE
-HEAT,Touchstone Climate Transition ETF,Touchstone Climate Transition ETF,Z,HEAT,Y,100.0,N,HEAT
 HECA,Hedgeye Capital Allocation ETF,Hedgeye Capital Allocation ETF,P,HECA,Y,100.0,N,HECA
 HEDG,Equable Shares Hedged Equity ETF,Equable Shares Hedged Equity ETF,P,HEDG,Y,100.0,N,HEDG
 HEDJ,WisdomTree Europe Hedged Equity Fund,WisdomTree Europe Hedged Equity Fund,P,HEDJ,Y,100.0,N,HEDJ
@@ -2928,6 +2930,7 @@ HTFC,Horizon Technology Finance Corporation 6.25% Notes due 2027,Horizon Technol
 HTGC,"Hercules Capital, Inc. Common Stock","Hercules Capital, Inc. Common Stock",N,HTGC,N,100.0,N,HTGC
 HTH,Hilltop Holdings Inc.,Hilltop Holdings Inc.,N,HTH,N,100.0,N,HTH
 HTRB,Hartford Total Return Bond ETF,Hartford Total Return Bond ETF,P,HTRB,Y,100.0,N,HTRB
+HTT,"High Templar Tech Limited American depositary shares, each representing one Class A ordinary share","High Templar Tech Limited American depositary shares, each representing one Class A ordinary share",N,HTT,N,100.0,N,HTT
 HTUS,Hull Tactical US ETF,Hull Tactical US ETF,Z,HTUS,Y,100.0,N,HTUS
 HUBB,Hubbell Inc Common Stock,Hubbell Inc Common Stock,N,HUBB,N,40.0,N,HUBB
 HUBS,"HubSpot, Inc. Common Stock","HubSpot, Inc. Common Stock",N,HUBS,N,40.0,N,HUBS
@@ -3336,9 +3339,9 @@ JANH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrie
 JANJ,Innovator Premium Income 30 Barrier ETF ,Innovator Premium Income 30 Barrier ETF - January,Z,JANJ,Y,100.0,N,JANJ
 JANM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - January,Z,JANM,Y,100.0,N,JANM
 JANP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - January,Z,JANP,Y,100.0,N,JANP
-JANT,AllianzIM U.S. Large Cap Buffer10 Jan ETF,AllianzIM U.S. Large Cap Buffer10 Jan ETF,P,JANT,Y,100.0,N,JANT
+JANT,AllianzIM U.S. Large Cap Buffer10 Jan ETF,AllianzIM U.S. Large Cap Buffer10 Jan ETF,Z,JANT,Y,100.0,N,JANT
 JANU,AllianzIM U.S. Equity Buffer15 Uncapped Jan ETF,AllianzIM U.S. Equity Buffer15 Uncapped Jan ETF,Z,JANU,Y,100.0,N,JANU
-JANW,AllianzIM U.S. Large Cap Buffer20 Jan ETF,AllianzIM U.S. Large Cap Buffer20 Jan ETF,P,JANW,Y,100.0,N,JANW
+JANW,AllianzIM U.S. Large Cap Buffer20 Jan ETF,AllianzIM U.S. Large Cap Buffer20 Jan ETF,Z,JANW,Y,100.0,N,JANW
 JANZ,TrueShares Structured Outcome (January) ETF,TrueShares Structured Outcome (January) ETF,Z,JANZ,Y,100.0,N,JANZ
 JAVA,JPMorgan Active Value ETF,JPMorgan Active Value ETF,P,JAVA,Y,100.0,N,JAVA
 JBBB,Janus Henderson B,Janus Henderson B-BBB CLO ETF,Z,JBBB,Y,100.0,N,JBBB
@@ -3467,14 +3470,14 @@ JULH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrie
 JULJ,Innovator Premium Income 30 Barrier ETF ,Innovator Premium Income 30 Barrier ETF - July,Z,JULJ,Y,100.0,N,JULJ
 JULM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - July,Z,JULM,Y,100.0,N,JULM
 JULP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - July,Z,JULP,Y,100.0,N,JULP
-JULT,AllianzIM U.S. Large Cap Buffer10 Jul ETF,AllianzIM U.S. Large Cap Buffer10 Jul ETF,P,JULT,Y,100.0,N,JULT
+JULT,AllianzIM U.S. Large Cap Buffer10 Jul ETF,AllianzIM U.S. Large Cap Buffer10 Jul ETF,Z,JULT,Y,100.0,N,JULT
 JULU,AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF,AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF,Z,JULU,Y,100.0,N,JULU
-JULW,AllianzIM U.S. Large Cap Buffer20 Jul ETF,AllianzIM U.S. Large Cap Buffer20 Jul ETF,P,JULW,Y,100.0,N,JULW
+JULW,AllianzIM U.S. Large Cap Buffer20 Jul ETF,AllianzIM U.S. Large Cap Buffer20 Jul ETF,Z,JULW,Y,100.0,N,JULW
 JULZ,TrueShares Structured Outcome (July) ETF,TrueShares Structured Outcome (July) ETF,Z,JULZ,Y,100.0,N,JULZ
 JUNM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - June,Z,JUNM,Y,100.0,N,JUNM
 JUNP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - June,Z,JUNP,Y,100.0,N,JUNP
-JUNT,AllianzIM U.S. Large Cap Buffer10 Jun ETF,AllianzIM U.S. Large Cap Buffer10 Jun ETF,P,JUNT,Y,100.0,N,JUNT
-JUNW,AllianzIM U.S. Large Cap Buffer20 Jun ETF,AllianzIM U.S. Large Cap Buffer20 Jun ETF,P,JUNW,Y,100.0,N,JUNW
+JUNT,AllianzIM U.S. Large Cap Buffer10 Jun ETF,AllianzIM U.S. Large Cap Buffer10 Jun ETF,Z,JUNT,Y,100.0,N,JUNT
+JUNW,AllianzIM U.S. Large Cap Buffer20 Jun ETF,AllianzIM U.S. Large Cap Buffer20 Jun ETF,Z,JUNW,Y,100.0,N,JUNW
 JUNZ,TrueShares Structured Outcome (June) ETF,TrueShares Structured Outcome (June) ETF,Z,JUNZ,Y,100.0,N,JUNZ
 JUSA,JPMorgan U.S. Research Enhanced Large Cap ETF,JPMorgan U.S. Research Enhanced Large Cap ETF,P,JUSA,Y,100.0,N,JUSA
 JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF,Goldman Sachs JUST U.S. Large Cap Equity ETF,P,JUST,Y,100.0,N,JUST
@@ -3821,9 +3824,9 @@ MAPP,Harbor Multi,Harbor Multi-Asset Explorer ETF,P,MAPP,Y,100.0,N,MAPP
 MARB,First Trust Merger Arbitrage ETF,First Trust Merger Arbitrage ETF,P,MARB,Y,100.0,N,MARB
 MARM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - March,Z,MARM,Y,100.0,N,MARM
 MARO,YieldMax MARA Option Income Strategy ETF,YieldMax MARA Option Income Strategy ETF,P,MARO,Y,100.0,N,MARO
-MART,AllianzIM U.S. Large Cap Buffer10 Mar ETF,AllianzIM U.S. Large Cap Buffer10 Mar ETF,P,MART,Y,100.0,N,MART
+MART,AllianzIM U.S. Large Cap Buffer10 Mar ETF,AllianzIM U.S. Large Cap Buffer10 Mar ETF,Z,MART,Y,100.0,N,MART
 MARU,AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF,AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF,Z,MARU,Y,100.0,N,MARU
-MARW,AllianzIM U.S. Large Cap Buffer20 Mar ETF,AllianzIM U.S. Large Cap Buffer20 Mar ETF,P,MARW,Y,100.0,N,MARW
+MARW,AllianzIM U.S. Large Cap Buffer20 Mar ETF,AllianzIM U.S. Large Cap Buffer20 Mar ETF,Z,MARW,Y,100.0,N,MARW
 MARZ,TrueShares Structured Outcome (March) ETF,TrueShares Structured Outcome (March) ETF,Z,MARZ,Y,100.0,N,MARZ
 MAS,Masco Corporation Common Stock,Masco Corporation Common Stock,N,MAS,N,100.0,N,MAS
 MATV,"Mativ Holdings, Inc. Common Stock","Mativ Holdings, Inc. Common Stock",N,MATV,N,100.0,N,MATV
@@ -3833,9 +3836,9 @@ MAX,"MediaAlpha, Inc. Class A Common Stock","MediaAlpha, Inc. Class A Common Sto
 MAXJ,iShares Large Cap Max Buffer Jun ETF,iShares Large Cap Max Buffer Jun ETF,Z,MAXJ,Y,100.0,N,MAXJ
 MAYM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - May,Z,MAYM,Y,100.0,N,MAYM
 MAYP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - May,Z,MAYP,Y,100.0,N,MAYP
-MAYT,AllianzIM U.S. Large Cap Buffer10 May ETF,AllianzIM U.S. Large Cap Buffer10 May ETF,P,MAYT,Y,100.0,N,MAYT
+MAYT,AllianzIM U.S. Large Cap Buffer10 May ETF,AllianzIM U.S. Large Cap Buffer10 May ETF,Z,MAYT,Y,100.0,N,MAYT
 MAYU,AllianzIM U.S. Equity Buffer15 Uncapped May ETF,AllianzIM U.S. Equity Buffer15 Uncapped May ETF,Z,MAYU,Y,100.0,N,MAYU
-MAYW,AllianzIM U.S. Large Cap Buffer20 May ETF,AllianzIM U.S. Large Cap Buffer20 May ETF,P,MAYW,Y,100.0,N,MAYW
+MAYW,AllianzIM U.S. Large Cap Buffer20 May ETF,AllianzIM U.S. Large Cap Buffer20 May ETF,Z,MAYW,Y,100.0,N,MAYW
 MAYZ,TrueShares Structured Outcome (May) ETF,TrueShares Structured Outcome (May) ETF,Z,MAYZ,Y,100.0,N,MAYZ
 MBBB,VanEck Moody's Analytics BBB Corporate Bond ETF,VanEck Moody's Analytics BBB Corporate Bond ETF,Z,MBBB,Y,100.0,N,MBBB
 MBC,"MasterBrand, Inc. Common Stock","MasterBrand, Inc. Common Stock",N,MBC,N,100.0,N,MBC
@@ -4027,7 +4030,6 @@ MPLX,MPLX LP Common Units Representing Limited Partner Interests,MPLX LP Common 
 MPLY,Monopoly ETF,Monopoly ETF,Z,MPLY,Y,100.0,N,MPLY
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
 MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
-MPTI.W,M,"M-tron Industries, Inc. Warrants to Purchase Shares of Common Stock, Expiring on or before April 25, 2028",A,MPTI.WS,N,100.0,N,MPTI+
 MPU,Mega Matrix Inc. Class A Ordinary Shares,Mega Matrix Inc. Class A Ordinary Shares,A,MPU,N,100.0,N,MPU
 MPV,Barings Participation Investors Common Stock,Barings Participation Investors Common Stock,N,MPV,N,100.0,N,MPV
 MPW,"Medical Properties Trust, Inc. common stock","Medical Properties Trust, Inc. common stock",N,MPW,N,100.0,N,MPW
@@ -4378,9 +4380,9 @@ NUV,"Nuveen Municipal Value Fund, Inc. Common Stock","Nuveen Municipal Value Fun
 NUVB,Nuvation Bio Inc. Class A Common Stock,Nuvation Bio Inc. Class A Common Stock,N,NUVB,N,100.0,N,NUVB
 NUVB.W,Nuvation Bio Inc. Warrants,Nuvation Bio Inc. Warrants,N,NUVB.WS,N,100.0,N,NUVB+
 NUW,Nuveen AMT,Nuveen AMT-Free Municipal Value Fund,N,NUW,N,100.0,N,NUW
-NVBT,AllianzIM U.S. Large Cap Buffer10 Nov ETF,AllianzIM U.S. Large Cap Buffer10 Nov ETF,P,NVBT,Y,100.0,N,NVBT
+NVBT,AllianzIM U.S. Large Cap Buffer10 Nov ETF,AllianzIM U.S. Large Cap Buffer10 Nov ETF,Z,NVBT,Y,100.0,N,NVBT
 NVBU,AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF,AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF,Z,NVBU,Y,100.0,N,NVBU
-NVBW,AllianzIM U.S. Large Cap Buffer20 Nov ETF,AllianzIM U.S. Large Cap Buffer20 Nov ETF,P,NVBW,Y,100.0,N,NVBW
+NVBW,AllianzIM U.S. Large Cap Buffer20 Nov ETF,AllianzIM U.S. Large Cap Buffer20 Nov ETF,Z,NVBW,Y,100.0,N,NVBW
 NVDB,ProShares Ultra NVDA,ProShares Ultra NVDA,P,NVDB,Y,100.0,N,NVDB
 NVDO,Leverage Shares 2x Capped Accelerated NVDA Monthly ETF,Leverage Shares 2x Capped Accelerated NVDA Monthly ETF,Z,NVDO,Y,100.0,N,NVDO
 NVDQ,T,T-Rex 2X Inverse NVIDIA Daily Target ETF,Z,NVDQ,Y,100.0,N,NVDQ
@@ -4449,9 +4451,9 @@ OCTH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrie
 OCTJ,Innovator Premium Income 30 Barrier ETF ,Innovator Premium Income 30 Barrier ETF - October,Z,OCTJ,Y,100.0,N,OCTJ
 OCTM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - October,Z,OCTM,Y,100.0,N,OCTM
 OCTP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - October,Z,OCTP,Y,100.0,N,OCTP
-OCTT,AllianzIM U.S. Large Cap Buffer10 Oct ETF,AllianzIM U.S. Large Cap Buffer10 Oct ETF,P,OCTT,Y,100.0,N,OCTT
+OCTT,AllianzIM U.S. Large Cap Buffer10 Oct ETF,AllianzIM U.S. Large Cap Buffer10 Oct ETF,Z,OCTT,Y,100.0,N,OCTT
 OCTU,AllianzIM U.S. Equity Buffer15 Uncapped Oct ETF,AllianzIM U.S. Equity Buffer15 Uncapped Oct ETF,Z,OCTU,Y,100.0,N,OCTU
-OCTW,AllianzIM U.S. Large Cap Buffer20 Oct ETF,AllianzIM U.S. Large Cap Buffer20 Oct ETF,P,OCTW,Y,100.0,N,OCTW
+OCTW,AllianzIM U.S. Large Cap Buffer20 Oct ETF,AllianzIM U.S. Large Cap Buffer20 Oct ETF,Z,OCTW,Y,100.0,N,OCTW
 OCTZ,TrueShares Structured Outcome (October) ETF,TrueShares Structured Outcome (October) ETF,Z,OCTZ,Y,100.0,N,OCTZ
 ODC,Oil,Oil-Dri Corporation Of America Common Stock,N,ODC,N,100.0,N,ODC
 ODHY,Obra Defensive High Yield ETF,Obra Defensive High Yield ETF,P,ODHY,Y,100.0,N,ODHY
@@ -4963,7 +4965,6 @@ QCAP,FT Vest Nasdaq,FT Vest Nasdaq-100 Conservative Buffer ETF - April,Z,QCAP,Y,
 QCJA,FT Vest Nasdaq,FT Vest Nasdaq-100 Conservative Buffer ETF - January,Z,QCJA,Y,100.0,N,QCJA
 QCJL,FT Vest Nasdaq,FT Vest Nasdaq-100 Conservative Buffer ETF - July,Z,QCJL,Y,100.0,N,QCJL
 QCOC,FT Vest Nasdaq,FT Vest Nasdaq-100 Conservative Buffer ETF - October,Z,QCOC,Y,100.0,N,QCOC
-QD,"Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share","Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share",N,QD,N,100.0,N,QD
 QDEC,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - December,Z,QDEC,Y,100.0,N,QDEC
 QDEF,FlexShares Quality Dividend Defensive Index Fund,FlexShares Quality Dividend Defensive Index Fund,P,QDEF,Y,100.0,N,QDEF
 QDF,FlexShares Quality Dividend Index Fund,FlexShares Quality Dividend Index Fund,P,QDF,Y,100.0,N,QDF
@@ -5046,8 +5047,6 @@ RAFE,PIMCO RAFI ESG U.S. ETF,PIMCO RAFI ESG U.S. ETF,P,RAFE,Y,100.0,N,RAFE
 RAL,Ralliant Corporation Common Stock,Ralliant Corporation Common Stock,N,RAL,N,100.0,N,RAL
 RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stock",N,RAMP,N,100.0,N,RAMP
 RAVI,FlexShares Ultra,FlexShares Ultra-Short Income Fund,P,RAVI,Y,100.0,N,RAVI
-RAYD,Rayliant Quantitative Developed Market Equity ETF,Rayliant Quantitative Developed Market Equity ETF,P,RAYD,Y,100.0,N,RAYD
-RAYE,Rayliant Quantamental Emerging Market ex,Rayliant Quantamental Emerging Market ex-China Equity ETF,P,RAYE,Y,100.0,N,RAYE
 RAYJ,Rayliant SMDAM Japan Equity ETF,Rayliant SMDAM Japan Equity ETF,P,RAYJ,Y,100.0,N,RAYJ
 RB,ProShares Russell 2000 Dynamic Buffer ETF,ProShares Russell 2000 Dynamic Buffer ETF,Z,RB,Y,100.0,N,RB
 RBA,"RB Global, Inc. Common Stock","RB Global, Inc. Common Stock",N,RBA,N,100.0,N,RBA
@@ -5263,9 +5262,11 @@ RVRB,Reverb ETF,Reverb ETF,Z,RVRB,Y,100.0,N,RVRB
 RVT,Royce Small,"Royce Small-Cap Trust, Inc. Common Stock",N,RVT,N,100.0,N,RVT
 RVTY,"Revvity, Inc. Common Stock","Revvity, Inc. Common Stock",N,RVTY,N,100.0,N,RVTY
 RW,Rainwater Equity ETF,Rainwater Equity ETF,P,RW,Y,100.0,N,RW
+RWEM,Rayliant Wilshire NxtGen Emerging Markets Equity ETF,Rayliant Wilshire NxtGen Emerging Markets Equity ETF,P,RWEM,Y,100.0,N,RWEM
 RWJ,Invesco S&P SmallCap 600 Revenue ETF,Invesco S&P SmallCap 600 Revenue ETF,P,RWJ,Y,100.0,N,RWJ
 RWK,Invesco S&P MidCap 400 Revenue ETF,Invesco S&P MidCap 400 Revenue ETF,P,RWK,Y,100.0,N,RWK
 RWL,Invesco S&P 500 Revenue ETF,Invesco S&P 500 Revenue ETF,P,RWL,Y,100.0,N,RWL
+RWLC,Rayliant Wilshire NxtGen US Large Cap Equity ETF,Rayliant Wilshire NxtGen US Large Cap Equity ETF,P,RWLC,Y,100.0,N,RWLC
 RWM,ProShares Short Russell2000,ProShares Short Russell2000,P,RWM,Y,100.0,N,RWM
 RWO,SPDR DJ Wilshire Global Real Estate ETF,SPDR DJ Wilshire Global Real Estate ETF,P,RWO,Y,100.0,N,RWO
 RWR,State Street SPDR Dow Jones REIT ETF,State Street SPDR Dow Jones REIT ETF,P,RWR,Y,100.0,N,RWR
@@ -5435,9 +5436,9 @@ SEMR,"SEMrush Holdings, Inc. Class A Common Stock","SEMrush Holdings, Inc. Class
 SEPI,Shelton Equity Premium Income ETF,Shelton Equity Premium Income ETF,P,SEPI,Y,100.0,N,SEPI
 SEPM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - September,Z,SEPM,Y,100.0,N,SEPM
 SEPP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - September,Z,SEPP,Y,100.0,N,SEPP
-SEPT,AllianzIM U.S. Large Cap Buffer10 Sep ETF,AllianzIM U.S. Large Cap Buffer10 Sep ETF,P,SEPT,Y,100.0,N,SEPT
+SEPT,AllianzIM U.S. Large Cap Buffer10 Sep ETF,AllianzIM U.S. Large Cap Buffer10 Sep ETF,Z,SEPT,Y,100.0,N,SEPT
 SEPU,AllianzIM U.S. Equity Buffer15 Uncapped Sep ETF,AllianzIM U.S. Equity Buffer15 Uncapped Sep ETF,Z,SEPU,Y,100.0,N,SEPU
-SEPW,AllianzIM U.S. Large Cap Buffer20 Sep ETF,AllianzIM U.S. Large Cap Buffer20 Sep ETF,P,SEPW,Y,100.0,N,SEPW
+SEPW,AllianzIM U.S. Large Cap Buffer20 Sep ETF,AllianzIM U.S. Large Cap Buffer20 Sep ETF,Z,SEPW,Y,100.0,N,SEPW
 SEPZ,TrueShares Structured Outcome (September) ETF,TrueShares Structured Outcome (September) ETF,Z,SEPZ,Y,100.0,N,SEPZ
 SER,"Serina Therapeutics, Inc. Common Stock","Serina Therapeutics, Inc. Common Stock",A,SER,N,100.0,N,SER
 SES,SES AI Corporation Class A Common Stock,SES AI Corporation Class A Common Stock,N,SES,N,100.0,N,SES
@@ -5513,15 +5514,15 @@ SITC,SITE Centers Corp. Common Stock,SITE Centers Corp. Common Stock,N,SITC,N,10
 SITE,"SiteOne Landscape Supply, Inc. Common Stock","SiteOne Landscape Supply, Inc. Common Stock",N,SITE,N,100.0,N,SITE
 SIVR,abrdn Physical Silver Shares ETF,abrdn Physical Silver Shares ETF,P,SIVR,Y,100.0,N,SIVR
 SIXA,ETC 6 Meridian Mega Cap Equity ETF,ETC 6 Meridian Mega Cap Equity ETF,P,SIXA,Y,100.0,N,SIXA
-SIXD,AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF,P,SIXD,Y,100.0,N,SIXD
-SIXF,AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF,P,SIXF,Y,100.0,N,SIXF
+SIXD,AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF,Z,SIXD,Y,100.0,N,SIXD
+SIXF,AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF,Z,SIXF,Y,100.0,N,SIXF
 SIXH,ETC 6 Meridian Hedged Equity Index Option ETF,ETC 6 Meridian Hedged Equity Index Option ETF,P,SIXH,Y,100.0,N,SIXH
-SIXJ,AllianzIM U.S. Large Cap 6 Month Buffer10 Jan/Jul ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Jan/Jul ETF,P,SIXJ,Y,100.0,N,SIXJ
+SIXJ,AllianzIM U.S. Large Cap 6 Month Buffer10 Jan/Jul ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Jan/Jul ETF,Z,SIXJ,Y,100.0,N,SIXJ
 SIXL,ETC 6 Meridian Low Beta Equity ETF,ETC 6 Meridian Low Beta Equity ETF,P,SIXL,Y,100.0,N,SIXL
-SIXO,AllianzIM U.S. Large Cap 6 Month Buffer10 Apr/Oct ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Apr/Oct ETF,P,SIXO,Y,100.0,N,SIXO
-SIXP,AllianzIM U.S. Large Cap 6 Month Buffer10 Mar/Sep ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Mar/Sep ETF,P,SIXP,Y,100.0,N,SIXP
+SIXO,AllianzIM U.S. Large Cap 6 Month Buffer10 Apr/Oct ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Apr/Oct ETF,Z,SIXO,Y,100.0,N,SIXO
+SIXP,AllianzIM U.S. Large Cap 6 Month Buffer10 Mar/Sep ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Mar/Sep ETF,Z,SIXP,Y,100.0,N,SIXP
 SIXS,ETC 6 Meridian Small Cap Equity ETF,ETC 6 Meridian Small Cap Equity ETF,P,SIXS,Y,100.0,N,SIXS
-SIXZ,AllianzIM U.S. Large Cap 6 Month Buffer10 May/Nov ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 May/Nov ETF,P,SIXZ,Y,100.0,N,SIXZ
+SIXZ,AllianzIM U.S. Large Cap 6 Month Buffer10 May/Nov ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 May/Nov ETF,Z,SIXZ,Y,100.0,N,SIXZ
 SIZE,iShares MSCI USA Size Factor ETF,iShares MSCI USA Size Factor ETF,P,SIZE,Y,100.0,N,SIZE
 SJB,ProShares Short High Yield,ProShares Short High Yield,P,SJB,Y,100.0,N,SJB
 SJM,The J.M. Smucker Company Common Stock,The J.M. Smucker Company Common Stock,N,SJM,N,100.0,N,SJM
@@ -5648,8 +5649,8 @@ SPAB,State Street SPDR Portfolio Aggregate Bond ETF,State Street SPDR Portfolio 
 SPB,"Spectrum Brands Holdings, Inc. Common Stock","Spectrum Brands Holdings, Inc. Common Stock",N,SPB,N,100.0,N,SPB
 SPBO,State Street SPDR Portfolio Corporate Bond ETF,State Street SPDR Portfolio Corporate Bond ETF,P,SPBO,Y,100.0,N,SPBO
 SPBU,AllianzIM Buffer15 Uncapped Allocation ETF,AllianzIM Buffer15 Uncapped Allocation ETF,Z,SPBU,Y,100.0,N,SPBU
-SPBW,AllianzIM Buffer20 Allocation ETF,AllianzIM Buffer20 Allocation ETF,P,SPBW,Y,100.0,N,SPBW
-SPBX,AllianzIM 6 Month Buffer10 Allocation ETF,AllianzIM 6 Month Buffer10 Allocation ETF,P,SPBX,Y,100.0,N,SPBX
+SPBW,AllianzIM Buffer20 Allocation ETF,AllianzIM Buffer20 Allocation ETF,Z,SPBW,Y,100.0,N,SPBW
+SPBX,AllianzIM 6 Month Buffer10 Allocation ETF,AllianzIM 6 Month Buffer10 Allocation ETF,Z,SPBX,Y,100.0,N,SPBX
 SPCE,"Virgin Galactic Holdings, Inc. Common Stock","Virgin Galactic Holdings, Inc. Common Stock",N,SPCE,N,100.0,N,SPCE
 SPCZ,RiverNorth Enhanced Pre,RiverNorth Enhanced Pre-Merger SPAC ETF,Z,SPCZ,Y,100.0,N,SPCZ
 SPD,Simplify US Equity PLUS Downside Convexity ETF,Simplify US Equity PLUS Downside Convexity ETF,P,SPD,Y,100.0,N,SPD
@@ -6325,7 +6326,6 @@ UVV,Universal Corporation Common Stock,Universal Corporation Common Stock,N,UVV,
 UVXY,ProShares Ultra VIX Short Term Futures ETF,ProShares Ultra VIX Short Term Futures ETF,Z,UVXY,Y,100.0,N,UVXY
 UWM,ProShares Ultra Russell2000,ProShares Ultra Russell2000,P,UWM,Y,100.0,N,UWM
 UWMC,UWM Holdings Corporation Class A Common Stock,UWM Holdings Corporation Class A Common Stock,N,UWMC,N,100.0,N,UWMC
-UWMC.W,UWM Holdings Corporation Warrant,UWM Holdings Corporation Warrant,N,UWMC.WS,N,100.0,N,UWMC+
 UX,Roundhill Uranium ETF,Roundhill Uranium ETF,Z,UX,Y,100.0,N,UX
 UXAP,FT Vest U.S. Equity Uncapped Accelerator ETF ,FT Vest U.S. Equity Uncapped Accelerator ETF - April,Z,UXAP,Y,100.0,N,UXAP
 UXI,ProShares Ultra Industrials,ProShares Ultra Industrials,P,UXI,Y,100.0,N,UXI
@@ -6849,7 +6849,6 @@ ZIP,"ZipRecruiter, Inc. Class A Common Stock","ZipRecruiter, Inc. Class A Common
 ZJAN,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr January,Z,ZJAN,Y,100.0,N,ZJAN
 ZJUL,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr July,Z,ZJUL,Y,100.0,N,ZJUL
 ZJUN,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr June,Z,ZJUN,Y,100.0,N,ZJUN
-ZK,ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares),ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares),N,ZK,N,100.0,N,ZK
 ZKH,"ZKH Group Limited American Depositary Shares, each representing thirty","ZKH Group Limited American Depositary Shares, each representing thirty-five (35) Class A Ordinary Shares",N,ZKH,N,100.0,N,ZKH
 ZMAR,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr March,Z,ZMAR,Y,100.0,N,ZMAR
 ZMAY,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr May,Z,ZMAY,Y,100.0,N,ZMAY
