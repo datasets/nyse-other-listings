@@ -272,6 +272,7 @@ AON,Aon plc Class A Ordinary Shares (Ireland),Aon plc Class A Ordinary Shares (I
 AOR,iShares Core 60/40 Balanced Allocation ETF,iShares Core 60/40 Balanced Allocation ETF,P,AOR,Y,100.0,N,AOR
 AORT,"Artivion, Inc. Common Stock","Artivion, Inc. Common Stock",N,AORT,N,100.0,N,AORT
 AOS,A.O. Smith Corporation Common Stock,A.O. Smith Corporation Common Stock,N,AOS,N,100.0,N,AOS
+AOTS,AOT Software Platform ETF,AOT Software Platform ETF,P,AOTS,Y,100.0,N,AOTS
 AP,Ampco,Ampco-Pittsburgh Corporation Common Stock,N,AP,N,100.0,N,AP
 APAM,Artisan Partners Asset Management Inc. Class A Common Stock,Artisan Partners Asset Management Inc. Class A Common Stock,N,APAM,N,100.0,N,APAM
 APCB,ActivePassive Core Bond ETF,ActivePassive Core Bond ETF,P,APCB,Y,100.0,N,APCB
@@ -4726,6 +4727,7 @@ PHYL,PGIM Active High Yield Bond ETF,PGIM Active High Yield Bond ETF,P,PHYL,Y,10
 PHYS,Sprott Physical Gold Trust ETV,Sprott Physical Gold Trust ETV,P,PHYS,Y,100.0,N,PHYS
 PICB,Invesco International Corporate Bond ETF,Invesco International Corporate Bond ETF,P,PICB,Y,100.0,N,PICB
 PICK,iShares MSCI Global Select Metals & Mining Producers Fund,iShares MSCI Global Select Metals & Mining Producers Fund,Z,PICK,Y,100.0,N,PICK
+PIEL,Pacer International Export Leaders ETF,Pacer International Export Leaders ETF,Z,PIEL,Y,100.0,N,PIEL
 PIEQ,Principal International Equity ETF,Principal International Equity ETF,Z,PIEQ,Y,100.0,N,PIEQ
 PIFI,ClearShares Piton Intermediate Fixed Income ETF,ClearShares Piton Intermediate Fixed Income ETF,P,PIFI,Y,100.0,N,PIFI
 PII,Polaris Inc. Common Stock,Polaris Inc. Common Stock,N,PII,N,100.0,N,PII
@@ -5004,7 +5006,6 @@ QQH,HCM Defender 100 Index ETF,HCM Defender 100 Index ETF,P,QQH,Y,100.0,N,QQH
 QQQD,Direxion Daily Magnificent 7 Bear 1X Shares,Direxion Daily Magnificent 7 Bear 1X Shares,P,QQQD,Y,100.0,N,QQQD
 QQQU,Direxion Daily Magnificent 7 Bull 2X Shares,Direxion Daily Magnificent 7 Bull 2X Shares,P,QQQU,Y,100.0,N,QQQU
 QRFT,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap ETF,P,QRFT,Y,100.0,N,QRFT
-QS,QuantumScape Corporation Class A Common Stock,QuantumScape Corporation Class A Common Stock,N,QS,N,100.0,N,QS
 QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,WisdomTree U.S. Short Term Corporate Bond Fund,Z,QSIG,Y,100.0,N,QSIG
 QSOL,Invesco Galaxy Solana ETF,Invesco Galaxy Solana ETF,Z,QSOL,Y,100.0,N,QSOL
 QSPT,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - September,Z,QSPT,Y,100.0,N,QSPT
@@ -5769,6 +5770,7 @@ ST,Sensata Technologies Holding plc Ordinary Shares,Sensata Technologies Holding
 STAG,"Stag Industrial, Inc. Common Stock","Stag Industrial, Inc. Common Stock",N,STAG,N,100.0,N,STAG
 STAX,Nomura Tax,Nomura Tax-Free USA Short Term ETF,P,STAX,Y,100.0,N,STAX
 STBF,Performance Trust Short Term Bond ETF,Performance Trust Short Term Bond ETF,Z,STBF,Y,100.0,N,STBF
+STBQ,Amplify Stablecoin Technology ETF,Amplify Stablecoin Technology ETF,P,STBQ,Y,100.0,N,STBQ
 STC,Stewart Information Services Corporation Common Stock,Stewart Information Services Corporation Common Stock,N,STC,N,100.0,N,STC
 STCE,Schwab Crypto Thematic ETF,Schwab Crypto Thematic ETF,P,STCE,Y,100.0,N,STCE
 STE,STERIS plc (Ireland) Ordinary Shares,STERIS plc (Ireland) Ordinary Shares,N,STE,N,100.0,N,STE
@@ -6009,6 +6011,7 @@ TJUN,FT Vest Emerging Markets Buffer ETF ,FT Vest Emerging Markets Buffer ETF - 
 TJX,"TJX Companies, Inc. (The) Common Stock","TJX Companies, Inc. (The) Common Stock",N,TJX,N,100.0,N,TJX
 TK,Teekay Corporation Ltd. Common Stock,Teekay Corporation Ltd. Common Stock,N,TK,N,100.0,N,TK
 TKC,Turkcell Iletisim Hizmetleri AS Common Stock,Turkcell Iletisim Hizmetleri AS Common Stock,N,TKC,N,100.0,N,TKC
+TKNQ,Amplify Tokenization Technology ETF,Amplify Tokenization Technology ETF,P,TKNQ,Y,100.0,N,TKNQ
 TKO,"TKO Group Holdings, Inc. Class A Common Stock","TKO Group Holdings, Inc. Class A Common Stock",N,TKO,N,100.0,N,TKO
 TKR,Timken Company (The) Common Stock,Timken Company (The) Common Stock,N,TKR,N,100.0,N,TKR
 TLCI,Touchstone International Equity ETF,Touchstone International Equity ETF,P,TLCI,Y,100.0,N,TLCI
@@ -6036,6 +6039,7 @@ TMFS,Motley Fool Small,Motley Fool Small-Cap Growth ETF,Z,TMFS,Y,100.0,N,TMFS
 TMFX,Motley Fool Next Index ETF,Motley Fool Next Index ETF,Z,TMFX,Y,100.0,N,TMFX
 TMH,Toyota Motor Corporation ADRhedged,Toyota Motor Corporation ADRhedged,P,TMH,Y,100.0,N,TMH
 TMHC,Taylor Morrison Home Corporation Common Stock,Taylor Morrison Home Corporation Common Stock,N,TMHC,N,100.0,N,TMHC
+TMLP,Tortoise MLP ETF,Tortoise MLP ETF,P,TMLP,Y,100.0,N,TMLP
 TMO,Thermo Fisher Scientific Inc Common Stock,Thermo Fisher Scientific Inc Common Stock,N,TMO,N,40.0,N,TMO
 TMP,Tompkins Financial Corporation Common Stock,Tompkins Financial Corporation Common Stock,A,TMP,N,100.0,N,TMP
 TMQ,Trilogy Metals Inc. Common Stock,Trilogy Metals Inc. Common Stock,A,TMQ,N,100.0,N,TMQ
@@ -6393,6 +6397,7 @@ VGI,Virtus Global Multi,Virtus Global Multi-Sector Income Fund Common Shares of 
 VGK,Vanguard FTSEEuropean ETF,Vanguard FTSEEuropean ETF,P,VGK,Y,100.0,N,VGK
 VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),Invesco Trust for Investment Grade Municipals Common Stock (DE),N,VGM,N,100.0,N,VGM
 VGMS,Vanguard Multi,Vanguard Multi-Sector Income Bond ETF,Z,VGMS,Y,100.0,N,VGMS
+VGRO,Virtus Silvant Growth Opportunities ETF,Virtus Silvant Growth Opportunities ETF,P,VGRO,Y,100.0,N,VGRO
 VGT,Vanguard Information Tech ETF,Vanguard Information Tech ETF,P,VGT,Y,40.0,N,VGT
 VGVT,Vanguard Government Securities Active ETF,Vanguard Government Securities Active ETF,P,VGVT,Y,100.0,N,VGVT
 VGZ,Vista Gold Corp Common Stock,Vista Gold Corp Common Stock,A,VGZ,N,100.0,N,VGZ
@@ -6665,6 +6670,7 @@ XDQQ,Innovator Growth Accelerated ETF ,Innovator Growth Accelerated ETF - Quarte
 XDSQ,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - Quarterly,Z,XDSQ,Y,100.0,N,XDSQ
 XDTE,Roundhill S&P 500 0DTE Covered Call Strategy ETF,Roundhill S&P 500 0DTE Covered Call Strategy ETF,Z,XDTE,Y,100.0,N,XDTE
 XEMD,BondBloxx JP Morgan USD Emerging Markets 1,BondBloxx JP Morgan USD Emerging Markets 1-10 Year Bond ETF,Z,XEMD,Y,100.0,N,XEMD
+XEML,Xtrackers Europe Market Leaders ETF,Xtrackers Europe Market Leaders ETF,Z,XEML,Y,100.0,N,XEML
 XES,State Street SPDR S&P Oil & Gas Equipment & Services ETF,State Street SPDR S&P Oil & Gas Equipment & Services ETF,P,XES,Y,100.0,N,XES
 XFEB,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - February,Z,XFEB,Y,100.0,N,XFEB
 XFIV,BondBloxx Bloomberg Five Year Target Duration US Treasury ETF,BondBloxx Bloomberg Five Year Target Duration US Treasury ETF,P,XFIV,Y,100.0,N,XFIV
