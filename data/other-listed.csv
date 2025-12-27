@@ -444,7 +444,6 @@ AVUS,Avantis U.S. Equity ETF,Avantis U.S. Equity ETF,P,AVUS,Y,100.0,N,AVUS
 AVUV,Avantis U.S. Small Cap Value ETF,Avantis U.S. Small Cap Value ETF,P,AVUV,Y,100.0,N,AVUV
 AVY,Avery Dennison Corporation Common Stock,Avery Dennison Corporation Common Stock,N,AVY,N,100.0,N,AVY
 AWAY,Amplify Travel Tech ETF,Amplify Travel Tech ETF,P,AWAY,Y,100.0,N,AWAY
-AWEG,Alger Weatherbie Enduring Growth ETF,Alger Weatherbie Enduring Growth ETF,P,AWEG,Y,100.0,N,AWEG
 AWF,Alliancebernstein Global High Income Fund,Alliancebernstein Global High Income Fund,N,AWF,N,100.0,N,AWF
 AWI,Armstrong World Industries Inc Common Stock,Armstrong World Industries Inc Common Stock,N,AWI,N,100.0,N,AWI
 AWK,"American Water Works Company, Inc. Common Stock","American Water Works Company, Inc. Common Stock",N,AWK,N,100.0,N,AWK
@@ -1851,7 +1850,6 @@ ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),Ellomay Capital Ltd Ordinary S
 ELM,Elm Market Navigator ETF,Elm Market Navigator ETF,P,ELM,Y,100.0,N,ELM
 ELMD,"Electromed, Inc. Common Stock","Electromed, Inc. Common Stock",A,ELMD,N,100.0,N,ELMD
 ELME,Elme Communities Common Stock,Elme Communities Common Stock,N,ELME,N,100.0,N,ELME
-ELP,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares),Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares),N,ELP,N,100.0,N,ELP
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),N,ELPC,N,100.0,N,ELPC
 ELS,"Equity Lifestyle Properties, Inc. Common Stock","Equity Lifestyle Properties, Inc. Common Stock",N,ELS,N,100.0,N,ELS
 ELV,"Elevance Health, Inc. Common Stock","Elevance Health, Inc. Common Stock",N,ELV,N,40.0,N,ELV
@@ -3491,7 +3489,6 @@ KAI,Kadant Inc Common Stock,Kadant Inc Common Stock,N,KAI,N,40.0,N,KAI
 KAMO,Kensington Credit Opportunities ETF,Kensington Credit Opportunities ETF,Z,KAMO,Y,100.0,N,KAMO
 KAPA,"Kairos Pharma, Ltd. Common Stock","Kairos Pharma, Ltd. Common Stock",A,KAPA,N,100.0,N,KAPA
 KAPR,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - April,Z,KAPR,Y,100.0,N,KAPR
-KAR,"OPENLANE, Inc. Common Stock","OPENLANE, Inc. Common Stock",N,KAR,N,100.0,N,KAR
 KARS,KraneShares Electric Vehicles and Future Mobility Index ETF,KraneShares Electric Vehicles and Future Mobility Index ETF,P,KARS,Y,100.0,N,KARS
 KAUG,Innovator US Small Cap Power Buffer ETF ,Innovator US Small Cap Power Buffer ETF - August,Z,KAUG,Y,100.0,N,KAUG
 KB,KB Financial Group Inc,KB Financial Group Inc,N,KB,N,100.0,N,KB
@@ -3955,13 +3952,13 @@ MINT,PIMCO Enhanced Short Maturity Active Exchange,PIMCO Enhanced Short Maturity
 MINV,Matthews Asia Innovators Active ETF,Matthews Asia Innovators Active ETF,P,MINV,Y,100.0,N,MINV
 MIR,"Mirion Technologies, Inc. Class A Common Stock","Mirion Technologies, Inc. Class A Common Stock",N,MIR,N,100.0,N,MIR
 MISL,First Trust Indxx Aerospace & Defense ETF,First Trust Indxx Aerospace & Defense ETF,P,MISL,Y,100.0,N,MISL
-MITN,"AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029","AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",N,MITN,N,100.0,N,MITN
-MITP,"AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029","AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",N,MITP,N,100.0,N,MITP
+MITN,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029","TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",N,MITN,N,100.0,N,MITN
+MITP,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029","TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",N,MITP,N,100.0,N,MITP
 MITQ,"Moving iMage Technologies, Inc. Common Stock","Moving iMage Technologies, Inc. Common Stock",A,MITQ,N,100.0,N,MITQ
-MITT,"AG Mortgage Investment Trust, Inc. Common Stock","AG Mortgage Investment Trust, Inc. Common Stock",N,MITT,N,100.0,N,MITT
-MITT$A,"AG Mortgage Investment Trust, Inc. 8.25% Preferred Series A","AG Mortgage Investment Trust, Inc. 8.25% Preferred Series A",N,MITTpA,N,100.0,N,MITT-A
-MITT$B,"AG Mortgage Investment Trust, Inc. Preferred Series B","AG Mortgage Investment Trust, Inc. Preferred Series B",N,MITTpB,N,100.0,N,MITT-B
-MITT$C,"AG Mortgage Investment Trust, Inc. 8.00% Series C Fixed","AG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",N,MITTpC,N,100.0,N,MITT-C
+MITT,"TPG Mortgage Investment Trust, Inc. Common Stock","TPG Mortgage Investment Trust, Inc. Common Stock",N,MITT,N,100.0,N,MITT
+MITT$A,"TPG Mortgage Investment Trust, Inc. 8.25% Series A Cumulative Redeemable Preferred Stock","TPG Mortgage Investment Trust, Inc. 8.25% Series A Cumulative Redeemable Preferred Stock",N,MITTpA,N,100.0,N,MITT-A
+MITT$B,"TPG Mortgage Investment Trust, Inc. 8.00% Series B Cumulative Redeemable Preferred Stock","TPG Mortgage Investment Trust, Inc. 8.00% Series B Cumulative Redeemable Preferred Stock",N,MITTpB,N,100.0,N,MITT-B
+MITT$C,"TPG Mortgage Investment Trust, Inc. 8.00% Series C Fixed","TPG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",N,MITTpC,N,100.0,N,MITT-C
 MIY,"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock","Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",N,MIY,N,100.0,N,MIY
 MJ,Amplify Alternative Harvest ETF,Amplify Alternative Harvest ETF,P,MJ,Y,100.0,N,MJ
 MJSC,MUFG Japan Small Cap Active ETF,MUFG Japan Small Cap Active ETF,P,MJSC,Y,100.0,N,MJSC
@@ -4513,6 +4510,7 @@ OPEX,Tradr 2X Long OPEN Daily ETF,Tradr 2X Long OPEN Daily ETF,Z,OPEX,Y,100.0,N,
 OPFI,OppFi Inc. Class A Common Stock,OppFi Inc. Class A Common Stock,N,OPFI,N,100.0,N,OPFI
 OPFI.W,OppFi Inc. Warrants,OppFi Inc. Warrants,N,OPFI.WS,N,100.0,N,OPFI+
 OPHC,"OptimumBank Holdings, Inc. Common Stock","OptimumBank Holdings, Inc. Common Stock",A,OPHC,N,100.0,N,OPHC
+OPLN,"OPENLANE, Inc. Common Stock","OPENLANE, Inc. Common Stock",N,OPLN,N,100.0,N,OPLN
 OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",N,OPP,N,100.0,N,OPP
 OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock",N,OPPpA,N,100.0,N,OPP-A
 OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock",N,OPPpB,N,100.0,N,OPP-B

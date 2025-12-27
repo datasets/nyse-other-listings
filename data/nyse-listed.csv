@@ -892,7 +892,6 @@ ELAN,Elanco Animal Health Incorporated Common Stock
 ELC,"Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066"
 ELF,"e.l.f. Beauty, Inc. Common Stock"
 ELME,Elme Communities Common Stock
-ELP,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares)
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
 ELS,"Equity Lifestyle Properties, Inc. Common Stock"
 ELV,"Elevance Health, Inc. Common Stock"
@@ -1445,7 +1444,6 @@ JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest
 JXN,Jackson Financial Inc. Class A Common Stock 
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed"
 KAI,Kadant Inc Common Stock
-KAR,"OPENLANE, Inc. Common Stock"
 KB,KB Financial Group Inc
 KBDC,"Kayne Anderson BDC, Inc. Common Stock"
 KBH,KB Home Common Stock
@@ -1663,12 +1661,12 @@ MIAX,"Miami International Holdings, Inc. Common Stock"
 MICC,The Magnum Ice Cream Company N.V. Ordinary Shares
 MIN,MFS Intermediate Income Trust Common Stock
 MIR,"Mirion Technologies, Inc. Class A Common Stock"
-MITN,"AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029"
-MITP,"AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029"
-MITT,"AG Mortgage Investment Trust, Inc. Common Stock"
-MITT$A,"AG Mortgage Investment Trust, Inc. 8.25% Preferred Series A"
-MITT$B,"AG Mortgage Investment Trust, Inc. Preferred Series B"
-MITT$C,"AG Mortgage Investment Trust, Inc. 8.00% Series C Fixed"
+MITN,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029"
+MITP,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029"
+MITT,"TPG Mortgage Investment Trust, Inc. Common Stock"
+MITT$A,"TPG Mortgage Investment Trust, Inc. 8.25% Series A Cumulative Redeemable Preferred Stock"
+MITT$B,"TPG Mortgage Investment Trust, Inc. 8.00% Series B Cumulative Redeemable Preferred Stock"
+MITT$C,"TPG Mortgage Investment Trust, Inc. 8.00% Series C Fixed"
 MIY,"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock"
 MKC,"McCormick & Company, Incorporated Common Stock"
 MKC.V,"McCormick & Company, Incorporated Common Stock"
@@ -1945,6 +1943,7 @@ OOMA,"Ooma, Inc. Common Stock"
 OPAD,Offerpad Solutions Inc. Class A Common Stock
 OPFI,OppFi Inc. Class A Common Stock
 OPFI.W,OppFi Inc. Warrants
+OPLN,"OPENLANE, Inc. Common Stock"
 OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock"
 OPP$A,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock"
 OPP$B,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.75% Series B Cumulative Preferred Stock"
