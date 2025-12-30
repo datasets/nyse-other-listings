@@ -452,7 +452,7 @@ AWR,American States Water Company Common Stock,American States Water Company Com
 AWX,Avalon Holdings Corporation Common Stock,Avalon Holdings Corporation Common Stock,A,AWX,N,100.0,N,AWX
 AX,"Axos Financial, Inc. Common Stock","Axos Financial, Inc. Common Stock",N,AX,N,100.0,N,AX
 AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share),AXIA Energia American Depositary Shares (Each representing one Common Share),N,AXIA,N,100.0,N,AXIA
-AXIA$,AXIA Energia American Depositary Shares (Each representing one Preferred Share),AXIA Energia American Depositary Shares (Each representing one Preferred Share),N,AXIAp,N,100.0,N,AXIA-
+AXIA$,AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),N,AXIAp,N,100.0,N,AXIA-
 AXIL,"AXIL Brands, Inc. Common Stock","AXIL Brands, Inc. Common Stock",A,AXIL,N,100.0,N,AXIL
 AXL,"American Axle & Manufacturing Holdings, Inc. Common Stock","American Axle & Manufacturing Holdings, Inc. Common Stock",N,AXL,N,100.0,N,AXL
 AXP,American Express Company Common Stock,American Express Company Common Stock,N,AXP,N,40.0,N,AXP
@@ -1825,7 +1825,6 @@ EHI,Western Asset Global High Income Fund Inc Common Stock,Western Asset Global 
 EHY,Amplify Ethereum Max Income Covered Call ETF,Amplify Ethereum Max Income Covered Call ETF,Z,EHY,Y,100.0,N,EHY
 EIC,Eagle Point Income Company Inc. Common Stock,Eagle Point Income Company Inc. Common Stock,N,EIC,N,100.0,N,EIC
 EICA,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,N,EICA,N,100.0,N,EICA
-EICB,Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028,Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028,N,EICB,N,100.0,N,EICB
 EICC,Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2029,Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2029,N,EICC,N,100.0,N,EICC
 EIDO,iShares MSCI Indonesia ETF,iShares MSCI Indonesia ETF,P,EIDO,Y,100.0,N,EIDO
 EIG,Employers Holdings Inc Common Stock,Employers Holdings Inc Common Stock,N,EIG,N,100.0,N,EIG
