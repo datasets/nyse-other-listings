@@ -35,6 +35,7 @@ ABR$D,"Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock,
 ABR$E,Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock,Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock,N,ABRpE,N,100.0,N,ABR-E
 ABR$F,Arbor Realty Trust 6.25% Series F Fixed,"Arbor Realty Trust 6.25% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per share",N,ABRpF,N,100.0,N,ABR-F
 ABT,Abbott Laboratories Common Stock,Abbott Laboratories Common Stock,N,ABT,N,100.0,N,ABT
+ABX,"Abacus Global Management, Inc. Class A Common Stock","Abacus Global Management, Inc. Class A Common Stock",N,ABX,N,100.0,N,ABX
 ABXB,Abacus Flexible Bond Leaders ETF,Abacus Flexible Bond Leaders ETF,Z,ABXB,Y,100.0,N,ABXB
 ACA,"Arcosa, Inc. Common Stock ","Arcosa, Inc. Common Stock ",N,ACA,N,100.0,N,ACA
 ACCO,Acco Brands Corporation Common Stock,Acco Brands Corporation Common Stock,N,ACCO,N,100.0,N,ACCO
@@ -342,6 +343,7 @@ ARR,"ARMOUR Residential REIT, Inc.","ARMOUR Residential REIT, Inc.",N,ARR,N,100.
 ARR$C,"ARMOUR Residential REIT, Inc. 7% Series C Cumulative Redeemable Preferred Stock (liquidation preference $25.00 per share)","ARMOUR Residential REIT, Inc. 7% Series C Cumulative Redeemable Preferred Stock (liquidation preference $25.00 per share)",N,ARRpC,N,100.0,N,ARR-C
 ARTY,iShares Future AI & Tech ETF,iShares Future AI & Tech ETF,P,ARTY,Y,100.0,N,ARTY
 ARW,"Arrow Electronics, Inc. Common Stock","Arrow Electronics, Inc. Common Stock",N,ARW,N,100.0,N,ARW
+ARWG,Archer Growth ETF,Archer Growth ETF,Z,ARWG,Y,100.0,N,ARWG
 ARX,Accelerant Holdings Class A Common Shares,Accelerant Holdings Class A Common Shares,N,ARX,N,100.0,N,ARX
 AS,"Amer Sports, Inc. Ordinary Shares","Amer Sports, Inc. Ordinary Shares",N,AS,N,100.0,N,AS
 ASA,ASA  Gold and Precious Metals Limited,ASA  Gold and Precious Metals Limited,N,ASA,N,100.0,N,ASA
@@ -453,6 +455,7 @@ AWX,Avalon Holdings Corporation Common Stock,Avalon Holdings Corporation Common 
 AX,"Axos Financial, Inc. Common Stock","Axos Financial, Inc. Common Stock",N,AX,N,100.0,N,AX
 AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share),AXIA Energia American Depositary Shares (Each representing one Common Share),N,AXIA,N,100.0,N,AXIA
 AXIA$,AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),N,AXIAp,N,100.0,N,AXIA-
+AXIA$C,"AXIA Energia American Depositary Shares, each representing one Preferred Class C Share","AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",N,AXIApC,N,100.0,N,AXIA-C
 AXIL,"AXIL Brands, Inc. Common Stock","AXIL Brands, Inc. Common Stock",A,AXIL,N,100.0,N,AXIL
 AXL,"American Axle & Manufacturing Holdings, Inc. Common Stock","American Axle & Manufacturing Holdings, Inc. Common Stock",N,AXL,N,100.0,N,AXL
 AXP,American Express Company Common Stock,American Express Company Common Stock,N,AXP,N,40.0,N,AXP
@@ -860,6 +863,7 @@ BTCO,Invesco Galaxy Bitcoin ETF ,Invesco Galaxy Bitcoin ETF ,Z,BTCO,Y,100.0,N,BT
 BTCW,WisdomTree Bitcoin Fund ,WisdomTree Bitcoin Fund ,Z,BTCW,Y,100.0,N,BTCW
 BTCZ,T,T-Rex 2X Inverse Bitcoin Daily Target ETF,Z,BTCZ,Y,100.0,N,BTCZ
 BTE,Baytex Energy Corp Common Shares,Baytex Energy Corp Common Shares,N,BTE,N,100.0,N,BTE
+BTFL,Defiance Daily Target 2X Long BITF ETF,Defiance Daily Target 2X Long BITF ETF,Z,BTFL,Y,100.0,N,BTFL
 BTG,B2Gold Corp Common shares (Canada),B2Gold Corp Common shares (Canada),A,BTG,N,100.0,N,BTG
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR","British American Tobacco  Industries, p.l.c. Common Stock ADR",N,BTI,N,100.0,N,BTI
 BTO,John Hancock Financial Opportunities Fund Common Stock,John Hancock Financial Opportunities Fund Common Stock,N,BTO,N,100.0,N,BTO
@@ -3690,7 +3694,6 @@ LGH,HCM Defender 500 Index ETF,HCM Defender 500 Index ETF,P,LGH,Y,100.0,N,LGH
 LGHT,Langar Global HealthTech ETF,Langar Global HealthTech ETF,P,LGHT,Y,100.0,N,LGHT
 LGI,Lazard Global Total Return and Income Fund Common Stock,Lazard Global Total Return and Income Fund Common Stock,N,LGI,N,100.0,N,LGI
 LGL,"LGL Group, Inc. (The) Common Stock","LGL Group, Inc. (The) Common Stock",A,LGL,N,100.0,N,LGL
-LGL.W,"LGL Group, Inc. (The) Warrants","LGL Group, Inc. (The) Warrants",A,LGL.WS,N,100.0,N,LGL+
 LGLV,State Street SPDR US Large Cap Low Volatility Index ETF,State Street SPDR US Large Cap Low Volatility Index ETF,P,LGLV,Y,100.0,N,LGLV
 LGOV,First Trust Long Duration Opportunities ETF,First Trust Long Duration Opportunities ETF,P,LGOV,Y,100.0,N,LGOV
 LGPS,LogProstyle Inc. Common Shares,LogProstyle Inc. Common Shares,A,LGPS,N,100.0,N,LGPS
@@ -3807,6 +3810,7 @@ MAGA,Point Bridge America First ETF,Point Bridge America First ETF,Z,MAGA,Y,100.
 MAGC,Roundhill China Magnificent Seven ETF,Roundhill China Magnificent Seven ETF,Z,MAGC,Y,100.0,N,MAGC
 MAGG,Madison Aggregate Bond ETF,Madison Aggregate Bond ETF,P,MAGG,Y,100.0,N,MAGG
 MAGN,Magnera Corporation Common Stock,Magnera Corporation Common Stock,N,MAGN,N,100.0,N,MAGN
+MAGO,Tuttle Capital Magnificent 7 Income Blast ETF,Tuttle Capital Magnificent 7 Income Blast ETF,Z,MAGO,Y,100.0,N,MAGO
 MAGS,Roundhill Magnificent Seven ETF,Roundhill Magnificent Seven ETF,Z,MAGS,Y,100.0,N,MAGS
 MAGX,Roundhill Daily 2X Long Magnificent Seven ETF,Roundhill Daily 2X Long Magnificent Seven ETF,Z,MAGX,Y,100.0,N,MAGX
 MAGY,Roundhill Magnificent Seven Covered Call ETF,Roundhill Magnificent Seven Covered Call ETF,Z,MAGY,Y,100.0,N,MAGY
@@ -4457,13 +4461,13 @@ ODHY,Obra Defensive High Yield ETF,Obra Defensive High Yield ETF,P,ODHY,Y,100.0,
 ODV,Osisko Development Corp. Common Shares,Osisko Development Corp. Common Shares,N,ODV,N,100.0,N,ODV
 OEC,Orion S.A. Common Shares,Orion S.A. Common Shares,N,OEC,N,100.0,N,OEC
 OEF,iShares S&P 100 Fund,iShares S&P 100 Fund,P,OEF,Y,40.0,N,OEF
-OEFA,ALPS O'Shares International Developed Quality Dividend ETF,ALPS O'Shares International Developed Quality Dividend ETF,Z,OEFA,Y,100.0,N,OEFA
+OEFA,ALPS O'Shares International Developed Quality Dividend ETF,ALPS O'Shares International Developed Quality Dividend ETF,P,OEFA,Y,100.0,N,OEFA
 OEI,Optimized Equity Income ETF,Optimized Equity Income ETF,P,OEI,Y,100.0,N,OEI
 OFG,OFG Bancorp Common Stock,OFG Bancorp Common Stock,N,OFG,N,100.0,N,OFG
 OGCP,"Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests","Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests",P,OGCP,N,100.0,N,OGCP
 OGE,OGE Energy Corp Common Stock,OGE Energy Corp Common Stock,N,OGE,N,100.0,N,OGE
 OGEN,Oragenics Inc. Common Stock,Oragenics Inc. Common Stock,A,OGEN,N,100.0,N,OGEN
-OGIG,ALPS O'Shares Global Internet Giants ETF,ALPS O'Shares Global Internet Giants ETF,Z,OGIG,Y,100.0,N,OGIG
+OGIG,ALPS O'Shares Global Internet Giants ETF,ALPS O'Shares Global Internet Giants ETF,P,OGIG,Y,100.0,N,OGIG
 OGN,Organon & Co. Common Stock ,Organon & Co. Common Stock ,N,OGN,N,100.0,N,OGN
 OGS,"ONE Gas, Inc. Common Stock","ONE Gas, Inc. Common Stock",N,OGS,N,100.0,N,OGS
 OGSP,Obra High Grade Structured Products ETF,Obra High Grade Structured Products ETF,P,OGSP,Y,100.0,N,OGSP
@@ -4490,6 +4494,7 @@ OMFL,Invesco Russell 1000 Dynamic Multifactor ETF,Invesco Russell 1000 Dynamic M
 OMFS,Invesco Russell 2000 Dynamic Multifactor ETF,Invesco Russell 2000 Dynamic Multifactor ETF,Z,OMFS,Y,100.0,N,OMFS
 OMI,"Owens & Minor, Inc. Common Stock","Owens & Minor, Inc. Common Stock",N,OMI,N,100.0,N,OMI
 OND,ProShares On,ProShares On-Demand ETF,P,OND,Y,100.0,N,OND
+ONDL,Defiance Daily Target 2X Long ONDS ETF,Defiance Daily Target 2X Long ONDS ETF,Z,ONDL,Y,100.0,N,ONDL
 ONEO,State Street SPDR Russell 1000 Momentum Focus ETF,State Street SPDR Russell 1000 Momentum Focus ETF,P,ONEO,Y,100.0,N,ONEO
 ONEV,State Street SPDR Russell 1000 Low Volatility Focus ETF,State Street SPDR Russell 1000 Low Volatility Focus ETF,P,ONEV,Y,100.0,N,ONEV
 ONEY,State Street SPDR Russell 1000 Yield Focus ETF,State Street SPDR Russell 1000 Yield Focus ETF,P,ONEY,Y,100.0,N,ONEY
@@ -4536,8 +4541,8 @@ OTF,Blue Owl Technology Finance Corp. Common Stock,Blue Owl Technology Finance C
 OTH,Off The Hook YS Inc. Common Stock,Off The Hook YS Inc. Common Stock,A,OTH,N,100.0,N,OTH
 OTIS,Otis Worldwide Corporation Common Stock ,Otis Worldwide Corporation Common Stock ,N,OTIS,N,100.0,N,OTIS
 OUNZ,VanEck Merk Gold ETF,VanEck Merk Gold ETF,P,OUNZ,Y,100.0,N,OUNZ
-OUSA,ALPS O'Shares U.S. Quality Dividend ETF,ALPS O'Shares U.S. Quality Dividend ETF,Z,OUSA,Y,100.0,N,OUSA
-OUSM,ALPS O'Shares U.S. Small,ALPS O'Shares U.S. Small-Cap Quality Dividend ETF,Z,OUSM,Y,100.0,N,OUSM
+OUSA,ALPS O'Shares U.S. Quality Dividend ETF,ALPS O'Shares U.S. Quality Dividend ETF,P,OUSA,Y,100.0,N,OUSA
+OUSM,ALPS O'Shares U.S. Small,ALPS O'Shares U.S. Small-Cap Quality Dividend ETF,P,OUSM,Y,100.0,N,OUSM
 OUT,OUTFRONT Media Inc. Common Stock,OUTFRONT Media Inc. Common Stock,N,OUT,N,100.0,N,OUT
 OVB,Overlay Shares Core Bond ETF,Overlay Shares Core Bond ETF,Z,OVB,Y,100.0,N,OVB
 OVF,Overlay Shares Foreign Equity ETF,Overlay Shares Foreign Equity ETF,Z,OVF,Y,100.0,N,OVF
@@ -4583,6 +4588,8 @@ PAWZ,ProShares Pet Care ETF,ProShares Pet Care ETF,Z,PAWZ,Y,100.0,N,PAWZ
 PAXS,PIMCO Access Income Fund Common Shares of Beneficial Interest,PIMCO Access Income Fund Common Shares of Beneficial Interest,N,PAXS,N,100.0,N,PAXS
 PAY,"Paymentus Holdings, Inc. Class A Common Stock","Paymentus Holdings, Inc. Class A Common Stock",N,PAY,N,100.0,N,PAY
 PAYC,"Paycom Software, Inc. Common Stock","Paycom Software, Inc. Common Stock",N,PAYC,N,100.0,N,PAYC
+PAYH,TrueShares S&P Autocallable High Income ETF,TrueShares S&P Autocallable High Income ETF,Z,PAYH,Y,100.0,N,PAYH
+PAYM,TrueShares S&P Autocallable Defensive Income ETF,TrueShares S&P Autocallable Defensive Income ETF,Z,PAYM,Y,100.0,N,PAYM
 PAYR,Federated Hermes Enhanced Income ETF,Federated Hermes Enhanced Income ETF,Z,PAYR,Y,100.0,N,PAYR
 PB,"Prosperity Bancshares, Inc. Common Stock","Prosperity Bancshares, Inc. Common Stock",N,PB,N,100.0,N,PB
 PBA,Pembina Pipeline Corp. Ordinary Shares (Canada),Pembina Pipeline Corp. Ordinary Shares (Canada),N,PBA,N,100.0,N,PBA
@@ -6119,7 +6126,9 @@ TSCV,Thrivent Small Cap Value ETF,Thrivent Small Cap Value ETF,P,TSCV,Y,100.0,N,
 TSE,Trinseo PLC Ordinary Shares ,Trinseo PLC Ordinary Shares ,N,TSE,N,100.0,N,TSE
 TSEC,Touchstone Securitized Income ETF,Touchstone Securitized Income ETF,P,TSEC,Y,100.0,N,TSEC
 TSEP,FT Vest Emerging Market Buffer ETF ,FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
+TSES,Truth Social American Energy Security ETF,Truth Social American Energy Security ETF,P,TSES,Y,100.0,N,TSES
 TSI,"TCW Strategic Income Fund, Inc. Common Stock","TCW Strategic Income Fund, Inc. Common Stock",N,TSI,N,100.0,N,TSI
+TSIC,Truth Social American Icons ETF,Truth Social American Icons ETF,P,TSIC,Y,100.0,N,TSIC
 TSII,REX TSLA Growth & Income ETF,REX TSLA Growth & Income ETF,Z,TSII,Y,100.0,N,TSII
 TSLI,ProShares Ultra TSLA,ProShares Ultra TSLA,P,TSLI,Y,100.0,N,TSLI
 TSLO,Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,Z,TSLO,Y,100.0,N,TSLO
@@ -6133,10 +6142,13 @@ TSM,Taiwan Semiconductor Manufacturing Company Ltd.,Taiwan Semiconductor Manufac
 TSME,Thrivent Small,Thrivent Small-Mid Cap Equity ETF,P,TSME,Y,100.0,N,TSME
 TSMY,YieldMax TSM Option Income Strategy ETF,YieldMax TSM Option Income Strategy ETF,P,TSMY,Y,100.0,N,TSMY
 TSN,"Tyson Foods, Inc. Common Stock","Tyson Foods, Inc. Common Stock",N,TSN,N,100.0,N,TSN
+TSNF,Truth Social American Next Frontiers ETF,Truth Social American Next Frontiers ETF,P,TSNF,Y,100.0,N,TSNF
 TSOL,21Shares Solana ETF,21Shares Solana ETF,Z,TSOL,Y,100.0,N,TSOL
 TSPA,T. Rowe Price U.S. Equity Research ETF,T. Rowe Price U.S. Equity Research ETF,P,TSPA,Y,100.0,N,TSPA
 TSPX,Twin Oak Active Opportunities ETF,Twin Oak Active Opportunities ETF,Z,TSPX,Y,100.0,N,TSPX
 TSQ,"Townsquare Media, Inc. Class A Common Stock","Townsquare Media, Inc. Class A Common Stock",N,TSQ,N,100.0,N,TSQ
+TSRS,Truth Social American Red State REITs ETF,Truth Social American Red State REITs ETF,P,TSRS,Y,100.0,N,TSRS
+TSSD,Truth Social American Security & Defense ETF,Truth Social American Security & Defense ETF,P,TSSD,Y,100.0,N,TSSD
 TSXD,Direxion Daily Semiconductors Top 5 Bear 2X ETF,Direxion Daily Semiconductors Top 5 Bear 2X ETF,P,TSXD,Y,100.0,N,TSXD
 TSXU,Direxion Daily Semiconductors Top 5 Bull 2X ETF,Direxion Daily Semiconductors Top 5 Bull 2X ETF,P,TSXU,Y,100.0,N,TSXU
 TSYW,Roundhill Treasury Bond WeeklyPay ETF,Roundhill Treasury Bond WeeklyPay ETF,Z,TSYW,Y,100.0,N,TSYW
