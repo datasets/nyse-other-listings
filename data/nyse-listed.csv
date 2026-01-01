@@ -20,6 +20,7 @@ ABR$E,Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock
 ABR$F,Arbor Realty Trust 6.25% Series F Fixed
 ABT,Abbott Laboratories Common Stock
 ABX,"Abacus Global Management, Inc. Class A Common Stock"
+ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028"
 ACA,"Arcosa, Inc. Common Stock "
 ACCO,Acco Brands Corporation Common Stock
 ACEL,"Accel Entertainment, Inc. "
@@ -806,7 +807,6 @@ DOW,Dow Inc. Common Stock
 DPG,Duff & Phelps Utility and Infrastructure Fund Inc.
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares"
 DRD,DRDGOLD Limited American Depositary Shares
-DRH$A,Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock
 DRI,"Darden Restaurants, Inc. Common Stock"
 DRLL,Strive U.S. Energy ETF
 DSL,DoubleLine Income Solutions Fund Common Shares of Beneficial Interests
@@ -1327,6 +1327,7 @@ HYAC.W,"Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable fo
 HYBX,TCW High Yield Bond ETF
 HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock"
+HYT.V,"Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued"
 HYTR,Counterpoint High Yield Trend ETF
 HZO,"MarineMax, Inc.  (FL) Common Stock"
 IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
@@ -2813,7 +2814,6 @@ WMS,"Advanced Drainage Systems, Inc. Common Stock"
 WNC,Wabash National Corporation Common Stock
 WOLF,"Wolfspeed, Inc. Common Stock New"
 WOR,"Worthington Enterprises, Inc. Common Shares"
-WOW,"WideOpenWest, Inc. Common Stock"
 WPC,W. P. Carey Inc. REIT
 WPM,Wheaton Precious Metals Corp Common Shares (Canada)
 WPP,WPP plc American Depositary Shares

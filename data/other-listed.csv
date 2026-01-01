@@ -37,6 +37,7 @@ ABR$F,Arbor Realty Trust 6.25% Series F Fixed,"Arbor Realty Trust 6.25% Series F
 ABT,Abbott Laboratories Common Stock,Abbott Laboratories Common Stock,N,ABT,N,100.0,N,ABT
 ABX,"Abacus Global Management, Inc. Class A Common Stock","Abacus Global Management, Inc. Class A Common Stock",N,ABX,N,100.0,N,ABX
 ABXB,Abacus Flexible Bond Leaders ETF,Abacus Flexible Bond Leaders ETF,Z,ABXB,Y,100.0,N,ABXB
+ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028","Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",N,ABXL,N,100.0,N,ABXL
 ACA,"Arcosa, Inc. Common Stock ","Arcosa, Inc. Common Stock ",N,ACA,N,100.0,N,ACA
 ACCO,Acco Brands Corporation Common Stock,Acco Brands Corporation Common Stock,N,ACCO,N,100.0,N,ACCO
 ACCS,ACCESS Newswire Inc. Common Stock,ACCESS Newswire Inc. Common Stock,A,ACCS,N,100.0,N,ACCS
@@ -1642,7 +1643,6 @@ DRAY,YieldMax DKNG Option Income Strategy ETF,YieldMax DKNG Option Income Strate
 DRD,DRDGOLD Limited American Depositary Shares,DRDGOLD Limited American Depositary Shares,N,DRD,N,100.0,N,DRD
 DRES,GMO Domestic Resilience ETF,GMO Domestic Resilience ETF,P,DRES,Y,100.0,N,DRES
 DRGN,Themes China Generative Artificial Intelligence ETF,Themes China Generative Artificial Intelligence ETF,Z,DRGN,Y,100.0,N,DRGN
-DRH$A,Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock,Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock,N,DRHpA,N,100.0,N,DRH-A
 DRI,"Darden Restaurants, Inc. Common Stock","Darden Restaurants, Inc. Common Stock",N,DRI,N,100.0,N,DRI
 DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,P,DRIP,Y,100.0,N,DRIP
 DRKY,VistaShares Target 15 DRUKMacro Distribution ETF,VistaShares Target 15 DRUKMacro Distribution ETF,P,DRKY,Y,100.0,N,DRKY
@@ -2974,6 +2974,7 @@ HYS,PIMCO 0,PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund,P
 HYSA,BondBloxx USD High Yield Bond Sector Rotation ETF,BondBloxx USD High Yield Bond Sector Rotation ETF,P,HYSA,Y,100.0,N,HYSA
 HYSD,Columbia Short Duration High Yield ETF,Columbia Short Duration High Yield ETF,P,HYSD,Y,100.0,N,HYSD
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock","Blackrock Corporate High Yield Fund, Inc. Common Stock",N,HYT,N,100.0,N,HYT
+HYT.V,"Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued","Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued",N,HYTrw,N,100.0,N,HYT^#
 HYTI,FT Vest High Yield & Target Income ETF,FT Vest High Yield & Target Income ETF,P,HYTI,Y,100.0,N,HYTI
 HYTR,Counterpoint High Yield Trend ETF,Counterpoint High Yield Trend ETF,N,HYTR,Y,100.0,N,HYTR
 HYUP,Xtrackers High Beta High Yield Bond ETF,Xtrackers High Beta High Yield Bond ETF,P,HYUP,Y,100.0,N,HYUP
@@ -6612,7 +6613,6 @@ WNTR,YieldMax MSTR Short Option Income Strategy ETF,YieldMax MSTR Short Option I
 WOLF,"Wolfspeed, Inc. Common Stock New","Wolfspeed, Inc. Common Stock New",N,WOLF,N,100.0,N,WOLF
 WOMN,Impact Shares Women's Empowerment ETF,Impact Shares Women's Empowerment ETF,P,WOMN,Y,100.0,N,WOMN
 WOR,"Worthington Enterprises, Inc. Common Shares","Worthington Enterprises, Inc. Common Shares",N,WOR,N,100.0,N,WOR
-WOW,"WideOpenWest, Inc. Common Stock","WideOpenWest, Inc. Common Stock",N,WOW,N,100.0,N,WOW
 WPAY,Roundhill WeeklyPay Universe ETF,Roundhill WeeklyPay Universe ETF,Z,WPAY,Y,100.0,N,WPAY
 WPC,W. P. Carey Inc. REIT,W. P. Carey Inc. REIT,N,WPC,N,100.0,N,WPC
 WPM,Wheaton Precious Metals Corp Common Shares (Canada),Wheaton Precious Metals Corp Common Shares (Canada),N,WPM,N,100.0,N,WPM
