@@ -45,6 +45,7 @@ ACEI,Innovator Equity Autocallable Income Strategy ETF,Innovator Equity Autocall
 ACEL,"Accel Entertainment, Inc. ","Accel Entertainment, Inc. ",N,ACEL,N,100.0,N,ACEL
 ACES,ALPS Clean Energy ETF,ALPS Clean Energy ETF,P,ACES,Y,100.0,N,ACES
 ACGR,American Century Large Cap Growth ETF,American Century Large Cap Growth ETF,P,ACGR,Y,100.0,N,ACGR
+ACH,"Accendra Health, Inc. Common Stock","Accendra Health, Inc. Common Stock",N,ACH,N,100.0,N,ACH
 ACHR,Archer Aviation Inc. Class A Common Stock,Archer Aviation Inc. Class A Common Stock,N,ACHR,N,100.0,N,ACHR
 ACHR.W,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50","Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",N,ACHR.WS,N,100.0,N,ACHR+
 ACI,"Albertsons Companies, Inc. Class A Common Stock","Albertsons Companies, Inc. Class A Common Stock",N,ACI,N,100.0,N,ACI
@@ -322,6 +323,7 @@ ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferre
 ARGT,Global X MSCI Argentina ETF,Global X MSCI Argentina ETF,P,ARGT,Y,100.0,N,ARGT
 ARI,"Apollo Commercial Real Estate Finance, Inc","Apollo Commercial Real Estate Finance, Inc",N,ARI,N,100.0,N,ARI
 ARKB,ARK 21Shares Bitcoin ETF ,ARK 21Shares Bitcoin ETF ,Z,ARKB,Y,100.0,N,ARKB
+ARKD,ARK DIET Q1 Buffer ETF,ARK DIET Q1 Buffer ETF,Z,ARKD,Y,100.0,N,ARKD
 ARKF,ARK Blockchain & Fintech Innovation ETF,ARK Blockchain & Fintech Innovation ETF,Z,ARKF,Y,100.0,N,ARKF
 ARKG,ARK Genomic Revolution ETF,ARK Genomic Revolution ETF,Z,ARKG,Y,100.0,N,ARKG
 ARKK,ARK Innovation ETF,ARK Innovation ETF,Z,ARKK,Y,100.0,N,ARKK
@@ -1453,6 +1455,7 @@ DDC,DDC Enterprise Limited Class A Ordinary Shares,DDC Enterprise Limited Class 
 DDD,3D Systems Corporation Common Stock,3D Systems Corporation Common Stock,N,DDD,N,100.0,N,DDD
 DDEC,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - December,Z,DDEC,Y,100.0,N,DDEC
 DDFD,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - December,Z,DDFD,Y,100.0,N,DDFD
+DDFJ,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - January,Z,DDFJ,Y,100.0,N,DDFJ
 DDFL,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - July,Z,DDFL,Y,100.0,N,DDFL
 DDFN,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - November,Z,DDFN,Y,100.0,N,DDFN
 DDFO,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - October,Z,DDFO,Y,100.0,N,DDFO
@@ -1460,9 +1463,12 @@ DDFS,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Dire
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),N,DDL,N,100.0,N,DDL
 DDLS,WisdomTree Dynamic International SmallCap Equity Fund,WisdomTree Dynamic International SmallCap Equity Fund,Z,DDLS,Y,100.0,N,DDLS
 DDM,ProShares Ultra Dow30,ProShares Ultra Dow30,P,DDM,Y,100.0,N,DDM
+DDNQ,Innovator Growth,Innovator Growth-100 Dual Directional 5 Buffer ETF - Quarterly,Z,DDNQ,Y,100.0,N,DDNQ
 DDS,"Dillard's, Inc. Common Stock","Dillard's, Inc. Common Stock",N,DDS,N,40.0,N,DDS
+DDSQ,Innovator Equity Dual Directional 5 Buffer ETF ,Innovator Equity Dual Directional 5 Buffer ETF - Quarterly,Z,DDSQ,Y,100.0,N,DDSQ
 DDT,Dillard's Capital Trust I,Dillard's Capital Trust I,N,DDT,N,100.0,N,DDT
 DDTD,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - December,Z,DDTD,Y,100.0,N,DDTD
+DDTJ,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - January,Z,DDTJ,Y,100.0,N,DDTJ
 DDTL,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - July,Z,DDTL,Y,100.0,N,DDTL
 DDTN,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - November,Z,DDTN,Y,100.0,N,DDTN
 DDTO,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - October,Z,DDTO,Y,100.0,N,DDTO
@@ -2660,6 +2666,7 @@ GOEX,Global X Gold Explorers ETF,Global X Gold Explorers ETF,P,GOEX,Y,100.0,N,GO
 GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,N,GOF,N,100.0,N,GOF
 GOLD,"Gold.com, Inc. Common Stock","Gold.com, Inc. Common Stock",N,GOLD,N,100.0,N,GOLD
 GOLF,Acushnet Holdings Corp. Common Stock,Acushnet Holdings Corp. Common Stock,N,GOLF,N,100.0,N,GOLF
+GOLS,Gabelli Opportunities in Live and Sports ETF,Gabelli Opportunities in Live and Sports ETF,P,GOLS,Y,100.0,N,GOLS
 GOLY,Strategy Shares Gold Enhanced Yield ETF,Strategy Shares Gold Enhanced Yield ETF,Z,GOLY,Y,100.0,N,GOLY
 GOOP,Kurv Yield Premium Strategy Google (GOOGL) ETF,Kurv Yield Premium Strategy Google (GOOGL) ETF,Z,GOOP,Y,100.0,N,GOOP
 GOOS,Canada Goose Holdings Inc. Subordinate Voting Shares,Canada Goose Holdings Inc. Subordinate Voting Shares,N,GOOS,N,100.0,N,GOOS
@@ -2709,7 +2716,6 @@ GROV,"Grove Collaborative Holdings, Inc. Class A Common Stock","Grove Collaborat
 GROY,Gold Royalty Corp. Common Shares,Gold Royalty Corp. Common Shares,A,GROY,N,100.0,N,GROY
 GROY.W,Gold Royalty Corp. Warrants,Gold Royalty Corp. Warrants,A,GROY.WS,N,100.0,N,GROY+
 GROZ,Zacks Focus Growth ETF,Zacks Focus Growth ETF,Z,GROZ,Y,100.0,N,GROZ
-GRP.U,Granite Real Estate Inc. Units,Granite Real Estate Inc. Units,N,GRP.U,N,100.0,N,GRP=
 GRPM,Invesco S&P MidCap 400 GARP ETF,Invesco S&P MidCap 400 GARP ETF,P,GRPM,Y,100.0,N,GRPM
 GRPZ,Invesco S&P SmallCap 600 GARP ETF,Invesco S&P SmallCap 600 GARP ETF,P,GRPZ,Y,100.0,N,GRPZ
 GRX,The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest,The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest,N,GRX,N,100.0,N,GRX
@@ -2837,10 +2843,10 @@ HESM,Hess Midstream LP Class A Representing Limited Partner Interests,Hess Midst
 HEWJ,iShares Currency Hedged MSCI Japan ETF,iShares Currency Hedged MSCI Japan ETF,P,HEWJ,Y,100.0,N,HEWJ
 HEZU,iShares Currency Hedged MSCI Eurozone ETF,iShares Currency Hedged MSCI Eurozone ETF,P,HEZU,Y,100.0,N,HEZU
 HF,DGA Core Plus Absolute Return ETF,DGA Core Plus Absolute Return ETF,N,HF,Y,100.0,N,HF
-HFEQ,Unlimited HFEQ Equity Long/Short ETF,Unlimited HFEQ Equity Long/Short ETF,P,HFEQ,Y,100.0,N,HFEQ
+HFEQ,Unlimited HFEQ Equity Long/Short ETF,Unlimited HFEQ Equity Long/Short ETF,N,HFEQ,Y,100.0,N,HFEQ
 HFGM,Unlimited HFGM Global Macro ETF,Unlimited HFGM Global Macro ETF,N,HFGM,Y,100.0,N,HFGM
 HFGO,Hartford Large Cap Growth ETF,Hartford Large Cap Growth ETF,Z,HFGO,Y,100.0,N,HFGO
-HFMF,Unlimited HFMF Managed Futures ETF,Unlimited HFMF Managed Futures ETF,P,HFMF,Y,100.0,N,HFMF
+HFMF,Unlimited HFMF Managed Futures ETF,Unlimited HFMF Managed Futures ETF,N,HFMF,Y,100.0,N,HFMF
 HFND,Unlimited HFND Multi,Unlimited HFND Multi-Strategy Return Tracker ETF,N,HFND,Y,100.0,N,HFND
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,N,HFRO,N,100.0,N,HFRO
 HFRO$A,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares,N,HFROpA,N,100.0,N,HFRO-A
@@ -3164,7 +3170,7 @@ INDO,Indonesia Energy Corporation Limited Ordinary Shares,Indonesia Energy Corpo
 INDS,Pacer Industrial Real Estate ETF,Pacer Industrial Real Estate ETF,P,INDS,Y,100.0,N,INDS
 INEQ,Columbia International Equity Income ETF,Columbia International Equity Income ETF,P,INEQ,Y,100.0,N,INEQ
 INFL,Horizon Kinetics Inflation Beneficiaries ETF,Horizon Kinetics Inflation Beneficiaries ETF,P,INFL,Y,100.0,N,INFL
-INFO,Harbor PanAgora Dynamic Large Cap Core ETF,Harbor PanAgora Dynamic Large Cap Core ETF,P,INFO,Y,100.0,N,INFO
+INFO,Harbor PanAgora Dynamic Large Cap Core ETF,Harbor PanAgora Dynamic Large Cap Core ETF,N,INFO,Y,100.0,N,INFO
 INFU,"InfuSystems Holdings, Inc. Common Stock","InfuSystems Holdings, Inc. Common Stock",A,INFU,N,100.0,N,INFU
 INFY,Infosys Limited American Depositary Shares,Infosys Limited American Depositary Shares,N,INFY,N,100.0,N,INFY
 ING,"ING Group, N.V. Common Stock","ING Group, N.V. Common Stock",N,ING,N,100.0,N,ING
@@ -4493,7 +4499,6 @@ OMC,Omnicom Group Inc. Common Stock,Omnicom Group Inc. Common Stock,N,OMC,N,100.
 OMF,"OneMain Holdings, Inc. Common Stock","OneMain Holdings, Inc. Common Stock",N,OMF,N,100.0,N,OMF
 OMFL,Invesco Russell 1000 Dynamic Multifactor ETF,Invesco Russell 1000 Dynamic Multifactor ETF,Z,OMFL,Y,100.0,N,OMFL
 OMFS,Invesco Russell 2000 Dynamic Multifactor ETF,Invesco Russell 2000 Dynamic Multifactor ETF,Z,OMFS,Y,100.0,N,OMFS
-OMI,"Owens & Minor, Inc. Common Stock","Owens & Minor, Inc. Common Stock",N,OMI,N,100.0,N,OMI
 OND,ProShares On,ProShares On-Demand ETF,P,OND,Y,100.0,N,OND
 ONDL,Defiance Daily Target 2X Long ONDS ETF,Defiance Daily Target 2X Long ONDS ETF,Z,ONDL,Y,100.0,N,ONDL
 ONEO,State Street SPDR Russell 1000 Momentum Focus ETF,State Street SPDR Russell 1000 Momentum Focus ETF,P,ONEO,Y,100.0,N,ONEO
@@ -4809,6 +4814,10 @@ PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,PennyMac Mor
 PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,N,PMTV,N,100.0,N,PMTV
 PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,N,PMTW,N,100.0,N,PMTW
 PNC,"PNC Financial Services Group, Inc. (The) Common Stock","PNC Financial Services Group, Inc. (The) Common Stock",N,PNC,N,100.0,N,PNC
+PNFP,"Pinnacle Financial Partners, Inc. Common stock","Pinnacle Financial Partners, Inc. Common stock",N,PNFP,N,100.0,N,PNFP
+PNFP$A,"Pinnacle Financial Partners, Inc. Fixed","Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",N,PNFPpA,N,100.0,N,PNFP-A
+PNFP$B,"Pinnacle Financial Partners, Inc. Fixed","Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series B",N,PNFPpB,N,100.0,N,PNFP-B
+PNFP$C,"Pinnacle Financial Partners, Inc. Fixed","Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C",N,PNFPpC,N,100.0,N,PNFP-C
 PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,N,PNI,N,100.0,N,PNI
 PNNT,PennantPark Investment Corporation Common Stock,PennantPark Investment Corporation Common Stock,N,PNNT,N,100.0,N,PNNT
 PNOV,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - November,Z,PNOV,Y,100.0,N,PNOV
@@ -5160,7 +5169,6 @@ RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
 RJDI,RJ Eagle GCM Dividend Select Income ETF,RJ Eagle GCM Dividend Select Income ETF,P,RJDI,Y,100.0,N,RJDI
 RJF,"Raymond James Financial, Inc. Common Stock","Raymond James Financial, Inc. Common Stock",N,RJF,N,100.0,N,RJF
-RJF$B,"Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed","Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",N,RJFpB,N,100.0,N,RJF-B
 RJMG,FT Raymond James Multicap Growth Equity ETF,FT Raymond James Multicap Growth Equity ETF,P,RJMG,Y,100.0,N,RJMG
 RJMI,RJ Eagle Municipal Income ETF,RJ Eagle Municipal Income ETF,P,RJMI,Y,100.0,N,RJMI
 RJVI,RJ Eagle Vertical Income ETF,RJ Eagle Vertical Income ETF,P,RJVI,Y,100.0,N,RJVI
@@ -5620,9 +5628,6 @@ SNPE,Xtrackers S&P 500 Scored & Screened ETF,Xtrackers S&P 500 Scored & Screened
 SNPG,Xtrackers S&P 500 Growth Scored & Screened ETF,Xtrackers S&P 500 Growth Scored & Screened ETF,Z,SNPG,Y,100.0,N,SNPG
 SNPX,Tradr 2X Long SNPS Daily ETF,Tradr 2X Long SNPS Daily ETF,Z,SNPX,Y,100.0,N,SNPX
 SNTH,MRP SynthEquity ETF,MRP SynthEquity ETF,P,SNTH,Y,100.0,N,SNTH
-SNV,Synovus Financial Corp. Common Stock,Synovus Financial Corp. Common Stock,N,SNV,N,100.0,N,SNV
-SNV$D,Synovus Financial Corp. Fixed,"Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share",N,SNVpD,N,100.0,N,SNV-D
-SNV$E,Synovus Financial Corp. 5.875% Fixed,"Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",N,SNVpE,N,100.0,N,SNV-E
 SNX,TD SYNNEX Corporation Common Stock,TD SYNNEX Corporation Common Stock,N,SNX,N,100.0,N,SNX
 SO,Southern Company (The) Common Stock,Southern Company (The) Common Stock,N,SO,N,100.0,N,SO
 SOAR,"Volato Group, Inc. Class A Common Stock","Volato Group, Inc. Class A Common Stock",A,SOAR,N,100.0,N,SOAR

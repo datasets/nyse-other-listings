@@ -24,6 +24,7 @@ ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028"
 ACA,"Arcosa, Inc. Common Stock "
 ACCO,Acco Brands Corporation Common Stock
 ACEL,"Accel Entertainment, Inc. "
+ACH,"Accendra Health, Inc. Common Stock"
 ACHR,Archer Aviation Inc. Class A Common Stock
 ACHR.W,"Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50"
 ACI,"Albertsons Companies, Inc. Class A Common Stock"
@@ -1200,7 +1201,6 @@ GRMN,Garmin Ltd. Common Stock (Switzerland)
 GRND,Grindr Inc. Common Stock
 GRNT,"Granite Ridge Resources, Inc. Common Stock"
 GROV,"Grove Collaborative Holdings, Inc. Class A Common Stock"
-GRP.U,Granite Real Estate Inc. Units
 GRX,The Gabelli Healthcare & Wellness Trust Common Shares of Beneficial Interest
 GS,"Goldman Sachs Group, Inc. (The) Common Stock"
 GS$A,"Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non"
@@ -1245,7 +1245,9 @@ HEI.A,Heico Corporation Common Stock
 HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest
 HESM,Hess Midstream LP Class A Representing Limited Partner Interests
 HF,DGA Core Plus Absolute Return ETF
+HFEQ,Unlimited HFEQ Equity Long/Short ETF
 HFGM,Unlimited HFGM Global Macro ETF
+HFMF,Unlimited HFMF Managed Futures ETF
 HFND,Unlimited HFND Multi
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest
 HFRO$A,Highland Opportunities and Income Fund 5.375% Series A Cumulative Preferred Shares
@@ -1361,6 +1363,7 @@ IIM,Invesco Value Municipal Income Trust Common Stock
 IIPR,"Innovative Industrial Properties, Inc. Common Stock"
 IIPR$A,"Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock"
 IMAX,Imax Corporation Common Stock
+INFO,Harbor PanAgora Dynamic Large Cap Core ETF
 INFY,Infosys Limited American Depositary Shares
 ING,"ING Group, N.V. Common Stock"
 INGM,Ingram Micro Holding Corporation Common Stock
@@ -1935,7 +1938,6 @@ OLN,Olin Corporation Common Stock
 OLP,"One Liberty Properties, Inc. Common Stock"
 OMC,Omnicom Group Inc. Common Stock
 OMF,"OneMain Holdings, Inc. Common Stock"
-OMI,"Owens & Minor, Inc. Common Stock"
 ONIT,Onity Group Inc. Common Stock
 ONL,Orion Properties Inc. Common Stock
 ONON,On Holding AG Class A Ordinary Shares
@@ -2074,6 +2076,10 @@ PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028
 PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030
 PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030
 PNC,"PNC Financial Services Group, Inc. (The) Common Stock"
+PNFP,"Pinnacle Financial Partners, Inc. Common stock"
+PNFP$A,"Pinnacle Financial Partners, Inc. Fixed"
+PNFP$B,"Pinnacle Financial Partners, Inc. Fixed"
+PNFP$C,"Pinnacle Financial Partners, Inc. Fixed"
 PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest
 PNNT,PennantPark Investment Corporation Common Stock
 PNR,Pentair plc. Ordinary Share
@@ -2212,7 +2218,6 @@ RITM$E,Rithm Capital Corp. 8.75% Series E Fixed
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock"
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock"
 RJF,"Raymond James Financial, Inc. Common Stock"
-RJF$B,"Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed"
 RKT,"Rocket Companies, Inc. Class A Common Stock"
 RL,Ralph Lauren Corporation Common Stock
 RLI,RLI Corp. Common Stock (DE)
@@ -2388,9 +2393,6 @@ SNDA,"Sonida Senior Living, Inc. Common Stock"
 SNDR,"Schneider National, Inc. Common Stock"
 SNN,"Smith & Nephew SNATS, Inc. Common Stock"
 SNOW,Snowflake Inc. Common Stock
-SNV,Synovus Financial Corp. Common Stock
-SNV$D,Synovus Financial Corp. Fixed
-SNV$E,Synovus Financial Corp. 5.875% Fixed
 SNX,TD SYNNEX Corporation Common Stock
 SO,Southern Company (The) Common Stock
 SOBO,South Bow Corporation Common Shares
