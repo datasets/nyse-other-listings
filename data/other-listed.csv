@@ -180,7 +180,7 @@ AIVL,WisdomTree U.S. AI Enhanced Value Fund,WisdomTree U.S. AI Enhanced Value Fu
 AIYY,YieldMax AI Option Income Strategy ETF,YieldMax AI Option Income Strategy ETF,P,AIYY,Y,100.0,N,AIYY
 AIZ,"Assurant, Inc. Common Stock","Assurant, Inc. Common Stock",N,AIZ,N,100.0,N,AIZ
 AIZN,"Assurant, Inc. 5.25% Subordinated Notes due 2061","Assurant, Inc. 5.25% Subordinated Notes due 2061",N,AIZN,N,100.0,N,AIZN
-AJAN,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to January 2026,Z,AJAN,Y,100.0,N,AJAN
+AJAN,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to January 2028,Z,AJAN,Y,100.0,N,AJAN
 AJG,Arthur J. Gallagher & Co. Common Stock,Arthur J. Gallagher & Co. Common Stock,N,AJG,N,40.0,N,AJG
 AJUL,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to July 2026,Z,AJUL,Y,100.0,N,AJUL
 AKA,a.k.a. Brands Holding Corp. Common Stock,a.k.a. Brands Holding Corp. Common Stock,N,AKA,N,100.0,N,AKA
@@ -211,7 +211,9 @@ ALSN,"Allison Transmission Holdings, Inc. Common Stock","Allison Transmission Ho
 ALTG,Alta Equipment Group Inc. Class A Common Stock,Alta Equipment Group Inc. Class A Common Stock,N,ALTG,N,100.0,N,ALTG
 ALTG$A,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),N,ALTGpA,N,100.0,N,ALTG-A
 ALTL,Pacer Lunt Large Cap Alternator ETF,Pacer Lunt Large Cap Alternator ETF,P,ALTL,Y,100.0,N,ALTL
+ALUB,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,N,ALUB,N,100.0,N,ALUB
 ALUB.U,"Alussa Energy Acquisition Corp. II Units, each consisting of one Class A ordinary share and one","Alussa Energy Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,ALUB.U,N,100.0,N,ALUB=
+ALUB.W,"Alussa Energy Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Alussa Energy Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,ALUB.WS,N,100.0,N,ALUB+
 ALUR,"Allurion Technologies, Inc. Common Stock","Allurion Technologies, Inc. Common Stock",N,ALUR,N,100.0,N,ALUR
 ALUR.W,"Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock","Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock",N,ALUR.WS,N,100.0,N,ALUR+
 ALV,"Autoliv, Inc. Common Stock","Autoliv, Inc. Common Stock",N,ALV,N,100.0,N,ALV
@@ -671,6 +673,7 @@ BHYB,Xtrackers USD High Yield BB,Xtrackers USD High Yield BB-B ex Financials ETF
 BIBL,Inspire 100 ETF,Inspire 100 ETF,P,BIBL,Y,100.0,N,BIBL
 BIDD,iShares International Dividend Active ETF,iShares International Dividend Active ETF,P,BIDD,Y,100.0,N,BIDD
 BIGY,YieldMax Target 12 Big 50 Option Income ETF,YieldMax Target 12 Big 50 Option Income ETF,P,BIGY,Y,100.0,N,BIGY
+BIII.U,"Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one","Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,BIII.U,N,100.0,N,BIII=
 BIL,State Street SPDR Bloomberg 1,State Street SPDR Bloomberg 1-3 Month T-Bill ETF,P,BIL,Y,100.0,N,BIL
 BILD,Nomura Global Listed Infrastructure ETF,Nomura Global Listed Infrastructure ETF,P,BILD,Y,100.0,N,BILD
 BILL,"BILL Holdings, Inc. Common Stock","BILL Holdings, Inc. Common Stock",N,BILL,N,100.0,N,BILL
@@ -1363,7 +1366,6 @@ CUT,Invesco MSCI Global Timber ETF,Invesco MSCI Global Timber ETF,P,CUT,Y,100.0,
 CUZ,Cousins Properties Incorporated Common Stock,Cousins Properties Incorporated Common Stock,N,CUZ,N,100.0,N,CUZ
 CVAR,Cultivar ETF,Cultivar ETF,Z,CVAR,Y,100.0,N,CVAR
 CVE,Cenovus Energy Inc Common Stock,Cenovus Energy Inc Common Stock,N,CVE,N,100.0,N,CVE
-CVE.W,Cenovus Energy Inc Warrants (each warrant entitles the holder to purchase one common share at an exercise price of C$6.54 per share),Cenovus Energy Inc Warrants (each warrant entitles the holder to purchase one common share at an exercise price of C$6.54 per share),N,CVE.WS,N,100.0,N,CVE+
 CVEO,Civeo Corporation (Canada) Common Shares,Civeo Corporation (Canada) Common Shares,N,CVEO,N,100.0,N,CVEO
 CVI,CVR Energy Inc. Common Stock,CVR Energy Inc. Common Stock,N,CVI,N,100.0,N,CVI
 CVIE,Calvert International Responsible Index ETF,Calvert International Responsible Index ETF,P,CVIE,Y,100.0,N,CVIE
@@ -1990,9 +1992,9 @@ ETCO,Grayscale Ethereum Covered Call ETF,Grayscale Ethereum Covered Call ETF,P,E
 ETD,Ethan Allen Interiors Inc. Common Stock,Ethan Allen Interiors Inc. Common Stock,N,ETD,N,100.0,N,ETD
 ETFT,Fundsmith Equity ETF,Fundsmith Equity ETF,P,ETFT,Y,100.0,N,ETFT
 ETG,Eaton Vance Tax,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,N,ETG,N,100.0,N,ETG
-ETH,Grayscale Ethereum Mini Trust (ETH),Grayscale Ethereum Mini Trust (ETH),P,ETH,Y,100.0,N,ETH
+ETH,Grayscale Ethereum Staking Mini ETF Shares,Grayscale Ethereum Staking Mini ETF Shares,P,ETH,Y,100.0,N,ETH
 ETHD,ProShares UltraShort Ether ETF,ProShares UltraShort Ether ETF,P,ETHD,Y,100.0,N,ETHD
-ETHE,Grayscale Ethereum Trust (ETH),Grayscale Ethereum Trust (ETH),P,ETHE,Y,100.0,N,ETHE
+ETHE,Grayscale Ethereum Staking ETF Shares,Grayscale Ethereum Staking ETF Shares,P,ETHE,Y,100.0,N,ETHE
 ETHO,Amplify Etho Climate Leadership U.S. ETF,Amplify Etho Climate Leadership U.S. ETF,P,ETHO,Y,100.0,N,ETHO
 ETHT,ProShares Ultra Ether ETF,ProShares Ultra Ether ETF,P,ETHT,Y,100.0,N,ETHT
 ETHU,2x Ether ETF,2x Ether ETF,Z,ETHU,Y,100.0,N,ETHU
@@ -2738,7 +2740,7 @@ GSKH,GSK plc ADRhedged,GSK plc ADRhedged,P,GSKH,Y,100.0,N,GSKH
 GSL,Global Ship Lease Inc New Class A Common Shares,Global Ship Lease Inc New Class A Common Shares,N,GSL,N,100.0,N,GSL
 GSL$B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)","Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)",N,GSLpB,N,100.0,N,GSL-B
 GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,P,GSLC,Y,100.0,N,GSLC
-GSOL,Grayscale Solana Trust ETF,Grayscale Solana Trust ETF,P,GSOL,Y,100.0,N,GSOL
+GSOL,Grayscale Solana Staking ETF,Grayscale Solana Staking ETF,P,GSOL,Y,100.0,N,GSOL
 GSPY,Gotham Enhanced 500 ETF,Gotham Enhanced 500 ETF,P,GSPY,Y,100.0,N,GSPY
 GSSC,GS ActiveBeta U.S. Small Cap Equity ETF,GS ActiveBeta U.S. Small Cap Equity ETF,P,GSSC,Y,100.0,N,GSSC
 GSST,Goldman Sachs Ultra Short Bond ETF,Goldman Sachs Ultra Short Bond ETF,Z,GSST,Y,100.0,N,GSST
@@ -3303,7 +3305,7 @@ IWM,iShares Russell 2000 ETF,iShares Russell 2000 ETF,P,IWM,Y,100.0,N,IWM
 IWMI,NEOS Russell 2000 High Income ETF,NEOS Russell 2000 High Income ETF,Z,IWMI,Y,100.0,N,IWMI
 IWML,ETRACS 2x Leveraged US Size Factor TR ETN,ETRACS 2x Leveraged US Size Factor TR ETN,P,IWML,Y,100.0,N,IWML
 IWMW,iShares Russell 2000 BuyWrite ETF,iShares Russell 2000 BuyWrite ETF,Z,IWMW,Y,100.0,N,IWMW
-IWMY,Defiance R2000 Enhanced Options & 0DTE Income ETF,Defiance R2000 Enhanced Options & 0DTE Income ETF,P,IWMY,Y,100.0,N,IWMY
+IWMY,Defiance R2000 Weekly Distribution ETF,Defiance R2000 Weekly Distribution ETF,P,IWMY,Y,100.0,N,IWMY
 IWN,iShares Russell 2000 Value ETF,iShares Russell 2000 Value ETF,P,IWN,Y,100.0,N,IWN
 IWO,iShares Russell 2000 Growth Fund,iShares Russell 2000 Growth Fund,P,IWO,Y,40.0,N,IWO
 IWP,iShares Russell Midcap Growth ETF,iShares Russell Midcap Growth ETF,P,IWP,Y,100.0,N,IWP
@@ -6002,7 +6004,7 @@ TIIV,AAM Todd International Intrinsic Value ETF,AAM Todd International Intrinsic
 TILL,Teucrium Agricultural Strategy No K,Teucrium Agricultural Strategy No K-1 ETF,P,TILL,Y,100.0,N,TILL
 TILT,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,FlexShares Mornigstar US Market Factors Tilt Index Fund ETF,Z,TILT,Y,100.0,N,TILT
 TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) ,N,TIMB,N,100.0,N,TIMB
-TIME,Clockwise Core Equity & Innovation ETF,Clockwise Core Equity & Innovation ETF,P,TIME,Y,100.0,N,TIME
+TIME,Clockwise U.S. Core Equity ETF,Clockwise U.S. Core Equity ETF,P,TIME,Y,100.0,N,TIME
 TINS,Templeton International Insights ETF,Templeton International Insights ETF,P,TINS,Y,100.0,N,TINS
 TINT,ProShares Smart Materials ETF,ProShares Smart Materials ETF,P,TINT,Y,100.0,N,TINT
 TINY,ProShares Nanotechnology ETF,ProShares Nanotechnology ETF,P,TINY,Y,100.0,N,TINY
@@ -6097,7 +6099,7 @@ TPSC,Timothy Plan US Small Cap Core ETF,Timothy Plan US Small Cap Core ETF,P,TPS
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026","Terra Property Trust, Inc. 6.00% Notes due 2026",N,TPTA,N,100.0,N,TPTA
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,TriplePoint Venture Growth BDC Corp. Common Stock,N,TPVG,N,100.0,N,TPVG
 TPYP,Tortoise North American Pipeline Fund,Tortoise North American Pipeline Fund,N,TPYP,Y,100.0,N,TPYP
-TPZ,Tortoise Essential Energy Fund,Tortoise Essential Energy Fund,N,TPZ,Y,100.0,N,TPZ
+TPZ,Tortoise Electrification Infrastructure ETF,Tortoise Electrification Infrastructure ETF,N,TPZ,Y,100.0,N,TPZ
 TR,"Tootsie Roll Industries, Inc. Common Stock","Tootsie Roll Industries, Inc. Common Stock",N,TR,N,100.0,N,TR
 TRAK,"ReposiTrak, Inc. Common Stock","ReposiTrak, Inc. Common Stock",N,TRAK,N,100.0,N,TRAK
 TRC,Tejon Ranch Co Common Stock,Tejon Ranch Co Common Stock,N,TRC,N,100.0,N,TRC
@@ -6563,7 +6565,7 @@ WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,W
 WDIV,SPDR S&P Global Dividend,SPDR S&P Global Dividend,P,WDIV,Y,100.0,N,WDIV
 WDNA,WisdomTree BioRevolution Fund,WisdomTree BioRevolution Fund,Z,WDNA,Y,100.0,N,WDNA
 WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share","Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",N,WDS,N,100.0,N,WDS
-WDTE,Defiance S&P 500 Enhanced Options & 0DTE Income ETF,Defiance S&P 500 Enhanced Options & 0DTE Income ETF,P,WDTE,Y,100.0,N,WDTE
+WDTE,Defiance S&P 500 Weekly Distribution ETF,Defiance S&P 500 Weekly Distribution ETF,P,WDTE,Y,100.0,N,WDTE
 WEA,Western Asset Bond Fund Share of Beneficial Interest,Western Asset Bond Fund Share of Beneficial Interest,N,WEA,N,100.0,N,WEA
 WEAT,Teucrium Wheat Fund ETV,Teucrium Wheat Fund ETV,P,WEAT,Y,100.0,N,WEAT
 WEAV,"Weave Communications, Inc. Common Stock","Weave Communications, Inc. Common Stock",N,WEAV,N,100.0,N,WEAV

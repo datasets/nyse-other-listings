@@ -130,7 +130,9 @@ ALLY,Ally Financial Inc. Common Stock
 ALSN,"Allison Transmission Holdings, Inc. Common Stock"
 ALTG,Alta Equipment Group Inc. Class A Common Stock
 ALTG$A,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock)
+ALUB,Alussa Energy Acquisition Corp. II Class A Ordinary Shares
 ALUB.U,"Alussa Energy Acquisition Corp. II Units, each consisting of one Class A ordinary share and one"
+ALUB.W,"Alussa Energy Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 ALUR,"Allurion Technologies, Inc. Common Stock"
 ALUR.W,"Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock"
 ALV,"Autoliv, Inc. Common Stock"
@@ -370,6 +372,7 @@ BHR$B,"Braemar Hotels & Resorts Inc. 5.50% Series B Cumulative Convertible Prefe
 BHR$D,"Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock,  par value $0.01 per share"
 BHV,BlackRock Virginia Municipal Bond Trust
 BHVN,Biohaven Ltd. Common Shares 
+BIII.U,"Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one"
 BILL,"BILL Holdings, Inc. Common Stock"
 BIO,Bio
 BIO.B,Bio
@@ -713,7 +716,6 @@ CURB,Curbline Properties Corp. Common Stock
 CURV,Torrid Holdings Inc. Common Stock
 CUZ,Cousins Properties Incorporated Common Stock
 CVE,Cenovus Energy Inc Common Stock
-CVE.W,Cenovus Energy Inc Warrants (each warrant entitles the holder to purchase one common share at an exercise price of C$6.54 per share)
 CVEO,Civeo Corporation (Canada) Common Shares
 CVI,CVR Energy Inc. Common Stock
 CVLG,"Covenant Logistics Group, Inc. Class A Common Stock"
@@ -2588,7 +2590,7 @@ TPR,"Tapestry, Inc. Common Stock"
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026"
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock
 TPYP,Tortoise North American Pipeline Fund
-TPZ,Tortoise Essential Energy Fund
+TPZ,Tortoise Electrification Infrastructure ETF
 TR,"Tootsie Roll Industries, Inc. Common Stock"
 TRAK,"ReposiTrak, Inc. Common Stock"
 TRC,Tejon Ranch Co Common Stock
