@@ -4783,6 +4783,7 @@ PLTI,REX PLTR Growth & Income ETF,REX PLTR Growth & Income ETF,Z,PLTI,Y,100.0,N,
 PLTM,GraniteShares Platinum Shares ETF,GraniteShares Platinum Shares ETF,P,PLTM,Y,100.0,N,PLTM
 PLTW,Roundhill PLTR WeeklyPay ETF,Roundhill PLTR WeeklyPay ETF,Z,PLTW,Y,100.0,N,PLTW
 PLTY,YieldMax PLTR Option Income Strategy ETF,YieldMax PLTR Option Income Strategy ETF,P,PLTY,Y,100.0,N,PLTY
+PLU,Defiance Daily Target 2x Long PL ETF,Defiance Daily Target 2x Long PL ETF,Z,PLU,Y,100.0,N,PLU
 PLX,"Protalix BioTherapeutics, Inc. (DE) Common Stock","Protalix BioTherapeutics, Inc. (DE) Common Stock",A,PLX,N,100.0,N,PLX
 PLYM,"Plymouth Industrial REIT, Inc. Common Stock","Plymouth Industrial REIT, Inc. Common Stock",N,PLYM,N,100.0,N,PLYM
 PM,Philip Morris International Inc Common Stock,Philip Morris International Inc Common Stock,N,PM,N,100.0,N,PM
@@ -5908,6 +5909,7 @@ TCPB,Thrivent Core Plus Bond ETF,Thrivent Core Plus Bond ETF,P,TCPB,Y,100.0,N,TC
 TCV,Towle Value ETF,Towle Value ETF,P,TCV,Y,100.0,N,TCV
 TD,Toronto Dominion Bank (The) Common Stock,Toronto Dominion Bank (The) Common Stock,N,TD,N,100.0,N,TD
 TDAQ,TappAlpha Innovation 100 Growth & Daily Income ETF,TappAlpha Innovation 100 Growth & Daily Income ETF,Z,TDAQ,Y,100.0,N,TDAQ
+TDAX,TDAQ Lift ETF,TDAQ Lift ETF,Z,TDAX,Y,100.0,N,TDAX
 TDAY,"USA TODAY Co., Inc. Common Stock","USA TODAY Co., Inc. Common Stock",N,TDAY,N,100.0,N,TDAY
 TDC,Teradata Corporation Common Stock,Teradata Corporation Common Stock,N,TDC,N,100.0,N,TDC
 TDEC,FT Vest Emerging Markets Buffer ETF ,FT Vest Emerging Markets Buffer ETF - December,Z,TDEC,Y,100.0,N,TDEC
@@ -6855,6 +6857,12 @@ ZALT,Innovator U.S. Equity 10 Buffer ETF ,Innovator U.S. Equity 10 Buffer ETF - 
 ZAPR,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr April,Z,ZAPR,Y,100.0,N,ZAPR
 ZAUG,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr August,Z,ZAUG,Y,100.0,N,ZAUG
 ZBH,"Zimmer Biomet Holdings, Inc. Common Stock","Zimmer Biomet Holdings, Inc. Common Stock",N,ZBH,N,100.0,N,ZBH
+ZCBA,Global X Zero Coupon Bond 2030 ETF,Global X Zero Coupon Bond 2030 ETF,P,ZCBA,Y,100.0,N,ZCBA
+ZCBB,Global X Zero Coupon Bond 2031 ETF,Global X Zero Coupon Bond 2031 ETF,P,ZCBB,Y,100.0,N,ZCBB
+ZCBC,Global X Zero Coupon Bond 2032 ETF,Global X Zero Coupon Bond 2032 ETF,P,ZCBC,Y,100.0,N,ZCBC
+ZCBE,Global X Zero Coupon Bond 2033 ETF,Global X Zero Coupon Bond 2033 ETF,P,ZCBE,Y,100.0,N,ZCBE
+ZCBF,Global X Zero Coupon Bond 2034 ETF,Global X Zero Coupon Bond 2034 ETF,P,ZCBF,Y,100.0,N,ZCBF
+ZCBG,Global X Zero Coupon Bond 2035 ETF,Global X Zero Coupon Bond 2035 ETF,P,ZCBG,Y,100.0,N,ZCBG
 ZDEK,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr December,Z,ZDEK,Y,100.0,N,ZDEK
 ZDGE,"Zedge, Inc. Class B Common Stock ","Zedge, Inc. Class B Common Stock ",A,ZDGE,N,100.0,N,ZDGE
 ZECP,Zacks Earnings Consistent Portfolio ETF,Zacks Earnings Consistent Portfolio ETF,Z,ZECP,Y,100.0,N,ZECP
