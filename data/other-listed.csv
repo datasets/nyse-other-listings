@@ -578,6 +578,7 @@ BCIL,Bancreek International Large Cap ETF,Bancreek International Large Cap ETF,P
 BCKT,LifeX 2030 Income Bucket ETF,LifeX 2030 Income Bucket ETF,Z,BCKT,Y,100.0,N,BCKT
 BCO,Brinks Company (The) Common Stock,Brinks Company (The) Common Stock,N,BCO,N,100.0,N,BCO
 BCOR,Grayscale Bitcoin Adopters ETF,Grayscale Bitcoin Adopters ETF,P,BCOR,Y,100.0,N,BCOR
+BCPL,BNY Mellon Core Plus ETF,BNY Mellon Core Plus ETF,P,BCPL,Y,100.0,N,BCPL
 BCS,Barclays PLC Common Stock,Barclays PLC Common Stock,N,BCS,N,100.0,N,BCS
 BCSF,"Bain Capital Specialty Finance, Inc. Common Stock","Bain Capital Specialty Finance, Inc. Common Stock",N,BCSF,N,100.0,N,BCSF
 BCSM,Baron SMID Cap ETF,Baron SMID Cap ETF,N,BCSM,Y,100.0,N,BCSM
@@ -629,6 +630,7 @@ BFEB,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - Februa
 BFH,"Bread Financial Holdings, Inc. Common Stock","Bread Financial Holdings, Inc. Common Stock",N,BFH,N,100.0,N,BFH
 BFH$A,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non","Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A",N,BFHpA,N,100.0,N,BFH-A
 BFIX,Build Bond Innovation ETF,Build Bond Innovation ETF,P,BFIX,Y,100.0,N,BFIX
+BFJA,FT Vest Bitcoin Strategy Floor15 ETF ,FT Vest Bitcoin Strategy Floor15 ETF - January,P,BFJA,Y,100.0,N,BFJA
 BFJL,FT Vest Bitcoin Strategy Floor15 ETF July,FT Vest Bitcoin Strategy Floor15 ETF July,P,BFJL,Y,100.0,N,BFJL
 BFK,BlackRock Municipal Income Trust,BlackRock Municipal Income Trust,N,BFK,N,100.0,N,BFK
 BFLB,BufferLABS US Equity Dynamic Buffer ETF,BufferLABS US Equity Dynamic Buffer ETF,Z,BFLB,Y,100.0,N,BFLB
@@ -720,6 +722,7 @@ BKDV,BNY Mellon Dynamic Value ETF,BNY Mellon Dynamic Value ETF,P,BKDV,Y,100.0,N,
 BKE,"Buckle, Inc. (The) Common Stock","Buckle, Inc. (The) Common Stock",N,BKE,N,100.0,N,BKE
 BKEM,BNY Mellon Emerging Markets Equity ETF,BNY Mellon Emerging Markets Equity ETF,P,BKEM,Y,100.0,N,BKEM
 BKF,iShares MSCI BIC ETF,iShares MSCI BIC ETF,P,BKF,Y,100.0,N,BKF
+BKFI,BNY Mellon Active Core Bond ETF,BNY Mellon Active Core Bond ETF,P,BKFI,Y,100.0,N,BKFI
 BKGI,BNY Mellon Global Infrastructure Income ETF,BNY Mellon Global Infrastructure Income ETF,Z,BKGI,Y,100.0,N,BKGI
 BKH,Black Hills Corporation Common Stock,Black Hills Corporation Common Stock,N,BKH,N,100.0,N,BKH
 BKHY,BNY Mellon High Yield ETF,BNY Mellon High Yield ETF,P,BKHY,Y,100.0,N,BKHY
@@ -2978,7 +2981,7 @@ HYS,PIMCO 0,PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund,P
 HYSA,BondBloxx USD High Yield Bond Sector Rotation ETF,BondBloxx USD High Yield Bond Sector Rotation ETF,P,HYSA,Y,100.0,N,HYSA
 HYSD,Columbia Short Duration High Yield ETF,Columbia Short Duration High Yield ETF,P,HYSD,Y,100.0,N,HYSD
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock","Blackrock Corporate High Yield Fund, Inc. Common Stock",N,HYT,N,100.0,N,HYT
-HYT.V,"Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued","Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued",N,HYTrw,N,100.0,N,HYT^#
+HYT.R,"Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights","Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights",N,HYTr,N,100.0,N,HYT^
 HYTI,FT Vest High Yield & Target Income ETF,FT Vest High Yield & Target Income ETF,P,HYTI,Y,100.0,N,HYTI
 HYTR,Counterpoint High Yield Trend ETF,Counterpoint High Yield Trend ETF,N,HYTR,Y,100.0,N,HYTR
 HYUP,Xtrackers High Beta High Yield Bond ETF,Xtrackers High Beta High Yield Bond ETF,P,HYUP,Y,100.0,N,HYUP
@@ -4416,14 +4419,12 @@ NWLG,Nuveen Winslow Large,Nuveen Winslow Large-Cap Growth ESG ETF,P,NWLG,Y,100.0
 NWMX,Tradr 2X Long NEM Daily ETF,Tradr 2X Long NEM Daily ETF,Z,NWMX,Y,100.0,N,NWMX
 NWN,Northwest Natural Holding Company Common Stock,Northwest Natural Holding Company Common Stock,N,NWN,N,100.0,N,NWN
 NX,Quanex Building Products Corporation Common Stock,Quanex Building Products Corporation Common Stock,N,NX,N,100.0,N,NX
-NXC,Nuveen California Select Tax,Nuveen California Select Tax-Free Income Portfolio Common Stock,N,NXC,N,100.0,N,NXC
 NXDR,"Nextdoor Holdings, Inc. Class A Common Stock","Nextdoor Holdings, Inc. Class A Common Stock",N,NXDR,N,100.0,N,NXDR
 NXDT,NexPoint Diversified Real Estate Trust Common Stock,NexPoint Diversified Real Estate Trust Common Stock,N,NXDT,N,100.0,N,NXDT
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),N,NXDTpA,N,100.0,N,NXDT-A
 NXE,Nexgen Energy Ltd. Common Shares,Nexgen Energy Ltd. Common Shares,N,NXE,N,100.0,N,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,N,NXG,N,100.0,N,NXG
 NXJ,Nuveen New Jersey Qualified Municipal Fund ,Nuveen New Jersey Qualified Municipal Fund ,N,NXJ,N,100.0,N,NXJ
-NXN,Nuveen New York Select Tax,Nuveen New York Select Tax-Free Income Portfolio Common Stock,N,NXN,N,100.0,N,NXN
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,Nuveen Select Tax Free Income Portfolio Common Stock,N,NXP,N,100.0,N,NXP
 NXRT,"NexPoint Residential Trust, Inc. Common Stock","NexPoint Residential Trust, Inc. Common Stock",N,NXRT,N,100.0,N,NXRT
 NXTE,AXS Green Alpha ETF,AXS Green Alpha ETF,P,NXTE,Y,100.0,N,NXTE
@@ -5169,7 +5170,6 @@ RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
 RJDI,RJ Eagle GCM Dividend Select Income ETF,RJ Eagle GCM Dividend Select Income ETF,P,RJDI,Y,100.0,N,RJDI
 RJF,"Raymond James Financial, Inc. Common Stock","Raymond James Financial, Inc. Common Stock",N,RJF,N,100.0,N,RJF
-RJMG,FT Raymond James Multicap Growth Equity ETF,FT Raymond James Multicap Growth Equity ETF,P,RJMG,Y,100.0,N,RJMG
 RJMI,RJ Eagle Municipal Income ETF,RJ Eagle Municipal Income ETF,P,RJMI,Y,100.0,N,RJMI
 RJVI,RJ Eagle Vertical Income ETF,RJ Eagle Vertical Income ETF,P,RJVI,Y,100.0,N,RJVI
 RKT,"Rocket Companies, Inc. Class A Common Stock","Rocket Companies, Inc. Class A Common Stock",N,RKT,N,100.0,N,RKT
