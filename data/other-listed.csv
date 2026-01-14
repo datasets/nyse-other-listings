@@ -1309,6 +1309,7 @@ CRI,"Carter's, Inc. Common Stock","Carter's, Inc. Common Stock",N,CRI,N,100.0,N,
 CRK,"Comstock Resources, Inc. Common Stock","Comstock Resources, Inc. Common Stock",N,CRK,N,100.0,N,CRK
 CRL,"Charles River Laboratories International, Inc. Common Stock","Charles River Laboratories International, Inc. Common Stock",N,CRL,N,100.0,N,CRL
 CRM,"Salesforce, Inc. Common Stock","Salesforce, Inc. Common Stock",N,CRM,N,100.0,N,CRM
+CRMX,Tradr 2X Long CRML Daily ETF,Tradr 2X Long CRML Daily ETF,Z,CRMX,Y,100.0,N,CRMX
 CRPT,First Trust SkyBridge Crypto Industry and Digital Economy ETF,First Trust SkyBridge Crypto Industry and Digital Economy ETF,P,CRPT,Y,100.0,N,CRPT
 CRS,Carpenter Technology Corporation Common Stock,Carpenter Technology Corporation Common Stock,N,CRS,N,100.0,N,CRS
 CRSH,YieldMax Short TSLA Option Income Strategy ETF,YieldMax Short TSLA Option Income Strategy ETF,P,CRSH,Y,100.0,N,CRSH
@@ -2502,6 +2503,7 @@ GBXC,Goldman Sachs U.S. Large Cap Buffer 3 ETF,Goldman Sachs U.S. Large Cap Buff
 GCAD,Gabelli Commercial Aerospace and Defense ETF,Gabelli Commercial Aerospace and Defense ETF,P,GCAD,Y,100.0,N,GCAD
 GCAL,Goldman Sachs Dynamic California Municipal Income ETF,Goldman Sachs Dynamic California Municipal Income ETF,P,GCAL,Y,100.0,N,GCAL
 GCC,WisdomTree EnhancedContinuous Commodity Index Fund,WisdomTree EnhancedContinuous Commodity Index Fund,P,GCC,Y,100.0,N,GCC
+GCDT,Green Circle Decarbonize Technology Limited Ordinary Shares,Green Circle Decarbonize Technology Limited Ordinary Shares,A,GCDT,N,100.0,N,GCDT
 GCO,Genesco Inc. Common Stock,Genesco Inc. Common Stock,N,GCO,N,100.0,N,GCO
 GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,Goldman Sachs Access U.S. Aggregate Bond ETF,P,GCOR,Y,100.0,N,GCOR
 GCOW,Pacer Global Cash Cows Dividend ETF,Pacer Global Cash Cows Dividend ETF,Z,GCOW,Y,100.0,N,GCOW
@@ -3778,6 +3780,7 @@ LSGR,Natixis Loomis Sayles Focused Growth ETF,Natixis Loomis Sayles Focused Grow
 LSPD,Lightspeed Commerce Inc. Subordinate Voting Shares,Lightspeed Commerce Inc. Subordinate Voting Shares,N,LSPD,N,100.0,N,LSPD
 LST,Leuthold Select Industries ETF,Leuthold Select Industries ETF,P,LST,Y,100.0,N,LST
 LSVD,LSV Disciplined Value ETF,LSV Disciplined Value ETF,P,LSVD,Y,100.0,N,LSVD
+LTAX,Nomura Tax,Nomura Tax-Free USA ETF,P,LTAX,Y,100.0,N,LTAX
 LTC,"LTC Properties, Inc. Common Stock","LTC Properties, Inc. Common Stock",N,LTC,N,100.0,N,LTC
 LTH,"Life Time Group Holdings, Inc. Common Stock","Life Time Group Holdings, Inc. Common Stock",N,LTH,N,100.0,N,LTH
 LTL,ProShares Ultra Communication Services,ProShares Ultra Communication Services,P,LTL,Y,100.0,N,LTL
@@ -3788,6 +3791,7 @@ LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordi
 LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,Lucky Strike Entertainment Corporation Class A Common Stock,N,LUCK,N,100.0,N,LUCK
 LUD,Luda Technology Group Limited Ordinary Shares,Luda Technology Group Limited Ordinary Shares,A,LUD,N,100.0,N,LUD
 LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common Stock",N,LUMN,N,100.0,N,LUMN
+LUNL,Defiance Daily Target 2X Long LUNR ETF,Defiance Daily Target 2X Long LUNR ETF,Z,LUNL,Y,100.0,N,LUNL
 LUV,Southwest Airlines Company Common Stock,Southwest Airlines Company Common Stock,N,LUV,N,100.0,N,LUV
 LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share","LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",N,LUXE,N,100.0,N,LUXE
 LVDS,JPMorgan Fundamental Data Science Large Value ETF,JPMorgan Fundamental Data Science Large Value ETF,Z,LVDS,Y,100.0,N,LVDS
@@ -4501,6 +4505,7 @@ OMFL,Invesco Russell 1000 Dynamic Multifactor ETF,Invesco Russell 1000 Dynamic M
 OMFS,Invesco Russell 2000 Dynamic Multifactor ETF,Invesco Russell 2000 Dynamic Multifactor ETF,Z,OMFS,Y,100.0,N,OMFS
 OND,ProShares On,ProShares On-Demand ETF,P,OND,Y,100.0,N,OND
 ONDL,Defiance Daily Target 2X Long ONDS ETF,Defiance Daily Target 2X Long ONDS ETF,Z,ONDL,Y,100.0,N,ONDL
+ONDU,Tradr 2X Long ONDS Daily ETF,Tradr 2X Long ONDS Daily ETF,Z,ONDU,Y,100.0,N,ONDU
 ONEO,State Street SPDR Russell 1000 Momentum Focus ETF,State Street SPDR Russell 1000 Momentum Focus ETF,P,ONEO,Y,100.0,N,ONEO
 ONEV,State Street SPDR Russell 1000 Low Volatility Focus ETF,State Street SPDR Russell 1000 Low Volatility Focus ETF,P,ONEV,Y,100.0,N,ONEV
 ONEY,State Street SPDR Russell 1000 Yield Focus ETF,State Street SPDR Russell 1000 Yield Focus ETF,P,ONEY,Y,100.0,N,ONEY
@@ -4588,6 +4593,7 @@ PAPR,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer 
 PAR,PAR Technology Corporation Common Stock,PAR Technology Corporation Common Stock,N,PAR,N,100.0,N,PAR
 PARR,"Par Pacific Holdings, Inc.  Common Stock","Par Pacific Holdings, Inc.  Common Stock",N,PARR,N,100.0,N,PARR
 PATH,"UiPath, Inc. Class A Common Stock","UiPath, Inc. Class A Common Stock",N,PATH,N,100.0,N,PATH
+PATX,Tradr 2X Long PATH Daily ETF,Tradr 2X Long PATH Daily ETF,Z,PATX,Y,100.0,N,PATX
 PAUG,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - August,Z,PAUG,Y,100.0,N,PAUG
 PAVE,Global X U.S. Infrastructure Development ETF,Global X U.S. Infrastructure Development ETF,Z,PAVE,Y,100.0,N,PAVE
 PAWZ,ProShares Pet Care ETF,ProShares Pet Care ETF,Z,PAWZ,Y,100.0,N,PAWZ
@@ -4992,7 +4998,9 @@ QDVO,Amplify CWP Growth & Income ETF,Amplify CWP Growth & Income ETF,P,QDVO,Y,10
 QEFA,SPDR MSCI EAFE StrategicFactors ETF,SPDR MSCI EAFE StrategicFactors ETF,P,QEFA,Y,100.0,N,QEFA
 QEMM,SPDR MSCI Emerging Markets StrategicFactors ETF,SPDR MSCI Emerging Markets StrategicFactors ETF,P,QEMM,Y,100.0,N,QEMM
 QETH,Invesco Galaxy Ethereum ETF,Invesco Galaxy Ethereum ETF,Z,QETH,Y,100.0,N,QETH
+QFHD,Pacer S&P 500 Quality FCF High Dividend ETF,Pacer S&P 500 Quality FCF High Dividend ETF,Z,QFHD,Y,100.0,N,QFHD
 QFLR,Innovator Nasdaq,Innovator Nasdaq-100 Managed Floor ETF,P,QFLR,Y,100.0,N,QFLR
+QFRD,Pacer S&P 500 Quality FCF R&D Leaders,Pacer S&P 500 Quality FCF R&D Leaders,Z,QFRD,Y,100.0,N,QFRD
 QGEN,Qiagen N.V. Common Shares,Qiagen N.V. Common Shares,N,QGEN,N,100.0,N,QGEN
 QGRO,American Century U.S. Quality Growth ETF,American Century U.S. Quality Growth ETF,P,QGRO,Y,100.0,N,QGRO
 QGRW,WisdomTree U.S. Quality Growth Fund,WisdomTree U.S. Quality Growth Fund,P,QGRW,Y,100.0,N,QGRW
@@ -5173,6 +5181,7 @@ RJF,"Raymond James Financial, Inc. Common Stock","Raymond James Financial, Inc. 
 RJMI,RJ Eagle Municipal Income ETF,RJ Eagle Municipal Income ETF,P,RJMI,Y,100.0,N,RJMI
 RJVI,RJ Eagle Vertical Income ETF,RJ Eagle Vertical Income ETF,P,RJVI,Y,100.0,N,RJVI
 RKT,"Rocket Companies, Inc. Class A Common Stock","Rocket Companies, Inc. Class A Common Stock",N,RKT,N,100.0,N,RKT
+RKTL,Defiance Daily Target 2X Long RKT ETF,Defiance Daily Target 2X Long RKT ETF,Z,RKTL,Y,100.0,N,RKTL
 RL,Ralph Lauren Corporation Common Stock,Ralph Lauren Corporation Common Stock,N,RL,N,40.0,N,RL
 RLGT,"Radiant Logistics, Inc. Common Stock","Radiant Logistics, Inc. Common Stock",A,RLGT,N,100.0,N,RLGT
 RLI,RLI Corp. Common Stock (DE),RLI Corp. Common Stock (DE),N,RLI,N,100.0,N,RLI
@@ -6297,6 +6306,7 @@ USA,Liberty All,Liberty All-Star Equity Fund Common Stock,N,USA,N,100.0,N,USA
 USAC,"USA Compression Partners, LP Common Units Representing Limited Partner Interests","USA Compression Partners, LP Common Units Representing Limited Partner Interests",N,USAC,N,100.0,N,USAC
 USAI,Pacer American Energy Independence ETF,Pacer American Energy Independence ETF,P,USAI,Y,100.0,N,USAI
 USAS,"Americas Gold and Silver Corporation Common Shares, no par value","Americas Gold and Silver Corporation Common Shares, no par value",A,USAS,N,100.0,N,USAS
+USAX,Tradr 2X Long USAR Daily ETF,Tradr 2X Long USAR Daily ETF,Z,USAX,Y,100.0,N,USAX
 USB,U.S. Bancorp Common Stock,U.S. Bancorp Common Stock,N,USB,N,100.0,N,USB
 USB$A,"U.S. Bancorp Depositary Shares, Each representing a 1/100th interest in a share of Series A Non","U.S. Bancorp Depositary Shares, Each representing a 1/100th interest in a share of Series A Non-CumulativePerpetual Pfd Stock",N,USBpA,N,40.0,N,USB-A
 USB$H,U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B,U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B,N,USBpH,N,100.0,N,USB-H
