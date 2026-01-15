@@ -948,6 +948,7 @@ C$N,Citigroup Capital XIII 7.875% Fixed rate Floating Rate trust Preferred Secur
 CAAA,First Trust AAA CMBS ETF,First Trust AAA CMBS ETF,P,CAAA,Y,100.0,N,CAAA
 CAAP,Corporacion America Airports SA Common Shares,Corporacion America Airports SA Common Shares,N,CAAP,N,100.0,N,CAAP
 CABO,"Cable One, Inc. Common Stock","Cable One, Inc. Common Stock",N,CABO,N,100.0,N,CABO
+CABZ,"Roundhill Robotaxi, Autonomous Vehicles & Technology ETF","Roundhill Robotaxi, Autonomous Vehicles & Technology ETF",Z,CABZ,Y,100.0,N,CABZ
 CACI,"CACI International, Inc. Class A Common Stock","CACI International, Inc. Class A Common Stock",N,CACI,N,40.0,N,CACI
 CADE,Cadence Bank Common Stock,Cadence Bank Common Stock,N,CADE,N,100.0,N,CADE
 CADE$A,Cadence Bank 5.50% Series A ,Cadence Bank 5.50% Series A ,N,CADEpA,N,100.0,N,CADE-A
@@ -1138,6 +1139,7 @@ CLH,"Clean Harbors, Inc. Common Stock","Clean Harbors, Inc. Common Stock",N,CLH,
 CLIP,Global X 1,Global X 1-3 Month T-Bill ETF,P,CLIP,Y,100.0,N,CLIP
 CLIX,ProShares Long Online/Short Stores ETF,ProShares Long Online/Short Stores ETF,P,CLIX,Y,100.0,N,CLIX
 CLM,"Cornerstone Strategic Investment Fund, Inc. Common Shares","Cornerstone Strategic Investment Fund, Inc. Common Shares",A,CLM,N,100.0,N,CLM
+CLNK,Common Shares of Beneficial Interest of Bitwise Chainlink ETF,Common Shares of Beneficial Interest of Bitwise Chainlink ETF,P,CLNK,Y,100.0,N,CLNK
 CLOB,VanEck AA,VanEck AA-BB CLO ETF,P,CLOB,Y,100.0,N,CLOB
 CLOC,AAM Crescent CLO ETF,AAM Crescent CLO ETF,P,CLOC,Y,100.0,N,CLOC
 CLOI,VanEck CLO ETF,VanEck CLO ETF,P,CLOI,Y,100.0,N,CLOI
@@ -1916,6 +1918,7 @@ EOI,Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fu
 EONR,EON Resources Inc. Class A Common Stock,EON Resources Inc. Class A Common Stock,A,EONR,N,100.0,N,EONR
 EONR.W,"EON Resources Inc. Warrants, each whole warrant exercisable for three quarters of one share of Class A Common Stock at an exercise price of $11.50 per whole share","EON Resources Inc. Warrants, each whole warrant exercisable for three quarters of one share of Class A Common Stock at an exercise price of $11.50 per whole share",A,EONR.WS,N,100.0,N,EONR+
 EOS,Eaton Vance Enhance Equity Income Fund II Common Stock,Eaton Vance Enhance Equity Income Fund II Common Stock,N,EOS,N,100.0,N,EOS
+EOSU,T,T-REX 2X Long EOSE Daily Target ETF,Z,EOSU,Y,100.0,N,EOSU
 EOT,Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST,Eaton Vance Municipal Income Trust EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST,N,EOT,N,100.0,N,EOT
 EP,Empire Petroleum Corporation Common Stock,Empire Petroleum Corporation Common Stock,A,EP,N,100.0,N,EP
 EP$C,El Paso Corporation Preferred Stock,El Paso Corporation Preferred Stock,N,EPpC,N,100.0,N,EP-C
@@ -3998,7 +4001,6 @@ MLR,"Miller Industries, Inc. Common Stock","Miller Industries, Inc. Common Stock
 MLSS,"Milestone Scientific, Inc. Common Stock","Milestone Scientific, Inc. Common Stock",A,MLSS,N,100.0,N,MLSS
 MMA,Mixed Martial Arts Group Limited Ordinary Shares,Mixed Martial Arts Group Limited Ordinary Shares,A,MMA,N,100.0,N,MMA
 MMAX,iShares Large Cap Max Buffer Mar ETF,iShares Large Cap Max Buffer Mar ETF,Z,MMAX,Y,100.0,N,MMAX
-MMC,"Marsh & McLennan Companies, Inc. Common Stock","Marsh & McLennan Companies, Inc. Common Stock",N,MMC,N,100.0,N,MMC
 MMCA,NYLI MacKay California Muni Intermediate ETF,NYLI MacKay California Muni Intermediate ETF,P,MMCA,Y,100.0,N,MMCA
 MMD,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,N,MMD,N,100.0,N,MMD
 MMI,"Marcus & Millichap, Inc. Common Stock","Marcus & Millichap, Inc. Common Stock",N,MMI,N,100.0,N,MMI
@@ -4055,6 +4057,7 @@ MRGR,ProShares Merger ETF,ProShares Merger ETF,Z,MRGR,Y,100.0,N,MRGR
 MRK,"Merck & Company, Inc. Common Stock (new)","Merck & Company, Inc. Common Stock (new)",N,MRK,N,100.0,N,MRK
 MRNY,YieldMax MRNA Option Income Strategy ETF,YieldMax MRNA Option Income Strategy ETF,P,MRNY,Y,100.0,N,MRNY
 MRP,"Millrose Properties, Inc. Class A Common Stock","Millrose Properties, Inc. Class A Common Stock",N,MRP,N,100.0,N,MRP
+MRSH,Marsh Common Stock,Marsh Common Stock,N,MRSH,N,100.0,N,MRSH
 MRSK,Toews Agility Shares Managed Risk ETF,Toews Agility Shares Managed Risk ETF,P,MRSK,Y,100.0,N,MRSK
 MRT,"Marti Technologies, Inc. Class A Ordinary Shares","Marti Technologies, Inc. Class A Ordinary Shares",A,MRT,N,100.0,N,MRT
 MS,Morgan Stanley Common Stock,Morgan Stanley Common Stock,N,MS,N,100.0,N,MS
