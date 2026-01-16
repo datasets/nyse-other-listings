@@ -635,7 +635,6 @@ BFJL,FT Vest Bitcoin Strategy Floor15 ETF July,FT Vest Bitcoin Strategy Floor15 
 BFK,BlackRock Municipal Income Trust,BlackRock Municipal Income Trust,N,BFK,N,100.0,N,BFK
 BFLB,BufferLABS US Equity Dynamic Buffer ETF,BufferLABS US Equity Dynamic Buffer ETF,Z,BFLB,Y,100.0,N,BFLB
 BFLY,"Butterfly Network, Inc. Class A Common Stock","Butterfly Network, Inc. Class A Common Stock",N,BFLY,N,100.0,N,BFLY
-BFLY.W,"Butterfly Network, Inc. Warrants","Butterfly Network, Inc. Warrants",N,BFLY.WS,N,100.0,N,BFLY+
 BFOC,FT Vest Bitcoin Strategy Floor15 ETF ,FT Vest Bitcoin Strategy Floor15 ETF - October,P,BFOC,Y,100.0,N,BFOC
 BFOR,Barron's 400 ETF,Barron's 400 ETF,P,BFOR,Y,100.0,N,BFOR
 BFRE,Westwood LBRTY Global Equity ETF,Westwood LBRTY Global Equity ETF,P,BFRE,Y,100.0,N,BFRE
@@ -5495,6 +5494,7 @@ SGN,"Signing Day Sports, Inc. Common Stock","Signing Day Sports, Inc. Common Sto
 SGOL,abrdn Physical Gold Shares ETF,abrdn Physical Gold Shares ETF,P,SGOL,Y,100.0,N,SGOL
 SGOV,iShares 0,iShares 0-3 Month Treasury Bond ETF,P,SGOV,Y,100.0,N,SGOV
 SGRT,SMART Earnings Growth 30 ETF,SMART Earnings Growth 30 ETF,P,SGRT,Y,100.0,N,SGRT
+SGRW,Harbor Active Small Cap Growth ETF,Harbor Active Small Cap Growth ETF,P,SGRW,Y,100.0,N,SGRW
 SGU,Star Group L.P. Common Stock,Star Group L.P. Common Stock,N,SGU,N,100.0,N,SGU
 SGVT,Schwab Government Money Market ETF,Schwab Government Money Market ETF,P,SGVT,Y,100.0,N,SGVT
 SH,ProShares Short S&P500,ProShares Short S&P500,P,SH,Y,100.0,N,SH
@@ -6607,7 +6607,6 @@ WHG,Westwood Holdings Group Inc Common Stock,Westwood Holdings Group Inc Common 
 WHR,Whirlpool Corporation Common Stock,Whirlpool Corporation Common Stock,N,WHR,N,100.0,N,WHR
 WHTX,2x Wheat ETF,2x Wheat ETF,Z,WHTX,Y,100.0,N,WHTX
 WIA,Western Asset Inflation,Western Asset Inflation-Linked Income Fund,N,WIA,N,100.0,N,WIA
-WILD,VistaShares Animal Spirits Daily 2X Strategy ETF,VistaShares Animal Spirits Daily 2X Strategy ETF,P,WILD,Y,100.0,N,WILD
 WINN,Harbor Long,Harbor Long-Term Growers ETF,N,WINN,Y,100.0,N,WINN
 WIP,SPDR FTSE International Government Inflation,SPDR FTSE International Government Inflation-Protected Bond ETF,P,WIP,Y,100.0,N,WIP
 WISD,Wisdom Short Duration Income ETF,Wisdom Short Duration Income ETF,P,WISD,Y,100.0,N,WISD
