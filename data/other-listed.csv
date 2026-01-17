@@ -960,6 +960,7 @@ CAIE,Calamos Autocallable Income ETF,Calamos Autocallable Income ETF,P,CAIE,Y,10
 CAL,"Caleres, Inc. Common Stock","Caleres, Inc. Common Stock",N,CAL,N,100.0,N,CAL
 CALF,Pacer US Small Cap Cash Cows ETF,Pacer US Small Cap Cash Cows ETF,Z,CALF,Y,100.0,N,CALF
 CALX,"Calix, Inc Common Stock","Calix, Inc Common Stock",N,CALX,N,100.0,N,CALX
+CALY,Callaway Golf Company Common Stock,Callaway Golf Company Common Stock,N,CALY,N,100.0,N,CALY
 CAM,AB California Intermediate Municipal ETF,AB California Intermediate Municipal ETF,P,CAM,Y,100.0,N,CAM
 CAML,Congress Large Cap Growth ETF,Congress Large Cap Growth ETF,P,CAML,Y,100.0,N,CAML
 CAMX,Cambiar Aggressive Value ETF,Cambiar Aggressive Value ETF,P,CAMX,Y,100.0,N,CAMX
@@ -4025,7 +4026,6 @@ MNTN,"MNTN, Inc. Class A Common Stock","MNTN, Inc. Class A Common Stock",N,MNTN,
 MO,"Altria Group, Inc.","Altria Group, Inc.",N,MO,N,100.0,N,MO
 MOAT,VanEck Morningstar Wide Moat ETF,VanEck Morningstar Wide Moat ETF,Z,MOAT,Y,100.0,N,MOAT
 MOD,Modine Manufacturing Company Common Stock,Modine Manufacturing Company Common Stock,N,MOD,N,100.0,N,MOD
-MODG,Topgolf Callaway Brands Corp. Common Stock,Topgolf Callaway Brands Corp. Common Stock,N,MODG,N,100.0,N,MODG
 MOG.A,Moog Inc. Class A Common Stock,Moog Inc. Class A Common Stock,N,MOG.A,N,100.0,N,MOG.A
 MOG.B,Moog Inc. Class B Common Stock,Moog Inc. Class B Common Stock,N,MOG.B,N,100.0,N,MOG.B
 MOGU,MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares),MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares),N,MOGU,N,100.0,N,MOGU
@@ -5702,6 +5702,7 @@ SPIN,State Street US Equity Premium Income ETF,State Street US Equity Premium In
 SPIP,State Street SPDR Portfolio TIPS ETF,State Street SPDR Portfolio TIPS ETF,P,SPIP,Y,100.0,N,SPIP
 SPIR,"Spire Global, Inc. Class A Common Stock","Spire Global, Inc. Class A Common Stock",N,SPIR,N,100.0,N,SPIR
 SPLB,State Street SPDR Portfolio Long Term Corporate Bond ETF,State Street SPDR Portfolio Long Term Corporate Bond ETF,P,SPLB,Y,100.0,N,SPLB
+SPLS,PIMCO US Stocks PLUS Active Bond Exchange,PIMCO US Stocks PLUS Active Bond Exchange-Traded Fund,Z,SPLS,Y,100.0,N,SPLS
 SPLV,Invesco S&P 500 Low Volatility ETF,Invesco S&P 500 Low Volatility ETF,P,SPLV,Y,100.0,N,SPLV
 SPMA,"Sound Point Meridian Capital, Inc. 8.00% Series A Preferred Shares Due 2029","Sound Point Meridian Capital, Inc. 8.00% Series A Preferred Shares Due 2029",N,SPMA,N,100.0,N,SPMA
 SPMB,State Street SPDR Portfolio Mortgage Backed Bond ETF,State Street SPDR Portfolio Mortgage Backed Bond ETF,P,SPMB,Y,100.0,N,SPMB
@@ -5767,6 +5768,7 @@ SRG$A,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred 
 SRHQ,SRH U.S. Quality GARP ETF,SRH U.S. Quality GARP ETF,P,SRHQ,Y,100.0,N,SRHQ
 SRHR,SRH REIT Covered Call ETF,SRH REIT Covered Call ETF,P,SRHR,Y,100.0,N,SRHR
 SRI,"Stoneridge, Inc. Common Stock","Stoneridge, Inc. Common Stock",N,SRI,N,100.0,N,SRI
+SRJN,Spire Inc. 6.375% Junior Subordinated Notes due 2086,Spire Inc. 6.375% Junior Subordinated Notes due 2086,N,SRJN,N,100.0,N,SRJN
 SRL,Scully Royalty Ltd.,Scully Royalty Ltd.,N,SRL,N,100.0,N,SRL
 SRLN,State Street Blackstone Senior Loan ETF,State Street Blackstone Senior Loan ETF,P,SRLN,Y,100.0,N,SRLN
 SROI,Calamos Antetokounmpo Global Sustainable Equities ETF,Calamos Antetokounmpo Global Sustainable Equities ETF,P,SROI,Y,100.0,N,SROI
@@ -6134,6 +6136,7 @@ TRTN$C,Triton International Limited 7.375% Series C Cumulative Redeemable Perpet
 TRTN$D,Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,N,TRTNpD,N,100.0,N,TRTN-D
 TRTN$E,Triton International Limited 5.75% Series E Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 5.75% Series E Cumulative Redeemable Perpetual Preference Shares,N,TRTNpE,N,100.0,N,TRTN-E
 TRTN$F,Triton International Limited 7.625% Series F Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 7.625% Series F Cumulative Redeemable Perpetual Preference Shares,N,TRTNpF,N,100.0,N,TRTN-F
+TRTN$G,Triton International Limited 7.500% Series G Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 7.500% Series G Cumulative Redeemable Perpetual Preference Shares,N,TRTNpG,N,100.0,N,TRTN-G
 TRTX,"TPG RE Finance Trust, Inc. Common Stock","TPG RE Finance Trust, Inc. Common Stock",N,TRTX,N,100.0,N,TRTX
 TRTX$C,"TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferred Stock, $0.001 par value per share","TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferred Stock, $0.001 par value per share",N,TRTXpC,N,100.0,N,TRTX-C
 TRTY,Cambria Trinity ETF,Cambria Trinity ETF,Z,TRTY,Y,100.0,N,TRTY
