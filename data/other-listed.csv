@@ -1549,6 +1549,7 @@ DFVE,DoubleLine Fortune 500 Equal Weight ETF,DoubleLine Fortune 500 Equal Weight
 DFVX,Dimensional US Large Cap Vector ETF,Dimensional US Large Cap Vector ETF,P,DFVX,Y,100.0,N,DFVX
 DG,Dollar General Corporation Common Stock,Dollar General Corporation Common Stock,N,DG,N,100.0,N,DG
 DGIN,VanEck Digital India ETF,VanEck Digital India ETF,P,DGIN,Y,100.0,N,DGIN
+DGJA,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - January,Z,DGJA,Y,100.0,N,DGJA
 DGOC,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - October,Z,DGOC,Y,100.0,N,DGOC
 DGP,"DB Gold Double Long ETN due February 15, 2038","DB Gold Double Long ETN due February 15, 2038",P,DGP,N,100.0,N,DGP
 DGRO,iShares Core Dividend Growth ETF,iShares Core Dividend Growth ETF,P,DGRO,Y,100.0,N,DGRO
@@ -3904,6 +3905,7 @@ MEI,"Methode Electronics, Inc. Common Stock","Methode Electronics, Inc. Common S
 MEM,Matthews Emerging Markets Equity Active ETF,Matthews Emerging Markets Equity Active ETF,P,MEM,Y,100.0,N,MEM
 MEME,Roundhill Meme Stock ETF,Roundhill Meme Stock ETF,P,MEME,Y,100.0,N,MEME
 MEMX,Matthews Emerging Markets ex China Active ETF,Matthews Emerging Markets ex China Active ETF,P,MEMX,Y,100.0,N,MEMX
+MEMY,Tuttle Capital Meme Stock Income Blast ETF,Tuttle Capital Meme Stock Income Blast ETF,Z,MEMY,Y,100.0,N,MEMY
 MER$K,"Bank of America Corporation Income Capital Obligation Notes initially due December 15, 2066","Bank of America Corporation Income Capital Obligation Notes initially due December 15, 2066",N,MERpK,N,100.0,N,MER-K
 MET,"MetLife, Inc. Common Stock","MetLife, Inc. Common Stock",N,MET,N,100.0,N,MET
 MET$A,"MetLife, Inc. Preferred Series A Floating Rate","MetLife, Inc. Preferred Series A Floating Rate",N,METpA,N,100.0,N,MET-A
@@ -5945,7 +5947,6 @@ TECB,iShares U.S. Tech Breakthrough Multisector ETF,iShares U.S. Tech Breakthrou
 TECK,Teck Resources Ltd Ordinary Shares,Teck Resources Ltd Ordinary Shares,N,TECK,N,100.0,N,TECK
 TECL,Direxion Technology Bull 3X Shares,Direxion Technology Bull 3X Shares,P,TECL,Y,100.0,N,TECL
 TECS,Direxion Technology Bear 3X Shares,Direxion Technology Bear 3X Shares,P,TECS,Y,100.0,N,TECS
-TEF,Telefonica SA Common Stock,Telefonica SA Common Stock,N,TEF,N,100.0,N,TEF
 TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock","Templeton Emerging Markets Income Fund, Inc. Common Stock",N,TEI,N,100.0,N,TEI
 TEK,iShares Technology Opportunities Active ETF,iShares Technology Opportunities Active ETF,P,TEK,Y,100.0,N,TEK
 TEL,TE Connectivity plc Ordinary Shares,TE Connectivity plc Ordinary Shares,N,TEL,N,100.0,N,TEL
