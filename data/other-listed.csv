@@ -2801,6 +2801,7 @@ HACK,Amplify Cybersecurity ETF,Amplify Cybersecurity ETF,P,HACK,Y,100.0,N,HACK
 HAE,Haemonetics Corporation Common Stock,Haemonetics Corporation Common Stock,N,HAE,N,100.0,N,HAE
 HAFN,Hafnia Limited Common Shares,Hafnia Limited Common Shares,N,HAFN,N,100.0,N,HAFN
 HAIL,State Street SPDR S&P Kensho Smart Mobility ETF,State Street SPDR S&P Kensho Smart Mobility ETF,P,HAIL,Y,100.0,N,HAIL
+HAKY,Amplify HACK Cybersecurity Covered Call ETF,Amplify HACK Cybersecurity Covered Call ETF,P,HAKY,Y,100.0,N,HAKY
 HAL,Halliburton Company Common Stock,Halliburton Company Common Stock,N,HAL,N,100.0,N,HAL
 HAP,VanEck Natural Resources ETF,VanEck Natural Resources ETF,P,HAP,Y,100.0,N,HAP
 HAPI,Harbor Human Capital Factor US Large Cap ETF,Harbor Human Capital Factor US Large Cap ETF,P,HAPI,Y,100.0,N,HAPI
@@ -2814,7 +2815,7 @@ HAYW,"Hayward Holdings, Inc. Common Stock","Hayward Holdings, Inc. Common Stock"
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,Hamilton Beach Brands Holding Company Class A Common Stock ,N,HBB,N,100.0,N,HBB
 HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),Hudbay Minerals Inc. Ordinary Shares (Canada),N,HBM,N,100.0,N,HBM
 HBTA,Horizon Expedition Plus ETF,Horizon Expedition Plus ETF,P,HBTA,Y,100.0,N,HBTA
-HBTC,Fortuna Hedged Bitcoin Fund,Fortuna Hedged Bitcoin Fund,Z,HBTC,Y,100.0,N,HBTC
+HBTC,Fortuna Hedged Bitcoin ETF,Fortuna Hedged Bitcoin ETF,Z,HBTC,Y,100.0,N,HBTC
 HCA,"HCA Healthcare, Inc. Common Stock","HCA Healthcare, Inc. Common Stock",N,HCA,N,40.0,N,HCA
 HCC,"Warrior Met Coal, Inc. Common Stock","Warrior Met Coal, Inc. Common Stock",N,HCC,N,100.0,N,HCC
 HCI,"HCI Group, Inc. Common Stock","HCI Group, Inc. Common Stock",N,HCI,N,100.0,N,HCI
@@ -3243,6 +3244,7 @@ IRS.W,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Share
 IRT,"Independence Realty Trust, Inc. Common Stock","Independence Realty Trust, Inc. Common Stock",N,IRT,N,100.0,N,IRT
 IRTR,iShares LifePath Retirement ETF,iShares LifePath Retirement ETF,P,IRTR,Y,100.0,N,IRTR
 IRVH,Global X Interest Rate Volatility & Inflation Hedge ETF,Global X Interest Rate Volatility & Inflation Hedge ETF,P,IRVH,Y,100.0,N,IRVH
+ISBG,IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF,IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF,Z,ISBG,Y,100.0,N,ISBG
 ISCB,iShares Morningstar Small,iShares Morningstar Small-Cap ETF,P,ISCB,Y,100.0,N,ISCB
 ISCF,iShares International Small,iShares International Small-Cap Equity Factor ETF,P,ISCF,Y,100.0,N,ISCF
 ISCG,iShares Morningstar Small,iShares Morningstar Small-Cap Growth ETF,P,ISCG,Y,100.0,N,ISCG
@@ -3254,6 +3256,7 @@ ISMF,iShares Managed Futures Active ETF,iShares Managed Futures Active ETF,Z,ISM
 ISOU,IsoEnergy Ltd. Common Shares,IsoEnergy Ltd. Common Shares,A,ISOU,N,100.0,N,ISOU
 ISPY,ProShares S&P 500 High Income ETF,ProShares S&P 500 High Income ETF,Z,ISPY,Y,100.0,N,ISPY
 ISRA,VanEck Israel ETF,VanEck Israel ETF,P,ISRA,Y,100.0,N,ISRA
+ISSB,IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF,IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF,Z,ISSB,Y,100.0,N,ISSB
 ISVL,iShares International Developed Small Cap Value Factor ETF,iShares International Developed Small Cap Value Factor ETF,Z,ISVL,Y,100.0,N,ISVL
 ISWN,Amplify BlackSwan ISWN ETF,Amplify BlackSwan ISWN ETF,P,ISWN,Y,100.0,N,ISWN
 IT,"Gartner, Inc. Common Stock","Gartner, Inc. Common Stock",N,IT,N,40.0,N,IT
@@ -3743,6 +3746,7 @@ LND,Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil),Brasilagro 
 LNG,"Cheniere Energy, Inc. Common Stock","Cheniere Energy, Inc. Common Stock",N,LNG,N,100.0,N,LNG
 LNGX,Global X U.S. Natural Gas ETF,Global X U.S. Natural Gas ETF,P,LNGX,Y,100.0,N,LNGX
 LNN,Lindsay Corporation Common Stock,Lindsay Corporation Common Stock,N,LNN,N,100.0,N,LNN
+LNOK,Defiance Daily Target 2X Long NOK ETF,Defiance Daily Target 2X Long NOK ETF,Z,LNOK,Y,100.0,N,LNOK
 LOAR,Loar Holdings Inc. Common Stock,Loar Holdings Inc. Common Stock,N,LOAR,N,100.0,N,LOAR
 LOB,"Live Oak Bancshares, Inc. Common Stock","Live Oak Bancshares, Inc. Common Stock",N,LOB,N,100.0,N,LOB
 LOB$A,"Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non","Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non-Cumulative Perpetual Preferred Stock",N,LOBpA,N,100.0,N,LOB-A
@@ -5061,6 +5065,7 @@ QVMM,Invesco S&P MidCap 400 QVM Multi,Invesco S&P MidCap 400 QVM Multi-factor ET
 QVMS,Invesco S&P SmallCap 600 QVM Multi,Invesco S&P SmallCap 600 QVM Multi-factor ETF,P,QVMS,Y,100.0,N,QVMS
 QVOY,Q3 All,Q3 All-Season Active Rotation ETF Q3 All-Season Active Rotation ETF,Z,QVOY,Y,100.0,N,QVOY
 QWLD,SPDR MSCI World StrategicFactors ETF,SPDR MSCI World StrategicFactors ETF,P,QWLD,Y,100.0,N,QWLD
+QXAS,Quantify 2X Daily Alt Season Crypto ETF,Quantify 2X Daily Alt Season Crypto ETF,P,QXAS,Y,100.0,N,QXAS
 QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
 QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock","QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",N,QXOpB,N,100.0,N,QXO-B
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
@@ -6041,6 +6046,7 @@ TKNQ,Amplify Tokenization Technology ETF,Amplify Tokenization Technology ETF,P,T
 TKO,"TKO Group Holdings, Inc. Class A Common Stock","TKO Group Holdings, Inc. Class A Common Stock",N,TKO,N,100.0,N,TKO
 TKR,Timken Company (The) Common Stock,Timken Company (The) Common Stock,N,TKR,N,100.0,N,TKR
 TLCI,Touchstone International Equity ETF,Touchstone International Equity ETF,P,TLCI,Y,100.0,N,TLCI
+TLDR,The Laddered T,The Laddered T-Bill ETF,Z,TLDR,Y,100.0,N,TLDR
 TLH,iShares 10,iShares 10-20 Year Treasury Bond ETF,P,TLH,Y,100.0,N,TLH
 TLK,"PT Telekomunikasi Indonesia, Tbk","PT Telekomunikasi Indonesia, Tbk",N,TLK,N,100.0,N,TLK
 TLTD,FlexShares Morningstar Developed Markets ex,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund,P,TLTD,Y,100.0,N,TLTD
