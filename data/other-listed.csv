@@ -289,6 +289,7 @@ APLE,"Apple Hospitality REIT, Inc. Common Shares","Apple Hospitality REIT, Inc. 
 APLU,Allspring Core Plus ETF,Allspring Core Plus ETF,P,APLU,Y,100.0,N,APLU
 APLX,Tradr 2X Long APLD Daily ETF,Tradr 2X Long APLD Daily ETF,Z,APLX,Y,100.0,N,APLX
 APLY,YieldMax AAPL Option Income Strategy ETF,YieldMax AAPL Option Income Strategy ETF,P,APLY,Y,100.0,N,APLY
+APLZ,Tradr 2X Short APLD Daily ETF,Tradr 2X Short APLD Daily ETF,Z,APLZ,Y,100.0,N,APLZ
 APMU,ActivePassive Intermediate Municipal Bond ETF,ActivePassive Intermediate Municipal Bond ETF,P,APMU,Y,100.0,N,APMU
 APO,"Apollo Global Management, Inc. (New) Common Stock","Apollo Global Management, Inc. (New) Common Stock",N,APO,N,100.0,N,APO
 APO$A,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock","Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",N,APOpA,N,100.0,N,APO-A
@@ -441,6 +442,7 @@ AVNS,"Avanos Medical, Inc. Common Stock","Avanos Medical, Inc. Common Stock",N,A
 AVNT,Avient Corporation Common Stock,Avient Corporation Common Stock,N,AVNT,N,100.0,N,AVNT
 AVNV,Avantis All International Markets Value ETF,Avantis All International Markets Value ETF,P,AVNV,Y,100.0,N,AVNV
 AVRE,Avantis Real Estate ETF,Avantis Real Estate ETF,P,AVRE,Y,100.0,N,AVRE
+AVRY,Avory Foundational ETF,Avory Foundational ETF,Z,AVRY,Y,100.0,N,AVRY
 AVSC,Avantis U.S Small Cap Equity ETF,Avantis U.S Small Cap Equity ETF,P,AVSC,Y,100.0,N,AVSC
 AVSD,Avantis Responsible International Equity ETF,Avantis Responsible International Equity ETF,P,AVSD,Y,100.0,N,AVSD
 AVSE,Avantis Responsible Emerging Markets Equity ETF,Avantis Responsible Emerging Markets Equity ETF,P,AVSE,Y,100.0,N,AVSE
@@ -726,8 +728,8 @@ BKGI,BNY Mellon Global Infrastructure Income ETF,BNY Mellon Global Infrastructur
 BKH,Black Hills Corporation Common Stock,Black Hills Corporation Common Stock,N,BKH,N,100.0,N,BKH
 BKHY,BNY Mellon High Yield ETF,BNY Mellon High Yield ETF,P,BKHY,Y,100.0,N,BKHY
 BKIE,BNY Mellon International Equity ETF,BNY Mellon International Equity ETF,P,BKIE,Y,100.0,N,BKIE
-BKKT,"Bakkt Holdings, Inc. Class A Common Stock","Bakkt Holdings, Inc. Class A Common Stock",N,BKKT,N,100.0,N,BKKT
-BKKT.W,"Bakkt Holdings, Inc. Warrant","Bakkt Holdings, Inc. Warrant",N,BKKT.WS,N,100.0,N,BKKT+
+BKKT,"Bakkt, Inc. Class A Common Stock","Bakkt, Inc. Class A Common Stock",N,BKKT,N,100.0,N,BKKT
+BKKT.W,"Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share","Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",N,BKKT.WS,N,100.0,N,BKKT+
 BKLC,BNY Mellon US Large Cap Core Equity ETF,BNY Mellon US Large Cap Core Equity ETF,P,BKLC,Y,100.0,N,BKLC
 BKLN,Invesco Senior Loan ETF,Invesco Senior Loan ETF,P,BKLN,Y,100.0,N,BKLN
 BKMC,BNY Mellon US Mid Cap Core Equity ETF,BNY Mellon US Mid Cap Core Equity ETF,P,BKMC,Y,100.0,N,BKMC
@@ -822,6 +824,7 @@ BPAY,iShares FinTech Active ETF,iShares FinTech Active ETF,P,BPAY,Y,100.0,N,BPAY
 BPH,BP plc ADRhedged,BP plc ADRhedged,P,BPH,Y,100.0,N,BPH
 BPI,Grayscale Bitcoin Premium Income ETF,Grayscale Bitcoin Premium Income ETF,P,BPI,Y,100.0,N,BPI
 BPRE,Bluerock Private Real Estate Fund Common Shares of Beneficial Interest,Bluerock Private Real Estate Fund Common Shares of Beneficial Interest,N,BPRE,N,100.0,N,BPRE
+BPRO,Bitwise Proficio Currency Debasement ETF,Bitwise Proficio Currency Debasement ETF,P,BPRO,Y,100.0,N,BPRO
 BQ,Boqii Holding Limited Class A Ordinary Shares,Boqii Holding Limited Class A Ordinary Shares,A,BQ,N,100.0,N,BQ
 BR,"Broadridge Financial Solutions, Inc. Common Stock","Broadridge Financial Solutions, Inc. Common Stock",N,BR,N,100.0,N,BR
 BRAZ,Global X Brazil Active ETF,Global X Brazil Active ETF,P,BRAZ,Y,100.0,N,BRAZ
@@ -873,6 +876,7 @@ BTCZ,T,T-Rex 2X Inverse Bitcoin Daily Target ETF,Z,BTCZ,Y,100.0,N,BTCZ
 BTE,Baytex Energy Corp Common Shares,Baytex Energy Corp Common Shares,N,BTE,N,100.0,N,BTE
 BTFL,Defiance Daily Target 2X Long BITF ETF,Defiance Daily Target 2X Long BITF ETF,Z,BTFL,Y,100.0,N,BTFL
 BTG,B2Gold Corp Common shares (Canada),B2Gold Corp Common shares (Canada),A,BTG,N,100.0,N,BTG
+BTGO,"BitGo Holdings, Inc. Class A Common Stock","BitGo Holdings, Inc. Class A Common Stock",N,BTGO,N,100.0,N,BTGO
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR","British American Tobacco  Industries, p.l.c. Common Stock ADR",N,BTI,N,100.0,N,BTI
 BTO,John Hancock Financial Opportunities Fund Common Stock,John Hancock Financial Opportunities Fund Common Stock,N,BTO,N,100.0,N,BTO
 BTOP,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,P,BTOP,Y,100.0,N,BTOP
@@ -2527,6 +2531,7 @@ GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,Western As
 GDOC,Goldman Sachs Future Health Care Equity ETF,Goldman Sachs Future Health Care Equity ETF,P,GDOC,Y,100.0,N,GDOC
 GDOG,Grayscale Dogecoin Trust ETF,Grayscale Dogecoin Trust ETF,P,GDOG,Y,100.0,N,GDOG
 GDOT,"Green Dot Corporation Class A Common Stock, $0.001 par value","Green Dot Corporation Class A Common Stock, $0.001 par value",N,GDOT,N,100.0,N,GDOT
+GDT,WisdomTree Efficient TIPS Plus Gold Fund,WisdomTree Efficient TIPS Plus Gold Fund,Z,GDT,Y,100.0,N,GDT
 GDV,Gabelli Dividend & Income Trust Common Shares of Beneficial Interest,Gabelli Dividend & Income Trust Common Shares of Beneficial Interest,N,GDV,N,100.0,N,GDV
 GDV$H,The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares,The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares,N,GDVpH,N,100.0,N,GDV-H
 GDV$K,The Gabelli Dividend & Income Trust 4.250% Series K Cumulative Preferred Shares,The Gabelli Dividend & Income Trust 4.250% Series K Cumulative Preferred Shares,N,GDVpK,N,100.0,N,GDV-K
@@ -3237,6 +3242,7 @@ IR,Ingersoll Rand Inc. Common Stock,Ingersoll Rand Inc. Common Stock,N,IR,N,100.
 IRE,Defiance Daily Target 2X Long IREN ETF,Defiance Daily Target 2X Long IREN ETF,P,IRE,Y,100.0,N,IRE
 IRET,iREIT ,iREIT - MarketVector Quality REIT Index ETF,P,IRET,Y,100.0,N,IRET
 IREX,Tradr 2X Long IREN Daily ETF,Tradr 2X Long IREN Daily ETF,Z,IREX,Y,100.0,N,IREX
+IREZ,Tradr 2X Short IREN Daily ETF,Tradr 2X Short IREN Daily ETF,Z,IREZ,Y,100.0,N,IREZ
 IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,Iron Mountain Incorporated (Delaware)Common Stock REIT,N,IRM,N,100.0,N,IRM
 IROC,Invesco Rochester High Yield Municipal ETF,Invesco Rochester High Yield Municipal ETF,Z,IROC,Y,100.0,N,IROC
 IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),N,IRS,N,100.0,N,IRS
@@ -3668,6 +3674,7 @@ LC,LendingClub Corporation Common Stock,LendingClub Corporation Common Stock,N,L
 LCAP,Principal Capital Appreciation Select ETF,Principal Capital Appreciation Select ETF,Z,LCAP,Y,100.0,N,LCAP
 LCF,Touchstone US Large Cap Focused ETF,Touchstone US Large Cap Focused ETF,Z,LCF,Y,100.0,N,LCF
 LCII,LCI Industries,LCI Industries,N,LCII,N,100.0,N,LCII
+LCIZ,Tradr 2X Short LCID Daily ETF,Tradr 2X Short LCID Daily ETF,Z,LCIZ,Y,100.0,N,LCIZ
 LCLG,Logan Capital Broad Innovative Growth ETF,Logan Capital Broad Innovative Growth ETF,P,LCLG,Y,100.0,N,LCLG
 LCO,LOGIQ Contrarian Opportunities ETF,LOGIQ Contrarian Opportunities ETF,P,LCO,Y,100.0,N,LCO
 LCOW,Pacer S&P 500 Quality FCF Aristocrats ETF,Pacer S&P 500 Quality FCF Aristocrats ETF,Z,LCOW,Y,100.0,N,LCOW
@@ -4201,6 +4208,7 @@ NBFC,Neuberger Berman Flexible Credit Income ETF,Neuberger Berman Flexible Credi
 NBGX,Neuberger Growth ETF,Neuberger Growth ETF,P,NBGX,Y,100.0,N,NBGX
 NBH,Neuberger Municipal Fund Inc. Common Stock,Neuberger Municipal Fund Inc. Common Stock,A,NBH,N,100.0,N,NBH
 NBHC,National Bank Holdings Corporation Common Stock,National Bank Holdings Corporation Common Stock,N,NBHC,N,100.0,N,NBHC
+NBIZ,Tradr 2X Short NBIS Daily ETF,Tradr 2X Short NBIS Daily ETF,Z,NBIZ,Y,100.0,N,NBIZ
 NBJP,Neuberger Japan Equity ETF,Neuberger Japan Equity ETF,P,NBJP,Y,100.0,N,NBJP
 NBOS,Neuberger Option Strategy ETF,Neuberger Option Strategy ETF,P,NBOS,Y,100.0,N,NBOS
 NBR,Nabors Industries Ltd.,Nabors Industries Ltd.,N,NBR,N,100.0,N,NBR
@@ -5955,6 +5963,7 @@ TECS,Direxion Technology Bear 3X Shares,Direxion Technology Bear 3X Shares,P,TEC
 TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock","Templeton Emerging Markets Income Fund, Inc. Common Stock",N,TEI,N,100.0,N,TEI
 TEK,iShares Technology Opportunities Active ETF,iShares Technology Opportunities Active ETF,P,TEK,Y,100.0,N,TEK
 TEL,TE Connectivity plc Ordinary Shares,TE Connectivity plc Ordinary Shares,N,TEL,N,100.0,N,TEL
+TEMD,Templeton Emerging Markets Debt ETF,Templeton Emerging Markets Debt ETF,P,TEMD,Y,100.0,N,TEMD
 TEMT,Tradr 2X Long TEM Daily ETF,Tradr 2X Long TEM Daily ETF,Z,TEMT,Y,100.0,N,TEMT
 TEMX,Touchstone Sands Capital Emerging Markets ex,Touchstone Sands Capital Emerging Markets ex-China Growth ETF,Z,TEMX,Y,100.0,N,TEMX
 TEN,Tsakos Energy Navigation Ltd Common Shares,Tsakos Energy Navigation Ltd Common Shares,N,TEN,N,100.0,N,TEN
@@ -6665,6 +6674,7 @@ WTI,"W&T Offshore, Inc. Common Stock","W&T Offshore, Inc. Common Stock",N,WTI,N,
 WTIB,USCF Oil Plus Bitcoin Strategy Fund,USCF Oil Plus Bitcoin Strategy Fund,P,WTIB,Y,100.0,N,WTIB
 WTID,MicroSectors Energy 3X Inverse Leveraged ETNs,MicroSectors Energy 3X Inverse Leveraged ETNs,P,WTID,Y,100.0,N,WTID
 WTIU,MicroSectors Energy 3X Leveraged ETNs,MicroSectors Energy 3X Leveraged ETNs,P,WTIU,Y,100.0,N,WTIU
+WTLS,WisdomTree Efficient Long/Short U.S. Equity Fund,WisdomTree Efficient Long/Short U.S. Equity Fund,Z,WTLS,Y,100.0,N,WTLS
 WTM,"White Mountains Insurance Group, Ltd. Common Stock","White Mountains Insurance Group, Ltd. Common Stock",N,WTM,N,10.0,N,WTM
 WTMF,WisdomTree Managed Futures Strategy Fund,WisdomTree Managed Futures Strategy Fund,P,WTMF,Y,100.0,N,WTMF
 WTPI,WisdomTree Equity Premium Income Fund,WisdomTree Equity Premium Income Fund,P,WTPI,Y,100.0,N,WTPI
