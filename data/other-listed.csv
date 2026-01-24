@@ -1172,7 +1172,6 @@ CMF,iShares California Muni Bond ETF,iShares California Muni Bond ETF,P,CMF,Y,10
 CMG,"Chipotle Mexican Grill, Inc. Common Stock","Chipotle Mexican Grill, Inc. Common Stock",N,CMG,N,100.0,N,CMG
 CMI,Cummins Inc. Common Stock,Cummins Inc. Common Stock,N,CMI,N,40.0,N,CMI
 CMP,Compass Minerals Intl Inc Common Stock,Compass Minerals Intl Inc Common Stock,N,CMP,N,100.0,N,CMP
-CMPO,"CompoSecure, Inc. Class A Common Stock","CompoSecure, Inc. Class A Common Stock",N,CMPO,N,100.0,N,CMPO
 CMRE,Costamare Inc. Common Stock $0.0001 par value,Costamare Inc. Common Stock $0.0001 par value,N,CMRE,N,100.0,N,CMRE
 CMRE$B,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands),N,CMREpB,N,100.0,N,CMRE-B
 CMRE$C,Costamare Inc. Perpetual Preferred Series C (Marshall Islands),Costamare Inc. Perpetual Preferred Series C (Marshall Islands),N,CMREpC,N,100.0,N,CMRE-C
@@ -2555,7 +2554,6 @@ GENT,Genter Capital Taxable Quality Intermediate ETF,Genter Capital Taxable Qual
 GENW,Genter Capital International Dividend ETF,Genter Capital International Dividend ETF,P,GENW,Y,100.0,N,GENW
 GEO,Geo Group Inc (The) REIT,Geo Group Inc (The) REIT,N,GEO,N,100.0,N,GEO
 GEOA,WisdomTree GeoAlpha Opportunities Fund,WisdomTree GeoAlpha Opportunities Fund,P,GEOA,Y,100.0,N,GEOA
-GES,"Guess?, Inc. Common Stock","Guess?, Inc. Common Stock",N,GES,N,100.0,N,GES
 GETY,"Getty Images Holdings, Inc. Class A Common Stock","Getty Images Holdings, Inc. Class A Common Stock",N,GETY,N,100.0,N,GETY
 GEV,GE Vernova Inc. Common Stock,GE Vernova Inc. Common Stock,N,GEV,N,40.0,N,GEV
 GEVX,Tradr 2X Long GEV Daily ETF,Tradr 2X Long GEV Daily ETF,Z,GEVX,Y,100.0,N,GEVX
@@ -2692,6 +2690,7 @@ GOTU,Gaotu Techedu Inc. American Depositary Shares,Gaotu Techedu Inc. American D
 GOVT,iShares U.S. Treasury Bond ETF,iShares U.S. Treasury Bond ETF,Z,GOVT,Y,100.0,N,GOVT
 GOVZ,iShares 25  Year Treasury STRIPS Bond ETF,iShares 25  Year Treasury STRIPS Bond ETF,Z,GOVZ,Y,100.0,N,GOVZ
 GPC,Genuine Parts Company Common Stock,Genuine Parts Company Common Stock,N,GPC,N,100.0,N,GPC
+GPGI,"GPGI, Inc. Class A Common Stock","GPGI, Inc. Class A Common Stock",N,GPGI,N,100.0,N,GPGI
 GPI,"Group 1 Automotive, Inc. Common Stock","Group 1 Automotive, Inc. Common Stock",N,GPI,N,40.0,N,GPI
 GPJA,"Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077","Georgia Power Company Series 2017A 5.00% Junior Subordinated Notes due October 1, 2077",N,GPJA,N,100.0,N,GPJA
 GPK,Graphic Packaging Holding Company,Graphic Packaging Holding Company,N,GPK,N,100.0,N,GPK
@@ -3694,6 +3693,7 @@ LDUR,PIMCO Enhanced Low Duration Active Exchange,PIMCO Enhanced Low Duration Act
 LEA,Lear Corporation Common Stock,Lear Corporation Common Stock,N,LEA,N,100.0,N,LEA
 LEAD,Siren DIVCON Leaders Dividend ETF,Siren DIVCON Leaders Dividend ETF,Z,LEAD,Y,100.0,N,LEAD
 LEG,"Leggett & Platt, Incorporated Common Stock","Leggett & Platt, Incorporated Common Stock",N,LEG,N,100.0,N,LEG
+LEGO.U,"Legato Merger Corp. IV Units, each consisting of one ordinary share and one","Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",A,LEGO.U,N,100.0,N,LEGO=
 LEGT,Legato Merger Corp. III Ordinary Shares,Legato Merger Corp. III Ordinary Shares,A,LEGT,N,100.0,N,LEGT
 LEGT.U,"Legato Merger Corp. III Units, each consisting of one Ordinary Share and one","Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",A,LEGT.U,N,100.0,N,LEGT=
 LEGT.W,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share","Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",A,LEGT.WS,N,100.0,N,LEGT+
@@ -5382,7 +5382,9 @@ SBTU,T,T-REX 2X Long SBET Daily Target ETF,Z,SBTU,Y,100.0,N,SBTU
 SBXD,SilverBox Corp IV Class A Ordinary Shares,SilverBox Corp IV Class A Ordinary Shares,N,SBXD,N,100.0,N,SBXD
 SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one","SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,SBXD.U,N,100.0,N,SBXD=
 SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50","SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",N,SBXD.WS,N,100.0,N,SBXD+
+SBXE,SilverBox Corp V Class A Ordinary Shares,SilverBox Corp V Class A Ordinary Shares,N,SBXE,N,100.0,N,SBXE
 SBXE.U,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one","SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",N,SBXE.U,N,100.0,N,SBXE=
+SBXE.W,"SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50","SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",N,SBXE.WS,N,100.0,N,SBXE+
 SCAP,Infrastructure Capital Small Cap Income ETF,Infrastructure Capital Small Cap Income ETF,P,SCAP,Y,100.0,N,SCAP
 SCC,ProShares UltraShort Consumer Discretionary,ProShares UltraShort Consumer Discretionary,P,SCC,Y,100.0,N,SCC
 SCCD,Sachem Capital Corp. 6.00% Notes due 2026,Sachem Capital Corp. 6.00% Notes due 2026,A,SCCD,N,100.0,N,SCCD
