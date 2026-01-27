@@ -1246,7 +1246,6 @@ CORB,AB Core Bond ETF,AB Core Bond ETF,P,CORB,Y,100.0,N,CORB
 CORD,T,T-REX 2X Inverse CRWV Daily Target ETF,Z,CORD,Y,100.0,N,CORD
 CORN,Teucrium Corn Fund ETV,Teucrium Corn Fund ETV,P,CORN,Y,100.0,N,CORN
 CORP,PIMCO Investment Grade Corporate Bond Index Exchange,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund,P,CORP,Y,100.0,N,CORP
-CORX,2x Corn ETF,2x Corn ETF,Z,CORX,Y,100.0,N,CORX
 COSO,"CoastalSouth Bancshares, Inc. Common Stock","CoastalSouth Bancshares, Inc. Common Stock",N,COSO,N,100.0,N,COSO
 COSW,Roundhill COST WeeklyPay ETF,Roundhill COST WeeklyPay ETF,Z,COSW,Y,100.0,N,COSW
 COTY,Coty Inc. Class A Common Stock,Coty Inc. Class A Common Stock,N,COTY,N,100.0,N,COTY
@@ -2992,7 +2991,6 @@ HYS,PIMCO 0,PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund,P
 HYSA,BondBloxx USD High Yield Bond Sector Rotation ETF,BondBloxx USD High Yield Bond Sector Rotation ETF,P,HYSA,Y,100.0,N,HYSA
 HYSD,Columbia Short Duration High Yield ETF,Columbia Short Duration High Yield ETF,P,HYSD,Y,100.0,N,HYSD
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock","Blackrock Corporate High Yield Fund, Inc. Common Stock",N,HYT,N,100.0,N,HYT
-HYT.R,"Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights","Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights",N,HYTr,N,100.0,N,HYT^
 HYTI,FT Vest High Yield & Target Income ETF,FT Vest High Yield & Target Income ETF,P,HYTI,Y,100.0,N,HYTI
 HYTR,Counterpoint High Yield Trend ETF,Counterpoint High Yield Trend ETF,N,HYTR,Y,100.0,N,HYTR
 HYUP,Xtrackers High Beta High Yield Bond ETF,Xtrackers High Beta High Yield Bond ETF,P,HYUP,Y,100.0,N,HYUP
@@ -3869,6 +3867,7 @@ MAYT,AllianzIM U.S. Large Cap Buffer10 May ETF,AllianzIM U.S. Large Cap Buffer10
 MAYU,AllianzIM U.S. Equity Buffer15 Uncapped May ETF,AllianzIM U.S. Equity Buffer15 Uncapped May ETF,Z,MAYU,Y,100.0,N,MAYU
 MAYW,AllianzIM U.S. Large Cap Buffer20 May ETF,AllianzIM U.S. Large Cap Buffer20 May ETF,Z,MAYW,Y,100.0,N,MAYW
 MAYZ,TrueShares Structured Outcome (May) ETF,TrueShares Structured Outcome (May) ETF,Z,MAYZ,Y,100.0,N,MAYZ
+MBBA,iShares Mortgage,iShares Mortgage-Backed Securities Active ETF,Z,MBBA,Y,100.0,N,MBBA
 MBBB,VanEck Moody's Analytics BBB Corporate Bond ETF,VanEck Moody's Analytics BBB Corporate Bond ETF,Z,MBBB,Y,100.0,N,MBBB
 MBC,"MasterBrand, Inc. Common Stock","MasterBrand, Inc. Common Stock",N,MBC,N,100.0,N,MBC
 MBCC,Monarch Blue Chips Core Index ETF,Monarch Blue Chips Core Index ETF,Z,MBCC,Y,100.0,N,MBCC
@@ -4433,10 +4432,11 @@ NVS,Novartis AG Common Stock,Novartis AG Common Stock,N,NVS,N,100.0,N,NVS
 NVST,Envista Holdings Corporation Common Stock,Envista Holdings Corporation Common Stock,N,NVST,N,100.0,N,NVST
 NVT,nVent Electric plc Ordinary Shares ,nVent Electric plc Ordinary Shares ,N,NVT,N,100.0,N,NVT
 NVTX,Tradr 2X Long NVTS Daily ETF,Tradr 2X Long NVTS Daily ETF,Z,NVTX,Y,100.0,N,NVTX
+NWAX,New America Acquisition I Corp. Class A Common Stock,New America Acquisition I Corp. Class A Common Stock,N,NWAX,N,100.0,N,NWAX
 NWAX.U,"New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one","New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant",N,NWAX.U,N,100.0,N,NWAX=
+NWAX.W,"New America Acquisition I Corp. Warrants, each whole warrant is exercisable to purchase one share of Class A common stock","New America Acquisition I Corp. Warrants, each whole warrant is exercisable to purchase one share of Class A common stock",N,NWAX.WS,N,100.0,N,NWAX+
 NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)","NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)",N,NWG,N,100.0,N,NWG
 NWLG,Nuveen Winslow Large,Nuveen Winslow Large-Cap Growth ESG ETF,P,NWLG,Y,100.0,N,NWLG
-NWMX,Tradr 2X Long NEM Daily ETF,Tradr 2X Long NEM Daily ETF,Z,NWMX,Y,100.0,N,NWMX
 NWN,Northwest Natural Holding Company Common Stock,Northwest Natural Holding Company Common Stock,N,NWN,N,100.0,N,NWN
 NX,Quanex Building Products Corporation Common Stock,Quanex Building Products Corporation Common Stock,N,NX,N,100.0,N,NX
 NXDR,"Nextdoor Holdings, Inc. Class A Common Stock","Nextdoor Holdings, Inc. Class A Common Stock",N,NXDR,N,100.0,N,NXDR
@@ -4511,7 +4511,6 @@ OIS,"Oil States International, Inc. Common Stock","Oil States International, Inc
 OKE,"ONEOK, Inc. Common Stock","ONEOK, Inc. Common Stock",N,OKE,N,100.0,N,OKE
 OKLO,Oklo Inc. Class A common stock,Oklo Inc. Class A common stock,N,OKLO,N,100.0,N,OKLO
 OKLS,Defiance Daily Target 2X Short OKLO ETF,Defiance Daily Target 2X Short OKLO ETF,P,OKLS,Y,100.0,N,OKLS
-OKTX,Tradr 2X Long OKTA Daily ETF,Tradr 2X Long OKTA Daily ETF,Z,OKTX,Y,100.0,N,OKTX
 OLN,Olin Corporation Common Stock,Olin Corporation Common Stock,N,OLN,N,100.0,N,OLN
 OLP,"One Liberty Properties, Inc. Common Stock","One Liberty Properties, Inc. Common Stock",N,OLP,N,100.0,N,OLP
 OMAH,VistaShares Target 15 Berkshire Select Income ETF,VistaShares Target 15 Berkshire Select Income ETF,P,OMAH,Y,100.0,N,OMAH
@@ -5050,7 +5049,6 @@ QSOL,Invesco Galaxy Solana ETF,Invesco Galaxy Solana ETF,Z,QSOL,Y,100.0,N,QSOL
 QSPT,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - September,Z,QSPT,Y,100.0,N,QSPT
 QSR,Restaurant Brands International Inc. Common Shares,Restaurant Brands International Inc. Common Shares,N,QSR,N,100.0,N,QSR
 QSU,Defiance Daily Target 2X Long QS ETF,Defiance Daily Target 2X Long QS ETF,P,QSU,Y,100.0,N,QSU
-QSX,Tradr 2X Long QS Daily ETF,Tradr 2X Long QS Daily ETF,Z,QSX,Y,100.0,N,QSX
 QTAC,Q3 All,Q3 All-Season Tactical Advantage ETF,Z,QTAC,Y,100.0,N,QTAC
 QTAP,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - April,Z,QTAP,Y,100.0,N,QTAP
 QTJA,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - January,Z,QTJA,Y,100.0,N,QTJA
@@ -5191,6 +5189,7 @@ RITM$B,Rithm Capital Corp. 7.125% Series B Fixed,Rithm Capital Corp. 7.125% Seri
 RITM$C,Rithm Capital Corp. 6.375% Series C Fixed,Rithm Capital Corp. 6.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,RITMpC,N,100.0,N,RITM-C
 RITM$D,Rithm Capital Corp. 7.00% Fixed,Rithm Capital Corp. 7.00% Fixed-Rate Reset Series D Cumulative Redeemable Preferred Stock,N,RITMpD,N,100.0,N,RITM-D
 RITM$E,Rithm Capital Corp. 8.75% Series E Fixed,Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable Preferred Stock,N,RITMpE,N,100.0,N,RITM-E
+RITM$F,Rithm Capital Corp. 8.750% Series F Fixed,Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,RITMpF,N,100.0,N,RITM-F
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities Fund, Inc. Common Stock",N,RIV,N,100.0,N,RIV
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
 RJDI,RJ Eagle GCM Dividend Select Income ETF,RJ Eagle GCM Dividend Select Income ETF,P,RJDI,Y,100.0,N,RJDI
@@ -5338,7 +5337,9 @@ S,"SentinelOne, Inc. Class A Common Stock","SentinelOne, Inc. Class A Common Sto
 SA,"Seabridge Gold, Inc. Ordinary Shares (Canada)","Seabridge Gold, Inc. Ordinary Shares (Canada)",N,SA,N,100.0,N,SA
 SAA,ProShares Ultra SmallCap600,ProShares Ultra SmallCap600,P,SAA,Y,100.0,N,SAA
 SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,N,SABA,N,100.0,N,SABA
+SAC,Safeguard Acquisition Corp. Class A Ordinary Shares,Safeguard Acquisition Corp. Class A Ordinary Shares,N,SAC,N,100.0,N,SAC
 SAC.U,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one","Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,SAC.U,N,100.0,N,SAC=
+SAC.W,"Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,SAC.WS,N,100.0,N,SAC+
 SACH,Sachem Capital Corp. Common Shares,Sachem Capital Corp. Common Shares,A,SACH,N,100.0,N,SACH
 SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,A,SACHpA,N,100.0,N,SACH-A
 SAEF,Schwab Ariel Opportunities ETF,Schwab Ariel Opportunities ETF,P,SAEF,Y,100.0,N,SAEF
@@ -5462,6 +5463,7 @@ SEAL$B,Seapeak LLC 8.50% Series B Fixed,Seapeak LLC 8.50% Series B Fixed-to-Floa
 SEB,Seaboard Corporation Common Stock,Seaboard Corporation Common Stock,A,SEB,N,10.0,N,SEB
 SECR,NYLI MacKay Securitized Income ETF,NYLI MacKay Securitized Income ETF,P,SECR,Y,100.0,N,SECR
 SECT,Main Sector Rotation ETF,Main Sector Rotation ETF,Z,SECT,Y,100.0,N,SECT
+SECU,iShares Securitized Income Active ETF,iShares Securitized Income Active ETF,Z,SECU,Y,100.0,N,SECU
 SEE,Sealed Air Corporation Common Stock,Sealed Air Corporation Common Stock,N,SEE,N,100.0,N,SEE
 SEF,ProShares Short Financials,ProShares Short Financials,P,SEF,Y,100.0,N,SEF
 SEG,Seaport Entertainment Group Inc. Common Stock,Seaport Entertainment Group Inc. Common Stock,N,SEG,N,100.0,N,SEG
@@ -5760,7 +5762,7 @@ SPXT,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Technology ETF,P,SPXT,Y,100.0,N,S
 SPXU,ProShares UltraPro Short S&P500,ProShares UltraPro Short S&P500,P,SPXU,Y,100.0,N,SPXU
 SPXV,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Health Care ETF,P,SPXV,Y,100.0,N,SPXV
 SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,Nuveen S&P 500 Dynamic Overwrite Fund,N,SPXX,N,100.0,N,SPXX
-SPY,SPDR S&P 500,SPDR S&P 500,P,SPY,Y,40.0,N,SPY
+SPY,State Street SPDR S&P 500 ETF Trust,State Street SPDR S&P 500 ETF Trust,P,SPY,Y,40.0,N,SPY
 SPYA,Twin Oak Endure ETF,Twin Oak Endure ETF,Z,SPYA,Y,100.0,N,SPYA
 SPYC,Simplify US Equity PLUS Convexity ETF,Simplify US Equity PLUS Convexity ETF,P,SPYC,Y,100.0,N,SPYC
 SPYD,State Street SPDR Portfolio S&P 500 High Dividend ETF,State Street SPDR Portfolio S&P 500 High Dividend ETF,P,SPYD,Y,100.0,N,SPYD
@@ -6626,7 +6628,6 @@ WH,"Wyndham Hotels & Resorts, Inc. Common Stock ","Wyndham Hotels & Resorts, Inc
 WHD,"Cactus, Inc. Class A Common Stock","Cactus, Inc. Class A Common Stock",N,WHD,N,100.0,N,WHD
 WHG,Westwood Holdings Group Inc Common Stock,Westwood Holdings Group Inc Common Stock,N,WHG,N,100.0,N,WHG
 WHR,Whirlpool Corporation Common Stock,Whirlpool Corporation Common Stock,N,WHR,N,100.0,N,WHR
-WHTX,2x Wheat ETF,2x Wheat ETF,Z,WHTX,Y,100.0,N,WHTX
 WIA,Western Asset Inflation,Western Asset Inflation-Linked Income Fund,N,WIA,N,100.0,N,WIA
 WINN,Harbor Long,Harbor Long-Term Growers ETF,N,WINN,Y,100.0,N,WINN
 WIP,SPDR FTSE International Government Inflation,SPDR FTSE International Government Inflation-Protected Bond ETF,P,WIP,Y,100.0,N,WIP

@@ -1327,7 +1327,6 @@ HYAC.W,"Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable fo
 HYBX,TCW High Yield Bond ETF
 HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock"
-HYT.R,"Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights"
 HYTR,Counterpoint High Yield Trend ETF
 HZO,"MarineMax, Inc.  (FL) Common Stock"
 IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
@@ -1894,7 +1893,9 @@ NVRI,Enviri Corporation Common Stock
 NVS,Novartis AG Common Stock
 NVST,Envista Holdings Corporation Common Stock
 NVT,nVent Electric plc Ordinary Shares 
+NWAX,New America Acquisition I Corp. Class A Common Stock
 NWAX.U,"New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one"
+NWAX.W,"New America Acquisition I Corp. Warrants, each whole warrant is exercisable to purchase one share of Class A common stock"
 NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)"
 NWN,Northwest Natural Holding Company Common Stock
 NX,Quanex Building Products Corporation Common Stock
@@ -2210,6 +2211,7 @@ RITM$B,Rithm Capital Corp. 7.125% Series B Fixed
 RITM$C,Rithm Capital Corp. 6.375% Series C Fixed
 RITM$D,Rithm Capital Corp. 7.00% Fixed
 RITM$E,Rithm Capital Corp. 8.75% Series E Fixed
+RITM$F,Rithm Capital Corp. 8.750% Series F Fixed
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock"
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock"
 RJF,"Raymond James Financial, Inc. Common Stock"
@@ -2271,7 +2273,9 @@ RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed"
 S,"SentinelOne, Inc. Class A Common Stock"
 SA,"Seabridge Gold, Inc. Ordinary Shares (Canada)"
 SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest
+SAC,Safeguard Acquisition Corp. Class A Ordinary Shares
 SAC.U,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one"
+SAC.W,"Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 SAFE,Safehold Inc. New Common Stock 
 SAH,"Sonic Automotive, Inc. Common Stock"
 SAJ,Saratoga Investment Corp 8.00% Notes due 2027
