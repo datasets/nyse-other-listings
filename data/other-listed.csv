@@ -1023,6 +1023,7 @@ CCK,"Crown Holdings, Inc.","Crown Holdings, Inc.",N,CCK,N,100.0,N,CCK
 CCL,Carnival Corporation Common Stock,Carnival Corporation Common Stock,N,CCL,N,100.0,N,CCL
 CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),N,CCM,N,100.0,N,CCM
 CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock","Clear Channel Outdoor Holdings, Inc. Common Stock",N,CCO,N,100.0,N,CCO
+CCOM,Simplify Chinese Commodities Strategy No K,Simplify Chinese Commodities Strategy No K-1 ETF,P,CCOM,Y,100.0,N,CCOM
 CCOR,Core Alternative ETF,Core Alternative ETF,P,CCOR,Y,100.0,N,CCOR
 CCRP,Columbia Corporate Bond ETF,Columbia Corporate Bond ETF,P,CCRP,Y,100.0,N,CCRP
 CCS,"Century Communities, Inc. Common Stock","Century Communities, Inc. Common Stock",N,CCS,N,100.0,N,CCS
@@ -2183,6 +2184,7 @@ FEIG,FlexShares ESG & Climate Investment Grade Corporate Core Index Fund,FlexSha
 FELC,Fidelity Enhanced Large Cap Core ETF,Fidelity Enhanced Large Cap Core ETF,P,FELC,Y,100.0,N,FELC
 FELG,Fidelity Enhanced Large Cap Growth ETF,Fidelity Enhanced Large Cap Growth ETF,P,FELG,Y,100.0,N,FELG
 FELV,Fidelity Enhanced Large Cap Value ETF,Fidelity Enhanced Large Cap Value ETF,P,FELV,Y,100.0,N,FELV
+FEMD,First Eagle Mid Cap Equity ETF,First Eagle Mid Cap Equity ETF,P,FEMD,Y,100.0,N,FEMD
 FEMR,Fidelity Enhanced Emerging Markets ETF,Fidelity Enhanced Emerging Markets ETF,P,FEMR,Y,100.0,N,FEMR
 FENG,"Phoenix New Media Limited American Depositary Shares, each representing 48 Class A ordinary shares.","Phoenix New Media Limited American Depositary Shares, each representing 48 Class A ordinary shares.",N,FENG,N,100.0,N,FENG
 FENI,Fidelity Enhanced International ETF,Fidelity Enhanced International ETF,P,FENI,Y,100.0,N,FENI
@@ -3733,6 +3735,7 @@ LION,Lionsgate Studios Corp Common Shares,Lionsgate Studios Corp Common Shares,N
 LIT,Global X Lithium & Battery Tech ETF,Global X Lithium & Battery Tech ETF,P,LIT,Y,100.0,N,LIT
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares","LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",N,LITB,N,100.0,N,LITB
 LITL,Simplify Piper Sandler US Small,Simplify Piper Sandler US Small-Cap PLUS Income ETF,P,LITL,Y,100.0,N,LITL
+LITX,Tradr 2X Long LITE Daily ETF,Tradr 2X Long LITE Daily ETF,Z,LITX,Y,100.0,N,LITX
 LJAN,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - January,Z,LJAN,Y,100.0,N,LJAN
 LJUL,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - July,Z,LJUL,Y,100.0,N,LJUL
 LKOR,FlexShares Credit,FlexShares Credit-Scored US Long Corporate Bond Index Fund,Z,LKOR,Y,100.0,N,LKOR
@@ -3977,6 +3980,7 @@ MIDU,Direxion Mid Cap Bull 3X Shares,Direxion Mid Cap Bull 3X Shares,P,MIDU,Y,10
 MIG,VanEck Moody's Analytics IG Corporate Bond ETF,VanEck Moody's Analytics IG Corporate Bond ETF,Z,MIG,Y,100.0,N,MIG
 MILK,Pacer US Cash Cows Bond ETF,Pacer US Cash Cows Bond ETF,Z,MILK,Y,100.0,N,MILK
 MIN,MFS Intermediate Income Trust Common Stock,MFS Intermediate Income Trust Common Stock,N,MIN,N,100.0,N,MIN
+MINE,Mayfair Gold Corp. Common Shares,Mayfair Gold Corp. Common Shares,A,MINE,N,100.0,N,MINE
 MINN,Mairs & Power Minnesota Municipal Bond ETF,Mairs & Power Minnesota Municipal Bond ETF,Z,MINN,Y,100.0,N,MINN
 MINO,PIMCO Municipal Income Opportunities Active Exchange,PIMCO Municipal Income Opportunities Active Exchange-Traded Fund,P,MINO,Y,100.0,N,MINO
 MINT,PIMCO Enhanced Short Maturity Active Exchange,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,P,MINT,Y,100.0,N,MINT
@@ -4805,7 +4809,6 @@ PLTW,Roundhill PLTR WeeklyPay ETF,Roundhill PLTR WeeklyPay ETF,Z,PLTW,Y,100.0,N,
 PLTY,YieldMax PLTR Option Income Strategy ETF,YieldMax PLTR Option Income Strategy ETF,P,PLTY,Y,100.0,N,PLTY
 PLU,Defiance Daily Target 2x Long PL ETF,Defiance Daily Target 2x Long PL ETF,Z,PLU,Y,100.0,N,PLU
 PLX,"Protalix BioTherapeutics, Inc. (DE) Common Stock","Protalix BioTherapeutics, Inc. (DE) Common Stock",A,PLX,N,100.0,N,PLX
-PLYM,"Plymouth Industrial REIT, Inc. Common Stock","Plymouth Industrial REIT, Inc. Common Stock",N,PLYM,N,100.0,N,PLYM
 PM,Philip Morris International Inc Common Stock,Philip Morris International Inc Common Stock,N,PM,N,100.0,N,PM
 PMAP,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - April,Z,PMAP,Y,100.0,N,PMAP
 PMAR,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - March,Z,PMAR,Y,100.0,N,PMAR
@@ -5660,6 +5663,7 @@ SNPG,Xtrackers S&P 500 Growth Scored & Screened ETF,Xtrackers S&P 500 Growth Sco
 SNPX,Tradr 2X Long SNPS Daily ETF,Tradr 2X Long SNPS Daily ETF,Z,SNPX,Y,100.0,N,SNPX
 SNTH,MRP SynthEquity ETF,MRP SynthEquity ETF,P,SNTH,Y,100.0,N,SNTH
 SNX,TD SYNNEX Corporation Common Stock,TD SYNNEX Corporation Common Stock,N,SNX,N,100.0,N,SNX
+SNXX,Tradr 2X Long SNDK Daily ETF,Tradr 2X Long SNDK Daily ETF,Z,SNXX,Y,100.0,N,SNXX
 SO,Southern Company (The) Common Stock,Southern Company (The) Common Stock,N,SO,N,100.0,N,SO
 SOAR,"Volato Group, Inc. Class A Common Stock","Volato Group, Inc. Class A Common Stock",A,SOAR,N,100.0,N,SOAR
 SOBO,South Bow Corporation Common Shares,South Bow Corporation Common Shares,N,SOBO,N,100.0,N,SOBO
@@ -6349,6 +6353,7 @@ USE,USCF Energy Commodity Strategy Absolute Return Fund,USCF Energy Commodity St
 USEP,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - September,Z,USEP,Y,100.0,N,USEP
 USEW,Cambria US EW ETF,Cambria US EW ETF,Z,USEW,Y,100.0,N,USEW
 USFD,US Foods Holding Corp. Common Stock,US Foods Holding Corp. Common Stock,N,USFD,N,100.0,N,USFD
+USFE,First Eagle US Equity ETF,First Eagle US Equity ETF,P,USFE,Y,100.0,N,USFE
 USFR,WisdomTree Floating Rate Treasury Fund,WisdomTree Floating Rate Treasury Fund,P,USFR,Y,100.0,N,USFR
 USG,USCF Gold Strategy Plus Income Fund,USCF Gold Strategy Plus Income Fund,P,USG,Y,100.0,N,USG
 USHY,iShares Broad USD High Yield Corporate Bond ETF,iShares Broad USD High Yield Corporate Bond ETF,Z,USHY,Y,100.0,N,USHY
@@ -6595,6 +6600,7 @@ WCMI,First Trust WCM International Equity ETF,First Trust WCM International Equi
 WCN,"Waste Connections, Inc. Common Shares","Waste Connections, Inc. Common Shares",N,WCN,N,100.0,N,WCN
 WCPB,Weitz Core Plus Bond ETF,Weitz Core Plus Bond ETF,P,WCPB,Y,100.0,N,WCPB
 WD,"Walker & Dunlop, Inc Common Stock","Walker & Dunlop, Inc Common Stock",N,WD,N,100.0,N,WD
+WDCX,Tradr 2X Long WDC Daily ETF,Tradr 2X Long WDC Daily ETF,Z,WDCX,Y,100.0,N,WDCX
 WDEF,WisdomTree Europe Defense Fund,WisdomTree Europe Defense Fund,P,WDEF,Y,100.0,N,WDEF
 WDH,Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),N,WDH,N,100.0,N,WDH
 WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,N,WDI,N,100.0,N,WDI
