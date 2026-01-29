@@ -3423,6 +3423,7 @@ JHPI,John Hancock Preferred Income ETF,John Hancock Preferred Income ETF,P,JHPI,
 JHS,John Hancock Income Securities Trust Common Stock,John Hancock Income Securities Trust Common Stock,N,JHS,N,100.0,N,JHS
 JHSC,John Hancock Multifactor Small Cap ETF,John Hancock Multifactor Small Cap ETF,P,JHSC,Y,100.0,N,JHSC
 JHX,James Hardie Industries plc. Ordinary Shares,James Hardie Industries plc. Ordinary Shares,N,JHX,N,100.0,N,JHX
+JIDE,JPMorgan International Dynamic ETF,JPMorgan International Dynamic ETF,P,JIDE,Y,100.0,N,JIDE
 JIG,JPMorgan International Growth ETF,JPMorgan International Growth ETF,P,JIG,Y,100.0,N,JIG
 JIII,Janus Henderson Income ETF,Janus Henderson Income ETF,P,JIII,Y,100.0,N,JIII
 JILL,"J. Jill, Inc. Common Stock","J. Jill, Inc. Common Stock",N,JILL,N,100.0,N,JILL
@@ -3905,7 +3906,7 @@ MDT,Medtronic plc. Ordinary Shares,Medtronic plc. Ordinary Shares,N,MDT,N,100.0,
 MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)","MDU Resources Group, Inc. Common Stock (Holding Company)",N,MDU,N,100.0,N,MDU
 MDV,"Modiv Industrial, Inc. Class C Common Stock","Modiv Industrial, Inc. Class C Common Stock",N,MDV,N,100.0,N,MDV
 MDV$A,"Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock","Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",N,MDVpA,N,100.0,N,MDV-A
-MDY,SPDR S&P MidCap 400 ETF Trust,SPDR S&P MidCap 400 ETF Trust,P,MDY,Y,40.0,N,MDY
+MDY,State Street SPDR S&P MIDCAP 400 ETF Trust,State Street SPDR S&P MIDCAP 400 ETF Trust,P,MDY,Y,40.0,N,MDY
 MDYG,State Street SPDR S&P 400 Mid Cap Growth ETF,State Street SPDR S&P 400 Mid Cap Growth ETF,P,MDYG,Y,100.0,N,MDYG
 MDYV,State Street SPDR S&P 400 Mid Cap Value ETF,State Street SPDR S&P 400 Mid Cap Value ETF,P,MDYV,Y,100.0,N,MDYV
 MEAR,iShares Short Maturity Municipal Bond Active ETF,iShares Short Maturity Municipal Bond Active ETF,Z,MEAR,Y,100.0,N,MEAR
@@ -4232,7 +4233,7 @@ NCZ,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,Vir
 NCZ$A,Virtus Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares,Virtus Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares,N,NCZpA,N,100.0,N,NCZ-A
 NDEC,Innovator Growth,Innovator Growth-100 Power Buffer ETF - December,Z,NDEC,Y,100.0,N,NDEC
 NDIA,Global X India Active ETF,Global X India Active ETF,P,NDIA,Y,100.0,N,NDIA
-NDIV,Amplify Natural Resources Dividend Income ETF,Amplify Natural Resources Dividend Income ETF,P,NDIV,Y,100.0,N,NDIV
+NDIV,Amplify Energy & Natural Resources Covered Call ETF,Amplify Energy & Natural Resources Covered Call ETF,P,NDIV,Y,100.0,N,NDIV
 NDMO,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,N,NDMO,N,100.0,N,NDMO
 NDOW,Anydrus Advantage ETF,Anydrus Advantage ETF,Z,NDOW,Y,100.0,N,NDOW
 NDVG,Nuveen Dividend Growth ETF,Nuveen Dividend Growth ETF,P,NDVG,Y,100.0,N,NDVG
@@ -6115,6 +6116,7 @@ TOPC,iShares S&P 500 3% Capped ETF,iShares S&P 500 3% Capped ETF,P,TOPC,Y,100.0,
 TOPP,Toppoint Holdings Inc. Common Stock,Toppoint Holdings Inc. Common Stock,A,TOPP,N,100.0,N,TOPP
 TOPS,"TOP Ships, Inc. Common Stock","TOP Ships, Inc. Common Stock",A,TOPS,N,100.0,N,TOPS
 TOPT,iShares Top 20 U.S. Stocks ETF,iShares Top 20 U.S. Stocks ETF,P,TOPT,Y,100.0,N,TOPT
+TOS,Twin Oak Strategic Solutions ETF,Twin Oak Strategic Solutions ETF,Z,TOS,Y,100.0,N,TOS
 TOST,"Toast, Inc. Class A Common Stock","Toast, Inc. Class A Common Stock",N,TOST,N,100.0,N,TOST
 TOT,LionShares U.S. Equity Total Return ETF,LionShares U.S. Equity Total Return ETF,P,TOT,Y,100.0,N,TOT
 TOTL,State Street DoubleLine Total Return Tactical ETF,State Street DoubleLine Total Return Tactical ETF,P,TOTL,Y,100.0,N,TOTL
