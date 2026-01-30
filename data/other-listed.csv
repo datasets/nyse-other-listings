@@ -676,7 +676,9 @@ BHYB,Xtrackers USD High Yield BB,Xtrackers USD High Yield BB-B ex Financials ETF
 BIBL,Inspire 100 ETF,Inspire 100 ETF,P,BIBL,Y,100.0,N,BIBL
 BIDD,iShares International Dividend Active ETF,iShares International Dividend Active ETF,P,BIDD,Y,100.0,N,BIDD
 BIGY,YieldMax Target 12 Big 50 Option Income ETF,YieldMax Target 12 Big 50 Option Income ETF,P,BIGY,Y,100.0,N,BIGY
+BIII,Black Spade Acquisition III Co Class A Ordinary Shares,Black Spade Acquisition III Co Class A Ordinary Shares,N,BIII,N,100.0,N,BIII
 BIII.U,"Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one","Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,BIII.U,N,100.0,N,BIII=
+BIII.W,"Black Spade Acquisition III Co Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Black Spade Acquisition III Co Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,BIII.WS,N,100.0,N,BIII+
 BIL,State Street SPDR Bloomberg 1,State Street SPDR Bloomberg 1-3 Month T-Bill ETF,P,BIL,Y,100.0,N,BIL
 BILD,Nomura Global Listed Infrastructure ETF,Nomura Global Listed Infrastructure ETF,P,BILD,Y,100.0,N,BILD
 BILL,"BILL Holdings, Inc. Common Stock","BILL Holdings, Inc. Common Stock",N,BILL,N,100.0,N,BILL
@@ -4526,6 +4528,7 @@ OMFS,Invesco Russell 2000 Dynamic Multifactor ETF,Invesco Russell 2000 Dynamic M
 OND,ProShares On,ProShares On-Demand ETF,P,OND,Y,100.0,N,OND
 ONDL,Defiance Daily Target 2X Long ONDS ETF,Defiance Daily Target 2X Long ONDS ETF,Z,ONDL,Y,100.0,N,ONDL
 ONDU,Tradr 2X Long ONDS Daily ETF,Tradr 2X Long ONDS Daily ETF,Z,ONDU,Y,100.0,N,ONDU
+ONEH,TrueShares Equity Hedge ETF,TrueShares Equity Hedge ETF,Z,ONEH,Y,100.0,N,ONEH
 ONEO,State Street SPDR Russell 1000 Momentum Focus ETF,State Street SPDR Russell 1000 Momentum Focus ETF,P,ONEO,Y,100.0,N,ONEO
 ONEV,State Street SPDR Russell 1000 Low Volatility Focus ETF,State Street SPDR Russell 1000 Low Volatility Focus ETF,P,ONEV,Y,100.0,N,ONEV
 ONEY,State Street SPDR Russell 1000 Yield Focus ETF,State Street SPDR Russell 1000 Yield Focus ETF,P,ONEY,Y,100.0,N,ONEY
@@ -5523,7 +5526,6 @@ SGVT,Schwab Government Money Market ETF,Schwab Government Money Market ETF,P,SGV
 SH,ProShares Short S&P500,ProShares Short S&P500,P,SH,Y,100.0,N,SH
 SHAG,WisdomTree Yield Enhanced U.S. Short,WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund,Z,SHAG,Y,100.0,N,SHAG
 SHAK,"Shake Shack, Inc. Class A Common Stock","Shake Shack, Inc. Class A Common Stock",N,SHAK,N,100.0,N,SHAK
-SHCO,Soho House & Co Inc. Class A Common Stock,Soho House & Co Inc. Class A Common Stock,N,SHCO,N,100.0,N,SHCO
 SHDG,Soundwatch Hedged Equity ETF,Soundwatch Hedged Equity ETF,Z,SHDG,Y,100.0,N,SHDG
 SHE,State Street SPDR MSCI USA Gender Diversity ETF,State Street SPDR MSCI USA Gender Diversity ETF,P,SHE,Y,100.0,N,SHE
 SHEH,Shell plc ADRhedged,Shell plc ADRhedged,P,SHEH,Y,100.0,N,SHEH
@@ -6249,6 +6251,7 @@ TZA,Direxion Small Cap Bear 3X Shares,Direxion Small Cap Bear 3X Shares,P,TZA,Y,
 U,Unity Software Inc. Common Stock,Unity Software Inc. Common Stock,N,U,N,100.0,N,U
 UA,"Under Armour, Inc. Class C Common Stock","Under Armour, Inc. Class C Common Stock",N,UA,N,100.0,N,UA
 UAA,"Under Armour, Inc. Class A Common Stock","Under Armour, Inc. Class A Common Stock",N,UAA,N,100.0,N,UAA
+UAC.U,"United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one","United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",A,UAC.U,N,100.0,N,UAC=
 UAMY,United States Antimony Corporation Common Stock,United States Antimony Corporation Common Stock,A,UAMY,N,100.0,N,UAMY
 UAN,"CVR Partners, LP Common Units representing Limited Partner Interests","CVR Partners, LP Common Units representing Limited Partner Interests",N,UAN,N,100.0,N,UAN
 UAPR,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - April,Z,UAPR,Y,100.0,N,UAPR
@@ -6890,6 +6893,7 @@ YPF,YPF Sociedad Anonima Common Stock,YPF Sociedad Anonima Common Stock,N,YPF,N,
 YRD,"Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares","Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares",N,YRD,N,100.0,N,YRD
 YSEP,FT Vest International Equity Buffer ETF ,FT Vest International Equity Buffer ETF - September,Z,YSEP,Y,100.0,N,YSEP
 YSG,"Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares","Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",N,YSG,N,100.0,N,YSG
+YSS,York Space Systems Inc. Common Stock,York Space Systems Inc. Common Stock,N,YSS,N,100.0,N,YSS
 YUM,"Yum! Brands, Inc.","Yum! Brands, Inc.",N,YUM,N,100.0,N,YUM
 YUMC,"Yum China Holdings, Inc. Common Stock","Yum China Holdings, Inc. Common Stock",N,YUMC,N,100.0,N,YUMC
 YXI,ProShares Short FTSE China 50,ProShares Short FTSE China 50,P,YXI,Y,100.0,N,YXI
