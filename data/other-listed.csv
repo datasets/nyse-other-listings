@@ -1131,7 +1131,6 @@ CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,Chimera Investm
 CINT,CI&T Inc Class A Common Shares,CI&T Inc Class A Common Shares,N,CINT,N,100.0,N,CINT
 CION,CION Investment Corporation Common Stock,CION Investment Corporation Common Stock,N,CION,N,100.0,N,CION
 CITR,"General Enterprise Ventures, Inc. Common Stock","General Enterprise Ventures, Inc. Common Stock",A,CITR,N,100.0,N,CITR
-CIVI,"Civitas Resources, Inc. Common Stock","Civitas Resources, Inc. Common Stock",N,CIVI,N,100.0,N,CIVI
 CIX,CompX International Inc. Common Stock,CompX International Inc. Common Stock,A,CIX,N,100.0,N,CIX
 CKX,"CKX Lands, Inc. Common Stock","CKX Lands, Inc. Common Stock",A,CKX,N,100.0,N,CKX
 CL,Colgate,Colgate-Palmolive Company Common Stock,N,CL,N,100.0,N,CL
@@ -1763,7 +1762,6 @@ ECAT,BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Int
 ECC,Eagle Point Credit Company Inc. Common Stock,Eagle Point Credit Company Inc. Common Stock,N,ECC,N,100.0,N,ECC
 ECC$D,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,N,ECCpD,N,100.0,N,ECC-D
 ECCC,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,N,ECCC,N,100.0,N,ECCC
-ECCF,Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029,Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029,N,ECCF,N,100.0,N,ECCF
 ECCU,Eagle Point Credit Company Inc. 7.75% Notes due 2030,Eagle Point Credit Company Inc. 7.75% Notes due 2030,N,ECCU,N,100.0,N,ECCU
 ECCV,Eagle Point Credit Company Inc. 5.375% Notes due 2029,Eagle Point Credit Company Inc. 5.375% Notes due 2029,N,ECCV,N,100.0,N,ECCV
 ECCW,Eagle Point Credit Company Inc. 6.75% Notes due 2031,Eagle Point Credit Company Inc. 6.75% Notes due 2031,N,ECCW,N,100.0,N,ECCW
@@ -5125,6 +5123,7 @@ RDOG,ALPS REIT Dividend Dogs ETF,ALPS REIT Dividend Dogs ETF,P,RDOG,Y,100.0,N,RD
 RDTE,Roundhill Russell 2000 0DTE Covered Call Strategy ETF,Roundhill Russell 2000 0DTE Covered Call Strategy ETF,Z,RDTE,Y,100.0,N,RDTE
 RDVI,FT Vest Rising Dividend Achievers Target Income ETF,FT Vest Rising Dividend Achievers Target Income ETF,Z,RDVI,Y,100.0,N,RDVI
 RDW,Redwire Corporation Common Stock,Redwire Corporation Common Stock,N,RDW,N,100.0,N,RDW
+RDWU,T,T-REX 2X Long RDW Daily Target ETF,Z,RDWU,Y,100.0,N,RDWU
 RDY,Dr. Reddy's Laboratories Ltd Common Stock,Dr. Reddy's Laboratories Ltd Common Stock,N,RDY,N,100.0,N,RDY
 RDYY,YieldMax RDDT Option Income Strategy ETF,YieldMax RDDT Option Income Strategy ETF,P,RDYY,Y,100.0,N,RDYY
 RECS,Columbia Research Enhanced Core ETF,Columbia Research Enhanced Core ETF,P,RECS,Y,100.0,N,RECS
