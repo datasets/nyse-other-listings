@@ -448,6 +448,7 @@ AVSD,Avantis Responsible International Equity ETF,Avantis Responsible Internatio
 AVSE,Avantis Responsible Emerging Markets Equity ETF,Avantis Responsible Emerging Markets Equity ETF,P,AVSE,Y,100.0,N,AVSE
 AVSF,Avantis Short,Avantis Short-Term Fixed Income ETF,P,AVSF,Y,100.0,N,AVSF
 AVSU,Avantis Responsible U.S. Equity ETF,Avantis Responsible U.S. Equity ETF,P,AVSU,Y,100.0,N,AVSU
+AVTM,Avantis Total Equity Markets ETF,Avantis Total Equity Markets ETF,P,AVTM,Y,100.0,N,AVTM
 AVTR,"Avantor, Inc. Common Stock","Avantor, Inc. Common Stock",N,AVTR,N,100.0,N,AVTR
 AVUS,Avantis U.S. Equity ETF,Avantis U.S. Equity ETF,P,AVUS,Y,100.0,N,AVUS
 AVUV,Avantis U.S. Small Cap Value ETF,Avantis U.S. Small Cap Value ETF,P,AVUV,Y,100.0,N,AVUV
@@ -472,7 +473,7 @@ AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100t
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
 AXUP,T,T-REX 2X Long AXON Daily Target ETF,Z,AXUP,Y,100.0,N,AXUP
 AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,40.0,N,AYI
-AZNH,AstraZeneca PLC ADRhedged,AstraZeneca PLC ADRhedged,P,AZNH,Y,100.0,N,AZNH
+AZN,AstraZeneca PLC Ordinary Shares,AstraZeneca PLC Ordinary Shares,N,AZN,N,100.0,N,AZN
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,10.0,N,AZO
 AZTD,Aztlan Global Stock Selection DM SMID ETF,Aztlan Global Stock Selection DM SMID ETF,P,AZTD,Y,100.0,N,AZTD
 AZTR,Azitra Inc Common Stock,Azitra Inc Common Stock,A,AZTR,N,100.0,N,AZTR
@@ -750,6 +751,7 @@ BLCV,iShares Large Cap Value Active ETF,iShares Large Cap Value Active ETF,P,BLC
 BLD,TopBuild Corp. Common Stock,TopBuild Corp. Common Stock,N,BLD,N,40.0,N,BLD
 BLDG,Cambria Global Real Estate ETF,Cambria Global Real Estate ETF,Z,BLDG,Y,100.0,N,BLDG
 BLDR,"Builders FirstSource, Inc. Common Stock","Builders FirstSource, Inc. Common Stock",N,BLDR,N,100.0,N,BLDR
+BLDX,Impax Global Infrastructure ETF,Impax Global Infrastructure ETF,P,BLDX,Y,100.0,N,BLDX
 BLE,BlackRock Municipal Income Trust II,BlackRock Municipal Income Trust II,N,BLE,N,100.0,N,BLE
 BLES,Inspire Global Hope ETF,Inspire Global Hope ETF,P,BLES,Y,100.0,N,BLES
 BLGR,Bluemonte Large Cap Growth ETF,Bluemonte Large Cap Growth ETF,P,BLGR,Y,100.0,N,BLGR
@@ -955,8 +957,6 @@ CAAP,Corporacion America Airports SA Common Shares,Corporacion America Airports 
 CABO,"Cable One, Inc. Common Stock","Cable One, Inc. Common Stock",N,CABO,N,100.0,N,CABO
 CABZ,"Roundhill Robotaxi, Autonomous Vehicles & Technology ETF","Roundhill Robotaxi, Autonomous Vehicles & Technology ETF",Z,CABZ,Y,100.0,N,CABZ
 CACI,"CACI International, Inc. Class A Common Stock","CACI International, Inc. Class A Common Stock",N,CACI,N,40.0,N,CACI
-CADE,Cadence Bank Common Stock,Cadence Bank Common Stock,N,CADE,N,100.0,N,CADE
-CADE$A,Cadence Bank 5.50% Series A ,Cadence Bank 5.50% Series A ,N,CADEpA,N,100.0,N,CADE-A
 CAE,CAE Inc. Ordinary Shares,CAE Inc. Ordinary Shares,N,CAE,N,100.0,N,CAE
 CAF,Morgan Stanley China A Share Fund Inc. Common Stock,Morgan Stanley China A Share Fund Inc. Common Stock,N,CAF,N,100.0,N,CAF
 CAFX,Congress Intermediate Bond ETF,Congress Intermediate Bond ETF,P,CAFX,Y,100.0,N,CAFX
@@ -1159,8 +1159,6 @@ CLVT,Clarivate Plc Ordinary Shares,Clarivate Plc Ordinary Shares,N,CLVT,N,100.0,
 CLW,Clearwater Paper Corporation Common Stock,Clearwater Paper Corporation Common Stock,N,CLW,N,100.0,N,CLW
 CLX,Clorox Company (The) Common Stock,Clorox Company (The) Common Stock,N,CLX,N,100.0,N,CLX
 CM,Canadian Imperial Bank of Commerce Common Stock,Canadian Imperial Bank of Commerce Common Stock,N,CM,N,100.0,N,CM
-CMA,Comerica Incorporated Common Stock,Comerica Incorporated Common Stock,N,CMA,N,100.0,N,CMA
-CMA$B,"Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed","Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",N,CMApB,N,100.0,N,CMA-B
 CMBS,iShares CMBS Bond ETF,iShares CMBS Bond ETF,P,CMBS,Y,100.0,N,CMBS
 CMBT,CMB.TECH NV Ordinary Shares,CMB.TECH NV Ordinary Shares,N,CMBT,N,100.0,N,CMBT
 CMC,Commercial Metals Company Common Stock,Commercial Metals Company Common Stock,N,CMC,N,100.0,N,CMC
@@ -1398,7 +1396,7 @@ CWEB,Direxion Daily CSI China Internet Index Bull 2X Shares,Direxion Daily CSI C
 CWEN,"Clearway Energy, Inc. Class C Common Stock","Clearway Energy, Inc. Class C Common Stock",N,CWEN,N,100.0,N,CWEN
 CWEN.A,"Clearway Energy, Inc. Class A Common Stock","Clearway Energy, Inc. Class A Common Stock",N,CWEN.A,N,100.0,N,CWEN.A
 CWH,"Camping World Holdings, Inc. Class A Common Stock","Camping World Holdings, Inc. Class A Common Stock",N,CWH,N,100.0,N,CWH
-CWI,SPDR MSCI ACWI ex,SPDR MSCI ACWI ex-US ETF,P,CWI,Y,100.0,N,CWI
+CWI,State Street SPDR MSCI ACWI ex,State Street SPDR MSCI ACWI ex-US ETF,P,CWI,Y,100.0,N,CWI
 CWII,REX CRWV Growth & Income ETF,REX CRWV Growth & Income ETF,Z,CWII,Y,100.0,N,CWII
 CWK,Cushman & Wakefield Ltd. Common Shares,Cushman & Wakefield Ltd. Common Shares,N,CWK,N,100.0,N,CWK
 CWS,AdvisorShares Focused Equity ETF,AdvisorShares Focused Equity ETF,P,CWS,Y,100.0,N,CWS
@@ -1458,12 +1456,13 @@ DCI,"Donaldson Company, Inc. Common Stock","Donaldson Company, Inc. Common Stock
 DCMT,DoubleLine Commodity Strategy ETF,DoubleLine Commodity Strategy ETF,P,DCMT,Y,100.0,N,DCMT
 DCO,Ducommun Incorporated Common Stock,Ducommun Incorporated Common Stock,N,DCO,N,100.0,N,DCO
 DCOR,Dimensional US Core Equity 1 ETF,Dimensional US Core Equity 1 ETF,P,DCOR,Y,100.0,N,DCOR
-DCRE,DoubleLine Commercial Real Estate ETF,DoubleLine Commercial Real Estate ETF,P,DCRE,Y,100.0,N,DCRE
+DCRE,DoubleLine Commercial Real Estate Debt ETF,DoubleLine Commercial Real Estate Debt ETF,P,DCRE,Y,100.0,N,DCRE
 DD,"DuPont de Nemours, Inc. Common Stock","DuPont de Nemours, Inc. Common Stock",N,DD,N,100.0,N,DD
 DDC,DDC Enterprise Limited Class A Ordinary Shares,DDC Enterprise Limited Class A Ordinary Shares,A,DDC,N,100.0,N,DDC
 DDD,3D Systems Corporation Common Stock,3D Systems Corporation Common Stock,N,DDD,N,100.0,N,DDD
 DDEC,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - December,Z,DDEC,Y,100.0,N,DDEC
 DDFD,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - December,Z,DDFD,Y,100.0,N,DDFD
+DDFF,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - February,Z,DDFF,Y,100.0,N,DDFF
 DDFJ,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - January,Z,DDFJ,Y,100.0,N,DDFJ
 DDFL,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - July,Z,DDFL,Y,100.0,N,DDFL
 DDFN,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - November,Z,DDFN,Y,100.0,N,DDFN
@@ -1477,6 +1476,7 @@ DDS,"Dillard's, Inc. Common Stock","Dillard's, Inc. Common Stock",N,DDS,N,40.0,N
 DDSQ,Innovator Equity Dual Directional 5 Buffer ETF ,Innovator Equity Dual Directional 5 Buffer ETF - Quarterly,Z,DDSQ,Y,100.0,N,DDSQ
 DDT,Dillard's Capital Trust I,Dillard's Capital Trust I,N,DDT,N,100.0,N,DDT
 DDTD,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - December,Z,DDTD,Y,100.0,N,DDTD
+DDTF,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - February,Z,DDTF,Y,100.0,N,DDTF
 DDTJ,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - January,Z,DDTJ,Y,100.0,N,DDTJ
 DDTL,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - July,Z,DDTL,Y,100.0,N,DDTL
 DDTN,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - November,Z,DDTN,Y,100.0,N,DDTN
@@ -1667,6 +1667,7 @@ DRN,Direxion Daily Real Estate Bull 3X Shares,Direxion Daily Real Estate Bull 3X
 DRSK,Aptus Defined Risk ETF,Aptus Defined Risk ETF,Z,DRSK,Y,100.0,N,DRSK
 DRUP,GraniteShares Nasdaq Select Disruptors ETF,GraniteShares Nasdaq Select Disruptors ETF,P,DRUP,Y,100.0,N,DRUP
 DRV,Direxion Daily Real Estate Bear 3X Shares,Direxion Daily Real Estate Bear 3X Shares,P,DRV,Y,100.0,N,DRV
+DSCO,DoubleLine Securitized Credit ETF,DoubleLine Securitized Credit ETF,P,DSCO,Y,100.0,N,DSCO
 DSEP,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - September,Z,DSEP,Y,100.0,N,DSEP
 DSI,iShares ESG MSCI KLD 400 ETF,iShares ESG MSCI KLD 400 ETF,P,DSI,Y,100.0,N,DSI
 DSL,DoubleLine Income Solutions Fund Common Shares of Beneficial Interests,DoubleLine Income Solutions Fund Common Shares of Beneficial Interests,N,DSL,N,100.0,N,DSL
@@ -1719,7 +1720,7 @@ DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,iShares E
 DWLD,Davis Select Worldwide ETF,Davis Select Worldwide ETF,Z,DWLD,Y,100.0,N,DWLD
 DWM,WisdomTree International Equity Fund,WisdomTree International Equity Fund,P,DWM,Y,100.0,N,DWM
 DWMF,WisdomTree International Multifactor Fund,WisdomTree International Multifactor Fund,P,DWMF,Y,100.0,N,DWMF
-DWX,SPDR S&P International Dividend ETF,SPDR S&P International Dividend ETF,P,DWX,Y,100.0,N,DWX
+DWX,State Street SPDR S&P International Dividend ETF,State Street SPDR S&P International Dividend ETF,P,DWX,Y,100.0,N,DWX
 DX,"Dynex Capital, Inc. Common Stock","Dynex Capital, Inc. Common Stock",N,DX,N,100.0,N,DX
 DX$C,"Dynex Capital, Inc. 6.900% Series C Fixed","Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",N,DXpC,N,100.0,N,DX-C
 DXC,DXC Technology Company Common Stock ,DXC Technology Company Common Stock ,N,DXC,N,100.0,N,DXC
@@ -1786,7 +1787,7 @@ EDGF,3EDGE Dynamic Fixed Income ETF,3EDGE Dynamic Fixed Income ETF,P,EDGF,Y,100.
 EDGH,3EDGE Dynamic Hard Assets ETF,3EDGE Dynamic Hard Assets ETF,P,EDGH,Y,100.0,N,EDGH
 EDGI,3EDGE Dynamic International Equity ETF,3EDGE Dynamic International Equity ETF,P,EDGI,Y,100.0,N,EDGI
 EDGU,3EDGE Dynamic US Equity ETF,3EDGE Dynamic US Equity ETF,P,EDGU,Y,100.0,N,EDGU
-EDIV,SPDR S&P Emerging Markets Dividend ETF,SPDR S&P Emerging Markets Dividend ETF,P,EDIV,Y,100.0,N,EDIV
+EDIV,State Street SPDR S&P Emerging Markets Dividend ETF,State Street SPDR S&P Emerging Markets Dividend ETF,P,EDIV,Y,100.0,N,EDIV
 EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,N,EDN,N,100.0,N,EDN
 EDOG,ALPS Emerging Sector Dividend Dogs ETF,ALPS Emerging Sector Dividend Dogs ETF,P,EDOG,Y,100.0,N,EDOG
 EDOW,First Trust Dow 30 Equal Weight ETF,First Trust Dow 30 Equal Weight ETF,P,EDOW,Y,100.0,N,EDOW
@@ -1800,7 +1801,7 @@ EEM,iShares MSCI Emerging Index Fund,iShares MSCI Emerging Index Fund,P,EEM,Y,10
 EEMO,Invesco S&P Emerging Markets Momentum ETF,Invesco S&P Emerging Markets Momentum ETF,P,EEMO,Y,100.0,N,EEMO
 EEMS,iShares MSCI Emerging Markets Small Cap ETF,iShares MSCI Emerging Markets Small Cap ETF,P,EEMS,Y,100.0,N,EEMS
 EEMV,iShares MSCI Emerging Markets Min Vol Factor ETF,iShares MSCI Emerging Markets Min Vol Factor ETF,Z,EEMV,Y,100.0,N,EEMV
-EEMX,SPDR MSCI Emerging Markets Fuel Reserves Free ETF,SPDR MSCI Emerging Markets Fuel Reserves Free ETF,P,EEMX,Y,100.0,N,EEMX
+EEMX,State Street SPDR MSCI Emerging Markets Fossil Fuel Reserves Free ETF,State Street SPDR MSCI Emerging Markets Fossil Fuel Reserves Free ETF,P,EEMX,Y,100.0,N,EEMX
 EES,WisdomTree U.S. SmallCap Fund,WisdomTree U.S. SmallCap Fund,P,EES,Y,100.0,N,EES
 EET,ProShares Ultra MSCI Emerging Markets,ProShares Ultra MSCI Emerging Markets,P,EET,Y,100.0,N,EET
 EETH,ProShares Ether ETF,ProShares Ether ETF,P,EETH,Y,100.0,N,EETH
@@ -1810,7 +1811,7 @@ EFA,iShares MSCI EAFE ETF,iShares MSCI EAFE ETF,P,EFA,Y,100.0,N,EFA
 EFAA,Invesco MSCI EAFE Income Advantage ETF,Invesco MSCI EAFE Income Advantage ETF,P,EFAA,Y,100.0,N,EFAA
 EFAD,ProShares MSCI EAFE Dividend Growers ETF,ProShares MSCI EAFE Dividend Growers ETF,Z,EFAD,Y,100.0,N,EFAD
 EFAV,iShares MSCI EAFE Min Vol Factor ETF,iShares MSCI EAFE Min Vol Factor ETF,Z,EFAV,Y,100.0,N,EFAV
-EFAX,SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,P,EFAX,Y,100.0,N,EFAX
+EFAX,State Street SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,State Street SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,P,EFAX,Y,100.0,N,EFAX
 EFC,Ellington Financial Inc. Common Stock ,Ellington Financial Inc. Common Stock ,N,EFC,N,100.0,N,EFC
 EFC$A,Ellington Financial Inc. 6.750% Series A Fixed,Ellington Financial Inc. 6.750% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,EFCpA,N,100.0,N,EFC-A
 EFC$B,Ellington Financial Inc. 6.250% Series B Fixed,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,EFCpB,N,100.0,N,EFC-B
@@ -2081,7 +2082,7 @@ EWU,iShares MSCI United Kingdom ETF,iShares MSCI United Kingdom ETF,P,EWU,Y,100.
 EWUS,iShares MSCI United Kingdom Small Cap ETF,iShares MSCI United Kingdom Small Cap ETF,Z,EWUS,Y,100.0,N,EWUS
 EWV,ProShares UltraShort MSCI Japan,ProShares UltraShort MSCI Japan,P,EWV,Y,100.0,N,EWV
 EWW,iShares MSCI Mexico ETF,iShares MSCI Mexico ETF,P,EWW,Y,100.0,N,EWW
-EWX,SPDR S&P Emerging Markets Small Cap ETF,SPDR S&P Emerging Markets Small Cap ETF,P,EWX,Y,100.0,N,EWX
+EWX,State Street SPDR S&P Emerging Markets Small Cap ETF,State Street SPDR S&P Emerging Markets Small Cap ETF,P,EWX,Y,100.0,N,EWX
 EWY,iShares MSCI South Korea ETF,iShares MSCI South Korea ETF,P,EWY,Y,100.0,N,EWY
 EWZ,iShares MSCI Brazil ETF,iShares MSCI Brazil ETF,P,EWZ,Y,100.0,N,EWZ
 EXG,Eaton Vance Tax,Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest,N,EXG,N,100.0,N,EXG
@@ -2195,7 +2196,7 @@ FESM,Fidelity Enhanced Small Cap ETF,Fidelity Enhanced Small Cap ETF,P,FESM,Y,10
 FET,"Forum Energy Technologies, Inc. Common Stock","Forum Energy Technologies, Inc. Common Stock",N,FET,N,100.0,N,FET
 FETH,Fidelity Ethereum Fund Fidelity Ethereum Fund,Fidelity Ethereum Fund Fidelity Ethereum Fund,Z,FETH,Y,100.0,N,FETH
 FEUS,FlexShares ESG & Climate US Large Cap Core Index Fund,FlexShares ESG & Climate US Large Cap Core Index Fund,P,FEUS,Y,100.0,N,FEUS
-FEZ,SPDR DJ Euro STOXX 50 Etf,SPDR DJ Euro STOXX 50 Etf,P,FEZ,Y,100.0,N,FEZ
+FEZ,State Street SPDR EURO STOXX 50 ETF,State Street SPDR EURO STOXX 50 ETF,P,FEZ,Y,100.0,N,FEZ
 FF,FutureFuel Corp.  Common shares,FutureFuel Corp.  Common shares,N,FF,N,100.0,N,FF
 FFA,First Trust Enhanced Equity Income Fund Common Shares of Beneficial Interest,First Trust Enhanced Equity Income Fund Common Shares of Beneficial Interest,N,FFA,N,100.0,N,FFA
 FFC,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,N,FFC,N,100.0,N,FFC
@@ -2506,7 +2507,6 @@ GBTC,Grayscale Bitcoin Trust (BTC),Grayscale Bitcoin Trust (BTC),P,GBTC,Y,100.0,
 GBTG,"Global Business Travel Group, Inc. Class A Common Stock","Global Business Travel Group, Inc. Class A Common Stock",N,GBTG,N,100.0,N,GBTG
 GBX,"Greenbrier Companies, Inc. (The) Common Stock","Greenbrier Companies, Inc. (The) Common Stock",N,GBX,N,100.0,N,GBX
 GBXA,Goldman Sachs U.S. Large Cap Buffer 1 ETF,Goldman Sachs U.S. Large Cap Buffer 1 ETF,Z,GBXA,Y,100.0,N,GBXA
-GBXB,Goldman Sachs U.S. Large Cap Buffer 2 ETF,Goldman Sachs U.S. Large Cap Buffer 2 ETF,Z,GBXB,Y,100.0,N,GBXB
 GBXC,Goldman Sachs U.S. Large Cap Buffer 3 ETF,Goldman Sachs U.S. Large Cap Buffer 3 ETF,Z,GBXC,Y,100.0,N,GBXC
 GCAD,Gabelli Commercial Aerospace and Defense ETF,Gabelli Commercial Aerospace and Defense ETF,P,GCAD,Y,100.0,N,GCAD
 GCAL,Goldman Sachs Dynamic California Municipal Income ETF,Goldman Sachs Dynamic California Municipal Income ETF,P,GCAL,Y,100.0,N,GCAL
@@ -2591,7 +2591,7 @@ GIB,CGI Inc. Common Stock,CGI Inc. Common Stock,N,GIB,N,100.0,N,GIB
 GIC,Global Industrial Company Common Stock,Global Industrial Company Common Stock,N,GIC,N,100.0,N,GIC
 GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,Goldman Sachs Access Investment Grade Corporate Bond ETF,P,GIGB,Y,100.0,N,GIGB
 GIGL,Goldman Sachs Corporate Bond ETF,Goldman Sachs Corporate Bond ETF,P,GIGL,Y,100.0,N,GIGL
-GII,SPDR S&P Global Infrastructure ETF,SPDR S&P Global Infrastructure ETF,P,GII,Y,100.0,N,GII
+GII,State Street SPDR S&P Global Infrastructure ETF,State Street SPDR S&P Global Infrastructure ETF,P,GII,Y,100.0,N,GII
 GIL,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock","Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",N,GIL,N,100.0,N,GIL
 GINN,Goldman Sachs Innovate Equity ETF,Goldman Sachs Innovate Equity ETF,P,GINN,Y,100.0,N,GINN
 GIS,"General Mills, Inc. Common Stock","General Mills, Inc. Common Stock",N,GIS,N,100.0,N,GIS
@@ -2644,7 +2644,7 @@ GMED,"Globus Medical, Inc. Class A Common Stock","Globus Medical, Inc. Class A C
 GMET,VanEck Green Metals ETF,VanEck Green Metals ETF,P,GMET,Y,100.0,N,GMET
 GMEU,T,T-REX 2X Long GME Daily Target ETF,Z,GMEU,Y,100.0,N,GMEU
 GMEY,YieldMax GME Option Income Strategy ETF,YieldMax GME Option Income Strategy ETF,P,GMEY,Y,100.0,N,GMEY
-GMF,SPDR S&P Emerging Asia Pacific ETF,SPDR S&P Emerging Asia Pacific ETF,P,GMF,Y,100.0,N,GMF
+GMF,State Street SPDR S&P Emerging Asia Pacific ETF,State Street SPDR S&P Emerging Asia Pacific ETF,P,GMF,Y,100.0,N,GMF
 GMMA,GammaRoad Market Navigation ETF,GammaRoad Market Navigation ETF,P,GMMA,Y,100.0,N,GMMA
 GMMF,iShares Government Money Market ETF,iShares Government Money Market ETF,P,GMMF,Y,100.0,N,GMMF
 GMNY,Goldman Sachs Dynamic New York Municipal Income ETF,Goldman Sachs Dynamic New York Municipal Income ETF,P,GMNY,Y,100.0,N,GMNY
@@ -2666,7 +2666,7 @@ GNL$B,"Global Net Lease, Inc. 6.875% Series B Cumulative Redeemable Perpetual Pr
 GNL$D,"Global Net Lease, Inc. 7.50% Series D Cumulative Redeemable Perpetual Preferred Stock","Global Net Lease, Inc. 7.50% Series D Cumulative Redeemable Perpetual Preferred Stock",N,GNLpD,N,100.0,N,GNL-D
 GNL$E,"Global Net Lease, Inc. 7.375% Series E Cumulative Redeemable Perpetual Preferred Stock","Global Net Lease, Inc. 7.375% Series E Cumulative Redeemable Perpetual Preferred Stock",N,GNLpE,N,100.0,N,GNL-E
 GNOV,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - November,Z,GNOV,Y,100.0,N,GNOV
-GNR,SPDR S&P Global Natural Resources ETF,SPDR S&P Global Natural Resources ETF,P,GNR,Y,100.0,N,GNR
+GNR,State Street SPDR S&P Global Natural Resources ETF,State Street SPDR S&P Global Natural Resources ETF,P,GNR,Y,100.0,N,GNR
 GNRC,Generac Holdlings Inc. Common Stock,Generac Holdlings Inc. Common Stock,N,GNRC,N,100.0,N,GNRC
 GNS,Genius Group Limited Ordinary Shares,Genius Group Limited Ordinary Shares,A,GNS,N,100.0,N,GNS
 GNT,"GAMCO Natural Resources, Gold & Income Trust","GAMCO Natural Resources, Gold & Income Trust",N,GNT,N,100.0,N,GNT
@@ -2788,8 +2788,8 @@ GWH,"ESS Tech, Inc. Common Stock","ESS Tech, Inc. Common Stock",N,GWH,N,100.0,N,
 GWH.W,"ESS Tech, Inc. Warrant","ESS Tech, Inc. Warrant",N,GWH.WS,N,100.0,N,GWH+
 GWRE,"Guidewire Software, Inc. Common Stock","Guidewire Software, Inc. Common Stock",N,GWRE,N,100.0,N,GWRE
 GWW,"W.W. Grainger, Inc. Common Stock","W.W. Grainger, Inc. Common Stock",N,GWW,N,40.0,N,GWW
-GWX,SPDR S&P International SmallCap ETF,SPDR S&P International SmallCap ETF,P,GWX,Y,100.0,N,GWX
-GXC,SPDR S&P China ETF,SPDR S&P China ETF,P,GXC,Y,100.0,N,GXC
+GWX,State Street SPDR S&P International Small Cap ETF,State Street SPDR S&P International Small Cap ETF,P,GWX,Y,100.0,N,GWX
+GXC,State Street SPDR S&P China ETF,State Street SPDR S&P China ETF,P,GXC,Y,100.0,N,GXC
 GXIG,Global X Investment Grade Corporate Bond ETF,Global X Investment Grade Corporate Bond ETF,P,GXIG,Y,100.0,N,GXIG
 GXLC,Global X U.S. 500 ETF,Global X U.S. 500 ETF,P,GXLC,Y,100.0,N,GXLC
 GXO,"GXO Logistics, Inc. Common Stock ","GXO Logistics, Inc. Common Stock ",N,GXO,N,100.0,N,GXO
@@ -3360,6 +3360,7 @@ JADE,JPMorgan Active Developing Markets Equity ETF,JPMorgan Active Developing Ma
 JAJL,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 6mo Jan/Jul,Z,JAJL,Y,100.0,N,JAJL
 JANB,Aptus January Buffer ETF,Aptus January Buffer ETF,Z,JANB,Y,100.0,N,JANB
 JANH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrier ETF - January,Z,JANH,Y,100.0,N,JANH
+JANI,AllianzIM International Equity Buffer15 Uncapped Jan ETF,AllianzIM International Equity Buffer15 Uncapped Jan ETF,Z,JANI,Y,100.0,N,JANI
 JANJ,Innovator Premium Income 30 Barrier ETF ,Innovator Premium Income 30 Barrier ETF - January,Z,JANJ,Y,100.0,N,JANJ
 JANM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - January,Z,JANM,Y,100.0,N,JANM
 JANP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - January,Z,JANP,Y,100.0,N,JANP
@@ -4061,10 +4062,10 @@ MPL,Defiance Daily Target 2X Long MP ETF,Defiance Daily Target 2X Long MP ETF,P,
 MPLX,MPLX LP Common Units Representing Limited Partner Interests,MPLX LP Common Units Representing Limited Partner Interests,N,MPLX,N,100.0,N,MPLX
 MPLY,Monopoly ETF,Monopoly ETF,Z,MPLY,Y,100.0,N,MPLY
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
+MPT,"Medical Properties Trust, Inc. common stock","Medical Properties Trust, Inc. common stock",N,MPT,N,100.0,N,MPT
 MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
 MPU,Mega Matrix Inc. Class A Ordinary Shares,Mega Matrix Inc. Class A Ordinary Shares,A,MPU,N,100.0,N,MPU
 MPV,Barings Participation Investors Common Stock,Barings Participation Investors Common Stock,N,MPV,N,100.0,N,MPV
-MPW,"Medical Properties Trust, Inc. common stock","Medical Properties Trust, Inc. common stock",N,MPW,N,100.0,N,MPW
 MPX,Marine Products Corporation Common Stock,Marine Products Corporation Common Stock,N,MPX,N,100.0,N,MPX
 MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock","Blackrock MuniYield Quality Fund II, Inc. Common Stock",N,MQT,N,100.0,N,MQT
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock","Blackrock MuniYield Quality Fund, Inc. Common Stock",N,MQY,N,100.0,N,MQY
@@ -4196,7 +4197,7 @@ NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,Direxion Daily Homebu
 NAK,"Northern Dynasty Minerals, Ltd. Common Stock","Northern Dynasty Minerals, Ltd. Common Stock",A,NAK,N,100.0,N,NAK
 NAN,Nuveen New York Quality Municipal Income Fund Common Stock,Nuveen New York Quality Municipal Income Fund Common Stock,N,NAN,N,100.0,N,NAN
 NANC,Unusual Whales Subversive Democratic Trading ETF,Unusual Whales Subversive Democratic Trading ETF,Z,NANC,Y,100.0,N,NANC
-NANR,SPDR S&P North American Natural Resources ETF,SPDR S&P North American Natural Resources ETF,P,NANR,Y,100.0,N,NANR
+NANR,State Street SPDR S&P North American Natural Resources ETF,State Street SPDR S&P North American Natural Resources ETF,P,NANR,Y,100.0,N,NANR
 NAPR,Innovator Growth,Innovator Growth-100 Power Buffer ETF - April,Z,NAPR,Y,100.0,N,NAPR
 NAT,Nordic American Tankers Limited Common Stock,Nordic American Tankers Limited Common Stock,N,NAT,N,100.0,N,NAT
 NATL,NCR Atleos Corporation Common Stock,NCR Atleos Corporation Common Stock,N,NATL,N,100.0,N,NATL
@@ -5015,8 +5016,8 @@ QDIV,Global X S&P 500 Quality Dividend ETF,Global X S&P 500 Quality Dividend ETF
 QDPL,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,P,QDPL,Y,100.0,N,QDPL
 QDTE,Roundhill Innovation,Roundhill Innovation-100 0DTE Covered Call Strategy ETF,Z,QDTE,Y,100.0,N,QDTE
 QDVO,Amplify CWP Growth & Income ETF,Amplify CWP Growth & Income ETF,P,QDVO,Y,100.0,N,QDVO
-QEFA,SPDR MSCI EAFE StrategicFactors ETF,SPDR MSCI EAFE StrategicFactors ETF,P,QEFA,Y,100.0,N,QEFA
-QEMM,SPDR MSCI Emerging Markets StrategicFactors ETF,SPDR MSCI Emerging Markets StrategicFactors ETF,P,QEMM,Y,100.0,N,QEMM
+QEFA,State Street SPDR MSCI EAFE StrategicFactors ETF,State Street SPDR MSCI EAFE StrategicFactors ETF,P,QEFA,Y,100.0,N,QEFA
+QEMM,State Street SPDR MSCI Emerging Markets StrategicFactors ETF,State Street SPDR MSCI Emerging Markets StrategicFactors ETF,P,QEMM,Y,100.0,N,QEMM
 QETH,Invesco Galaxy Ethereum ETF,Invesco Galaxy Ethereum ETF,Z,QETH,Y,100.0,N,QETH
 QFHD,Pacer S&P 500 Quality FCF High Dividend ETF,Pacer S&P 500 Quality FCF High Dividend ETF,Z,QFHD,Y,100.0,N,QFHD
 QFLR,Innovator Nasdaq,Innovator Nasdaq-100 Managed Floor ETF,P,QFLR,Y,100.0,N,QFLR
@@ -5075,7 +5076,7 @@ QVML,Invesco S&P 500 QVM Multi,Invesco S&P 500 QVM Multi-factor ETF,P,QVML,Y,100
 QVMM,Invesco S&P MidCap 400 QVM Multi,Invesco S&P MidCap 400 QVM Multi-factor ETF,P,QVMM,Y,100.0,N,QVMM
 QVMS,Invesco S&P SmallCap 600 QVM Multi,Invesco S&P SmallCap 600 QVM Multi-factor ETF,P,QVMS,Y,100.0,N,QVMS
 QVOY,Q3 All,Q3 All-Season Active Rotation ETF Q3 All-Season Active Rotation ETF,Z,QVOY,Y,100.0,N,QVOY
-QWLD,SPDR MSCI World StrategicFactors ETF,SPDR MSCI World StrategicFactors ETF,P,QWLD,Y,100.0,N,QWLD
+QWLD,State Street SPDR MSCI World StrategicFactors ETF,State Street SPDR MSCI World StrategicFactors ETF,P,QWLD,Y,100.0,N,QWLD
 QXAS,Quantify 2X Daily Alt Season Crypto ETF,Quantify 2X Daily Alt Season Crypto ETF,P,QXAS,Y,100.0,N,QXAS
 QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
 QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock","QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",N,QXOpB,N,100.0,N,QXO-B
@@ -5143,7 +5144,6 @@ RERE,ATRenew Inc. American Depositary Shares (every three of which representing 
 RES,"RPC, Inc. Common Stock","RPC, Inc. Common Stock",N,RES,N,100.0,N,RES
 RESM,Columbia Research Enhanced Small Cap ETF,Columbia Research Enhanced Small Cap ETF,P,RESM,Y,100.0,N,RESM
 RETL,Direxion Daily Retail Bull 3X Shares ETF,Direxion Daily Retail Bull 3X Shares ETF,P,RETL,Y,100.0,N,RETL
-REVG,"REV Group, Inc. Common Stock","REV Group, Inc. Common Stock",N,REVG,N,100.0,N,REVG
 REVS,Columbia Research Enhanced Value ETF,Columbia Research Enhanced Value ETF,P,REVS,Y,100.0,N,REVS
 REW,ProShares UltraShort Technology,ProShares UltraShort Technology,P,REW,Y,100.0,N,REW
 REX,REX American Resources Corporation,REX American Resources Corporation,N,REX,N,100.0,N,REX
@@ -5313,7 +5313,7 @@ RWK,Invesco S&P MidCap 400 Revenue ETF,Invesco S&P MidCap 400 Revenue ETF,P,RWK,
 RWL,Invesco S&P 500 Revenue ETF,Invesco S&P 500 Revenue ETF,P,RWL,Y,100.0,N,RWL
 RWLC,Rayliant Wilshire NxtGen US Large Cap Equity ETF,Rayliant Wilshire NxtGen US Large Cap Equity ETF,P,RWLC,Y,100.0,N,RWLC
 RWM,ProShares Short Russell2000,ProShares Short Russell2000,P,RWM,Y,100.0,N,RWM
-RWO,SPDR DJ Wilshire Global Real Estate ETF,SPDR DJ Wilshire Global Real Estate ETF,P,RWO,Y,100.0,N,RWO
+RWO,State Street SPDR Dow Jones Global Real Estate ETF,State Street SPDR Dow Jones Global Real Estate ETF,P,RWO,Y,100.0,N,RWO
 RWR,State Street SPDR Dow Jones REIT ETF,State Street SPDR Dow Jones REIT ETF,P,RWR,Y,100.0,N,RWR
 RWT,"Redwood Trust, Inc. Common Stock","Redwood Trust, Inc. Common Stock",N,RWT,N,100.0,N,RWT
 RWT$A,"Redwood Trust, Inc. 10.00% Series A Fixed","Redwood Trust, Inc. 10.00% Series A Fixed-Rate Reset Cumulative Redeemable Preferred Stock",N,RWTpA,N,100.0,N,RWT-A
@@ -5321,7 +5321,7 @@ RWTN,"Redwood Trust, Inc. 9.125% Senior Notes Due 2029","Redwood Trust, Inc. 9.1
 RWTO,"Redwood Trust, Inc. 9.00% Senior Notes Due 2029","Redwood Trust, Inc. 9.00% Senior Notes Due 2029",N,RWTO,N,100.0,N,RWTO
 RWTP,"Redwood Trust, Inc. 9.125% Senior Notes Due 2030","Redwood Trust, Inc. 9.125% Senior Notes Due 2030",N,RWTP,N,100.0,N,RWTP
 RWTQ,"Redwood Trust, Inc. 9.500% Senior Notes Due 2030","Redwood Trust, Inc. 9.500% Senior Notes Due 2030",N,RWTQ,N,100.0,N,RWTQ
-RWX,SPDR DJ Wilshire Intl Real Estate,SPDR DJ Wilshire Intl Real Estate,P,RWX,Y,100.0,N,RWX
+RWX,State Street SPDR Dow Jones International Real Estate ETF,State Street SPDR Dow Jones International Real Estate ETF,P,RWX,Y,100.0,N,RWX
 RXD,ProShares UltraShort Health Care,ProShares UltraShort Health Care,P,RXD,Y,100.0,N,RXD
 RXI,iShares Global Consumer Discretionary ETF,iShares Global Consumer Discretionary ETF,P,RXI,Y,100.0,N,RXI
 RXL,ProShares Ultra Health Care,ProShares Ultra Health Care,P,RXL,Y,100.0,N,RXL
@@ -5705,16 +5705,16 @@ SPD,Simplify US Equity PLUS Downside Convexity ETF,Simplify US Equity PLUS Downs
 SPDG,State Street SPDR Portfolio S&P Sector Neutral Dividend ETF,State Street SPDR Portfolio S&P Sector Neutral Dividend ETF,P,SPDG,Y,100.0,N,SPDG
 SPDN,Direxion Daily S&P 500 Bear 1X Shares,Direxion Daily S&P 500 Bear 1X Shares,P,SPDN,Y,100.0,N,SPDN
 SPDV,AAM S&P 500 High Dividend Value ETF,AAM S&P 500 High Dividend Value ETF,P,SPDV,Y,100.0,N,SPDV
-SPDW,SPDR Portfolio Developed World ex,SPDR Portfolio Developed World ex-US ETF,P,SPDW,Y,100.0,N,SPDW
+SPDW,State Street SPDR Portfolio Developed World ex,State Street SPDR Portfolio Developed World ex-US ETF,P,SPDW,Y,100.0,N,SPDW
 SPE,"Special Opportunities Fund, Inc Common Stock","Special Opportunities Fund, Inc Common Stock",N,SPE,N,100.0,N,SPE
 SPE$C,"Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, Series C","Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, Series C",N,SPEpC,N,100.0,N,SPE-C
-SPEM,SPDR Portfolio Emerging Markets ETF,SPDR Portfolio Emerging Markets ETF,P,SPEM,Y,100.0,N,SPEM
-SPEU,SPDR Portfolio Europe ETF,SPDR Portfolio Europe ETF,P,SPEU,Y,100.0,N,SPEU
+SPEM,State Street SPDR Portfolio Emerging Markets ETF,State Street SPDR Portfolio Emerging Markets ETF,P,SPEM,Y,100.0,N,SPEM
+SPEU,State Street SPDR Portfolio Europe ETF,State Street SPDR Portfolio Europe ETF,P,SPEU,Y,100.0,N,SPEU
 SPFF,Global X SuperIncome Preferred ETF,Global X SuperIncome Preferred ETF,P,SPFF,Y,100.0,N,SPFF
 SPG,"Simon Property Group, Inc. Common Stock","Simon Property Group, Inc. Common Stock",N,SPG,N,100.0,N,SPG
 SPG$J,"Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock","Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock",N,SPGpJ,N,100.0,N,SPG-J
 SPGI,S&P Global Inc. Common Stock,S&P Global Inc. Common Stock,N,SPGI,N,40.0,N,SPGI
-SPGM,SPDR Portfolio MSCI Global Stock Market ETF,SPDR Portfolio MSCI Global Stock Market ETF,P,SPGM,Y,100.0,N,SPGM
+SPGM,State Street SPDR Portfolio MSCI Global Stock Market ETF,State Street SPDR Portfolio MSCI Global Stock Market ETF,P,SPGM,Y,100.0,N,SPGM
 SPGP,Invesco S&P 500 GARP ETF,Invesco S&P 500 GARP ETF,P,SPGP,Y,100.0,N,SPGP
 SPH,"Suburban Propane Partners, L.P. Common Stock","Suburban Propane Partners, L.P. Common Stock",N,SPH,N,100.0,N,SPH
 SPHB,Invesco S&P 500 High Beta ETF,Invesco S&P 500 High Beta ETF,P,SPHB,Y,100.0,N,SPHB
@@ -6608,7 +6608,7 @@ WDCX,Tradr 2X Long WDC Daily ETF,Tradr 2X Long WDC Daily ETF,Z,WDCX,Y,100.0,N,WD
 WDEF,WisdomTree Europe Defense Fund,WisdomTree Europe Defense Fund,P,WDEF,Y,100.0,N,WDEF
 WDH,Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),N,WDH,N,100.0,N,WDH
 WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,N,WDI,N,100.0,N,WDI
-WDIV,SPDR S&P Global Dividend,SPDR S&P Global Dividend,P,WDIV,Y,100.0,N,WDIV
+WDIV,State Street SPDR S&P Global Dividend ETF,State Street SPDR S&P Global Dividend ETF,P,WDIV,Y,100.0,N,WDIV
 WDNA,WisdomTree BioRevolution Fund,WisdomTree BioRevolution Fund,Z,WDNA,Y,100.0,N,WDNA
 WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share","Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",N,WDS,N,100.0,N,WDS
 WDTE,Defiance S&P 500 Weekly Distribution ETF,Defiance S&P 500 Weekly Distribution ETF,P,WDTE,Y,100.0,N,WDTE
@@ -6663,6 +6663,7 @@ WNTR,YieldMax MSTR Short Option Income Strategy ETF,YieldMax MSTR Short Option I
 WOLF,"Wolfspeed, Inc. Common Stock New","Wolfspeed, Inc. Common Stock New",N,WOLF,N,100.0,N,WOLF
 WOMN,Impact Shares Women's Empowerment ETF,Impact Shares Women's Empowerment ETF,P,WOMN,Y,100.0,N,WOMN
 WOR,"Worthington Enterprises, Inc. Common Shares","Worthington Enterprises, Inc. Common Shares",N,WOR,N,100.0,N,WOR
+WPAC.U,"White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one","White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one-fifth (1/5) of one Class A ordinary share",N,WPAC.U,N,100.0,N,WPAC=
 WPAY,Roundhill WeeklyPay Universe ETF,Roundhill WeeklyPay Universe ETF,Z,WPAY,Y,100.0,N,WPAY
 WPC,W. P. Carey Inc. REIT,W. P. Carey Inc. REIT,N,WPC,N,100.0,N,WPC
 WPM,Wheaton Precious Metals Corp Common Shares (Canada),Wheaton Precious Metals Corp Common Shares (Canada),N,WPM,N,100.0,N,WPM

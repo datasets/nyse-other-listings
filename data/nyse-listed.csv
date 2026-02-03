@@ -265,6 +265,7 @@ AXS,Axis Capital Holdings Limited Common Stock
 AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares"
 AXTA,Axalta Coating Systems Ltd. Common Shares
 AYI,Acuity Inc. Common Stock
+AZN,AstraZeneca PLC Ordinary Shares
 AZO,"AutoZone, Inc. Common Stock"
 AZZ,AZZ Inc.
 B,Barrick Mining Corporation Common Shares
@@ -501,8 +502,6 @@ C$N,Citigroup Capital XIII 7.875% Fixed rate Floating Rate trust Preferred Secur
 CAAP,Corporacion America Airports SA Common Shares
 CABO,"Cable One, Inc. Common Stock"
 CACI,"CACI International, Inc. Class A Common Stock"
-CADE,Cadence Bank Common Stock
-CADE$A,Cadence Bank 5.50% Series A 
 CAE,CAE Inc. Ordinary Shares
 CAF,Morgan Stanley China A Share Fund Inc. Common Stock
 CAG,"ConAgra Brands, Inc. Common Stock"
@@ -599,8 +598,6 @@ CLVT,Clarivate Plc Ordinary Shares
 CLW,Clearwater Paper Corporation Common Stock
 CLX,Clorox Company (The) Common Stock
 CM,Canadian Imperial Bank of Commerce Common Stock
-CMA,Comerica Incorporated Common Stock
-CMA$B,"Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed"
 CMBT,CMB.TECH NV Ordinary Shares
 CMC,Commercial Metals Company Common Stock
 CMCM,"Cheetah Mobile Inc. American Depositary Shares, each representing fifty (50) Class A Ordinary Shares"
@@ -1700,8 +1697,8 @@ MP,MP Materials Corp. Common Stock
 MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock
 MPC,Marathon Petroleum Corporation Common Stock
 MPLX,MPLX LP Common Units Representing Limited Partner Interests
+MPT,"Medical Properties Trust, Inc. common stock"
 MPV,Barings Participation Investors Common Stock
-MPW,"Medical Properties Trust, Inc. common stock"
 MPX,Marine Products Corporation Common Stock
 MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock"
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock"
@@ -2181,7 +2178,6 @@ RDY,Dr. Reddy's Laboratories Ltd Common Stock
 RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)
 RERE,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares)
 RES,"RPC, Inc. Common Stock"
-REVG,"REV Group, Inc. Common Stock"
 REX,REX American Resources Corporation
 REXR,"Rexford Industrial Realty, Inc. Common Stock"
 REXR$B,"Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock"
@@ -2816,6 +2812,7 @@ WMS,"Advanced Drainage Systems, Inc. Common Stock"
 WNC,Wabash National Corporation Common Stock
 WOLF,"Wolfspeed, Inc. Common Stock New"
 WOR,"Worthington Enterprises, Inc. Common Shares"
+WPAC.U,"White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one"
 WPC,W. P. Carey Inc. REIT
 WPM,Wheaton Precious Metals Corp Common Shares (Canada)
 WPP,WPP plc American Depositary Shares
