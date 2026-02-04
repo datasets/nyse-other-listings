@@ -5,9 +5,6 @@ AAA,Alternative Access First Priority CLO Bond ETF,Alternative Access First Prio
 AAAA,Amplius Aggressive Asset Allocation ETF,Amplius Aggressive Asset Allocation ETF,Z,AAAA,Y,100.0,N,AAAA
 AAAC,Columbia AAA CLO ETF,Columbia AAA CLO ETF,P,AAAC,Y,100.0,N,AAAC
 AAAU,Goldman Sachs Physical Gold ETF Shares,Goldman Sachs Physical Gold ETF Shares,Z,AAAU,Y,100.0,N,AAAU
-AAM,AA Mission Acquisition Corp. Class A Ordinary Shares,AA Mission Acquisition Corp. Class A Ordinary Shares,N,AAM,N,100.0,N,AAM
-AAM.U,"AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one","AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",N,AAM.U,N,100.0,N,AAM=
-AAM.W,"AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share","AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",N,AAM.WS,N,100.0,N,AAM+
 AAMI,Acadian Asset Management Inc. Common Stock,Acadian Asset Management Inc. Common Stock,N,AAMI,N,100.0,N,AAMI
 AAP,Advance Auto Parts Inc.,Advance Auto Parts Inc.,N,AAP,N,100.0,N,AAP
 AAPR,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to April 2026,Z,AAPR,Y,100.0,N,AAPR
@@ -890,6 +887,7 @@ BTRN,Global X Bitcoin Trend Strategy ETF,Global X Bitcoin Trend Strategy ETF,P,B
 BTT,BlackRock Municipal 2030 Target Term Trust,BlackRock Municipal 2030 Target Term Trust,N,BTT,N,100.0,N,BTT
 BTU,Peabody Energy Corporation Common Stock ,Peabody Energy Corporation Common Stock ,N,BTU,N,100.0,N,BTU
 BTX,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,N,BTX,N,100.0,N,BTX
+BTYB,VistaShares BitBonds 5 Yr Enhanced Weekly Distribution ETF,VistaShares BitBonds 5 Yr Enhanced Weekly Distribution ETF,P,BTYB,Y,100.0,N,BTYB
 BTZ,BlackRock Credit Allocation Income Trust,BlackRock Credit Allocation Income Trust,N,BTZ,N,100.0,N,BTZ
 BUCK,Simplify Treasury Option Income ETF,Simplify Treasury Option Income ETF,P,BUCK,Y,100.0,N,BUCK
 BUD,Anheuser,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),N,BUD,N,100.0,N,BUD
@@ -3238,6 +3236,7 @@ IQSU,NYLI Candriam U.S. Large Cap Equity ETF,NYLI Candriam U.S. Large Cap Equity
 IQSZ,Invesco Global Equity Net Zero ETF,Invesco Global Equity Net Zero ETF,P,IQSZ,Y,100.0,N,IQSZ
 IQV,"IQVIA Holdings, Inc. Common Stock","IQVIA Holdings, Inc. Common Stock",N,IQV,N,100.0,N,IQV
 IR,Ingersoll Rand Inc. Common Stock,Ingersoll Rand Inc. Common Stock,N,IR,N,100.0,N,IR
+IRAB.U,"Iris Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one","Iris Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one-half of one redeemable Warrant",N,IRAB.U,N,100.0,N,IRAB=
 IRE,Defiance Daily Target 2X Long IREN ETF,Defiance Daily Target 2X Long IREN ETF,P,IRE,Y,100.0,N,IRE
 IRET,iREIT ,iREIT - MarketVector Quality REIT Index ETF,P,IRET,Y,100.0,N,IRET
 IREX,Tradr 2X Long IREN Daily ETF,Tradr 2X Long IREN Daily ETF,Z,IREX,Y,100.0,N,IREX
@@ -4290,7 +4289,6 @@ NIC,Nicolet Bankshares Inc. Common Stock,Nicolet Bankshares Inc. Common Stock,N,
 NIE,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest,N,NIE,N,100.0,N,NIE
 NIHI,NEOS MSCI EAFE High Income ETF,NEOS MSCI EAFE High Income ETF,Z,NIHI,Y,100.0,N,NIHI
 NIM,Nuveen Select Maturities Municipal Fund Common Stock,Nuveen Select Maturities Municipal Fund Common Stock,N,NIM,N,100.0,N,NIM
-NINE,"Nine Energy Service, Inc. Common Stock","Nine Energy Service, Inc. Common Stock",N,NINE,N,100.0,N,NINE
 NIO,"NIO Inc. American depositary shares, each  representing one Class A ordinary share","NIO Inc. American depositary shares, each  representing one Class A ordinary share",N,NIO,N,100.0,N,NIO
 NIQ,NIQ Global Intelligence plc Ordinary Shares,NIQ Global Intelligence plc Ordinary Shares,N,NIQ,N,100.0,N,NIQ
 NITE,The Nightview Fund NITE,The Nightview Fund NITE,P,NITE,Y,100.0,N,NITE
