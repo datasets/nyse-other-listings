@@ -1133,6 +1133,7 @@ CIX,CompX International Inc. Common Stock,CompX International Inc. Common Stock,
 CKX,"CKX Lands, Inc. Common Stock","CKX Lands, Inc. Common Stock",A,CKX,N,100.0,N,CKX
 CL,Colgate,Colgate-Palmolive Company Common Stock,N,CL,N,100.0,N,CL
 CLB,Core Laboratories Inc. Common Stock,Core Laboratories Inc. Common Stock,N,CLB,N,100.0,N,CLB
+CLBR.U,"Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one","Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-eighth of one warrant",N,CLBR.U,N,100.0,N,CLBR=
 CLCG,Crossmark Large Cap Growth ETF,Crossmark Large Cap Growth ETF,P,CLCG,Y,100.0,N,CLCG
 CLCV,Crossmark Large Cap Value ETF,Crossmark Large Cap Value ETF,P,CLCV,Y,100.0,N,CLCV
 CLDI,"Calidi Biotherapeutics, Inc. Common Stock","Calidi Biotherapeutics, Inc. Common Stock",A,CLDI,N,100.0,N,CLDI
@@ -1425,7 +1426,6 @@ DASX,Tradr 2X Long DASH Daily ETF,Tradr 2X Long DASH Daily ETF,Z,DASX,Y,100.0,N,
 DAT,ProShares Big Data Refiners ETF,ProShares Big Data Refiners ETF,P,DAT,Y,100.0,N,DAT
 DAUG,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - August,Z,DAUG,Y,100.0,N,DAUG
 DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share),Endava plc American Depositary Shares (each representing one Class A Ordinary Share),N,DAVA,N,100.0,N,DAVA
-DAY,"Dayforce, Inc. Common Stock","Dayforce, Inc. Common Stock",N,DAY,N,100.0,N,DAY
 DB,Deutsche Bank AG Common Stock,Deutsche Bank AG Common Stock,N,DB,N,100.0,N,DB
 DBA,Invesco DB Agriculture Fund,Invesco DB Agriculture Fund,P,DBA,Y,100.0,N,DBA
 DBAW,Xtrackers MSCI All World ex US Hedged Equity ETF,Xtrackers MSCI All World ex US Hedged Equity ETF,P,DBAW,Y,100.0,N,DBAW
@@ -2944,7 +2944,6 @@ HTAX,Nomura National High,Nomura National High-Yield Municipal Bond ETF,P,HTAX,Y
 HTB,"HomeTrust Bancshares, Inc. Common Stock","HomeTrust Bancshares, Inc. Common Stock",N,HTB,N,100.0,N,HTB
 HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,N,HTD,N,100.0,N,HTD
 HTEC,ROBO Global Healthcare Technology and Innovation ETF,ROBO Global Healthcare Technology and Innovation ETF,P,HTEC,Y,100.0,N,HTEC
-HTFB,Horizon Technology Finance Corporation 4.875% Notes due 2026,Horizon Technology Finance Corporation 4.875% Notes due 2026,N,HTFB,N,100.0,N,HTFB
 HTFC,Horizon Technology Finance Corporation 6.25% Notes due 2027,Horizon Technology Finance Corporation 6.25% Notes due 2027,N,HTFC,N,100.0,N,HTFC
 HTGC,"Hercules Capital, Inc. Common Stock","Hercules Capital, Inc. Common Stock",N,HTGC,N,100.0,N,HTGC
 HTH,Hilltop Holdings Inc.,Hilltop Holdings Inc.,N,HTH,N,100.0,N,HTH
@@ -3626,6 +3625,7 @@ KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests
 KRSP,Rice Acquisition Corporation 3 Class A Ordinary Shares,Rice Acquisition Corporation 3 Class A Ordinary Shares,N,KRSP,N,100.0,N,KRSP
 KRSP.U,"Rice Acquisition Corporation 3 Units, each consisting of one Class A ordinary share, and one","Rice Acquisition Corporation 3 Units, each consisting of one Class A ordinary share, and one-sixth of one redeemable warrant",N,KRSP.U,N,100.0,N,KRSP=
 KRSP.W,"Rice Acquisition Corporation 3 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Rice Acquisition Corporation 3 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,KRSP.WS,N,100.0,N,KRSP+
+KRYP,ProShares CoinDesk 20 Crypto ETF,ProShares CoinDesk 20 Crypto ETF,P,KRYP,Y,100.0,N,KRYP
 KSA,iShares MSCI Saudi Arabia ETF,iShares MSCI Saudi Arabia ETF,P,KSA,Y,100.0,N,KSA
 KSEP,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - September,Z,KSEP,Y,100.0,N,KSEP
 KSLV,Kurv Silver Enhanced Income ETF,Kurv Silver Enhanced Income ETF,Z,KSLV,Y,100.0,N,KSLV
@@ -3849,6 +3849,7 @@ MAIN,Main Street Capital Corporation Common Stock,Main Street Capital Corporatio
 MAKX,ProShares S&P Kensho Smart Factories ETF,ProShares S&P Kensho Smart Factories ETF,P,MAKX,Y,100.0,N,MAKX
 MAMB,Monarch Ambassador Income Index ETF,Monarch Ambassador Income Index ETF,Z,MAMB,Y,100.0,N,MAMB
 MAN,ManpowerGroup Common Stock,ManpowerGroup Common Stock,N,MAN,N,100.0,N,MAN
+MANE,"Veradermics, Incorporated Common Stock","Veradermics, Incorporated Common Stock",N,MANE,N,100.0,N,MANE
 MANI,Man Active Income ETF,Man Active Income ETF,P,MANI,Y,100.0,N,MANI
 MANU,Manchester United Ltd. Class A Ordinary Shares,Manchester United Ltd. Class A Ordinary Shares,N,MANU,N,100.0,N,MANU
 MAPP,Harbor Multi,Harbor Multi-Asset Explorer ETF,P,MAPP,Y,100.0,N,MAPP
@@ -4071,6 +4072,7 @@ MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock","Blackrock MuniYield Q
 MRCP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - March,Z,MRCP,Y,100.0,N,MRCP
 MRGR,ProShares Merger ETF,ProShares Merger ETF,Z,MRGR,Y,100.0,N,MRGR
 MRK,"Merck & Company, Inc. Common Stock (new)","Merck & Company, Inc. Common Stock (new)",N,MRK,N,100.0,N,MRK
+MRNX,Defiance Daily Target 2X Long MRNA ETF,Defiance Daily Target 2X Long MRNA ETF,P,MRNX,Y,100.0,N,MRNX
 MRNY,YieldMax MRNA Option Income Strategy ETF,YieldMax MRNA Option Income Strategy ETF,P,MRNY,Y,100.0,N,MRNY
 MRP,"Millrose Properties, Inc. Class A Common Stock","Millrose Properties, Inc. Class A Common Stock",N,MRP,N,100.0,N,MRP
 MRSH,Marsh Common Stock,Marsh Common Stock,N,MRSH,N,100.0,N,MRSH
@@ -6435,6 +6437,7 @@ VEGA,AdvisorShares STAR Global Buy,AdvisorShares STAR Global Buy-Write ETF,P,VEG
 VEGI,iShares MSCI Agriculture Producers ETF,iShares MSCI Agriculture Producers ETF,P,VEGI,Y,100.0,N,VEGI
 VEGN,US Vegan Climate Index,US Vegan Climate Index,Z,VEGN,Y,100.0,N,VEGN
 VEL,"Velocity Financial, Inc. Common Stock","Velocity Financial, Inc. Common Stock",N,VEL,N,100.0,N,VEL
+VEM,Virtus Emerging Markets Dividend ETF,Virtus Emerging Markets Dividend ETF,P,VEM,Y,100.0,N,VEM
 VEMY,Virtus Stone Harbor Emerging Markets High Yield Bond ETF,Virtus Stone Harbor Emerging Markets High Yield Bond ETF,P,VEMY,Y,100.0,N,VEMY
 VENU,Venu Holding Corporation Common Stock,Venu Holding Corporation Common Stock,A,VENU,N,100.0,N,VENU
 VERS,ProShares Metaverse ETF,ProShares Metaverse ETF,P,VERS,Y,100.0,N,VERS
@@ -6911,6 +6914,7 @@ ZDGE,"Zedge, Inc. Class B Common Stock ","Zedge, Inc. Class B Common Stock ",A,Z
 ZECP,Zacks Earnings Consistent Portfolio ETF,Zacks Earnings Consistent Portfolio ETF,Z,ZECP,Y,100.0,N,ZECP
 ZEPP,"Zepp Health Corporation American depositary shares, each representing sixteen Class A ordinary shares","Zepp Health Corporation American depositary shares, each representing sixteen Class A ordinary shares",N,ZEPP,N,100.0,N,ZEPP
 ZETA,Zeta Global Holdings Corp. Class A Common Stock,Zeta Global Holdings Corp. Class A Common Stock,N,ZETA,N,100.0,N,ZETA
+ZETX,Defiance Daily Target 2x Long ZETA ETF,Defiance Daily Target 2x Long ZETA ETF,P,ZETX,Y,100.0,N,ZETX
 ZFEB,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr February,Z,ZFEB,Y,100.0,N,ZFEB
 ZGN,Ermenegildo Zegna N.V. Ordinary Shares,Ermenegildo Zegna N.V. Ordinary Shares,N,ZGN,N,100.0,N,ZGN
 ZH,"Zhihu Inc. American Depositary Shares, each representing three (3) Class A Ordinary Shares","Zhihu Inc. American Depositary Shares, each representing three (3) Class A Ordinary Shares",N,ZH,N,100.0,N,ZH

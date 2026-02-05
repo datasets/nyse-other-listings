@@ -585,6 +585,7 @@ CINT,CI&T Inc Class A Common Shares
 CION,CION Investment Corporation Common Stock
 CL,Colgate
 CLB,Core Laboratories Inc. Common Stock
+CLBR.U,"Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one"
 CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
 CLDT$A,Chatham Lodging Trust (REIT) 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest
 CLF,Cleveland
@@ -736,7 +737,6 @@ DAN,Dana Incorporated Common Stock
 DAO,"Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share"
 DAR,Darling Ingredients Inc. Common Stock
 DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share)
-DAY,"Dayforce, Inc. Common Stock"
 DB,Deutsche Bank AG Common Stock
 DBD,Diebold Nixdorf Incorporated Common stock
 DBI,Designer Brands Inc. Class A Common Stock
@@ -1300,7 +1300,6 @@ HSHP,Himalaya Shipping Ltd. Common Shares
 HSY,The Hershey Company Common Stock
 HTB,"HomeTrust Bancshares, Inc. Common Stock"
 HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest
-HTFB,Horizon Technology Finance Corporation 4.875% Notes due 2026
 HTFC,Horizon Technology Finance Corporation 6.25% Notes due 2027
 HTGC,"Hercules Capital, Inc. Common Stock"
 HTH,Hilltop Holdings Inc.
@@ -1591,6 +1590,7 @@ MAC,Macerich Company (The) Common Stock
 MAGN,Magnera Corporation Common Stock
 MAIN,Main Street Capital Corporation Common Stock
 MAN,ManpowerGroup Common Stock
+MANE,"Veradermics, Incorporated Common Stock"
 MANU,Manchester United Ltd. Class A Ordinary Shares
 MAS,Masco Corporation Common Stock
 MATV,"Mativ Holdings, Inc. Common Stock"
