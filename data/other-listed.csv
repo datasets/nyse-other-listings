@@ -462,7 +462,6 @@ AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share
 AXIA$,AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),N,AXIAp,N,100.0,N,AXIA-
 AXIA$C,"AXIA Energia American Depositary Shares, each representing one Preferred Class C Share","AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",N,AXIApC,N,100.0,N,AXIA-C
 AXIL,"AXIL Brands, Inc. Common Stock","AXIL Brands, Inc. Common Stock",A,AXIL,N,100.0,N,AXIL
-AXL,"American Axle & Manufacturing Holdings, Inc. Common Stock","American Axle & Manufacturing Holdings, Inc. Common Stock",N,AXL,N,100.0,N,AXL
 AXP,American Express Company Common Stock,American Express Company Common Stock,N,AXP,N,40.0,N,AXP
 AXR,AMREP Corporation Common Stock,AMREP Corporation Common Stock,N,AXR,N,100.0,N,AXR
 AXS,Axis Capital Holdings Limited Common Stock,Axis Capital Holdings Limited Common Stock,N,AXS,N,100.0,N,AXS
@@ -805,6 +804,7 @@ BNT,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,
 BNY,BlackRock New York Municipal Income Trust,BlackRock New York Municipal Income Trust,N,BNY,N,100.0,N,BNY
 BOAT,SonicShares Global Shipping ETF,SonicShares Global Shipping ETF,P,BOAT,Y,100.0,N,BOAT
 BOBP,CORE16 Best of Breed Premier Index ETF,CORE16 Best of Breed Premier Index ETF,P,BOBP,Y,100.0,N,BOBP
+BOBS,"Bob's Discount Furniture, Inc. Common Stock","Bob's Discount Furniture, Inc. Common Stock",N,BOBS,N,100.0,N,BOBS
 BOC,Boston Omaha Corporation Class A Common Stock,Boston Omaha Corporation Class A Common Stock,N,BOC,N,100.0,N,BOC
 BOCT,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - October,Z,BOCT,Y,100.0,N,BOCT
 BOE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,N,BOE,N,100.0,N,BOE
@@ -950,6 +950,7 @@ BZH,"Beazer Homes USA, Inc. Common Stock","Beazer Homes USA, Inc. Common Stock",
 BZQ,ProShares UltraShort MSCI Brazil Capped,ProShares UltraShort MSCI Brazil Capped,P,BZQ,Y,100.0,N,BZQ
 C,"Citigroup, Inc. Common Stock","Citigroup, Inc. Common Stock",N,C,N,100.0,N,C
 C$N,Citigroup Capital XIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS),Citigroup Capital XIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS),N,CpN,N,100.0,N,C-N
+C$R,"Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.250% Noncumulative Preferred Stock, Series II","Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.250% Noncumulative Preferred Stock, Series II",N,CpR,N,100.0,N,C-R
 CAAA,First Trust AAA CMBS ETF,First Trust AAA CMBS ETF,P,CAAA,Y,100.0,N,CAAA
 CAAP,Corporacion America Airports SA Common Shares,Corporacion America Airports SA Common Shares,N,CAAP,N,100.0,N,CAAP
 CABO,"Cable One, Inc. Common Stock","Cable One, Inc. Common Stock",N,CABO,N,100.0,N,CABO
@@ -1450,6 +1451,7 @@ DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I ","DigitalBridge Group, Inc. 7.
 DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J ","DigitalBridge Group, Inc. 7.125% Series J ",N,DBRGpJ,N,100.0,N,DBRG-J
 DC,Dakota Gold Corp. Common Stock,Dakota Gold Corp. Common Stock,A,DC,N,100.0,N,DC
 DC.W,"Dakota Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $2.08","Dakota Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $2.08",A,DC.WS,N,100.0,N,DC+
+DCH,Dauch Corporation Common Stock,Dauch Corporation Common Stock,N,DCH,N,100.0,N,DCH
 DCI,"Donaldson Company, Inc. Common Stock","Donaldson Company, Inc. Common Stock",N,DCI,N,100.0,N,DCI
 DCMT,DoubleLine Commodity Strategy ETF,DoubleLine Commodity Strategy ETF,P,DCMT,Y,100.0,N,DCMT
 DCO,Ducommun Incorporated Common Stock,Ducommun Incorporated Common Stock,N,DCO,N,100.0,N,DCO
@@ -2374,6 +2376,7 @@ FPFD,Fidelity Preferred Securities & Income ETF,Fidelity Preferred Securities & 
 FPH,"Five Point Holdings, LLC Class A Common Shares","Five Point Holdings, LLC Class A Common Shares",N,FPH,N,100.0,N,FPH
 FPI,Farmland Partners Inc. Common Stock,Farmland Partners Inc. Common Stock,N,FPI,N,100.0,N,FPI
 FPRO,Fidelity Real Estate Investment ETF,Fidelity Real Estate Investment ETF,Z,FPRO,Y,100.0,N,FPRO
+FPS,"Forgent Power Solutions, Inc. Class A Common Stock","Forgent Power Solutions, Inc. Class A Common Stock",N,FPS,N,100.0,N,FPS
 FPWR,First Trust EIP Power Solutions ETF,First Trust EIP Power Solutions ETF,P,FPWR,Y,100.0,N,FPWR
 FPX,First Trust US Equity Opportunities ETF,First Trust US Equity Opportunities ETF,P,FPX,Y,100.0,N,FPX
 FQAL,Fidelity Quality Factor ETF,Fidelity Quality Factor ETF,P,FQAL,Y,100.0,N,FQAL
@@ -2621,7 +2624,6 @@ GLOF,iShares Global Equity Factor ETF,iShares Global Equity Factor ETF,P,GLOF,Y,
 GLOP$A,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,N,GLOPpA,N,100.0,N,GLOP-A
 GLOP$B,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,N,GLOPpB,N,100.0,N,GLOP-B
 GLOP$C,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,N,GLOPpC,N,100.0,N,GLOP-C
-GLOV,Goldman Sachs ActiveBeta World Low Vol Plus Equity ETF,Goldman Sachs ActiveBeta World Low Vol Plus Equity ETF,Z,GLOV,Y,100.0,N,GLOV
 GLP,Global Partners LP Common Units representing Limited Partner Interests,Global Partners LP Common Units representing Limited Partner Interests,N,GLP,N,100.0,N,GLP
 GLP$B,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,N,GLPpB,N,100.0,N,GLP-B
 GLQ,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,A,GLQ,N,100.0,N,GLQ
@@ -2755,6 +2757,7 @@ GSPY,Gotham Enhanced 500 ETF,Gotham Enhanced 500 ETF,P,GSPY,Y,100.0,N,GSPY
 GSSC,GS ActiveBeta U.S. Small Cap Equity ETF,GS ActiveBeta U.S. Small Cap Equity ETF,P,GSSC,Y,100.0,N,GSSC
 GSST,Goldman Sachs Ultra Short Bond ETF,Goldman Sachs Ultra Short Bond ETF,Z,GSST,Y,100.0,N,GSST
 GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,Goldman Sachs MarketBeta U.S. Equity ETF,Z,GSUS,Y,100.0,N,GSUS
+GSWO,Goldman Sachs ActiveBeta World Equity ETF,Goldman Sachs ActiveBeta World Equity ETF,Z,GSWO,Y,100.0,N,GSWO
 GSX,Tradr 2X Long GS Daily ETF,Tradr 2X Long GS Daily ETF,Z,GSX,Y,100.0,N,GSX
 GSY,Invesco Ultra Short Duration ETF,Invesco Ultra Short Duration ETF,P,GSY,Y,100.0,N,GSY
 GTE,Gran Tierra Energy Inc. Common Stock,Gran Tierra Energy Inc. Common Stock,A,GTE,N,100.0,N,GTE
@@ -3484,6 +3487,7 @@ JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,Nuveen Cr
 JQUA,JPMorgan U.S. Quality Factor ETF,JPMorgan U.S. Quality Factor ETF,P,JQUA,Y,100.0,N,JQUA
 JRE,Janus Henderson U.S. Real Estate ETF,Janus Henderson U.S. Real Estate ETF,P,JRE,Y,100.0,N,JRE
 JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,N,JRI,N,100.0,N,JRI
+JRI.V,"Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued","Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued",N,JRIrw,N,100.0,N,JRI^#
 JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,N,JRS,N,100.0,N,JRS
 JSCP,JPMorgan Short Duration Core Plus ETF,JPMorgan Short Duration Core Plus ETF,P,JSCP,Y,100.0,N,JSCP
 JSI,Janus Henderson Securitized Income ETF,Janus Henderson Securitized Income ETF,P,JSI,Y,100.0,N,JSI
@@ -6277,6 +6281,7 @@ UE,Urban Edge Properties Common Shares of Beneficial Interest,Urban Edge Propert
 UEC,Uranium Energy Corp. Common Stock,Uranium Energy Corp. Common Stock,A,UEC,N,100.0,N,UEC
 UFEB,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - February,Z,UFEB,Y,100.0,N,UFEB
 UFI,"Unifi, Inc. New Common Stock","Unifi, Inc. New Common Stock",N,UFI,N,100.0,N,UFI
+UFOD,Tuttle Capital UFO Disclosure ETF,Tuttle Capital UFO Disclosure ETF,Z,UFOD,Y,100.0,N,UFOD
 UGA,United States Gasoline Fund LP,United States Gasoline Fund LP,P,UGA,Y,100.0,N,UGA
 UGE,ProShares Ultra Consumer Staples,ProShares Ultra Consumer Staples,P,UGE,Y,100.0,N,UGE
 UGI,UGI Corporation Common Stock,UGI Corporation Common Stock,N,UGI,N,100.0,N,UGI
