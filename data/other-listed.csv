@@ -164,12 +164,14 @@ AIIA.U,"AI Infrastructure Acquisition Corp. Units, each consisting of one Class 
 AIM,AIM ImmunoTech Inc. Common Stock,AIM ImmunoTech Inc. Common Stock,A,AIM,N,100.0,N,AIM
 AIN,Albany International Corporation Common Stock,Albany International Corporation Common Stock,N,AIN,N,100.0,N,AIN
 AINP,Allspring Income Plus ETF,Allspring Income Plus ETF,P,AINP,Y,100.0,N,AINP
+AINT,FINQ DOLLAR NEUTRAL U.S. Large Cap AI,FINQ DOLLAR NEUTRAL U.S. Large Cap AI-Managed Equity ETF,P,AINT,Y,100.0,N,AINT
 AIO,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest,N,AIO,N,100.0,N,AIO
 AIOO,AllianzIM U.S. Equity Buffer100 Protection ETF,AllianzIM U.S. Equity Buffer100 Protection ETF,Z,AIOO,Y,100.0,N,AIOO
 AIR,AAR Corp. Common Stock,AAR Corp. Common Stock,N,AIR,N,100.0,N,AIR
 AIRI,Air Industries Group Common Stock,Air Industries Group Common Stock,A,AIRI,N,100.0,N,AIRI
 AIS,VistaShares Artificial Intelligence Supercycle ETF,VistaShares Artificial Intelligence Supercycle ETF,P,AIS,Y,100.0,N,AIS
 AIT,"Applied Industrial Technologies, Inc. Common Stock","Applied Industrial Technologies, Inc. Common Stock",N,AIT,N,40.0,N,AIT
+AIUP,FINQ FIRST U.S. Large Cap AI,FINQ FIRST U.S. Large Cap AI-Managed Equity ETF,P,AIUP,Y,100.0,N,AIUP
 AIV,Apartment Investment and Management Company Common Stock,Apartment Investment and Management Company Common Stock,N,AIV,N,100.0,N,AIV
 AIVC,Amplify Bloomberg AI Value Chain ETF,Amplify Bloomberg AI Value Chain ETF,P,AIVC,Y,100.0,N,AIVC
 AIVI,WisdomTree International AI Enhanced Value Fund,WisdomTree International AI Enhanced Value Fund,P,AIVI,Y,100.0,N,AIVI
@@ -374,6 +376,7 @@ ASMF,Virtus AlphaSimplex Managed Futures ETF,Virtus AlphaSimplex Managed Futures
 ASMH,ASML Holding NV ADRhedged,ASML Holding NV ADRhedged,P,ASMH,Y,100.0,N,ASMH
 ASPN,"Aspen Aerogels, Inc. Common Stock","Aspen Aerogels, Inc. Common Stock",N,ASPN,N,100.0,N,ASPN
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock","Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",N,ASR,N,40.0,N,ASR
+ASTN,Defiance Daily Target 2X Short ASTS ETF,Defiance Daily Target 2X Short ASTS ETF,Z,ASTN,Y,100.0,N,ASTN
 ASTX,Tradr 2X Long ASTS Daily ETF,Tradr 2X Long ASTS Daily ETF,Z,ASTX,Y,100.0,N,ASTX
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ","ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",N,ASX,N,100.0,N,ASX
 ATCH,"AtlasClear Holdings, Inc. Common Stock","AtlasClear Holdings, Inc. Common Stock",A,ATCH,N,100.0,N,ATCH
@@ -601,7 +604,9 @@ BDRY,Breakwave Dry Bulk Shipping ETF,Breakwave Dry Bulk Shipping ETF,P,BDRY,Y,10
 BDVG,IMGP Berkshire Dividend Growth ETF,IMGP Berkshire Dividend Growth ETF,P,BDVG,Y,100.0,N,BDVG
 BDX,"Becton, Dickinson and Company Common Stock","Becton, Dickinson and Company Common Stock",N,BDX,N,100.0,N,BDX
 BE,Bloom Energy Corporation Class A Common Stock,Bloom Energy Corporation Class A Common Stock,N,BE,N,100.0,N,BE
+BEBE,TGE Value Creative Solutions Corp Class A Ordinary Shares,TGE Value Creative Solutions Corp Class A Ordinary Shares,N,BEBE,N,100.0,N,BEBE
 BEBE.U,"TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one","TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,BEBE.U,N,100.0,N,BEBE=
+BEBE.W,"TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,BEBE.WS,N,100.0,N,BEBE+
 BEDZ,AdvisorShares Hotel ETF,AdvisorShares Hotel ETF,P,BEDZ,Y,100.0,N,BEDZ
 BEGS,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Z,BEGS,Y,100.0,N,BEGS
 BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),N,BEKE,N,100.0,N,BEKE
@@ -3750,7 +3755,6 @@ LLY,Eli Lilly and Company Common Stock,Eli Lilly and Company Common Stock,N,LLY,
 LLYX,Defiance Daily Target 2X Long LLY ETF,Defiance Daily Target 2X Long LLY ETF,P,LLYX,Y,100.0,N,LLYX
 LMBO,Direxion Daily Crypto Industry Bull 2X Shares,Direxion Daily Crypto Industry Bull 2X Shares,P,LMBO,Y,100.0,N,LMBO
 LMND,"Lemonade, Inc. Common Stock","Lemonade, Inc. Common Stock",N,LMND,N,100.0,N,LMND
-LMND.W,"Lemonade, Inc. Warrants","Lemonade, Inc. Warrants",A,LMND.WS,N,100.0,N,LMND+
 LMT,Lockheed Martin Corporation Common Stock,Lockheed Martin Corporation Common Stock,N,LMT,N,40.0,N,LMT
 LMUB,iShares Long,iShares Long-Term National Muni Bond ETF,P,LMUB,Y,100.0,N,LMUB
 LNC,Lincoln National Corporation Common Stock,Lincoln National Corporation Common Stock,N,LNC,N,100.0,N,LNC
@@ -4501,6 +4505,7 @@ OEF,iShares S&P 100 Fund,iShares S&P 100 Fund,P,OEF,Y,40.0,N,OEF
 OEFA,ALPS O'Shares International Developed Quality Dividend ETF,ALPS O'Shares International Developed Quality Dividend ETF,P,OEFA,Y,100.0,N,OEFA
 OEI,Optimized Equity Income ETF,Optimized Equity Income ETF,P,OEI,Y,100.0,N,OEI
 OFG,OFG Bancorp Common Stock,OFG Bancorp Common Stock,N,OFG,N,100.0,N,OFG
+OFRM,"Once Upon a Farm, PBC Common Stock","Once Upon a Farm, PBC Common Stock",N,OFRM,N,100.0,N,OFRM
 OGCP,"Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests","Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests",P,OGCP,N,100.0,N,OGCP
 OGE,OGE Energy Corp Common Stock,OGE Energy Corp Common Stock,N,OGE,N,100.0,N,OGE
 OGEN,Oragenics Inc. Common Stock,Oragenics Inc. Common Stock,A,OGEN,N,100.0,N,OGEN
@@ -6367,6 +6372,7 @@ USFR,WisdomTree Floating Rate Treasury Fund,WisdomTree Floating Rate Treasury Fu
 USG,USCF Gold Strategy Plus Income Fund,USCF Gold Strategy Plus Income Fund,P,USG,Y,100.0,N,USG
 USHY,iShares Broad USD High Yield Corporate Bond ETF,iShares Broad USD High Yield Corporate Bond ETF,Z,USHY,Y,100.0,N,USHY
 USL,United States 12 Month Oil,United States 12 Month Oil,P,USL,Y,100.0,N,USL
+USMD,CoreValues America First Technology ETF,CoreValues America First Technology ETF,P,USMD,Y,100.0,N,USMD
 USMF,WisdomTree U.S. Multifactor Fund,WisdomTree U.S. Multifactor Fund,Z,USMF,Y,100.0,N,USMF
 USML,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,P,USML,Y,100.0,N,USML
 USMV,iShares MSCI USA Min Vol Factor ETF,iShares MSCI USA Min Vol Factor ETF,Z,USMV,Y,100.0,N,USMV
