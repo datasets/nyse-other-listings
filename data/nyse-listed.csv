@@ -1251,7 +1251,6 @@ HGLB,Highland Global Allocation Fund Common Stock
 HGTY,"Hagerty, Inc. Class A Common Stock"
 HGV,Hilton Grand Vacations Inc. Common Stock 
 HHH,Howard Hughes Holdings Inc. Common Stock
-HI,Hillenbrand Inc Common Stock
 HIG,"The Hartford Insurance Group, Inc. Common Stock"
 HIG$G,"The Hartford Insurance Group, Inc. Depositary Shares each representing a 1/1000th interest in a share of 6.000% Non"
 HII,"Huntington Ingalls Industries, Inc. Common Stock"
@@ -1436,7 +1435,7 @@ JPM$L,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th inte
 JPM$M,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.20% Non"
 JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest
 JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest
-JRI.V,"Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued"
+JRI.R,"Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights"
 JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest
 JXN,Jackson Financial Inc. Class A Common Stock 
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed"
@@ -1947,6 +1946,7 @@ OR,OR Royalties Inc. Common Shares
 ORA,"Ormat Technologies, Inc. Common Stock"
 ORC,"Orchid Island Capital, Inc. Common Stock"
 ORCL,Oracle Corporation Common Stock
+ORCL$D,"Oracle Corporation Depositary Shares, each representing a 1/2,000th interest in a sh of 6.50% Series D Mandatory Convertible Preferred Stock"
 ORI,Old Republic International Corporation Common Stock
 ORN,"Orion Group Holdings, Inc. Common"
 OSCR,"Oscar Health, Inc. Class A Common Stock"

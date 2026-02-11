@@ -2875,7 +2875,6 @@ HGRO,Hedgeye Quality Growth ETF,Hedgeye Quality Growth ETF,P,HGRO,Y,100.0,N,HGRO
 HGTY,"Hagerty, Inc. Class A Common Stock","Hagerty, Inc. Class A Common Stock",N,HGTY,N,100.0,N,HGTY
 HGV,Hilton Grand Vacations Inc. Common Stock ,Hilton Grand Vacations Inc. Common Stock ,N,HGV,N,100.0,N,HGV
 HHH,Howard Hughes Holdings Inc. Common Stock,Howard Hughes Holdings Inc. Common Stock,N,HHH,N,100.0,N,HHH
-HI,Hillenbrand Inc Common Stock,Hillenbrand Inc Common Stock,N,HI,N,100.0,N,HI
 HIBL,Direxion Daily S&P 500 High Beta Bull 3X Shares,Direxion Daily S&P 500 High Beta Bull 3X Shares,P,HIBL,Y,100.0,N,HIBL
 HIBS,Direxion Daily S&P 500 High Beta Bear 3X Shares,Direxion Daily S&P 500 High Beta Bear 3X Shares,P,HIBS,Y,100.0,N,HIBS
 HIDV,AB US High Dividend ETF,AB US High Dividend ETF,P,HIDV,Y,100.0,N,HIDV
@@ -3358,6 +3357,7 @@ JACS,Jackson Acquisition Company II Class A Ordinary Shares,Jackson Acquisition 
 JACS.R,"Jackson Acquisition Company II Rights, each right to acquire one","Jackson Acquisition Company II Rights, each right to acquire one-tenth (1/10) of one Class A ordinary share",N,JACSr,N,100.0,N,JACS^
 JACS.U,"Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one","Jackson Acquisition Company II Units, each consisting of one Class A ordinary share and one right to acquire one-tenth (1/10) of one Class A ordinary share",N,JACS.U,N,100.0,N,JACS=
 JADE,JPMorgan Active Developing Markets Equity ETF,JPMorgan Active Developing Markets Equity ETF,P,JADE,Y,100.0,N,JADE
+JAGU,Jaguar Uranium Corp. Class A Common Shares,Jaguar Uranium Corp. Class A Common Shares,A,JAGU,N,100.0,N,JAGU
 JAJL,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 6mo Jan/Jul,Z,JAJL,Y,100.0,N,JAJL
 JANB,Aptus January Buffer ETF,Aptus January Buffer ETF,Z,JANB,Y,100.0,N,JANB
 JANH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrier ETF - January,Z,JANH,Y,100.0,N,JANH
@@ -3487,7 +3487,7 @@ JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,Nuveen Cr
 JQUA,JPMorgan U.S. Quality Factor ETF,JPMorgan U.S. Quality Factor ETF,P,JQUA,Y,100.0,N,JQUA
 JRE,Janus Henderson U.S. Real Estate ETF,Janus Henderson U.S. Real Estate ETF,P,JRE,Y,100.0,N,JRE
 JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,N,JRI,N,100.0,N,JRI
-JRI.V,"Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued","Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued",N,JRIrw,N,100.0,N,JRI^#
+JRI.R,"Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights","Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights",N,JRIr,N,100.0,N,JRI^
 JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,N,JRS,N,100.0,N,JRS
 JSCP,JPMorgan Short Duration Core Plus ETF,JPMorgan Short Duration Core Plus ETF,P,JSCP,Y,100.0,N,JSCP
 JSI,Janus Henderson Securitized Income ETF,Janus Henderson Securitized Income ETF,P,JSI,Y,100.0,N,JSI
@@ -4562,6 +4562,7 @@ OR,OR Royalties Inc. Common Shares,OR Royalties Inc. Common Shares,N,OR,N,100.0,
 ORA,"Ormat Technologies, Inc. Common Stock","Ormat Technologies, Inc. Common Stock",N,ORA,N,100.0,N,ORA
 ORC,"Orchid Island Capital, Inc. Common Stock","Orchid Island Capital, Inc. Common Stock",N,ORC,N,100.0,N,ORC
 ORCL,Oracle Corporation Common Stock,Oracle Corporation Common Stock,N,ORCL,N,40.0,N,ORCL
+ORCL$D,"Oracle Corporation Depositary Shares, each representing a 1/2,000th interest in a sh of 6.50% Series D Mandatory Convertible Preferred Stock","Oracle Corporation Depositary Shares, each representing a 1/2,000th interest in a sh of 6.50% Series D Mandatory Convertible Preferred Stock",N,ORCLpD,N,100.0,N,ORCL-D
 ORI,Old Republic International Corporation Common Stock,Old Republic International Corporation Common Stock,N,ORI,N,100.0,N,ORI
 ORLA,Orla Mining Ltd. Common Shares,Orla Mining Ltd. Common Shares,A,ORLA,N,100.0,N,ORLA
 ORN,"Orion Group Holdings, Inc. Common","Orion Group Holdings, Inc. Common",N,ORN,N,100.0,N,ORN
