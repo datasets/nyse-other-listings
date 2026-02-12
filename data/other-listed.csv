@@ -111,6 +111,7 @@ AFMC,First Trust Active Factor Mid Cap ETF,First Trust Active Factor Mid Cap ETF
 AFRU,T,T-REX 2X Long AFRM Daily Target ETF,Z,AFRU,Y,100.0,N,AFRU
 AFSM,First Trust Active Factor Small Cap ETF,First Trust Active Factor Small Cap ETF,P,AFSM,Y,100.0,N,AFSM
 AG,First Majestic Silver Corp. Ordinary Shares (Canada),First Majestic Silver Corp. Ordinary Shares (Canada),N,AG,N,100.0,N,AG
+AGBK,AGI Inc Class A Common Shares,AGI Inc Class A Common Shares,N,AGBK,N,100.0,N,AGBK
 AGCO,AGCO Corporation Common Stock,AGCO Corporation Common Stock,N,AGCO,N,100.0,N,AGCO
 AGD,abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest,abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest,N,AGD,N,100.0,N,AGD
 AGG,iShares Core U.S. Aggregate Bond ETF,iShares Core U.S. Aggregate Bond ETF,P,AGG,Y,100.0,N,AGG
@@ -626,6 +627,7 @@ BETE,ProShares Bitcoin & Ether Equal Weight ETF,ProShares Bitcoin & Ether Equal 
 BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,ProShares Bitcoin & Ether Market Cap Weight ETF,P,BETH,Y,100.0,N,BETH
 BETZ,Roundhill Sports Betting & iGaming ETF,Roundhill Sports Betting & iGaming ETF,P,BETZ,Y,100.0,N,BETZ
 BEX,Tradr 2X Long BE Daily ETF,Tradr 2X Long BE Daily ETF,Z,BEX,Y,100.0,N,BEX
+BEZ,Tradr 2X Short BE Daily ETF,Tradr 2X Short BE Daily ETF,Z,BEZ,Y,100.0,N,BEZ
 BF.A,Brown Forman Inc Class A Common Stock,Brown Forman Inc Class A Common Stock,N,BF.A,N,100.0,N,BF.A
 BF.B,Brown Forman Inc Class B Common Stock,Brown Forman Inc Class B Common Stock,N,BF.B,N,100.0,N,BF.B
 BFAM,Bright Horizons Family Solutions Inc. Common Stock,Bright Horizons Family Solutions Inc. Common Stock,N,BFAM,N,100.0,N,BFAM
@@ -1230,6 +1232,7 @@ COLD,"Americold Realty Trust, Inc. Common Stock","Americold Realty Trust, Inc. C
 COLO,Global X MSCI Colombia ETF,Global X MSCI Colombia ETF,P,COLO,Y,100.0,N,COLO
 COM,Direxion Auspice Broad Commodity Strategy ETF,Direxion Auspice Broad Commodity Strategy ETF,P,COM,Y,100.0,N,COM
 COMB,GraniteShares Bloomberg Commodity Broad Strategy No K,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,P,COMB,Y,100.0,N,COMB
+COMD,Global X Commodity Strategy ETF,Global X Commodity Strategy ETF,Z,COMD,Y,100.0,N,COMD
 COMP,"Compass, Inc. Class A Common Stock","Compass, Inc. Class A Common Stock",N,COMP,N,100.0,N,COMP
 CON,"Concentra Group Holdings Parent, Inc. Common Stock","Concentra Group Holdings Parent, Inc. Common Stock",N,CON,N,100.0,N,CON
 CONY,YieldMax COIN Option Income Strategy ETF,YieldMax COIN Option Income Strategy ETF,P,CONY,Y,100.0,N,CONY
@@ -4986,7 +4989,6 @@ PWR,"Quanta Services, Inc. Common Stock","Quanta Services, Inc. Common Stock",N,
 PWS,Pacer WealthShield ETF,Pacer WealthShield ETF,Z,PWS,Y,100.0,N,PWS
 PWV,Invesco Large Cap Value ETF,Invesco Large Cap Value ETF,P,PWV,Y,100.0,N,PWV
 PWZ,Invesco California AMT,Invesco California AMT-Free Municipal Bond Portfolio,P,PWZ,Y,100.0,N,PWZ
-PX,"P10, Inc. Class A Common Stock","P10, Inc. Class A Common Stock",N,PX,N,100.0,N,PX
 PXE,Invesco Energy Exploration & Production ETF,Invesco Energy Exploration & Production ETF,P,PXE,Y,100.0,N,PXE
 PXED,"Phoenix Education Partners, Inc. Common Stock","Phoenix Education Partners, Inc. Common Stock",N,PXED,N,100.0,N,PXED
 PXF,Invesco RAFI Developed Markets ex,Invesco RAFI Developed Markets ex-U.S. ETF,P,PXF,Y,100.0,N,PXF
@@ -5086,7 +5088,9 @@ QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a sh
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
 RA,Brookfield Real Assets Income Fund Inc. Common Stock,Brookfield Real Assets Income Fund Inc. Common Stock,N,RA,N,100.0,N,RA
 RAAA,Reckoner Yield Enhanced AAA CLO ETF,Reckoner Yield Enhanced AAA CLO ETF,P,RAAA,Y,100.0,N,RAAA
+RAAR,Reckoner Yield Enhanced AAA CLO Reinvesting ETF,Reckoner Yield Enhanced AAA CLO Reinvesting ETF,P,RAAR,Y,100.0,N,RAAR
 RAAX,VanEck Real Assets ETF,VanEck Real Assets ETF,P,RAAX,Y,100.0,N,RAAX
+RAAY,Reckoner Yield Enhanced AAA CLO Annual ETF,Reckoner Yield Enhanced AAA CLO Annual ETF,P,RAAY,Y,100.0,N,RAAY
 RAC,Rithm Acquisition Corp. Class A Ordinary Shares,Rithm Acquisition Corp. Class A Ordinary Shares,N,RAC,N,100.0,N,RAC
 RAC.U,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one,Rithm Acquisition Corp. Units (each consists of one Class A Ordinary Share and one-third of one redeemable Warrant),N,RAC.U,N,100.0,N,RAC=
 RAC.W,"Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,RAC.WS,N,100.0,N,RAC+
@@ -5116,6 +5120,8 @@ RCG,"RENN Fund, Inc Common Stock","RENN Fund, Inc Common Stock",A,RCG,N,100.0,N,
 RCI,"Rogers Communication, Inc. Common Stock","Rogers Communication, Inc. Common Stock",N,RCI,N,100.0,N,RCI
 RCL,Royal Caribbean Cruises Ltd. Common Stock,Royal Caribbean Cruises Ltd. Common Stock,N,RCL,N,40.0,N,RCL
 RCLO,Reckoner BBB,Reckoner BBB-B CLO ETF,P,RCLO,Y,100.0,N,RCLO
+RCLR,Reckoner BBB,Reckoner BBB-B CLO Reinvesting ETF,P,RCLR,Y,100.0,N,RCLR
+RCLY,Reckoner BBB,Reckoner BBB-B CLO Annual ETF,P,RCLY,Y,100.0,N,RCLY
 RCS,"PIMCO Strategic Income Fund, Inc.","PIMCO Strategic Income Fund, Inc.",N,RCS,N,100.0,N,RCS
 RCTR,First Trust Bloomberg Nuclear Power ETF,First Trust Bloomberg Nuclear Power ETF,P,RCTR,Y,100.0,N,RCTR
 RCUS,"Arcus Biosciences, Inc. Common Stock","Arcus Biosciences, Inc. Common Stock",N,RCUS,N,100.0,N,RCUS
@@ -5253,6 +5259,7 @@ ROPE,Coastal Compass 100 ETF,Coastal Compass 100 ETF,P,ROPE,Y,100.0,N,ROPE
 ROSC,Hartford Multifactor Small Cap ETF,Hartford Multifactor Small Cap ETF,P,ROSC,Y,100.0,N,ROSC
 ROUS,Hartford Multifactor U.S. Equity ETF,Hartford Multifactor U.S. Equity ETF,P,ROUS,Y,100.0,N,ROUS
 RPAR,RPAR Risk Parity ETF,RPAR Risk Parity ETF,P,RPAR,Y,100.0,N,RPAR
+RPC,"Ridgepost Capital, Inc. Class A Common Stock","Ridgepost Capital, Inc. Class A Common Stock",N,RPC,N,100.0,N,RPC
 RPG,Invesco S&P 500 Pure Growth ETF,Invesco S&P 500 Pure Growth ETF,P,RPG,Y,100.0,N,RPG
 RPHS,Regents Park Hedged Market Strategy ETF,Regents Park Hedged Market Strategy ETF,Z,RPHS,Y,100.0,N,RPHS
 RPM,RPM International Inc. Common Stock,RPM International Inc. Common Stock,N,RPM,N,100.0,N,RPM
@@ -5367,6 +5374,7 @@ SARO,"StandardAero, Inc. Common Stock","StandardAero, Inc. Common Stock",N,SARO,
 SAT,Saratoga Investment Corp 6.00% Notes due 2027,Saratoga Investment Corp 6.00% Notes due 2027,N,SAT,N,100.0,N,SAT
 SATO,Invesco Alerian Galaxy Crypto Economy ETF,Invesco Alerian Galaxy Crypto Economy ETF,Z,SATO,Y,100.0,N,SATO
 SAUG,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - August,Z,SAUG,Y,100.0,N,SAUG
+SAV,Saratoga Investment Corp 7.50% Notes due 2031,Saratoga Investment Corp 7.50% Notes due 2031,N,SAV,N,100.0,N,SAV
 SAWG,AAM Sawgrass US Large Cap Quality Growth ETF,AAM Sawgrass US Large Cap Quality Growth ETF,P,SAWG,Y,100.0,N,SAWG
 SAWS,AAM Sawgrass US Small Cap Quality Growth ETF,AAM Sawgrass US Small Cap Quality Growth ETF,P,SAWS,Y,100.0,N,SAWS
 SAY,Saratoga Investment Corp 8.125% Notes due 2027,Saratoga Investment Corp 8.125% Notes due 2027,N,SAY,N,100.0,N,SAY
@@ -5651,6 +5659,7 @@ SMTH,ALPS Smith Core Plus Bond ETF,ALPS Smith Core Plus Bond ETF,P,SMTH,Y,100.0,
 SMU,Tradr 2X Long SMR Daily ETF,Tradr 2X Long SMR Daily ETF,Z,SMU,Y,100.0,N,SMU
 SMUP,T,T-REX 2X Long SMR Daily Target ETF,Z,SMUP,Y,100.0,N,SMUP
 SMWB,Similarweb Ltd. Ordinary Shares,Similarweb Ltd. Ordinary Shares,N,SMWB,N,100.0,N,SMWB
+SMZ,Tradr 2X Short SMR Daily ETF,Tradr 2X Short SMR Daily ETF,Z,SMZ,Y,100.0,N,SMZ
 SN,"SharkNinja, Inc. Ordinary Shares","SharkNinja, Inc. Ordinary Shares",N,SN,N,100.0,N,SN
 SNA,Snap,Snap-On Incorporated Common Stock,N,SNA,N,40.0,N,SNA
 SNAP,Snap Inc. Class A Common Stock,Snap Inc. Class A Common Stock,N,SNAP,N,100.0,N,SNAP
@@ -6034,7 +6043,6 @@ THO,"Thor Industries, Inc. Common Stock","Thor Industries, Inc. Common Stock",N,
 THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,N,THQ,N,100.0,N,THQ
 THR,"Thermon Group Holdings, Inc. Common Stock","Thermon Group Holdings, Inc. Common Stock",N,THR,N,100.0,N,THR
 THRO,iShares U.S. Thematic Rotation Active ETF,iShares U.S. Thematic Rotation Active ETF,P,THRO,Y,100.0,N,THRO
-THS,"Treehouse Foods, Inc. Common Stock","Treehouse Foods, Inc. Common Stock",N,THS,N,100.0,N,THS
 THTA,SoFi Enhanced Yield ETF,SoFi Enhanced Yield ETF,P,THTA,Y,100.0,N,THTA
 THW,abrdn World Healthcare Fund Shares of Beneficial Interest,abrdn World Healthcare Fund Shares of Beneficial Interest,N,THW,N,100.0,N,THW
 THY,Toews Agility Shares Dynamic Tactical Income ETF,Toews Agility Shares Dynamic Tactical Income ETF,P,THY,Y,100.0,N,THY
