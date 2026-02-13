@@ -1114,6 +1114,7 @@ CI,The Cigna Group Common Stock,The Cigna Group Common Stock,N,CI,N,40.0,N,CI
 CIA,"Citizens, Inc. Class A Common Stock ($1.00 Par)","Citizens, Inc. Class A Common Stock ($1.00 Par)",N,CIA,N,100.0,N,CIA
 CIB,Grupo Cibest S.A. American Depositary Shares each representing four Preferred Shares,Grupo Cibest S.A. American Depositary Shares each representing four Preferred Shares,N,CIB,N,100.0,N,CIB
 CICB,CION Investment Corporation 7.50% Notes due 2029,CION Investment Corporation 7.50% Notes due 2029,N,CICB,N,100.0,N,CICB
+CICC,CION Investment Corporation 7.50% Notes due 2031,CION Investment Corporation 7.50% Notes due 2031,N,CICC,N,100.0,N,CICC
 CIEN,Ciena Corporation Common Stock,Ciena Corporation Common Stock,N,CIEN,N,100.0,N,CIEN
 CIF,MFS Intermediate High Income Fund Common Stock,MFS Intermediate High Income Fund Common Stock,N,CIF,N,100.0,N,CIF
 CIFU,T,T-REX 2X Long CIFR Daily Target ETF,Z,CIFU,Y,100.0,N,CIFU
@@ -4030,6 +4031,7 @@ MMI,"Marcus & Millichap, Inc. Common Stock","Marcus & Millichap, Inc. Common Sto
 MMID,MFS Active Mid Cap ETF,MFS Active Mid Cap ETF,N,MMID,Y,100.0,N,MMID
 MMIN,NYLI MacKay Muni Insured ETF,NYLI MacKay Muni Insured ETF,P,MMIN,Y,100.0,N,MMIN
 MMIT,NYLI MacKay Muni Intermediate ETF,NYLI MacKay Muni Intermediate ETF,P,MMIT,Y,100.0,N,MMIT
+MMK,State Street Prime Money Market ETF,State Street Prime Money Market ETF,N,MMK,Y,100.0,N,MMK
 MMKT,Texas Capital Government Money Market ETF,Texas Capital Government Money Market ETF,N,MMKT,Y,100.0,N,MMKT
 MMLG,First Trust Multi,First Trust Multi-Manager Large Growth ETF,P,MMLG,Y,100.0,N,MMLG
 MMM,3M Company Common Stock,3M Company Common Stock,N,MMM,N,100.0,N,MMM
@@ -4417,7 +4419,6 @@ NUSA,Nuveen ESG 1,Nuveen ESG 1-5 Year U.S. Aggregate Bond ETF,P,NUSA,Y,100.0,N,N
 NUSC,Nuveen ESG Small,Nuveen ESG Small-Cap ETF,Z,NUSC,Y,100.0,N,NUSC
 NUV,"Nuveen Municipal Value Fund, Inc. Common Stock","Nuveen Municipal Value Fund, Inc. Common Stock",N,NUV,N,100.0,N,NUV
 NUVB,Nuvation Bio Inc. Class A Common Stock,Nuvation Bio Inc. Class A Common Stock,N,NUVB,N,100.0,N,NUVB
-NUVB.W,Nuvation Bio Inc. Warrants,Nuvation Bio Inc. Warrants,N,NUVB.WS,N,100.0,N,NUVB+
 NUW,Nuveen AMT,Nuveen AMT-Free Municipal Value Fund,N,NUW,N,100.0,N,NUW
 NVBT,AllianzIM U.S. Large Cap Buffer10 Nov ETF,AllianzIM U.S. Large Cap Buffer10 Nov ETF,Z,NVBT,Y,100.0,N,NVBT
 NVBU,AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF,AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF,Z,NVBU,Y,100.0,N,NVBU
@@ -6750,6 +6751,7 @@ XEML,Xtrackers Europe Market Leaders ETF,Xtrackers Europe Market Leaders ETF,Z,X
 XES,State Street SPDR S&P Oil & Gas Equipment & Services ETF,State Street SPDR S&P Oil & Gas Equipment & Services ETF,P,XES,Y,100.0,N,XES
 XFEB,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - February,Z,XFEB,Y,100.0,N,XFEB
 XFIV,BondBloxx Bloomberg Five Year Target Duration US Treasury ETF,BondBloxx Bloomberg Five Year Target Duration US Treasury ETF,P,XFIV,Y,100.0,N,XFIV
+XFLH.U,"XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right","XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",N,XFLH.U,N,100.0,N,XFLH=
 XFLT,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,N,XFLT,N,100.0,N,XFLT
 XFLX,FundX Flexible ETF,FundX Flexible ETF,P,XFLX,Y,100.0,N,XFLX
 XHB,State Street SPDR S&P Homebuilders ETF,State Street SPDR S&P Homebuilders ETF,P,XHB,Y,100.0,N,XHB
