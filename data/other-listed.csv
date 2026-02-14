@@ -1888,6 +1888,7 @@ EMDM,First Trust Bloomberg Emerging Market Democracies ETF,First Trust Bloomberg
 EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,ProShares MSCI Emerging Markets Dividend Growers ETF,Z,EMDV,Y,100.0,N,EMDV
 EME,"EMCOR Group, Inc. Common Stock","EMCOR Group, Inc. Common Stock",N,EME,N,40.0,N,EME
 EMES,Harbor Emerging Markets Select ETF,Harbor Emerging Markets Select ETF,P,EMES,Y,100.0,N,EMES
+EMET,VanEck Copper and Green Metals ETF,VanEck Copper and Green Metals ETF,P,EMET,Y,100.0,N,EMET
 EMF,Templeton Emerging Markets Fund Common Stock,Templeton Emerging Markets Fund Common Stock,N,EMF,N,100.0,N,EMF
 EMGF,iShares Emerging Markets Equity Factor ETF,iShares Emerging Markets Equity Factor ETF,Z,EMGF,Y,100.0,N,EMGF
 EMHC,State Street SPDR Bloomberg Emerging Markets USD Bond ETF,State Street SPDR Bloomberg Emerging Markets USD Bond ETF,P,EMHC,Y,100.0,N,EMHC
@@ -2089,6 +2090,7 @@ EWW,iShares MSCI Mexico ETF,iShares MSCI Mexico ETF,P,EWW,Y,100.0,N,EWW
 EWX,State Street SPDR S&P Emerging Markets Small Cap ETF,State Street SPDR S&P Emerging Markets Small Cap ETF,P,EWX,Y,100.0,N,EWX
 EWY,iShares MSCI South Korea ETF,iShares MSCI South Korea ETF,P,EWY,Y,100.0,N,EWY
 EWZ,iShares MSCI Brazil ETF,iShares MSCI Brazil ETF,P,EWZ,Y,100.0,N,EWZ
+EXEQ,Wedbush ReturnOnLeadership U.S. Large,Wedbush ReturnOnLeadership U.S. Large-Cap ETF,P,EXEQ,Y,100.0,N,EXEQ
 EXG,Eaton Vance Tax,Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest,N,EXG,N,100.0,N,EXG
 EXI,iShares Global Industrials ETF,iShares Global Industrials ETF,P,EXI,Y,100.0,N,EXI
 EXK,Endeavour Silver Corporation Ordinary Shares (Canada),Endeavour Silver Corporation Ordinary Shares (Canada),N,EXK,N,100.0,N,EXK
@@ -2645,7 +2647,6 @@ GMAY,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffe
 GME,GameStop Corporation Common Stock,GameStop Corporation Common Stock,N,GME,N,100.0,N,GME
 GME.W,GameStop Corporation Warrants to Purchase Common Stock,GameStop Corporation Warrants to Purchase Common Stock,N,GME.WS,N,100.0,N,GME+
 GMED,"Globus Medical, Inc. Class A Common Stock","Globus Medical, Inc. Class A Common Stock",N,GMED,N,100.0,N,GMED
-GMET,VanEck Green Metals ETF,VanEck Green Metals ETF,P,GMET,Y,100.0,N,GMET
 GMEU,T,T-REX 2X Long GME Daily Target ETF,Z,GMEU,Y,100.0,N,GMEU
 GMEY,YieldMax GME Option Income Strategy ETF,YieldMax GME Option Income Strategy ETF,P,GMEY,Y,100.0,N,GMEY
 GMF,State Street SPDR S&P Emerging Asia Pacific ETF,State Street SPDR S&P Emerging Asia Pacific ETF,P,GMF,Y,100.0,N,GMF
@@ -3534,6 +3535,7 @@ KBUF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,KraneShares 90% KWEB 
 KCAI,KraneShares China Alpha Index ETF,KraneShares China Alpha Index ETF,P,KCAI,Y,100.0,N,KCAI
 KCCA,KraneShares California Carbon Allowance Strategy ETF,KraneShares California Carbon Allowance Strategy ETF,P,KCCA,Y,100.0,N,KCCA
 KCE,State Street SPDR S&P Capital Markets ETF,State Street SPDR S&P Capital Markets ETF,P,KCE,Y,100.0,N,KCE
+KCOP,Kurv Copper & Mining Enhanced Income ETF,Kurv Copper & Mining Enhanced Income ETF,Z,KCOP,Y,100.0,N,KCOP
 KCSH,KraneShares Sustainable Ultra Short Duration Index ETF,KraneShares Sustainable Ultra Short Duration Index ETF,P,KCSH,Y,100.0,N,KCSH
 KD,"Kyndryl Holdings, Inc. Common Stock","Kyndryl Holdings, Inc. Common Stock",N,KD,N,100.0,N,KD
 KDEC,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - December,Z,KDEC,Y,100.0,N,KDEC
@@ -5797,7 +5799,6 @@ SQM,Sociedad Quimica y Minera S.A. Common Stock,Sociedad Quimica y Minera S.A. C
 SQMX,FT Vest U.S. Equity Quarterly Max Buffer ETF,FT Vest U.S. Equity Quarterly Max Buffer ETF,Z,SQMX,Y,100.0,N,SQMX
 SQNS,Sequans Communications S.A. American Depositary Shares (each representing one hundred (100) Ordinary Shares),Sequans Communications S.A. American Depositary Shares (each representing one hundred (100) Ordinary Shares),N,SQNS,N,100.0,N,SQNS
 SR,Spire Inc. Common Stock,Spire Inc. Common Stock,N,SR,N,100.0,N,SR
-SR$A,"Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock","Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock",N,SRpA,N,100.0,N,SR-A
 SRE,DBA Sempra Common Stock,DBA Sempra Common Stock,N,SRE,N,100.0,N,SRE
 SREA,DBA Sempra 5.750% Junior Subordinated Notes due 2079,DBA Sempra 5.750% Junior Subordinated Notes due 2079,N,SREA,N,100.0,N,SREA
 SRFM,Surf Air Mobility Inc. Common Stock,Surf Air Mobility Inc. Common Stock,N,SRFM,N,100.0,N,SRFM
