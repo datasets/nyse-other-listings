@@ -1132,7 +1132,7 @@ CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029,Chimera Investm
 CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,Chimera Investment Corporation 8.875% Senior Notes due 2030,N,CIMP,N,100.0,N,CIMP
 CINT,CI&T Inc Class A Common Shares,CI&T Inc Class A Common Shares,N,CINT,N,100.0,N,CINT
 CION,CION Investment Corporation Common Stock,CION Investment Corporation Common Stock,N,CION,N,100.0,N,CION
-CITR,"General Enterprise Ventures, Inc. Common Stock","General Enterprise Ventures, Inc. Common Stock",A,CITR,N,100.0,N,CITR
+CITR,CitroTech Inc. Common Stock,CitroTech Inc. Common Stock,A,CITR,N,100.0,N,CITR
 CIX,CompX International Inc. Common Stock,CompX International Inc. Common Stock,A,CIX,N,100.0,N,CIX
 CKX,"CKX Lands, Inc. Common Stock","CKX Lands, Inc. Common Stock",A,CKX,N,100.0,N,CKX
 CL,Colgate,Colgate-Palmolive Company Common Stock,N,CL,N,100.0,N,CL
@@ -3187,6 +3187,8 @@ INDS,Pacer Industrial Real Estate ETF,Pacer Industrial Real Estate ETF,P,INDS,Y,
 INEQ,Columbia International Equity Income ETF,Columbia International Equity Income ETF,P,INEQ,Y,100.0,N,INEQ
 INFL,Horizon Kinetics Inflation Beneficiaries ETF,Horizon Kinetics Inflation Beneficiaries ETF,P,INFL,Y,100.0,N,INFL
 INFO,Harbor PanAgora Dynamic Large Cap Core ETF,Harbor PanAgora Dynamic Large Cap Core ETF,N,INFO,Y,100.0,N,INFO
+INFQ,"Infleqtion, Inc. Common Stock","Infleqtion, Inc. Common Stock",N,INFQ,N,100.0,N,INFQ
+INFQ.W,"Infleqtion, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share","Infleqtion, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,INFQ.WS,N,100.0,N,INFQ+
 INFU,"InfuSystems Holdings, Inc. Common Stock","InfuSystems Holdings, Inc. Common Stock",A,INFU,N,100.0,N,INFU
 INFY,Infosys Limited American Depositary Shares,Infosys Limited American Depositary Shares,N,INFY,N,100.0,N,INFY
 ING,"ING Group, N.V. Common Stock","ING Group, N.V. Common Stock",N,ING,N,100.0,N,ING
@@ -5117,7 +5119,6 @@ RC,Ready Capital Corporation Common Stock,Ready Capital Corporation Common Stock
 RC$C,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,N,RCpC,N,100.0,N,RC-C
 RC$E,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,N,RCpE,N,100.0,N,RC-E
 RCB,Ready Capital Corporation 6.20% Senior Notes due 2026,Ready Capital Corporation 6.20% Senior Notes due 2026,N,RCB,N,100.0,N,RCB
-RCC,Ready Capital Corporation 5.75% Senior Notes due 2026,Ready Capital Corporation 5.75% Senior Notes due 2026,N,RCC,N,100.0,N,RCC
 RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,Ready Capital Corporation 9.00% Senior Notes due 2029,N,RCD,N,100.0,N,RCD
 RCG,"RENN Fund, Inc Common Stock","RENN Fund, Inc Common Stock",A,RCG,N,100.0,N,RCG
 RCI,"Rogers Communication, Inc. Common Stock","Rogers Communication, Inc. Common Stock",N,RCI,N,100.0,N,RCI
