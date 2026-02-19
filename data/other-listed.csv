@@ -284,6 +284,7 @@ APCB,ActivePassive Core Bond ETF,ActivePassive Core Bond ETF,P,APCB,Y,100.0,N,AP
 APD,"Air Products and Chemicals, Inc. Common Stock","Air Products and Chemicals, Inc. Common Stock",N,APD,N,40.0,N,APD
 APG,APi Group Corporation Common Stock,APi Group Corporation Common Stock,N,APG,N,100.0,N,APG
 APH,Amphenol Corporation Common Stock,Amphenol Corporation Common Stock,N,APH,N,100.0,N,APH
+APHU,T,T-REX 2X Long APH Daily Target ETF,Z,APHU,Y,100.0,N,APHU
 APIE,ActivePassive International Equity ETF,ActivePassive International Equity ETF,P,APIE,Y,100.0,N,APIE
 APLE,"Apple Hospitality REIT, Inc. Common Shares","Apple Hospitality REIT, Inc. Common Shares",N,APLE,N,100.0,N,APLE
 APLU,Allspring Core Plus ETF,Allspring Core Plus ETF,P,APLU,Y,100.0,N,APLU
@@ -381,6 +382,7 @@ ASTN,Defiance Daily Target 2X Short ASTS ETF,Defiance Daily Target 2X Short ASTS
 ASTX,Tradr 2X Long ASTS Daily ETF,Tradr 2X Long ASTS Daily ETF,Z,ASTX,Y,100.0,N,ASTX
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ","ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",N,ASX,N,100.0,N,ASX
 ATCH,"AtlasClear Holdings, Inc. Common Stock","AtlasClear Holdings, Inc. Common Stock",A,ATCH,N,100.0,N,ATCH
+ATCL,REX Autocallable Income ETF,REX Autocallable Income ETF,P,ATCL,Y,100.0,N,ATCL
 ATEN,"A10 Networks, Inc. Common Stock","A10 Networks, Inc. Common Stock",N,ATEN,N,100.0,N,ATEN
 ATFV,Alger 35 ETF,Alger 35 ETF,P,ATFV,Y,100.0,N,ATFV
 ATGE,Adtalem Global Education Inc. Common Stock,Adtalem Global Education Inc. Common Stock,N,ATGE,N,100.0,N,ATGE
@@ -1245,6 +1247,7 @@ COPL.U,"Copley Acquisition Corp Units, each consisting of one ordinary share and
 COPL.W,"Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,COPL.WS,N,100.0,N,COPL+
 COPX,Global X Copper Miners ETF,Global X Copper Miners ETF,P,COPX,Y,100.0,N,COPX
 COPY,"Tweedy, Browne Insider + Value ETF","Tweedy, Browne Insider + Value ETF",P,COPY,Y,100.0,N,COPY
+COPZ,Defiance Daily Target 2x Long Copper ETF,Defiance Daily Target 2x Long Copper ETF,P,COPZ,Y,100.0,N,COPZ
 COR,"Cencora, Inc. Common Stock","Cencora, Inc. Common Stock",N,COR,N,40.0,N,COR
 CORB,AB Core Bond ETF,AB Core Bond ETF,P,CORB,Y,100.0,N,CORB
 CORD,T,T-REX 2X Inverse CRWV Daily Target ETF,Z,CORD,Y,100.0,N,CORD
@@ -1632,7 +1635,6 @@ DMAX,iShares Large Cap Max Buffer Dec ETF,iShares Large Cap Max Buffer Dec ETF,Z
 DMAY,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - May,Z,DMAY,Y,100.0,N,DMAY
 DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock","BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock",N,DMB,N,100.0,N,DMB
 DMBS,DoubleLine Mortgage ETF,DoubleLine Mortgage ETF,P,DMBS,Y,100.0,N,DMBS
-DMCY,Democracy International Fund,Democracy International Fund,P,DMCY,Y,100.0,N,DMCY
 DMO,Western Asset Mortgage Opportunity Fund Inc. Common Stock,Western Asset Mortgage Opportunity Fund Inc. Common Stock,N,DMO,N,100.0,N,DMO
 DMX,DoubleLine Multi,DoubleLine Multi-Sector Income ETF,P,DMX,Y,100.0,N,DMX
 DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock","Ginkgo Bioworks Holdings, Inc. Class A Common Stock",N,DNA,N,100.0,N,DNA
@@ -1790,7 +1792,9 @@ EDGE,MRBL Enhanced Equity ETF,MRBL Enhanced Equity ETF,Z,EDGE,Y,100.0,N,EDGE
 EDGF,3EDGE Dynamic Fixed Income ETF,3EDGE Dynamic Fixed Income ETF,P,EDGF,Y,100.0,N,EDGF
 EDGH,3EDGE Dynamic Hard Assets ETF,3EDGE Dynamic Hard Assets ETF,P,EDGH,Y,100.0,N,EDGH
 EDGI,3EDGE Dynamic International Equity ETF,3EDGE Dynamic International Equity ETF,P,EDGI,Y,100.0,N,EDGI
+EDGQ,Global X Nasdaq,Global X Nasdaq-100 Income Edge ETF,P,EDGQ,Y,100.0,N,EDGQ
 EDGU,3EDGE Dynamic US Equity ETF,3EDGE Dynamic US Equity ETF,P,EDGU,Y,100.0,N,EDGU
+EDGX,Global X U.S. 500 Income Edge ETF,Global X U.S. 500 Income Edge ETF,P,EDGX,Y,100.0,N,EDGX
 EDIV,State Street SPDR S&P Emerging Markets Dividend ETF,State Street SPDR S&P Emerging Markets Dividend ETF,P,EDIV,Y,100.0,N,EDIV
 EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Depositary Shares,N,EDN,N,100.0,N,EDN
 EDOG,ALPS Emerging Sector Dividend Dogs ETF,ALPS Emerging Sector Dividend Dogs ETF,P,EDOG,Y,100.0,N,EDOG
@@ -2226,6 +2230,7 @@ FG,"F&G Annuities & Life, Inc. Common Stock","F&G Annuities & Life, Inc. Common 
 FGD,First Trust DJ Global Select Dividend,First Trust DJ Global Select Dividend,P,FGD,Y,100.0,N,FGD
 FGDL,Franklin Responsibly Sourced Gold ETF,Franklin Responsibly Sourced Gold ETF,P,FGDL,Y,100.0,N,FGDL
 FGN,"F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053","F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",N,FGN,N,100.0,N,FGN
+FGRU,T,T-REX 2X Long FIGR Daily Target ETF,Z,FGRU,Y,100.0,N,FGRU
 FGSM,Frontier Asset Global Small Cap Equity ETF,Frontier Asset Global Small Cap Equity ETF,P,FGSM,Y,100.0,N,FGSM
 FGSN,"F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065","F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065",N,FGSN,N,100.0,N,FGSN
 FHDG,FT Vest U.S. Equity Quarterly Dynamic Buffer ETF,FT Vest U.S. Equity Quarterly Dynamic Buffer ETF,Z,FHDG,Y,100.0,N,FHDG
@@ -2619,6 +2624,7 @@ GLBL,Pacer MSCI World Industry Advantage ETF,Pacer MSCI World Industry Advantage
 GLD,SPDR Gold Shares,SPDR Gold Shares,P,GLD,Y,40.0,N,GLD
 GLDG,GoldMining Inc. Common Shares,GoldMining Inc. Common Shares,A,GLDG,N,100.0,N,GLDG
 GLDM,SPDR Gold MiniShares Trust,SPDR Gold MiniShares Trust,P,GLDM,Y,100.0,N,GLDM
+GLDN,Nicholas Gold Income ETF,Nicholas Gold Income ETF,P,GLDN,Y,100.0,N,GLDN
 GLDW,Roundhill Gold WeeklyPay ETF,Roundhill Gold WeeklyPay ETF,Z,GLDW,Y,100.0,N,GLDW
 GLIN,VanEck India Growth Leaders ETF,VanEck India Growth Leaders ETF,P,GLIN,Y,100.0,N,GLIN
 GLIX,Lazard Listed Infrastructure ETF,Lazard Listed Infrastructure ETF,P,GLIX,Y,100.0,N,GLIX
@@ -2761,6 +2767,7 @@ GSOL,Grayscale Solana Staking ETF,Grayscale Solana Staking ETF,P,GSOL,Y,100.0,N,
 GSPY,Gotham Enhanced 500 ETF,Gotham Enhanced 500 ETF,P,GSPY,Y,100.0,N,GSPY
 GSSC,GS ActiveBeta U.S. Small Cap Equity ETF,GS ActiveBeta U.S. Small Cap Equity ETF,P,GSSC,Y,100.0,N,GSSC
 GSST,Goldman Sachs Ultra Short Bond ETF,Goldman Sachs Ultra Short Bond ETF,Z,GSST,Y,100.0,N,GSST
+GSUI,Grayscale Sui Staking ETF,Grayscale Sui Staking ETF,P,GSUI,Y,100.0,N,GSUI
 GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,Goldman Sachs MarketBeta U.S. Equity ETF,Z,GSUS,Y,100.0,N,GSUS
 GSWO,Goldman Sachs ActiveBeta World Equity ETF,Goldman Sachs ActiveBeta World Equity ETF,Z,GSWO,Y,100.0,N,GSWO
 GSX,Tradr 2X Long GS Daily ETF,Tradr 2X Long GS Daily ETF,Z,GSX,Y,100.0,N,GSX
@@ -5621,6 +5628,7 @@ SLTY,YieldMax Ultra Short Option Income Strategy ETF,YieldMax Ultra Short Option
 SLV,iShares Silver Trust,iShares Silver Trust,P,SLV,Y,100.0,N,SLV
 SLVM,Sylvamo Corporation Common Stock,Sylvamo Corporation Common Stock,N,SLVM,N,100.0,N,SLVM
 SLVP,iShares MSCI Global Silver Miners Fund,iShares MSCI Global Silver Miners Fund,Z,SLVP,Y,100.0,N,SLVP
+SLVX,Nicholas Silver Income ETF,Nicholas Silver Income ETF,P,SLVX,Y,100.0,N,SLVX
 SLX,VanEck Steel ETF,VanEck Steel ETF,P,SLX,Y,100.0,N,SLX
 SLYG,State Street SPDR S&P 600 Small Cap Growth ETF,State Street SPDR S&P 600 Small Cap Growth ETF,P,SLYG,Y,100.0,N,SLYG
 SLYV,State Street SPDR S&P 600 Small Cap Value ETF,State Street SPDR S&P 600 Small Cap Value ETF,P,SLYV,Y,100.0,N,SLYV
@@ -6140,6 +6148,7 @@ TOUS,T. Rowe Price International Equity ETF,T. Rowe Price International Equity E
 TOV,JLens 500 Jewish Advocacy U.S. ETF,JLens 500 Jewish Advocacy U.S. ETF,P,TOV,Y,100.0,N,TOV
 TOVX,"Theriva Biologics, Inc. Common Stock","Theriva Biologics, Inc. Common Stock",A,TOVX,N,100.0,N,TOVX
 TOXR,Shares of Beneficial Interest,Shares of Beneficial Interest,Z,TOXR,Y,100.0,N,TOXR
+TPAY,Roundhill S&P 500 Target 10 Managed Distribution ETF,Roundhill S&P 500 Target 10 Managed Distribution ETF,Z,TPAY,Y,100.0,N,TPAY
 TPB,"Turning Point Brands, Inc. Common Stock","Turning Point Brands, Inc. Common Stock",N,TPB,N,100.0,N,TPB
 TPC,Tutor Perini Corporation Common Stock,Tutor Perini Corporation Common Stock,N,TPC,N,100.0,N,TPC
 TPET,Trio Petroleum Corp. Common Stock,Trio Petroleum Corp. Common Stock,A,TPET,N,100.0,N,TPET
@@ -6191,6 +6200,7 @@ TSEC,Touchstone Securitized Income ETF,Touchstone Securitized Income ETF,P,TSEC,
 TSEP,FT Vest Emerging Market Buffer ETF ,FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
 TSES,Truth Social American Energy Security ETF,Truth Social American Energy Security ETF,P,TSES,Y,100.0,N,TSES
 TSI,"TCW Strategic Income Fund, Inc. Common Stock","TCW Strategic Income Fund, Inc. Common Stock",N,TSI,N,100.0,N,TSI
+TSI.V,"TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued","TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued",N,TSIrw,N,100.0,N,TSI^#
 TSIC,Truth Social American Icons ETF,Truth Social American Icons ETF,P,TSIC,Y,100.0,N,TSIC
 TSII,REX TSLA Growth & Income ETF,REX TSLA Growth & Income ETF,Z,TSII,Y,100.0,N,TSII
 TSLI,ProShares Ultra TSLA,ProShares Ultra TSLA,P,TSLI,Y,100.0,N,TSLI
@@ -6264,7 +6274,9 @@ TZA,Direxion Small Cap Bear 3X Shares,Direxion Small Cap Bear 3X Shares,P,TZA,Y,
 U,Unity Software Inc. Common Stock,Unity Software Inc. Common Stock,N,U,N,100.0,N,U
 UA,"Under Armour, Inc. Class C Common Stock","Under Armour, Inc. Class C Common Stock",N,UA,N,100.0,N,UA
 UAA,"Under Armour, Inc. Class A Common Stock","Under Armour, Inc. Class A Common Stock",N,UAA,N,100.0,N,UAA
+UAC,United Acquisition Corp. I Class A Ordinary Shares,United Acquisition Corp. I Class A Ordinary Shares,A,UAC,N,100.0,N,UAC
 UAC.U,"United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one","United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",A,UAC.U,N,100.0,N,UAC=
+UAC.W,"United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",A,UAC.WS,N,100.0,N,UAC+
 UAMY,United States Antimony Corporation Common Stock,United States Antimony Corporation Common Stock,A,UAMY,N,100.0,N,UAMY
 UAN,"CVR Partners, LP Common Units representing Limited Partner Interests","CVR Partners, LP Common Units representing Limited Partner Interests",N,UAN,N,100.0,N,UAN
 UAPR,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - April,Z,UAPR,Y,100.0,N,UAPR
