@@ -326,6 +326,7 @@ ARES,Ares Management Corporation Class A Common Stock,Ares Management Corporatio
 ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,N,ARESpB,N,100.0,N,ARES-B
 ARGT,Global X MSCI Argentina ETF,Global X MSCI Argentina ETF,P,ARGT,Y,100.0,N,ARGT
 ARI,"Apollo Commercial Real Estate Finance, Inc","Apollo Commercial Real Estate Finance, Inc",N,ARI,N,100.0,N,ARI
+ARIS,Aris Mining Corporation Common Shares,Aris Mining Corporation Common Shares,N,ARIS,N,100.0,N,ARIS
 ARKB,ARK 21Shares Bitcoin ETF ,ARK 21Shares Bitcoin ETF ,Z,ARKB,Y,100.0,N,ARKB
 ARKD,ARK DIET Q1 Buffer ETF,ARK DIET Q1 Buffer ETF,Z,ARKD,Y,100.0,N,ARKD
 ARKF,ARK Blockchain & Fintech Innovation ETF,ARK Blockchain & Fintech Innovation ETF,Z,ARKF,Y,100.0,N,ARKF
@@ -340,7 +341,6 @@ ARLO,"Arlo Technologies, Inc. Common Stock","Arlo Technologies, Inc. Common Stoc
 ARLU,AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,Z,ARLU,Y,100.0,N,ARLU
 ARMH,Arm Holdings PLC ADRhedged,Arm Holdings PLC ADRhedged,P,ARMH,Y,100.0,N,ARMH
 ARMK,Aramark Common Stock,Aramark Common Stock,N,ARMK,N,100.0,N,ARMK
-ARMN,Aris Mining Corporation Common Shares,Aris Mining Corporation Common Shares,A,ARMN,N,100.0,N,ARMN
 ARMP,"Armata Pharmaceuticals, Inc. Common Stock","Armata Pharmaceuticals, Inc. Common Stock",A,ARMP,N,100.0,N,ARMP
 ARMU,T,T-REX 2X Long ARM Daily Target ETF,Z,ARMU,Y,100.0,N,ARMU
 ARMW,Roundhill ARM WeeklyPay ETF,Roundhill ARM WeeklyPay ETF,Z,ARMW,Y,100.0,N,ARMW
@@ -1160,6 +1160,7 @@ CLPR,Clipper Realty Inc. Common Stock,Clipper Realty Inc. Common Stock,N,CLPR,N,
 CLS,"Celestica, Inc. Common Stock","Celestica, Inc. Common Stock",N,CLS,N,100.0,N,CLS
 CLSE,Convergence Long/Short Equity ETF,Convergence Long/Short Equity ETF,Z,CLSE,Y,100.0,N,CLSE
 CLSX,Tradr 2X Long CLSK Daily ETF,Tradr 2X Long CLSK Daily ETF,Z,CLSX,Y,100.0,N,CLSX
+CLSZ,Tradr 2X Short CLSK Daily ETF,Tradr 2X Short CLSK Daily ETF,Z,CLSZ,Y,100.0,N,CLSZ
 CLVT,Clarivate Plc Ordinary Shares,Clarivate Plc Ordinary Shares,N,CLVT,N,100.0,N,CLVT
 CLW,Clearwater Paper Corporation Common Stock,Clearwater Paper Corporation Common Stock,N,CLW,N,100.0,N,CLW
 CLX,Clorox Company (The) Common Stock,Clorox Company (The) Common Stock,N,CLX,N,100.0,N,CLX
@@ -1227,6 +1228,7 @@ COF$L,"Capital One Financial Corporation Depositary Shares, Each Representing a 
 COF$N,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non","Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N",N,COFpN,N,100.0,N,COF-N
 COHN,Cohen & Company Inc.,Cohen & Company Inc.,A,COHN,N,100.0,N,COHN
 COHR,Coherent Corp. Common Stock,Coherent Corp. Common Stock,N,COHR,N,100.0,N,COHR
+COHX,Tradr 2X Long COHR Daily ETF,Tradr 2X Long COHR Daily ETF,Z,COHX,Y,100.0,N,COHX
 COIA,ProShares Ultra COIN,ProShares Ultra COIN,P,COIA,Y,100.0,N,COIA
 COII,REX COIN Growth & Income ETF,REX COIN Growth & Income ETF,Z,COII,Y,100.0,N,COII
 COIO,Leverage Shares 2x Capped Accelerated COIN Monthly ETF,Leverage Shares 2x Capped Accelerated COIN Monthly ETF,Z,COIO,Y,100.0,N,COIO
@@ -3191,6 +3193,7 @@ INDE,Matthews India Active ETF,Matthews India Active ETF,P,INDE,Y,100.0,N,INDE
 INDL,Direxion Daily MSCI India Bull 2X Shares,Direxion Daily MSCI India Bull 2X Shares,P,INDL,Y,100.0,N,INDL
 INDO,Indonesia Energy Corporation Limited Ordinary Shares,Indonesia Energy Corporation Limited Ordinary Shares,A,INDO,N,100.0,N,INDO
 INDS,Pacer Industrial Real Estate ETF,Pacer Industrial Real Estate ETF,P,INDS,Y,100.0,N,INDS
+INDZ,VanEck India Select ETF,VanEck India Select ETF,P,INDZ,Y,100.0,N,INDZ
 INEQ,Columbia International Equity Income ETF,Columbia International Equity Income ETF,P,INEQ,Y,100.0,N,INEQ
 INFL,Horizon Kinetics Inflation Beneficiaries ETF,Horizon Kinetics Inflation Beneficiaries ETF,P,INFL,Y,100.0,N,INFL
 INFO,Harbor PanAgora Dynamic Large Cap Core ETF,Harbor PanAgora Dynamic Large Cap Core ETF,N,INFO,Y,100.0,N,INFO
@@ -3244,6 +3247,7 @@ IQHI,NYLI MacKay High Income ETF,NYLI MacKay High Income ETF,P,IQHI,Y,100.0,N,IQ
 IQI,Invesco Quality Municipal Income Trust Common Stock,Invesco Quality Municipal Income Trust Common Stock,N,IQI,N,100.0,N,IQI
 IQLT,iShares MSCI Intl Quality Factor ETF,iShares MSCI Intl Quality Factor ETF,P,IQLT,Y,100.0,N,IQLT
 IQM,Franklin Intelligent Machines ETF,Franklin Intelligent Machines ETF,Z,IQM,Y,100.0,N,IQM
+IQMM,ProShares GENIUS Money Market ETF,ProShares GENIUS Money Market ETF,P,IQMM,Y,100.0,N,IQMM
 IQRA,NYLI CBRE Real Assets ETF,NYLI CBRE Real Assets ETF,P,IQRA,Y,100.0,N,IQRA
 IQSI,NYLI Candriam International Equity ETF,NYLI Candriam International Equity ETF,P,IQSI,Y,100.0,N,IQSI
 IQSM,NYLI Candriam U.S. Mid Cap Equity ETF,NYLI Candriam U.S. Mid Cap Equity ETF,P,IQSM,Y,100.0,N,IQSM
@@ -3365,6 +3369,7 @@ IYY,iShares Dow Jones U.S. ETF,iShares Dow Jones U.S. ETF,P,IYY,Y,100.0,N,IYY
 IYZ,iShares U.S. Telecommunications ETF,iShares U.S. Telecommunications ETF,Z,IYZ,Y,100.0,N,IYZ
 IZRL,ARK Israel Innovative Technology ETF,ARK Israel Innovative Technology ETF,Z,IZRL,Y,100.0,N,IZRL
 J,Jacobs Solutions Inc. Common Stock,Jacobs Solutions Inc. Common Stock,N,J,N,100.0,N,J
+JA,Janus Henderson AA,Janus Henderson AA-A CLO ETF,P,JA,Y,100.0,N,JA
 JAAA,Janus Henderson AAA CLO ETF,Janus Henderson AAA CLO ETF,P,JAAA,Y,100.0,N,JAAA
 JABS,Janus Henderson Asset,Janus Henderson Asset-Backed Securities ETF,P,JABS,Y,100.0,N,JABS
 JACS,Jackson Acquisition Company II Class A Ordinary Shares,Jackson Acquisition Company II Class A Ordinary Shares,N,JACS,N,100.0,N,JACS
@@ -3723,6 +3728,7 @@ LEN.B,Lennar Corporation Class B,Lennar Corporation Class B,N,LEN.B,N,100.0,N,LE
 LENS,Sarmaya Thematic ETF,Sarmaya Thematic ETF,Z,LENS,Y,100.0,N,LENS
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock","BNY Mellon Strategic Municipals, Inc. Common Stock",N,LEO,N,100.0,N,LEO
 LEU,Centrus Energy Corp. Class A Common Stock,Centrus Energy Corp. Class A Common Stock,N,LEU,N,40.0,N,LEU
+LEUX,Tradr 2X Long LEU Daily ETF,Tradr 2X Long LEU Daily ETF,Z,LEUX,Y,100.0,N,LEUX
 LEVI,Levi Strauss & Co Class A Common Stock,Levi Strauss & Co Class A Common Stock,N,LEVI,N,100.0,N,LEVI
 LFAI,LifeX 2050 Longevity Income ETF,LifeX 2050 Longevity Income ETF,Z,LFAI,Y,100.0,N,LFAI
 LFAO,LifeX 2055 Longevity Income ETF,LifeX 2055 Longevity Income ETF,Z,LFAO,Y,100.0,N,LFAO
@@ -5477,6 +5483,7 @@ SDFI,AB Short Duration Income ETF,AB Short Duration Income ETF,P,SDFI,Y,100.0,N,
 SDHC,Smith Douglas Homes Corp. Class A Common Stock,Smith Douglas Homes Corp. Class A Common Stock,N,SDHC,N,100.0,N,SDHC
 SDHY,PGIM Short Duration High Yield Opportunities Fund Common Shares,PGIM Short Duration High Yield Opportunities Fund Common Shares,N,SDHY,N,100.0,N,SDHY
 SDIV,Global X SuperDividend ETF,Global X SuperDividend ETF,P,SDIV,Y,100.0,N,SDIV
+SDMF,Simplify DBi CTA Managed Futures Index ETF,Simplify DBi CTA Managed Futures Index ETF,P,SDMF,Y,100.0,N,SDMF
 SDOG,ALPS Sector Dividend Dogs ETF,ALPS Sector Dividend Dogs ETF,P,SDOG,Y,100.0,N,SDOG
 SDOW,UltraPro Short Dow30,UltraPro Short Dow30,P,SDOW,Y,100.0,N,SDOW
 SDP,ProShares UltraShort Utilities,ProShares UltraShort Utilities,P,SDP,Y,100.0,N,SDP
@@ -5530,7 +5537,6 @@ SFTX,Horizon International Managed Risk ETF,Horizon International Managed Risk E
 SFTY,Horizon Managed Risk ETF,Horizon Managed Risk ETF,Z,SFTY,Y,100.0,N,SFTY
 SFY,SoFi Select 500 ETF,SoFi Select 500 ETF,P,SFY,Y,100.0,N,SFY
 SFYF,SoFi Social 50 ETF,SoFi Social 50 ETF,P,SFYF,Y,100.0,N,SFYF
-SFYX,SoFi Next 500 ETF,SoFi Next 500 ETF,P,SFYX,Y,100.0,N,SFYX
 SG,"Sweetgreen, Inc. Class A Common Stock","Sweetgreen, Inc. Class A Common Stock",N,SG,N,100.0,N,SG
 SGDJ,Sprott Junior Gold Miners ETF,Sprott Junior Gold Miners ETF,P,SGDJ,Y,100.0,N,SGDJ
 SGDM,Sprott Gold Miners ETF,Sprott Gold Miners ETF,P,SGDM,Y,100.0,N,SGDM
@@ -5666,6 +5672,7 @@ SMOX,Horizon Small/Mid Cap Core Equity ETF,Horizon Small/Mid Cap Core Equity ETF
 SMP,"Standard Motor Products, Inc. Common Stock","Standard Motor Products, Inc. Common Stock",N,SMP,N,100.0,N,SMP
 SMQ,Tradr 1X Short Innovation 100 Monthly ETF,Tradr 1X Short Innovation 100 Monthly ETF,Z,SMQ,Y,100.0,N,SMQ
 SMR,NuScale Power Corporation Class A Common Stock,NuScale Power Corporation Class A Common Stock,N,SMR,N,100.0,N,SMR
+SMRF,"ALPS Nautilus SMR, Nuclear & Technology ETF","ALPS Nautilus SMR, Nuclear & Technology ETF",P,SMRF,Y,100.0,N,SMRF
 SMRT,"SmartRent, Inc. Class A Common Stock","SmartRent, Inc. Class A Common Stock",N,SMRT,N,100.0,N,SMRT
 SMTH,ALPS Smith Core Plus Bond ETF,ALPS Smith Core Plus Bond ETF,P,SMTH,Y,100.0,N,SMTH
 SMU,Tradr 2X Long SMR Daily ETF,Tradr 2X Long SMR Daily ETF,Z,SMU,Y,100.0,N,SMU
