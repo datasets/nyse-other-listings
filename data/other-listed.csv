@@ -320,7 +320,6 @@ ARCX,Tradr 2X Long ACHR Daily ETF,Tradr 2X Long ACHR Daily ETF,Z,ARCX,Y,100.0,N,
 ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common Shares","Ares Dynamic Credit Allocation Fund, Inc. Common Shares",N,ARDC,N,100.0,N,ARDC
 ARDT,"Ardent Health, Inc. Common Stock","Ardent Health, Inc. Common Stock",N,ARDT,N,100.0,N,ARDT
 ARE,"Alexandria Real Estate Equities, Inc. Common Stock","Alexandria Real Estate Equities, Inc. Common Stock",N,ARE,N,100.0,N,ARE
-AREA,Harbor AlphaEdge Next Generation REITs ETF,Harbor AlphaEdge Next Generation REITs ETF,P,AREA,Y,100.0,N,AREA
 AREN,"The Arena Group Holdings, Inc. Common Stock","The Arena Group Holdings, Inc. Common Stock",A,AREN,N,100.0,N,AREN
 ARES,Ares Management Corporation Class A Common Stock,Ares Management Corporation Class A Common Stock,N,ARES,N,100.0,N,ARES
 ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,N,ARESpB,N,100.0,N,ARES-B
@@ -412,7 +411,6 @@ AUGU,AllianzIM U.S. Equity Buffer15 Uncapped Aug ETF,AllianzIM U.S. Equity Buffe
 AUGW,AllianzIM U.S. Large Cap Buffer20 Aug ETF,AllianzIM U.S. Large Cap Buffer20 Aug ETF,Z,AUGW,Y,100.0,N,AUGW
 AUGZ,TrueShares Structured Outcome (August) ETF,TrueShares Structured Outcome (August) ETF,Z,AUGZ,Y,100.0,N,AUGZ
 AUNA,Auna SA Class A Ordinary Shares,Auna SA Class A Ordinary Shares,N,AUNA,N,100.0,N,AUNA
-AURU,Tradr 2X Long AUR Daily ETF,Tradr 2X Long AUR Daily ETF,Z,AURU,Y,100.0,N,AURU
 AUSF,Global X Adaptive U.S. Factor ETF,Global X Adaptive U.S. Factor ETF,P,AUSF,Y,100.0,N,AUSF
 AUSM,Allspring Ultra Short Municipal ETF,Allspring Ultra Short Municipal ETF,P,AUSM,Y,100.0,N,AUSM
 AUST,Austin Gold Corp. Common Shares,Austin Gold Corp. Common Shares,A,AUST,N,100.0,N,AUST
@@ -624,6 +622,8 @@ BEPI,Brookfield BRP Holdings (Canada) Inc. 4.875% Perpetual Subordinated Notes,B
 BEPJ,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,Brookfield BRP Holdings (Canada) Inc. 7.250% Perpetual Subordinated Notes,N,BEPJ,N,100.0,N,BEPJ
 BERZ,MicroSectors FANG & Innovation ,MicroSectors FANG & Innovation -3x Inverse Leveraged ETN,P,BERZ,Y,100.0,N,BERZ
 BESF,Bastion Energy ETF,Bastion Energy ETF,Z,BESF,Y,100.0,N,BESF
+BESS,Bimergen Energy Corporation Common Stock,Bimergen Energy Corporation Common Stock,A,BESS,N,100.0,N,BESS
+BESS.W,"Bimergen Energy Corporation Warrants, each share exercisable to purchase one share of Common Stock","Bimergen Energy Corporation Warrants, each share exercisable to purchase one share of Common Stock",A,BESS.WS,N,100.0,N,BESS+
 BETA,"Beta Technologies, Inc. Class A Common Stock","Beta Technologies, Inc. Class A Common Stock",N,BETA,N,100.0,N,BETA
 BETE,ProShares Bitcoin & Ether Equal Weight ETF,ProShares Bitcoin & Ether Equal Weight ETF,P,BETE,Y,100.0,N,BETE
 BETH,ProShares Bitcoin & Ether Market Cap Weight ETF,ProShares Bitcoin & Ether Market Cap Weight ETF,P,BETH,Y,100.0,N,BETH
@@ -2772,7 +2772,6 @@ GSST,Goldman Sachs Ultra Short Bond ETF,Goldman Sachs Ultra Short Bond ETF,Z,GSS
 GSUI,Grayscale Sui Staking ETF,Grayscale Sui Staking ETF,P,GSUI,Y,100.0,N,GSUI
 GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,Goldman Sachs MarketBeta U.S. Equity ETF,Z,GSUS,Y,100.0,N,GSUS
 GSWO,Goldman Sachs ActiveBeta World Equity ETF,Goldman Sachs ActiveBeta World Equity ETF,Z,GSWO,Y,100.0,N,GSWO
-GSX,Tradr 2X Long GS Daily ETF,Tradr 2X Long GS Daily ETF,Z,GSX,Y,100.0,N,GSX
 GSY,Invesco Ultra Short Duration ETF,Invesco Ultra Short Duration ETF,P,GSY,Y,100.0,N,GSY
 GTE,Gran Tierra Energy Inc. Common Stock,Gran Tierra Energy Inc. Common Stock,A,GTE,N,100.0,N,GTE
 GTEK,Goldman Sachs Future Tech Leaders Equity ETF,Goldman Sachs Future Tech Leaders Equity ETF,P,GTEK,Y,100.0,N,GTEK
@@ -3847,7 +3846,6 @@ LXP,LXP Industrial Trust Common Stock (Maryland REIT),LXP Industrial Trust Commo
 LXP$C,LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock,LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock,N,LXPpC,N,100.0,N,LXP-C
 LXU,"LSB Industries, Inc. Common Stock","LSB Industries, Inc. Common Stock",N,LXU,N,100.0,N,LXU
 LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),N,LYB,N,100.0,N,LYB
-LYFX,Tradr 2X Long LYFT Daily ETF,Tradr 2X Long LYFT Daily ETF,Z,LYFX,Y,100.0,N,LYFX
 LYG,Lloyds Banking Group Plc American Depositary Shares,Lloyds Banking Group Plc American Depositary Shares,N,LYG,N,100.0,N,LYG
 LYLD,Cambria Large Cap Shareholder Yield ETF,Cambria Large Cap Shareholder Yield ETF,Z,LYLD,Y,100.0,N,LYLD
 LYV,"Live Nation Entertainment, Inc. Common Stock","Live Nation Entertainment, Inc. Common Stock",N,LYV,N,100.0,N,LYV
@@ -4281,7 +4279,6 @@ NEN,New England Realty Associates Limited Partnership Class A Depositary Receipt
 NERD,Roundhill Video Games ETF,Roundhill Video Games ETF,Z,NERD,Y,100.0,N,NERD
 NET,"Cloudflare, Inc. Class A Common Stock","Cloudflare, Inc. Class A Common Stock",N,NET,N,100.0,N,NET
 NETL,Colterpoint Net Lease Real Estate ETF,Colterpoint Net Lease Real Estate ETF,P,NETL,Y,100.0,N,NETL
-NETX,Tradr 2X Long NET Daily ETF,Tradr 2X Long NET Daily ETF,Z,NETX,Y,100.0,N,NETX
 NEU,NewMarket Corp Common Stock,NewMarket Corp Common Stock,N,NEU,N,40.0,N,NEU
 NEWP,New Pacific Metals Corp. Common Shares,New Pacific Metals Corp. Common Shares,A,NEWP,N,100.0,N,NEWP
 NEXA,Nexa Resources S.A. Common Shares,Nexa Resources S.A. Common Shares,N,NEXA,N,100.0,N,NEXA
