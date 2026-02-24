@@ -393,7 +393,6 @@ BKE,"Buckle, Inc. (The) Common Stock"
 BKH,Black Hills Corporation Common Stock
 BKKT,"Bakkt, Inc. Class A Common Stock"
 BKKT.W,"Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share"
-BKN,BlackRock Investment Quality Municipal Trust Inc. (The)
 BKSY,BlackSky Technology Inc. Class A Common Stock
 BKSY.W,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock"
 BKT,BlackRock Income Trust Inc. (The)
@@ -460,7 +459,6 @@ BSM,"Black Stone Minerals, L.P. Common units representing limited partner intere
 BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest
 BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest
 BSX,Boston Scientific Corporation Common Stock
-BTA,BlackRock Long
 BTE,Baytex Energy Corp Common Shares
 BTGO,"BitGo Holdings, Inc. Class A Common Stock"
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR"
@@ -1160,9 +1158,7 @@ GM,General Motors Company Common Stock
 GME,GameStop Corporation Common Stock
 GME.W,GameStop Corporation Warrants to Purchase Common Stock
 GMED,"Globus Medical, Inc. Class A Common Stock"
-GMRE,Global Medical REIT Inc. Common Stock
-GMRE$A,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock
-GMRE$B,"Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share"
+GMMF,iShares Government Money Market ETF
 GNE,Genie Energy Ltd. Class B Common Stock Stock
 GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands)
 GNL,"Global Net Lease, Inc. Common Stock"
@@ -1703,7 +1699,6 @@ MPLX,MPLX LP Common Units Representing Limited Partner Interests
 MPT,"Medical Properties Trust, Inc. common stock"
 MPV,Barings Participation Investors Common Stock
 MPX,Marine Products Corporation Common Stock
-MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock"
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock"
 MRK,"Merck & Company, Inc. Common Stock (new)"
 MRP,"Millrose Properties, Inc. Class A Common Stock"
@@ -1753,14 +1748,11 @@ MUR,Murphy Oil Corporation Common Stock
 MUSA,Murphy USA Inc. Common Stock
 MUSE,TCW Multisector Credit Income ETF
 MUX,McEwen Inc. Common Stock
-MVF,"Blackrock MuniVest Fund, Inc. Common Stock"
 MVO,MV Oil Trust Units of Beneficial Interests
-MVT,"Blackrock MuniVest Fund II, Inc.  Common Stock"
 MWA,MUELLER WATER PRODUCTS Common Stock
 MX,Magnachip Semiconductor Corporation Common Stock
 MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock"
 MXF,"Mexico Fund, Inc. (The) Common Stock"
-MYD,"Blackrock MuniYield Fund, Inc.  Common Stock"
 MYE,"Myers Industries, Inc. Common Stock"
 MYI,"Blackrock MuniYield Quality Fund III, Inc Common Stock"
 MYN,"Blackrock MuniYield New York Quality Fund, Inc.Common Stock"
@@ -2061,6 +2053,7 @@ PLOW,"Douglas Dynamics, Inc. Common Stock"
 PM,Philip Morris International Inc Common Stock
 PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest
 PMM,Putnam Managed Municipal Income Trust Common Stock
+PMMF,iShares Prime Money Market ETF
 PMO,Putnam Municipal Opportunities Trust Common Stock
 PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest
 PMT$A,PennyMac Mortgage Investment Trust 8.125% Series A Fixed
@@ -2337,6 +2330,7 @@ SFL,SFL Corporation Ltd
 SG,"Sweetgreen, Inc. Class A Common Stock"
 SGHC,Super Group (SGHC) Limited Ordinary Shares
 SGI,Somnigroup International Inc. Common Stock
+SGOV,iShares 0
 SGU,Star Group L.P. Common Stock
 SHAK,"Shake Shack, Inc. Class A Common Stock"
 SHEL,Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) 
@@ -2345,6 +2339,7 @@ SHO,"Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares
 SHO$H,"Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock"
 SHO$I,"Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable Preferred Stock"
 SHOC,Strive U.S. Semiconductor ETF
+SHV,iShares 0
 SHW,Sherwin
 SI,"Shoulder Innovations, Inc. Common Stock"
 SID,Companhia Siderurgica Nacional S.A. Common Stock
@@ -2849,6 +2844,9 @@ XPEV,"XPeng Inc. American depositary shares, each representing two Class A ordin
 XPO,"XPO, Inc. Common Stock"
 XPOF,"Xponential Fitness, Inc. Class A Common Stock"
 XPRO,Expro Group Holdings N.V. Common Stock
+XRN,Chiron Real Estate Inc. Common Stock
+XRN$A,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock
+XRN$B,"Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share"
 XXI,"Twenty One Capital, Inc. Class A Common Stock"
 XYF,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares"
 XYL,Xylem Inc. Common Stock New

@@ -739,7 +739,6 @@ BKKT.W,"Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant enti
 BKLC,BNY Mellon US Large Cap Core Equity ETF,BNY Mellon US Large Cap Core Equity ETF,P,BKLC,Y,100.0,N,BKLC
 BKLN,Invesco Senior Loan ETF,Invesco Senior Loan ETF,P,BKLN,Y,100.0,N,BKLN
 BKMC,BNY Mellon US Mid Cap Core Equity ETF,BNY Mellon US Mid Cap Core Equity ETF,P,BKMC,Y,100.0,N,BKMC
-BKN,BlackRock Investment Quality Municipal Trust Inc. (The),BlackRock Investment Quality Municipal Trust Inc. (The),N,BKN,N,100.0,N,BKN
 BKNU,T,T-REX 2X Long BKNG Daily Target ETF,Z,BKNU,Y,100.0,N,BKNU
 BKSE,BNY Mellon US Small Cap Core Equity ETF,BNY Mellon US Small Cap Core Equity ETF,P,BKSE,Y,100.0,N,BKSE
 BKSY,BlackSky Technology Inc. Class A Common Stock,BlackSky Technology Inc. Class A Common Stock,N,BKSY,N,100.0,N,BKSY
@@ -870,7 +869,6 @@ BSTP,Innovator Buffer Step,Innovator Buffer Step-Up Strategy ETF,P,BSTP,Y,100.0,
 BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,N,BSTZ,N,100.0,N,BSTZ
 BSV,Vanguard Short,Vanguard Short-Term Bond ETF,P,BSV,Y,100.0,N,BSV
 BSX,Boston Scientific Corporation Common Stock,Boston Scientific Corporation Common Stock,N,BSX,N,100.0,N,BSX
-BTA,BlackRock Long,BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest,N,BTA,N,100.0,N,BTA
 BTAL,AGF U.S. Market Neutral Anti,AGF U.S. Market Neutral Anti-Beta Fund,P,BTAL,Y,100.0,N,BTAL
 BTC,Grayscale Bitcoin Mini Trust (BTC),Grayscale Bitcoin Mini Trust (BTC),P,BTC,Y,100.0,N,BTC
 BTCC,Grayscale Bitcoin Covered Call ETF,Grayscale Bitcoin Covered Call ETF,P,BTCC,Y,100.0,N,BTCC
@@ -1620,6 +1618,7 @@ DKS,Dick's Sporting Goods Inc Common Stock,Dick's Sporting Goods Inc Common Stoc
 DKUP,T,T-REX 2X Long DKNG Daily Target ETF,Z,DKUP,Y,100.0,N,DKUP
 DLAG,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - August,Z,DLAG,Y,100.0,N,DLAG
 DLB,Dolby Laboratories Common Stock,Dolby Laboratories Common Stock,N,DLB,N,100.0,N,DLB
+DLFE,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - February,Z,DLFE,Y,100.0,N,DLFE
 DLN,WisdomTree U.S. LargeCap Dividend Fund,WisdomTree U.S. LargeCap Dividend Fund,P,DLN,Y,100.0,N,DLN
 DLNG,Dynagas LNG Partners LP Common Units,Dynagas LNG Partners LP Common Units,N,DLNG,N,100.0,N,DLNG
 DLNG$A,Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units,Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units,N,DLNGpA,N,100.0,N,DLNG-A
@@ -2659,16 +2658,13 @@ GMEU,T,T-REX 2X Long GME Daily Target ETF,Z,GMEU,Y,100.0,N,GMEU
 GMEY,YieldMax GME Option Income Strategy ETF,YieldMax GME Option Income Strategy ETF,P,GMEY,Y,100.0,N,GMEY
 GMF,State Street SPDR S&P Emerging Asia Pacific ETF,State Street SPDR S&P Emerging Asia Pacific ETF,P,GMF,Y,100.0,N,GMF
 GMMA,GammaRoad Market Navigation ETF,GammaRoad Market Navigation ETF,P,GMMA,Y,100.0,N,GMMA
-GMMF,iShares Government Money Market ETF,iShares Government Money Market ETF,P,GMMF,Y,100.0,N,GMMF
+GMMF,iShares Government Money Market ETF,iShares Government Money Market ETF,N,GMMF,Y,100.0,N,GMMF
 GMNY,Goldman Sachs Dynamic New York Municipal Income ETF,Goldman Sachs Dynamic New York Municipal Income ETF,P,GMNY,Y,100.0,N,GMNY
 GMOC,GMO Ultra,GMO Ultra-Short Income ETF,P,GMOC,Y,100.0,N,GMOC
 GMOD,GMO Dynamic Allocation ETF,GMO Dynamic Allocation ETF,P,GMOD,Y,100.0,N,GMOD
 GMOI,GMO International Value ETF,GMO International Value ETF,P,GMOI,Y,100.0,N,GMOI
 GMOM,Cambria Global Momentum ETF,Cambria Global Momentum ETF,Z,GMOM,Y,100.0,N,GMOM
 GMOV,GMO US Value ETF,GMO US Value ETF,P,GMOV,Y,100.0,N,GMOV
-GMRE,Global Medical REIT Inc. Common Stock,Global Medical REIT Inc. Common Stock,N,GMRE,N,100.0,N,GMRE
-GMRE$A,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock,N,GMREpA,N,100.0,N,GMRE-A
-GMRE$B,"Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share","Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",N,GMREpB,N,100.0,N,GMRE-B
 GMUB,Goldman Sachs Municipal Income ETF,Goldman Sachs Municipal Income ETF,P,GMUB,Y,100.0,N,GMUB
 GMUN,Goldman Sachs Access Municipal Bond ETF,Goldman Sachs Access Municipal Bond ETF,P,GMUN,Y,100.0,N,GMUN
 GNE,Genie Energy Ltd. Class B Common Stock Stock,Genie Energy Ltd. Class B Common Stock Stock,N,GNE,N,100.0,N,GNE
@@ -2782,6 +2778,7 @@ GTN,"Gray Media, Inc. Common Stock","Gray Media, Inc. Common Stock",N,GTN,N,100.
 GTN.A,"Gray Media, Inc. Class A Common Stock","Gray Media, Inc. Class A Common Stock",N,GTN.A,N,100.0,N,GTN.A
 GTO,Invesco Total Return Bond ETF,Invesco Total Return Bond ETF,P,GTO,Y,100.0,N,GTO
 GTOC,Invesco Core Fixed Income ETF,Invesco Core Fixed Income ETF,Z,GTOC,Y,100.0,N,GTOC
+GTOH,Invesco Short Duration High Yield ETF,Invesco Short Duration High Yield ETF,Z,GTOH,Y,100.0,N,GTOH
 GTOS,Invesco Short Duration Total Return Bond ETF,Invesco Short Duration Total Return Bond ETF,Z,GTOS,Y,100.0,N,GTOS
 GTY,Getty Realty Corporation Common Stock,Getty Realty Corporation Common Stock,N,GTY,N,100.0,N,GTY
 GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,N,GUG,N,100.0,N,GUG
@@ -2902,7 +2899,6 @@ HIPO,Hippo Holdings Inc. Common Stock,Hippo Holdings Inc. Common Stock,N,HIPO,N,
 HIPS,GraniteShares HIPS US High Income ETF,GraniteShares HIPS US High Income ETF,P,HIPS,Y,100.0,N,HIPS
 HIW,"Highwoods Properties, Inc. Common Stock","Highwoods Properties, Inc. Common Stock",N,HIW,N,100.0,N,HIW
 HIX,Western Asset High Income Fund II Inc. Common Stock,Western Asset High Income Fund II Inc. Common Stock,N,HIX,N,100.0,N,HIX
-HIYS,Invesco High Yield Select ETF,Invesco High Yield Select ETF,Z,HIYS,Y,100.0,N,HIYS
 HIYY,YieldMax HIMS Option Income Strategy ETF,YieldMax HIMS Option Income Strategy ETF,P,HIYY,Y,100.0,N,HIYY
 HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),N,HKD,N,100.0,N,HKD
 HL,Hecla Mining Company Common Stock,Hecla Mining Company Common Stock,N,HL,N,100.0,N,HL
@@ -3115,6 +3111,7 @@ IEZ,iShares U.S. Oil Equipment & Services ETF,iShares U.S. Oil Equipment & Servi
 IFEB,Innovator International Developed Power Buffer ETF  February,Innovator International Developed Power Buffer ETF  February,P,IFEB,Y,100.0,N,IFEB
 IFED,ETRACS IFED Invest with the Fed TR Index ETN,ETRACS IFED Invest with the Fed TR Index ETN,P,IFED,Y,100.0,N,IFED
 IFF,"International Flavors & Fragrances, Inc. Common Stock","International Flavors & Fragrances, Inc. Common Stock",N,IFF,N,100.0,N,IFF
+IFLN,Invesco Bloomberg Enhanced Fallen Angels ETF,Invesco Bloomberg Enhanced Fallen Angels ETF,P,IFLN,Y,100.0,N,IFLN
 IFLR,Innovator International Developed Managed Floor ETF,Innovator International Developed Managed Floor ETF,P,IFLR,Y,100.0,N,IFLR
 IFN,"India Fund, Inc. (The) Common Stock","India Fund, Inc. (The) Common Stock",N,IFN,N,100.0,N,IFN
 IFRA,iShares U.S. Infrastructure ETF,iShares U.S. Infrastructure ETF,Z,IFRA,Y,100.0,N,IFRA
@@ -3184,6 +3181,7 @@ IMRA,Bitwise MARA Option Income Strategy ETF,Bitwise MARA Option Income Strategy
 IMST,Bitwise MSTR Option Income Strategy ETF,Bitwise MSTR Option Income Strategy ETF,P,IMST,Y,100.0,N,IMST
 IMTB,iShares Core 5,iShares Core 5-10 Year USD Bond ETF,P,IMTB,Y,100.0,N,IMTB
 IMTM,iShares MSCI Intl Momentum Factor ETF,iShares MSCI Intl Momentum Factor ETF,P,IMTM,Y,100.0,N,IMTM
+IMVP,Invesco India ETF,Invesco India ETF,P,IMVP,Y,100.0,N,IMVP
 INCE,Franklin Income Equity Focus ETF,Franklin Income Equity Focus ETF,P,INCE,Y,100.0,N,INCE
 INCM,Franklin Income Focus ETF,Franklin Income Focus ETF,P,INCM,Y,100.0,N,INCM
 INCO,Columbia India Consumer ETF,Columbia India Consumer ETF,P,INCO,Y,100.0,N,INCO
@@ -4001,6 +3999,7 @@ MID,American Century Mid Cap Growth Impact ETF,American Century Mid Cap Growth I
 MIDE,Xtrackers S&P MidCap 400 Scored & Screened ETF,Xtrackers S&P MidCap 400 Scored & Screened ETF,P,MIDE,Y,100.0,N,MIDE
 MIDU,Direxion Mid Cap Bull 3X Shares,Direxion Mid Cap Bull 3X Shares,P,MIDU,Y,100.0,N,MIDU
 MIG,VanEck Moody's Analytics IG Corporate Bond ETF,VanEck Moody's Analytics IG Corporate Bond ETF,Z,MIG,Y,100.0,N,MIG
+MIGO,MIG Core ETF,MIG Core ETF,P,MIGO,Y,100.0,N,MIGO
 MILK,Pacer US Cash Cows Bond ETF,Pacer US Cash Cows Bond ETF,Z,MILK,Y,100.0,N,MILK
 MIN,MFS Intermediate Income Trust Common Stock,MFS Intermediate Income Trust Common Stock,N,MIN,N,100.0,N,MIN
 MINE,Mayfair Gold Corp. Common Shares,Mayfair Gold Corp. Common Shares,A,MINE,N,100.0,N,MINE
@@ -4089,7 +4088,6 @@ MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
 MPU,Mega Matrix Inc. Class A Ordinary Shares,Mega Matrix Inc. Class A Ordinary Shares,A,MPU,N,100.0,N,MPU
 MPV,Barings Participation Investors Common Stock,Barings Participation Investors Common Stock,N,MPV,N,100.0,N,MPV
 MPX,Marine Products Corporation Common Stock,Marine Products Corporation Common Stock,N,MPX,N,100.0,N,MPX
-MQT,"Blackrock MuniYield Quality Fund II, Inc. Common Stock","Blackrock MuniYield Quality Fund II, Inc. Common Stock",N,MQT,N,100.0,N,MQT
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock","Blackrock MuniYield Quality Fund, Inc. Common Stock",N,MQY,N,100.0,N,MQY
 MRCP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - March,Z,MRCP,Y,100.0,N,MRCP
 MRGR,ProShares Merger ETF,ProShares Merger ETF,Z,MRGR,Y,100.0,N,MRGR
@@ -4186,14 +4184,12 @@ MUSQ,MUSQ Global Music Industry Index ETF,MUSQ Global Music Industry Index ETF,P
 MUST,Columbia Multi,Columbia Multi-Sector Municipal Income ETF,P,MUST,Y,100.0,N,MUST
 MUX,McEwen Inc. Common Stock,McEwen Inc. Common Stock,N,MUX,N,100.0,N,MUX
 MVAL,VanEck Morningstar Wide Moat Value ETF,VanEck Morningstar Wide Moat Value ETF,Z,MVAL,Y,100.0,N,MVAL
-MVF,"Blackrock MuniVest Fund, Inc. Common Stock","Blackrock MuniVest Fund, Inc. Common Stock",N,MVF,N,100.0,N,MVF
 MVFD,Monarch Volume Factor Dividend Tree Index ETF,Monarch Volume Factor Dividend Tree Index ETF,Z,MVFD,Y,100.0,N,MVFD
 MVFG,Monarch Volume Factor Global Unconstrained Index ETF,Monarch Volume Factor Global Unconstrained Index ETF,Z,MVFG,Y,100.0,N,MVFG
 MVO,MV Oil Trust Units of Beneficial Interests,MV Oil Trust Units of Beneficial Interests,N,MVO,N,100.0,N,MVO
 MVPA,Miller Value Partners Appreciation ETF,Miller Value Partners Appreciation ETF,P,MVPA,Y,100.0,N,MVPA
 MVPL,Miller Value Partners Leverage ETF,Miller Value Partners Leverage ETF,P,MVPL,Y,100.0,N,MVPL
 MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,P,MVRL,Y,100.0,N,MVRL
-MVT,"Blackrock MuniVest Fund II, Inc.  Common Stock","Blackrock MuniVest Fund II, Inc.  Common Stock",N,MVT,N,100.0,N,MVT
 MVV,ProShares Ultra MidCap400,ProShares Ultra MidCap400,P,MVV,Y,100.0,N,MVV
 MWA,MUELLER WATER PRODUCTS Common Stock,MUELLER WATER PRODUCTS Common Stock,N,MWA,N,100.0,N,MWA
 MWG,Multi Ways Holdings Limited Class A Ordinary Shares,Multi Ways Holdings Limited Class A Ordinary Shares,A,MWG,N,100.0,N,MWG
@@ -4202,7 +4198,6 @@ MXC,Mexco Energy Corporation Common Stock,Mexco Energy Corporation Common Stock,
 MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock","Mexico Equity and Income Fund, Inc. (The) Common Stock",N,MXE,N,100.0,N,MXE
 MXF,"Mexico Fund, Inc. (The) Common Stock","Mexico Fund, Inc. (The) Common Stock",N,MXF,N,100.0,N,MXF
 MXI,iShares Global Materials ETF,iShares Global Materials ETF,P,MXI,Y,100.0,N,MXI
-MYD,"Blackrock MuniYield Fund, Inc.  Common Stock","Blackrock MuniYield Fund, Inc.  Common Stock",N,MYD,N,100.0,N,MYD
 MYE,"Myers Industries, Inc. Common Stock","Myers Industries, Inc. Common Stock",N,MYE,N,100.0,N,MYE
 MYI,"Blackrock MuniYield Quality Fund III, Inc Common Stock","Blackrock MuniYield Quality Fund III, Inc Common Stock",N,MYI,N,100.0,N,MYI
 MYLD,Cambria Micro and SmallCap Shareholder Yield ETF,Cambria Micro and SmallCap Shareholder Yield ETF,Z,MYLD,Y,100.0,N,MYLD
@@ -4770,7 +4765,6 @@ PGRO,Putnam Focused Large Cap Growth ETF,Putnam Focused Large Cap Growth ETF,P,P
 PGX,Invesco Preferred ETF,Invesco Preferred ETF,P,PGX,Y,100.0,N,PGX
 PGZ,Principal Real Estate Income Fund Common Shares of Beneficial Interest,Principal Real Estate Income Fund Common Shares of Beneficial Interest,N,PGZ,N,100.0,N,PGZ
 PH,Parker,Parker-Hannifin Corporation Common Stock,N,PH,N,40.0,N,PH
-PHB,Invesco Fundamental High Yield Corporate Bond ETF,Invesco Fundamental High Yield Corporate Bond ETF,P,PHB,Y,100.0,N,PHB
 PHDG,Invesco S&P 500 Downside Hedged ETF,Invesco S&P 500 Downside Hedged ETF,P,PHDG,Y,100.0,N,PHDG
 PHEQ,Parametric Hedged Equity ETF,Parametric Hedged Equity ETF,P,PHEQ,Y,100.0,N,PHEQ
 PHG,Koninklijke Philips N.V. NY Registry Shares,Koninklijke Philips N.V. NY Registry Shares,N,PHG,N,100.0,N,PHG
@@ -4792,7 +4786,6 @@ PIFI,ClearShares Piton Intermediate Fixed Income ETF,ClearShares Piton Intermedi
 PII,Polaris Inc. Common Stock,Polaris Inc. Common Stock,N,PII,N,100.0,N,PII
 PILL,Direxion Daily Pharmaceutical & Medical Bull 3X Shares,Direxion Daily Pharmaceutical & Medical Bull 3X Shares,P,PILL,Y,100.0,N,PILL
 PIM,Putnam Master Intermediate Income Trust Common Stock,Putnam Master Intermediate Income Trust Common Stock,N,PIM,N,100.0,N,PIM
-PIN,Invesco India ETF,Invesco India ETF,P,PIN,Y,100.0,N,PIN
 PINE,"Alpine Income Property Trust, Inc. Common Stock","Alpine Income Property Trust, Inc. Common Stock",N,PINE,N,100.0,N,PINE
 PINE$A,"Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock","Alpine Income Property Trust, Inc. 8.00% Series A Cumulative Redeemable Preferred Stock",N,PINEpA,N,100.0,N,PINE-A
 PINK,Simplify Health Care ETF,Simplify Health Care ETF,P,PINK,Y,100.0,N,PINK
@@ -4847,7 +4840,7 @@ PMJL,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - July,Z,PMJL,Y,10
 PMJN,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - June,Z,PMJN,Y,100.0,N,PMJN
 PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,N,PML,N,100.0,N,PML
 PMM,Putnam Managed Municipal Income Trust Common Stock,Putnam Managed Municipal Income Trust Common Stock,N,PMM,N,100.0,N,PMM
-PMMF,iShares Prime Money Market ETF,iShares Prime Money Market ETF,P,PMMF,Y,100.0,N,PMMF
+PMMF,iShares Prime Money Market ETF,iShares Prime Money Market ETF,N,PMMF,Y,100.0,N,PMMF
 PMMR,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - March,Z,PMMR,Y,100.0,N,PMMR
 PMMY,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - May,Z,PMMY,Y,100.0,N,PMMY
 PMNT,Perfect Moment Ltd. Common Stock,Perfect Moment Ltd. Common Stock,A,PMNT,N,100.0,N,PMNT
@@ -5095,6 +5088,7 @@ QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067","QVC, Inc. 6.375% Senior S
 QVML,Invesco S&P 500 QVM Multi,Invesco S&P 500 QVM Multi-factor ETF,P,QVML,Y,100.0,N,QVML
 QVMM,Invesco S&P MidCap 400 QVM Multi,Invesco S&P MidCap 400 QVM Multi-factor ETF,P,QVMM,Y,100.0,N,QVMM
 QVMS,Invesco S&P SmallCap 600 QVM Multi,Invesco S&P SmallCap 600 QVM Multi-factor ETF,P,QVMS,Y,100.0,N,QVMS
+QVMT,Invesco S&P 500 Concentrated QVM ETF,Invesco S&P 500 Concentrated QVM ETF,P,QVMT,Y,100.0,N,QVMT
 QVOY,Q3 All,Q3 All-Season Active Rotation ETF Q3 All-Season Active Rotation ETF,Z,QVOY,Y,100.0,N,QVOY
 QWLD,State Street SPDR MSCI World StrategicFactors ETF,State Street SPDR MSCI World StrategicFactors ETF,P,QWLD,Y,100.0,N,QWLD
 QXAS,Quantify 2X Daily Alt Season Crypto ETF,Quantify 2X Daily Alt Season Crypto ETF,P,QXAS,Y,100.0,N,QXAS
@@ -5542,7 +5536,7 @@ SGI,Somnigroup International Inc. Common Stock,Somnigroup International Inc. Com
 SGLC,SGI U.S. Large Cap Core ETF,SGI U.S. Large Cap Core ETF,P,SGLC,Y,100.0,N,SGLC
 SGN,"Signing Day Sports, Inc. Common Stock","Signing Day Sports, Inc. Common Stock",A,SGN,N,100.0,N,SGN
 SGOL,abrdn Physical Gold Shares ETF,abrdn Physical Gold Shares ETF,P,SGOL,Y,100.0,N,SGOL
-SGOV,iShares 0,iShares 0-3 Month Treasury Bond ETF,P,SGOV,Y,100.0,N,SGOV
+SGOV,iShares 0,iShares 0-3 Month Treasury Bond ETF,N,SGOV,Y,100.0,N,SGOV
 SGRT,SMART Earnings Growth 30 ETF,SMART Earnings Growth 30 ETF,P,SGRT,Y,100.0,N,SGRT
 SGRW,Harbor Active Small Cap Growth ETF,Harbor Active Small Cap Growth ETF,P,SGRW,Y,100.0,N,SGRW
 SGU,Star Group L.P. Common Stock,Star Group L.P. Common Stock,N,SGU,N,100.0,N,SGU
@@ -5565,6 +5559,7 @@ SHOC,Strive U.S. Semiconductor ETF,Strive U.S. Semiconductor ETF,N,SHOC,Y,100.0,
 SHPP,Pacer Industrials and Logistics ETF,Pacer Industrials and Logistics ETF,P,SHPP,Y,100.0,N,SHPP
 SHRT,Gotham Short Strategies ETF,Gotham Short Strategies ETF,P,SHRT,Y,100.0,N,SHRT
 SHUS,Stratified LargeCap Hedged ETF,Stratified LargeCap Hedged ETF,P,SHUS,Y,100.0,N,SHUS
+SHV,iShares 0,iShares 0-1 Year Treasury Bond ETF,N,SHV,Y,100.0,N,SHV
 SHW,Sherwin,Sherwin-Williams Company (The) Common Stock,N,SHW,N,40.0,N,SHW
 SHYD,VanEck Short High Yield Muni ETF,VanEck Short High Yield Muni ETF,Z,SHYD,Y,100.0,N,SHYD
 SHYG,iShares 0,iShares 0-5 Year High Yield Corporate Bond ETF,P,SHYG,Y,100.0,N,SHYG
@@ -5785,7 +5780,6 @@ SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,SP Funds S&P 500 Sharia Ind
 SPUT,Innovator Equity Premium Income ,Innovator Equity Premium Income - Daily PutWrite ETF,P,SPUT,Y,100.0,N,SPUT
 SPUU,Direxion Daily S&P 500 Bull 2X Shares,Direxion Daily S&P 500 Bull 2X Shares,P,SPUU,Y,100.0,N,SPUU
 SPVM,Invesco S&P 500 Value with Momentum ETF,Invesco S&P 500 Value with Momentum ETF,P,SPVM,Y,100.0,N,SPVM
-SPVU,Invesco S&P 500 Enhanced Value ETF,Invesco S&P 500 Enhanced Value ETF,P,SPVU,Y,100.0,N,SPVU
 SPWO,SP Funds S&P World (ex,SP Funds S&P World (ex-US) ETF,P,SPWO,Y,100.0,N,SPWO
 SPXC,"SPX Technologies, Inc. Common Stock","SPX Technologies, Inc. Common Stock",N,SPXC,N,100.0,N,SPXC
 SPXE,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Energy ETF,P,SPXE,Y,100.0,N,SPXE
@@ -6851,6 +6845,9 @@ XPRO,Expro Group Holdings N.V. Common Stock,Expro Group Holdings N.V. Common Sto
 XRLV,Invesco S&P 500 ex,Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,P,XRLV,Y,100.0,N,XRLV
 XRLX,FundX Conservative ETF,FundX Conservative ETF,P,XRLX,Y,100.0,N,XRLX
 XRMI,Global X S&P 500 Risk Managed Income ETF,Global X S&P 500 Risk Managed Income ETF,P,XRMI,Y,100.0,N,XRMI
+XRN,Chiron Real Estate Inc. Common Stock,Chiron Real Estate Inc. Common Stock,N,XRN,N,100.0,N,XRN
+XRN$A,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,N,XRNpA,N,100.0,N,XRN-A
+XRN$B,"Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share","Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",N,XRNpB,N,100.0,N,XRN-B
 XRP,Bitwise XRP ETF,Bitwise XRP ETF,P,XRP,Y,100.0,N,XRP
 XRPK,T,T-REX 2X Long XRP Daily Target ETF,Z,XRPK,Y,100.0,N,XRPK
 XRPM,Amplify XRP 3% Monthly Premium Income ETF,Amplify XRP 3% Monthly Premium Income ETF,Z,XRPM,Y,100.0,N,XRPM
