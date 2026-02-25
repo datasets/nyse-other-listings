@@ -79,7 +79,6 @@ AGRO,Adecoagro S.A. Common Shares
 AGX,"Argan, Inc. Common Stock"
 AHH,"Armada Hoffler Properties, Inc. Common Stock"
 AHH$A,"Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock"
-AHL,Aspen Insurance Holdings Limited Class A Ordinary Shares
 AHL$D,Aspen Insurance Holdings Limited 5.625% Perpetual Non
 AHL$E,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 5.625% Perpetual Non"
 AHL$F,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1,000th Interest in a 7.00% Perpetual Non"
@@ -221,7 +220,6 @@ ASPN,"Aspen Aerogels, Inc. Common Stock"
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock"
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) "
 ATEN,"A10 Networks, Inc. Common Stock"
-ATGE,Adtalem Global Education Inc. Common Stock
 ATH$A,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.35% Fixed"
 ATH$B,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 5.625% Fixed Rate Perpetual Non"
 ATH$D,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed"
@@ -713,6 +711,7 @@ CVI,CVR Energy Inc. Common Stock
 CVLG,"Covenant Logistics Group, Inc. Class A Common Stock"
 CVNA,Carvana Co. Class A Common Stock
 CVS,CVS Health Corporation Common Stock
+CVSA,Covista Inc. Common Shares
 CVX,Chevron Corporation Common Stock
 CW,Curtiss
 CWAN,"Clearwater Analytics Holdings, Inc. Class A Common Stock"
@@ -1375,7 +1374,9 @@ IPI,"Intrepid Potash, Inc Common Stock"
 IQI,Invesco Quality Municipal Income Trust Common Stock
 IQV,"IQVIA Holdings, Inc. Common Stock"
 IR,Ingersoll Rand Inc. Common Stock
+IRAB,Iris Acquisition Corp II Class A Ordinary Shares
 IRAB.U,"Iris Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one"
+IRAB.W,"Iris Acquisition Corp II Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share"
 IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT
 IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock)
 IRS.W,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares
@@ -2255,8 +2256,8 @@ RXO,"RXO, Inc. Common Stock"
 RY,Royal Bank Of Canada Common Stock
 RYAM,Rayonier Advanced Materials Inc. Common Stock
 RYAN,"Ryan Specialty Holdings, Inc. Class A Common Stock"
-RYI,Ryerson Holding Corporation Common Stock
 RYN,Rayonier Inc. REIT Common Stock
+RYZ,Ryerson Holding Corporation Common Stock
 RZB,"Reinsurance Group of America, Incorporated 5.75% Fixed"
 RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed"
 S,"SentinelOne, Inc. Class A Common Stock"
@@ -2809,6 +2810,8 @@ WMS,"Advanced Drainage Systems, Inc. Common Stock"
 WNC,Wabash National Corporation Common Stock
 WOLF,"Wolfspeed, Inc. Common Stock New"
 WOR,"Worthington Enterprises, Inc. Common Shares"
+WPAC,White Pearl Acquisition Corp. Class A Ordinary Shares
+WPAC.R,"White Pearl Acquisition Corp. Rights, each right entitles the holder to receive one"
 WPAC.U,"White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one"
 WPC,W. P. Carey Inc. REIT
 WPM,Wheaton Precious Metals Corp Common Shares (Canada)
