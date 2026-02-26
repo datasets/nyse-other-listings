@@ -68,6 +68,7 @@ ACVA,ACV Auctions Inc. Class A Common Stock,ACV Auctions Inc. Class A Common Sto
 ACVF,American Conservative Values ETF,American Conservative Values ETF,P,ACVF,Y,100.0,N,ACVF
 ACVT,Advent Convertible Bond ETF,Advent Convertible Bond ETF,P,ACVT,Y,100.0,N,ACVT
 ACWV,iShares MSCI Global Min Vol Factor ETF,iShares MSCI Global Min Vol Factor ETF,Z,ACWV,Y,100.0,N,ACWV
+ACYN,FT Vest Laddered Autocallable Barrier & Income ETF,FT Vest Laddered Autocallable Barrier & Income ETF,P,ACYN,Y,100.0,N,ACYN
 AD,"Array Digital Infrastructure, Inc. Common Shares","Array Digital Infrastructure, Inc. Common Shares",N,AD,N,100.0,N,AD
 ADC,Agree Realty Corporation Common Stock,Agree Realty Corporation Common Stock,N,ADC,N,100.0,N,ADC
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock","Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",N,ADCpA,N,100.0,N,ADC-A
@@ -2325,6 +2326,7 @@ FLTW,Franklin FTSE Taiwan ETF,Franklin FTSE Taiwan ETF,P,FLTW,Y,100.0,N,FLTW
 FLUD,Franklin Ultra Short Bond ETF,Franklin Ultra Short Bond ETF,P,FLUD,Y,100.0,N,FLUD
 FLUT,Flutter Entertainment plc Ordinary Shares,Flutter Entertainment plc Ordinary Shares,N,FLUT,N,40.0,N,FLUT
 FLV,American Century Focused Large Cap Value ETF,American Century Focused Large Cap Value ETF,P,FLV,Y,100.0,N,FLV
+FLXI,Invesco Flexible Income ETF,Invesco Flexible Income ETF,Z,FLXI,Y,100.0,N,FLXI
 FLXN,Horizon Flexible Income ETF,Horizon Flexible Income ETF,Z,FLXN,Y,100.0,N,FLXN
 FLXR,TCW Flexible Income ETF,TCW Flexible Income ETF,N,FLXR,Y,100.0,N,FLXR
 FLYD,MicroSectors Travel ,MicroSectors Travel -3x Inverse Leveraged ETN,P,FLYD,Y,100.0,N,FLYD
@@ -2827,6 +2829,7 @@ HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,iShares Currency Hedged MSCI 
 HAYW,"Hayward Holdings, Inc. Common Stock","Hayward Holdings, Inc. Common Stock",N,HAYW,N,100.0,N,HAYW
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,Hamilton Beach Brands Holding Company Class A Common Stock ,N,HBB,N,100.0,N,HBB
 HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),Hudbay Minerals Inc. Ordinary Shares (Canada),N,HBM,N,100.0,N,HBM
+HBRD,Invesco U.S. Hybrid Bond ETF,Invesco U.S. Hybrid Bond ETF,P,HBRD,Y,100.0,N,HBRD
 HBTA,Horizon Expedition Plus ETF,Horizon Expedition Plus ETF,P,HBTA,Y,100.0,N,HBTA
 HBTC,Fortuna Hedged Bitcoin ETF,Fortuna Hedged Bitcoin ETF,Z,HBTC,Y,100.0,N,HBTC
 HCA,"HCA Healthcare, Inc. Common Stock","HCA Healthcare, Inc. Common Stock",N,HCA,N,40.0,N,HCA
@@ -3178,6 +3181,7 @@ IMO,Imperial Oil Limited Common Stock,Imperial Oil Limited Common Stock,A,IMO,N,
 IMRA,Bitwise MARA Option Income Strategy ETF,Bitwise MARA Option Income Strategy ETF,P,IMRA,Y,100.0,N,IMRA
 IMST,Bitwise MSTR Option Income Strategy ETF,Bitwise MSTR Option Income Strategy ETF,P,IMST,Y,100.0,N,IMST
 IMTB,iShares Core 5,iShares Core 5-10 Year USD Bond ETF,P,IMTB,Y,100.0,N,IMTB
+IMTG,Invesco Agency MBS ETF,Invesco Agency MBS ETF,Z,IMTG,Y,100.0,N,IMTG
 IMTM,iShares MSCI Intl Momentum Factor ETF,iShares MSCI Intl Momentum Factor ETF,P,IMTM,Y,100.0,N,IMTM
 IMVP,Invesco India ETF,Invesco India ETF,P,IMVP,Y,100.0,N,IMVP
 INCE,Franklin Income Equity Focus ETF,Franklin Income Equity Focus ETF,P,INCE,Y,100.0,N,INCE
@@ -4205,6 +4209,7 @@ MYN,"Blackrock MuniYield New York Quality Fund, Inc.Common Stock","Blackrock Mun
 MYND,"Mynd.ai, Inc. American Depositary Shares","Mynd.ai, Inc. American Depositary Shares",A,MYND,N,100.0,N,MYND
 MYO,Myomo Inc. Common Stock,Myomo Inc. Common Stock,A,MYO,N,100.0,N,MYO
 MYY,ProShares Short MidCap400,ProShares Short MidCap400,P,MYY,Y,100.0,N,MYY
+MZYX.U,"MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one","MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",N,MZYX.U,N,100.0,N,MZYX=
 MZZ,ProShares UltraShort MidCap400,ProShares UltraShort MidCap400,P,MZZ,Y,100.0,N,MZZ
 NABL,N,"N-able, Inc. Common Stock",N,NABL,N,100.0,N,NABL
 NAC,Nuveen California Quality Municipal Income Fund,Nuveen California Quality Municipal Income Fund,N,NAC,N,100.0,N,NAC
@@ -6166,6 +6171,7 @@ TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,TriplePoint Venture Growt
 TPYP,Tortoise North American Pipeline Fund,Tortoise North American Pipeline Fund,N,TPYP,Y,100.0,N,TPYP
 TPZ,Tortoise Electrification Infrastructure ETF,Tortoise Electrification Infrastructure ETF,N,TPZ,Y,100.0,N,TPZ
 TR,"Tootsie Roll Industries, Inc. Common Stock","Tootsie Roll Industries, Inc. Common Stock",N,TR,N,100.0,N,TR
+TRAD.U,"APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share","APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share",N,TRAD.U,N,100.0,N,TRAD=
 TRAK,"ReposiTrak, Inc. Common Stock","ReposiTrak, Inc. Common Stock",N,TRAK,N,100.0,N,TRAK
 TRC,Tejon Ranch Co Common Stock,Tejon Ranch Co Common Stock,N,TRC,N,100.0,N,TRC
 TREX,"Trex Company, Inc. Common Stock","Trex Company, Inc. Common Stock",N,TREX,N,100.0,N,TREX
@@ -6176,6 +6182,7 @@ TRIO,MC Trio Equity Buffered ETF,MC Trio Equity Buffered ETF,Z,TRIO,Y,100.0,N,TR
 TRN,"Trinity Industries, Inc. Common Stock","Trinity Industries, Inc. Common Stock",N,TRN,N,100.0,N,TRN
 TRND,Pacer Trendpilot Fund of Funds ETF,Pacer Trendpilot Fund of Funds ETF,P,TRND,Y,100.0,N,TRND
 TRNO,Terreno Realty Corporation Common Stock,Terreno Realty Corporation Common Stock,N,TRNO,N,100.0,N,TRNO
+TROT,Invesco MSCI Treasury Duration Rotation ETF,Invesco MSCI Treasury Duration Rotation ETF,P,TROT,Y,100.0,N,TROT
 TROX,Tronox Holdings plc Ordinary Shares (UK),Tronox Holdings plc Ordinary Shares (UK),N,TROX,N,100.0,N,TROX
 TRP,TC Energy Corporation Common Stock,TC Energy Corporation Common Stock,N,TRP,N,100.0,N,TRP
 TRPA,Hartford AAA CLO ETF,Hartford AAA CLO ETF,Z,TRPA,Y,100.0,N,TRPA
@@ -6201,7 +6208,7 @@ TSEC,Touchstone Securitized Income ETF,Touchstone Securitized Income ETF,P,TSEC,
 TSEP,FT Vest Emerging Market Buffer ETF ,FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
 TSES,Truth Social American Energy Security ETF,Truth Social American Energy Security ETF,P,TSES,Y,100.0,N,TSES
 TSI,"TCW Strategic Income Fund, Inc. Common Stock","TCW Strategic Income Fund, Inc. Common Stock",N,TSI,N,100.0,N,TSI
-TSI.V,"TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued","TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued",N,TSIrw,N,100.0,N,TSI^#
+TSI.R,"TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights","TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights",N,TSIr,N,100.0,N,TSI^
 TSIC,Truth Social American Icons ETF,Truth Social American Icons ETF,P,TSIC,Y,100.0,N,TSIC
 TSII,REX TSLA Growth & Income ETF,REX TSLA Growth & Income ETF,Z,TSII,Y,100.0,N,TSII
 TSLI,ProShares Ultra TSLA,ProShares Ultra TSLA,P,TSLI,Y,100.0,N,TSLI
