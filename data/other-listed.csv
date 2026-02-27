@@ -575,6 +575,7 @@ BCGD,Baron Global Durable Advantage ETF,Baron Global Durable Advantage ETF,N,BCG
 BCH,Banco De Chile ADS,Banco De Chile ADS,N,BCH,N,100.0,N,BCH
 BCHI,GMO Beyond China ETF,GMO Beyond China ETF,P,BCHI,Y,100.0,N,BCHI
 BCHP,Principal Focused Blue Chip ETF,Principal Focused Blue Chip ETF,Z,BCHP,Y,100.0,N,BCHP
+BCHT,Birchtech Corp. Common Stock,Birchtech Corp. Common Stock,A,BCHT,N,100.0,N,BCHT
 BCI,abrdn Bloomberg All Commodity Strategy K,abrdn Bloomberg All Commodity Strategy K-1 Free ETF,P,BCI,Y,100.0,N,BCI
 BCIL,Bancreek International Large Cap ETF,Bancreek International Large Cap ETF,P,BCIL,Y,100.0,N,BCIL
 BCKT,LifeX 2030 Income Bucket ETF,LifeX 2030 Income Bucket ETF,Z,BCKT,Y,100.0,N,BCKT
@@ -2601,6 +2602,7 @@ GHYG,iShares US & Intl High Yield Corp Bond ETF,iShares US & Intl High Yield Cor
 GIAX,Nicholas Global Equity and Income ETF,Nicholas Global Equity and Income ETF,P,GIAX,Y,100.0,N,GIAX
 GIB,CGI Inc. Common Stock,CGI Inc. Common Stock,N,GIB,N,100.0,N,GIB
 GIC,Global Industrial Company Common Stock,Global Industrial Company Common Stock,N,GIC,N,100.0,N,GIC
+GIF,REX Growth & Income Universe ETF,REX Growth & Income Universe ETF,Z,GIF,Y,100.0,N,GIF
 GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,Goldman Sachs Access Investment Grade Corporate Bond ETF,P,GIGB,Y,100.0,N,GIGB
 GIGL,Goldman Sachs Corporate Bond ETF,Goldman Sachs Corporate Bond ETF,P,GIGL,Y,100.0,N,GIGL
 GII,State Street SPDR S&P Global Infrastructure ETF,State Street SPDR S&P Global Infrastructure ETF,P,GII,Y,100.0,N,GII
@@ -4889,6 +4891,7 @@ PPT,Putnam Premier Income Trust Common Stock,Putnam Premier Income Trust Common 
 PPTY,U.S. Diversified Real Estate ETF,U.S. Diversified Real Estate ETF,P,PPTY,Y,100.0,N,PPTY
 PQDI,Principal Spectrum Preferred and Income ETF,Principal Spectrum Preferred and Income ETF,P,PQDI,Y,100.0,N,PQDI
 PQNT,Pictet AI Enhanced International Equity ETF,Pictet AI Enhanced International Equity ETF,P,PQNT,Y,100.0,N,PQNT
+PQUS,Pictet AI Enhanced US Equity ETF,Pictet AI Enhanced US Equity ETF,P,PQUS,Y,100.0,N,PQUS
 PR,Permian Resources Corporation Class A Common Stock,Permian Resources Corporation Class A Common Stock,N,PR,N,100.0,N,PR
 PRA,ProAssurance Corporation Common Stock,ProAssurance Corporation Common Stock,N,PRA,N,100.0,N,PRA
 PRAE,PlanRock Alternative Growth ETF,PlanRock Alternative Growth ETF,P,PRAE,Y,100.0,N,PRAE
@@ -5767,7 +5770,6 @@ SPMD,State Street SPDR Portfolio S&P 400 Mid Cap ETF,State Street SPDR Portfolio
 SPME,"Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 2030","Sound Point Meridian Capital, Inc. 7.875% Series B Preferred Shares due 2030",N,SPME,N,100.0,N,SPME
 SPMO,Invesco S&P 500 Momentum ETF,Invesco S&P 500 Momentum ETF,P,SPMO,Y,100.0,N,SPMO
 SPNT,SiriusPoint Ltd. Common Shares,SiriusPoint Ltd. Common Shares,N,SPNT,N,100.0,N,SPNT
-SPNT$B,"SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share","SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share",N,SPNTpB,N,100.0,N,SPNT-B
 SPOT,Spotify Technology S.A. Ordinary Shares,Spotify Technology S.A. Ordinary Shares,N,SPOT,N,40.0,N,SPOT
 SPPP,Sprott Physical Platinum and Palladium Trust,Sprott Physical Platinum and Palladium Trust,P,SPPP,Y,100.0,N,SPPP
 SPRE,SP Funds S&P Global REIT Sharia ETF,SP Funds S&P Global REIT Sharia ETF,P,SPRE,Y,100.0,N,SPRE
@@ -6165,6 +6167,7 @@ TPL,Texas Pacific Land Corporation Common Stock,Texas Pacific Land Corporation C
 TPLC,Timothy Plan US Large/Mid Cap Core ETF,Timothy Plan US Large/Mid Cap Core ETF,P,TPLC,Y,100.0,N,TPLC
 TPOR,Direxion Daily Transportation Bull 3X Shares,Direxion Daily Transportation Bull 3X Shares,P,TPOR,Y,100.0,N,TPOR
 TPR,"Tapestry, Inc. Common Stock","Tapestry, Inc. Common Stock",N,TPR,N,100.0,N,TPR
+TPRY,VistaShares Target 15 TEPRTantrum Contrarian Distribution ETF,VistaShares Target 15 TEPRTantrum Contrarian Distribution ETF,P,TPRY,Y,100.0,N,TPRY
 TPSC,Timothy Plan US Small Cap Core ETF,Timothy Plan US Small Cap Core ETF,P,TPSC,Y,100.0,N,TPSC
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026","Terra Property Trust, Inc. 6.00% Notes due 2026",N,TPTA,N,100.0,N,TPTA
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,TriplePoint Venture Growth BDC Corp. Common Stock,N,TPVG,N,100.0,N,TPVG
