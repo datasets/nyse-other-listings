@@ -1822,7 +1822,6 @@ EFAD,ProShares MSCI EAFE Dividend Growers ETF,ProShares MSCI EAFE Dividend Growe
 EFAV,iShares MSCI EAFE Min Vol Factor ETF,iShares MSCI EAFE Min Vol Factor ETF,Z,EFAV,Y,100.0,N,EFAV
 EFAX,State Street SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,State Street SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,P,EFAX,Y,100.0,N,EFAX
 EFC,Ellington Financial Inc. Common Stock ,Ellington Financial Inc. Common Stock ,N,EFC,N,100.0,N,EFC
-EFC$A,Ellington Financial Inc. 6.750% Series A Fixed,Ellington Financial Inc. 6.750% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,EFCpA,N,100.0,N,EFC-A
 EFC$B,Ellington Financial Inc. 6.250% Series B Fixed,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,EFCpB,N,100.0,N,EFC-B
 EFC$C,Ellington Financial Inc. 8.625% Series C Fixed,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,EFCpC,N,100.0,N,EFC-C
 EFC$D,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,N,EFCpD,N,100.0,N,EFC-D
@@ -2494,6 +2493,7 @@ GAB,"Gabelli Equity Trust, Inc. (The) Common Stock","Gabelli Equity Trust, Inc. 
 GAB$G,"Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock","Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock",N,GABpG,N,100.0,N,GAB-G
 GAB$H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H","Gabelli Equity Trust, Inc. (The) Pfd Ser H",N,GABpH,N,100.0,N,GAB-H
 GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock","Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock",N,GABpK,N,100.0,N,GAB-K
+GAB.V,"Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued","Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued",N,GABrw,N,100.0,N,GAB^#
 GABF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,P,GABF,Y,100.0,N,GABF
 GAEM,Simplify Gamma Emerging Market Bond ETF,Simplify Gamma Emerging Market Bond ETF,P,GAEM,Y,100.0,N,GAEM
 GAID,Guinness Atkinson International Dividend Builder ETF,Guinness Atkinson International Dividend Builder ETF,P,GAID,Y,100.0,N,GAID
@@ -4013,6 +4013,7 @@ MINN,Mairs & Power Minnesota Municipal Bond ETF,Mairs & Power Minnesota Municipa
 MINO,PIMCO Municipal Income Opportunities Active Exchange,PIMCO Municipal Income Opportunities Active Exchange-Traded Fund,P,MINO,Y,100.0,N,MINO
 MINT,PIMCO Enhanced Short Maturity Active Exchange,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,P,MINT,Y,100.0,N,MINT
 MINV,Matthews Asia Innovators Active ETF,Matthews Asia Innovators Active ETF,P,MINV,Y,100.0,N,MINV
+MINY,YieldMax Strategic Metals & Mining Portfolio Option Income ETF,YieldMax Strategic Metals & Mining Portfolio Option Income ETF,P,MINY,Y,100.0,N,MINY
 MIR,"Mirion Technologies, Inc. Class A Common Stock","Mirion Technologies, Inc. Class A Common Stock",N,MIR,N,100.0,N,MIR
 MISL,First Trust Indxx Aerospace & Defense ETF,First Trust Indxx Aerospace & Defense ETF,P,MISL,Y,100.0,N,MISL
 MITN,"TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029","TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",N,MITN,N,100.0,N,MITN
