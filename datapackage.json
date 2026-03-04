@@ -12,12 +12,12 @@
                     {
                         "description": "",
                         "name": "ACT Symbol",
-                        "type": "string"
+                        "type": "number"
                     },
                     {
                         "description": "",
                         "name": "Company Name",
-                        "type": "string"
+                        "type": "number"
                     }
                 ]
             }
@@ -32,32 +32,32 @@
                     {
                         "description": "",
                         "name": "ACT Symbol",
-                        "type": "string"
+                        "type": "number"
                     },
                     {
                         "description": "",
                         "name": "Company Name",
-                        "type": "string"
+                        "type": "number"
                     },
                     {
                         "description": "",
                         "name": "Security Name",
-                        "type": "string"
+                        "type": "number"
                     },
                     {
                         "description": "",
                         "name": "Exchange",
-                        "type": "string"
+                        "type": "number"
                     },
                     {
                         "description": "",
                         "name": "CQS Symbol",
-                        "type": "string"
+                        "type": "number"
                     },
                     {
                         "description": "",
                         "name": "ETF",
-                        "type": "string"
+                        "type": "number"
                     },
                     {
                         "description": "",
@@ -67,12 +67,12 @@
                     {
                         "description": "",
                         "name": "Test Issue",
-                        "type": "string"
+                        "type": "number"
                     },
                     {
                         "description": "",
                         "name": "NASDAQ Symbol",
-                        "type": "string"
+                        "type": "number"
                     }
                 ]
             }

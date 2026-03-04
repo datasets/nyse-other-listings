@@ -77,12 +77,12 @@ AGM.A,Federal Agricultural Mortgage Corporation Common Stock
 AGO,Assured Guaranty Ltd. Common Stock
 AGRO,Adecoagro S.A. Common Shares
 AGX,"Argan, Inc. Common Stock"
-AHH,"Armada Hoffler Properties, Inc. Common Stock"
-AHH$A,"Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock"
 AHL$D,Aspen Insurance Holdings Limited 5.625% Perpetual Non
 AHL$E,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 5.625% Perpetual Non"
 AHL$F,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1,000th Interest in a 7.00% Perpetual Non"
 AHR,"American Healthcare REIT, Inc. Common Stock"
+AHRT,"AH Realty Trust, Inc. Common Stock"
+AHRT$A,"AH Realty Trust, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock"
 AHT,Ashford Hospitality Trust Inc Common Stock
 AHT$D,Ashford Hospitality Trust Inc 8.45% Series D Cumulative Preferred Stock
 AHT$F,Ashford Hospitality Trust Inc 7.375% Series F Cumulative Preferred Stock
@@ -1057,7 +1057,6 @@ FPI,Farmland Partners Inc. Common Stock
 FPS,"Forgent Power Solutions, Inc. Class A Common Stock"
 FR,"First Industrial Realty Trust, Inc. Common Stock"
 FRA,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock
-FRGE,"Forge Global Holdings, Inc. Common Stock"
 FRO,Frontline Plc Ordinary Shares
 FRT,Federal Realty Investment Trust Common Stock
 FRT$C,"Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share"
@@ -1146,6 +1145,7 @@ GJT,Synthetic Fixed
 GKOS,Glaukos Corporation Common Stock
 GL,Globe Life Inc. Common Stock
 GL$D,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061
+GLED.U,"GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share"
 GLOB,Globant S.A. Common Shares
 GLOP$A,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units
 GLOP$B,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units
@@ -1333,7 +1333,7 @@ IDE,"Voya Infrastructure, Industrials and Materials Fund Common Shares of Benefi
 IDT,IDT Corporation Class B Common Stock
 IEX,IDEX Corporation Common Stock
 IFF,"International Flavors & Fragrances, Inc. Common Stock"
-IFN,"India Fund, Inc. (The) Common Stock"
+IFN,"Aberdeen India Fund, Inc. Common Stock"
 IFS,Intercorp Financial Services Inc. Common Shares
 IGA,Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest
 IGCB,TCW Corporate Bond ETF
@@ -1446,6 +1446,7 @@ KB,KB Financial Group Inc
 KBDC,"Kayne Anderson BDC, Inc. Common Stock"
 KBH,KB Home Common Stock
 KBR,"KBR, Inc. Common Stock"
+KCAC.U,"Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one"
 KD,"Kyndryl Holdings, Inc. Common Stock"
 KEN,Kenon Holdings Ltd. Ordinary Shares
 KEP,Korea Electric Power Corporation Common Stock
@@ -2077,6 +2078,7 @@ POR,Portland General Electric Co Common Stock
 POST,"Post Holdings, Inc. Common Stock"
 PPG,"PPG Industries, Inc. Common Stock"
 PPL,PPL Corporation Common Stock
+PPLC,PPL Corporation Corporate Units
 PPT,Putnam Premier Income Trust Common Stock
 PR,Permian Resources Corporation Class A Common Stock
 PRA,ProAssurance Corporation Common Stock
@@ -2155,7 +2157,6 @@ RAMP,"LiveRamp Holdings, Inc. Common Stock"
 RBA,"RB Global, Inc. Common Stock"
 RBC,RBC Bearings Incorporated Common Stock
 RBLX,Roblox Corporation Class A Common Stock
-RBOT,Vicarious Surgical Inc. Class A Common Stock
 RBRK,"Rubrik, Inc. Class A Common Stock"
 RC,Ready Capital Corporation Common Stock
 RC$C,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock
@@ -2470,6 +2471,7 @@ STZ,"Constellation Brands, Inc. Common Stock"
 SU,Suncor Energy  Inc. Common Stock
 SUI,"Sun Communities, Inc. Common Stock"
 SUN,Sunoco LP Common Units representing limited partner interests
+SUNB,"Sunbelt Rentals Holdings, Inc. Common Stock"
 SUNC,"SunocoCorp LLC Common Units, representing limited liability company interests"
 SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares
 SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
@@ -2602,7 +2604,6 @@ TRTX$C,"TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferre
 TRU,TransUnion Common Stock
 TRV,"The Travelers Companies, Inc. Common Stock"
 TS,Tenaris S.A. American Depositary Shares
-TSE,Trinseo PLC Ordinary Shares 
 TSI,"TCW Strategic Income Fund, Inc. Common Stock"
 TSI.R,"TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights"
 TSLX,"Sixth Street Specialty Lending, Inc. Common Stock"
@@ -2793,6 +2794,7 @@ WH,"Wyndham Hotels & Resorts, Inc. Common Stock "
 WHD,"Cactus, Inc. Class A Common Stock"
 WHG,Westwood Holdings Group Inc Common Stock
 WHR,Whirlpool Corporation Common Stock
+WHR$A,"Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock"
 WIA,Western Asset Inflation
 WINN,Harbor Long
 WIT,Wipro Limited Common Stock

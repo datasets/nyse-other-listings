@@ -1,46 +1,33 @@
-name: Update gdp data
+name: Update nyse-other-listings data
 
 on:
-  # Schedule to run daily
   schedule:
     - cron: '0 0 * * *'
+  workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
-  pull_request:
-    branches:
-      - main
-
-  workflow_dispatch: 
+permissions:
+  contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-
-    if: github.ref == 'refs/heads/main'
 
     steps:
     - name: Check out repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python 3.12
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.12'
 
     - name: Install Python dependencies
       run: |
-          python -m venv venv
-          source venv/bin/activate
           pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
     - name: Run scripts
-      run: |
-        source venv/bin/activate
-        python scripts/process.py
+      run: python scripts/process.py
 
     - name: Configure Git
       run: |
@@ -53,7 +40,7 @@ jobs:
     - name: Commit and Push changes
       run: |
         git diff --quiet && echo "No changes to commit" || (
-          git add . &&
+          git add data/ datapackage.json &&
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}" &&
           git push origin main
         )
