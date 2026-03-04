@@ -1672,6 +1672,7 @@ DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,Direxion Daily S&P
 DRKY,VistaShares Target 15 DRUKMacro Distribution ETF,VistaShares Target 15 DRUKMacro Distribution ETF,P,DRKY,Y,100.0,N,DRKY
 DRLL,Strive U.S. Energy ETF,Strive U.S. Energy ETF,N,DRLL,Y,100.0,N,DRLL
 DRN,Direxion Daily Real Estate Bull 3X Shares,Direxion Daily Real Estate Bull 3X Shares,P,DRN,Y,100.0,N,DRN
+DRNL,Defiance 2X Daily Long Pure Drone and Aerial Automation ETF,Defiance 2X Daily Long Pure Drone and Aerial Automation ETF,Z,DRNL,Y,100.0,N,DRNL
 DRSK,Aptus Defined Risk ETF,Aptus Defined Risk ETF,Z,DRSK,Y,100.0,N,DRSK
 DRUP,GraniteShares Nasdaq Select Disruptors ETF,GraniteShares Nasdaq Select Disruptors ETF,P,DRUP,Y,100.0,N,DRUP
 DRV,Direxion Daily Real Estate Bear 3X Shares,Direxion Daily Real Estate Bear 3X Shares,P,DRV,Y,100.0,N,DRV
@@ -4422,6 +4423,7 @@ NUEM,Nuveen ESG Emerging Markets Equity ETF,Nuveen ESG Emerging Markets Equity E
 NUGO,Nuveen Growth Opportunities ETF,Nuveen Growth Opportunities ETF,P,NUGO,Y,100.0,N,NUGO
 NUGT,Direxion Daily Gold Miners Index Bull 2XShares,Direxion Daily Gold Miners Index Bull 2XShares,P,NUGT,Y,100.0,N,NUGT
 NUHY,Nuveen ESG High Yield Corporate Bond ETF,Nuveen ESG High Yield Corporate Bond ETF,P,NUHY,Y,100.0,N,NUHY
+NUKX,Nicholas Nuclear Income ETF,Nicholas Nuclear Income ETF,P,NUKX,Y,100.0,N,NUKX
 NUKZ,Range Nuclear Renaissance Index ETF,Range Nuclear Renaissance Index ETF,P,NUKZ,Y,100.0,N,NUKZ
 NULC,Nuveen ESG Large,Nuveen ESG Large-Cap ETF,Z,NULC,Y,100.0,N,NULC
 NULG,Nuveen ESG Large,Nuveen ESG Large-Cap Growth ETF,Z,NULG,Y,100.0,N,NULG
@@ -6206,7 +6208,6 @@ TRV,"The Travelers Companies, Inc. Common Stock","The Travelers Companies, Inc. 
 TRX,TRX Gold Corporation Common Stock,TRX Gold Corporation Common Stock,A,TRX,N,100.0,N,TRX
 TS,Tenaris S.A. American Depositary Shares,Tenaris S.A. American Depositary Shares,N,TS,N,100.0,N,TS
 TSCV,Thrivent Small Cap Value ETF,Thrivent Small Cap Value ETF,P,TSCV,Y,100.0,N,TSCV
-TSE,Trinseo PLC Ordinary Shares ,Trinseo PLC Ordinary Shares ,N,TSE,N,100.0,N,TSE
 TSEC,Touchstone Securitized Income ETF,Touchstone Securitized Income ETF,P,TSEC,Y,100.0,N,TSEC
 TSEP,FT Vest Emerging Market Buffer ETF ,FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
 TSES,Truth Social American Energy Security ETF,Truth Social American Energy Security ETF,P,TSES,Y,100.0,N,TSES
@@ -6663,6 +6664,7 @@ WEED,Roundhill Cannabis ETF,Roundhill Cannabis ETF,Z,WEED,Y,100.0,N,WEED
 WEEK,Roundhill Weekly T,Roundhill Weekly T-Bill ETF,Z,WEEK,Y,100.0,N,WEEK
 WEEL,Peerless Option Income Wheel ETF,Peerless Option Income Wheel ETF,P,WEEL,Y,100.0,N,WEEL
 WELL,Welltower Inc. Common Stock,Welltower Inc. Common Stock,N,WELL,N,100.0,N,WELL
+WEPN,Nicholas Defense and Rare Earth Income ETF,Nicholas Defense and Rare Earth Income ETF,P,WEPN,Y,100.0,N,WEPN
 WES,"Western Midstream Partners, LP Common Units Representing Limited Partner Interests","Western Midstream Partners, LP Common Units Representing Limited Partner Interests",N,WES,N,100.0,N,WES
 WEX,WEX Inc. common stock,WEX Inc. common stock,N,WEX,N,100.0,N,WEX
 WF,Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock),Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock),N,WF,N,100.0,N,WF
@@ -6679,6 +6681,7 @@ WH,"Wyndham Hotels & Resorts, Inc. Common Stock ","Wyndham Hotels & Resorts, Inc
 WHD,"Cactus, Inc. Class A Common Stock","Cactus, Inc. Class A Common Stock",N,WHD,N,100.0,N,WHD
 WHG,Westwood Holdings Group Inc Common Stock,Westwood Holdings Group Inc Common Stock,N,WHG,N,100.0,N,WHG
 WHR,Whirlpool Corporation Common Stock,Whirlpool Corporation Common Stock,N,WHR,N,100.0,N,WHR
+WHR$A,"Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock","Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock",N,WHRpA,N,100.0,N,WHR-A
 WIA,Western Asset Inflation,Western Asset Inflation-Linked Income Fund,N,WIA,N,100.0,N,WIA
 WINN,Harbor Long,Harbor Long-Term Growers ETF,N,WINN,Y,100.0,N,WINN
 WIP,SPDR FTSE International Government Inflation,SPDR FTSE International Government Inflation-Protected Bond ETF,P,WIP,Y,100.0,N,WIP
