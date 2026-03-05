@@ -1145,6 +1145,7 @@ GJT,Synthetic Fixed
 GKOS,Glaukos Corporation Common Stock
 GL,Globe Life Inc. Common Stock
 GL$D,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061
+GLED.U,"GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share"
 GLOB,Globant S.A. Common Shares
 GLOP$A,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units
 GLOP$B,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units
@@ -1445,6 +1446,7 @@ KB,KB Financial Group Inc
 KBDC,"Kayne Anderson BDC, Inc. Common Stock"
 KBH,KB Home Common Stock
 KBR,"KBR, Inc. Common Stock"
+KCAC.U,"Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one"
 KD,"Kyndryl Holdings, Inc. Common Stock"
 KEN,Kenon Holdings Ltd. Ordinary Shares
 KEP,Korea Electric Power Corporation Common Stock
@@ -2076,6 +2078,7 @@ POR,Portland General Electric Co Common Stock
 POST,"Post Holdings, Inc. Common Stock"
 PPG,"PPG Industries, Inc. Common Stock"
 PPL,PPL Corporation Common Stock
+PPLC,PPL Corporation Corporate Units
 PPT,Putnam Premier Income Trust Common Stock
 PR,Permian Resources Corporation Class A Common Stock
 PRA,ProAssurance Corporation Common Stock
@@ -2154,7 +2157,6 @@ RAMP,"LiveRamp Holdings, Inc. Common Stock"
 RBA,"RB Global, Inc. Common Stock"
 RBC,RBC Bearings Incorporated Common Stock
 RBLX,Roblox Corporation Class A Common Stock
-RBOT,Vicarious Surgical Inc. Class A Common Stock
 RBRK,"Rubrik, Inc. Class A Common Stock"
 RC,Ready Capital Corporation Common Stock
 RC$C,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock

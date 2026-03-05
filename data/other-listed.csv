@@ -2627,6 +2627,7 @@ GLDG,GoldMining Inc. Common Shares,GoldMining Inc. Common Shares,A,GLDG,N,100.0,
 GLDM,SPDR Gold MiniShares Trust,SPDR Gold MiniShares Trust,P,GLDM,Y,100.0,N,GLDM
 GLDN,Nicholas Gold Income ETF,Nicholas Gold Income ETF,P,GLDN,Y,100.0,N,GLDN
 GLDW,Roundhill Gold WeeklyPay ETF,Roundhill Gold WeeklyPay ETF,Z,GLDW,Y,100.0,N,GLDW
+GLED.U,"GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share","GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share",N,GLED.U,N,100.0,N,GLED=
 GLIN,VanEck India Growth Leaders ETF,VanEck India Growth Leaders ETF,P,GLIN,Y,100.0,N,GLIN
 GLIX,Lazard Listed Infrastructure ETF,Lazard Listed Infrastructure ETF,P,GLIX,Y,100.0,N,GLIX
 GLL,ProShares UltraShort Gold,ProShares UltraShort Gold,P,GLL,Y,100.0,N,GLL
@@ -3548,6 +3549,7 @@ KBFR,Innovator U.S. Small Cap Managed 10 Buffer ETF,Innovator U.S. Small Cap Man
 KBH,KB Home Common Stock,KB Home Common Stock,N,KBH,N,100.0,N,KBH
 KBR,"KBR, Inc. Common Stock","KBR, Inc. Common Stock",N,KBR,N,100.0,N,KBR
 KBUF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,P,KBUF,Y,100.0,N,KBUF
+KCAC.U,"Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one","Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant",N,KCAC.U,N,100.0,N,KCAC=
 KCAI,KraneShares China Alpha Index ETF,KraneShares China Alpha Index ETF,P,KCAI,Y,100.0,N,KCAI
 KCCA,KraneShares California Carbon Allowance Strategy ETF,KraneShares California Carbon Allowance Strategy ETF,P,KCCA,Y,100.0,N,KCCA
 KCE,State Street SPDR S&P Capital Markets ETF,State Street SPDR S&P Capital Markets ETF,P,KCE,Y,100.0,N,KCE
@@ -4887,6 +4889,7 @@ PPEM,Putnam PanAgora ESG Emerging Markets Equity ETF,Putnam PanAgora ESG Emergin
 PPG,"PPG Industries, Inc. Common Stock","PPG Industries, Inc. Common Stock",N,PPG,N,100.0,N,PPG
 PPIE,Putnam PanAgora ESG International Equity ETF,Putnam PanAgora ESG International Equity ETF,P,PPIE,Y,100.0,N,PPIE
 PPL,PPL Corporation Common Stock,PPL Corporation Common Stock,N,PPL,N,100.0,N,PPL
+PPLC,PPL Corporation Corporate Units,PPL Corporation Corporate Units,N,PPLC,N,100.0,N,PPLC
 PPLT,abrdn Physical Platinum Shares ETF,abrdn Physical Platinum Shares ETF,P,PPLT,Y,100.0,N,PPLT
 PPT,Putnam Premier Income Trust Common Stock,Putnam Premier Income Trust Common Stock,N,PPT,N,100.0,N,PPT
 PPTY,U.S. Diversified Real Estate ETF,U.S. Diversified Real Estate ETF,P,PPTY,Y,100.0,N,PPTY
@@ -5127,7 +5130,6 @@ RBLD,First Trust Alerian US NextGen Infrastructure ETF,First Trust Alerian US Ne
 RBLU,T,T-REX 2X Long RBLX Daily Target ETF,Z,RBLU,Y,100.0,N,RBLU
 RBLX,Roblox Corporation Class A Common Stock,Roblox Corporation Class A Common Stock,N,RBLX,N,100.0,N,RBLX
 RBLY,YieldMax RBLX Option Income Strategy ETF,YieldMax RBLX Option Income Strategy ETF,P,RBLY,Y,100.0,N,RBLY
-RBOT,Vicarious Surgical Inc. Class A Common Stock,Vicarious Surgical Inc. Class A Common Stock,N,RBOT,N,100.0,N,RBOT
 RBRK,"Rubrik, Inc. Class A Common Stock","Rubrik, Inc. Class A Common Stock",N,RBRK,N,100.0,N,RBRK
 RBUF,Innovator U.S. Small Cap 10 Buffer ETF ,Innovator U.S. Small Cap 10 Buffer ETF - Quarterly,Z,RBUF,Y,100.0,N,RBUF
 RC,Ready Capital Corporation Common Stock,Ready Capital Corporation Common Stock,N,RC,N,100.0,N,RC
@@ -5391,6 +5393,7 @@ SAP,SAP  SE ADS,SAP  SE ADS,N,SAP,N,40.0,N,SAP
 SAPH,SAP SE ADRhedged,SAP SE ADRhedged,P,SAPH,Y,100.0,N,SAPH
 SAR,Saratoga Investment Corp New,Saratoga Investment Corp New,N,SAR,N,100.0,N,SAR
 SARO,"StandardAero, Inc. Common Stock","StandardAero, Inc. Common Stock",N,SARO,N,100.0,N,SARO
+SASS,M.D. Sass Concentrated Value ETF,M.D. Sass Concentrated Value ETF,P,SASS,Y,100.0,N,SASS
 SAT,Saratoga Investment Corp 6.00% Notes due 2027,Saratoga Investment Corp 6.00% Notes due 2027,N,SAT,N,100.0,N,SAT
 SATO,Invesco Alerian Galaxy Crypto Economy ETF,Invesco Alerian Galaxy Crypto Economy ETF,Z,SATO,Y,100.0,N,SATO
 SAUG,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - August,Z,SAUG,Y,100.0,N,SAUG
@@ -6401,6 +6404,7 @@ USFR,WisdomTree Floating Rate Treasury Fund,WisdomTree Floating Rate Treasury Fu
 USG,USCF Gold Strategy Plus Income Fund,USCF Gold Strategy Plus Income Fund,P,USG,Y,100.0,N,USG
 USHY,iShares Broad USD High Yield Corporate Bond ETF,iShares Broad USD High Yield Corporate Bond ETF,Z,USHY,Y,100.0,N,USHY
 USL,United States 12 Month Oil,United States 12 Month Oil,P,USL,Y,100.0,N,USL
+USLN,iShares Broad USD Floating Rate Loan ETF,iShares Broad USD Floating Rate Loan ETF,Z,USLN,Y,100.0,N,USLN
 USMD,CoreValues America First Technology ETF,CoreValues America First Technology ETF,P,USMD,Y,100.0,N,USMD
 USMF,WisdomTree U.S. Multifactor Fund,WisdomTree U.S. Multifactor Fund,Z,USMF,Y,100.0,N,USMF
 USML,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,P,USML,Y,100.0,N,USML
