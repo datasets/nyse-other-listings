@@ -836,6 +836,7 @@ BRBS,"Blue Ridge Bankshares, Inc. Common Stock","Blue Ridge Bankshares, Inc. Com
 BRC,Brady Corporation Common Stock,Brady Corporation Common Stock,N,BRC,N,100.0,N,BRC
 BRCC,BRC Inc. Class A Common Stock,BRC Inc. Class A Common Stock,N,BRCC,N,100.0,N,BRCC
 BRCE,MFS Blended Research Core Equity ETF,MFS Blended Research Core Equity ETF,N,BRCE,Y,100.0,N,BRCE
+BREE,MFS Blended Research Emerging Markets Equity ETF,MFS Blended Research Emerging Markets Equity ETF,N,BREE,Y,100.0,N,BREE
 BRF,VanEck Brazil Small,VanEck Brazil Small-Cap ETF,P,BRF,Y,100.0,N,BRF
 BRIA,BrilliA Inc Class A Ordinary Shares,BrilliA Inc Class A Ordinary Shares,A,BRIA,N,100.0,N,BRIA
 BRIE,MFS Blended Research International Equity ETF,MFS Blended Research International Equity ETF,N,BRIE,Y,100.0,N,BRIE
@@ -2451,9 +2452,8 @@ FTRB,Federated Hermes Total Return Bond ETF,Federated Hermes Total Return Bond E
 FTS,Fortis Inc. Common Shares,Fortis Inc. Common Shares,N,FTS,N,100.0,N,FTS
 FTSD,Franklin Short Duration U.S. Government ETF,Franklin Short Duration U.S. Government ETF,P,FTSD,Y,100.0,N,FTSD
 FTV,Fortive Corporation Common Stock ,Fortive Corporation Common Stock ,N,FTV,N,100.0,N,FTV
-FTW,EQV Ventures Acquisition Corp. Class A Ordinary Shares,EQV Ventures Acquisition Corp. Class A Ordinary Shares,N,FTW,N,100.0,N,FTW
-FTW.U,"EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one","EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,FTW.U,N,100.0,N,FTW=
-FTW.W,"EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,FTW.WS,N,100.0,N,FTW+
+FTW,Presidio Production Company Class A Common Stock,Presidio Production Company Class A Common Stock,N,FTW,N,100.0,N,FTW
+FTW.W,"Presidio Production Company Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","Presidio Production Company Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",N,FTW.WS,N,100.0,N,FTW+
 FTWO,Strive Natural Resources and Security ETF,Strive Natural Resources and Security ETF,N,FTWO,Y,100.0,N,FTWO
 FUBO,FuboTV Inc. Class A Common Stock,FuboTV Inc. Class A Common Stock,N,FUBO,N,100.0,N,FUBO
 FUL,H. B. Fuller Company Common Stock,H. B. Fuller Company Common Stock,N,FUL,N,100.0,N,FUL
@@ -2493,7 +2493,7 @@ GAB,"Gabelli Equity Trust, Inc. (The) Common Stock","Gabelli Equity Trust, Inc. 
 GAB$G,"Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock","Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock",N,GABpG,N,100.0,N,GAB-G
 GAB$H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H","Gabelli Equity Trust, Inc. (The) Pfd Ser H",N,GABpH,N,100.0,N,GAB-H
 GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock","Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock",N,GABpK,N,100.0,N,GAB-K
-GAB.V,"Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued","Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued",N,GABrw,N,100.0,N,GAB^#
+GAB.R,"Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights","Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights",N,GABr,N,100.0,N,GAB^
 GABF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,P,GABF,Y,100.0,N,GABF
 GAEM,Simplify Gamma Emerging Market Bond ETF,Simplify Gamma Emerging Market Bond ETF,P,GAEM,Y,100.0,N,GAEM
 GAID,Guinness Atkinson International Dividend Builder ETF,Guinness Atkinson International Dividend Builder ETF,P,GAID,Y,100.0,N,GAID
@@ -3883,6 +3883,7 @@ MAPP,Harbor Multi,Harbor Multi-Asset Explorer ETF,P,MAPP,Y,100.0,N,MAPP
 MARB,First Trust Merger Arbitrage ETF,First Trust Merger Arbitrage ETF,P,MARB,Y,100.0,N,MARB
 MARM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - March,Z,MARM,Y,100.0,N,MARM
 MARO,YieldMax MARA Option Income Strategy ETF,YieldMax MARA Option Income Strategy ETF,P,MARO,Y,100.0,N,MARO
+MARS,Roundhill Space & Technology ETF,Roundhill Space & Technology ETF,Z,MARS,Y,100.0,N,MARS
 MART,AllianzIM U.S. Large Cap Buffer10 Mar ETF,AllianzIM U.S. Large Cap Buffer10 Mar ETF,Z,MART,Y,100.0,N,MART
 MARU,AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF,AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF,Z,MARU,Y,100.0,N,MARU
 MARW,AllianzIM U.S. Large Cap Buffer20 Mar ETF,AllianzIM U.S. Large Cap Buffer20 Mar ETF,Z,MARW,Y,100.0,N,MARW
@@ -4276,6 +4277,7 @@ NEE$N,"NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1,
 NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units","NextEra Energy, Inc. 7.299% Corporate Units",N,NEEpS,N,100.0,N,NEE-S
 NEE$T,"NextEra Energy, Inc. 7.234% Corporate Units","NextEra Energy, Inc. 7.234% Corporate Units",N,NEEpT,N,100.0,N,NEE-T
 NEE$U,"NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085","NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085",N,NEEpU,N,100.0,N,NEE-U
+NEE$V,"NextEra Energy, Inc. 7.375% Corporate Units","NextEra Energy, Inc. 7.375% Corporate Units",N,NEEpV,N,100.0,N,NEE-V
 NEHI,NEOS Ethereum High Income ETF,NEOS Ethereum High Income ETF,Z,NEHI,Y,100.0,N,NEHI
 NELS,Nelson Select ETF,Nelson Select ETF,Z,NELS,Y,100.0,N,NELS
 NEM,Newmont Corporation,Newmont Corporation,N,NEM,N,100.0,N,NEM
@@ -4977,7 +4979,7 @@ PSQH.W,"PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A c
 PSQO,Palmer Square Credit Opportunities ETF,Palmer Square Credit Opportunities ETF,P,PSQO,Y,100.0,N,PSQO
 PSR,Invesco Active U.S. Real Estate Fund,Invesco Active U.S. Real Estate Fund,P,PSR,Y,100.0,N,PSR
 PST,ProShares UltraShort Lehman 7,ProShares UltraShort Lehman 7-10 Year Treasury,P,PST,Y,100.0,N,PST
-PSTG,"Pure Storage, Inc. Class A Common Stock","Pure Storage, Inc. Class A Common Stock",N,PSTG,N,100.0,N,PSTG
+PSTG,"Everpure, Inc. Class A common stock","Everpure, Inc. Class A common stock",N,PSTG,N,100.0,N,PSTG
 PSTL,"Postal Realty Trust, Inc. Class A Common Stock","Postal Realty Trust, Inc. Class A Common Stock",N,PSTL,N,100.0,N,PSTL
 PSTP,Innovator Power Buffer Step,Innovator Power Buffer Step-Up Strategy ETF,P,PSTP,Y,100.0,N,PSTP
 PSX,Phillips 66 Common Stock,Phillips 66 Common Stock,N,PSX,N,100.0,N,PSX

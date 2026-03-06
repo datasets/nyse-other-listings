@@ -440,6 +440,7 @@ BRBR,"BellRing Brands, Inc. Common Stock "
 BRC,Brady Corporation Common Stock
 BRCC,BRC Inc. Class A Common Stock
 BRCE,MFS Blended Research Core Equity ETF
+BREE,MFS Blended Research Emerging Markets Equity ETF
 BRIE,MFS Blended Research International Equity ETF
 BRK.A,Berkshire Hathaway Inc. Common Stock
 BRK.B,Berkshire Hathaway Inc. New Common Stock
@@ -1071,9 +1072,8 @@ FTI,TechnipFMC plc Ordinary Share
 FTK,"Flotek Industries, Inc. Common Stock"
 FTS,Fortis Inc. Common Shares
 FTV,Fortive Corporation Common Stock 
-FTW,EQV Ventures Acquisition Corp. Class A Ordinary Shares
-FTW.U,"EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one"
-FTW.W,"EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
+FTW,Presidio Production Company Class A Common Stock
+FTW.W,"Presidio Production Company Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share"
 FTWO,Strive Natural Resources and Security ETF
 FUBO,FuboTV Inc. Class A Common Stock
 FUL,H. B. Fuller Company Common Stock
@@ -1086,7 +1086,7 @@ GAB,"Gabelli Equity Trust, Inc. (The) Common Stock"
 GAB$G,"Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock"
 GAB$H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H"
 GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock"
-GAB.V,"Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued"
+GAB.R,"Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights"
 GAM,"General American Investors, Inc. Common Stock"
 GAM$B,"General American Investors Company, Inc. Cumulative Preferred Stock"
 GAP,"Gap, Inc. (The) Common Stock"
@@ -1788,6 +1788,7 @@ NEE$N,"NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1,
 NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units"
 NEE$T,"NextEra Energy, Inc. 7.234% Corporate Units"
 NEE$U,"NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085"
+NEE$V,"NextEra Energy, Inc. 7.375% Corporate Units"
 NEM,Newmont Corporation
 NET,"Cloudflare, Inc. Class A Common Stock"
 NEU,NewMarket Corp Common Stock
@@ -2124,7 +2125,7 @@ PSN,Parsons Corporation Common Stock
 PSO,"Pearson, Plc Common Stock"
 PSQH,"PSQ Holdings, Inc. Class A Common Stock"
 PSQH.W,"PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share"
-PSTG,"Pure Storage, Inc. Class A Common Stock"
+PSTG,"Everpure, Inc. Class A common stock"
 PSTL,"Postal Realty Trust, Inc. Class A Common Stock"
 PSX,Phillips 66 Common Stock
 PTA,Cohen & Steers Tax
