@@ -908,6 +908,7 @@ BUFX,FT Vest Laddered Enhance & Moderate Buffer ETF,FT Vest Laddered Enhance & M
 BUFY,FT Vest Laddered International Moderate Buffer ETF,FT Vest Laddered International Moderate Buffer ETF,Z,BUFY,Y,100.0,N,BUFY
 BUFZ,FT Vest Laddered Moderate Buffer ETF,FT Vest Laddered Moderate Buffer ETF,Z,BUFZ,Y,100.0,N,BUFZ
 BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust","BlackRock Utility, Infrastructure & Power Opportunities Trust",N,BUI,N,100.0,N,BUI
+BUI.V,"BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights when issued","BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights when issued",N,BUIrw,N,100.0,N,BUI^#
 BUL,Pacer US Cash Cows Growth ETF,Pacer US Cash Cows Growth ETF,P,BUL,Y,100.0,N,BUL
 BULU,T,T-REX 2X Long BULL Daily Target ETF,Z,BULU,Y,100.0,N,BULU
 BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,MicroSectors FANG & Innovation 3x Leveraged ETN,P,BULZ,Y,100.0,N,BULZ
@@ -1370,7 +1371,6 @@ CUBB,"Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034","Customers Banc
 CUBE,CubeSmart Common Shares,CubeSmart Common Shares,N,CUBE,N,100.0,N,CUBE
 CUBI,"Customers Bancorp, Inc Common Stock","Customers Bancorp, Inc Common Stock",N,CUBI,N,100.0,N,CUBI
 CUK,Carnival Plc ADS ADS,Carnival Plc ADS ADS,N,CUK,N,100.0,N,CUK
-CULP,"Culp, Inc. Common Stock","Culp, Inc. Common Stock",N,CULP,N,100.0,N,CULP
 CURB,Curbline Properties Corp. Common Stock,Curbline Properties Corp. Common Stock,N,CURB,N,100.0,N,CURB
 CURE,Direxion Daily Healthcare Bull 3X Shares,Direxion Daily Healthcare Bull 3X Shares,P,CURE,Y,100.0,N,CURE
 CURV,Torrid Holdings Inc. Common Stock,Torrid Holdings Inc. Common Stock,N,CURV,N,100.0,N,CURV
@@ -5334,6 +5334,7 @@ RTRE,Rareview Total Return Bond ETF,Rareview Total Return Bond ETF,Z,RTRE,Y,100.
 RTX,RTX Corporation Common Stock,RTX Corporation Common Stock,N,RTX,N,100.0,N,RTX
 RULE,Adaptive Core ETF,Adaptive Core ETF,Z,RULE,Y,100.0,N,RULE
 RVER,Trenchless Fund ETF,Trenchless Fund ETF,P,RVER,Y,100.0,N,RVER
+RVI,Robinhood Ventures Fund I Common Shares of Beneficial Interest,Robinhood Ventures Fund I Common Shares of Beneficial Interest,N,RVI,N,100.0,N,RVI
 RVLV,"Revolve Group, Inc. Class A Common Stock","Revolve Group, Inc. Class A Common Stock",N,RVLV,N,100.0,N,RVLV
 RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,Xtrackers Municipal Infrastructure Revenue Bond ETF,P,RVNU,Y,100.0,N,RVNU
 RVP,"Retractable Technologies, Inc. Common Stock","Retractable Technologies, Inc. Common Stock",A,RVP,N,100.0,N,RVP
