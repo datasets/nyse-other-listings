@@ -130,8 +130,6 @@ ALTG$A,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th i
 ALUB,Alussa Energy Acquisition Corp. II Class A Ordinary Shares
 ALUB.U,"Alussa Energy Acquisition Corp. II Units, each consisting of one Class A ordinary share and one"
 ALUB.W,"Alussa Energy Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
-ALUR,"Allurion Technologies, Inc. Common Stock"
-ALUR.W,"Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock"
 ALV,"Autoliv, Inc. Common Stock"
 ALX,"Alexander's, Inc. Common Stock"
 AM,Antero Midstream Corporation Common Stock
@@ -1437,7 +1435,6 @@ JPM$L,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th inte
 JPM$M,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.20% Non"
 JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest
 JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest
-JRI.R,"Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights"
 JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest
 JXN,Jackson Financial Inc. Class A Common Stock 
 JXN$A,"Jackson Financial Inc. Depositary Shares, each representing a 1/1,000th interest in a share of Fixed"
@@ -2842,6 +2839,8 @@ WTTR,"Select Water Solutions, Inc. Class A common stock"
 WU,Western Union Company (The) Common Stock
 WWW,"Wolverine World Wide, Inc. Common Stock"
 WY,Weyerhaeuser Company Common Stock
+XFLH,XFLH Capital Corporation Ordinary Shares
+XFLH.R,XFLH Capital Corporation Rights to receive one
 XFLH.U,"XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right"
 XFLT,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest
 XHR,"Xenia Hotels & Resorts, Inc. Common Stock"
