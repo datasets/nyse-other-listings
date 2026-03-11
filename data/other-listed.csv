@@ -1761,7 +1761,6 @@ EARN,Ellington Credit Company Common Shares of Beneficial Interest,Ellington Cre
 EASG,Xtrackers MSCI EAFE Selection Equity ETF,Xtrackers MSCI EAFE Selection Equity ETF,P,EASG,Y,100.0,N,EASG
 EAT,"Brinker International, Inc. Common Stock","Brinker International, Inc. Common Stock",N,EAT,N,100.0,N,EAT
 EATZ,AdvisorShares Restaurant ETF,AdvisorShares Restaurant ETF,P,EATZ,Y,100.0,N,EATZ
-EB,"Eventbrite, Inc. Class A Common Stock","Eventbrite, Inc. Class A Common Stock",N,EB,N,100.0,N,EB
 EBF,"Ennis, Inc. Common Stock","Ennis, Inc. Common Stock",N,EBF,N,100.0,N,EBF
 EBIT,Harbor AlphaEdge Small Cap Earners ETF,Harbor AlphaEdge Small Cap Earners ETF,P,EBIT,Y,100.0,N,EBIT
 EBND,SPDR Bloomberg Emerging Markets Local Bond ETF,SPDR Bloomberg Emerging Markets Local Bond ETF,P,EBND,Y,100.0,N,EBND
@@ -6697,6 +6696,7 @@ WIW,Western Asset Inflation,Western Asset Inflation-Linked Opportunities & Incom
 WK,Workiva Inc. Class A Common Stock,Workiva Inc. Class A Common Stock,N,WK,N,100.0,N,WK
 WKC,World Kinect Corporation Common Stock,World Kinect Corporation Common Stock,N,WKC,N,100.0,N,WKC
 WLDR,Affinity World Leaders Equity ETF,Affinity World Leaders Equity ETF,Z,WLDR,Y,100.0,N,WLDR
+WLDU,Leverage Shares 2x Long World Stock Daily ETF,Leverage Shares 2x Long World Stock Daily ETF,Z,WLDU,Y,100.0,N,WLDU
 WLK,Westlake Corporation Common Stock,Westlake Corporation Common Stock,N,WLK,N,100.0,N,WLK
 WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests,Westlake Chemical Partners LP Common Units representing limited partner interests,N,WLKP,N,100.0,N,WLKP
 WLTG,WealthTrust DBS Long Term Growth ETF,WealthTrust DBS Long Term Growth ETF,N,WLTG,Y,100.0,N,WLTG
@@ -6956,6 +6956,7 @@ YUM,"Yum! Brands, Inc.","Yum! Brands, Inc.",N,YUM,N,100.0,N,YUM
 YUMC,"Yum China Holdings, Inc. Common Stock","Yum China Holdings, Inc. Common Stock",N,YUMC,N,100.0,N,YUMC
 YXI,ProShares Short FTSE China 50,ProShares Short FTSE China 50,P,YXI,Y,100.0,N,YXI
 YYY,Amplify CEF High Income ETF,Amplify CEF High Income ETF,P,YYY,Y,100.0,N,YYY
+YYYM,Amplify Municipal CEF High Income ETF,Amplify Municipal CEF High Income ETF,P,YYYM,Y,100.0,N,YYYM
 ZALT,Innovator U.S. Equity 10 Buffer ETF ,Innovator U.S. Equity 10 Buffer ETF - Quarterly,Z,ZALT,Y,100.0,N,ZALT
 ZAPR,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr April,Z,ZAPR,Y,100.0,N,ZAPR
 ZAUG,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr August,Z,ZAUG,Y,100.0,N,ZAUG
