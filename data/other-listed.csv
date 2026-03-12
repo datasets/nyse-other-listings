@@ -2948,6 +2948,7 @@ HSBC,"HSBC Holdings, plc. Common Stock","HSBC Holdings, plc. Common Stock",N,HSB
 HSBH,HSBC Holdings plc ADRhedged,HSBC Holdings plc ADRhedged,P,HSBH,Y,100.0,N,HSBH
 HSCZ,iShares Currency Hedged MSCI EAFE Small,iShares Currency Hedged MSCI EAFE Small-Cap ETF,P,HSCZ,Y,100.0,N,HSCZ
 HSHP,Himalaya Shipping Ltd. Common Shares,Himalaya Shipping Ltd. Common Shares,N,HSHP,N,100.0,N,HSHP
+HSLV,Highlander Silver Corp. Common Shares,Highlander Silver Corp. Common Shares,A,HSLV,N,100.0,N,HSLV
 HSMV,First Trust Horizon Managed Volatility Small/Mid ETF,First Trust Horizon Managed Volatility Small/Mid ETF,P,HSMV,Y,100.0,N,HSMV
 HSY,The Hershey Company Common Stock,The Hershey Company Common Stock,N,HSY,N,100.0,N,HSY
 HTAB,Hartford Schroders Tax,Hartford Schroders Tax-Aware Bond ETF,P,HTAB,Y,100.0,N,HTAB
@@ -4378,6 +4379,7 @@ NP,Neptune Insurance Holdings Inc. Class A Common Stock,Neptune Insurance Holdin
 NPB,"Northpointe Bancshares, Inc. Common Stock","Northpointe Bancshares, Inc. Common Stock",N,NPB,N,100.0,N,NPB
 NPCT,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,N,NPCT,N,100.0,N,NPCT
 NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares,Nuveen Variable Rate Preferred & Income Fund Common Shares,N,NPFD,N,100.0,N,NPFD
+NPFE,NPF Core Equity ETF,NPF Core Equity ETF,Z,NPFE,Y,100.0,N,NPFE
 NPK,"National Presto Industries, Inc. Common Stock","National Presto Industries, Inc. Common Stock",N,NPK,N,100.0,N,NPK
 NPKI,NPK International Inc. Common Stock,NPK International Inc. Common Stock,N,NPKI,N,100.0,N,NPKI
 NPO,Enpro Inc. Common Stock,Enpro Inc. Common Stock,N,NPO,N,100.0,N,NPO
@@ -4898,6 +4900,7 @@ PQNT,Pictet AI Enhanced International Equity ETF,Pictet AI Enhanced Internationa
 PQUS,Pictet AI Enhanced US Equity ETF,Pictet AI Enhanced US Equity ETF,P,PQUS,Y,100.0,N,PQUS
 PR,Permian Resources Corporation Class A Common Stock,Permian Resources Corporation Class A Common Stock,N,PR,N,100.0,N,PR
 PRA,ProAssurance Corporation Common Stock,ProAssurance Corporation Common Stock,N,PRA,N,100.0,N,PRA
+PRAB,State Street IG Public & Private ABS ETF,State Street IG Public & Private ABS ETF,P,PRAB,Y,100.0,N,PRAB
 PRAE,PlanRock Alternative Growth ETF,PlanRock Alternative Growth ETF,P,PRAE,Y,100.0,N,PRAE
 PRAY,FIS Christian Stock Fund,FIS Christian Stock Fund,P,PRAY,Y,100.0,N,PRAY
 PRCS,Parnassus Core Select ETF,Parnassus Core Select ETF,N,PRCS,Y,100.0,N,PRCS
@@ -6293,7 +6296,7 @@ UAA,"Under Armour, Inc. Class A Common Stock","Under Armour, Inc. Class A Common
 UAC,United Acquisition Corp. I Class A Ordinary Shares,United Acquisition Corp. I Class A Ordinary Shares,A,UAC,N,100.0,N,UAC
 UAC.U,"United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one","United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",A,UAC.U,N,100.0,N,UAC=
 UAC.W,"United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",A,UAC.WS,N,100.0,N,UAC+
-UAMY,United States Antimony Corporation Common Stock,United States Antimony Corporation Common Stock,A,UAMY,N,100.0,N,UAMY
+UAMY,United States Antimony Corporation Common Stock,United States Antimony Corporation Common Stock,N,UAMY,N,100.0,N,UAMY
 UAN,"CVR Partners, LP Common Units representing Limited Partner Interests","CVR Partners, LP Common Units representing Limited Partner Interests",N,UAN,N,100.0,N,UAN
 UAPR,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - April,Z,UAPR,Y,100.0,N,UAPR
 UAUG,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - August,Z,UAUG,Y,100.0,N,UAUG
