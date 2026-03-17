@@ -759,7 +759,6 @@ BLOK,Amplify Blockchain Technology ETF,Amplify Blockchain Technology ETF,P,BLOK,
 BLOX,Nicholas Crypto Income ETF,Nicholas Crypto Income ETF,P,BLOX,Y,100.0,N,BLOX
 BLSH,Bullish Ordinary Shares,Bullish Ordinary Shares,N,BLSH,N,100.0,N,BLSH
 BLST,Bluemonte Short Term Bond ETF,Bluemonte Short Term Bond ETF,P,BLST,Y,100.0,N,BLST
-BLSX,Tradr 2X Long BLSH Daily ETF,Tradr 2X Long BLSH Daily ETF,Z,BLSX,Y,100.0,N,BLSX
 BLTD,Bluemonte Long Term Bond ETF,Bluemonte Long Term Bond ETF,P,BLTD,Y,100.0,N,BLTD
 BLUC,Bluemonte Large Cap Core ETF,Bluemonte Large Cap Core ETF,P,BLUC,Y,100.0,N,BLUC
 BLUI,Bluemonte Diversified Income ETF,Bluemonte Diversified Income ETF,P,BLUI,Y,100.0,N,BLUI
@@ -906,7 +905,7 @@ BUFX,FT Vest Laddered Enhance & Moderate Buffer ETF,FT Vest Laddered Enhance & M
 BUFY,FT Vest Laddered International Moderate Buffer ETF,FT Vest Laddered International Moderate Buffer ETF,Z,BUFY,Y,100.0,N,BUFY
 BUFZ,FT Vest Laddered Moderate Buffer ETF,FT Vest Laddered Moderate Buffer ETF,Z,BUFZ,Y,100.0,N,BUFZ
 BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust","BlackRock Utility, Infrastructure & Power Opportunities Trust",N,BUI,N,100.0,N,BUI
-BUI.V,"BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights when issued","BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights when issued",N,BUIrw,N,100.0,N,BUI^#
+BUI.R,"BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights","BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights",N,BUIr,N,100.0,N,BUI^
 BUL,Pacer US Cash Cows Growth ETF,Pacer US Cash Cows Growth ETF,P,BUL,Y,100.0,N,BUL
 BULU,T,T-REX 2X Long BULL Daily Target ETF,Z,BULU,Y,100.0,N,BULU
 BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,MicroSectors FANG & Innovation 3x Leveraged ETN,P,BULZ,Y,100.0,N,BULZ
@@ -1047,7 +1046,6 @@ CEFS,Saba Closed,Saba Closed-End Funds ETF,Z,CEFS,Y,100.0,N,CEFS
 CEFZ,RiverNorth Active Income ETF,RiverNorth Active Income ETF,Z,CEFZ,Y,100.0,N,CEFZ
 CEGX,Tradr 2X Long CEG Daily ETF,Tradr 2X Long CEG Daily ETF,Z,CEGX,Y,100.0,N,CEGX
 CELG.R,Bristol,Bristol-Myers Squibb Company Celegne Contingent Value Rights,N,CELGr,N,100.0,N,CELG^
-CELT,Tradr 2X Long CELH Daily ETF,Tradr 2X Long CELH Daily ETF,Z,CELT,Y,100.0,N,CELT
 CEMB,iShares J.P. Morgan EM Corporate Bond ETF,iShares J.P. Morgan EM Corporate Bond ETF,Z,CEMB,Y,100.0,N,CEMB
 CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),N,CEPU,N,100.0,N,CEPU
 CERY,State Street SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K,State Street SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF,P,CERY,Y,100.0,N,CERY
@@ -1325,6 +1323,7 @@ CRS,Carpenter Technology Corporation Common Stock,Carpenter Technology Corporati
 CRSH,YieldMax Short TSLA Option Income Strategy ETF,YieldMax Short TSLA Option Income Strategy ETF,P,CRSH,Y,100.0,N,CRSH
 CRT,Cross Timbers Royalty Trust Common Stock,Cross Timbers Royalty Trust Common Stock,N,CRT,N,100.0,N,CRT
 CRTC,Xtrackers US National Critical Technologies ETF,Xtrackers US National Critical Technologies ETF,P,CRTC,Y,100.0,N,CRTC
+CRUX,Columbia Core Bond ETF,Columbia Core Bond ETF,P,CRUX,Y,100.0,N,CRUX
 CRWU,T,T-REX 2X Long CRWV Daily Target ETF,Z,CRWU,Y,100.0,N,CRWU
 CRXP,Columbia Core Plus Bond ETF,Columbia Core Plus Bond ETF,P,CRXP,Y,100.0,N,CRXP
 CSAN,Cosan S.A. ADS,Cosan S.A. ADS,N,CSAN,N,100.0,N,CSAN
@@ -1429,7 +1428,6 @@ DAO,"Youdao, Inc. American Depositary Shares, each representing one Class A Ordi
 DAPR,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - April,Z,DAPR,Y,100.0,N,DAPR
 DAR,Darling Ingredients Inc. Common Stock,Darling Ingredients Inc. Common Stock,N,DAR,N,100.0,N,DAR
 DARP,Grizzle Growth ETF,Grizzle Growth ETF,P,DARP,Y,100.0,N,DARP
-DASX,Tradr 2X Long DASH Daily ETF,Tradr 2X Long DASH Daily ETF,Z,DASX,Y,100.0,N,DASX
 DAT,ProShares Big Data Refiners ETF,ProShares Big Data Refiners ETF,P,DAT,Y,100.0,N,DAT
 DAUG,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - August,Z,DAUG,Y,100.0,N,DAUG
 DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share),Endava plc American Depositary Shares (each representing one Class A Ordinary Share),N,DAVA,N,100.0,N,DAVA
@@ -3562,7 +3560,6 @@ KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,KraneShares Emer
 KEMX,KraneShares MSCI Emerging Markets ex China Index ETF,KraneShares MSCI Emerging Markets ex China Index ETF,P,KEMX,Y,100.0,N,KEMX
 KEN,Kenon Holdings Ltd. Ordinary Shares,Kenon Holdings Ltd. Ordinary Shares,N,KEN,N,100.0,N,KEN
 KEP,Korea Electric Power Corporation Common Stock,Korea Electric Power Corporation Common Stock,N,KEP,N,100.0,N,KEP
-KEUA,KraneShares European Carbon Allowance Strategy ETF,KraneShares European Carbon Allowance Strategy ETF,P,KEUA,Y,100.0,N,KEUA
 KEX,Kirby Corporation Common Stock,Kirby Corporation Common Stock,N,KEX,N,100.0,N,KEX
 KEY,KeyCorp Common Stock,KeyCorp Common Stock,N,KEY,N,100.0,N,KEY
 KEY$I,KeyCorp Depositary Shares Each Representing a 1/40th Ownership Interest in a Share of Fixed,"KeyCorp Depositary Shares Each Representing a 1/40th Ownership Interest in a Share of Fixed-to-Floating Rate Perpetual Non-Cumulative Preferred Stock, Series E",N,KEYpI,N,100.0,N,KEY-I
@@ -3599,7 +3596,6 @@ KLC,"KinderCare Learning Companies, Inc. Common Stock","KinderCare Learning Comp
 KLIP,KraneShares KWEB Covered Call Strategy ETF,KraneShares KWEB Covered Call Strategy ETF,P,KLIP,Y,100.0,N,KLIP
 KLMN,Invesco MSCI North America Climate ETF,Invesco MSCI North America Climate ETF,P,KLMN,Y,100.0,N,KLMN
 KLMT,Invesco MSCI Global Climate 500 ETF,Invesco MSCI Global Climate 500 ETF,P,KLMT,Y,100.0,N,KLMT
-KLXY,KraneShares Global Luxury Index ETF,KraneShares Global Luxury Index ETF,P,KLXY,Y,100.0,N,KLXY
 KMAR,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - March,Z,KMAR,Y,100.0,N,KMAR
 KMAY,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - May,Z,KMAY,Y,100.0,N,KMAY
 KMI,"Kinder Morgan, Inc. Common Stock","Kinder Morgan, Inc. Common Stock",N,KMI,N,100.0,N,KMI
@@ -3700,7 +3696,6 @@ LC,LendingClub Corporation Common Stock,LendingClub Corporation Common Stock,N,L
 LCAP,Principal Capital Appreciation Select ETF,Principal Capital Appreciation Select ETF,Z,LCAP,Y,100.0,N,LCAP
 LCF,Touchstone US Large Cap Focused ETF,Touchstone US Large Cap Focused ETF,Z,LCF,Y,100.0,N,LCF
 LCII,LCI Industries,LCI Industries,N,LCII,N,100.0,N,LCII
-LCIZ,Tradr 2X Short LCID Daily ETF,Tradr 2X Short LCID Daily ETF,Z,LCIZ,Y,100.0,N,LCIZ
 LCLG,Logan Capital Broad Innovative Growth ETF,Logan Capital Broad Innovative Growth ETF,P,LCLG,Y,100.0,N,LCLG
 LCO,LOGIQ Contrarian Opportunities ETF,LOGIQ Contrarian Opportunities ETF,P,LCO,Y,100.0,N,LCO
 LCOW,Pacer S&P 500 Quality FCF Aristocrats ETF,Pacer S&P 500 Quality FCF Aristocrats ETF,Z,LCOW,Y,100.0,N,LCOW
@@ -3720,7 +3715,9 @@ LDUR,PIMCO Enhanced Low Duration Active Exchange,PIMCO Enhanced Low Duration Act
 LEA,Lear Corporation Common Stock,Lear Corporation Common Stock,N,LEA,N,100.0,N,LEA
 LEAD,Siren DIVCON Leaders Dividend ETF,Siren DIVCON Leaders Dividend ETF,Z,LEAD,Y,100.0,N,LEAD
 LEG,"Leggett & Platt, Incorporated Common Stock","Leggett & Platt, Incorporated Common Stock",N,LEG,N,100.0,N,LEG
+LEGO,Legato Merger Corp. IV Ordinary Shares,Legato Merger Corp. IV Ordinary Shares,A,LEGO,N,100.0,N,LEGO
 LEGO.U,"Legato Merger Corp. IV Units, each consisting of one ordinary share and one","Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",A,LEGO.U,N,100.0,N,LEGO=
+LEGO.W,"Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share","Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share",A,LEGO.WS,N,100.0,N,LEGO+
 LEGT,Legato Merger Corp. III Ordinary Shares,Legato Merger Corp. III Ordinary Shares,A,LEGT,N,100.0,N,LEGT
 LEGT.U,"Legato Merger Corp. III Units, each consisting of one Ordinary Share and one","Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",A,LEGT.U,N,100.0,N,LEGT=
 LEGT.W,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share","Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",A,LEGT.WS,N,100.0,N,LEGT+
@@ -5168,6 +5165,7 @@ REED,"Reed's, Inc. Common Stock","Reed's, Inc. Common Stock",A,REED,N,100.0,N,RE
 REET,iShares Global REIT ETF,iShares Global REIT ETF,P,REET,Y,100.0,N,REET
 REFA,Columbia Research Enhanced International Equity ETF,Columbia Research Enhanced International Equity ETF,P,REFA,Y,100.0,N,REFA
 REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,ProShares S&P MidCap 400 Dividend Aristocrats ETF,Z,REGL,Y,100.0,N,REGL
+REGS,Columbia Large Cap Growth ETF,Columbia Large Cap Growth ETF,P,REGS,Y,100.0,N,REGS
 REI,"Ring Energy, Inc. Common Stock","Ring Energy, Inc. Common Stock",A,REI,N,100.0,N,REI
 REK,ProShares Short Real Estate,ProShares Short Real Estate,P,REK,Y,100.0,N,REK
 REKT,Direxion Daily Crypto Industry Bear 1X ETF,Direxion Daily Crypto Industry Bear 1X ETF,P,REKT,Y,100.0,N,REKT
