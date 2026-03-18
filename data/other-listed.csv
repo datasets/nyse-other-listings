@@ -154,6 +154,7 @@ AHT$H,Ashford Hospitality Trust Inc 7.50% Series H Cumulative Preferred Stock,As
 AHT$I,Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock,Ashford Hospitality Trust Inc 7.50% Series I Cumulative Preferred Stock,N,AHTpI,N,100.0,N,AHT-I
 AHYB,American Century Select High Yield ETF,American Century Select High Yield ETF,P,AHYB,Y,100.0,N,AHYB
 AI,"C3.ai, Inc. Class A Common Stock","C3.ai, Inc. Class A Common Stock",N,AI,N,100.0,N,AI
+AIB,"BlockchAIn Digital Infrastructure, Inc Common Shares","BlockchAIn Digital Infrastructure, Inc Common Shares",A,AIB,N,100.0,N,AIB
 AIBD,Direxion Daily AI and Big Data Bear 2X ETF,Direxion Daily AI and Big Data Bear 2X ETF,P,AIBD,Y,100.0,N,AIBD
 AIBU,Direxion Daily AI and Big Data Bull 2X ETF,Direxion Daily AI and Big Data Bull 2X ETF,P,AIBU,Y,100.0,N,AIBU
 AIEQ,Amplify AI Powered Equity ETF,Amplify AI Powered Equity ETF,P,AIEQ,Y,100.0,N,AIEQ
@@ -338,7 +339,6 @@ ARLU,AllianzIM U.S. Equity Buffer15 Uncapped Apr ETF,AllianzIM U.S. Equity Buffe
 ARMH,Arm Holdings PLC ADRhedged,Arm Holdings PLC ADRhedged,P,ARMH,Y,100.0,N,ARMH
 ARMK,Aramark Common Stock,Aramark Common Stock,N,ARMK,N,100.0,N,ARMK
 ARMP,"Armata Pharmaceuticals, Inc. Common Stock","Armata Pharmaceuticals, Inc. Common Stock",A,ARMP,N,100.0,N,ARMP
-ARMU,T,T-REX 2X Long ARM Daily Target ETF,Z,ARMU,Y,100.0,N,ARMU
 ARMW,Roundhill ARM WeeklyPay ETF,Roundhill ARM WeeklyPay ETF,Z,ARMW,Y,100.0,N,ARMW
 AROC,"Archrock, Inc. Common Stock","Archrock, Inc. Common Stock",N,AROC,N,100.0,N,AROC
 ARP,PMV Adaptive Risk Parity ETF,PMV Adaptive Risk Parity ETF,P,ARP,Y,100.0,N,ARP
@@ -467,7 +467,6 @@ AXR,AMREP Corporation Common Stock,AMREP Corporation Common Stock,N,AXR,N,100.0,
 AXS,Axis Capital Holdings Limited Common Stock,Axis Capital Holdings Limited Common Stock,N,AXS,N,100.0,N,AXS
 AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares","Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",N,AXSpE,N,100.0,N,AXS-E
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
-AXUP,T,T-REX 2X Long AXON Daily Target ETF,Z,AXUP,Y,100.0,N,AXUP
 AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,40.0,N,AYI
 AZN,AstraZeneca PLC Ordinary Shares,AstraZeneca PLC Ordinary Shares,N,AZN,N,100.0,N,AZN
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,10.0,N,AZO
@@ -736,7 +735,6 @@ BKKT.W,"Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant enti
 BKLC,BNY Mellon US Large Cap Core Equity ETF,BNY Mellon US Large Cap Core Equity ETF,P,BKLC,Y,100.0,N,BKLC
 BKLN,Invesco Senior Loan ETF,Invesco Senior Loan ETF,P,BKLN,Y,100.0,N,BKLN
 BKMC,BNY Mellon US Mid Cap Core Equity ETF,BNY Mellon US Mid Cap Core Equity ETF,P,BKMC,Y,100.0,N,BKMC
-BKNU,T,T-REX 2X Long BKNG Daily Target ETF,Z,BKNU,Y,100.0,N,BKNU
 BKSE,BNY Mellon US Small Cap Core Equity ETF,BNY Mellon US Small Cap Core Equity ETF,P,BKSE,Y,100.0,N,BKSE
 BKSY,BlackSky Technology Inc. Class A Common Stock,BlackSky Technology Inc. Class A Common Stock,N,BKSY,N,100.0,N,BKSY
 BKSY.W,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock","BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",N,BKSY.WS,N,100.0,N,BKSY+
@@ -907,7 +905,6 @@ BUFZ,FT Vest Laddered Moderate Buffer ETF,FT Vest Laddered Moderate Buffer ETF,Z
 BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust","BlackRock Utility, Infrastructure & Power Opportunities Trust",N,BUI,N,100.0,N,BUI
 BUI.R,"BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights","BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights",N,BUIr,N,100.0,N,BUI^
 BUL,Pacer US Cash Cows Growth ETF,Pacer US Cash Cows Growth ETF,P,BUL,Y,100.0,N,BUL
-BULU,T,T-REX 2X Long BULL Daily Target ETF,Z,BULU,Y,100.0,N,BULU
 BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,MicroSectors FANG & Innovation 3x Leveraged ETN,P,BULZ,Y,100.0,N,BULZ
 BUR,Burford Capital Limited Ordinary Shares,Burford Capital Limited Ordinary Shares,N,BUR,N,100.0,N,BUR
 BURL,"Burlington Stores, Inc. Common Stock","Burlington Stores, Inc. Common Stock",N,BURL,N,40.0,N,BURL
@@ -1614,7 +1611,6 @@ DJUN,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - 
 DK,"Delek US Holdings, Inc. Common Stock","Delek US Holdings, Inc. Common Stock",N,DK,N,100.0,N,DK
 DKL,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests","Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests",N,DKL,N,100.0,N,DKL
 DKS,Dick's Sporting Goods Inc Common Stock,Dick's Sporting Goods Inc Common Stock,N,DKS,N,100.0,N,DKS
-DKUP,T,T-REX 2X Long DKNG Daily Target ETF,Z,DKUP,Y,100.0,N,DKUP
 DLAG,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - August,Z,DLAG,Y,100.0,N,DLAG
 DLB,Dolby Laboratories Common Stock,Dolby Laboratories Common Stock,N,DLB,N,100.0,N,DLB
 DLFE,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - February,Z,DLFE,Y,100.0,N,DLFE
@@ -2022,7 +2018,6 @@ ETI$,"Entergy Texas Inc 5.375% Series A Preferred Stock, Cumulative, No Par Valu
 ETJ,Eaton Vance Risk,Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,N,ETJ,N,100.0,N,ETJ
 ETN,"Eaton Corporation, PLC Ordinary Shares","Eaton Corporation, PLC Ordinary Shares",N,ETN,N,40.0,N,ETN
 ETO,Eaton Vance Tax,Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,N,ETO,N,100.0,N,ETO
-ETQ,T,T-Rex 2X Inverse Ether Daily Target ETF,Z,ETQ,Y,100.0,N,ETQ
 ETR,Entergy Corporation Common Stock,Entergy Corporation Common Stock,N,ETR,N,100.0,N,ETR
 ETSY,"Etsy, Inc. Common Stock","Etsy, Inc. Common Stock",N,ETSY,N,100.0,N,ETSY
 ETTY,Amplify Ethereum 3% Monthly Option Income ETF,Amplify Ethereum 3% Monthly Option Income ETF,Z,ETTY,Y,100.0,N,ETTY
@@ -2240,6 +2235,7 @@ FHN,First Horizon Corporation Common Stock,First Horizon Corporation Common Stoc
 FHN$C,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non","First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C",N,FHNpC,N,100.0,N,FHN-C
 FHN$E,"First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non","First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E",N,FHNpE,N,100.0,N,FHN-E
 FHN$F,"First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non","First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",N,FHNpF,N,100.0,N,FHN-F
+FHN$H,"First Horizon Corporation Depositary Shares each representing a 1/4,000th interest in a share of Non","First Horizon Corporation Depositary Shares each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series H",N,FHNpH,N,100.0,N,FHN-H
 FHYS,Federated Hermes Short Duration High Yield ETF,Federated Hermes Short Duration High Yield ETF,P,FHYS,Y,100.0,N,FHYS
 FIAT,YieldMax Short COIN Option Income Strategy ETF,YieldMax Short COIN Option Income Strategy ETF,P,FIAT,Y,100.0,N,FIAT
 FIAX,Nicholas Fixed Income Alternative ETF,Nicholas Fixed Income Alternative ETF,P,FIAX,Y,100.0,N,FIAX
@@ -4688,7 +4684,6 @@ PBUS,Invesco MSCI USA ETF,Invesco MSCI USA ETF,Z,PBUS,Y,100.0,N,PBUS
 PBW,Invesco WilderHill Clean Energy ETF,Invesco WilderHill Clean Energy ETF,P,PBW,Y,100.0,N,PBW
 PCCE,Polen Capital China Growth ETF,Polen Capital China Growth ETF,P,PCCE,Y,100.0,N,PCCE
 PCEF,Invesco CEF Income Composite ETF,Invesco CEF Income Composite ETF,P,PCEF,Y,100.0,N,PCEF
-PCEM,Polen Capital Emerging Markets ex China Growth ETF,Polen Capital Emerging Markets ex China Growth ETF,P,PCEM,Y,100.0,N,PCEM
 PCF,High Income Securities Fund Common Stock,High Income Securities Fund Common Stock,N,PCF,N,100.0,N,PCF
 PCFI,Polen Floating Rate Income ETF,Polen Floating Rate Income ETF,P,PCFI,Y,100.0,N,PCFI
 PCG,Pacific Gas & Electric Co. Common Stock,Pacific Gas & Electric Co. Common Stock,N,PCG,N,100.0,N,PCG
@@ -5017,7 +5012,6 @@ PXE,Invesco Energy Exploration & Production ETF,Invesco Energy Exploration & Pro
 PXED,"Phoenix Education Partners, Inc. Common Stock","Phoenix Education Partners, Inc. Common Stock",N,PXED,N,100.0,N,PXED
 PXF,Invesco RAFI Developed Markets ex,Invesco RAFI Developed Markets ex-U.S. ETF,P,PXF,Y,100.0,N,PXF
 PXH,Invesco RAFI Emerging Markets ETF,Invesco RAFI Emerging Markets ETF,P,PXH,Y,100.0,N,PXH
-PXIU,T,T-REX 2X Long UPXI Daily Target ETF,Z,PXIU,Y,100.0,N,PXIU
 PXJ,Invesco Oil & Gas Services ETF,Invesco Oil & Gas Services ETF,P,PXJ,Y,100.0,N,PXJ
 PYLD,PIMCO Multisector Bond Active Exchange,PIMCO Multisector Bond Active Exchange-Traded Fund,P,PYLD,Y,100.0,N,PYLD
 PYPY,YieldMax PYPL Option Income Strategy ETF,YieldMax PYPL Option Income Strategy ETF,P,PYPY,Y,100.0,N,PYPY
@@ -5554,7 +5548,6 @@ SGDM,Sprott Gold Miners ETF,Sprott Gold Miners ETF,P,SGDM,Y,100.0,N,SGDM
 SGHC,Super Group (SGHC) Limited Ordinary Shares,Super Group (SGHC) Limited Ordinary Shares,N,SGHC,N,100.0,N,SGHC
 SGI,Somnigroup International Inc. Common Stock,Somnigroup International Inc. Common Stock,N,SGI,N,100.0,N,SGI
 SGLC,SGI U.S. Large Cap Core ETF,SGI U.S. Large Cap Core ETF,P,SGLC,Y,100.0,N,SGLC
-SGN,"Signing Day Sports, Inc. Common Stock","Signing Day Sports, Inc. Common Stock",A,SGN,N,100.0,N,SGN
 SGOL,abrdn Physical Gold Shares ETF,abrdn Physical Gold Shares ETF,P,SGOL,Y,100.0,N,SGOL
 SGOV,iShares 0,iShares 0-3 Month Treasury Bond ETF,N,SGOV,Y,100.0,N,SGOV
 SGRT,SMART Earnings Growth 30 ETF,SMART Earnings Growth 30 ETF,P,SGRT,Y,100.0,N,SGRT
