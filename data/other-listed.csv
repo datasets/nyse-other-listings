@@ -1718,6 +1718,7 @@ DVDN,Kingsbarn Dividend Opportunity ETF,Kingsbarn Dividend Opportunity ETF,P,DVD
 DVN,Devon Energy Corporation Common Stock,Devon Energy Corporation Common Stock,N,DVN,N,100.0,N,DVN
 DVND,Touchstone Dividend Select ETF,Touchstone Dividend Select ETF,P,DVND,Y,100.0,N,DVND
 DVS,Dolly Varden Silver Corporation Common Shares,Dolly Varden Silver Corporation Common Shares,A,DVS,N,100.0,N,DVS
+DVVY,Invesco Diversified Dividend Opportunities ETF,Invesco Diversified Dividend Opportunities ETF,Z,DVVY,Y,100.0,N,DVVY
 DVYA,iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund,iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund,P,DVYA,Y,100.0,N,DVYA
 DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,P,DVYE,Y,100.0,N,DVYE
 DWLD,Davis Select Worldwide ETF,Davis Select Worldwide ETF,Z,DWLD,Y,100.0,N,DWLD
@@ -5437,7 +5438,6 @@ SCD,LMP Capital and Income Fund Inc. Common Stock,LMP Capital and Income Fund In
 SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,ETRACS 2x Leveraged US Dividend Factor TR ETN,P,SCDL,Y,100.0,N,SCDL
 SCDV,Bahl & Gaynor Small Cap Dividend ETF,Bahl & Gaynor Small Cap Dividend ETF,P,SCDV,Y,100.0,N,SCDV
 SCE$G,SCE Trust II Trust Preferred Securities,SCE Trust II Trust Preferred Securities,N,SCEpG,N,100.0,N,SCE-G
-SCE$K,Southern California Edison Company 5.45% Fixed,Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities,N,SCEpK,N,100.0,N,SCE-K
 SCE$L,SCE TRUST VI,SCE TRUST VI,N,SCEpL,N,100.0,N,SCE-L
 SCE$M,SCE Trust VII 7.50% Trust Preference Securities,SCE Trust VII 7.50% Trust Preference Securities,N,SCEpM,N,100.0,N,SCE-M
 SCE$N,SCE Trust VIII 6.95% Trust Preference Securities,SCE Trust VIII 6.95% Trust Preference Securities,N,SCEpN,N,100.0,N,SCE-N
@@ -6216,7 +6216,6 @@ TSEC,Touchstone Securitized Income ETF,Touchstone Securitized Income ETF,P,TSEC,
 TSEP,FT Vest Emerging Market Buffer ETF ,FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
 TSES,Truth Social American Energy Security ETF,Truth Social American Energy Security ETF,P,TSES,Y,100.0,N,TSES
 TSI,"TCW Strategic Income Fund, Inc. Common Stock","TCW Strategic Income Fund, Inc. Common Stock",N,TSI,N,100.0,N,TSI
-TSI.R,"TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights","TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights",N,TSIr,N,100.0,N,TSI^
 TSIC,Truth Social American Icons ETF,Truth Social American Icons ETF,P,TSIC,Y,100.0,N,TSIC
 TSII,REX TSLA Growth & Income ETF,REX TSLA Growth & Income ETF,Z,TSII,Y,100.0,N,TSII
 TSLI,ProShares Ultra TSLA,ProShares Ultra TSLA,P,TSLI,Y,100.0,N,TSLI
@@ -6772,6 +6771,7 @@ XBI,State Street SPDR S&P Biotech ETF,State Street SPDR S&P Biotech ETF,P,XBI,Y,
 XBJA,Innovator U.S. Equity Accelerated 9 Buffer ETF ,Innovator U.S. Equity Accelerated 9 Buffer ETF - January,Z,XBJA,Y,100.0,N,XBJA
 XBJL,Innovator U.S. Equity Accelerated 9 Buffer ETF ,Innovator U.S. Equity Accelerated 9 Buffer ETF - July,Z,XBJL,Y,100.0,N,XBJL
 XBOC,Innovator U.S. Equity Accelerated 9 Buffer ETF ,Innovator U.S. Equity Accelerated 9 Buffer ETF - October,Z,XBOC,Y,100.0,N,XBOC
+XBOX,Roundhill Ultra Short Duration No Dividend Target ETF,Roundhill Ultra Short Duration No Dividend Target ETF,Z,XBOX,Y,100.0,N,XBOX
 XC,WisdomTree True Emerging Markets Fund,WisdomTree True Emerging Markets Fund,P,XC,Y,100.0,N,XC
 XCCC,BondBloxx CCC,BondBloxx CCC-Rated USD High Yield Corporate Bond ETF,P,XCCC,Y,100.0,N,XCCC
 XCEM,Columbia EM Core ex,Columbia EM Core ex-China ETF,P,XCEM,Y,100.0,N,XCEM
