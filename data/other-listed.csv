@@ -12,6 +12,7 @@ AAPW,Roundhill AAPL WeeklyPay ETF,Roundhill AAPL WeeklyPay ETF,Z,AAPW,Y,100.0,N,
 AAPX,T,T-Rex 2X Long Apple Daily Target ETF,Z,AAPX,Y,100.0,N,AAPX
 AAPY,Kurv Yield Premium Strategy Apple (AAPL) ETF,Kurv Yield Premium Strategy Apple (AAPL) ETF,Z,AAPY,Y,100.0,N,AAPY
 AAT,"American Assets Trust, Inc. Common Stock","American Assets Trust, Inc. Common Stock",N,AAT,N,100.0,N,AAT
+AAUA,Alpha Architect US Equity 3 ETF,Alpha Architect US Equity 3 ETF,Z,AAUA,Y,100.0,N,AAUA
 AAUC,Allied Gold Corporation Common Shares,Allied Gold Corporation Common Shares,N,AAUC,N,100.0,N,AAUC
 AAUM,Tema Alternative Asset Managers ETF,Tema Alternative Asset Managers ETF,Z,AAUM,Y,100.0,N,AAUM
 AB,AllianceBernstein Holding L.P.  Units,AllianceBernstein Holding L.P.  Units,N,AB,N,100.0,N,AB
@@ -62,6 +63,7 @@ ACRE,Ares Commercial Real Estate Corporation Common Stock,Ares Commercial Real E
 ACSG,American Century Small Cap Growth Insights ETF,American Century Small Cap Growth Insights ETF,Z,ACSG,Y,100.0,N,ACSG
 ACSI,American Customer Satisfaction ETF,American Customer Satisfaction ETF,Z,ACSI,Y,100.0,N,ACSI
 ACSV,American Century Small Cap Value Insights ETF,American Century Small Cap Value Insights ETF,Z,ACSV,Y,100.0,N,ACSV
+ACTS,FIS Tactical Equity ETF,FIS Tactical Equity ETF,P,ACTS,Y,100.0,N,ACTS
 ACU,Acme United Corporation. Common Stock,Acme United Corporation. Common Stock,A,ACU,N,100.0,N,ACU
 ACV,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest,N,ACV,N,100.0,N,ACV
 ACVA,ACV Auctions Inc. Class A Common Stock,ACV Auctions Inc. Class A Common Stock,N,ACVA,N,100.0,N,ACVA
@@ -834,6 +836,7 @@ BRCE,MFS Blended Research Core Equity ETF,MFS Blended Research Core Equity ETF,N
 BREE,MFS Blended Research Emerging Markets Equity ETF,MFS Blended Research Emerging Markets Equity ETF,N,BREE,Y,100.0,N,BREE
 BRF,VanEck Brazil Small,VanEck Brazil Small-Cap ETF,P,BRF,Y,100.0,N,BRF
 BRIA,BrilliA Inc Class A Ordinary Shares,BrilliA Inc Class A Ordinary Shares,A,BRIA,N,100.0,N,BRIA
+BRIB,FIS Bright Portfolios Core Bond ETF,FIS Bright Portfolios Core Bond ETF,P,BRIB,Y,100.0,N,BRIB
 BRIE,MFS Blended Research International Equity ETF,MFS Blended Research International Equity ETF,N,BRIE,Y,100.0,N,BRIE
 BRIF,FIS Bright Portfolios Focused Equity ETF,FIS Bright Portfolios Focused Equity ETF,P,BRIF,Y,100.0,N,BRIF
 BRK.A,Berkshire Hathaway Inc. Common Stock,Berkshire Hathaway Inc. Common Stock,N,BRK.A,N,1.0,N,BRK.A
@@ -2425,6 +2428,7 @@ FTCB,First Trust Core Investment Grade ETF,First Trust Core Investment Grade ETF
 FTCE,First Trust New Constructs Core Earnings Leaders ETF,First Trust New Constructs Core Earnings Leaders ETF,P,FTCE,Y,100.0,N,FTCE
 FTEC,Fidelity MSCI Information Technology Index ETF,Fidelity MSCI Information Technology Index ETF,P,FTEC,Y,100.0,N,FTEC
 FTF,Franklin Limited Duration Income Trust Common Shares of Beneficial Interest,Franklin Limited Duration Income Trust Common Shares of Beneficial Interest,A,FTF,N,100.0,N,FTF
+FTHB,FIS Faith Income ETF,FIS Faith Income ETF,P,FTHB,Y,100.0,N,FTHB
 FTHF,First Trust Emerging Markets Human Flourishing ETF,First Trust Emerging Markets Human Flourishing ETF,P,FTHF,Y,100.0,N,FTHF
 FTHY,First Trust High Yield Opportunities 2027 Term Fund Common Stock,First Trust High Yield Opportunities 2027 Term Fund Common Stock,N,FTHY,N,100.0,N,FTHY
 FTI,TechnipFMC plc Ordinary Share,TechnipFMC plc Ordinary Share,N,FTI,N,100.0,N,FTI
@@ -4408,6 +4412,7 @@ NSRX,Nasus Pharma Ltd. Ordinary Shares,Nasus Pharma Ltd. Ordinary Shares,A,NSRX,
 NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,N,NTB,N,100.0,N,NTB
 NTIP,Network,"Network-1 Technologies, Inc. Common Stock",A,NTIP,N,100.0,N,NTIP
 NTR,Nutrien Ltd. Common Shares,Nutrien Ltd. Common Shares,N,NTR,N,100.0,N,NTR
+NTSD,WisdomTree Efficient U.S. Plus International Equity Fund,WisdomTree Efficient U.S. Plus International Equity Fund,P,NTSD,Y,100.0,N,NTSD
 NTSE,WisdomTree Emerging Markets Efficient Core Fund,WisdomTree Emerging Markets Efficient Core Fund,P,NTSE,Y,100.0,N,NTSE
 NTSI,WisdomTree International Efficient Core Fund,WisdomTree International Efficient Core Fund,P,NTSI,Y,100.0,N,NTSI
 NTST,NetSTREIT Corp. Common Stock,NetSTREIT Corp. Common Stock,N,NTST,N,100.0,N,NTST
@@ -6471,6 +6476,7 @@ VCOB,Voya Core Bond ETF,Voya Core Bond ETF,P,VCOB,Y,100.0,N,VCOB
 VCR,Vanguard Consumer Discretion ETF,Vanguard Consumer Discretion ETF,P,VCR,Y,40.0,N,VCR
 VCRM,Vanguard Core Tax,Vanguard Core Tax-Exempt Bond ETF,Z,VCRM,Y,100.0,N,VCRM
 VCV,Invesco California Value Municipal Income Trust Common Stock,Invesco California Value Municipal Income Trust Common Stock,N,VCV,N,100.0,N,VCV
+VCX,"Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests","Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",N,VCX,N,100.0,N,VCX
 VDC,Vanguard Consumer Staples ETF,Vanguard Consumer Staples ETF,P,VDC,Y,100.0,N,VDC
 VDE,Vanguard Energy ETF,Vanguard Energy ETF,P,VDE,Y,100.0,N,VDE
 VDI,Virtus International Dividend ETF,Virtus International Dividend ETF,P,VDI,Y,100.0,N,VDI
