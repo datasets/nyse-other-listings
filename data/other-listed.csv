@@ -927,6 +927,7 @@ BWA,BorgWarner Inc. Common Stock,BorgWarner Inc. Common Stock,N,BWA,N,100.0,N,BW
 BWEB,Bitwise Web3 ETF,Bitwise Web3 ETF,P,BWEB,Y,100.0,N,BWEB
 BWET,Breakwave Tanker Shipping ETF,Breakwave Tanker Shipping ETF,P,BWET,Y,100.0,N,BWET
 BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,BrandywineGLOBAL Global Income Opportunities Fund Inc.,N,BWG,N,100.0,N,BWG
+BWIV.U,"Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one","Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,BWIV.U,N,100.0,N,BWIV=
 BWLP,BW LPG Limited Common Shares,BW LPG Limited Common Shares,N,BWLP,N,100.0,N,BWLP
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares","Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",N,BWMX,N,100.0,N,BWMX
 BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026","Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",N,BWNB,N,100.0,N,BWNB
@@ -1543,6 +1544,7 @@ DFIS,Dimensional International Small Cap ETF,Dimensional International Small Cap
 DFIV,Dimensional International Value ETF,Dimensional International Value ETF,P,DFIV,Y,100.0,N,DFIV
 DFJ,WisdomTree Japan SmallCap Fund,WisdomTree Japan SmallCap Fund,P,DFJ,Y,100.0,N,DFJ
 DFLV,Dimensional US Large Cap Value ETF,Dimensional US Large Cap Value ETF,P,DFLV,Y,100.0,N,DFLV
+DFMC,U.S. Micro Cap Portfolio: ETF Class Shares,U.S. Micro Cap Portfolio: ETF Class Shares,P,DFMC,Y,100.0,N,DFMC
 DFNL,Davis Select Financial ETF,Davis Select Financial ETF,Z,DFNL,Y,100.0,N,DFNL
 DFNM,Dimensional National Municipal Bond ETF,Dimensional National Municipal Bond ETF,P,DFNM,Y,100.0,N,DFNM
 DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,N,DFP,N,100.0,N,DFP
@@ -2663,6 +2665,7 @@ GMOD,GMO Dynamic Allocation ETF,GMO Dynamic Allocation ETF,P,GMOD,Y,100.0,N,GMOD
 GMOI,GMO International Value ETF,GMO International Value ETF,P,GMOI,Y,100.0,N,GMOI
 GMOM,Cambria Global Momentum ETF,Cambria Global Momentum ETF,Z,GMOM,Y,100.0,N,GMOM
 GMOV,GMO US Value ETF,GMO US Value ETF,P,GMOV,Y,100.0,N,GMOV
+GMTL.V,Guardian Metal Resources PLC ADS When,Guardian Metal Resources PLC ADS When-Issued,A,GMTLw,N,100.0,N,GMTL#
 GMUB,Goldman Sachs Municipal Income ETF,Goldman Sachs Municipal Income ETF,P,GMUB,Y,100.0,N,GMUB
 GMUN,Goldman Sachs Access Municipal Bond ETF,Goldman Sachs Access Municipal Bond ETF,P,GMUN,Y,100.0,N,GMUN
 GNE,Genie Energy Ltd. Class B Common Stock Stock,Genie Energy Ltd. Class B Common Stock Stock,N,GNE,N,100.0,N,GNE
@@ -3378,6 +3381,7 @@ JACS.U,"Jackson Acquisition Company II Units, each consisting of one Class A ord
 JADE,JPMorgan Active Developing Markets Equity ETF,JPMorgan Active Developing Markets Equity ETF,P,JADE,Y,100.0,N,JADE
 JAGU,Jaguar Uranium Corp. Class A Common Shares,Jaguar Uranium Corp. Class A Common Shares,A,JAGU,N,100.0,N,JAGU
 JAJL,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 6mo Jan/Jul,Z,JAJL,Y,100.0,N,JAJL
+JAN,"Janus Living, Inc. Class A","Janus Living, Inc. Class A-1 Common Stock",N,JAN,N,100.0,N,JAN
 JANB,Aptus January Buffer ETF,Aptus January Buffer ETF,Z,JANB,Y,100.0,N,JANB
 JANH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrier ETF - January,Z,JANH,Y,100.0,N,JANH
 JANI,AllianzIM International Equity Buffer15 Uncapped Jan ETF,AllianzIM International Equity Buffer15 Uncapped Jan ETF,Z,JANI,Y,100.0,N,JANI
@@ -4299,7 +4303,6 @@ NFLW,Roundhill NFLX WeeklyPay ETF,Roundhill NFLX WeeklyPay ETF,Z,NFLW,Y,100.0,N,
 NFLY,YieldMax NFLX Option Income Strategy ETF,YieldMax NFLX Option Income Strategy ETF,P,NFLY,Y,100.0,N,NFLY
 NFRA,FlexShares STOXX Global Broad Infrastructure Index Fund,FlexShares STOXX Global Broad Infrastructure Index Fund,P,NFRA,Y,100.0,N,NFRA
 NG,Novagold Resources Inc.,Novagold Resources Inc.,A,NG,N,100.0,N,NG
-NGD,New Gold Inc.,New Gold Inc.,A,NGD,N,100.0,N,NGD
 NGG,"National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares","National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares",N,NGG,N,100.0,N,NGG
 NGL,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,N,NGL,N,100.0,N,NGL
 NGL$B,NGL ENERGY PARTNERS LP 9.00% Class B Fixed,NGL ENERGY PARTNERS LP 9.00% Class B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units representing limited partnership interests,N,NGLpB,N,100.0,N,NGL-B
@@ -4310,6 +4313,7 @@ NGVT,Ingevity Corporation Common Stock ,Ingevity Corporation Common Stock ,N,NGV
 NHC,National HealthCare Corporation Common Stock,National HealthCare Corporation Common Stock,A,NHC,N,100.0,N,NHC
 NHI,"National Health Investors, Inc. Common Stock","National Health Investors, Inc. Common Stock",N,NHI,N,100.0,N,NHI
 NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,Neuberger High Yield Strategies Fund Inc. Common Stock,A,NHS,N,100.0,N,NHS
+NHS.V,"Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued","Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",A,NHSrw,N,100.0,N,NHS^#
 NHYB,Nuveen High Yield Corporate Bond ETF,Nuveen High Yield Corporate Bond ETF,P,NHYB,Y,100.0,N,NHYB
 NHYM,Nuveen High Yield Municipal Income ETF,Nuveen High Yield Municipal Income ETF,P,NHYM,Y,100.0,N,NHYM
 NI,NiSource Inc Common Stock,NiSource Inc Common Stock,N,NI,N,100.0,N,NI
