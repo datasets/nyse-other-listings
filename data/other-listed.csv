@@ -1245,7 +1245,7 @@ COPL.U,"Copley Acquisition Corp Units, each consisting of one ordinary share and
 COPL.W,"Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,COPL.WS,N,100.0,N,COPL+
 COPX,Global X Copper Miners ETF,Global X Copper Miners ETF,P,COPX,Y,100.0,N,COPX
 COPY,"Tweedy, Browne Insider + Value ETF","Tweedy, Browne Insider + Value ETF",P,COPY,Y,100.0,N,COPY
-COPZ,Defiance Daily Target 2x Long Copper ETF,Defiance Daily Target 2x Long Copper ETF,P,COPZ,Y,100.0,N,COPZ
+COPZ,Defiance Daily Target 2X Long Copper Miners ETF,Defiance Daily Target 2X Long Copper Miners ETF,P,COPZ,Y,100.0,N,COPZ
 COR,"Cencora, Inc. Common Stock","Cencora, Inc. Common Stock",N,COR,N,40.0,N,COR
 CORB,AB Core Bond ETF,AB Core Bond ETF,P,CORB,Y,100.0,N,CORB
 CORD,T,T-REX 2X Inverse CRWV Daily Target ETF,Z,CORD,Y,100.0,N,CORD
@@ -2665,7 +2665,7 @@ GMOD,GMO Dynamic Allocation ETF,GMO Dynamic Allocation ETF,P,GMOD,Y,100.0,N,GMOD
 GMOI,GMO International Value ETF,GMO International Value ETF,P,GMOI,Y,100.0,N,GMOI
 GMOM,Cambria Global Momentum ETF,Cambria Global Momentum ETF,Z,GMOM,Y,100.0,N,GMOM
 GMOV,GMO US Value ETF,GMO US Value ETF,P,GMOV,Y,100.0,N,GMOV
-GMTL.V,Guardian Metal Resources PLC ADS When,Guardian Metal Resources PLC ADS When-Issued,A,GMTLw,N,100.0,N,GMTL#
+GMTL,Guardian Metal Resources PLC ADS,Guardian Metal Resources PLC ADS,A,GMTL,N,100.0,N,GMTL
 GMUB,Goldman Sachs Municipal Income ETF,Goldman Sachs Municipal Income ETF,P,GMUB,Y,100.0,N,GMUB
 GMUN,Goldman Sachs Access Municipal Bond ETF,Goldman Sachs Access Municipal Bond ETF,P,GMUN,Y,100.0,N,GMUN
 GNE,Genie Energy Ltd. Class B Common Stock Stock,Genie Energy Ltd. Class B Common Stock Stock,N,GNE,N,100.0,N,GNE
@@ -4367,6 +4367,7 @@ NOBL,ProShares S&P 500 Dividend Aristocrats ETF,ProShares S&P 500 Dividend Arist
 NOC,Northrop Grumman Corporation Common Stock,Northrop Grumman Corporation Common Stock,N,NOC,N,40.0,N,NOC
 NOCT,Innovator Growth,Innovator Growth-100 Power Buffer ETF- October,Z,NOCT,Y,100.0,N,NOCT
 NODE,VanEck Onchain Economy ETF,VanEck Onchain Economy ETF,Z,NODE,Y,100.0,N,NODE
+NOEQ,Northern Trust US Equity ETF,Northern Trust US Equity ETF,P,NOEQ,Y,100.0,N,NOEQ
 NOG,"Northern Oil and Gas, Inc. Common Stock","Northern Oil and Gas, Inc. Common Stock",N,NOG,N,100.0,N,NOG
 NOK,Nokia Corporation Sponsored American Depositary Shares,Nokia Corporation Sponsored American Depositary Shares,N,NOK,N,100.0,N,NOK
 NOM,Nuveen Missouri Quality Municipal Income Fund ,Nuveen Missouri Quality Municipal Income Fund ,N,NOM,N,100.0,N,NOM
@@ -6059,7 +6060,6 @@ TGEN,Tecogen Inc. Common Stock,Tecogen Inc. Common Stock,A,TGEN,N,100.0,N,TGEN
 TGLB,T. Rowe Price Global Equity ETF,T. Rowe Price Global Equity ETF,P,TGLB,Y,100.0,N,TGLB
 TGLR,LAFFER TENGLER Equity Income ETF,LAFFER TENGLER Equity Income ETF,Z,TGLR,Y,100.0,N,TGLR
 TGLS,Tecnoglass Inc. Ordinary Shares,Tecnoglass Inc. Ordinary Shares,N,TGLS,N,100.0,N,TGLS
-TGNA,TEGNA Inc,TEGNA Inc,N,TGNA,N,100.0,N,TGNA
 TGRT,T. Rowe Price Growth ETF,T. Rowe Price Growth ETF,P,TGRT,Y,100.0,N,TGRT
 TGRW,T. Rowe Price Growth Stock ETF,T. Rowe Price Growth Stock ETF,P,TGRW,Y,100.0,N,TGRW
 TGS,Transportadora de Gas del Sur SA TGS Common Stock,Transportadora de Gas del Sur SA TGS Common Stock,N,TGS,N,100.0,N,TGS
@@ -6162,6 +6162,7 @@ TOPC,iShares S&P 500 3% Capped ETF,iShares S&P 500 3% Capped ETF,P,TOPC,Y,100.0,
 TOPP,Toppoint Holdings Inc. Common Stock,Toppoint Holdings Inc. Common Stock,A,TOPP,N,100.0,N,TOPP
 TOPS,"TOP Ships, Inc. Common Stock","TOP Ships, Inc. Common Stock",A,TOPS,N,100.0,N,TOPS
 TOPT,iShares Top 20 U.S. Stocks ETF,iShares Top 20 U.S. Stocks ETF,P,TOPT,Y,100.0,N,TOPT
+TOPW,Roundhill Top WeeklyPay ETF,Roundhill Top WeeklyPay ETF,Z,TOPW,Y,100.0,N,TOPW
 TOS,Twin Oak Strategic Solutions ETF,Twin Oak Strategic Solutions ETF,Z,TOS,Y,100.0,N,TOS
 TOST,"Toast, Inc. Class A Common Stock","Toast, Inc. Class A Common Stock",N,TOST,N,100.0,N,TOST
 TOT,LionShares U.S. Equity Total Return ETF,LionShares U.S. Equity Total Return ETF,P,TOT,Y,100.0,N,TOT
@@ -6726,7 +6727,6 @@ WOR,"Worthington Enterprises, Inc. Common Shares","Worthington Enterprises, Inc.
 WPAC,White Pearl Acquisition Corp. Class A Ordinary Shares,White Pearl Acquisition Corp. Class A Ordinary Shares,N,WPAC,N,100.0,N,WPAC
 WPAC.R,"White Pearl Acquisition Corp. Rights, each right entitles the holder to receive one","White Pearl Acquisition Corp. Rights, each right entitles the holder to receive one-fifth of one Class A ordinary share upon consummation of the initial business combination",N,WPACr,N,100.0,N,WPAC^
 WPAC.U,"White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one","White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one-fifth (1/5) of one Class A ordinary share",N,WPAC.U,N,100.0,N,WPAC=
-WPAY,Roundhill WeeklyPay Universe ETF,Roundhill WeeklyPay Universe ETF,Z,WPAY,Y,100.0,N,WPAY
 WPC,W. P. Carey Inc. REIT,W. P. Carey Inc. REIT,N,WPC,N,100.0,N,WPC
 WPM,Wheaton Precious Metals Corp Common Shares (Canada),Wheaton Precious Metals Corp Common Shares (Canada),N,WPM,N,100.0,N,WPM
 WPP,WPP plc American Depositary Shares,WPP plc American Depositary Shares,N,WPP,N,100.0,N,WPP
