@@ -6,6 +6,7 @@ AAAA,Amplius Aggressive Asset Allocation ETF,Amplius Aggressive Asset Allocation
 AAAC,Columbia AAA CLO ETF,Columbia AAA CLO ETF,P,AAAC,Y,100.0,N,AAAC
 AAAU,Goldman Sachs Physical Gold ETF Shares,Goldman Sachs Physical Gold ETF Shares,Z,AAAU,Y,100.0,N,AAAU
 AAMI,Acadian Asset Management Inc. Common Stock,Acadian Asset Management Inc. Common Stock,N,AAMI,N,100.0,N,AAMI
+AAOX,Tradr 2X Long AAOI Daily ETF,Tradr 2X Long AAOI Daily ETF,Z,AAOX,Y,100.0,N,AAOX
 AAP,Advance Auto Parts Inc.,Advance Auto Parts Inc.,N,AAP,N,100.0,N,AAP
 AAPR,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to April 2026,Z,AAPR,Y,100.0,N,AAPR
 AAPW,Roundhill AAPL WeeklyPay ETF,Roundhill AAPL WeeklyPay ETF,Z,AAPW,Y,100.0,N,AAPW
@@ -253,6 +254,7 @@ AMWL,American Well Corporation Class A Common Stock,American Well Corporation Cl
 AMX,"America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares","America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares",N,AMX,N,100.0,N,AMX
 AMZA,InfraCap MLP ETF,InfraCap MLP ETF,P,AMZA,Y,100.0,N,AMZA
 AMZE,"Amaze Holdings, Inc. Common Stock","Amaze Holdings, Inc. Common Stock",A,AMZE,N,100.0,N,AMZE
+AMZO,Tradr 2X Short AMZN Daily ETF,Tradr 2X Short AMZN Daily ETF,Z,AMZO,Y,100.0,N,AMZO
 AMZP,Kurv Yield Premium Strategy Amazon (AMZN) ETF,Kurv Yield Premium Strategy Amazon (AMZN) ETF,Z,AMZP,Y,100.0,N,AMZP
 AMZW,Roundhill AMZN WeeklyPay ETF,Roundhill AMZN WeeklyPay ETF,Z,AMZW,Y,100.0,N,AMZW
 AMZY,YieldMax AMZN Option Income Strategy ETF,YieldMax AMZN Option Income Strategy ETF,P,AMZY,Y,100.0,N,AMZY
@@ -2913,6 +2915,7 @@ HLLY.W,Holley Inc. Warrants,Holley Inc. Warrants,N,HLLY.WS,N,100.0,N,HLLY+
 HLN,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),Haleon plc American Depositary Shares (Each representing two Ordinary Shares),N,HLN,N,100.0,N,HLN
 HLT,Hilton Worldwide Holdings Inc. Common Stock ,Hilton Worldwide Holdings Inc. Common Stock ,N,HLT,N,40.0,N,HLT
 HLX,"Helix Energy Solutions Group, Inc. Common Stock","Helix Energy Solutions Group, Inc. Common Stock",N,HLX,N,100.0,N,HLX
+HLXX,Tradr 2X Long HL Daily ETF,Tradr 2X Long HL Daily ETF,Z,HLXX,Y,100.0,N,HLXX
 HMC,"Honda Motor Company, Ltd. Common Stock","Honda Motor Company, Ltd. Common Stock",N,HMC,N,100.0,N,HMC
 HMN,Horace Mann Educators Corporation Common Stock,Horace Mann Educators Corporation Common Stock,N,HMN,N,100.0,N,HMN
 HMOP,Hartford Municipal Opportunities ETF,Hartford Municipal Opportunities ETF,P,HMOP,Y,100.0,N,HMOP
@@ -3067,6 +3070,7 @@ IBRN,iShares Neuroscience and Healthcare ETF,iShares Neuroscience and Healthcare
 IBTA,"Ibotta, Inc. Class A Common Stock","Ibotta, Inc. Class A Common Stock",N,IBTA,N,100.0,N,IBTA
 IBUF,Innovator International Developed 10 Buffer ETF ,Innovator International Developed 10 Buffer ETF - Quarterly,P,IBUF,Y,100.0,N,IBUF
 IBUY,Amplify Online Retail ETF,Amplify Online Retail ETF,P,IBUY,Y,100.0,N,IBUY
+IBX,Tradr 2X Long IBM Daily ETF,Tradr 2X Long IBM Daily ETF,Z,IBX,Y,100.0,N,IBX
 ICAP,Infrastructure Capital Equity Income ETF,Infrastructure Capital Equity Income ETF,P,ICAP,Y,100.0,N,ICAP
 ICE,Intercontinental Exchange Inc. Common Stock,Intercontinental Exchange Inc. Common Stock,N,ICE,N,100.0,N,ICE
 ICF,iShares Select U.S. REIT ETF,iShares Select U.S. REIT ETF,Z,ICF,Y,100.0,N,ICF
@@ -3809,7 +3813,6 @@ LQDH,iShares Interest Rate Hedged Corporate Bond ETF,iShares Interest Rate Hedge
 LQDI,iShares Inflation Hedged Corporate Bond ETF,iShares Inflation Hedged Corporate Bond ETF,Z,LQDI,Y,100.0,N,LQDI
 LQDW,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,Z,LQDW,Y,100.0,N,LQDW
 LQIG,State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,P,LQIG,Y,100.0,N,LQIG
-LQPE,PEO AlphaQuest Thematic PE ETF,PEO AlphaQuest Thematic PE ETF,P,LQPE,Y,100.0,N,LQPE
 LQTI,FT Vest Investment Grade & Target Income ETF,FT Vest Investment Grade & Target Income ETF,P,LQTI,Y,100.0,N,LQTI
 LRCU,Tradr 2X Long LRCX Daily ETF,Tradr 2X Long LRCX Daily ETF,Z,LRCU,Y,100.0,N,LRCU
 LRGC,AB US Large Cap Strategic Equities ETF,AB US Large Cap Strategic Equities ETF,P,LRGC,Y,100.0,N,LRGC
