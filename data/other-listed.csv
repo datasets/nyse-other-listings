@@ -73,6 +73,7 @@ ACVT,Advent Convertible Bond ETF,Advent Convertible Bond ETF,P,ACVT,Y,100.0,N,AC
 ACWV,iShares MSCI Global Min Vol Factor ETF,iShares MSCI Global Min Vol Factor ETF,Z,ACWV,Y,100.0,N,ACWV
 ACYN,FT Vest Laddered Autocallable Barrier & Income ETF,FT Vest Laddered Autocallable Barrier & Income ETF,P,ACYN,Y,100.0,N,ACYN
 AD,"Array Digital Infrastructure, Inc. Common Shares","Array Digital Infrastructure, Inc. Common Shares",N,AD,N,100.0,N,AD
+ADBU,Direxion Daily ADBE Bull 2X ETF,Direxion Daily ADBE Bull 2X ETF,P,ADBU,Y,100.0,N,ADBU
 ADC,Agree Realty Corporation Common Stock,Agree Realty Corporation Common Stock,N,ADC,N,100.0,N,ADC
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock","Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",N,ADCpA,N,100.0,N,ADC-A
 ADCT,ADC Therapeutics SA Common Shares,ADC Therapeutics SA Common Shares,N,ADCT,N,100.0,N,ADCT
@@ -3519,6 +3520,7 @@ JSCP,JPMorgan Short Duration Core Plus ETF,JPMorgan Short Duration Core Plus ETF
 JSI,Janus Henderson Securitized Income ETF,Janus Henderson Securitized Income ETF,P,JSI,Y,100.0,N,JSI
 JSTC,Adasina Social Justice All Cap Global ETF,Adasina Social Justice All Cap Global ETF,P,JSTC,Y,100.0,N,JSTC
 JUCY,Aptus Enhanced Yield ETF,Aptus Enhanced Yield ETF,Z,JUCY,Y,100.0,N,JUCY
+JUDO,Janus Henderson U.S. Equity Enhanced Income ETF,Janus Henderson U.S. Equity Enhanced Income ETF,Z,JUDO,Y,100.0,N,JUDO
 JULB,Aptus July Buffer ETF,Aptus July Buffer ETF,Z,JULB,Y,100.0,N,JULB
 JULH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrier ETF - July,Z,JULH,Y,100.0,N,JULH
 JULJ,Innovator Premium Income 30 Barrier ETF ,Innovator Premium Income 30 Barrier ETF - July,Z,JULJ,Y,100.0,N,JULJ
@@ -3926,6 +3928,7 @@ MCOW,Pacer S&P MidCap 400 Quality FCF Aristocrats ETF,Pacer S&P MidCap 400 Quali
 MCR,MFS Charter Income Trust Common Stock,MFS Charter Income Trust Common Stock,N,MCR,N,100.0,N,MCR
 MCRP,Micropolis AI Robotics Ordinary Shares,Micropolis AI Robotics Ordinary Shares,A,MCRP,N,100.0,N,MCRP
 MCS,Marcus Corporation (The) Common Stock,Marcus Corporation (The) Common Stock,N,MCS,N,100.0,N,MCS
+MCVT,Miller Convertible Total Return ETF,Miller Convertible Total Return ETF,P,MCVT,Y,100.0,N,MCVT
 MCY,Mercury General Corporation Common Stock,Mercury General Corporation Common Stock,N,MCY,N,100.0,N,MCY
 MD,"Pediatrix Medical Group, Inc. Common Stock","Pediatrix Medical Group, Inc. Common Stock",N,MD,N,100.0,N,MD
 MDA,MDA Space Ltd. Common Shares,MDA Space Ltd. Common Shares,N,MDA,N,100.0,N,MDA
@@ -4279,11 +4282,12 @@ NEA,Nuveen AMT,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Be
 NEAR,iShares Short Duration Bond Active ETF,iShares Short Duration Bond Active ETF,Z,NEAR,Y,100.0,N,NEAR
 NEBX,Tradr 2X Long NBIS Daily ETF,Tradr 2X Long NBIS Daily ETF,Z,NEBX,Y,100.0,N,NEBX
 NEE,"NextEra Energy, Inc. Common Stock","NextEra Energy, Inc. Common Stock",N,NEE,N,100.0,N,NEE
-NEE$N,"NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079","NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079",N,NEEpN,N,100.0,N,NEE-N
+NEE$N,"NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1, 2079","NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1, 2079",N,NEEpN,N,100.0,N,NEE-N
 NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units","NextEra Energy, Inc. 7.299% Corporate Units",N,NEEpS,N,100.0,N,NEE-S
 NEE$T,"NextEra Energy, Inc. 7.234% Corporate Units","NextEra Energy, Inc. 7.234% Corporate Units",N,NEEpT,N,100.0,N,NEE-T
 NEE$U,"NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085","NextEra Energy, Inc. Series U Junior Subordinated Debentures due June 1, 2085",N,NEEpU,N,100.0,N,NEE-U
 NEE$V,"NextEra Energy, Inc. 7.375% Corporate Units","NextEra Energy, Inc. 7.375% Corporate Units",N,NEEpV,N,100.0,N,NEE-V
+NEE$W,"NextEra Energy Capital Holdings Inc. Series Z Junior Subordinated Debentures due April 15, 2086","NextEra Energy Capital Holdings Inc. Series Z Junior Subordinated Debentures due April 15, 2086",N,NEEpW,N,100.0,N,NEE-W
 NEHI,NEOS Ethereum High Income ETF,NEOS Ethereum High Income ETF,Z,NEHI,Y,100.0,N,NEHI
 NELS,Nelson Select ETF,Nelson Select ETF,Z,NELS,Y,100.0,N,NELS
 NEM,Newmont Corporation,Newmont Corporation,N,NEM,N,100.0,N,NEM
@@ -4936,6 +4940,7 @@ PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058","Prud
 PRSD,State Street Short Duration IG Public & Private Credit ETF,State Street Short Duration IG Public & Private Credit ETF,P,PRSD,Y,100.0,N,PRSD
 PRSU,"Pursuit Attractions and Hospitality, Inc. Common Stock","Pursuit Attractions and Hospitality, Inc. Common Stock",N,PRSU,N,100.0,N,PRSU
 PRT,PermRock Royalty Trust Units of Beneficial Interest,PermRock Royalty Trust Units of Beneficial Interest,N,PRT,N,100.0,N,PRT
+PRTO,RCN Pareto Strategic Allocation ETF,RCN Pareto Strategic Allocation ETF,P,PRTO,Y,100.0,N,PRTO
 PRU,"Prudential Financial, Inc. Common Stock","Prudential Financial, Inc. Common Stock",N,PRU,N,100.0,N,PRU
 PRVS,Parnassus Value Select ETF,Parnassus Value Select ETF,N,PRVS,Y,100.0,N,PRVS
 PRXG,Praxis Impact Large Cap Growth ETF,Praxis Impact Large Cap Growth ETF,P,PRXG,Y,100.0,N,PRXG
@@ -5028,6 +5033,7 @@ PXF,Invesco RAFI Developed Markets ex,Invesco RAFI Developed Markets ex-U.S. ETF
 PXH,Invesco RAFI Emerging Markets ETF,Invesco RAFI Emerging Markets ETF,P,PXH,Y,100.0,N,PXH
 PXJ,Invesco Oil & Gas Services ETF,Invesco Oil & Gas Services ETF,P,PXJ,Y,100.0,N,PXJ
 PYLD,PIMCO Multisector Bond Active Exchange,PIMCO Multisector Bond Active Exchange-Traded Fund,P,PYLD,Y,100.0,N,PYLD
+PYPU,Direxion Daily PYPL Bull 2X ETF,Direxion Daily PYPL Bull 2X ETF,P,PYPU,Y,100.0,N,PYPU
 PYPY,YieldMax PYPL Option Income Strategy ETF,YieldMax PYPL Option Income Strategy ETF,P,PYPY,Y,100.0,N,PYPY
 PYT,PPlus Tr GSC,PPlus Tr GSC-2 Tr Ctf Fltg Rate,N,PYT,N,100.0,N,PYT
 PZA,Invesco National AMT,Invesco National AMT-Free Municipal Bond ETFo,P,PZA,Y,100.0,N,PZA
@@ -6285,6 +6291,7 @@ TWOX,iShares Large Cap Accelerated Outcome ETF,iShares Large Cap Accelerated Out
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)","Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",N,TX,N,100.0,N,TX
 TXBC,21Shares FTSE Crypto 10 ex,21Shares FTSE Crypto 10 ex-BTC Index ETF,P,TXBC,Y,100.0,N,TXBC
 TXNM,"TXNM Energy, Inc. Common Stock","TXNM Energy, Inc. Common Stock",N,TXNM,N,100.0,N,TXNM
+TXNU,Direxion Daily TXN Bull 2X ETF,Direxion Daily TXN Bull 2X ETF,P,TXNU,Y,100.0,N,TXNU
 TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests","TXO Partners, L.P. Common Units Representing Limited Partner Interests",N,TXO,N,100.0,N,TXO
 TXS,Texas Capital Texas Equity Index ETF,Texas Capital Texas Equity Index ETF,P,TXS,Y,100.0,N,TXS
 TXT,Textron Inc. Common Stock,Textron Inc. Common Stock,N,TXT,N,100.0,N,TXT
@@ -6364,6 +6371,7 @@ UNF,Unifirst Corporation Common Stock,Unifirst Corporation Common Stock,N,UNF,N,
 UNFI,"United Natural Foods, Inc. Common Stock","United Natural Foods, Inc. Common Stock",N,UNFI,N,100.0,N,UNFI
 UNG,United States Natural Gas Fund LP,United States Natural Gas Fund LP,P,UNG,Y,100.0,N,UNG
 UNH,UnitedHealth Group Incorporated Common Stock (DE),UnitedHealth Group Incorporated Common Stock (DE),N,UNH,N,40.0,N,UNH
+UNHU,Direxion Daily UNH Bull 2X ETF,Direxion Daily UNH Bull 2X ETF,P,UNHU,Y,100.0,N,UNHU
 UNHW,Roundhill UNH WeeklyPay ETF,Roundhill UNH WeeklyPay ETF,Z,UNHW,Y,100.0,N,UNHW
 UNL,United States 12 Month Natural Gas Fund,United States 12 Month Natural Gas Fund,P,UNL,Y,100.0,N,UNL
 UNM,Unum Group Common Stock,Unum Group Common Stock,N,UNM,N,100.0,N,UNM
