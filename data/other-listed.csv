@@ -3027,6 +3027,7 @@ IAUM,iShares Gold Trust Micro Shares,iShares Gold Trust Micro Shares,P,IAUM,Y,10
 IAUX,i,i-80 Gold Corp. Common Shares,A,IAUX,N,100.0,N,IAUX
 IAUX.W,i,"i-80 Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $0.70",A,IAUX.WS,N,100.0,N,IAUX+
 IBCA,iShares iBonds Dec 2035 Term Corporate ETF,iShares iBonds Dec 2035 Term Corporate ETF,P,IBCA,Y,100.0,N,IBCA
+IBCB,iShares iBonds Dec 2036 Term Corporate ETF,iShares iBonds Dec 2036 Term Corporate ETF,P,IBCB,Y,100.0,N,IBCB
 IBD,Inspire Corporate Bond ETF,Inspire Corporate Bond ETF,P,IBD,Y,100.0,N,IBD
 IBDR,iShares iBonds Dec 2026 Term Corporate ETF,iShares iBonds Dec 2026 Term Corporate ETF,P,IBDR,Y,100.0,N,IBDR
 IBDS,iShares iBonds Dec 2027 Term Corporate ETF,iShares iBonds Dec 2027 Term Corporate ETF,P,IBDS,Y,100.0,N,IBDS
@@ -3045,6 +3046,7 @@ IBHI,iShares iBonds 2029 Term High Yield and Income ETF,iShares iBonds 2029 Term
 IBHJ,iShares iBonds 2030 Term High Yield and Income ETF,iShares iBonds 2030 Term High Yield and Income ETF,Z,IBHJ,Y,100.0,N,IBHJ
 IBHK,iShares iBonds 2031 Term High Yield and Income ETF,iShares iBonds 2031 Term High Yield and Income ETF,Z,IBHK,Y,100.0,N,IBHK
 IBHL,iShares iBonds 2032 Term High Yield and Income ETF,iShares iBonds 2032 Term High Yield and Income ETF,Z,IBHL,Y,100.0,N,IBHL
+IBHM,iShares iBonds 2033 Term High Yield and Income ETF,iShares iBonds 2033 Term High Yield and Income ETF,Z,IBHM,Y,100.0,N,IBHM
 IBIC,iShares iBonds Oct 2026 Term TIPS ETF,iShares iBonds Oct 2026 Term TIPS ETF,P,IBIC,Y,100.0,N,IBIC
 IBID,iShares iBonds Oct 2027 Term TIPS ETF,iShares iBonds Oct 2027 Term TIPS ETF,P,IBID,Y,100.0,N,IBID
 IBIE,iShares iBonds Oct 2028 Term TIPS ETF,iShares iBonds Oct 2028 Term TIPS ETF,P,IBIE,Y,100.0,N,IBIE
@@ -3055,6 +3057,7 @@ IBII,iShares iBonds Oct 2032 Term TIPS ETF,iShares iBonds Oct 2032 Term TIPS ETF
 IBIJ,iShares iBonds Oct 2033 Term TIPS ETF,iShares iBonds Oct 2033 Term TIPS ETF,P,IBIJ,Y,100.0,N,IBIJ
 IBIK,iShares iBonds Oct 2034 Term TIPS ETF,iShares iBonds Oct 2034 Term TIPS ETF,P,IBIK,Y,100.0,N,IBIK
 IBIL,iShares iBonds Oct 2035 Term TIPS ETF,iShares iBonds Oct 2035 Term TIPS ETF,P,IBIL,Y,100.0,N,IBIL
+IBIM,iShares iBonds Oct 2036 Term TIPS ETF,iShares iBonds Oct 2036 Term TIPS ETF,P,IBIM,Y,100.0,N,IBIM
 IBLC,iShares Blockchain and Tech ETF,iShares Blockchain and Tech ETF,P,IBLC,Y,100.0,N,IBLC
 IBM,International Business Machines Corporation Common Stock,International Business Machines Corporation Common Stock,N,IBM,N,40.0,N,IBM
 IBMO,iShares iBonds Dec 2026 Term Muni Bond ETF,iShares iBonds Dec 2026 Term Muni Bond ETF,Z,IBMO,Y,100.0,N,IBMO
@@ -3063,6 +3066,8 @@ IBMQ,iShares iBonds Dec 2028 Term Muni Bond ETF,iShares iBonds Dec 2028 Term Mun
 IBMR,iShares iBonds Dec 2029 Term Muni Bond ETF,iShares iBonds Dec 2029 Term Muni Bond ETF,Z,IBMR,Y,100.0,N,IBMR
 IBMS,iShares iBonds Dec 2030 Term Muni Bond ETF,iShares iBonds Dec 2030 Term Muni Bond ETF,Z,IBMS,Y,100.0,N,IBMS
 IBMT,iShares iBonds Dec 2031 Term Muni Bond ETF,iShares iBonds Dec 2031 Term Muni Bond ETF,Z,IBMT,Y,100.0,N,IBMT
+IBMU,iShares iBonds Dec 2032 Term Muni Bond ETF,iShares iBonds Dec 2032 Term Muni Bond ETF,Z,IBMU,Y,100.0,N,IBMU
+IBMV,iShares iBonds Dec 2033 Term Muni Bond ETF,iShares iBonds Dec 2033 Term Muni Bond ETF,Z,IBMV,Y,100.0,N,IBMV
 IBN,ICICI Bank Limited Common Stock,ICICI Bank Limited Common Stock,N,IBN,N,100.0,N,IBN
 IBND,SPDR Bloomberg International Corporate Bond ETF,SPDR Bloomberg International Corporate Bond ETF,P,IBND,Y,100.0,N,IBND
 IBO,"Impact BioMedical, Inc. Common Stock","Impact BioMedical, Inc. Common Stock",A,IBO,N,100.0,N,IBO
@@ -4101,6 +4106,7 @@ MPLY,Monopoly ETF,Monopoly ETF,Z,MPLY,Y,100.0,N,MPLY
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
 MPT,"Medical Properties Trust, Inc. common stock","Medical Properties Trust, Inc. common stock",N,MPT,N,100.0,N,MPT
 MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
+MPTI.V,M,"M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights when issued",A,MPTIrw,N,100.0,N,MPTI^#
 MPU,Mega Matrix Inc. Class A Ordinary Shares,Mega Matrix Inc. Class A Ordinary Shares,A,MPU,N,100.0,N,MPU
 MPV,Barings Participation Investors Common Stock,Barings Participation Investors Common Stock,N,MPV,N,100.0,N,MPV
 MPX,Marine Products Corporation Common Stock,Marine Products Corporation Common Stock,N,MPX,N,100.0,N,MPX
@@ -4320,7 +4326,7 @@ NGVT,Ingevity Corporation Common Stock ,Ingevity Corporation Common Stock ,N,NGV
 NHC,National HealthCare Corporation Common Stock,National HealthCare Corporation Common Stock,A,NHC,N,100.0,N,NHC
 NHI,"National Health Investors, Inc. Common Stock","National Health Investors, Inc. Common Stock",N,NHI,N,100.0,N,NHI
 NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,Neuberger High Yield Strategies Fund Inc. Common Stock,A,NHS,N,100.0,N,NHS
-NHS.V,"Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued","Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",A,NHSrw,N,100.0,N,NHS^#
+NHS.R,"Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights","Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",A,NHSr,N,100.0,N,NHS^
 NHYB,Nuveen High Yield Corporate Bond ETF,Nuveen High Yield Corporate Bond ETF,P,NHYB,Y,100.0,N,NHYB
 NHYM,Nuveen High Yield Municipal Income ETF,Nuveen High Yield Municipal Income ETF,P,NHYM,Y,100.0,N,NHYM
 NI,NiSource Inc Common Stock,NiSource Inc Common Stock,N,NI,N,100.0,N,NI
@@ -4380,8 +4386,6 @@ NOK,Nokia Corporation Sponsored American Depositary Shares,Nokia Corporation Spo
 NOM,Nuveen Missouri Quality Municipal Income Fund ,Nuveen Missouri Quality Municipal Income Fund ,N,NOM,N,100.0,N,NOM
 NOMD,Nomad Foods Limited Ordinary Shares,Nomad Foods Limited Ordinary Shares,N,NOMD,N,100.0,N,NOMD
 NORW,Global X MSCI Norway ETF,Global X MSCI Norway ETF,P,NORW,Y,100.0,N,NORW
-NOTE,"FiscalNote Holdings, Inc. Class A common stock","FiscalNote Holdings, Inc. Class A common stock",N,NOTE,N,100.0,N,NOTE
-NOTE.W,"FiscalNote Holdings, Inc. Warrants to purchase one share of Class A common stock, each at an exercise price of $11.50 per share","FiscalNote Holdings, Inc. Warrants to purchase one share of Class A common stock, each at an exercise price of $11.50 per share",N,NOTE.WS,N,100.0,N,NOTE+
 NOV,NOV Inc. Common Stock,NOV Inc. Common Stock,N,NOV,N,100.0,N,NOV
 NOVM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - November,Z,NOVM,Y,100.0,N,NOVM
 NOVP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - November,Z,NOVP,Y,100.0,N,NOVP
@@ -4499,6 +4503,7 @@ NXUS,Nuveen International Aggregate Bond ETF,Nuveen International Aggregate Bond
 NYC,American Strategic Investment Co. Class A Common Stock,American Strategic Investment Co. Class A Common Stock,N,NYC,N,100.0,N,NYC
 NYF,iShares New York Muni Bond ETF,iShares New York Muni Bond ETF,P,NYF,Y,100.0,N,NYF
 NYM,AB New York Intermediate Municipal ETF,AB New York Intermediate Municipal ETF,P,NYM,Y,100.0,N,NYM
+NYSX,Global X NYSE 100 ETF,Global X NYSE 100 ETF,P,NYSX,Y,100.0,N,NYSX
 NYT,New York Times Company (The) Common Stock,New York Times Company (The) Common Stock,N,NYT,N,100.0,N,NYT
 NZF,Nuveen Municipal Credit Income Fund ,Nuveen Municipal Credit Income Fund ,N,NZF,N,100.0,N,NZF
 O,Realty Income Corporation Common Stock,Realty Income Corporation Common Stock,N,O,N,100.0,N,O
