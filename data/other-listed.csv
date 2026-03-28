@@ -308,6 +308,7 @@ APRW,AllianzIM U.S. Large Cap Buffer20 Apr ETF,AllianzIM U.S. Large Cap Buffer20
 APRZ,TrueShares Structured Outcome (April) ETF,TrueShares Structured Outcome (April) ETF,Z,APRZ,Y,100.0,N,APRZ
 APT,"Alpha Pro Tech, Ltd. Common Stock","Alpha Pro Tech, Ltd. Common Stock",A,APT,N,100.0,N,APT
 APTV,Aptiv PLC Ordinary Shares,Aptiv PLC Ordinary Shares,N,APTV,N,100.0,N,APTV
+APTV.V,Aptiv PLC Ordinary Shares When,Aptiv PLC Ordinary Shares When-Issued,N,APTVw,N,100.0,N,APTV#
 APUE,ActivePassive U.S. Equity ETF,ActivePassive U.S. Equity ETF,P,APUE,Y,100.0,N,APUE
 APUS,"Apimeds Pharmaceuticals US, Inc. Common Stock","Apimeds Pharmaceuticals US, Inc. Common Stock",A,APUS,N,100.0,N,APUS
 APXM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - April,Z,APXM,Y,100.0,N,APXM
@@ -1137,7 +1138,9 @@ CIX,CompX International Inc. Common Stock,CompX International Inc. Common Stock,
 CKX,"CKX Lands, Inc. Common Stock","CKX Lands, Inc. Common Stock",A,CKX,N,100.0,N,CKX
 CL,Colgate,Colgate-Palmolive Company Common Stock,N,CL,N,100.0,N,CL
 CLB,Core Laboratories Inc. Common Stock,Core Laboratories Inc. Common Stock,N,CLB,N,100.0,N,CLB
+CLBR,Colombier Acquisition Corp. III Class A Ordinary Shares,Colombier Acquisition Corp. III Class A Ordinary Shares,N,CLBR,N,100.0,N,CLBR
 CLBR.U,"Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one","Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-eighth of one warrant",N,CLBR.U,N,100.0,N,CLBR=
+CLBR.W,"Colombier Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Colombier Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,CLBR.WS,N,100.0,N,CLBR+
 CLCG,Crossmark Large Cap Growth ETF,Crossmark Large Cap Growth ETF,P,CLCG,Y,100.0,N,CLCG
 CLCV,Crossmark Large Cap Value ETF,Crossmark Large Cap Value ETF,P,CLCV,Y,100.0,N,CLCV
 CLDI,"Calidi Biotherapeutics, Inc. Common Stock","Calidi Biotherapeutics, Inc. Common Stock",A,CLDI,N,100.0,N,CLDI
@@ -1357,7 +1360,7 @@ CTDD,Qwest Corporation 6.75% Notes due 2057,Qwest Corporation 6.75% Notes due 20
 CTEF,Castellan Targeted Equity ETF,Castellan Targeted Equity ETF,Z,CTEF,Y,100.0,N,CTEF
 CTEV,Claritev Corporation Class A Common Stock,Claritev Corporation Class A Common Stock,N,CTEV,N,100.0,N,CTEV
 CTEX,ProShares S&P Kensho Cleantech ETF,ProShares S&P Kensho Cleantech ETF,P,CTEX,Y,100.0,N,CTEX
-CTGO,"Contango ORE, Inc. Common Stock","Contango ORE, Inc. Common Stock",A,CTGO,N,100.0,N,CTGO
+CTGO,Contango Silver & Gold Inc. Common Stock,Contango Silver & Gold Inc. Common Stock,A,CTGO,N,100.0,N,CTGO
 CTIF,Castellan Targeted Income ETF,Castellan Targeted Income ETF,Z,CTIF,Y,100.0,N,CTIF
 CTM,"Castellum, Inc. Common Stock","Castellum, Inc. Common Stock",A,CTM,N,100.0,N,CTM
 CTO,"CTO Realty Growth, Inc. Common Stock","CTO Realty Growth, Inc. Common Stock",N,CTO,N,100.0,N,CTO
@@ -1725,7 +1728,6 @@ DVA,DaVita Inc. Common Stock,DaVita Inc. Common Stock,N,DVA,N,100.0,N,DVA
 DVDN,Kingsbarn Dividend Opportunity ETF,Kingsbarn Dividend Opportunity ETF,P,DVDN,Y,100.0,N,DVDN
 DVN,Devon Energy Corporation Common Stock,Devon Energy Corporation Common Stock,N,DVN,N,100.0,N,DVN
 DVND,Touchstone Dividend Select ETF,Touchstone Dividend Select ETF,P,DVND,Y,100.0,N,DVND
-DVS,Dolly Varden Silver Corporation Common Shares,Dolly Varden Silver Corporation Common Shares,A,DVS,N,100.0,N,DVS
 DVVY,Invesco Diversified Dividend Opportunities ETF,Invesco Diversified Dividend Opportunities ETF,Z,DVVY,Y,100.0,N,DVVY
 DVYA,iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund,iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund,P,DVYA,Y,100.0,N,DVYA
 DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,P,DVYE,Y,100.0,N,DVYE
@@ -5359,7 +5361,6 @@ RVI,Robinhood Ventures Fund I Common Shares of Beneficial Interest,Robinhood Ven
 RVLV,"Revolve Group, Inc. Class A Common Stock","Revolve Group, Inc. Class A Common Stock",N,RVLV,N,100.0,N,RVLV
 RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,Xtrackers Municipal Infrastructure Revenue Bond ETF,P,RVNU,Y,100.0,N,RVNU
 RVP,"Retractable Technologies, Inc. Common Stock","Retractable Technologies, Inc. Common Stock",A,RVP,N,100.0,N,RVP
-RVRB,Reverb ETF,Reverb ETF,Z,RVRB,Y,100.0,N,RVRB
 RVT,Royce Small,"Royce Small-Cap Trust, Inc. Common Stock",N,RVT,N,100.0,N,RVT
 RVTY,"Revvity, Inc. Common Stock","Revvity, Inc. Common Stock",N,RVTY,N,100.0,N,RVTY
 RW,Rainwater Equity ETF,Rainwater Equity ETF,P,RW,Y,100.0,N,RW
@@ -5908,9 +5909,7 @@ STWD,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.","STARWOOD PROP
 STXD,Strive 1000 Dividend Growth ETF,Strive 1000 Dividend Growth ETF,N,STXD,Y,100.0,N,STXD
 STXE,Strive Emerging Markets Ex,Strive Emerging Markets Ex-China ETF,N,STXE,Y,100.0,N,STXE
 STXG,Strive 1000 Growth ETF,Strive 1000 Growth ETF,N,STXG,Y,100.0,N,STXG
-STXI,Strive International Developed Markets ETF,Strive International Developed Markets ETF,N,STXI,Y,100.0,N,STXI
 STXK,Strive Small,Strive Small-Cap ETF,N,STXK,Y,100.0,N,STXK
-STXM,Strive Mid,Strive Mid-Cap ETF,N,STXM,Y,100.0,N,STXM
 STXS,"Stereotaxis, Inc. Common Stock","Stereotaxis, Inc. Common Stock",A,STXS,N,100.0,N,STXS
 STXT,Strive Total Return Bond ETF,Strive Total Return Bond ETF,N,STXT,Y,100.0,N,STXT
 STXV,Strive 1000 Value ETF,Strive 1000 Value ETF,N,STXV,Y,100.0,N,STXV
@@ -6530,6 +6529,7 @@ VGI,Virtus Global Multi,Virtus Global Multi-Sector Income Fund Common Shares of 
 VGK,Vanguard FTSEEuropean ETF,Vanguard FTSEEuropean ETF,P,VGK,Y,100.0,N,VGK
 VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),Invesco Trust for Investment Grade Municipals Common Stock (DE),N,VGM,N,100.0,N,VGM
 VGMS,Vanguard Multi,Vanguard Multi-Sector Income Bond ETF,Z,VGMS,Y,100.0,N,VGMS
+VGNT.V,Versigent PLC Ordinary Shares When,Versigent PLC Ordinary Shares When-Issued,N,VGNTw,N,100.0,N,VGNT#
 VGRO,Virtus Silvant Growth Opportunities ETF,Virtus Silvant Growth Opportunities ETF,P,VGRO,Y,100.0,N,VGRO
 VGT,Vanguard Information Tech ETF,Vanguard Information Tech ETF,P,VGT,Y,40.0,N,VGT
 VGVT,Vanguard Government Securities Active ETF,Vanguard Government Securities Active ETF,P,VGVT,Y,100.0,N,VGVT
@@ -6590,6 +6590,7 @@ VOOG,Vanguard S&P 500 Growth ETF,Vanguard S&P 500 Growth ETF,P,VOOG,Y,40.0,N,VOO
 VOOV,Vanguard S&P 500 Value ETF,Vanguard S&P 500 Value ETF,P,VOOV,Y,100.0,N,VOOV
 VOT,Vanguard Mid,Vanguard Mid-Cap Growth ETF,P,VOT,Y,40.0,N,VOT
 VOX,Vanguard Communication Services  ETF,Vanguard Communication Services  ETF,P,VOX,Y,100.0,N,VOX
+VOXP,Vox Populi ETF,Vox Populi ETF,Z,VOXP,Y,100.0,N,VOXP
 VOYA,"Voya Financial, Inc. Common Stock","Voya Financial, Inc. Common Stock",N,VOYA,N,100.0,N,VOYA
 VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed","Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",N,VOYApB,N,100.0,N,VOYA-B
 VOYG,"Voyager Technologies, Inc. Class A Common Stock","Voyager Technologies, Inc. Class A Common Stock",N,VOYG,N,100.0,N,VOYG

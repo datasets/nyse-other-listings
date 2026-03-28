@@ -180,6 +180,7 @@ APO,"Apollo Global Management, Inc. (New) Common Stock"
 APO$A,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock"
 APOS,"Apollo Global Management, Inc. 7.625% Fixed"
 APTV,Aptiv PLC Ordinary Shares
+APTV.V,Aptiv PLC Ordinary Shares When
 AQN,Algonquin Power & Utilities Corp. Common Shares
 AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed
 AR,Antero Resources Corporation Common Stock
@@ -582,7 +583,9 @@ CINT,CI&T Inc Class A Common Shares
 CION,CION Investment Corporation Common Stock
 CL,Colgate
 CLB,Core Laboratories Inc. Common Stock
+CLBR,Colombier Acquisition Corp. III Class A Ordinary Shares
 CLBR.U,"Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one"
+CLBR.W,"Colombier Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 CLDT,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest
 CLDT$A,Chatham Lodging Trust (REIT) 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest
 CLF,Cleveland
@@ -2462,9 +2465,7 @@ STWD,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc."
 STXD,Strive 1000 Dividend Growth ETF
 STXE,Strive Emerging Markets Ex
 STXG,Strive 1000 Growth ETF
-STXI,Strive International Developed Markets ETF
 STXK,Strive Small
-STXM,Strive Mid
 STXT,Strive Total Return Bond ETF
 STXV,Strive 1000 Value ETF
 STZ,"Constellation Brands, Inc. Common Stock"
@@ -2708,6 +2709,7 @@ VFC,V.F. Corporation Common Stock
 VG,"Venture Global, Inc. Class A common stock"
 VGI,Virtus Global Multi
 VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE)
+VGNT.V,Versigent PLC Ordinary Shares When
 VHI,"Valhi, Inc. Common Stock"
 VIA,"Via Transportation, Inc. Class A Common Stock"
 VICI,VICI Properties Inc. Common Stock
