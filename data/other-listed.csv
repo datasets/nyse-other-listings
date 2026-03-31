@@ -943,7 +943,6 @@ BWZ,SPDR Bloomberg Short Term International Treasury Bond ETF,SPDR Bloomberg Sho
 BX,Blackstone Inc. Common Stock,Blackstone Inc. Common Stock,N,BX,N,100.0,N,BX
 BXC,Bluelinx Holdings Inc. Common Stock,Bluelinx Holdings Inc. Common Stock,N,BXC,N,100.0,N,BXC
 BXMT,"Blackstone Mortgage Trust, Inc. Common Stock","Blackstone Mortgage Trust, Inc. Common Stock",N,BXMT,N,100.0,N,BXMT
-BXMX,Nuveen S&P 500 Buy,Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest,N,BXMX,N,100.0,N,BXMX
 BXP,"BXP, Inc. Common Stock","BXP, Inc. Common Stock",N,BXP,N,100.0,N,BXP
 BXSL,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,N,BXSL,N,100.0,N,BXSL
 BY,"Byline Bancorp, Inc. Common Stock","Byline Bancorp, Inc. Common Stock",N,BY,N,100.0,N,BY
@@ -1587,7 +1586,6 @@ DHX,"DHI Group, Inc. Common Stock","DHI Group, Inc. Common Stock",N,DHX,N,100.0,
 DHY,Credit Suisse High Yield Credit Fund Common Stock,Credit Suisse High Yield Credit Fund Common Stock,A,DHY,N,100.0,N,DHY
 DIA,State Street SPDR Dow Jones Industrial Average ETF Trust,State Street SPDR Dow Jones Industrial Average ETF Trust,P,DIA,Y,40.0,N,DIA
 DIAL,Columbia Diversified Fixed Income Allocation ETF,Columbia Diversified Fixed Income Allocation ETF,P,DIAL,Y,100.0,N,DIAL
-DIAX,Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest,Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest,N,DIAX,N,100.0,N,DIAX
 DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,Franklin Emerging Market Core Dividend Tilt Index ETF,P,DIEM,Y,100.0,N,DIEM
 DIG,ProShares Ultra Energy,ProShares Ultra Energy,P,DIG,Y,100.0,N,DIG
 DIHP,Dimensional International High Profitability ETF,Dimensional International High Profitability ETF,Z,DIHP,Y,100.0,N,DIHP
@@ -3001,7 +2999,6 @@ HYGW,iShares High Yield Corporate Bond BuyWrite Strategy ETF,iShares High Yield 
 HYHG,ProShares High Yield Interest Rate Hedged,ProShares High Yield Interest Rate Hedged,Z,HYHG,Y,100.0,N,HYHG
 HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock,Western Asset High Yield Opportunity Fund Inc. Common Stock,N,HYI,N,100.0,N,HYI
 HYIN,WisdomTree Private Credit and Alternative Income Fund,WisdomTree Private Credit and Alternative Income Fund,Z,HYIN,Y,100.0,N,HYIN
-HYKE,Vest 2 Year Interest Rate Hedge ETF,Vest 2 Year Interest Rate Hedge ETF,Z,HYKE,Y,100.0,N,HYKE
 HYLB,Xtrackers USD High Yield Corporate Bond ETF,Xtrackers USD High Yield Corporate Bond ETF,P,HYLB,Y,100.0,N,HYLB
 HYLN,Hyliion Holdings Corp. Class A Common Stock,Hyliion Holdings Corp. Class A Common Stock,A,HYLN,N,100.0,N,HYLN
 HYMB,State Street SPDR Nuveen ICE High Yield Municipal Bond ETF,State Street SPDR Nuveen ICE High Yield Municipal Bond ETF,P,HYMB,Y,100.0,N,HYMB
@@ -5390,7 +5387,6 @@ RYDE,Ryde Group Ltd. Class A Ordinary Shares,Ryde Group Ltd. Class A Ordinary Sh
 RYLD,Global X Russell 2000 Covered Call ETF,Global X Russell 2000 Covered Call ETF,P,RYLD,Y,100.0,N,RYLD
 RYLG,Global X Russell 2000 Covered Call & Growth ETF,Global X Russell 2000 Covered Call & Growth ETF,P,RYLG,Y,100.0,N,RYLG
 RYN,Rayonier Inc. REIT Common Stock,Rayonier Inc. REIT Common Stock,N,RYN,N,100.0,N,RYN
-RYSE,Vest 10 Year Interest Rate Hedge ETF,Vest 10 Year Interest Rate Hedge ETF,Z,RYSE,Y,100.0,N,RYSE
 RYZ,Ryerson Holding Corporation Common Stock,Ryerson Holding Corporation Common Stock,N,RYZ,N,100.0,N,RYZ
 RZB,"Reinsurance Group of America, Incorporated 5.75% Fixed","Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",N,RZB,N,100.0,N,RZB
 RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed","Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",N,RZC,N,100.0,N,RZC
@@ -5502,6 +5498,8 @@ SCMC,Sterling Capital Multi,Sterling Capital Multi-Strategy Income ETF,Z,SCMC,Y,
 SCNM,Sterling Capital National Municipal Bond ETF,Sterling Capital National Municipal Bond ETF,Z,SCNM,Y,100.0,N,SCNM
 SCO,ProShares UltraShort Bloomberg Crude Oil,ProShares UltraShort Bloomberg Crude Oil,P,SCO,Y,100.0,N,SCO
 SCOW,Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF,Pacer S&P SmallCap 600 Quality FCF Aristocrats ETF,Z,SCOW,Y,100.0,N,SCOW
+SCSB,Sterling Capital Short Duration Bond ETF,Sterling Capital Short Duration Bond ETF,Z,SCSB,Y,100.0,N,SCSB
+SCUB,Sterling Capital Ultra Short Bond ETF,Sterling Capital Ultra Short Bond ETF,Z,SCUB,Y,100.0,N,SCUB
 SCUS,Schwab Ultra,Schwab Ultra-Short Income ETF,P,SCUS,Y,100.0,N,SCUS
 SCYB,Schwab High Yield Bond ETF,Schwab High Yield Bond ETF,P,SCYB,Y,100.0,N,SCYB
 SD,"SandRidge Energy, Inc. Common Stock","SandRidge Energy, Inc. Common Stock",N,SD,N,100.0,N,SD
@@ -5986,7 +5984,7 @@ TBG,TBG Dividend Focus ETF,TBG Dividend Focus ETF,P,TBG,Y,100.0,N,TBG
 TBI,"TrueBlue, Inc. Common Stock","TrueBlue, Inc. Common Stock",N,TBI,N,100.0,N,TBI
 TBJL,Innovator 20  Year Treasury Bond 9 Buffer ETF ,Innovator 20  Year Treasury Bond 9 Buffer ETF - July,Z,TBJL,Y,100.0,N,TBJL
 TBLL,Invesco Short Term Treasury ETF,Invesco Short Term Treasury ETF,P,TBLL,Y,100.0,N,TBLL
-TBLU,Tortoise Global Water Fund,Tortoise Global Water Fund,N,TBLU,Y,100.0,N,TBLU
+TBLU,Tortoise Global Water ETF,Tortoise Global Water ETF,N,TBLU,Y,100.0,N,TBLU
 TBN,Tamboran Resources Corporation Common stock,Tamboran Resources Corporation Common stock,N,TBN,N,100.0,N,TBN
 TBT,ProShares UltraShort Lehman 20  Year Treasury,ProShares UltraShort Lehman 20  Year Treasury,P,TBT,Y,100.0,N,TBT
 TBUX,T. Rowe Price Ultra Short,T. Rowe Price Ultra Short-Term Bond ETF,P,TBUX,Y,100.0,N,TBUX
@@ -6158,7 +6156,7 @@ TMVE,Thrivent Mid Cap Value ETF,Thrivent Mid Cap Value ETF,P,TMVE,Y,100.0,N,TMVE
 TNA,Direxion Small Cap Bull 3X ETF,Direxion Small Cap Bull 3X ETF,P,TNA,Y,100.0,N,TNA
 TNC,Tennant Company Common Stock,Tennant Company Common Stock,N,TNC,N,100.0,N,TNC
 TNET,"TriNet Group, Inc. Common Stock","TriNet Group, Inc. Common Stock",N,TNET,N,100.0,N,TNET
-TNGY,Tortoise Energy Fund,Tortoise Energy Fund,N,TNGY,Y,100.0,N,TNGY
+TNGY,Tortoise Energy ETF,Tortoise Energy ETF,N,TNGY,Y,100.0,N,TNGY
 TNK,Teekay Tankers Ltd.,Teekay Tankers Ltd.,N,TNK,N,100.0,N,TNK
 TNL,Travel   Leisure Co. Common  Stock,Travel   Leisure Co. Common  Stock,N,TNL,N,100.0,N,TNL
 TNUK,Tortoise Nuclear Renaissance ETF,Tortoise Nuclear Renaissance ETF,P,TNUK,Y,100.0,N,TNUK
@@ -6200,7 +6198,7 @@ TPRY,VistaShares Target 15 TEPRTantrum Contrarian Distribution ETF,VistaShares T
 TPSC,Timothy Plan US Small Cap Core ETF,Timothy Plan US Small Cap Core ETF,P,TPSC,Y,100.0,N,TPSC
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026","Terra Property Trust, Inc. 6.00% Notes due 2026",N,TPTA,N,100.0,N,TPTA
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,TriplePoint Venture Growth BDC Corp. Common Stock,N,TPVG,N,100.0,N,TPVG
-TPYP,Tortoise North American Pipeline Fund,Tortoise North American Pipeline Fund,N,TPYP,Y,100.0,N,TPYP
+TPYP,Tortoise North American Pipeline ETF,Tortoise North American Pipeline ETF,N,TPYP,Y,100.0,N,TPYP
 TPZ,Tortoise Electrification Infrastructure ETF,Tortoise Electrification Infrastructure ETF,N,TPZ,Y,100.0,N,TPZ
 TR,"Tootsie Roll Industries, Inc. Common Stock","Tootsie Roll Industries, Inc. Common Stock",N,TR,N,100.0,N,TR
 TRAD.U,"APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share","APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share",N,TRAD.U,N,100.0,N,TRAD=
