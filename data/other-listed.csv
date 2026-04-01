@@ -34,6 +34,7 @@ ABR$D,"Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock,
 ABR$E,Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock,Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock,N,ABRpE,N,100.0,N,ABR-E
 ABR$F,Arbor Realty Trust 6.25% Series F Fixed,"Arbor Realty Trust 6.25% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per share",N,ABRpF,N,100.0,N,ABR-F
 ABT,Abbott Laboratories Common Stock,Abbott Laboratories Common Stock,N,ABT,N,100.0,N,ABT
+ABUF,Aptus Laddered Buffer ETF,Aptus Laddered Buffer ETF,Z,ABUF,Y,100.0,N,ABUF
 ABX,"Abacus Global Management, Inc. Class A Common Stock","Abacus Global Management, Inc. Class A Common Stock",N,ABX,N,100.0,N,ABX
 ABXB,Abacus Flexible Bond Leaders ETF,Abacus Flexible Bond Leaders ETF,Z,ABXB,Y,100.0,N,ABXB
 ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028","Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",N,ABXL,N,100.0,N,ABXL
@@ -558,8 +559,7 @@ BBRE,JPMorgan BetaBuilders MSCI U.S. REIT ETF,JPMorgan BetaBuilders MSCI U.S. RE
 BBSB,JPMorgan BetaBuilders U.S. Treasury Bond 1,JPMorgan BetaBuilders U.S. Treasury Bond 1-3 Year ETF,Z,BBSB,Y,100.0,N,BBSB
 BBSC,JPMorgan BetaBuilders U.S. Small Cap Equity ETF,JPMorgan BetaBuilders U.S. Small Cap Equity ETF,P,BBSC,Y,100.0,N,BBSC
 BBT,Beacon Financial Corporation Common stock,Beacon Financial Corporation Common stock,N,BBT,N,100.0,N,BBT
-BBU,Brookfield Business Partners L.P. Limited Partnership Units ,Brookfield Business Partners L.P. Limited Partnership Units ,N,BBU,N,100.0,N,BBU
-BBUC,Brookfield Business Corporation Class A Exchangeable Subordinate Voting Shares,Brookfield Business Corporation Class A Exchangeable Subordinate Voting Shares,N,BBUC,N,100.0,N,BBUC
+BBUC,Brookfield Business Corporation Class A Subordinate Voting Shares,Brookfield Business Corporation Class A Subordinate Voting Shares,N,BBUC,N,100.0,N,BBUC
 BBUS,JPMorgan BetaBuilders U.S. Equity ETF,JPMorgan BetaBuilders U.S. Equity ETF,Z,BBUS,Y,100.0,N,BBUS
 BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,N,BBVA,N,100.0,N,BBVA
 BBW,Build,"Build-A-Bear Workshop, Inc. Common Stock",N,BBW,N,100.0,N,BBW
@@ -3647,6 +3647,7 @@ KORE,"KORE Group Holdings, Inc. Common Stock","KORE Group Holdings, Inc. Common 
 KORP,American Century Diversified Corporate Bond ETF,American Century Diversified Corporate Bond ETF,P,KORP,Y,100.0,N,KORP
 KORU,Direxion Daily South Korea Bull 3X ETF,Direxion Daily South Korea Bull 3X ETF,P,KORU,Y,100.0,N,KORU
 KOS,Kosmos Energy Ltd. Common Shares (DE),Kosmos Energy Ltd. Common Shares (DE),N,KOS,N,100.0,N,KOS
+KPET.U,"KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one","KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one-sixth of one Warrant",N,KPET.U,N,100.0,N,KPET=
 KPHO,KraneShares Dragon Capital Vietnam Growth Index ETF,KraneShares Dragon Capital Vietnam Growth Index ETF,P,KPHO,Y,100.0,N,KPHO
 KPRO,KraneShares 100% KWEB Defined Outcome January 2027 ETF,KraneShares 100% KWEB Defined Outcome January 2027 ETF,P,KPRO,Y,100.0,N,KPRO
 KR,Kroger Company (The) Common Stock,Kroger Company (The) Common Stock,N,KR,N,100.0,N,KR
@@ -4077,7 +4078,7 @@ MMT,MFS Multimarket Income Trust Common Stock,MFS Multimarket Income Trust Commo
 MMTM,State Street SPDR S&P 1500 Momentum Tilt ETF,State Street SPDR S&P 1500 Momentum Tilt ETF,P,MMTM,Y,40.0,N,MMTM
 MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock","Western Asset Managed Municipals Fund, Inc. Common Stock",N,MMU,N,100.0,N,MMU
 MNA,NYLI Merger Arbitrage ETF,NYLI Merger Arbitrage ETF,P,MNA,Y,100.0,N,MNA
-MNBD,ALPS Intermediate Municipal Bond ETF,ALPS Intermediate Municipal Bond ETF,P,MNBD,Y,100.0,N,MNBD
+MNBD,ALPS BBH Intermediate Municipal Bond ETF,ALPS BBH Intermediate Municipal Bond ETF,P,MNBD,Y,100.0,N,MNBD
 MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,Mach Natural Resources LP Common Units representing Limited Partner Interests,N,MNR,N,100.0,N,MNR
 MNRS,Grayscale Bitcoin Miners ETF,Grayscale Bitcoin Miners ETF,P,MNRS,Y,100.0,N,MNRS
 MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares","MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",N,MNSO,N,100.0,N,MNSO
@@ -4105,7 +4106,7 @@ MPLY,Monopoly ETF,Monopoly ETF,Z,MPLY,Y,100.0,N,MPLY
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
 MPT,"Medical Properties Trust, Inc. common stock","Medical Properties Trust, Inc. common stock",N,MPT,N,100.0,N,MPT
 MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
-MPTI.V,M,"M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights when issued",A,MPTIrw,N,100.0,N,MPTI^#
+MPTI.R,M,"M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights",A,MPTIr,N,100.0,N,MPTI^
 MPU,Mega Matrix Inc. Class A Ordinary Shares,Mega Matrix Inc. Class A Ordinary Shares,A,MPU,N,100.0,N,MPU
 MPV,Barings Participation Investors Common Stock,Barings Participation Investors Common Stock,N,MPV,N,100.0,N,MPV
 MPX,Marine Products Corporation Common Stock,Marine Products Corporation Common Stock,N,MPX,N,100.0,N,MPX
@@ -4239,6 +4240,7 @@ NAN,Nuveen New York Quality Municipal Income Fund Common Stock,Nuveen New York Q
 NANC,Unusual Whales Subversive Democratic Trading ETF,Unusual Whales Subversive Democratic Trading ETF,Z,NANC,Y,100.0,N,NANC
 NANR,State Street SPDR S&P North American Natural Resources ETF,State Street SPDR S&P North American Natural Resources ETF,P,NANR,Y,100.0,N,NANR
 NAPR,Innovator Growth,Innovator Growth-100 Power Buffer ETF - April,Z,NAPR,Y,100.0,N,NAPR
+NASA,Tema Space Innovators ETF,Tema Space Innovators ETF,P,NASA,Y,100.0,N,NASA
 NAT,Nordic American Tankers Limited Common Stock,Nordic American Tankers Limited Common Stock,N,NAT,N,100.0,N,NAT
 NATL,NCR Atleos Corporation Common Stock,NCR Atleos Corporation Common Stock,N,NATL,N,100.0,N,NATL
 NAUG,Innovator Growth,Innovator Growth-100 Power Buffer ETF - August,Z,NAUG,Y,100.0,N,NAUG
@@ -4333,6 +4335,7 @@ NIC,Nicolet Bankshares Inc. Common Stock,Nicolet Bankshares Inc. Common Stock,N,
 NIE,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest,N,NIE,N,100.0,N,NIE
 NIHI,NEOS MSCI EAFE High Income ETF,NEOS MSCI EAFE High Income ETF,Z,NIHI,Y,100.0,N,NIHI
 NIM,Nuveen Select Maturities Municipal Fund Common Stock,Nuveen Select Maturities Municipal Fund Common Stock,N,NIM,N,100.0,N,NIM
+NINE,"Nine Energy Service, Inc. Common Stock","Nine Energy Service, Inc. Common Stock",A,NINE,N,100.0,N,NINE
 NIO,"NIO Inc. American depositary shares, each  representing one Class A ordinary share","NIO Inc. American depositary shares, each  representing one Class A ordinary share",N,NIO,N,100.0,N,NIO
 NIQ,NIQ Global Intelligence plc Ordinary Shares,NIQ Global Intelligence plc Ordinary Shares,N,NIQ,N,100.0,N,NIQ
 NITE,The Nightview Fund NITE,The Nightview Fund NITE,P,NITE,Y,100.0,N,NITE
@@ -5208,8 +5211,8 @@ RF,Regions Financial Corporation Common Stock,Regions Financial Corporation Comm
 RF$C,"Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a  Share of 5.700% Fixed","Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a  Share of 5.700% Fixed-to-Floating Rate Non-Cumulative  Perpetual Preferred Stock, Series C",N,RFpC,N,100.0,N,RF-C
 RF$E,"Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non","Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",N,RFpE,N,100.0,N,RF-E
 RF$F,Regions Financial Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of Non,"Regions Financial Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",N,RFpF,N,100.0,N,RF-F
-RFCI,RiverFront Dynamic Core Income ETF,RiverFront Dynamic Core Income ETF,P,RFCI,Y,100.0,N,RFCI
-RFDA,RiverFront Dynamic US Dividend Advantage ETF,RiverFront Dynamic US Dividend Advantage ETF,P,RFDA,Y,100.0,N,RFDA
+RFCI,ALPS Dynamic Core Income ETF,ALPS Dynamic Core Income ETF,P,RFCI,Y,100.0,N,RFCI
+RFDA,ALPS Dynamic US Dividend Advantage ETF,ALPS Dynamic US Dividend Advantage ETF,P,RFDA,Y,100.0,N,RFDA
 RFFC,ALPS Active Equity Opportunity ETF,ALPS Active Equity Opportunity ETF,P,RFFC,Y,100.0,N,RFFC
 RFG,Invesco S&P MidCap 400 Pure Growth ETF,Invesco S&P MidCap 400 Pure Growth ETF,P,RFG,Y,100.0,N,RFG
 RFI,"Cohen & Steers Total Return Realty Fund, Inc. Common Stock","Cohen & Steers Total Return Realty Fund, Inc. Common Stock",N,RFI,N,100.0,N,RFI
@@ -6061,7 +6064,6 @@ TFLO,iShares Treasury Floating Rate Bond ETF,iShares Treasury Floating Rate Bond
 TFLR,T. Rowe Price Floating Rate ETF,T. Rowe Price Floating Rate ETF,P,TFLR,Y,100.0,N,TFLR
 TFPM,Triple Flag Precious Metals Corp. Common Shares,Triple Flag Precious Metals Corp. Common Shares,N,TFPM,N,100.0,N,TFPM
 TFPN,Blueprint Chesapeake Multi,Blueprint Chesapeake Multi-Asset Trend ETF,P,TFPN,Y,100.0,N,TFPN
-TFSA,"Terra Income Fund 6, LLC 7.00% Notes due 2026","Terra Income Fund 6, LLC 7.00% Notes due 2026",N,TFSA,N,100.0,N,TFSA
 TFX,Teleflex Incorporated Common Stock,Teleflex Incorporated Common Stock,N,TFX,N,100.0,N,TFX
 TG,Tredegar Corporation Common Stock,Tredegar Corporation Common Stock,N,TG,N,100.0,N,TG
 TGB,"Taseko Mines, Ltd. Common Stock","Taseko Mines, Ltd. Common Stock",A,TGB,N,100.0,N,TGB
