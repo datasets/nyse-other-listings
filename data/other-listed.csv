@@ -911,7 +911,6 @@ BUFX,FT Vest Laddered Enhance & Moderate Buffer ETF,FT Vest Laddered Enhance & M
 BUFY,FT Vest Laddered International Moderate Buffer ETF,FT Vest Laddered International Moderate Buffer ETF,Z,BUFY,Y,100.0,N,BUFY
 BUFZ,FT Vest Laddered Moderate Buffer ETF,FT Vest Laddered Moderate Buffer ETF,Z,BUFZ,Y,100.0,N,BUFZ
 BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust","BlackRock Utility, Infrastructure & Power Opportunities Trust",N,BUI,N,100.0,N,BUI
-BUI.R,"BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights","BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights",N,BUIr,N,100.0,N,BUI^
 BUL,Pacer US Cash Cows Growth ETF,Pacer US Cash Cows Growth ETF,P,BUL,Y,100.0,N,BUL
 BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,MicroSectors FANG & Innovation 3x Leveraged ETN,P,BULZ,Y,100.0,N,BULZ
 BUR,Burford Capital Limited Ordinary Shares,Burford Capital Limited Ordinary Shares,N,BUR,N,100.0,N,BUR
@@ -1674,6 +1673,7 @@ DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,Duff & Phelps Utility and
 DPST,Direxion Daily Regional Banks Bull 3X ETF,Direxion Daily Regional Banks Bull 3X ETF,P,DPST,Y,100.0,N,DPST
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares","DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",N,DQ,N,100.0,N,DQ
 DRAI,Draco Evolution AI ETF,Draco Evolution AI ETF,P,DRAI,Y,100.0,N,DRAI
+DRAM,Roundhill Memory ETF,Roundhill Memory ETF,Z,DRAM,Y,100.0,N,DRAM
 DRAY,YieldMax DKNG Option Income Strategy ETF,YieldMax DKNG Option Income Strategy ETF,P,DRAY,Y,100.0,N,DRAY
 DRD,DRDGOLD Limited American Depositary Shares,DRDGOLD Limited American Depositary Shares,N,DRD,N,100.0,N,DRD
 DRES,GMO Domestic Resilience ETF,GMO Domestic Resilience ETF,P,DRES,Y,100.0,N,DRES
@@ -1861,6 +1861,7 @@ EGUS,iShares ESG Aware MSCI USA Growth ETF,iShares ESG Aware MSCI USA Growth ETF
 EGY,"VAALCO Energy, Inc.  Common Stock","VAALCO Energy, Inc.  Common Stock",N,EGY,N,100.0,N,EGY
 EHAB,"Enhabit, Inc. Common Stock","Enhabit, Inc. Common Stock",N,EHAB,N,100.0,N,EHAB
 EHC,Encompass Health Corporation Common Stock,Encompass Health Corporation Common Stock,N,EHC,N,100.0,N,EHC
+EHCC,Global X Ethereum Covered Call ETF,Global X Ethereum Covered Call ETF,Z,EHCC,Y,100.0,N,EHCC
 EHI,Western Asset Global High Income Fund Inc Common Stock,Western Asset Global High Income Fund Inc Common Stock,N,EHI,N,100.0,N,EHI
 EHY,Amplify Ethereum Max Income Covered Call ETF,Amplify Ethereum Max Income Covered Call ETF,Z,EHY,Y,100.0,N,EHY
 EIC,Eagle Point Income Company Inc. Common Stock,Eagle Point Income Company Inc. Common Stock,N,EIC,N,100.0,N,EIC
@@ -4502,6 +4503,7 @@ NXDT,NexPoint Diversified Real Estate Trust Common Stock,NexPoint Diversified Re
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),N,NXDTpA,N,100.0,N,NXDT-A
 NXE,Nexgen Energy Ltd. Common Shares,Nexgen Energy Ltd. Common Shares,N,NXE,N,100.0,N,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,N,NXG,N,100.0,N,NXG
+NXG.V,"NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued","NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued",N,NXGrw,N,100.0,N,NXG^#
 NXJ,Nuveen New Jersey Qualified Municipal Fund ,Nuveen New Jersey Qualified Municipal Fund ,N,NXJ,N,100.0,N,NXJ
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,Nuveen Select Tax Free Income Portfolio Common Stock,N,NXP,N,100.0,N,NXP
 NXRT,"NexPoint Residential Trust, Inc. Common Stock","NexPoint Residential Trust, Inc. Common Stock",N,NXRT,N,100.0,N,NXRT
