@@ -1866,7 +1866,6 @@ EHI,Western Asset Global High Income Fund Inc Common Stock,Western Asset Global 
 EHY,Amplify Ethereum Max Income Covered Call ETF,Amplify Ethereum Max Income Covered Call ETF,Z,EHY,Y,100.0,N,EHY
 EIC,Eagle Point Income Company Inc. Common Stock,Eagle Point Income Company Inc. Common Stock,N,EIC,N,100.0,N,EIC
 EICA,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,N,EICA,N,100.0,N,EICA
-EICC,Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2029,Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2029,N,EICC,N,100.0,N,EICC
 EIDO,iShares MSCI Indonesia ETF,iShares MSCI Indonesia ETF,P,EIDO,Y,100.0,N,EIDO
 EIG,Employers Holdings Inc Common Stock,Employers Holdings Inc Common Stock,N,EIG,N,100.0,N,EIG
 EIIA,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,N,EIIA,N,100.0,N,EIIA
@@ -4272,7 +4271,6 @@ NBSD,Neuberger Short Duration Income ETF,Neuberger Short Duration Income ETF,P,N
 NBSM,Neuberger Small,Neuberger Small-Mid Cap ETF,P,NBSM,Y,100.0,N,NBSM
 NBTR,Neuberger Total Return Bond ETF,Neuberger Total Return Bond ETF,P,NBTR,Y,100.0,N,NBTR
 NBXG,Neuberger Next Generation Connectivity Fund Inc. Common Stock,Neuberger Next Generation Connectivity Fund Inc. Common Stock,N,NBXG,N,100.0,N,NBXG
-NBY,"NovaBay Pharmaceuticals, Inc. Common Stock","NovaBay Pharmaceuticals, Inc. Common Stock",A,NBY,N,100.0,N,NBY
 NC,"NACCO Industries, Inc. Common Stock","NACCO Industries, Inc. Common Stock",N,NC,N,100.0,N,NC
 NCA,Nuveen California Municipal Value Fund,Nuveen California Municipal Value Fund,N,NCA,N,100.0,N,NCA
 NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,Nuveen Churchill Direct Lending Corp. Common Stock,N,NCDL,N,100.0,N,NCDL
@@ -5447,7 +5445,6 @@ SB$C,"Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Mars
 SB$D,"Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)","Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)",N,SBpD,N,100.0,N,SB-D
 SBAR,Simplify Barrier Income ETF,Simplify Barrier Income ETF,P,SBAR,Y,100.0,N,SBAR
 SBB,ProShares Short SmallCap600,ProShares Short SmallCap600,P,SBB,Y,100.0,N,SBB
-SBDS,"Solo Brands, Inc. Class A Common Stock","Solo Brands, Inc. Class A Common Stock",N,SBDS,N,100.0,N,SBDS
 SBEV,"Splash Beverage Group, Inc. (NV) Common Stock","Splash Beverage Group, Inc. (NV) Common Stock",A,SBEV,N,100.0,N,SBEV
 SBH,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock","Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",N,SBH,N,100.0,N,SBH
 SBI,Western Asset Intermediate Muni Fund Inc Common Stock,Western Asset Intermediate Muni Fund Inc Common Stock,N,SBI,N,100.0,N,SBI
@@ -5526,6 +5523,7 @@ SDCI,USCF SummerHaven Dynamic Commodity Strategy No K,USCF SummerHaven Dynamic C
 SDCP,Virtus Newfleet Short Duration Core Plus Bond ETF,Virtus Newfleet Short Duration Core Plus Bond ETF,P,SDCP,Y,100.0,N,SDCP
 SDD,ProShares UltraShort SmallCap600,ProShares UltraShort SmallCap600,P,SDD,Y,100.0,N,SDD
 SDEM,Global X MSCI SuperDividend Emerging Markets ETF,Global X MSCI SuperDividend Emerging Markets ETF,P,SDEM,Y,100.0,N,SDEM
+SDEV,Stablecoin Development Corporation Common Stock,Stablecoin Development Corporation Common Stock,A,SDEV,N,100.0,N,SDEV
 SDFI,AB Short Duration Income ETF,AB Short Duration Income ETF,P,SDFI,Y,100.0,N,SDFI
 SDHC,Smith Douglas Homes Corp. Class A Common Stock,Smith Douglas Homes Corp. Class A Common Stock,N,SDHC,N,100.0,N,SDHC
 SDHY,PGIM Short Duration High Yield Opportunities Fund Common Shares,PGIM Short Duration High Yield Opportunities Fund Common Shares,N,SDHY,N,100.0,N,SDHY
