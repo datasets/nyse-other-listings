@@ -1464,10 +1464,13 @@ DBRG$H,"DigitalBridge Group, Inc. 7.125% Series H ","DigitalBridge Group, Inc. 7
 DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I ","DigitalBridge Group, Inc. 7.15% Series I ",N,DBRGpI,N,100.0,N,DBRG-I
 DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J ","DigitalBridge Group, Inc. 7.125% Series J ",N,DBRGpJ,N,100.0,N,DBRG-J
 DC,Dakota Gold Corp. Common Stock,Dakota Gold Corp. Common Stock,A,DC,N,100.0,N,DC
+DCBG,"Dime Community Bancshares, Inc. 9.000% Fixed","Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",N,DCBG,N,100.0,N,DCBG
 DCH,Dauch Corporation Common Stock,Dauch Corporation Common Stock,N,DCH,N,100.0,N,DCH
 DCI,"Donaldson Company, Inc. Common Stock","Donaldson Company, Inc. Common Stock",N,DCI,N,100.0,N,DCI
 DCMT,DoubleLine Commodity Strategy ETF,DoubleLine Commodity Strategy ETF,P,DCMT,Y,100.0,N,DCMT
 DCO,Ducommun Incorporated Common Stock,Ducommun Incorporated Common Stock,N,DCO,N,100.0,N,DCO
+DCOM,"Dime Community Bancshares, Inc. Common Stock","Dime Community Bancshares, Inc. Common Stock",N,DCOM,N,100.0,N,DCOM
+DCOM$,"Dime Community Bancshares, Inc. Fixed","Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",N,DCOMp,N,100.0,N,DCOM-
 DCOR,Dimensional US Core Equity 1 ETF,Dimensional US Core Equity 1 ETF,P,DCOR,Y,100.0,N,DCOR
 DCRE,DoubleLine Commercial Real Estate Debt ETF,DoubleLine Commercial Real Estate Debt ETF,P,DCRE,Y,100.0,N,DCRE
 DD,"DuPont de Nemours, Inc. Common Stock","DuPont de Nemours, Inc. Common Stock",N,DD,N,100.0,N,DD
@@ -1885,6 +1888,7 @@ ELC,"Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due
 ELCV,Strategy Shares Eventide High Dividend ETF,Strategy Shares Eventide High Dividend ETF,P,ELCV,Y,100.0,N,ELCV
 ELD,WisdomTree Emerging Markets Local Debt Fund,WisdomTree Emerging Markets Local Debt Fund,P,ELD,Y,100.0,N,ELD
 ELF,"e.l.f. Beauty, Inc. Common Stock","e.l.f. Beauty, Inc. Common Stock",N,ELF,N,100.0,N,ELF
+ELLA,Ellington Credit Company 8.50% Notes due 2031,Ellington Credit Company 8.50% Notes due 2031,N,ELLA,N,100.0,N,ELLA
 ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),Ellomay Capital Ltd Ordinary Shares (Israel),A,ELLO,N,100.0,N,ELLO
 ELM,Elm Market Navigator ETF,Elm Market Navigator ETF,P,ELM,Y,100.0,N,ELM
 ELMD,"Electromed, Inc. Common Stock","Electromed, Inc. Common Stock",A,ELMD,N,100.0,N,ELMD
@@ -4286,7 +4290,6 @@ NDIA,Global X India Active ETF,Global X India Active ETF,P,NDIA,Y,100.0,N,NDIA
 NDIV,Amplify Energy & Natural Resources Covered Call ETF,Amplify Energy & Natural Resources Covered Call ETF,P,NDIV,Y,100.0,N,NDIV
 NDMO,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,N,NDMO,N,100.0,N,NDMO
 NDOW,Anydrus Advantage ETF,Anydrus Advantage ETF,Z,NDOW,Y,100.0,N,NDOW
-NDVG,Nuveen Dividend Growth ETF,Nuveen Dividend Growth ETF,P,NDVG,Y,100.0,N,NDVG
 NE,Noble Corporation plc A Ordinary Shares,Noble Corporation plc A Ordinary Shares,N,NE,N,100.0,N,NE
 NE.A,Noble Corporation plc Tranche 2 Warrants,Noble Corporation plc Tranche 2 Warrants,N,NE.WS.A,N,100.0,N,NE+A
 NE.W,Noble Corporation plc Tranche 1 Warrants,Noble Corporation plc Tranche 1 Warrants,N,NE.WS,N,100.0,N,NE+
@@ -4493,7 +4496,6 @@ NWAX,New America Acquisition I Corp. Class A Common Stock,New America Acquisitio
 NWAX.U,"New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one","New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant",N,NWAX.U,N,100.0,N,NWAX=
 NWAX.W,"New America Acquisition I Corp. Warrants, each whole warrant is exercisable to purchase one share of Class A common stock","New America Acquisition I Corp. Warrants, each whole warrant is exercisable to purchase one share of Class A common stock",N,NWAX.WS,N,100.0,N,NWAX+
 NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)","NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)",N,NWG,N,100.0,N,NWG
-NWLG,Nuveen Winslow Large,Nuveen Winslow Large-Cap Growth ESG ETF,P,NWLG,Y,100.0,N,NWLG
 NWN,Northwest Natural Holding Company Common Stock,Northwest Natural Holding Company Common Stock,N,NWN,N,100.0,N,NWN
 NX,Quanex Building Products Corporation Common Stock,Quanex Building Products Corporation Common Stock,N,NX,N,100.0,N,NX
 NXDR,"Nextdoor Holdings, Inc. Class A Common Stock","Nextdoor Holdings, Inc. Class A Common Stock",N,NXDR,N,100.0,N,NXDR
@@ -4501,7 +4503,7 @@ NXDT,NexPoint Diversified Real Estate Trust Common Stock,NexPoint Diversified Re
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),N,NXDTpA,N,100.0,N,NXDT-A
 NXE,Nexgen Energy Ltd. Common Shares,Nexgen Energy Ltd. Common Shares,N,NXE,N,100.0,N,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,N,NXG,N,100.0,N,NXG
-NXG.V,"NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued","NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued",N,NXGrw,N,100.0,N,NXG^#
+NXG.R,"NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights","NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights",N,NXGr,N,100.0,N,NXG^
 NXJ,Nuveen New Jersey Qualified Municipal Fund ,Nuveen New Jersey Qualified Municipal Fund ,N,NXJ,N,100.0,N,NXJ
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,Nuveen Select Tax Free Income Portfolio Common Stock,N,NXP,N,100.0,N,NXP
 NXRT,"NexPoint Residential Trust, Inc. Common Stock","NexPoint Residential Trust, Inc. Common Stock",N,NXRT,N,100.0,N,NXRT
@@ -4551,6 +4553,7 @@ OEFA,ALPS O'Shares International Developed Quality Dividend ETF,ALPS O'Shares In
 OEI,Optimized Equity Income ETF,Optimized Equity Income ETF,P,OEI,Y,100.0,N,OEI
 OFG,OFG Bancorp Common Stock,OFG Bancorp Common Stock,N,OFG,N,100.0,N,OFG
 OFRM,"Once Upon a Farm, PBC Common Stock","Once Upon a Farm, PBC Common Stock",N,OFRM,N,100.0,N,OFRM
+OGC,OceanaGold Corporation Common Shares,OceanaGold Corporation Common Shares,N,OGC,N,100.0,N,OGC
 OGCP,"Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests","Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests",P,OGCP,N,100.0,N,OGCP
 OGE,OGE Energy Corp Common Stock,OGE Energy Corp Common Stock,N,OGE,N,100.0,N,OGE
 OGEN,Oragenics Inc. Common Stock,Oragenics Inc. Common Stock,A,OGEN,N,100.0,N,OGEN
@@ -5271,6 +5274,7 @@ RJDI,RJ Eagle GCM Dividend Select Income ETF,RJ Eagle GCM Dividend Select Income
 RJF,"Raymond James Financial, Inc. Common Stock","Raymond James Financial, Inc. Common Stock",N,RJF,N,100.0,N,RJF
 RJMI,RJ Eagle Municipal Income ETF,RJ Eagle Municipal Income ETF,P,RJMI,Y,100.0,N,RJMI
 RJVI,RJ Eagle Vertical Income ETF,RJ Eagle Vertical Income ETF,P,RJVI,Y,100.0,N,RJVI
+RKSG,Ruk Strategic Growth ETF,Ruk Strategic Growth ETF,P,RKSG,Y,100.0,N,RKSG
 RKT,"Rocket Companies, Inc. Class A Common Stock","Rocket Companies, Inc. Class A Common Stock",N,RKT,N,100.0,N,RKT
 RKTL,Defiance Daily Target 2X Long RKT ETF,Defiance Daily Target 2X Long RKT ETF,Z,RKTL,Y,100.0,N,RKTL
 RL,Ralph Lauren Corporation Common Stock,Ralph Lauren Corporation Common Stock,N,RL,N,40.0,N,RL

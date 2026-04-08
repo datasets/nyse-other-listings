@@ -741,9 +741,12 @@ DBRG,"DigitalBridge Group, Inc."
 DBRG$H,"DigitalBridge Group, Inc. 7.125% Series H "
 DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I "
 DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J "
+DCBG,"Dime Community Bancshares, Inc. 9.000% Fixed"
 DCH,Dauch Corporation Common Stock
 DCI,"Donaldson Company, Inc. Common Stock"
 DCO,Ducommun Incorporated Common Stock
+DCOM,"Dime Community Bancshares, Inc. Common Stock"
+DCOM$,"Dime Community Bancshares, Inc. Fixed"
 DD,"DuPont de Nemours, Inc. Common Stock"
 DDD,3D Systems Corporation Common Stock
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)
@@ -879,6 +882,7 @@ EL,"Estee Lauder Companies, Inc. (The) Common Stock"
 ELAN,Elanco Animal Health Incorporated Common Stock
 ELC,"Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066"
 ELF,"e.l.f. Beauty, Inc. Common Stock"
+ELLA,Ellington Credit Company 8.50% Notes due 2031
 ELME,Elme Communities Common Stock
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)
 ELS,"Equity Lifestyle Properties, Inc. Common Stock"
@@ -1893,7 +1897,7 @@ NXDT,NexPoint Diversified Real Estate Trust Common Stock
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share)
 NXE,Nexgen Energy Ltd. Common Shares
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest
-NXG.V,"NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued"
+NXG.R,"NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights"
 NXJ,Nuveen New Jersey Qualified Municipal Fund 
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock
 NXRT,"NexPoint Residential Trust, Inc. Common Stock"
@@ -1911,6 +1915,7 @@ ODV,Osisko Development Corp. Common Shares
 OEC,Orion S.A. Common Shares
 OFG,OFG Bancorp Common Stock
 OFRM,"Once Upon a Farm, PBC Common Stock"
+OGC,OceanaGold Corporation Common Shares
 OGE,OGE Energy Corp Common Stock
 OGN,Organon & Co. Common Stock 
 OGS,"ONE Gas, Inc. Common Stock"
