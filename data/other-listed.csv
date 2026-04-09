@@ -639,6 +639,7 @@ BF.B,Brown Forman Inc Class B Common Stock,Brown Forman Inc Class B Common Stock
 BFAM,Bright Horizons Family Solutions Inc. Common Stock,Bright Horizons Family Solutions Inc. Common Stock,N,BFAM,N,100.0,N,BFAM
 BFAP,FT Vest Bitcoin Strategy Floor15 ETF April,FT Vest Bitcoin Strategy Floor15 ETF April,P,BFAP,Y,100.0,N,BFAP
 BFEB,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - February,Z,BFEB,Y,100.0,N,BFEB
+BFEW,FT Vest Laddered U.S. Equity Equal Weight Buffer ETF,FT Vest Laddered U.S. Equity Equal Weight Buffer ETF,Z,BFEW,Y,100.0,N,BFEW
 BFH,"Bread Financial Holdings, Inc. Common Stock","Bread Financial Holdings, Inc. Common Stock",N,BFH,N,100.0,N,BFH
 BFH$A,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non","Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A",N,BFHpA,N,100.0,N,BFH-A
 BFIX,Build Bond Innovation ETF,Build Bond Innovation ETF,P,BFIX,Y,100.0,N,BFIX
@@ -652,6 +653,7 @@ BFRZ,Innovator Equity Managed 100 Buffer ETF,Innovator Equity Managed 100 Buffer
 BFS,"Saul Centers, Inc. Common Stock","Saul Centers, Inc. Common Stock",N,BFS,N,100.0,N,BFS
 BFS$D,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock","Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumulative Redeemable Preferred Stock",N,BFSpD,N,100.0,N,BFS-D
 BFS$E,"Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock","Saul Centers, Inc. Depositary shares, each representing a 1/100th fractional interest in a share of 6.000% Series E Cumulative Redeemable Preferred Stock",N,BFSpE,N,100.0,N,BFS-E
+BFXU,FT Vest Laddered U.S. Equity Uncapped Accelerator ETF,FT Vest Laddered U.S. Equity Uncapped Accelerator ETF,Z,BFXU,Y,100.0,N,BFXU
 BG,Bunge Limited Common Shares,Bunge Limited Common Shares,N,BG,N,100.0,N,BG
 BGB,Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest,Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest,N,BGB,N,100.0,N,BGB
 BGDV,Bahl & Gaynor Dividend ETF,Bahl & Gaynor Dividend ETF,P,BGDV,Y,100.0,N,BGDV
@@ -899,6 +901,7 @@ BUD,Anheuser,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),N,BUD,N,100.0,N,BUD
 BUDA,"Buda Juice, Inc. Common Stock","Buda Juice, Inc. Common Stock",A,BUDA,N,100.0,N,BUDA
 BUFB,Innovator Laddered Allocation Buffer ETF,Innovator Laddered Allocation Buffer ETF,Z,BUFB,Y,100.0,N,BUFB
 BUFD,FT Vest Laddered Deep Buffer ETF,FT Vest Laddered Deep Buffer ETF,Z,BUFD,Y,100.0,N,BUFD
+BUFE,FT Vest Laddered Emerging Markets Buffer ETF,FT Vest Laddered Emerging Markets Buffer ETF,Z,BUFE,Y,100.0,N,BUFE
 BUFF,Innovator Laddered Allocation Power Buffer ETF,Innovator Laddered Allocation Power Buffer ETF,Z,BUFF,Y,100.0,N,BUFF
 BUFG,FT Vest Buffered Allocation Growth ETF,FT Vest Buffered Allocation Growth ETF,Z,BUFG,Y,100.0,N,BUFG
 BUFH,FT Vest Laddered Max Buffer ETF,FT Vest Laddered Max Buffer ETF,Z,BUFH,Y,100.0,N,BUFH
@@ -1732,6 +1735,7 @@ DUSA,Davis Select U.S. Equity ETF,Davis Select U.S. Equity ETF,Z,DUSA,Y,100.0,N,
 DUSB,Dimensional Ultrashort Fixed Income ETF,Dimensional Ultrashort Fixed Income ETF,P,DUSB,Y,100.0,N,DUSB
 DUSL,Direxion Daily Industrials Bull 3X ETF,Direxion Daily Industrials Bull 3X ETF,P,DUSL,Y,100.0,N,DUSL
 DUST,Direxion Daily Gold Miners Index Bear 2X ETF,Direxion Daily Gold Miners Index Bear 2X ETF,P,DUST,Y,100.0,N,DUST
+DUTY,U.S. Defense ETF,U.S. Defense ETF,P,DUTY,Y,100.0,N,DUTY
 DV,"DoubleVerify Holdings, Inc. Common Stock","DoubleVerify Holdings, Inc. Common Stock",N,DV,N,100.0,N,DV
 DVA,DaVita Inc. Common Stock,DaVita Inc. Common Stock,N,DVA,N,100.0,N,DVA
 DVDN,Kingsbarn Dividend Opportunity ETF,Kingsbarn Dividend Opportunity ETF,P,DVDN,Y,100.0,N,DVDN
@@ -3077,6 +3081,7 @@ IBMS,iShares iBonds Dec 2030 Term Muni Bond ETF,iShares iBonds Dec 2030 Term Mun
 IBMT,iShares iBonds Dec 2031 Term Muni Bond ETF,iShares iBonds Dec 2031 Term Muni Bond ETF,Z,IBMT,Y,100.0,N,IBMT
 IBMU,iShares iBonds Dec 2032 Term Muni Bond ETF,iShares iBonds Dec 2032 Term Muni Bond ETF,Z,IBMU,Y,100.0,N,IBMU
 IBMV,iShares iBonds Dec 2033 Term Muni Bond ETF,iShares iBonds Dec 2033 Term Muni Bond ETF,Z,IBMV,Y,100.0,N,IBMV
+IBMW,iShares iBonds Dec 2034 Term Muni Bond ETF,iShares iBonds Dec 2034 Term Muni Bond ETF,Z,IBMW,Y,100.0,N,IBMW
 IBN,ICICI Bank Limited Common Stock,ICICI Bank Limited Common Stock,N,IBN,N,100.0,N,IBN
 IBND,SPDR Bloomberg International Corporate Bond ETF,SPDR Bloomberg International Corporate Bond ETF,P,IBND,Y,100.0,N,IBND
 IBO,"Impact BioMedical, Inc. Common Stock","Impact BioMedical, Inc. Common Stock",A,IBO,N,100.0,N,IBO
@@ -3330,6 +3335,7 @@ ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 
 ITW,Illinois Tool Works Inc. Common Stock,Illinois Tool Works Inc. Common Stock,N,ITW,N,40.0,N,ITW
 ITWO,ProShares Russell 2000 High Income ETF,ProShares Russell 2000 High Income ETF,Z,ITWO,Y,100.0,N,ITWO
 IVE,iShares S&P 500 Value ETF,iShares S&P 500 Value ETF,P,IVE,Y,100.0,N,IVE
+IVEP,Dan IVES Wedbush AI Power & Infrastructure ETF,Dan IVES Wedbush AI Power & Infrastructure ETF,P,IVEP,Y,100.0,N,IVEP
 IVES,Dan IVES Wedbush AI Revolution ETF,Dan IVES Wedbush AI Revolution ETF,P,IVES,Y,100.0,N,IVES
 IVLU,iShares MSCI Intl Value Factor ETF,iShares MSCI Intl Value Factor ETF,P,IVLU,Y,100.0,N,IVLU
 IVOG,Vanguard S&P Mid,Vanguard S&P Mid-Cap 400 Growth ETF,P,IVOG,Y,100.0,N,IVOG
@@ -3451,6 +3457,7 @@ JHAC,John Hancock Fundamental All Cap Core ETF,John Hancock Fundamental All Cap 
 JHCB,John Hancock Corporate Bond ETF,John Hancock Corporate Bond ETF,P,JHCB,Y,100.0,N,JHCB
 JHCP,John Hancock Core Plus Bond ETF,John Hancock Core Plus Bond ETF,P,JHCP,Y,100.0,N,JHCP
 JHCR,John Hancock Core Bond ETF,John Hancock Core Bond ETF,P,JHCR,Y,100.0,N,JHCR
+JHDG,John Hancock Hedged Equity ETF,John Hancock Hedged Equity ETF,P,JHDG,Y,100.0,N,JHDG
 JHDV,John Hancock U.S. High Dividend ETF,John Hancock U.S. High Dividend ETF,P,JHDV,Y,100.0,N,JHDV
 JHEM,John Hancock Multifactor Emerging Markets ETF,John Hancock Multifactor Emerging Markets ETF,P,JHEM,Y,100.0,N,JHEM
 JHG,Janus Henderson Group plc Ordinary Shares,Janus Henderson Group plc Ordinary Shares,N,JHG,N,100.0,N,JHG
@@ -4142,6 +4149,7 @@ MS$P,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share o
 MS$Q,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share of 6.625% Non","Morgan Stanley Depositary Shares, each representing 1/1,000th of a share of 6.625% Non-Cumulative Preferred Stock, Series Q",N,MSpQ,N,100.0,N,MS-Q
 MSA,MSA Safety Incorporated Common Stock,MSA Safety Incorporated Common Stock,N,MSA,N,100.0,N,MSA
 MSB,Mesabi Trust Common Stock,Mesabi Trust Common Stock,N,MSB,N,100.0,N,MSB
+MSBT,Common Units of Beneficial Interest of Morgan Stanley Bitcoin Trust,Common Units of Beneficial Interest of Morgan Stanley Bitcoin Trust,P,MSBT,Y,100.0,N,MSBT
 MSC,"Studio City International Holdings Limited American depositary shares, each representing four  Class A ordinary shares","Studio City International Holdings Limited American depositary shares, each representing four  Class A ordinary shares",N,MSC,N,100.0,N,MSC
 MSCI,MSCI Inc. Common Stock,MSCI Inc. Common Stock,N,MSCI,N,40.0,N,MSCI
 MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock","Morgan Stanley Emerging Markets Debt Fund, Inc. Common Stock",N,MSD,N,100.0,N,MSD
@@ -6809,6 +6817,7 @@ WY,Weyerhaeuser Company Common Stock,Weyerhaeuser Company Common Stock,N,WY,N,10
 WYY,WidePoint Corporation Common Stock,WidePoint Corporation Common Stock,A,WYY,N,100.0,N,WYY
 WZRD,Opportunistic Trader ETF,Opportunistic Trader ETF,Z,WZRD,Y,100.0,N,WZRD
 XAGG,Eaton Vance Income Opportunities ETF,Eaton Vance Income Opportunities ETF,P,XAGG,Y,100.0,N,XAGG
+XAIL,Defiance Pure Space Daily 2X Strategy ETF,Defiance Pure Space Daily 2X Strategy ETF,Z,XAIL,Y,100.0,N,XAIL
 XAPR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April,Z,XAPR,Y,100.0,N,XAPR
 XAR,State Street SPDR S&P Aerospace & Defense ETF,State Street SPDR S&P Aerospace & Defense ETF,P,XAR,Y,100.0,N,XAR
 XAUG,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August,Z,XAUG,Y,100.0,N,XAUG
