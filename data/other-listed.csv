@@ -195,7 +195,6 @@ AKO.A,Embotelladora Andina S.A. Common Stock,Embotelladora Andina S.A. Common St
 AKO.B,Embotelladora Andina S.A. Common Stock,Embotelladora Andina S.A. Common Stock,N,AKO.B,N,100.0,N,AKO.B
 AKR,Acadia Realty Trust Common Stock,Acadia Realty Trust Common Stock,N,AKR,N,100.0,N,AKR
 AKRE,Akre Focus ETF,Akre Focus ETF,P,AKRE,Y,100.0,N,AKRE
-AL,Air Lease Corporation Class A Common Stock,Air Lease Corporation Class A Common Stock,N,AL,N,100.0,N,AL
 ALAI,Alger AI Enablers & Adopters ETF,Alger AI Enablers & Adopters ETF,P,ALAI,Y,100.0,N,ALAI
 ALB,Albemarle Corporation Common Stock,Albemarle Corporation Common Stock,N,ALB,N,100.0,N,ALB
 ALB$A,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock,N,ALBpA,N,100.0,N,ALB-A
@@ -574,6 +573,7 @@ BCCC,Global X Bitcoin Covered Call ETF,Global X Bitcoin Covered Call ETF,Z,BCCC,
 BCD,abrdn Bloomberg All Commodity Longer Dated Strategy K,abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF,P,BCD,Y,100.0,N,BCD
 BCDF,Horizon Kinetics Blockchain Development ETF,Horizon Kinetics Blockchain Development ETF,P,BCDF,Y,100.0,N,BCDF
 BCE,"BCE, Inc. Common Stock","BCE, Inc. Common Stock",N,BCE,N,100.0,N,BCE
+BCEM,Baron Emerging Markets Select ETF,Baron Emerging Markets Select ETF,N,BCEM,Y,100.0,N,BCEM
 BCGD,Baron Global Durable Advantage ETF,Baron Global Durable Advantage ETF,N,BCGD,Y,100.0,N,BCGD
 BCGS,Bancreek Global Select ETF,Bancreek Global Select ETF,P,BCGS,Y,100.0,N,BCGS
 BCH,Banco De Chile ADS,Banco De Chile ADS,N,BCH,N,100.0,N,BCH
@@ -785,7 +785,7 @@ BML$H,Bank of America Corporation Depositary Shares (Each representing a 1/1200t
 BML$J,Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)",N,BMLpJ,N,100.0,N,BML-J
 BML$L,Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)",N,BMLpL,N,100.0,N,BML-L
 BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,N,BMN,N,100.0,N,BMN
-BMNR,"BitMine Immersion Technologies, Inc. Common Stock","BitMine Immersion Technologies, Inc. Common Stock",A,BMNR,N,100.0,N,BMNR
+BMNR,"BitMine Immersion Technologies, Inc. Common Stock","BitMine Immersion Technologies, Inc. Common Stock",N,BMNR,N,100.0,N,BMNR
 BMNU,T,T-REX 2X Long BMNR Daily Target ETF,Z,BMNU,Y,100.0,N,BMNU
 BMNZ,Defiance Daily Target 2X Short BMNR ETF,Defiance Daily Target 2X Short BMNR ETF,P,BMNZ,Y,100.0,N,BMNZ
 BMO,Bank Of Montreal Common Stock,Bank Of Montreal Common Stock,N,BMO,N,100.0,N,BMO
@@ -1068,6 +1068,7 @@ CFIT,Cambria Fixed Income Trend ETF,Cambria Fixed Income Trend ETF,Z,CFIT,Y,100.
 CFND,C1 Fund Inc. Common Stock,C1 Fund Inc. Common Stock,N,CFND,N,100.0,N,CFND
 CFR,"Cullen/Frost Bankers, Inc. Common Stock","Cullen/Frost Bankers, Inc. Common Stock",N,CFR,N,100.0,N,CFR
 CFR$B,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non","Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",N,CFRpB,N,100.0,N,CFR-B
+CFTR$A,"Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock","Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock",N,CFTRpA,N,100.0,N,CFTR-A
 CGAU,Centerra Gold Inc. Common Shares,Centerra Gold Inc. Common Shares,N,CGAU,N,100.0,N,CGAU
 CGBL,Capital Group Core Balanced ETF,Capital Group Core Balanced ETF,P,CGBL,Y,100.0,N,CGBL
 CGCB,Capital Group Core Bond ETF,Capital Group Core Bond ETF,P,CGCB,Y,100.0,N,CGCB
@@ -2995,9 +2996,6 @@ HVT.A,"Haverty Furniture Companies, Inc. Common Stock","Haverty Furniture Compan
 HWM,Howmet Aerospace Inc. Common Stock,Howmet Aerospace Inc. Common Stock,N,HWM,N,100.0,N,HWM
 HXL,Hexcel Corporation Common Stock,Hexcel Corporation Common Stock,N,HXL,N,100.0,N,HXL
 HY,Hyster,"Hyster-Yale, Inc. Class A common stock",N,HY,N,100.0,N,HY
-HYAC,Haymaker Acquisition Corp. 4 Class A Ordinary Shares,Haymaker Acquisition Corp. 4 Class A Ordinary Shares,N,HYAC,N,100.0,N,HYAC
-HYAC.U,"Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary Share and one","Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary Share and one-half of one redeemable Warrant",N,HYAC.U,N,100.0,N,HYAC=
-HYAC.W,"Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,HYAC.WS,N,100.0,N,HYAC+
 HYBB,iShares BB Rated Corporate Bond ETF,iShares BB Rated Corporate Bond ETF,P,HYBB,Y,100.0,N,HYBB
 HYBL,State Street Blackstone High Income ETF,State Street Blackstone High Income ETF,Z,HYBL,Y,100.0,N,HYBL
 HYBX,TCW High Yield Bond ETF,TCW High Yield Bond ETF,N,HYBX,Y,100.0,N,HYBX
@@ -5125,6 +5123,7 @@ QPX,AdvisorShares Q Dynamic Growth ETF,AdvisorShares Q Dynamic Growth ETF,P,QPX,
 QQH,HCM Defender 100 Index ETF,HCM Defender 100 Index ETF,P,QQH,Y,100.0,N,QQH
 QQQD,Direxion Daily Magnificent 7 Bear 1X ETF,Direxion Daily Magnificent 7 Bear 1X ETF,P,QQQD,Y,100.0,N,QQQD
 QQQU,Direxion Daily Magnificent 7 Bull 2X ETF,Direxion Daily Magnificent 7 Bull 2X ETF,P,QQQU,Y,100.0,N,QQQU
+QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one","QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",N,QRED.U,N,100.0,N,QRED=
 QRFT,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap ETF,P,QRFT,Y,100.0,N,QRFT
 QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,WisdomTree U.S. Short Term Corporate Bond Fund,Z,QSIG,Y,100.0,N,QSIG
 QSOL,Invesco Galaxy Solana ETF,Invesco Galaxy Solana ETF,Z,QSOL,Y,100.0,N,QSOL
@@ -5556,7 +5555,6 @@ SEB,Seaboard Corporation Common Stock,Seaboard Corporation Common Stock,A,SEB,N,
 SECR,NYLI MacKay Securitized Income ETF,NYLI MacKay Securitized Income ETF,P,SECR,Y,100.0,N,SECR
 SECT,Main Sector Rotation ETF,Main Sector Rotation ETF,Z,SECT,Y,100.0,N,SECT
 SECU,iShares Securitized Income Active ETF,iShares Securitized Income Active ETF,Z,SECU,Y,100.0,N,SECU
-SEE,Sealed Air Corporation Common Stock,Sealed Air Corporation Common Stock,N,SEE,N,100.0,N,SEE
 SEF,ProShares Short Financials,ProShares Short Financials,P,SEF,Y,100.0,N,SEF
 SEG,Seaport Entertainment Group Inc. Common Stock,Seaport Entertainment Group Inc. Common Stock,N,SEG,N,100.0,N,SEG
 SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock","Solaris Energy Infrastructure, Inc. Class A Common Stock",N,SEI,N,100.0,N,SEI
@@ -6113,6 +6111,7 @@ THG,Hanover Insurance Group Inc,Hanover Insurance Group Inc,N,THG,N,100.0,N,THG
 THIR,THOR Index Rotation ETF,THOR Index Rotation ETF,N,THIR,Y,100.0,N,THIR
 THLV,THOR Equal Weight Low Volatility ETF,THOR Equal Weight Low Volatility ETF,N,THLV,Y,100.0,N,THLV
 THM,"International Tower Hill Mines, Ltd. Ordinary Shares (Canada)","International Tower Hill Mines, Ltd. Ordinary Shares (Canada)",A,THM,N,100.0,N,THM
+THMR,THOR AdaptiveRisk Dynamic ETF,THOR AdaptiveRisk Dynamic ETF,N,THMR,Y,100.0,N,THMR
 THNQ,ROBO Global Artificial Intelligence ETF,ROBO Global Artificial Intelligence ETF,P,THNQ,Y,100.0,N,THNQ
 THNR,Amplify Weight Loss Drug & Treatment ETF,Amplify Weight Loss Drug & Treatment ETF,P,THNR,Y,100.0,N,THNR
 THO,"Thor Industries, Inc. Common Stock","Thor Industries, Inc. Common Stock",N,THO,N,100.0,N,THO
@@ -6673,7 +6672,6 @@ VV,Vanguard Large,Vanguard Large-Cap ETF,P,VV,Y,40.0,N,VV
 VVR,Invesco Senior Income Trust Common Stock (DE),Invesco Senior Income Trust Common Stock (DE),N,VVR,N,100.0,N,VVR
 VVV,Valvoline Inc. Common Stock,Valvoline Inc. Common Stock,N,VVV,N,100.0,N,VVV
 VVX,"V2X, Inc. Common Stock","V2X, Inc. Common Stock",N,VVX,N,100.0,N,VVX
-VWID,Virtus WMC International Dividend ETF,Virtus WMC International Dividend ETF,Z,VWID,Y,100.0,N,VWID
 VWO,Vanguard FTSE Emerging Markets ETF,Vanguard FTSE Emerging Markets ETF,P,VWO,Y,100.0,N,VWO
 VXF,Vanguard Extended Market ETF,Vanguard Extended Market ETF,P,VXF,Y,100.0,N,VXF
 VXX,iPath Series B S&P 500 VIX Short,iPath Series B S&P 500 VIX Short-Term Futures ETN,Z,VXX,N,100.0,N,VXX

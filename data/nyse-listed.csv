@@ -108,7 +108,6 @@ AKAF,The Frontier Economic Fund
 AKO.A,Embotelladora Andina S.A. Common Stock
 AKO.B,Embotelladora Andina S.A. Common Stock
 AKR,Acadia Realty Trust Common Stock
-AL,Air Lease Corporation Class A Common Stock
 ALB,Albemarle Corporation Common Stock
 ALB$A,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock
 ALC,Alcon Inc. Ordinary Shares
@@ -307,6 +306,7 @@ BC$C,Brunswick Corporation 6.375% Notes due 2049
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest
 BCC,"Boise Cascade, L.L.C. Common Stock"
 BCE,"BCE, Inc. Common Stock"
+BCEM,Baron Emerging Markets Select ETF
 BCGD,Baron Global Durable Advantage ETF
 BCH,Banco De Chile ADS
 BCO,Brinks Company (The) Common Stock
@@ -409,6 +409,7 @@ BML$H,Bank of America Corporation Depositary Shares (Each representing a 1/1200t
 BML$J,Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non
 BML$L,Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non
 BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest
+BMNR,"BitMine Immersion Technologies, Inc. Common Stock"
 BMO,Bank Of Montreal Common Stock
 BMY,Bristol
 BN,Brookfield Corporation Class A Limited Voting Shares
@@ -544,6 +545,7 @@ CFG$I,"Citizens Financial Group, Inc. Depositary Shares, Each Representing a 1/4
 CFND,C1 Fund Inc. Common Stock
 CFR,"Cullen/Frost Bankers, Inc. Common Stock"
 CFR$B,"Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non"
+CFTR$A,"Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock"
 CGAU,Centerra Gold Inc. Common Shares
 CGV,Conductor Global Equity Value ETF
 CHCT,Community Healthcare Trust Incorporated Common Stock
@@ -1309,9 +1311,6 @@ HVT.A,"Haverty Furniture Companies, Inc. Common Stock"
 HWM,Howmet Aerospace Inc. Common Stock
 HXL,Hexcel Corporation Common Stock
 HY,Hyster
-HYAC,Haymaker Acquisition Corp. 4 Class A Ordinary Shares
-HYAC.U,"Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary Share and one"
-HYAC.W,"Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 HYBX,TCW High Yield Bond ETF
 HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock"
@@ -2141,6 +2140,7 @@ PYT,PPlus Tr GSC
 Q,"Qnity Electronics, Inc. Common Stock"
 QBTS,D
 QGEN,Qiagen N.V. Common Shares
+QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one"
 QSR,Restaurant Brands International Inc. Common Shares
 QTWO,"Q2 Holdings, Inc. Common Stock"
 QUAD,"Quad Graphics, Inc Class A Common Stock"
@@ -2317,7 +2317,6 @@ SDRL,Seadrill Limited Common Shares
 SE,"Sea Limited American Depositary Shares, each representing one Class A Ordinary Share"
 SEAL$A,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units
 SEAL$B,Seapeak LLC 8.50% Series B Fixed
-SEE,Sealed Air Corporation Common Stock
 SEG,Seaport Entertainment Group Inc. Common Stock
 SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock"
 SEM,Select Medical Holdings Corporation Common Stock
@@ -2545,6 +2544,7 @@ THC,Tenet Healthcare Corporation Common Stock
 THG,Hanover Insurance Group Inc
 THIR,THOR Index Rotation ETF
 THLV,THOR Equal Weight Low Volatility ETF
+THMR,THOR AdaptiveRisk Dynamic ETF
 THO,"Thor Industries, Inc. Common Stock"
 THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest
 THR,"Thermon Group Holdings, Inc. Common Stock"
