@@ -3799,7 +3799,6 @@ LLDR,Global X Long,Global X Long-Term Treasury Ladder ETF,P,LLDR,Y,100.0,N,LLDR
 LLII,REX LLY Growth & Income ETF,REX LLY Growth & Income ETF,Z,LLII,Y,100.0,N,LLII
 LLY,Eli Lilly and Company Common Stock,Eli Lilly and Company Common Stock,N,LLY,N,40.0,N,LLY
 LLYX,Defiance Daily Target 2X Long LLY ETF,Defiance Daily Target 2X Long LLY ETF,P,LLYX,Y,100.0,N,LLYX
-LMBO,Direxion Daily Crypto Industry Bull 2X ETF,Direxion Daily Crypto Industry Bull 2X ETF,P,LMBO,Y,100.0,N,LMBO
 LMND,"Lemonade, Inc. Common Stock","Lemonade, Inc. Common Stock",N,LMND,N,100.0,N,LMND
 LMT,Lockheed Martin Corporation Common Stock,Lockheed Martin Corporation Common Stock,N,LMT,N,40.0,N,LMT
 LMUB,iShares Long,iShares Long-Term National Muni Bond ETF,P,LMUB,Y,100.0,N,LMUB
@@ -5213,7 +5212,6 @@ REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,ProShares S&P MidCap 400 
 REGS,Columbia Large Cap Growth ETF,Columbia Large Cap Growth ETF,P,REGS,Y,100.0,N,REGS
 REI,"Ring Energy, Inc. Common Stock","Ring Energy, Inc. Common Stock",A,REI,N,100.0,N,REI
 REK,ProShares Short Real Estate,ProShares Short Real Estate,P,REK,Y,100.0,N,REK
-REKT,Direxion Daily Crypto Industry Bear 1X ETF,Direxion Daily Crypto Industry Bear 1X ETF,P,REKT,Y,100.0,N,REKT
 RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),N,RELX,N,100.0,N,RELX
 REM,iShares Mortgage Real Estate ETF,iShares Mortgage Real Estate ETF,Z,REM,Y,100.0,N,REM
 REMC,Columbia Research Enhanced Mid Cap ETF,Columbia Research Enhanced Mid Cap ETF,P,REMC,Y,100.0,N,REMC
@@ -6098,7 +6096,7 @@ TGE,The Generation Essentials Group Class A Ordinary Shares,The Generation Essen
 TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share","The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",A,TGE.WS,N,100.0,N,TGE+
 TGEN,Tecogen Inc. Common Stock,Tecogen Inc. Common Stock,A,TGEN,N,100.0,N,TGEN
 TGLB,T. Rowe Price Global Equity ETF,T. Rowe Price Global Equity ETF,P,TGLB,Y,100.0,N,TGLB
-TGLR,LAFFER TENGLER Equity Income ETF,LAFFER TENGLER Equity Income ETF,Z,TGLR,Y,100.0,N,TGLR
+TGLR,Wedbush LAFFER TENGLER New Era Value ETF,Wedbush LAFFER TENGLER New Era Value ETF,P,TGLR,Y,100.0,N,TGLR
 TGLS,Tecnoglass Inc. Ordinary Shares,Tecnoglass Inc. Ordinary Shares,N,TGLS,N,100.0,N,TGLS
 TGRT,T. Rowe Price Growth ETF,T. Rowe Price Growth ETF,P,TGRT,Y,100.0,N,TGRT
 TGRW,T. Rowe Price Growth Stock ETF,T. Rowe Price Growth Stock ETF,P,TGRW,Y,100.0,N,TGRW
