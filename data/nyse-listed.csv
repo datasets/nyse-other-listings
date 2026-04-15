@@ -1145,6 +1145,8 @@ GJT,Synthetic Fixed
 GKOS,Glaukos Corporation Common Stock
 GL,Globe Life Inc. Common Stock
 GL$D,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061
+GLED,GalaxyEdge Acquisition Corporation Ordinary Shares
+GLED.R,GalaxyEdge Acquisition Corporation Rights to receive one
 GLED.U,"GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share"
 GLOB,Globant S.A. Common Shares
 GLOP$A,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units
@@ -1726,7 +1728,9 @@ MSI,"Motorola Solutions, Inc. Common Stock"
 MSIF,"MSC Income Fund, Inc. Common Stock"
 MSM,"MSC Industrial Direct Company, Inc. Common Stock"
 MT,Arcelor Mittal NY Registry Shares NEW
+MTAL,Metals Acquisition Corp. II Class A Ordinary Shares
 MTAL.U,"Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one"
+MTAL.W,"Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 MTB,M&T Bank Corporation Common Stock
 MTB$H,M&T Bank Corporation Perpetual Fixed
 MTB$J,M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non
@@ -2140,7 +2144,6 @@ PYT,PPlus Tr GSC
 Q,"Qnity Electronics, Inc. Common Stock"
 QBTS,D
 QGEN,Qiagen N.V. Common Shares
-QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one"
 QSR,Restaurant Brands International Inc. Common Shares
 QTWO,"Q2 Holdings, Inc. Common Stock"
 QUAD,"Quad Graphics, Inc Class A Common Stock"

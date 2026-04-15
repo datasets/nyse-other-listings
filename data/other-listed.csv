@@ -2038,7 +2038,7 @@ ETHE,Grayscale Ethereum Staking ETF Shares,Grayscale Ethereum Staking ETF Shares
 ETHO,Amplify Etho Climate Leadership U.S. ETF,Amplify Etho Climate Leadership U.S. ETF,P,ETHO,Y,100.0,N,ETHO
 ETHT,ProShares Ultra Ether ETF,ProShares Ultra Ether ETF,P,ETHT,Y,100.0,N,ETHT
 ETHU,2x Ether ETF,2x Ether ETF,Z,ETHU,Y,100.0,N,ETHU
-ETHV,VanEck Ethereum ETF VanEck Ethereum ETF,VanEck Ethereum ETF VanEck Ethereum ETF,Z,ETHV,Y,100.0,N,ETHV
+ETHV,VanEck Ethereum ETF,VanEck Ethereum ETF,Z,ETHV,Y,100.0,N,ETHV
 ETHW,Bitwise Ethereum ETF ,Bitwise Ethereum ETF ,P,ETHW,Y,100.0,N,ETHW
 ETI$,"Entergy Texas Inc 5.375% Series A Preferred Stock, Cumulative, No Par Value","Entergy Texas Inc 5.375% Series A Preferred Stock, Cumulative, No Par Value",N,ETIp,N,100.0,N,ETI-
 ETJ,Eaton Vance Risk,Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,N,ETJ,N,100.0,N,ETJ
@@ -2125,7 +2125,7 @@ EXR,Extra Space Storage Inc Common Stock,Extra Space Storage Inc Common Stock,N,
 EYLD,Cambria Emerging Shareholder Yield ETF,Cambria Emerging Shareholder Yield ETF,Z,EYLD,Y,100.0,N,EYLD
 EZA,iShares MSCI South Africa Index Fund,iShares MSCI South Africa Index Fund,P,EZA,Y,100.0,N,EZA
 EZBC,Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF,Franklin Templeton Digital Holdings Trust Shares of Franklin Bitcoin ETF,Z,EZBC,Y,100.0,N,EZBC
-EZET,Franklin Ethereum ETF Franklin Ethereum ETF,Franklin Ethereum ETF Franklin Ethereum ETF,Z,EZET,Y,100.0,N,EZET
+EZET,Franklin Ethereum ETF,Franklin Ethereum ETF,Z,EZET,Y,100.0,N,EZET
 EZJ,ProShares Ultra MSCI Japan,ProShares Ultra MSCI Japan,P,EZJ,Y,100.0,N,EZJ
 EZM,WisdomTree U.S. MidCap Fund,WisdomTree U.S. MidCap Fund,P,EZM,Y,100.0,N,EZM
 EZPZ,Franklin Crypto Index ETF,Franklin Crypto Index ETF,Z,EZPZ,Y,100.0,N,EZPZ
@@ -2182,7 +2182,7 @@ FDAT,Tactical Advantage ETF,Tactical Advantage ETF,P,FDAT,Y,100.0,N,FDAT
 FDD,First Trust STOXX European Select Dividend Index Fund,First Trust STOXX European Select Dividend Index Fund,P,FDD,Y,100.0,N,FDD
 FDEC,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - December,Z,FDEC,Y,100.0,N,FDEC
 FDEM,Fidelity Emerging Markets Multifactor ETF,Fidelity Emerging Markets Multifactor ETF,Z,FDEM,Y,100.0,N,FDEM
-FDEV,Fidelity Emerging Markets Multifactor ETF,Fidelity Emerging Markets Multifactor ETF,Z,FDEV,Y,100.0,N,FDEV
+FDEV,Fidelity International Multifactor ETF,Fidelity International Multifactor ETF,Z,FDEV,Y,100.0,N,FDEV
 FDG,American Century Focused Dynamic Growth ETF,American Century Focused Dynamic Growth ETF,P,FDG,Y,100.0,N,FDG
 FDHY,Fidelity Enhanced High Yield ETF,Fidelity Enhanced High Yield ETF,P,FDHY,Y,100.0,N,FDHY
 FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Fidelity MSCI Consumer Discretionary Index ETF,P,FDIS,Y,100.0,N,FDIS
@@ -2224,7 +2224,7 @@ FEOE,First Eagle Overseas Equity ETF,First Eagle Overseas Equity ETF,N,FEOE,Y,10
 FERG,Ferguson Enterprises Inc. Common Stock,Ferguson Enterprises Inc. Common Stock,N,FERG,N,100.0,N,FERG
 FESM,Fidelity Enhanced Small Cap ETF,Fidelity Enhanced Small Cap ETF,P,FESM,Y,100.0,N,FESM
 FET,"Forum Energy Technologies, Inc. Common Stock","Forum Energy Technologies, Inc. Common Stock",N,FET,N,100.0,N,FET
-FETH,Fidelity Ethereum Fund Fidelity Ethereum Fund,Fidelity Ethereum Fund Fidelity Ethereum Fund,Z,FETH,Y,100.0,N,FETH
+FETH,Fidelity Ethereum Fund,Fidelity Ethereum Fund,Z,FETH,Y,100.0,N,FETH
 FEUS,FlexShares ESG & Climate US Large Cap Core Index Fund,FlexShares ESG & Climate US Large Cap Core Index Fund,P,FEUS,Y,100.0,N,FEUS
 FEZ,State Street SPDR EURO STOXX 50 ETF,State Street SPDR EURO STOXX 50 ETF,P,FEZ,Y,100.0,N,FEZ
 FF,FutureFuel Corp.  Common shares,FutureFuel Corp.  Common shares,N,FF,N,100.0,N,FF
@@ -2554,7 +2554,7 @@ GDEC,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffe
 GDIV,Harbor Dividend Growth Leaders ETF,Harbor Dividend Growth Leaders ETF,N,GDIV,Y,100.0,N,GDIV
 GDL,"GDL Fund, The Common Shares of Beneficial Interest","GDL Fund, The Common Shares of Beneficial Interest",N,GDL,N,100.0,N,GDL
 GDLC,Grayscale CoinDesk Crypto 5 ETF,Grayscale CoinDesk Crypto 5 ETF,P,GDLC,Y,100.0,N,GDLC
-GDMA,GadsdenA DynamicA Multi,GadsdenA DynamicA Multi-AssetA ETF,Z,GDMA,Y,100.0,N,GDMA
+GDMA,Gadsden Dynamic Multi,Gadsden Dynamic Multi-Asset ETF,Z,GDMA,Y,100.0,N,GDMA
 GDMN,WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,Z,GDMN,Y,100.0,N,GDMN
 GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,N,GDO,N,100.0,N,GDO
 GDOC,Goldman Sachs Future Health Care Equity ETF,Goldman Sachs Future Health Care Equity ETF,P,GDOC,Y,100.0,N,GDOC
@@ -2644,6 +2644,8 @@ GLDG,GoldMining Inc. Common Shares,GoldMining Inc. Common Shares,A,GLDG,N,100.0,
 GLDM,SPDR Gold MiniShares Trust,SPDR Gold MiniShares Trust,P,GLDM,Y,100.0,N,GLDM
 GLDN,Nicholas Gold Income ETF,Nicholas Gold Income ETF,P,GLDN,Y,100.0,N,GLDN
 GLDW,Roundhill Gold WeeklyPay ETF,Roundhill Gold WeeklyPay ETF,Z,GLDW,Y,100.0,N,GLDW
+GLED,GalaxyEdge Acquisition Corporation Ordinary Shares,GalaxyEdge Acquisition Corporation Ordinary Shares,N,GLED,N,100.0,N,GLED
+GLED.R,GalaxyEdge Acquisition Corporation Rights to receive one,GalaxyEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one ordinary share,N,GLEDr,N,100.0,N,GLED^
 GLED.U,"GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share","GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share",N,GLED.U,N,100.0,N,GLED=
 GLIN,VanEck India Growth Leaders ETF,VanEck India Growth Leaders ETF,P,GLIN,Y,100.0,N,GLIN
 GLIX,Lazard Listed Infrastructure ETF,Lazard Listed Infrastructure ETF,P,GLIX,Y,100.0,N,GLIX
@@ -3606,7 +3608,7 @@ KGC,Kinross Gold Corporation Common Stock,Kinross Gold Corporation Common Stock,
 KGLD,Kurv Gold Enhanced Income ETF,Kurv Gold Enhanced Income ETF,Z,KGLD,Y,100.0,N,KGLD
 KGRN,KraneShares MSCI China Clean Technology Index ETF,KraneShares MSCI China Clean Technology Index ETF,P,KGRN,Y,100.0,N,KGRN
 KGS,"Kodiak Gas Services, Inc. Common Stock","Kodiak Gas Services, Inc. Common Stock",N,KGS,N,100.0,N,KGS
-KHPI,Managed Portfolio Series Kensington Hedged Premium Income ETF,Managed Portfolio Series Kensington Hedged Premium Income ETF,Z,KHPI,Y,100.0,N,KHPI
+KHPI,Kensington Hedged Premium Income ETF,Kensington Hedged Premium Income ETF,Z,KHPI,Y,100.0,N,KHPI
 KHYB,KraneShares Asia Pacific High Income USD Bond ETF,KraneShares Asia Pacific High Income USD Bond ETF,P,KHYB,Y,100.0,N,KHYB
 KIE,State Street SPDR S&P Insurance ETF,State Street SPDR S&P Insurance ETF,P,KIE,Y,100.0,N,KIE
 KIM,Kimco Realty Corporation (HC) Common Stock,Kimco Realty Corporation (HC) Common Stock,N,KIM,N,100.0,N,KIM
@@ -3642,7 +3644,7 @@ KNG,FT Vest S&P 500 Dividend Aristocrats Target Income ETF,FT Vest S&P 500 Divid
 KNO,AXS Knowledge Leaders ETF,AXS Knowledge Leaders ETF,P,KNO,Y,100.0,N,KNO
 KNOP,KNOT Offshore Partners LP Common Units representing Limited Partner Interests,KNOT Offshore Partners LP Common Units representing Limited Partner Interests,N,KNOP,N,100.0,N,KNOP
 KNOV,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - November,Z,KNOV,Y,100.0,N,KNOV
-KNOW,Fundamentals First ETF Fundamentals First ETF,Fundamentals First ETF Fundamentals First ETF,Z,KNOW,Y,100.0,N,KNOW
+KNOW,Fundamentals First ETF,Fundamentals First ETF,Z,KNOW,Y,100.0,N,KNOW
 KNRG,Simplify Kayne Anderson Energy and Infrastructure Credit ETF,Simplify Kayne Anderson Energy and Infrastructure Credit ETF,P,KNRG,Y,100.0,N,KNRG
 KNRX,KNOREX LTD. Class A Ordinary Shares,KNOREX LTD. Class A Ordinary Shares,A,KNRX,N,100.0,N,KNRX
 KNSL,"Kinsale Capital Group, Inc. Common Stock","Kinsale Capital Group, Inc. Common Stock",N,KNSL,N,40.0,N,KNSL
@@ -4180,7 +4182,9 @@ MSTY,YieldMax MSTR Option Income Strategy ETF,YieldMax MSTR Option Income Strate
 MSTZ,T,T-Rex 2X Inverse MSTR Daily Target ETF,Z,MSTZ,Y,100.0,N,MSTZ
 MT,Arcelor Mittal NY Registry Shares NEW,Arcelor Mittal NY Registry Shares NEW,N,MT,N,100.0,N,MT
 MTA,Metalla Royalty & Streaming Ltd. Common Shares,Metalla Royalty & Streaming Ltd. Common Shares,A,MTA,N,100.0,N,MTA
+MTAL,Metals Acquisition Corp. II Class A Ordinary Shares,Metals Acquisition Corp. II Class A Ordinary Shares,N,MTAL,N,100.0,N,MTAL
 MTAL.U,"Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one","Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,MTAL.U,N,100.0,N,MTAL=
+MTAL.W,"Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,MTAL.WS,N,100.0,N,MTAL+
 MTB,M&T Bank Corporation Common Stock,M&T Bank Corporation Common Stock,N,MTB,N,100.0,N,MTB
 MTB$H,M&T Bank Corporation Perpetual Fixed,"M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H",N,MTBpH,N,100.0,N,MTB-H
 MTB$J,M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J",N,MTBpJ,N,100.0,N,MTB-J
@@ -5122,7 +5126,6 @@ QPX,AdvisorShares Q Dynamic Growth ETF,AdvisorShares Q Dynamic Growth ETF,P,QPX,
 QQH,HCM Defender 100 Index ETF,HCM Defender 100 Index ETF,P,QQH,Y,100.0,N,QQH
 QQQD,Direxion Daily Magnificent 7 Bear 1X ETF,Direxion Daily Magnificent 7 Bear 1X ETF,P,QQQD,Y,100.0,N,QQQD
 QQQU,Direxion Daily Magnificent 7 Bull 2X ETF,Direxion Daily Magnificent 7 Bull 2X ETF,P,QQQU,Y,100.0,N,QQQU
-QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one","QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",N,QRED.U,N,100.0,N,QRED=
 QRFT,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap ETF,P,QRFT,Y,100.0,N,QRFT
 QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,WisdomTree U.S. Short Term Corporate Bond Fund,Z,QSIG,Y,100.0,N,QSIG
 QSOL,Invesco Galaxy Solana ETF,Invesco Galaxy Solana ETF,Z,QSOL,Y,100.0,N,QSOL
@@ -5150,7 +5153,7 @@ QVML,Invesco S&P 500 QVM Multi,Invesco S&P 500 QVM Multi-factor ETF,P,QVML,Y,100
 QVMM,Invesco S&P MidCap 400 QVM Multi,Invesco S&P MidCap 400 QVM Multi-factor ETF,P,QVMM,Y,100.0,N,QVMM
 QVMS,Invesco S&P SmallCap 600 QVM Multi,Invesco S&P SmallCap 600 QVM Multi-factor ETF,P,QVMS,Y,100.0,N,QVMS
 QVMT,Invesco S&P 500 Concentrated QVM ETF,Invesco S&P 500 Concentrated QVM ETF,P,QVMT,Y,100.0,N,QVMT
-QVOY,Q3 All,Q3 All-Season Active Rotation ETF Q3 All-Season Active Rotation ETF,Z,QVOY,Y,100.0,N,QVOY
+QVOY,Q3 Active Rotation ETF,Q3 Active Rotation ETF,Z,QVOY,Y,100.0,N,QVOY
 QWLD,State Street SPDR MSCI World StrategicFactors ETF,State Street SPDR MSCI World StrategicFactors ETF,P,QWLD,Y,100.0,N,QWLD
 QXAS,Quantify 2X Daily Alt Season Crypto ETF,Quantify 2X Daily Alt Season Crypto ETF,P,QXAS,Y,100.0,N,QXAS
 QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
@@ -5686,7 +5689,7 @@ SLSR,Solaris Resources Inc. Common Shares,Solaris Resources Inc. Common Shares,A
 SLTY,YieldMax Ultra Short Option Income Strategy ETF,YieldMax Ultra Short Option Income Strategy ETF,P,SLTY,Y,100.0,N,SLTY
 SLV,iShares Silver Trust,iShares Silver Trust,P,SLV,Y,100.0,N,SLV
 SLVM,Sylvamo Corporation Common Stock,Sylvamo Corporation Common Stock,N,SLVM,N,100.0,N,SLVM
-SLVP,iShares MSCI Global Silver Miners Fund,iShares MSCI Global Silver Miners Fund,Z,SLVP,Y,100.0,N,SLVP
+SLVP,iShares MSCI Global Silver and Metals Miners ETF,iShares MSCI Global Silver and Metals Miners ETF,Z,SLVP,Y,100.0,N,SLVP
 SLVX,Nicholas Silver Income ETF,Nicholas Silver Income ETF,P,SLVX,Y,100.0,N,SLVX
 SLX,VanEck Steel ETF,VanEck Steel ETF,P,SLX,Y,100.0,N,SLX
 SLYG,State Street SPDR S&P 600 Small Cap Growth ETF,State Street SPDR S&P 600 Small Cap Growth ETF,P,SLYG,Y,100.0,N,SLYG
@@ -6166,7 +6169,7 @@ TMDE,TMD Energy Limited Ordinary Shares,TMD Energy Limited Ordinary Shares,A,TMD
 TMDV,ProShares Russell US Dividend Growers ETF,ProShares Russell US Dividend Growers ETF,Z,TMDV,Y,100.0,N,TMDV
 TME,"Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares","Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares",N,TME,N,100.0,N,TME
 TMF,Direxion Daily 20,Direxion Daily 20-Yr Treasury Bull 3x Shrs,P,TMF,Y,100.0,N,TMF
-TMFC,Motley Fool 100 Index ETF ETF,Motley Fool 100 Index ETF ETF,Z,TMFC,Y,100.0,N,TMFC
+TMFC,Motley Fool 100 Index ETF,Motley Fool 100 Index ETF,Z,TMFC,Y,100.0,N,TMFC
 TMFE,Motley Fool Capital Efficiency 100 Index ETF,Motley Fool Capital Efficiency 100 Index ETF,Z,TMFE,Y,100.0,N,TMFE
 TMFG,Motley Fool Global Opportunities ETF,Motley Fool Global Opportunities ETF,Z,TMFG,Y,100.0,N,TMFG
 TMFM,Motley Fool Mid,Motley Fool Mid-Cap Growth ETF,Z,TMFM,Y,100.0,N,TMFM
@@ -6210,7 +6213,7 @@ TOTR,T. Rowe Price Total Return ETF,T. Rowe Price Total Return ETF,P,TOTR,Y,100.
 TOUS,T. Rowe Price International Equity ETF,T. Rowe Price International Equity ETF,P,TOUS,Y,100.0,N,TOUS
 TOV,JLens 500 Jewish Advocacy U.S. ETF,JLens 500 Jewish Advocacy U.S. ETF,P,TOV,Y,100.0,N,TOV
 TOVX,"Theriva Biologics, Inc. Common Stock","Theriva Biologics, Inc. Common Stock",A,TOVX,N,100.0,N,TOVX
-TOXR,Shares of Beneficial Interest,Shares of Beneficial Interest,Z,TOXR,Y,100.0,N,TOXR
+TOXR,21Shares XRP ETF,21Shares XRP ETF,Z,TOXR,Y,100.0,N,TOXR
 TPAY,Roundhill S&P 500 Target 10 Managed Distribution ETF,Roundhill S&P 500 Target 10 Managed Distribution ETF,Z,TPAY,Y,100.0,N,TPAY
 TPB,"Turning Point Brands, Inc. Common Stock","Turning Point Brands, Inc. Common Stock",N,TPB,N,100.0,N,TPB
 TPC,Tutor Perini Corporation Common Stock,Tutor Perini Corporation Common Stock,N,TPC,N,100.0,N,TPC
@@ -6516,7 +6519,7 @@ VBF,Invesco Bond Fund Common Stock,Invesco Bond Fund Common Stock,N,VBF,N,100.0,
 VBK,Vanguard Small,Vanguard Small-Cap Growth ETF,P,VBK,Y,40.0,N,VBK
 VBND,Vident U.S. Bond Strategy ETF,Vident U.S. Bond Strategy ETF,P,VBND,Y,100.0,N,VBND
 VBR,Vanguard Small,Vanguard Small-Cap Value ETF,P,VBR,Y,100.0,N,VBR
-VCEB,Vanguard World Funds ETF,Vanguard World Funds ETF,Z,VCEB,Y,100.0,N,VCEB
+VCEB,Vanguard ESG U.S. Corporate Bond ETF,Vanguard ESG U.S. Corporate Bond ETF,Z,VCEB,Y,100.0,N,VCEB
 VCLN,Virtus Duff & Phelps Clean Energy ETF,Virtus Duff & Phelps Clean Energy ETF,P,VCLN,Y,100.0,N,VCLN
 VCOB,Voya Core Bond ETF,Voya Core Bond ETF,P,VCOB,Y,100.0,N,VCOB
 VCR,Vanguard Consumer Discretion ETF,Vanguard Consumer Discretion ETF,P,VCR,Y,40.0,N,VCR
@@ -6531,7 +6534,7 @@ VEA,Vanguard FTSE Developed Markets ETF,Vanguard FTSE Developed Markets ETF,P,VE
 VEEV,Veeva Systems Inc. Class A Common Stock,Veeva Systems Inc. Class A Common Stock,N,VEEV,N,40.0,N,VEEV
 VEGA,AdvisorShares STAR Global Buy,AdvisorShares STAR Global Buy-Write ETF,P,VEGA,Y,100.0,N,VEGA
 VEGI,iShares MSCI Agriculture Producers ETF,iShares MSCI Agriculture Producers ETF,P,VEGI,Y,100.0,N,VEGI
-VEGN,US Vegan Climate Index,US Vegan Climate Index,Z,VEGN,Y,100.0,N,VEGN
+VEGN,US Vegan Climate ETF,US Vegan Climate ETF,Z,VEGN,Y,100.0,N,VEGN
 VEL,"Velocity Financial, Inc. Common Stock","Velocity Financial, Inc. Common Stock",N,VEL,N,100.0,N,VEL
 VEM,Virtus Emerging Markets Dividend ETF,Virtus Emerging Markets Dividend ETF,P,VEM,Y,100.0,N,VEM
 VEMY,Virtus Stone Harbor Emerging Markets High Yield Bond ETF,Virtus Stone Harbor Emerging Markets High Yield Bond ETF,P,VEMY,Y,100.0,N,VEMY
