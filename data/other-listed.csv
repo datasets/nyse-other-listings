@@ -524,6 +524,7 @@ BARK,"BARK, Inc. Class A Common Stock","BARK, Inc. Class A Common Stock",N,BARK,
 BATL,Battalion Oil Corporation Common Stock,Battalion Oil Corporation Common Stock,A,BATL,N,100.0,N,BATL
 BATT,Amplify Lithium & Battery Technology ETF,Amplify Lithium & Battery Technology ETF,P,BATT,Y,100.0,N,BATT
 BAUG,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - August,Z,BAUG,Y,100.0,N,BAUG
+BAVA,Common Shares of Beneficial Interest of Bitwise Avalanche ETF,Common Shares of Beneficial Interest of Bitwise Avalanche ETF,P,BAVA,Y,100.0,N,BAVA
 BAX,Baxter International Inc. Common Stock,Baxter International Inc. Common Stock,N,BAX,N,100.0,N,BAX
 BB,BlackBerry Limited Common Stock,BlackBerry Limited Common Stock,N,BB,N,100.0,N,BB
 BBAG,JPMorgan BetaBuilders U.S. Aggregate Bond ETF,JPMorgan BetaBuilders U.S. Aggregate Bond ETF,P,BBAG,Y,100.0,N,BBAG
@@ -1677,6 +1678,7 @@ DOUG,Douglas Elliman Inc. Common Stock,Douglas Elliman Inc. Common Stock,N,DOUG,
 DOV,Dover Corporation Common Stock,Dover Corporation Common Stock,N,DOV,N,100.0,N,DOV
 DOW,Dow Inc. Common Stock ,Dow Inc. Common Stock ,N,DOW,N,100.0,N,DOW
 DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,Duff & Phelps Utility and Infrastructure Fund Inc.,N,DPG,N,100.0,N,DPG
+DPRE,Virtus Duff & Phelps Real Estate Income ETF,Virtus Duff & Phelps Real Estate Income ETF,P,DPRE,Y,100.0,N,DPRE
 DPST,Direxion Daily Regional Banks Bull 3X ETF,Direxion Daily Regional Banks Bull 3X ETF,P,DPST,Y,100.0,N,DPST
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares","DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",N,DQ,N,100.0,N,DQ
 DRAI,Draco Evolution AI ETF,Draco Evolution AI ETF,P,DRAI,Y,100.0,N,DRAI
@@ -3082,6 +3084,7 @@ IBMT,iShares iBonds Dec 2031 Term Muni Bond ETF,iShares iBonds Dec 2031 Term Mun
 IBMU,iShares iBonds Dec 2032 Term Muni Bond ETF,iShares iBonds Dec 2032 Term Muni Bond ETF,Z,IBMU,Y,100.0,N,IBMU
 IBMV,iShares iBonds Dec 2033 Term Muni Bond ETF,iShares iBonds Dec 2033 Term Muni Bond ETF,Z,IBMV,Y,100.0,N,IBMV
 IBMW,iShares iBonds Dec 2034 Term Muni Bond ETF,iShares iBonds Dec 2034 Term Muni Bond ETF,Z,IBMW,Y,100.0,N,IBMW
+IBMX,iShares iBonds Dec 2035 Term Muni Bond ETF,iShares iBonds Dec 2035 Term Muni Bond ETF,Z,IBMX,Y,100.0,N,IBMX
 IBN,ICICI Bank Limited Common Stock,ICICI Bank Limited Common Stock,N,IBN,N,100.0,N,IBN
 IBND,SPDR Bloomberg International Corporate Bond ETF,SPDR Bloomberg International Corporate Bond ETF,P,IBND,Y,100.0,N,IBND
 IBO,"Impact BioMedical, Inc. Common Stock","Impact BioMedical, Inc. Common Stock",A,IBO,N,100.0,N,IBO
@@ -4174,7 +4177,6 @@ MSSS,Monarch Select Subsector Index ETF,Monarch Select Subsector Index ETF,Z,MSS
 MSST,YieldMax MSTR Performance & Distribution Target 25 ETF,YieldMax MSTR Performance & Distribution Target 25 ETF,Z,MSST,Y,100.0,N,MSST
 MSTB,LHA Market State Tactical Beta ETF,LHA Market State Tactical Beta ETF,Z,MSTB,Y,100.0,N,MSTB
 MSTI,Madison Short Term Strategic Income ETF,Madison Short Term Strategic Income ETF,P,MSTI,Y,100.0,N,MSTI
-MSTK,Tuttle Capital MSTR 0DTE Covered Call ETF,Tuttle Capital MSTR 0DTE Covered Call ETF,Z,MSTK,Y,100.0,N,MSTK
 MSTQ,LHA Market State Tactical Q ETF,LHA Market State Tactical Q ETF,Z,MSTQ,Y,100.0,N,MSTQ
 MSTU,T,T-Rex 2X Long MSTR Daily Target ETF,Z,MSTU,Y,100.0,N,MSTU
 MSTW,Roundhill MSTR WeeklyPay ETF,Roundhill MSTR WeeklyPay ETF,Z,MSTW,Y,100.0,N,MSTW
@@ -4344,7 +4346,6 @@ NGVT,Ingevity Corporation Common Stock ,Ingevity Corporation Common Stock ,N,NGV
 NHC,National HealthCare Corporation Common Stock,National HealthCare Corporation Common Stock,A,NHC,N,100.0,N,NHC
 NHI,"National Health Investors, Inc. Common Stock","National Health Investors, Inc. Common Stock",N,NHI,N,100.0,N,NHI
 NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,Neuberger High Yield Strategies Fund Inc. Common Stock,A,NHS,N,100.0,N,NHS
-NHS.R,"Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights","Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",A,NHSr,N,100.0,N,NHS^
 NHYB,Nuveen High Yield Corporate Bond ETF,Nuveen High Yield Corporate Bond ETF,P,NHYB,Y,100.0,N,NHYB
 NHYM,Nuveen High Yield Municipal Income ETF,Nuveen High Yield Municipal Income ETF,P,NHYM,Y,100.0,N,NHYM
 NI,NiSource Inc Common Stock,NiSource Inc Common Stock,N,NI,N,100.0,N,NI
@@ -5126,6 +5127,7 @@ QPX,AdvisorShares Q Dynamic Growth ETF,AdvisorShares Q Dynamic Growth ETF,P,QPX,
 QQH,HCM Defender 100 Index ETF,HCM Defender 100 Index ETF,P,QQH,Y,100.0,N,QQH
 QQQD,Direxion Daily Magnificent 7 Bear 1X ETF,Direxion Daily Magnificent 7 Bear 1X ETF,P,QQQD,Y,100.0,N,QQQD
 QQQU,Direxion Daily Magnificent 7 Bull 2X ETF,Direxion Daily Magnificent 7 Bull 2X ETF,P,QQQU,Y,100.0,N,QQQU
+QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one","QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",N,QRED.U,N,100.0,N,QRED=
 QRFT,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap ETF,P,QRFT,Y,100.0,N,QRFT
 QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,WisdomTree U.S. Short Term Corporate Bond Fund,Z,QSIG,Y,100.0,N,QSIG
 QSOL,Invesco Galaxy Solana ETF,Invesco Galaxy Solana ETF,Z,QSOL,Y,100.0,N,QSOL
@@ -5791,6 +5793,7 @@ SPCE,"Virgin Galactic Holdings, Inc. Common Stock","Virgin Galactic Holdings, In
 SPCI,Tuttle Capital Space Industry Income Blast ETF,Tuttle Capital Space Industry Income Blast ETF,Z,SPCI,Y,100.0,N,SPCI
 SPCZ,RiverNorth Enhanced Pre,RiverNorth Enhanced Pre-Merger SPAC ETF,Z,SPCZ,Y,100.0,N,SPCZ
 SPD,Simplify US Equity PLUS Downside Convexity ETF,Simplify US Equity PLUS Downside Convexity ETF,P,SPD,Y,100.0,N,SPD
+SPDF,Defender Risk Adaptive 500 ETF,Defender Risk Adaptive 500 ETF,Z,SPDF,Y,100.0,N,SPDF
 SPDG,State Street SPDR Portfolio S&P Sector Neutral Dividend ETF,State Street SPDR Portfolio S&P Sector Neutral Dividend ETF,P,SPDG,Y,100.0,N,SPDG
 SPDN,Direxion Daily S&P 500 Bear 1X ETF,Direxion Daily S&P 500 Bear 1X ETF,P,SPDN,Y,100.0,N,SPDN
 SPDV,AAM S&P 500 High Dividend Value ETF,AAM S&P 500 High Dividend Value ETF,P,SPDV,Y,100.0,N,SPDV
