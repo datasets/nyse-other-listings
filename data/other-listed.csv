@@ -527,7 +527,7 @@ BAUG,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - August
 BAVA,Common Shares of Beneficial Interest of Bitwise Avalanche ETF,Common Shares of Beneficial Interest of Bitwise Avalanche ETF,P,BAVA,Y,100.0,N,BAVA
 BAX,Baxter International Inc. Common Stock,Baxter International Inc. Common Stock,N,BAX,N,100.0,N,BAX
 BB,BlackBerry Limited Common Stock,BlackBerry Limited Common Stock,N,BB,N,100.0,N,BB
-BBAG,JPMorgan BetaBuilders U.S. Aggregate Bond ETF,JPMorgan BetaBuilders U.S. Aggregate Bond ETF,P,BBAG,Y,100.0,N,BBAG
+BBAG,JPMorgan BetaBuilders U.S. Aggregate Bond ETF,JPMorgan BetaBuilders U.S. Aggregate Bond ETF,Z,BBAG,Y,100.0,N,BBAG
 BBAI,"BigBear.ai, Inc. Common Stock","BigBear.ai, Inc. Common Stock",N,BBAI,N,100.0,N,BBAI
 BBAI.W,"BigBear.ai, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share","BigBear.ai, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,BBAI.WS,N,100.0,N,BBAI+
 BBAR,Banco BBVA Argentina S.A. ADS,Banco BBVA Argentina S.A. ADS,N,BBAR,N,100.0,N,BBAR
@@ -539,7 +539,7 @@ BBBY,"Bed Bath & Beyond, Inc. Common Stock","Bed Bath & Beyond, Inc. Common Stoc
 BBBY.W,"Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock","Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock",N,BBBY.WS,N,100.0,N,BBBY+
 BBC,Virtus Biotech Clinical Trials ETF,Virtus Biotech Clinical Trials ETF,P,BBC,Y,100.0,N,BBC
 BBCA,JPMorgan BetaBuilders Canada ETF,JPMorgan BetaBuilders Canada ETF,Z,BBCA,Y,100.0,N,BBCA
-BBCB,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,P,BBCB,Y,100.0,N,BBCB
+BBCB,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,Z,BBCB,Y,100.0,N,BBCB
 BBD,Banco Bradesco Sa American Depositary Shares,Banco Bradesco Sa American Depositary Shares,N,BBD,N,100.0,N,BBD
 BBDC,"Barings BDC, Inc. Common Stock","Barings BDC, Inc. Common Stock",N,BBDC,N,100.0,N,BBDC
 BBDO,Banco Bradesco Sa American Depositary Shares (each representing one Common Share),Banco Bradesco Sa American Depositary Shares (each representing one Common Share),N,BBDO,N,100.0,N,BBDO
@@ -553,12 +553,12 @@ BBIN,JPMorgan BetaBuilders International Equity ETF,JPMorgan BetaBuilders Intern
 BBJP,JPMorgan BetaBuilders Japan ETF,JPMorgan BetaBuilders Japan ETF,Z,BBJP,Y,100.0,N,BBJP
 BBLB,JPMorgan BetaBuilders U.S. Treasury Bond 20+ Year ETF,JPMorgan BetaBuilders U.S. Treasury Bond 20+ Year ETF,Z,BBLB,Y,100.0,N,BBLB
 BBLU,EA Bridgeway Blue Chip ETF,EA Bridgeway Blue Chip ETF,P,BBLU,Y,100.0,N,BBLU
-BBMC,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF,P,BBMC,Y,100.0,N,BBMC
+BBMC,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF,Z,BBMC,Y,100.0,N,BBMC
 BBN,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,N,BBN,N,100.0,N,BBN
 BBP,Virtus Biotech ETF,Virtus Biotech ETF,P,BBP,Y,100.0,N,BBP
 BBRE,JPMorgan BetaBuilders MSCI U.S. REIT ETF,JPMorgan BetaBuilders MSCI U.S. REIT ETF,Z,BBRE,Y,100.0,N,BBRE
 BBSB,JPMorgan BetaBuilders U.S. Treasury Bond 1,JPMorgan BetaBuilders U.S. Treasury Bond 1-3 Year ETF,Z,BBSB,Y,100.0,N,BBSB
-BBSC,JPMorgan BetaBuilders U.S. Small Cap Equity ETF,JPMorgan BetaBuilders U.S. Small Cap Equity ETF,P,BBSC,Y,100.0,N,BBSC
+BBSC,JPMorgan BetaBuilders U.S. Small Cap Equity ETF,JPMorgan BetaBuilders U.S. Small Cap Equity ETF,Z,BBSC,Y,100.0,N,BBSC
 BBT,Beacon Financial Corporation Common stock,Beacon Financial Corporation Common stock,N,BBT,N,100.0,N,BBT
 BBUC,Brookfield Business Corporation Class A Subordinate Voting Shares,Brookfield Business Corporation Class A Subordinate Voting Shares,N,BBUC,N,100.0,N,BBUC
 BBUS,JPMorgan BetaBuilders U.S. Equity ETF,JPMorgan BetaBuilders U.S. Equity ETF,Z,BBUS,Y,100.0,N,BBUS
@@ -967,6 +967,7 @@ CAE,CAE Inc. Ordinary Shares,CAE Inc. Ordinary Shares,N,CAE,N,100.0,N,CAE
 CAF,Morgan Stanley China A Share Fund Inc. Common Stock,Morgan Stanley China A Share Fund Inc. Common Stock,N,CAF,N,100.0,N,CAF
 CAFX,Congress Intermediate Bond ETF,Congress Intermediate Bond ETF,P,CAFX,Y,100.0,N,CAFX
 CAG,"ConAgra Brands, Inc. Common Stock","ConAgra Brands, Inc. Common Stock",N,CAG,N,100.0,N,CAG
+CAGE,Calamos Autocallable Growth ETF,Calamos Autocallable Growth ETF,P,CAGE,Y,100.0,N,CAGE
 CAH,"Cardinal Health, Inc. Common Stock","Cardinal Health, Inc. Common Stock",N,CAH,N,100.0,N,CAH
 CAIE,Calamos Autocallable Income ETF,Calamos Autocallable Income ETF,P,CAIE,Y,100.0,N,CAIE
 CAL,"Caleres, Inc. Common Stock","Caleres, Inc. Common Stock",N,CAL,N,100.0,N,CAL
@@ -3432,8 +3433,8 @@ JBTM,JBT Marel Corporation Common Stock,JBT Marel Corporation Common Stock,N,JBT
 JCE,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest,N,JCE,N,100.0,N,JCE
 JCHI,JPMorgan Active China ETF,JPMorgan Active China ETF,P,JCHI,Y,100.0,N,JCHI
 JCI,Johnson Controls International plc Ordinary Share,Johnson Controls International plc Ordinary Share,N,JCI,N,100.0,N,JCI
-JCPB,JPMorgan Core Plus Bond ETF,JPMorgan Core Plus Bond ETF,Z,JCPB,Y,100.0,N,JCPB
-JCPI,JPMorgan Inflation Managed Bond ETF,JPMorgan Inflation Managed Bond ETF,Z,JCPI,Y,100.0,N,JCPI
+JCPB,JPMorgan Core Plus Bond ETF,JPMorgan Core Plus Bond ETF,P,JCPB,Y,100.0,N,JCPB
+JCPI,JPMorgan Inflation Managed Bond ETF,JPMorgan Inflation Managed Bond ETF,P,JCPI,Y,100.0,N,JCPI
 JDIV,JPMorgan Dividend Leaders ETF,JPMorgan Dividend Leaders ETF,P,JDIV,Y,100.0,N,JDIV
 JDST,Direxion Daily Junior Gold Miners Index Bear 2X ETF,Direxion Daily Junior Gold Miners Index Bear 2X ETF,P,JDST,Y,100.0,N,JDST
 JDVI,John Hancock Disciplined Value International Select ETF,John Hancock Disciplined Value International Select ETF,P,JDVI,Y,100.0,N,JDVI
@@ -3441,7 +3442,6 @@ JDVL,John Hancock Disciplined Value Select ETF,John Hancock Disciplined Value Se
 JEDI,Defiance Drone and Modern Warfare ETF,Defiance Drone and Modern Warfare ETF,P,JEDI,Y,100.0,N,JEDI
 JEF,Jefferies Financial Group Inc. Common Stock,Jefferies Financial Group Inc. Common Stock,N,JEF,N,100.0,N,JEF
 JELD,JELD,"JELD-WEN Holding, Inc. Common Stock",N,JELD,N,100.0,N,JELD
-JEMA,JPMorgan ActiveBuilders Emerging Markets Equity ETF,JPMorgan ActiveBuilders Emerging Markets Equity ETF,Z,JEMA,Y,100.0,N,JEMA
 JEMB,Janus Henderson Emerging Markets Debt Hard Currency ETF,Janus Henderson Emerging Markets Debt Hard Currency ETF,P,JEMB,Y,100.0,N,JEMB
 JENA,Jena Acquisition Corporation II Class A Ordinary Shares,Jena Acquisition Corporation II Class A Ordinary Shares,N,JENA,N,100.0,N,JENA
 JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one","Jena Acquisition Corporation II Rights, each right to acquire one-twentieth (1/20) of one Class A ordinary share",N,JENAr,N,100.0,N,JENA^
@@ -3495,9 +3495,9 @@ JMM,Nuveen Multi,Nuveen Multi-Market Income Fund (MA),N,JMM,N,100.0,N,JMM
 JMMF,JPMorgan 100% U.S. Treasury Securities Money Market ETF,JPMorgan 100% U.S. Treasury Securities Money Market ETF,P,JMMF,Y,100.0,N,JMMF
 JMOM,JPMorgan U.S. Momentum Factor ETF,JPMorgan U.S. Momentum Factor ETF,P,JMOM,Y,100.0,N,JMOM
 JMSI,JPMorgan Sustainable Municipal Income ETF,JPMorgan Sustainable Municipal Income ETF,P,JMSI,Y,100.0,N,JMSI
-JMST,JPMorgan Ultra,JPMorgan Ultra-Short Municipal Income ETF,Z,JMST,Y,100.0,N,JMST
+JMST,JPMorgan Ultra,JPMorgan Ultra-Short Municipal Income ETF,P,JMST,Y,100.0,N,JMST
 JMTG,JPMorgan Mortgage,JPMorgan Mortgage-Backed Securities ETF,P,JMTG,Y,100.0,N,JMTG
-JMUB,JPMorgan Municipal ETF,JPMorgan Municipal ETF,Z,JMUB,Y,100.0,N,JMUB
+JMUB,JPMorgan Municipal ETF,JPMorgan Municipal ETF,P,JMUB,Y,100.0,N,JMUB
 JNEU,AllianzIM U.S. Equity Buffer15 Uncapped June ETF,AllianzIM U.S. Equity Buffer15 Uncapped June ETF,Z,JNEU,Y,100.0,N,JNEU
 JNJ,Johnson & Johnson Common Stock,Johnson & Johnson Common Stock,N,JNJ,N,100.0,N,JNJ
 JNK,State Street SPDR Bloomberg High Yield Bond ETF,State Street SPDR Bloomberg High Yield Bond ETF,P,JNK,Y,100.0,N,JNK
@@ -3510,15 +3510,14 @@ JOE,St. Joe Company (The) Common Stock,St. Joe Company (The) Common Stock,N,JOE,
 JOET,Virtus Terranova U.S. Quality Momentum ETF,Virtus Terranova U.S. Quality Momentum ETF,P,JOET,Y,100.0,N,JOET
 JOF,Japan Smaller Capitalization Fund Inc Common Stock,Japan Smaller Capitalization Fund Inc Common Stock,N,JOF,N,100.0,N,JOF
 JOJO,ATAC Credit Rotation ETF,ATAC Credit Rotation ETF,P,JOJO,Y,100.0,N,JOJO
-JOYT,JPMorgan Equity and Options Total Return ETF,JPMorgan Equity and Options Total Return ETF,Z,JOYT,Y,100.0,N,JOYT
 JPAN,Matthews Japan Active ETF,Matthews Japan Active ETF,P,JPAN,Y,100.0,N,JPAN
 JPC,Nuveen Preferred & Income Opportunities Fund,Nuveen Preferred & Income Opportunities Fund,N,JPC,N,100.0,N,JPC
 JPEM,JPMorgan Diversified Return Emerging Markets Equity ETF,JPMorgan Diversified Return Emerging Markets Equity ETF,P,JPEM,Y,100.0,N,JPEM
-JPHY,JPMorgan Active High Yield ETF,JPMorgan Active High Yield ETF,Z,JPHY,Y,100.0,N,JPHY
-JPIB,JPMorgan International Bond Opportunities ETF,JPMorgan International Bond Opportunities ETF,Z,JPIB,Y,100.0,N,JPIB
+JPHY,JPMorgan Active High Yield ETF,JPMorgan Active High Yield ETF,P,JPHY,Y,100.0,N,JPHY
+JPIB,JPMorgan International Bond Opportunities ETF,JPMorgan International Bond Opportunities ETF,P,JPIB,Y,100.0,N,JPIB
 JPIE,JPMorgan Income ETF,JPMorgan Income ETF,P,JPIE,Y,100.0,N,JPIE
 JPIN,JPMorgan Diversified Return International Equity ETF,JPMorgan Diversified Return International Equity ETF,P,JPIN,Y,100.0,N,JPIN
-JPLD,JPMorgan Limited Duration Bond ETF,JPMorgan Limited Duration Bond ETF,Z,JPLD,Y,100.0,N,JPLD
+JPLD,JPMorgan Limited Duration Bond ETF,JPMorgan Limited Duration Bond ETF,P,JPLD,Y,100.0,N,JPLD
 JPM,JP Morgan Chase & Co. Common Stock,JP Morgan Chase & Co. Common Stock,N,JPM,N,40.0,N,JPM
 JPM$C,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.00% Non","J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.00% Non-Cumulative  Preferred Stock, Series EE",N,JPMpC,N,100.0,N,JPM-C
 JPM$D,"J P Morgan Chase & Co Depositary Shares, each representing a 1/400th  interest in a share of 5.75% Non","J P Morgan Chase & Co Depositary Shares, each representing a 1/400th  interest in a share of 5.75% Non-Cumulative  Preferred Stock, Series DD",N,JPMpD,N,100.0,N,JPM-D
@@ -3868,7 +3867,6 @@ LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common St
 LUNL,Defiance Daily Target 2X Long LUNR ETF,Defiance Daily Target 2X Long LUNR ETF,Z,LUNL,Y,100.0,N,LUNL
 LUV,Southwest Airlines Company Common Stock,Southwest Airlines Company Common Stock,N,LUV,N,100.0,N,LUV
 LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share","LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",N,LUXE,N,100.0,N,LUXE
-LVDS,JPMorgan Fundamental Data Science Large Value ETF,JPMorgan Fundamental Data Science Large Value ETF,Z,LVDS,Y,100.0,N,LVDS
 LVHI,Franklin International Low Volatility High Dividend Index ETF,Franklin International Low Volatility High Dividend Index ETF,Z,LVHI,Y,100.0,N,LVHI
 LVLN,State Street SPDR S&P Leveraged Loan ETF,State Street SPDR S&P Leveraged Loan ETF,P,LVLN,Y,100.0,N,LVLN
 LVS,Las Vegas Sands Corp. Common Stock,Las Vegas Sands Corp. Common Stock,N,LVS,N,100.0,N,LVS
@@ -3902,6 +3900,7 @@ MAGX,Roundhill Daily 2X Long Magnificent Seven ETF,Roundhill Daily 2X Long Magni
 MAGY,Roundhill Magnificent Seven Covered Call ETF,Roundhill Magnificent Seven Covered Call ETF,Z,MAGY,Y,100.0,N,MAGY
 MAIA,"MAIA Biotechnology, Inc. Common Stock","MAIA Biotechnology, Inc. Common Stock",A,MAIA,N,100.0,N,MAIA
 MAIN,Main Street Capital Corporation Common Stock,Main Street Capital Corporation Common Stock,N,MAIN,N,100.0,N,MAIN
+MAIR,Madison Air Solutions Corporation Class A Common Stock,Madison Air Solutions Corporation Class A Common Stock,N,MAIR,N,100.0,N,MAIR
 MAKX,ProShares S&P Kensho Smart Factories ETF,ProShares S&P Kensho Smart Factories ETF,P,MAKX,Y,100.0,N,MAKX
 MAMB,Monarch Ambassador Income Index ETF,Monarch Ambassador Income Index ETF,Z,MAMB,Y,100.0,N,MAMB
 MAN,ManpowerGroup Common Stock,ManpowerGroup Common Stock,N,MAN,N,100.0,N,MAN
@@ -4778,7 +4777,6 @@ PEMX,Putnam Emerging Markets ex,Putnam Emerging Markets ex-China ETF,P,PEMX,Y,10
 PEN,"Penumbra, Inc. Common Stock","Penumbra, Inc. Common Stock",N,PEN,N,40.0,N,PEN
 PEO,"Adams Natural Resources Fund, Inc. Common Stock","Adams Natural Resources Fund, Inc. Common Stock",N,PEO,N,100.0,N,PEO
 PERF,Perfect Corp. Class A Ordinary Share,Perfect Corp. Class A Ordinary Share,N,PERF,N,100.0,N,PERF
-PERF.W,"Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share","Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share",N,PERF.WS,N,100.0,N,PERF+
 PEVC,Pacer PE/VC ETF,Pacer PE/VC ETF,P,PEVC,Y,100.0,N,PEVC
 PEW,GrabAGun Digital Holdings Inc. Common Stock,GrabAGun Digital Holdings Inc. Common Stock,N,PEW,N,100.0,N,PEW
 PEW.W,"GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share","GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",N,PEW.WS,N,100.0,N,PEW+
@@ -6058,7 +6056,7 @@ TE.W,"T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Co
 TEC,Harbor Transformative Technologies ETF,Harbor Transformative Technologies ETF,P,TEC,Y,100.0,N,TEC
 TECB,iShares U.S. Tech Breakthrough Multisector ETF,iShares U.S. Tech Breakthrough Multisector ETF,P,TECB,Y,100.0,N,TECB
 TECK,Teck Resources Ltd Ordinary Shares,Teck Resources Ltd Ordinary Shares,N,TECK,N,100.0,N,TECK
-TECL,Direxion Daily S&P 500 Bear 3X ETF,Direxion Daily S&P 500 Bear 3X ETF,P,TECL,Y,100.0,N,TECL
+TECL,Direxion Daily Technology Bull 3X ETF,Direxion Daily Technology Bull 3X ETF,P,TECL,Y,100.0,N,TECL
 TECS,Direxion Technology Bear 3X ETF,Direxion Technology Bear 3X ETF,P,TECS,Y,100.0,N,TECS
 TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock","Templeton Emerging Markets Income Fund, Inc. Common Stock",N,TEI,N,100.0,N,TEI
 TEK,iShares Technology Opportunities Active ETF,iShares Technology Opportunities Active ETF,P,TEK,Y,100.0,N,TEK
@@ -6531,8 +6529,10 @@ VCV,Invesco California Value Municipal Income Trust Common Stock,Invesco Califor
 VCX,"Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests","Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",N,VCX,N,100.0,N,VCX
 VDC,Vanguard Consumer Staples ETF,Vanguard Consumer Staples ETF,P,VDC,Y,100.0,N,VDC
 VDE,Vanguard Energy ETF,Vanguard Energy ETF,P,VDE,Y,100.0,N,VDE
+VDG,Vanguard Developed Markets ex,Vanguard Developed Markets ex-US Growth Index ETF,Z,VDG,Y,100.0,N,VDG
 VDI,Virtus International Dividend ETF,Virtus International Dividend ETF,P,VDI,Y,100.0,N,VDI
 VDIG,Vanguard Wellington Dividend Growth Active ETF,Vanguard Wellington Dividend Growth Active ETF,Z,VDIG,Y,100.0,N,VDIG
+VDV,Vanguard Developed Markets ex,Vanguard Developed Markets ex-US Value Index ETF,Z,VDV,Y,100.0,N,VDV
 VEA,Vanguard FTSE Developed Markets ETF,Vanguard FTSE Developed Markets ETF,P,VEA,Y,100.0,N,VEA
 VEEV,Veeva Systems Inc. Class A Common Stock,Veeva Systems Inc. Class A Common Stock,N,VEEV,N,40.0,N,VEEV
 VEGA,AdvisorShares STAR Global Buy,AdvisorShares STAR Global Buy-Write ETF,P,VEGA,Y,100.0,N,VEGA
