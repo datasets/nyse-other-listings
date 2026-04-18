@@ -428,6 +428,7 @@ AVDV,Avantis International Small Cap Value ETF,Avantis International Small Cap V
 AVEE,Avantis Emerging Markets Small Cap Equity ETF,Avantis Emerging Markets Small Cap Equity ETF,P,AVEE,Y,100.0,N,AVEE
 AVEM,Avantis Emerging Markets Equity ETF,Avantis Emerging Markets Equity ETF,P,AVEM,Y,100.0,N,AVEM
 AVES,Avantis Emerging Markets Value ETF,Avantis Emerging Markets Value ETF,P,AVES,Y,100.0,N,AVES
+AVEX,AEVEX Corp. Class A Common Stock,AEVEX Corp. Class A Common Stock,N,AVEX,N,100.0,N,AVEX
 AVGE,Avantis All Equity Markets ETF,Avantis All Equity Markets ETF,P,AVGE,Y,100.0,N,AVGE
 AVGV,Avantis All Equity Markets Value ETF,Avantis All Equity Markets Value ETF,P,AVGV,Y,100.0,N,AVGV
 AVGW,Roundhill AVGO WeeklyPay ETF,Roundhill AVGO WeeklyPay ETF,Z,AVGW,Y,100.0,N,AVGW
@@ -1005,6 +1006,7 @@ CBOJ,Calamos Bitcoin Structured Alt Protection ETF ,Calamos Bitcoin Structured A
 CBOL,Calamos Laddered Bitcoin Structured Alt Protection ETF,Calamos Laddered Bitcoin Structured Alt Protection ETF,Z,CBOL,Y,100.0,N,CBOL
 CBON,VanEck China Bond ETF,VanEck China Bond ETF,P,CBON,Y,100.0,N,CBON
 CBOO,Calamos Bitcoin Structured Alt Protection ETF ,Calamos Bitcoin Structured Alt Protection ETF - October,Z,CBOO,Y,100.0,N,CBOO
+CBOX,Calamos Tax,Calamos Tax-Aware Collateral ETF,Z,CBOX,Y,100.0,N,CBOX
 CBOY,Calamos Bitcoin Structured Alt Protection ETF ,Calamos Bitcoin Structured Alt Protection ETF - July,Z,CBOY,Y,100.0,N,CBOY
 CBRE,CBRE Group Inc Common Stock Class A,CBRE Group Inc Common Stock Class A,N,CBRE,N,100.0,N,CBRE
 CBSE,Clough Select Equity ETF,Clough Select Equity ETF,P,CBSE,Y,100.0,N,CBSE
@@ -4659,6 +4661,7 @@ OXM,"Oxford Industries, Inc. Common Stock","Oxford Industries, Inc. Common Stock
 OXY,Occidental Petroleum Corporation Common Stock,Occidental Petroleum Corporation Common Stock,N,OXY,N,100.0,N,OXY
 OXY.W,Occidental Petroleum Corporation Warrants ,Occidental Petroleum Corporation Warrants ,N,OXY.WS,N,100.0,N,OXY+
 OZ,"Belpointe PREP, LLC Class A Units","Belpointe PREP, LLC Class A Units",A,OZ,N,100.0,N,OZ
+P,"Everpure, Inc. Class A common stock","Everpure, Inc. Class A common stock",N,P,N,100.0,N,P
 PAAA,PGIM AAA CLO ETF,PGIM AAA CLO ETF,P,PAAA,Y,100.0,N,PAAA
 PAAS,Pan American Silver Corp. Common Stock,Pan American Silver Corp. Common Stock,N,PAAS,N,100.0,N,PAAS
 PAAU,T,T-REX 2X Long PAAS Daily Target ETF,Z,PAAU,Y,100.0,N,PAAU
@@ -5017,7 +5020,6 @@ PSQH.W,"PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A c
 PSQO,Palmer Square Credit Opportunities ETF,Palmer Square Credit Opportunities ETF,P,PSQO,Y,100.0,N,PSQO
 PSR,Invesco Active U.S. Real Estate Fund,Invesco Active U.S. Real Estate Fund,P,PSR,Y,100.0,N,PSR
 PST,ProShares UltraShort Lehman 7,ProShares UltraShort Lehman 7-10 Year Treasury,P,PST,Y,100.0,N,PST
-PSTG,"Everpure, Inc. Class A common stock","Everpure, Inc. Class A common stock",N,PSTG,N,100.0,N,PSTG
 PSTL,"Postal Realty Trust, Inc. Class A Common Stock","Postal Realty Trust, Inc. Class A Common Stock",N,PSTL,N,100.0,N,PSTL
 PSTP,Innovator Power Buffer Step,Innovator Power Buffer Step-Up Strategy ETF,P,PSTP,Y,100.0,N,PSTP
 PSX,Phillips 66 Common Stock,Phillips 66 Common Stock,N,PSX,N,100.0,N,PSX
@@ -5789,6 +5791,7 @@ SPBW,AllianzIM Buffer20 Allocation ETF,AllianzIM Buffer20 Allocation ETF,Z,SPBW,
 SPBX,AllianzIM 6 Month Buffer10 Allocation ETF,AllianzIM 6 Month Buffer10 Allocation ETF,Z,SPBX,Y,100.0,N,SPBX
 SPCE,"Virgin Galactic Holdings, Inc. Common Stock","Virgin Galactic Holdings, Inc. Common Stock",N,SPCE,N,100.0,N,SPCE
 SPCI,Tuttle Capital Space Industry Income Blast ETF,Tuttle Capital Space Industry Income Blast ETF,Z,SPCI,Y,100.0,N,SPCI
+SPCL,Defiance Pure Space Daily 2X Strategy ETF,Defiance Pure Space Daily 2X Strategy ETF,Z,SPCL,Y,100.0,N,SPCL
 SPCZ,RiverNorth Enhanced Pre,RiverNorth Enhanced Pre-Merger SPAC ETF,Z,SPCZ,Y,100.0,N,SPCZ
 SPD,Simplify US Equity PLUS Downside Convexity ETF,Simplify US Equity PLUS Downside Convexity ETF,P,SPD,Y,100.0,N,SPD
 SPDF,Defender Risk Adaptive 500 ETF,Defender Risk Adaptive 500 ETF,Z,SPDF,Y,100.0,N,SPDF
@@ -6819,7 +6822,6 @@ WY,Weyerhaeuser Company Common Stock,Weyerhaeuser Company Common Stock,N,WY,N,10
 WYY,WidePoint Corporation Common Stock,WidePoint Corporation Common Stock,A,WYY,N,100.0,N,WYY
 WZRD,Opportunistic Trader ETF,Opportunistic Trader ETF,Z,WZRD,Y,100.0,N,WZRD
 XAGG,Eaton Vance Income Opportunities ETF,Eaton Vance Income Opportunities ETF,P,XAGG,Y,100.0,N,XAGG
-XAIL,Defiance Pure Space Daily 2X Strategy ETF,Defiance Pure Space Daily 2X Strategy ETF,Z,XAIL,Y,100.0,N,XAIL
 XAPR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April,Z,XAPR,Y,100.0,N,XAPR
 XAR,State Street SPDR S&P Aerospace & Defense ETF,State Street SPDR S&P Aerospace & Defense ETF,P,XAR,Y,100.0,N,XAR
 XAUG,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August,Z,XAUG,Y,100.0,N,XAUG
@@ -6966,7 +6968,6 @@ XTWY,BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF,BondBloxx B
 XUDV,Franklin U.S. Dividend Booster Index ETF,Franklin U.S. Dividend Booster Index ETF,P,XUDV,Y,100.0,N,XUDV
 XUSP,Innovator Uncapped Accelerated U.S. Equity ETF,Innovator Uncapped Accelerated U.S. Equity ETF,Z,XUSP,Y,100.0,N,XUSP
 XV,Simplify Target 15 Distribution ETF,Simplify Target 15 Distribution ETF,P,XV,Y,100.0,N,XV
-XVOL,Acruence Active Hedge U.S. Equity ETF,Acruence Active Hedge U.S. Equity ETF,Z,XVOL,Y,100.0,N,XVOL
 XVV,iShares ESG Select Screened S&P 500 ETF,iShares ESG Select Screened S&P 500 ETF,Z,XVV,Y,100.0,N,XVV
 XXI,"Twenty One Capital, Inc. Class A Common Stock","Twenty One Capital, Inc. Class A Common Stock",N,XXI,N,100.0,N,XXI
 XXRP,Teucrium 2x Long Daily XRP ETF,Teucrium 2x Long Daily XRP ETF,P,XXRP,Y,100.0,N,XXRP
