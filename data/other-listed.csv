@@ -1582,6 +1582,7 @@ DFUV,Dimensional US Marketwide Value ETF,Dimensional US Marketwide Value ETF,P,D
 DFVE,DoubleLine Fortune 500 Equal Weight ETF,DoubleLine Fortune 500 Equal Weight ETF,P,DFVE,Y,100.0,N,DFVE
 DFVX,Dimensional US Large Cap Vector ETF,Dimensional US Large Cap Vector ETF,P,DFVX,Y,100.0,N,DFVX
 DG,Dollar General Corporation Common Stock,Dollar General Corporation Common Stock,N,DG,N,100.0,N,DG
+DGAP,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - April,Z,DGAP,Y,100.0,N,DGAP
 DGIN,VanEck Digital India ETF,VanEck Digital India ETF,P,DGIN,Y,100.0,N,DGIN
 DGJA,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - January,Z,DGJA,Y,100.0,N,DGJA
 DGOC,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - October,Z,DGOC,Y,100.0,N,DGOC
@@ -1601,6 +1602,7 @@ DHSB,Day Hagan Smart Buffer ETF,Day Hagan Smart Buffer ETF,P,DHSB,Y,100.0,N,DHSB
 DHT,"DHT Holdings, Inc.","DHT Holdings, Inc.",N,DHT,N,100.0,N,DHT
 DHX,"DHI Group, Inc. Common Stock","DHI Group, Inc. Common Stock",N,DHX,N,100.0,N,DHX
 DHY,Credit Suisse High Yield Credit Fund Common Stock,Credit Suisse High Yield Credit Fund Common Stock,A,DHY,N,100.0,N,DHY
+DHY.V,"Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued","Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued",A,DHYrw,N,100.0,N,DHY^#
 DIA,State Street SPDR Dow Jones Industrial Average ETF Trust,State Street SPDR Dow Jones Industrial Average ETF Trust,P,DIA,Y,40.0,N,DIA
 DIAL,Columbia Diversified Fixed Income Allocation ETF,Columbia Diversified Fixed Income Allocation ETF,P,DIAL,Y,100.0,N,DIAL
 DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,Franklin Emerging Market Core Dividend Tilt Index ETF,P,DIEM,Y,100.0,N,DIEM
@@ -4126,7 +4128,6 @@ MPLY,Monopoly ETF,Monopoly ETF,Z,MPLY,Y,100.0,N,MPLY
 MPRO,Monarch ProCap Index ETF,Monarch ProCap Index ETF,Z,MPRO,Y,100.0,N,MPRO
 MPT,"Medical Properties Trust, Inc. common stock","Medical Properties Trust, Inc. common stock",N,MPT,N,100.0,N,MPT
 MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
-MPTI.R,M,"M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights",A,MPTIr,N,100.0,N,MPTI^
 MPU,Mega Matrix Inc. Class A Ordinary Shares,Mega Matrix Inc. Class A Ordinary Shares,A,MPU,N,100.0,N,MPU
 MPV,Barings Participation Investors Common Stock,Barings Participation Investors Common Stock,N,MPV,N,100.0,N,MPV
 MPX,Marine Products Corporation Common Stock,Marine Products Corporation Common Stock,N,MPX,N,100.0,N,MPX
@@ -4250,7 +4251,9 @@ MYN,"Blackrock MuniYield New York Quality Fund, Inc.Common Stock","Blackrock Mun
 MYND,"Mynd.ai, Inc. American Depositary Shares","Mynd.ai, Inc. American Depositary Shares",A,MYND,N,100.0,N,MYND
 MYO,Myomo Inc. Common Stock,Myomo Inc. Common Stock,A,MYO,N,100.0,N,MYO
 MYY,ProShares Short MidCap400,ProShares Short MidCap400,P,MYY,Y,100.0,N,MYY
+MZYX,MOZAYYX Acquisition Corp. Class A Ordinary Shares,MOZAYYX Acquisition Corp. Class A Ordinary Shares,N,MZYX,N,100.0,N,MZYX
 MZYX.U,"MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one","MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",N,MZYX.U,N,100.0,N,MZYX=
+MZYX.W,"MOZAYYX Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","MOZAYYX Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,MZYX.WS,N,100.0,N,MZYX+
 MZZ,ProShares UltraShort MidCap400,ProShares UltraShort MidCap400,P,MZZ,Y,100.0,N,MZZ
 NABL,N,"N-able, Inc. Common Stock",N,NABL,N,100.0,N,NABL
 NAC,Nuveen California Quality Municipal Income Fund,Nuveen California Quality Municipal Income Fund,N,NAC,N,100.0,N,NAC
@@ -5149,8 +5152,6 @@ QULL,ETRACS 2x Leveraged MSCI US Quality Factor TR ETN,ETRACS 2x Leveraged MSCI 
 QUS,State Street SPDR MSCI USA StrategicFactors ETF,State Street SPDR MSCI USA StrategicFactors ETF,P,QUS,Y,100.0,N,QUS
 QUSA,VistaShares Target 15 USA Quality Income ETF,VistaShares Target 15 USA Quality Income ETF,P,QUSA,Y,100.0,N,QUSA
 QUVU,Hartford Quality Value ETF,Hartford Quality Value ETF,Z,QUVU,Y,100.0,N,QUVU
-QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068","QVC, Inc. 6.250% Senior Secured Notes due 2068",N,QVCC,N,100.0,N,QVCC
-QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067","QVC, Inc. 6.375% Senior Secured Notes due 2067",N,QVCD,N,100.0,N,QVCD
 QVML,Invesco S&P 500 QVM Multi,Invesco S&P 500 QVM Multi-factor ETF,P,QVML,Y,100.0,N,QVML
 QVMM,Invesco S&P MidCap 400 QVM Multi,Invesco S&P MidCap 400 QVM Multi-factor ETF,P,QVMM,Y,100.0,N,QVMM
 QVMS,Invesco S&P SmallCap 600 QVM Multi,Invesco S&P SmallCap 600 QVM Multi-factor ETF,P,QVMS,Y,100.0,N,QVMS
@@ -6199,7 +6200,6 @@ TOAK,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,Mana
 TOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to October 2027,Z,TOCT,Y,100.0,N,TOCT
 TOGA,Managed Portfolio Series Tremblant Global ETF,Managed Portfolio Series Tremblant Global ETF,P,TOGA,Y,100.0,N,TOGA
 TOK,iShares MSCI Kokusai ETF,iShares MSCI Kokusai ETF,P,TOK,Y,100.0,N,TOK
-TOKE,Cambria Cannabis ETF,Cambria Cannabis ETF,Z,TOKE,Y,100.0,N,TOKE
 TOL,"Toll Brothers, Inc. Common Stock","Toll Brothers, Inc. Common Stock",N,TOL,N,100.0,N,TOL
 TOLL,Tema Monopolies and Oligopolies ETF,Tema Monopolies and Oligopolies ETF,Z,TOLL,Y,100.0,N,TOLL
 TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,ProShares DJ Brookfield Global Infrastructure ETF,P,TOLZ,Y,100.0,N,TOLZ
@@ -6236,6 +6236,8 @@ TPVG,TriplePoint Venture Growth BDC Corp. Common Stock,TriplePoint Venture Growt
 TPYP,Tortoise North American Pipeline ETF,Tortoise North American Pipeline ETF,N,TPYP,Y,100.0,N,TPYP
 TPZ,Tortoise Electrification Infrastructure ETF,Tortoise Electrification Infrastructure ETF,N,TPZ,Y,100.0,N,TPZ
 TR,"Tootsie Roll Industries, Inc. Common Stock","Tootsie Roll Industries, Inc. Common Stock",N,TR,N,100.0,N,TR
+TRAD,APEX Tech Acquisition Inc. Ordinary Shares,APEX Tech Acquisition Inc. Ordinary Shares,N,TRAD,N,100.0,N,TRAD
+TRAD.R,"APEX Tech Acquisition Inc. Rights, each entitling the holder to receive one","APEX Tech Acquisition Inc. Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",N,TRADr,N,100.0,N,TRAD^
 TRAD.U,"APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share","APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share",N,TRAD.U,N,100.0,N,TRAD=
 TRAK,"ReposiTrak, Inc. Common Stock","ReposiTrak, Inc. Common Stock",N,TRAK,N,100.0,N,TRAK
 TRC,Tejon Ranch Co Common Stock,Tejon Ranch Co Common Stock,N,TRC,N,100.0,N,TRC
