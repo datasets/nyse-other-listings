@@ -1673,7 +1673,6 @@ DOCN,"DigitalOcean Holdings, Inc. Common Stock","DigitalOcean Holdings, Inc. Com
 DOCS,"Doximity, Inc. Class A Common Stock","Doximity, Inc. Class A Common Stock",N,DOCS,N,100.0,N,DOCS
 DOCT,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - October,Z,DOCT,Y,100.0,N,DOCT
 DOG,ProShares Short Dow30,ProShares Short Dow30,P,DOG,Y,100.0,N,DOG
-DOGD,Tradr 2X Long DDOG Daily ETF,Tradr 2X Long DDOG Daily ETF,Z,DOGD,Y,100.0,N,DOGD
 DOGG,FT Vest DJIA Dogs 10 Target Income ETF,FT Vest DJIA Dogs 10 Target Income ETF,Z,DOGG,Y,100.0,N,DOGG
 DOJE,REX,REX-Osprey DOGE ETF,Z,DOJE,Y,100.0,N,DOJE
 DOL,WisdomTree True Developed International Fund,WisdomTree True Developed International Fund,P,DOL,Y,100.0,N,DOL
@@ -1949,7 +1948,6 @@ ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 
 ENO,"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066","Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",N,ENO,N,100.0,N,ENO
 ENOR,iShares MSCI Norway ETF,iShares MSCI Norway ETF,Z,ENOR,Y,100.0,N,ENOR
 ENOV,Enovis Corporation Common Stock,Enovis Corporation Common Stock,N,ENOV,N,100.0,N,ENOV
-ENPX,Tradr 2X Long ENPH Daily ETF,Tradr 2X Long ENPH Daily ETF,Z,ENPX,Y,100.0,N,ENPX
 ENR,"Energizer Holdings, Inc. Common Stock","Energizer Holdings, Inc. Common Stock",N,ENR,N,100.0,N,ENR
 ENS,EnerSys Common Stock,EnerSys Common Stock,N,ENS,N,100.0,N,ENS
 ENVA,"Enova International, Inc. Common Stock","Enova International, Inc. Common Stock",N,ENVA,N,100.0,N,ENVA
@@ -2518,7 +2516,6 @@ GAB,"Gabelli Equity Trust, Inc. (The) Common Stock","Gabelli Equity Trust, Inc. 
 GAB$G,"Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock","Gabelli Equity Trust, Inc. (The) Series G Cumulative Preferred Stock",N,GABpG,N,100.0,N,GAB-G
 GAB$H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H","Gabelli Equity Trust, Inc. (The) Pfd Ser H",N,GABpH,N,100.0,N,GAB-H
 GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock","Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock",N,GABpK,N,100.0,N,GAB-K
-GAB.R,"Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights","Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights",N,GABr,N,100.0,N,GAB^
 GABF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,P,GABF,Y,100.0,N,GABF
 GAEM,Simplify Gamma Emerging Market Bond ETF,Simplify Gamma Emerging Market Bond ETF,P,GAEM,Y,100.0,N,GAEM
 GAID,Guinness Atkinson International Dividend Builder ETF,Guinness Atkinson International Dividend Builder ETF,P,GAID,Y,100.0,N,GAID
@@ -3015,6 +3012,7 @@ HYEM,VanEck Emerging Markets High Yield Bond ETF,VanEck Emerging Markets High Yi
 HYFI,AB High Yield ETF,AB High Yield ETF,P,HYFI,Y,100.0,N,HYFI
 HYG,iShares iBoxx $ High Yield Corporate Bond ETF,iShares iBoxx $ High Yield Corporate Bond ETF,P,HYG,Y,100.0,N,HYG
 HYGH,iShares Interest Rate Hedged High Yield Bond ETF,iShares Interest Rate Hedged High Yield Bond ETF,P,HYGH,Y,100.0,N,HYGH
+HYGM,Amplify HYG High Yield 10% Target Income ETF,Amplify HYG High Yield 10% Target Income ETF,Z,HYGM,Y,100.0,N,HYGM
 HYGV,FlexShares High Yield Value,FlexShares High Yield Value-Scored Bond Index Fund,P,HYGV,Y,100.0,N,HYGV
 HYGW,iShares High Yield Corporate Bond BuyWrite Strategy ETF,iShares High Yield Corporate Bond BuyWrite Strategy ETF,Z,HYGW,Y,100.0,N,HYGW
 HYHG,ProShares High Yield Interest Rate Hedged,ProShares High Yield Interest Rate Hedged,Z,HYHG,Y,100.0,N,HYHG
@@ -3152,7 +3150,7 @@ IFLR,Innovator International Developed Managed Floor ETF,Innovator International
 IFN,"Aberdeen India Fund, Inc. Common Stock","Aberdeen India Fund, Inc. Common Stock",N,IFN,N,100.0,N,IFN
 IFRA,iShares U.S. Infrastructure ETF,iShares U.S. Infrastructure ETF,Z,IFRA,Y,100.0,N,IFRA
 IFS,Intercorp Financial Services Inc. Common Shares,Intercorp Financial Services Inc. Common Shares,N,IFS,N,100.0,N,IFS
-IG,Principal Investment Grade Corporate Active ETF,Principal Investment Grade Corporate Active ETF,P,IG,Y,100.0,N,IG
+IG,Principal Investment Grade Corporate Active ETF,Principal Investment Grade Corporate Active ETF,Z,IG,Y,100.0,N,IG
 IGA,Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest,Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest,N,IGA,N,100.0,N,IGA
 IGBH,iShares Interest Rate Hedged Long,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,P,IGBH,Y,100.0,N,IGBH
 IGC,"IGC Pharma, Inc. Common Stock","IGC Pharma, Inc. Common Stock",A,IGC,N,100.0,N,IGC
@@ -3840,6 +3838,7 @@ LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,iShares iBoxx $ Investme
 LQDB,iShares BBB Rated Corporate Bond ETF,iShares BBB Rated Corporate Bond ETF,P,LQDB,Y,100.0,N,LQDB
 LQDH,iShares Interest Rate Hedged Corporate Bond ETF,iShares Interest Rate Hedged Corporate Bond ETF,P,LQDH,Y,100.0,N,LQDH
 LQDI,iShares Inflation Hedged Corporate Bond ETF,iShares Inflation Hedged Corporate Bond ETF,Z,LQDI,Y,100.0,N,LQDI
+LQDM,Amplify LQD Investment Grade 12% Target Income ETF,Amplify LQD Investment Grade 12% Target Income ETF,Z,LQDM,Y,100.0,N,LQDM
 LQDW,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,Z,LQDW,Y,100.0,N,LQDW
 LQIG,State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,P,LQIG,Y,100.0,N,LQIG
 LQTI,FT Vest Investment Grade & Target Income ETF,FT Vest Investment Grade & Target Income ETF,P,LQTI,Y,100.0,N,LQTI
@@ -3960,7 +3959,6 @@ MCY,Mercury General Corporation Common Stock,Mercury General Corporation Common 
 MD,"Pediatrix Medical Group, Inc. Common Stock","Pediatrix Medical Group, Inc. Common Stock",N,MD,N,100.0,N,MD
 MDA,MDA Space Ltd. Common Shares,MDA Space Ltd. Common Shares,N,MDA,N,100.0,N,MDA
 MDAA,Myriad Dynamic Asset Allocation ETF,Myriad Dynamic Asset Allocation ETF,P,MDAA,Y,100.0,N,MDAA
-MDBX,Tradr 2X Long MDB Daily ETF,Tradr 2X Long MDB Daily ETF,Z,MDBX,Y,100.0,N,MDBX
 MDEV,First Trust Indxx Medical Devices ETF,First Trust Indxx Medical Devices ETF,Z,MDEV,Y,100.0,N,MDEV
 MDLV,Morgan Dempsey Large Cap Value ETF,Morgan Dempsey Large Cap Value ETF,Z,MDLV,Y,100.0,N,MDLV
 MDPL,Monarch Dividend Plus Index ETF,Monarch Dividend Plus Index ETF,Z,MDPL,Y,100.0,N,MDPL
@@ -4029,6 +4027,8 @@ MH,"McGraw Hill, Inc. Common Stock","McGraw Hill, Inc. Common Stock",N,MH,N,100.
 MHD,"Blackrock MuniHoldings Fund, Inc. Common Stock","Blackrock MuniHoldings Fund, Inc. Common Stock",N,MHD,N,100.0,N,MHD
 MHF,"Western Asset Municipal High Income Fund, Inc. Common Stock","Western Asset Municipal High Income Fund, Inc. Common Stock",N,MHF,N,100.0,N,MHF
 MHH,"Mastech Digital, Inc Common Stock","Mastech Digital, Inc Common Stock",A,MHH,N,100.0,N,MHH
+MHIG,Milliman Healthcare Inflation Guard ETF,Milliman Healthcare Inflation Guard ETF,P,MHIG,Y,100.0,N,MHIG
+MHIP,Milliman Healthcare Inflation Plus ETF,Milliman Healthcare Inflation Plus ETF,P,MHIP,Y,100.0,N,MHIP
 MHK,"Mohawk Industries, Inc. Common Stock","Mohawk Industries, Inc. Common Stock",N,MHK,N,100.0,N,MHK
 MHLA,"Maiden Holdings, Ltd. 6.625% Notes due 2046","Maiden Holdings, Ltd. 6.625% Notes due 2046",N,MHLA,N,100.0,N,MHLA
 MHNC,"Maiden Holdings North America, Ltd. 7.75% Notes due 2043","Maiden Holdings North America, Ltd. 7.75% Notes due 2043",N,MHNC,N,100.0,N,MHNC
@@ -4392,7 +4392,6 @@ NMR,Nomura Holdings Inc ADR American Depositary Shares,Nomura Holdings Inc ADR A
 NMS,Nuveen Minnesota Quality Municipal Income Fund ,Nuveen Minnesota Quality Municipal Income Fund ,N,NMS,N,100.0,N,NMS
 NMT,Nuveen Massachusetts Quality Municipal Income Fund Common Stock,Nuveen Massachusetts Quality Municipal Income Fund Common Stock,N,NMT,N,100.0,N,NMT
 NMZ,"Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share","Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share",N,NMZ,N,100.0,N,NMZ
-NNEX,Tradr 2X Long NNE Daily ETF,Tradr 2X Long NNE Daily ETF,Z,NNEX,Y,100.0,N,NNEX
 NNI,"Nelnet, Inc. Common Stock","Nelnet, Inc. Common Stock",N,NNI,N,100.0,N,NNI
 NNN,"NNN REIT, Inc. Common Stock","NNN REIT, Inc. Common Stock",N,NNN,N,100.0,N,NNN
 NNOV,Innovator Growth,Innovator Growth-100 Power Buffer ETF - November,Z,NNOV,Y,100.0,N,NNOV
@@ -5753,7 +5752,6 @@ SNOY,YieldMax SNOW Option Income Strategy ETF,YieldMax SNOW Option Income Strate
 SNPD,Xtrackers S&P Dividend Aristocrats Screened ETF,Xtrackers S&P Dividend Aristocrats Screened ETF,Z,SNPD,Y,100.0,N,SNPD
 SNPE,Xtrackers S&P 500 Scored & Screened ETF,Xtrackers S&P 500 Scored & Screened ETF,P,SNPE,Y,100.0,N,SNPE
 SNPG,Xtrackers S&P 500 Growth Scored & Screened ETF,Xtrackers S&P 500 Growth Scored & Screened ETF,Z,SNPG,Y,100.0,N,SNPG
-SNPX,Tradr 2X Long SNPS Daily ETF,Tradr 2X Long SNPS Daily ETF,Z,SNPX,Y,100.0,N,SNPX
 SNTH,MRP SynthEquity ETF,MRP SynthEquity ETF,P,SNTH,Y,100.0,N,SNTH
 SNX,TD SYNNEX Corporation Common Stock,TD SYNNEX Corporation Common Stock,N,SNX,N,100.0,N,SNX
 SNXX,Tradr 2X Long SNDK Daily ETF,Tradr 2X Long SNDK Daily ETF,Z,SNXX,Y,100.0,N,SNXX
@@ -6367,6 +6365,7 @@ UCC,ProShares Ultra Consumer Discretionary,ProShares Ultra Consumer Discretionar
 UCIB,"ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038","ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038",P,UCIB,N,100.0,N,UCIB
 UCO,ProShares Ultra Bloomberg Crude Oil,ProShares Ultra Bloomberg Crude Oil,P,UCO,Y,100.0,N,UCO
 UCON,First Trust Smith Unconstrained Bond ETF,First Trust Smith Unconstrained Bond ETF,P,UCON,Y,100.0,N,UCON
+UCOP,ProShares Ultra Copper K,ProShares Ultra Copper K-1 Free ETF,P,UCOP,Y,100.0,N,UCOP
 UDEC,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - December,Z,UDEC,Y,100.0,N,UDEC
 UDI,USCF Dividend Income Fund,USCF Dividend Income Fund,P,UDI,Y,100.0,N,UDI
 UDIV,Franklin U.S. Core Dividend Tilt Index ETF,Franklin U.S. Core Dividend Tilt Index ETF,P,UDIV,Y,100.0,N,UDIV
@@ -6420,8 +6419,10 @@ UNP,Union Pacific Corporation Common Stock,Union Pacific Corporation Common Stoc
 UNX,Tradr 2X Long U Daily ETF,Tradr 2X Long U Daily ETF,Z,UNX,Y,100.0,N,UNX
 UOCT,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - October,Z,UOCT,Y,100.0,N,UOCT
 UP,Wheels Up Experience Inc. Class A Common Stock,Wheels Up Experience Inc. Class A Common Stock,N,UP,N,100.0,N,UP
+UPAL,ProShares Ultra Palladium K,ProShares Ultra Palladium K-1 Free ETF,P,UPAL,Y,100.0,N,UPAL
 UPAR,UPAR Ultra Risk Parity ETF,UPAR Ultra Risk Parity ETF,P,UPAR,Y,100.0,N,UPAR
 UPGD,Invesco Bloomberg Analyst Rating Improvers ETF,Invesco Bloomberg Analyst Rating Improvers ETF,P,UPGD,Y,100.0,N,UPGD
+UPLT,ProShares Ultra Platinum K,ProShares Ultra Platinum K-1 Free ETF,P,UPLT,Y,100.0,N,UPLT
 UPRO,ProShares UltraPro S&P 500,ProShares UltraPro S&P 500,P,UPRO,Y,100.0,N,UPRO
 UPS,"United Parcel Service, Inc. Common Stock","United Parcel Service, Inc. Common Stock",N,UPS,N,100.0,N,UPS
 UPSD,Aptus Large Cap Upside ETF,Aptus Large Cap Upside ETF,Z,UPSD,Y,100.0,N,UPSD
@@ -6631,7 +6632,6 @@ VOXP,Vox Populi ETF,Vox Populi ETF,Z,VOXP,Y,100.0,N,VOXP
 VOYA,"Voya Financial, Inc. Common Stock","Voya Financial, Inc. Common Stock",N,VOYA,N,100.0,N,VOYA
 VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed","Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixed-Rate Reset Non-Cumulative Preferred Stock, Series B",N,VOYApB,N,100.0,N,VOYA-B
 VOYG,"Voyager Technologies, Inc. Class A Common Stock","Voyager Technologies, Inc. Class A Common Stock",N,VOYG,N,100.0,N,VOYG
-VOYX,Tradr 2X Long VOYG Daily ETF,Tradr 2X Long VOYG Daily ETF,Z,VOYX,Y,100.0,N,VOYX
 VPC,Virtus Private Credit Strategy ETF,Virtus Private Credit Strategy ETF,P,VPC,Y,100.0,N,VPC
 VPG,"Vishay Precision Group, Inc. Common Stock","Vishay Precision Group, Inc. Common Stock",N,VPG,N,100.0,N,VPG
 VPL,Vanguard FTSE Pacific ETF,Vanguard FTSE Pacific ETF,P,VPL,Y,100.0,N,VPL
