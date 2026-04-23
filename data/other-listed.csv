@@ -3444,6 +3444,8 @@ JDVL,John Hancock Disciplined Value Select ETF,John Hancock Disciplined Value Se
 JEDI,Defiance Drone and Modern Warfare ETF,Defiance Drone and Modern Warfare ETF,P,JEDI,Y,100.0,N,JEDI
 JEF,Jefferies Financial Group Inc. Common Stock,Jefferies Financial Group Inc. Common Stock,N,JEF,N,100.0,N,JEF
 JELD,JELD,"JELD-WEN Holding, Inc. Common Stock",N,JELD,N,100.0,N,JELD
+JELH,Janus Henderson Equity Linked High Income ETF,Janus Henderson Equity Linked High Income ETF,Z,JELH,Y,100.0,N,JELH
+JELM,Janus Henderson Equity Linked Moderate Income ETF,Janus Henderson Equity Linked Moderate Income ETF,Z,JELM,Y,100.0,N,JELM
 JEMB,Janus Henderson Emerging Markets Debt Hard Currency ETF,Janus Henderson Emerging Markets Debt Hard Currency ETF,P,JEMB,Y,100.0,N,JEMB
 JENA,Jena Acquisition Corporation II Class A Ordinary Shares,Jena Acquisition Corporation II Class A Ordinary Shares,N,JENA,N,100.0,N,JENA
 JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one","Jena Acquisition Corporation II Rights, each right to acquire one-twentieth (1/20) of one Class A ordinary share",N,JENAr,N,100.0,N,JENA^
@@ -5187,7 +5189,6 @@ RBUF,Innovator U.S. Small Cap 10 Buffer ETF ,Innovator U.S. Small Cap 10 Buffer 
 RC,Ready Capital Corporation Common Stock,Ready Capital Corporation Common Stock,N,RC,N,100.0,N,RC
 RC$C,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,N,RCpC,N,100.0,N,RC-C
 RC$E,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,N,RCpE,N,100.0,N,RC-E
-RCB,Ready Capital Corporation 6.20% Senior Notes due 2026,Ready Capital Corporation 6.20% Senior Notes due 2026,N,RCB,N,100.0,N,RCB
 RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,Ready Capital Corporation 9.00% Senior Notes due 2029,N,RCD,N,100.0,N,RCD
 RCG,"RENN Fund, Inc Common Stock","RENN Fund, Inc Common Stock",A,RCG,N,100.0,N,RCG
 RCI,"Rogers Communication, Inc. Common Stock","Rogers Communication, Inc. Common Stock",N,RCI,N,100.0,N,RCI
@@ -5898,6 +5899,7 @@ SSFI,Day Hagan Smart Sector Fixed Income ETF,Day Hagan Smart Sector Fixed Income
 SSG,ProShares UltraShort Semiconductors,ProShares UltraShort Semiconductors,P,SSG,Y,100.0,N,SSG
 SSK,REX,REX-Osprey SOL + Staking ETF,Z,SSK,Y,100.0,N,SSK
 SSL,Sasol Ltd. American Depositary Shares,Sasol Ltd. American Depositary Shares,N,SSL,N,100.0,N,SSL
+SSMG,Virtus Silvant Small/Mid Growth ETF,Virtus Silvant Small/Mid Growth ETF,P,SSMG,Y,100.0,N,SSMG
 SSO,ProShares Ultra S&P500,ProShares Ultra S&P500,P,SSO,Y,100.0,N,SSO
 SSPY,Stratified LargeCap Index ETF,Stratified LargeCap Index ETF,P,SSPY,Y,100.0,N,SSPY
 SST,"System1, Inc. Class A Common Stock","System1, Inc. Class A Common Stock",N,SST,N,100.0,N,SST
@@ -6711,6 +6713,7 @@ WCAP,WarCap Unconstrained Equity ETF,WarCap Unconstrained Equity ETF,P,WCAP,Y,10
 WCC,"WESCO International, Inc. Common Stock","WESCO International, Inc. Common Stock",N,WCC,N,100.0,N,WCC
 WCEO,Hypatia Women CEO ETF,Hypatia Women CEO ETF,P,WCEO,Y,100.0,N,WCEO
 WCME,First Trust WCM Developing World Equity ETF,First Trust WCM Developing World Equity ETF,P,WCME,Y,100.0,N,WCME
+WCMG,First Trust WCM Global Equity ETF,First Trust WCM Global Equity ETF,P,WCMG,Y,100.0,N,WCMG
 WCMI,First Trust WCM International Equity ETF,First Trust WCM International Equity ETF,P,WCMI,Y,100.0,N,WCMI
 WCN,"Waste Connections, Inc. Common Shares","Waste Connections, Inc. Common Shares",N,WCN,N,100.0,N,WCN
 WCPB,Weitz Core Plus Bond ETF,Weitz Core Plus Bond ETF,P,WCPB,Y,100.0,N,WCPB
