@@ -73,6 +73,7 @@ ACVF,American Conservative Values ETF,American Conservative Values ETF,P,ACVF,Y,
 ACVT,Advent Convertible Bond ETF,Advent Convertible Bond ETF,P,ACVT,Y,100.0,N,ACVT
 ACWV,iShares MSCI Global Min Vol Factor ETF,iShares MSCI Global Min Vol Factor ETF,Z,ACWV,Y,100.0,N,ACWV
 ACYN,FT Vest Laddered Autocallable Barrier & Income ETF,FT Vest Laddered Autocallable Barrier & Income ETF,P,ACYN,Y,100.0,N,ACYN
+ACYS,FT Vest Laddered Autocallable Barrier & Resilient Income ETF,FT Vest Laddered Autocallable Barrier & Resilient Income ETF,P,ACYS,Y,100.0,N,ACYS
 AD,"Array Digital Infrastructure, Inc. Common Shares","Array Digital Infrastructure, Inc. Common Shares",N,AD,N,100.0,N,AD
 ADBU,Direxion Daily ADBE Bull 2X ETF,Direxion Daily ADBE Bull 2X ETF,P,ADBU,Y,100.0,N,ADBU
 ADC,Agree Realty Corporation Common Stock,Agree Realty Corporation Common Stock,N,ADC,N,100.0,N,ADC
@@ -1602,7 +1603,7 @@ DHSB,Day Hagan Smart Buffer ETF,Day Hagan Smart Buffer ETF,P,DHSB,Y,100.0,N,DHSB
 DHT,"DHT Holdings, Inc.","DHT Holdings, Inc.",N,DHT,N,100.0,N,DHT
 DHX,"DHI Group, Inc. Common Stock","DHI Group, Inc. Common Stock",N,DHX,N,100.0,N,DHX
 DHY,Credit Suisse High Yield Credit Fund Common Stock,Credit Suisse High Yield Credit Fund Common Stock,A,DHY,N,100.0,N,DHY
-DHY.V,"Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued","Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued",A,DHYrw,N,100.0,N,DHY^#
+DHY.R,"Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights","Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",A,DHYr,N,100.0,N,DHY^
 DIA,State Street SPDR Dow Jones Industrial Average ETF Trust,State Street SPDR Dow Jones Industrial Average ETF Trust,P,DIA,Y,40.0,N,DIA
 DIAL,Columbia Diversified Fixed Income Allocation ETF,Columbia Diversified Fixed Income Allocation ETF,P,DIAL,Y,100.0,N,DIAL
 DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,Franklin Emerging Market Core Dividend Tilt Index ETF,P,DIEM,Y,100.0,N,DIEM
@@ -1921,6 +1922,7 @@ EME,"EMCOR Group, Inc. Common Stock","EMCOR Group, Inc. Common Stock",N,EME,N,40
 EMES,Harbor Emerging Markets Select ETF,Harbor Emerging Markets Select ETF,P,EMES,Y,100.0,N,EMES
 EMET,VanEck Copper and Green Metals ETF,VanEck Copper and Green Metals ETF,P,EMET,Y,100.0,N,EMET
 EMF,Templeton Emerging Markets Fund Common Stock,Templeton Emerging Markets Fund Common Stock,N,EMF,N,100.0,N,EMF
+EMFI,Pictet Emerging Markets Debt ETF,Pictet Emerging Markets Debt ETF,P,EMFI,Y,100.0,N,EMFI
 EMGF,iShares Emerging Markets Equity Factor ETF,iShares Emerging Markets Equity Factor ETF,Z,EMGF,Y,100.0,N,EMGF
 EMHC,State Street SPDR Bloomberg Emerging Markets USD Bond ETF,State Street SPDR Bloomberg Emerging Markets USD Bond ETF,P,EMHC,Y,100.0,N,EMHC
 EMHY,iShares J.P. Morgan EM High Yield Bond ETF,iShares J.P. Morgan EM High Yield Bond ETF,Z,EMHY,Y,100.0,N,EMHY
@@ -3800,6 +3802,7 @@ LIT,Global X Lithium & Battery Tech ETF,Global X Lithium & Battery Tech ETF,P,LI
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares","LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",N,LITB,N,100.0,N,LITB
 LITL,Simplify Piper Sandler US Small,Simplify Piper Sandler US Small-Cap PLUS Income ETF,P,LITL,Y,100.0,N,LITL
 LITX,Tradr 2X Long LITE Daily ETF,Tradr 2X Long LITE Daily ETF,Z,LITX,Y,100.0,N,LITX
+LITZ,Tradr 2X Short LITE Daily ETF,Tradr 2X Short LITE Daily ETF,Z,LITZ,Y,100.0,N,LITZ
 LJAN,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - January,Z,LJAN,Y,100.0,N,LJAN
 LJUL,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - July,Z,LJUL,Y,100.0,N,LJUL
 LKOR,FlexShares Credit,FlexShares Credit-Scored US Long Corporate Bond Index Fund,Z,LKOR,Y,100.0,N,LKOR
@@ -5269,6 +5272,7 @@ RILA,Indexperts Gorilla Aggressive Growth ETF,Indexperts Gorilla Aggressive Grow
 RINF,ProShares Inflation Expectations ETF,ProShares Inflation Expectations ETF,P,RINF,Y,100.0,N,RINF
 RIO,Rio Tinto Plc Common Stock,Rio Tinto Plc Common Stock,N,RIO,N,100.0,N,RIO
 RIOX,Defiance Daily Target 2X Long RIOT ETF,Defiance Daily Target 2X Long RIOT ETF,P,RIOX,Y,100.0,N,RIOX
+RISE,Pictet Emerging Markets Rising Economies ETF,Pictet Emerging Markets Rising Economies ETF,P,RISE,Y,100.0,N,RISE
 RISN,Inspire Capital Appreciation ETF,Inspire Capital Appreciation ETF,P,RISN,Y,100.0,N,RISN
 RISR,FolioBeyond Alternative Income and Interest Rate Hedge ETF,FolioBeyond Alternative Income and Interest Rate Hedge ETF,P,RISR,Y,100.0,N,RISR
 RITA,ETFB Green SRI REITs ETF,ETFB Green SRI REITs ETF,P,RITA,Y,100.0,N,RITA
@@ -5743,6 +5747,7 @@ SNA,Snap,Snap-On Incorporated Common Stock,N,SNA,N,40.0,N,SNA
 SNAP,Snap Inc. Class A Common Stock,Snap Inc. Class A Common Stock,N,SNAP,N,100.0,N,SNAP
 SNAV,Mohr Sector Nav ETF,Mohr Sector Nav ETF,Z,SNAV,Y,100.0,N,SNAV
 SNDA,"Sonida Senior Living, Inc. Common Stock","Sonida Senior Living, Inc. Common Stock",N,SNDA,N,100.0,N,SNDA
+SNDQ,Tradr 2X Short SNDK Daily ETF,Tradr 2X Short SNDK Daily ETF,Z,SNDQ,Y,100.0,N,SNDQ
 SNDR,"Schneider National, Inc. Common Stock","Schneider National, Inc. Common Stock",N,SNDR,N,100.0,N,SNDR
 SNDU,T,T-REX 2X Long SNDK Daily Target ETF,Z,SNDU,Y,100.0,N,SNDU
 SNN,"Smith & Nephew SNATS, Inc. Common Stock","Smith & Nephew SNATS, Inc. Common Stock",N,SNN,N,100.0,N,SNN
@@ -5944,6 +5949,7 @@ STXD,Strive 1000 Dividend Growth ETF,Strive 1000 Dividend Growth ETF,N,STXD,Y,10
 STXE,Strive Emerging Markets Ex,Strive Emerging Markets Ex-China ETF,N,STXE,Y,100.0,N,STXE
 STXG,Strive 1000 Growth ETF,Strive 1000 Growth ETF,N,STXG,Y,100.0,N,STXG
 STXK,Strive Small,Strive Small-Cap ETF,N,STXK,Y,100.0,N,STXK
+STXL,Defiance Daily Target 2x Long STX ETF,Defiance Daily Target 2x Long STX ETF,Z,STXL,Y,100.0,N,STXL
 STXS,"Stereotaxis, Inc. Common Stock","Stereotaxis, Inc. Common Stock",A,STXS,N,100.0,N,STXS
 STXT,Strive Total Return Bond ETF,Strive Total Return Bond ETF,N,STXT,Y,100.0,N,STXT
 STXV,Strive 1000 Value ETF,Strive 1000 Value ETF,N,STXV,Y,100.0,N,STXV
