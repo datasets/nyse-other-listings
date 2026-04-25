@@ -369,7 +369,6 @@ ASEA,Global X FTSE Southeast Asia ETF,Global X FTSE Southeast Asia ETF,P,ASEA,Y,
 ASG,Liberty All,"Liberty All-Star Growth Fund, Inc.",N,ASG,N,100.0,N,ASG
 ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,N,ASGI,N,100.0,N,ASGI
 ASGM,Virtus AlphaSimplex Global Macro ETF,Virtus AlphaSimplex Global Macro ETF,P,ASGM,Y,100.0,N,ASGM
-ASGN,ASGN Incorporated Common Stock,ASGN Incorporated Common Stock,N,ASGN,N,100.0,N,ASGN
 ASH,Ashland Inc. Common Stock,Ashland Inc. Common Stock,N,ASH,N,100.0,N,ASH
 ASHR,Xtrackers Harvest CSI 300 China A,Xtrackers Harvest CSI 300 China A-Shares ETF,P,ASHR,Y,100.0,N,ASHR
 ASHS,Xtrackers Harvest CSI 500 China A,Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF,P,ASHS,Y,100.0,N,ASHS
@@ -476,6 +475,7 @@ AXR,AMREP Corporation Common Stock,AMREP Corporation Common Stock,N,AXR,N,100.0,
 AXS,Axis Capital Holdings Limited Common Stock,Axis Capital Holdings Limited Common Stock,N,AXS,N,100.0,N,AXS
 AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares","Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",N,AXSpE,N,100.0,N,AXS-E
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
+AXTX,Tradr 2X Long AXTI Daily ETF,Tradr 2X Long AXTI Daily ETF,Z,AXTX,Y,100.0,N,AXTX
 AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,40.0,N,AYI
 AZN,AstraZeneca PLC Ordinary Shares,AstraZeneca PLC Ordinary Shares,N,AZN,N,100.0,N,AZN
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,10.0,N,AZO
@@ -1289,6 +1289,7 @@ CPNJ,Calamos Nasdaq ,Calamos Nasdaq - 100 Structured Alt Protection ETF -June,P,
 CPNM,Calamos Nasdaq,Calamos Nasdaq-100 Structured Alt Protection ETF - March,P,CPNM,Y,100.0,N,CPNM
 CPNQ,Calamos Nasdaq,Calamos Nasdaq-100 Structured Alt Protection ETF December,P,CPNQ,Y,100.0,N,CPNQ
 CPNS,Calamos Nasdaq,Calamos Nasdaq-100 Structured Alt Protection ETF  September,P,CPNS,Y,100.0,N,CPNS
+CPNX,Tradr 2X Long CPNG Daily ETF,Tradr 2X Long CPNG Daily ETF,Z,CPNX,Y,100.0,N,CPNX
 CPRA,Calamos Russell 2000 Structured Alt Protection ETF ,Calamos Russell 2000 Structured Alt Protection ETF - April,P,CPRA,Y,100.0,N,CPRA
 CPRI,Capri Holdings Limited Ordinary Shares,Capri Holdings Limited Ordinary Shares,N,CPRI,N,100.0,N,CPRI
 CPRJ,Calamos Russell 2000 Structured Alt Protection ETF  July,Calamos Russell 2000 Structured Alt Protection ETF  July,P,CPRJ,Y,100.0,N,CPRJ
@@ -1858,6 +1859,7 @@ EFG,iShares MSCI EAFE Growth ETF,iShares MSCI EAFE Growth ETF,Z,EFG,Y,100.0,N,EF
 EFIV,State Street SPDR S&P 500 ESG ETF,State Street SPDR S&P 500 ESG ETF,P,EFIV,Y,100.0,N,EFIV
 EFNL,iShares MSCI Finland ETF,iShares MSCI Finland ETF,Z,EFNL,Y,100.0,N,EFNL
 EFO,ProShares Ultra MSCI EAFE,ProShares Ultra MSCI EAFE,P,EFO,Y,100.0,N,EFO
+EFOR,"Everforth, Inc. Common Stock","Everforth, Inc. Common Stock",N,EFOR,N,100.0,N,EFOR
 EFR,Eaton Vance Senior Floating,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,N,EFR,N,100.0,N,EFR
 EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,N,EFT,N,100.0,N,EFT
 EFU,ProShares UltraShort MSCI EAFE,ProShares UltraShort MSCI EAFE,P,EFU,Y,100.0,N,EFU
@@ -3585,7 +3587,9 @@ KBFR,Innovator U.S. Small Cap Managed 10 Buffer ETF,Innovator U.S. Small Cap Man
 KBH,KB Home Common Stock,KB Home Common Stock,N,KBH,N,100.0,N,KBH
 KBR,"KBR, Inc. Common Stock","KBR, Inc. Common Stock",N,KBR,N,100.0,N,KBR
 KBUF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,P,KBUF,Y,100.0,N,KBUF
+KCA.U,"Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three","Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three-quarters of one Class 2 Redeemable Warrant",N,KCA.U,N,100.0,N,KCA=
 KCAC.U,"Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one","Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant",N,KCAC.U,N,100.0,N,KCAC=
+KCAC.W,"Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50","Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50",N,KCAC.WS,N,100.0,N,KCAC+
 KCAI,KraneShares China Alpha Index ETF,KraneShares China Alpha Index ETF,P,KCAI,Y,100.0,N,KCAI
 KCCA,KraneShares California Carbon Allowance Strategy ETF,KraneShares California Carbon Allowance Strategy ETF,P,KCCA,Y,100.0,N,KCCA
 KCE,State Street SPDR S&P Capital Markets ETF,State Street SPDR S&P Capital Markets ETF,P,KCE,Y,100.0,N,KCE
@@ -4135,6 +4139,7 @@ MPT,"Medical Properties Trust, Inc. common stock","Medical Properties Trust, Inc
 MPTI,M,"M-tron Industries, Inc. Common Stock",A,MPTI,N,100.0,N,MPTI
 MPU,Mega Matrix Inc. Class A Ordinary Shares,Mega Matrix Inc. Class A Ordinary Shares,A,MPU,N,100.0,N,MPU
 MPV,Barings Participation Investors Common Stock,Barings Participation Investors Common Stock,N,MPV,N,100.0,N,MPV
+MPWX,Tradr 2X Long MPWR Daily ETF,Tradr 2X Long MPWR Daily ETF,Z,MPWX,Y,100.0,N,MPWX
 MPX,Marine Products Corporation Common Stock,Marine Products Corporation Common Stock,N,MPX,N,100.0,N,MPX
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock","Blackrock MuniYield Quality Fund, Inc. Common Stock",N,MQY,N,100.0,N,MQY
 MRCP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - March,Z,MRCP,Y,100.0,N,MRCP
@@ -4958,7 +4963,6 @@ PRGO,Perrigo Company plc Ordinary Shares,Perrigo Company plc Ordinary Shares,N,P
 PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062","Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062",N,PRH,N,100.0,N,PRH
 PRI,"Primerica, Inc. Common Stock","Primerica, Inc. Common Stock",N,PRI,N,40.0,N,PRI
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029","Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",N,PRIFpD,N,100.0,N,PRIF-D
-PRIF$J,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028","Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028",N,PRIFpJ,N,100.0,N,PRIF-J
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock","Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",N,PRIFpK,N,100.0,N,PRIF-K
 PRIF$L,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029","Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",N,PRIFpL,N,100.0,N,PRIF-L
 PRIM,Primoris Services Corporation Common Stock,Primoris Services Corporation Common Stock,N,PRIM,N,100.0,N,PRIM
@@ -5162,7 +5166,6 @@ QVMS,Invesco S&P SmallCap 600 QVM Multi,Invesco S&P SmallCap 600 QVM Multi-facto
 QVMT,Invesco S&P 500 Concentrated QVM ETF,Invesco S&P 500 Concentrated QVM ETF,P,QVMT,Y,100.0,N,QVMT
 QVOY,Q3 Active Rotation ETF,Q3 Active Rotation ETF,Z,QVOY,Y,100.0,N,QVOY
 QWLD,State Street SPDR MSCI World StrategicFactors ETF,State Street SPDR MSCI World StrategicFactors ETF,P,QWLD,Y,100.0,N,QWLD
-QXAS,Quantify 2X Daily Alt Season Crypto ETF,Quantify 2X Daily Alt Season Crypto ETF,P,QXAS,Y,100.0,N,QXAS
 QXO,"QXO, Inc. Common Stock","QXO, Inc. Common Stock",N,QXO,N,100.0,N,QXO
 QXO$B,"QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock","QXO, Inc.  Depositary Shares, each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock",N,QXOpB,N,100.0,N,QXO-B
 R,"Ryder System, Inc. Common Stock","Ryder System, Inc. Common Stock",N,R,N,100.0,N,R
@@ -5953,6 +5956,7 @@ STXL,Defiance Daily Target 2x Long STX ETF,Defiance Daily Target 2x Long STX ETF
 STXS,"Stereotaxis, Inc. Common Stock","Stereotaxis, Inc. Common Stock",A,STXS,N,100.0,N,STXS
 STXT,Strive Total Return Bond ETF,Strive Total Return Bond ETF,N,STXT,Y,100.0,N,STXT
 STXV,Strive 1000 Value ETF,Strive 1000 Value ETF,N,STXV,Y,100.0,N,STXV
+STXX,Tradr 2X Long STX Daily ETF,Tradr 2X Long STX Daily ETF,Z,STXX,Y,100.0,N,STXX
 STZ,"Constellation Brands, Inc. Common Stock","Constellation Brands, Inc. Common Stock",N,STZ,N,100.0,N,STZ
 SU,Suncor Energy  Inc. Common Stock,Suncor Energy  Inc. Common Stock,N,SU,N,100.0,N,SU
 SUB,iShares Short,iShares Short-Term National Muni Bond ETF,P,SUB,Y,100.0,N,SUB
@@ -6203,6 +6207,7 @@ TNK,Teekay Tankers Ltd.,Teekay Tankers Ltd.,N,TNK,N,100.0,N,TNK
 TNL,Travel   Leisure Co. Common  Stock,Travel   Leisure Co. Common  Stock,N,TNL,N,100.0,N,TNL
 TNUK,Tortoise Nuclear Renaissance ETF,Tortoise Nuclear Renaissance ETF,P,TNUK,Y,100.0,N,TNUK
 TOAK,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF,P,TOAK,Y,100.0,N,TOAK
+TOAO,Twin Oak Active Opportunities III ETF,Twin Oak Active Opportunities III ETF,Z,TOAO,Y,100.0,N,TOAO
 TOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to October 2027,Z,TOCT,Y,100.0,N,TOCT
 TOGA,Managed Portfolio Series Tremblant Global ETF,Managed Portfolio Series Tremblant Global ETF,P,TOGA,Y,100.0,N,TOGA
 TOK,iShares MSCI Kokusai ETF,iShares MSCI Kokusai ETF,P,TOK,Y,100.0,N,TOK
