@@ -824,7 +824,7 @@ BOIL,ProShares Ultra Bloomberg Natural Gas,ProShares Ultra Bloomberg Natural Gas
 BOND,PIMCO Active Bond Exchange,PIMCO Active Bond Exchange-Traded Fund Exchange-Traded Fund,N,BOND,Y,100.0,N,BOND
 BOOT,"Boot Barn Holdings, Inc. Common Stock","Boot Barn Holdings, Inc. Common Stock",N,BOOT,N,100.0,N,BOOT
 BORR,Borr Drilling Limited Common Shares,Borr Drilling Limited Common Shares,N,BORR,N,100.0,N,BORR
-BOUT,Innovator IBD Breakout Opportunities ETF,Innovator IBD Breakout Opportunities ETF,P,BOUT,Y,100.0,N,BOUT
+BOUT,CapForce IBD Breakout Opportunities ETF,CapForce IBD Breakout Opportunities ETF,P,BOUT,Y,100.0,N,BOUT
 BOW,Bowhead Specialty Holdings Inc. Common Stock,Bowhead Specialty Holdings Inc. Common Stock,N,BOW,N,100.0,N,BOW
 BOX,"Box, Inc. Class A Common Stock","Box, Inc. Class A Common Stock",N,BOX,N,100.0,N,BOX
 BOXA,Alpha Architect Aggregate Bond ETF,Alpha Architect Aggregate Bond ETF,Z,BOXA,Y,100.0,N,BOXA
@@ -885,7 +885,6 @@ BTCO,Invesco Galaxy Bitcoin ETF ,Invesco Galaxy Bitcoin ETF ,Z,BTCO,Y,100.0,N,BT
 BTCW,WisdomTree Bitcoin Fund ,WisdomTree Bitcoin Fund ,Z,BTCW,Y,100.0,N,BTCW
 BTCZ,T,T-Rex 2X Inverse Bitcoin Daily Target ETF,Z,BTCZ,Y,100.0,N,BTCZ
 BTE,Baytex Energy Corp Common Shares,Baytex Energy Corp Common Shares,N,BTE,N,100.0,N,BTE
-BTFL,Defiance Daily Target 2X Long BITF ETF,Defiance Daily Target 2X Long BITF ETF,Z,BTFL,Y,100.0,N,BTFL
 BTG,B2Gold Corp Common shares (Canada),B2Gold Corp Common shares (Canada),A,BTG,N,100.0,N,BTG
 BTGO,"BitGo Holdings, Inc. Class A Common Stock","BitGo Holdings, Inc. Class A Common Stock",N,BTGO,N,100.0,N,BTGO
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR","British American Tobacco  Industries, p.l.c. Common Stock ADR",N,BTI,N,100.0,N,BTI
@@ -2253,7 +2252,7 @@ FFND,One Global ETF,One Global ETF,P,FFND,Y,100.0,N,FFND
 FFOG,Franklin Focused Growth ETF,Franklin Focused Growth ETF,Z,FFOG,Y,100.0,N,FFOG
 FFOX,FundX Future Fund Opportunities ETF,FundX Future Fund Opportunities ETF,P,FFOX,Y,100.0,N,FFOX
 FFSM,Fidelity Fundamental Small,Fidelity Fundamental Small-Mid Cap ETF,Z,FFSM,Y,100.0,N,FFSM
-FFTY,Innovator IBD 50 ETF,Innovator IBD 50 ETF,P,FFTY,Y,100.0,N,FFTY
+FFTY,CapForce IBD 50 ETF,CapForce IBD 50 ETF,P,FFTY,Y,100.0,N,FFTY
 FG,"F&G Annuities & Life, Inc. Common Stock","F&G Annuities & Life, Inc. Common Stock",N,FG,N,100.0,N,FG
 FGD,First Trust DJ Global Select Dividend,First Trust DJ Global Select Dividend,P,FGD,Y,100.0,N,FGD
 FGDL,Franklin Responsibly Sourced Gold ETF,Franklin Responsibly Sourced Gold ETF,P,FGDL,Y,100.0,N,FGDL
@@ -3600,6 +3599,7 @@ KDEC,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power B
 KDEF,PLUS Korea Defense Industry Index ETF,PLUS Korea Defense Industry Index ETF,P,KDEF,Y,100.0,N,KDEF
 KDRN,Kingsbarn Tactical Bond ETF,Kingsbarn Tactical Bond ETF,P,KDRN,Y,100.0,N,KDRN
 KDVD,Keeley Dividend ETF,Keeley Dividend ETF,P,KDVD,Y,100.0,N,KDVD
+KEEX,Defiance Daily Target 2x Long KEEL ETF,Defiance Daily Target 2x Long KEEL ETF,Z,KEEX,Y,100.0,N,KEEX
 KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,KraneShares Emerging Markets Consumer Technology Index ETF,P,KEMQ,Y,100.0,N,KEMQ
 KEMX,KraneShares MSCI Emerging Markets ex China Index ETF,KraneShares MSCI Emerging Markets ex China Index ETF,P,KEMX,Y,100.0,N,KEMX
 KEN,Kenon Holdings Ltd. Ordinary Shares,Kenon Holdings Ltd. Ordinary Shares,N,KEN,N,100.0,N,KEN
@@ -4416,7 +4416,6 @@ NODE,VanEck Onchain Economy ETF,VanEck Onchain Economy ETF,Z,NODE,Y,100.0,N,NODE
 NOEQ,Northern Trust US Equity ETF,Northern Trust US Equity ETF,P,NOEQ,Y,100.0,N,NOEQ
 NOG,"Northern Oil and Gas, Inc. Common Stock","Northern Oil and Gas, Inc. Common Stock",N,NOG,N,100.0,N,NOG
 NOK,Nokia Corporation Sponsored American Depositary Shares,Nokia Corporation Sponsored American Depositary Shares,N,NOK,N,100.0,N,NOK
-NOM,Nuveen Missouri Quality Municipal Income Fund ,Nuveen Missouri Quality Municipal Income Fund ,N,NOM,N,100.0,N,NOM
 NOMD,Nomad Foods Limited Ordinary Shares,Nomad Foods Limited Ordinary Shares,N,NOMD,N,100.0,N,NOMD
 NORW,Global X MSCI Norway ETF,Global X MSCI Norway ETF,P,NORW,Y,100.0,N,NORW
 NOV,NOV Inc. Common Stock,NOV Inc. Common Stock,N,NOV,N,100.0,N,NOV
@@ -4435,7 +4434,6 @@ NPO,Enpro Inc. Common Stock,Enpro Inc. Common Stock,N,NPO,N,100.0,N,NPO
 NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,Nuveen Virginia Quality Municipal Income Fund Common Stock,N,NPV,N,100.0,N,NPV
 NPWR,NET Power Inc. Class A Common Stock,NET Power Inc. Class A Common Stock,N,NPWR,N,100.0,N,NPWR
 NPWR.W,"NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50","NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",N,NPWR.WS,N,100.0,N,NPWR+
-NQP,Nuveen Pennsylvania Quality Municipal Income Fund Common Stock,Nuveen Pennsylvania Quality Municipal Income Fund Common Stock,N,NQP,N,100.0,N,NQP
 NRDY,Nerdy Inc. Class A Common Stock,Nerdy Inc. Class A Common Stock,N,NRDY,N,100.0,N,NRDY
 NREF,"NexPoint Real Estate Finance, Inc. Common Stock","NexPoint Real Estate Finance, Inc. Common Stock",N,NREF,N,100.0,N,NREF
 NREF$A,"NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock","NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock",N,NREFpA,N,100.0,N,NREF-A
@@ -4527,7 +4525,6 @@ NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferre
 NXE,Nexgen Energy Ltd. Common Shares,Nexgen Energy Ltd. Common Shares,N,NXE,N,100.0,N,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,N,NXG,N,100.0,N,NXG
 NXG.R,"NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights","NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights",N,NXGr,N,100.0,N,NXG^
-NXJ,Nuveen New Jersey Qualified Municipal Fund ,Nuveen New Jersey Qualified Municipal Fund ,N,NXJ,N,100.0,N,NXJ
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,Nuveen Select Tax Free Income Portfolio Common Stock,N,NXP,N,100.0,N,NXP
 NXRT,"NexPoint Residential Trust, Inc. Common Stock","NexPoint Residential Trust, Inc. Common Stock",N,NXRT,N,100.0,N,NXRT
 NXTE,AXS Green Alpha ETF,AXS Green Alpha ETF,P,NXTE,Y,100.0,N,NXTE
@@ -4874,7 +4871,6 @@ PKG,Packaging Corporation of America Common Stock,Packaging Corporation of Ameri
 PKST,Peakstone Realty Trust Common Shares,Peakstone Realty Trust Common Shares,N,PKST,N,100.0,N,PKST
 PKX,POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock),POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a share of Common Stock),N,PKX,N,100.0,N,PKX
 PL,Planet Labs PBC Class A Common Stock,Planet Labs PBC Class A Common Stock,N,PL,N,100.0,N,PL
-PL.W,"Planet Labs PBC Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share","Planet Labs PBC Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share",N,PL.WS,N,100.0,N,PL+
 PLAG,Planet Green Holdings Corp. Common Stock,Planet Green Holdings Corp. Common Stock,A,PLAG,N,100.0,N,PLAG
 PLD,"Prologis, Inc. Common Stock","Prologis, Inc. Common Stock",N,PLD,N,100.0,N,PLD
 PLDR,Putnam Sustainable Leaders ETF,Putnam Sustainable Leaders ETF,P,PLDR,Y,100.0,N,PLDR
@@ -6773,7 +6769,7 @@ WIT,Wipro Limited Common Stock,Wipro Limited Common Stock,N,WIT,N,100.0,N,WIT
 WIW,Western Asset Inflation,Western Asset Inflation-Linked Opportunities & Income Fund,N,WIW,N,100.0,N,WIW
 WK,Workiva Inc. Class A Common Stock,Workiva Inc. Class A Common Stock,N,WK,N,100.0,N,WK
 WKC,World Kinect Corporation Common Stock,World Kinect Corporation Common Stock,N,WKC,N,100.0,N,WKC
-WLDR,Affinity World Leaders Equity ETF,Affinity World Leaders Equity ETF,Z,WLDR,Y,100.0,N,WLDR
+WLDR,Simplify Affinity World Leaders Equity ETF,Simplify Affinity World Leaders Equity ETF,Z,WLDR,Y,100.0,N,WLDR
 WLDU,Leverage Shares 2x Long World Stock Daily ETF,Leverage Shares 2x Long World Stock Daily ETF,Z,WLDU,Y,100.0,N,WLDU
 WLK,Westlake Corporation Common Stock,Westlake Corporation Common Stock,N,WLK,N,100.0,N,WLK
 WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests,Westlake Chemical Partners LP Common Units representing limited partner interests,N,WLKP,N,100.0,N,WLKP
