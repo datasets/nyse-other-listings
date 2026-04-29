@@ -4885,6 +4885,7 @@ PLTM,GraniteShares Platinum Shares ETF,GraniteShares Platinum Shares ETF,P,PLTM,
 PLTW,Roundhill PLTR WeeklyPay ETF,Roundhill PLTR WeeklyPay ETF,Z,PLTW,Y,100.0,N,PLTW
 PLTY,YieldMax PLTR Option Income Strategy ETF,YieldMax PLTR Option Income Strategy ETF,P,PLTY,Y,100.0,N,PLTY
 PLU,Defiance Daily Target 2x Long PL ETF,Defiance Daily Target 2x Long PL ETF,Z,PLU,Y,100.0,N,PLU
+PLUN.U,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one","Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",N,PLUN.U,N,100.0,N,PLUN=
 PLX,"Protalix BioTherapeutics, Inc. (DE) Common Stock","Protalix BioTherapeutics, Inc. (DE) Common Stock",A,PLX,N,100.0,N,PLX
 PM,Philip Morris International Inc Common Stock,Philip Morris International Inc Common Stock,N,PM,N,100.0,N,PM
 PMAP,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - April,Z,PMAP,Y,100.0,N,PMAP
@@ -5573,7 +5574,6 @@ SELV,SEI Enhanced Low Volatility U.S. Large Cap ETF,SEI Enhanced Low Volatility 
 SEM,Select Medical Holdings Corporation Common Stock,Select Medical Holdings Corporation Common Stock,N,SEM,N,100.0,N,SEM
 SEMG,Suncoast Select Growth ETF,Suncoast Select Growth ETF,P,SEMG,Y,100.0,N,SEMG
 SEMI,Columbia Select Technology ETF,Columbia Select Technology ETF,P,SEMI,Y,100.0,N,SEMI
-SEMR,"SEMrush Holdings, Inc. Class A Common Stock","SEMrush Holdings, Inc. Class A Common Stock",N,SEMR,N,100.0,N,SEMR
 SEPI,Shelton Equity Premium Income ETF,Shelton Equity Premium Income ETF,P,SEPI,Y,100.0,N,SEPI
 SEPM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - September,Z,SEPM,Y,100.0,N,SEPM
 SEPP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - September,Z,SEPP,Y,100.0,N,SEPP
@@ -6844,6 +6844,7 @@ XBFR,Innovator Equity Managed 10 Buffer ETF,Innovator Equity Managed 10 Buffer E
 XBI,State Street SPDR S&P Biotech ETF,State Street SPDR S&P Biotech ETF,P,XBI,Y,100.0,N,XBI
 XBJA,Innovator U.S. Equity Accelerated 9 Buffer ETF ,Innovator U.S. Equity Accelerated 9 Buffer ETF - January,Z,XBJA,Y,100.0,N,XBJA
 XBJL,Innovator U.S. Equity Accelerated 9 Buffer ETF ,Innovator U.S. Equity Accelerated 9 Buffer ETF - July,Z,XBJL,Y,100.0,N,XBJL
+XBNB,Teucrium xETFs 2x Long Daily BNB ETF,Teucrium xETFs 2x Long Daily BNB ETF,P,XBNB,Y,100.0,N,XBNB
 XBOC,Innovator U.S. Equity Accelerated 9 Buffer ETF ,Innovator U.S. Equity Accelerated 9 Buffer ETF - October,Z,XBOC,Y,100.0,N,XBOC
 XBOX,Roundhill Ultra Short Duration No Dividend Target ETF,Roundhill Ultra Short Duration No Dividend Target ETF,Z,XBOX,Y,100.0,N,XBOX
 XC,WisdomTree True Emerging Markets Fund,WisdomTree True Emerging Markets Fund,P,XC,Y,100.0,N,XC
