@@ -1,82 +1,84 @@
 {
-    "license": "",
-    "name": "nyse-other-listings",
-    "resources": [
-        {
-            "format": "csv",
-            "mediatype": "text/csv",
-            "name": "nyse-listed",
-            "path": "data/nyse-listed.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "description": "",
-                        "name": "ACT Symbol",
-                        "type": "string"
-                    },
-                    {
-                        "description": "",
-                        "name": "Company Name",
-                        "type": "string"
-                    }
-                ]
-            }
-        },
-        {
-            "format": "csv",
-            "mediatype": "text/csv",
-            "name": "other-listed",
-            "path": "data/other-listed.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "description": "",
-                        "name": "ACT Symbol",
-                        "type": "string"
-                    },
-                    {
-                        "description": "",
-                        "name": "Company Name",
-                        "type": "string"
-                    },
-                    {
-                        "description": "",
-                        "name": "Security Name",
-                        "type": "string"
-                    },
-                    {
-                        "description": "",
-                        "name": "Exchange",
-                        "type": "string"
-                    },
-                    {
-                        "description": "",
-                        "name": "CQS Symbol",
-                        "type": "string"
-                    },
-                    {
-                        "description": "",
-                        "name": "ETF",
-                        "type": "string"
-                    },
-                    {
-                        "description": "",
-                        "name": "Round Lot Size",
-                        "type": "number"
-                    },
-                    {
-                        "description": "",
-                        "name": "Test Issue",
-                        "type": "string"
-                    },
-                    {
-                        "description": "",
-                        "name": "NASDAQ Symbol",
-                        "type": "string"
-                    }
-                ]
-            }
-        }
-    ],
-    "title": "NYSE and Other Listings"
+  "license": "",
+  "name": "nyse-other-listings",
+  "resources": [
+    {
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "nyse-listed",
+      "path": "data/nyse-listed.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "ACT Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          }
+        ]
+      },
+      "description": "List of all companies listed on the New York Stock Exchange (NYSE) with their ACT trading symbol and company name."
+    },
+    {
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "other-listed",
+      "path": "data/other-listed.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "",
+            "name": "ACT Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Company Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Security Name",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Exchange",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "CQS Symbol",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "ETF",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "Round Lot Size",
+            "type": "number"
+          },
+          {
+            "description": "",
+            "name": "Test Issue",
+            "type": "string"
+          },
+          {
+            "description": "",
+            "name": "NASDAQ Symbol",
+            "type": "string"
+          }
+        ]
+      },
+      "description": "List of all securities listed on other U.S. exchanges (NYSE American, NYSE Arca, and others) with their ticker symbol, company name, security name, exchange, ETF flag, and related codes."
+    }
+  ],
+  "title": "NYSE and Other Listings"
 }
