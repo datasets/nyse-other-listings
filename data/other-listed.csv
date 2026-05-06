@@ -237,6 +237,7 @@ AMH,American Homes 4 Rent Common Shares of Beneficial Interest,American Homes 4 
 AMH$G,American Homes 4 Rent Series G cumulative redeemable perpetual preferred shares of beneficial interest,American Homes 4 Rent Series G cumulative redeemable perpetual preferred shares of beneficial interest,N,AMHpG,N,100.0,N,AMH-G
 AMH$H,American Homes 4 Rent Series H cumulative redeemable perpetual Preferred Shares of Beneficial Interest,American Homes 4 Rent Series H cumulative redeemable perpetual Preferred Shares of Beneficial Interest,N,AMHpH,N,100.0,N,AMH-H
 AMJB,Alerian MLP Index ETN,Alerian MLP Index ETN,P,AMJB,Y,100.0,N,AMJB
+AMKL,Defiance Daily Target 2X Long AMKR ETF,Defiance Daily Target 2X Long AMKR ETF,Z,AMKL,Y,100.0,N,AMKL
 AMLP,Alerian MLP ETF,Alerian MLP ETF,P,AMLP,Y,100.0,N,AMLP
 AMN,AMN Healthcare Services Inc,AMN Healthcare Services Inc,N,AMN,N,100.0,N,AMN
 AMOM,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap Momentum ETF,P,AMOM,Y,100.0,N,AMOM
@@ -476,6 +477,7 @@ AXR,AMREP Corporation Common Stock,AMREP Corporation Common Stock,N,AXR,N,100.0,
 AXS,Axis Capital Holdings Limited Common Stock,Axis Capital Holdings Limited Common Stock,N,AXS,N,100.0,N,AXS
 AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares","Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",N,AXSpE,N,100.0,N,AXS-E
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
+AXTU,T,T-REX 2X Long AXTI Daily Target ETF,Z,AXTU,Y,100.0,N,AXTU
 AXTX,Tradr 2X Long AXTI Daily ETF,Tradr 2X Long AXTI Daily ETF,Z,AXTX,Y,100.0,N,AXTX
 AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,40.0,N,AYI
 AZN,AstraZeneca PLC Ordinary Shares,AstraZeneca PLC Ordinary Shares,N,AZN,N,100.0,N,AZN
@@ -4747,6 +4749,7 @@ PBTP,Invesco 0,Invesco 0-5 Yr US TIPS ETF,Z,PBTP,Y,100.0,N,PBTP
 PBUS,Invesco MSCI USA ETF,Invesco MSCI USA ETF,Z,PBUS,Y,100.0,N,PBUS
 PBW,Invesco WilderHill Clean Energy ETF,Invesco WilderHill Clean Energy ETF,P,PBW,Y,100.0,N,PBW
 PCCE,Polen Capital China Growth ETF,Polen Capital China Growth ETF,P,PCCE,Y,100.0,N,PCCE
+PCEB,Polen Euro High Yield Bond ETF,Polen Euro High Yield Bond ETF,P,PCEB,Y,100.0,N,PCEB
 PCEF,Invesco CEF Income Composite ETF,Invesco CEF Income Composite ETF,P,PCEF,Y,100.0,N,PCEF
 PCF,High Income Securities Fund Common Stock,High Income Securities Fund Common Stock,N,PCF,N,100.0,N,PCF
 PCFI,Polen Floating Rate Income ETF,Polen Floating Rate Income ETF,P,PCFI,Y,100.0,N,PCFI
@@ -5789,7 +5792,6 @@ SOJF,"Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due Ma
 SOLM,Amplify Solana 3% Monthly Option Income ETF,Amplify Solana 3% Monthly Option Income ETF,Z,SOLM,Y,100.0,N,SOLM
 SOLR,Guinness Atkinson Sustainable Energy ETF,Guinness Atkinson Sustainable Energy ETF,P,SOLR,Y,100.0,N,SOLR
 SOLV,Solventum Corporation Common Stock,Solventum Corporation Common Stock,N,SOLV,N,100.0,N,SOLV
-SOLX,T,T-REX 2X Long SOL Daily Target ETF,Z,SOLX,Y,100.0,N,SOLX
 SOMN,Southern Company (The) 2025 Series A Corporate Units,Southern Company (The) 2025 Series A Corporate Units,N,SOMN,N,100.0,N,SOMN
 SON,Sonoco Products Company Common Stock,Sonoco Products Company Common Stock,N,SON,N,100.0,N,SON
 SONY,Sony Group Corporation American Depositary Shares ,Sony Group Corporation American Depositary Shares ,N,SONY,N,100.0,N,SONY
@@ -6245,6 +6247,9 @@ TPAY,Roundhill S&P 500 Target 10 Managed Distribution ETF,Roundhill S&P 500 Targ
 TPB,"Turning Point Brands, Inc. Common Stock","Turning Point Brands, Inc. Common Stock",N,TPB,N,100.0,N,TPB
 TPC,Tutor Perini Corporation Common Stock,Tutor Perini Corporation Common Stock,N,TPC,N,100.0,N,TPC
 TPET,Trio Petroleum Corp. Common Stock,Trio Petroleum Corp. Common Stock,A,TPET,N,100.0,N,TPET
+TPFC,Timothy Plan Free Cash Flow ETF,Timothy Plan Free Cash Flow ETF,P,TPFC,Y,100.0,N,TPFC
+TPFG,Timothy Plan Free Cash Flow Growth ETF,Timothy Plan Free Cash Flow Growth ETF,P,TPFG,Y,100.0,N,TPFG
+TPFI,Timothy Plan Fixed Income ETF,Timothy Plan Fixed Income ETF,P,TPFI,Y,100.0,N,TPFI
 TPH,"Tri Pointe Homes, Inc. Common Stock","Tri Pointe Homes, Inc. Common Stock",N,TPH,N,100.0,N,TPH
 TPHD,Timothy Plan High Dividend Stock ETF,Timothy Plan High Dividend Stock ETF,P,TPHD,Y,100.0,N,TPHD
 TPIF,Timothy Plan International ETF,Timothy Plan International ETF,P,TPIF,Y,100.0,N,TPIF
@@ -6952,6 +6957,7 @@ XOM,Exxon Mobil Corporation Common Stock,Exxon Mobil Corporation Common Stock,N,
 XOMO,YieldMax XOM Option Income Strategy ETF,YieldMax XOM Option Income Strategy ETF,P,XOMO,Y,100.0,N,XOMO
 XONE,BondBloxx Bloomberg One Year Target Duration US Treasury ETF,BondBloxx Bloomberg One Year Target Duration US Treasury ETF,P,XONE,Y,100.0,N,XONE
 XOP,State Street SPDR S&P Oil & Gas Exploration & Production ETF,State Street SPDR S&P Oil & Gas Exploration & Production ETF,P,XOP,Y,100.0,N,XOP
+XOVL,Defiance Daily Target 2X Long XOVR ETF,Defiance Daily Target 2X Long XOVR ETF,Z,XOVL,Y,100.0,N,XOVL
 XPAY,Roundhill S&P 500 Target 20 Managed Distribution ETF,Roundhill S&P 500 Target 20 Managed Distribution ETF,P,XPAY,Y,100.0,N,XPAY
 XPER,Xperi Inc. Common Stock ,Xperi Inc. Common Stock ,N,XPER,N,100.0,N,XPER
 XPEV,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares","XPeng Inc. American depositary shares, each representing two Class A ordinary shares",N,XPEV,N,100.0,N,XPEV
@@ -6968,7 +6974,6 @@ XRN,Chiron Real Estate Inc. Common Stock,Chiron Real Estate Inc. Common Stock,N,
 XRN$A,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,N,XRNpA,N,100.0,N,XRN-A
 XRN$B,"Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share","Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",N,XRNpB,N,100.0,N,XRN-B
 XRP,Bitwise XRP ETF,Bitwise XRP ETF,P,XRP,Y,100.0,N,XRP
-XRPK,T,T-REX 2X Long XRP Daily Target ETF,Z,XRPK,Y,100.0,N,XRPK
 XRPM,Amplify XRP 3% Monthly Option Income ETF,Amplify XRP 3% Monthly Option Income ETF,Z,XRPM,Y,100.0,N,XRPM
 XRPR,REX,REX-Osprey XRP ETF,Z,XRPR,Y,100.0,N,XRPR
 XRPZ,Franklin XRP ETF,Franklin XRP ETF,P,XRPZ,Y,100.0,N,XRPZ
