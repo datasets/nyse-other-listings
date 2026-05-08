@@ -19,6 +19,54 @@ import os
 
 PACKAGE_NAME = 'nyse-other-listings'
 PACKAGE_TITLE = 'NYSE and Other Listings'
+PACKAGE_DESCRIPTION = (
+    'Stock symbols and company names for securities listed on the NYSE and other '
+    'U.S. exchanges (NYSE American, NYSE Arca, CBOE/BATS), sourced daily from the '
+    'NASDAQ Trader FTP symbol directory.'
+)
+
+LICENSES = [
+    {
+        'name': 'ODC-PDDL-1.0',
+        'path': 'https://opendatacommons.org/licenses/pddl/',
+        'title': 'Open Data Commons Public Domain Dedication and License'
+    }
+]
+
+SOURCES = [
+    {
+        'name': 'NASDAQ Trader Symbol Directory',
+        'path': 'http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs',
+        'title': 'NASDAQ Trader Symbol Directory Definitions'
+    }
+]
+
+RESOURCE_DESCRIPTIONS = {
+    'nyse-listed': (
+        'Securities listed on the New York Stock Exchange (NYSE), filtered from the '
+        'NASDAQ other-listed file where Exchange = N. Contains ACT symbol and company name only.'
+    ),
+    'other-listed': (
+        'All securities listed on exchanges other than NASDAQ: NYSE (N), NYSE American (A), '
+        'NYSE Arca (P), and CBOE/BATS (Z). Test issues are excluded. Company Name is derived '
+        'from Security Name by taking the text before the first hyphen.'
+    ),
+}
+
+FIELD_DESCRIPTIONS = {
+    'ACT Symbol': 'Ticker symbol used in the Automated Confirmation of Transactions (ACT) system.',
+    'Company Name': 'Company name parsed from Security Name by taking the text before the first hyphen.',
+    'Security Name': 'Full security name as published in the NASDAQ symbol directory.',
+    'Exchange': 'Exchange where the security is listed: N=NYSE, A=NYSE American, P=NYSE Arca, Z=CBOE/BATS.',
+    'CQS Symbol': 'Consolidated Quotation System (CQS) symbol used for trade reporting.',
+    'ETF': 'Indicates whether the security is an Exchange-Traded Fund (Y=yes, N=no).',
+    'Round Lot Size': 'Standard trading unit (round lot) size in number of shares.',
+    'Test Issue': 'Indicates whether the listing is a test issue (Y=yes, N=no). Always N in this file as test issues are excluded.',
+    'NASDAQ Symbol': 'NASDAQ trading symbol for the security.',
+}
+
+# Fields whose Y/N values map to Frictionless boolean type
+BOOLEAN_FIELDS = {'ETF', 'Test Issue'}
 
 # NYSE and other exchanges
 other_listings = 'ftp://ftp.nasdaqtrader.com/symboldirectory/otherlisted.txt'
@@ -46,7 +94,7 @@ def process():
         # Create datapackage.json
         with open("datapackage.json", "w") as outfile:
             json.dump(_create_datapackage(datasets), outfile, indent=4, sort_keys=True)
-            
+
     except Exception as e:
         print(f"Error processing data: {e}")
 
@@ -73,15 +121,31 @@ def _clean_data(df):
 def _create_file_schema(df, filename):
     fields = []
     for name, dtype in zip(df.columns, df.dtypes):
-        if str(dtype) == 'object' or str(dtype) == 'bool':  # Updated 'boolean' type check
-            dtype = 'string'
+        if name in BOOLEAN_FIELDS:
+            field = {
+                'name': name,
+                'description': FIELD_DESCRIPTIONS.get(name, ''),
+                'type': 'boolean',
+                'trueValues': ['Y'],
+                'falseValues': ['N'],
+            }
+        elif str(dtype) == 'object' or str(dtype) == 'bool':
+            field = {
+                'name': name,
+                'description': FIELD_DESCRIPTIONS.get(name, ''),
+                'type': 'string',
+            }
         else:
-            dtype = 'number'
-
-        fields.append({'name': name, 'description': '', 'type': dtype})
+            field = {
+                'name': name,
+                'description': FIELD_DESCRIPTIONS.get(name, ''),
+                'type': 'number',
+            }
+        fields.append(field)
 
     return {
         'name': filename,
+        'description': RESOURCE_DESCRIPTIONS.get(filename, ''),
         'path': f'data/{filename}.csv',
         'format': 'csv',
         'mediatype': 'text/csv',
@@ -97,7 +161,9 @@ def _create_datapackage(datasets):
     return {
         'name': PACKAGE_NAME,
         'title': PACKAGE_TITLE,
-        'license': '',
+        'description': PACKAGE_DESCRIPTION,
+        'licenses': LICENSES,
+        'sources': SOURCES,
         'resources': resources,
     }
 
