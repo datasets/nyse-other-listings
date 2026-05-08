@@ -932,6 +932,7 @@ BURL,"Burlington Stores, Inc. Common Stock","Burlington Stores, Inc. Common Stoc
 BURU,"Nuburu, Inc. Common Stock","Nuburu, Inc. Common Stock",A,BURU,N,100.0,N,BURU
 BUSA,Brandes U.S. Value ETF,Brandes U.S. Value ETF,Z,BUSA,Y,100.0,N,BUSA
 BUXX,Strive Enhanced Income Short Maturity ETF,Strive Enhanced Income Short Maturity ETF,N,BUXX,Y,100.0,N,BUXX
+BUYB,ProShares S&P 500 Buyback Aristocrats ETF,ProShares S&P 500 Buyback Aristocrats ETF,P,BUYB,Y,100.0,N,BUYB
 BUYO,KraneShares Man Buyout Beta Index ETF,KraneShares Man Buyout Beta Index ETF,P,BUYO,Y,100.0,N,BUYO
 BUYW,Main BuyWrite ETF,Main BuyWrite ETF,Z,BUYW,Y,100.0,N,BUYW
 BUYZ,Franklin Disruptive Commerce ETF,Franklin Disruptive Commerce ETF,Z,BUYZ,Y,100.0,N,BUYZ
@@ -1042,7 +1043,7 @@ CCID,Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028,C
 CCIF,Carlyle Credit Income Fund Shares of Beneficial Interest,Carlyle Credit Income Fund Shares of Beneficial Interest,N,CCIF,N,100.0,N,CCIF
 CCJ,Cameco Corporation Common Stock,Cameco Corporation Common Stock,N,CCJ,N,100.0,N,CCJ
 CCK,"Crown Holdings, Inc.","Crown Holdings, Inc.",N,CCK,N,100.0,N,CCK
-CCL,Carnival Corporation Common Stock,Carnival Corporation Common Stock,N,CCL,N,100.0,N,CCL
+CCL,Carnival Corporation Ltd. Common Shares,Carnival Corporation Ltd. Common Shares,N,CCL,N,100.0,N,CCL
 CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),N,CCM,N,100.0,N,CCM
 CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock","Clear Channel Outdoor Holdings, Inc. Common Stock",N,CCO,N,100.0,N,CCO
 CCOM,Simplify Chinese Commodities Strategy No K,Simplify Chinese Commodities Strategy No K-1 ETF,P,CCOM,Y,100.0,N,CCOM
@@ -1395,7 +1396,6 @@ CTMA,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Stru
 CTO,"CTO Realty Growth, Inc. Common Stock","CTO Realty Growth, Inc. Common Stock",N,CTO,N,100.0,N,CTO
 CTO$A,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock","CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock",N,CTOpA,N,100.0,N,CTO-A
 CTOS,"Custom Truck One Source, Inc. Common Stock","Custom Truck One Source, Inc. Common Stock",N,CTOS,N,100.0,N,CTOS
-CTRA,Coterra Energy Inc. Common Stock,Coterra Energy Inc. Common Stock,N,CTRA,N,100.0,N,CTRA
 CTRE,"CareTrust REIT, Inc. Common Stock","CareTrust REIT, Inc. Common Stock",N,CTRE,N,100.0,N,CTRE
 CTRI,"Centuri Holdings, Inc. Common Stock","Centuri Holdings, Inc. Common Stock",N,CTRI,N,100.0,N,CTRI
 CTS,CTS Corporation Common Stock,CTS Corporation Common Stock,N,CTS,N,100.0,N,CTS
@@ -1404,7 +1404,6 @@ CTWO,Common units,Common units,P,CTWO,Y,100.0,N,CTWO
 CUBB,"Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034","Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034",N,CUBB,N,100.0,N,CUBB
 CUBE,CubeSmart Common Shares,CubeSmart Common Shares,N,CUBE,N,100.0,N,CUBE
 CUBI,"Customers Bancorp, Inc Common Stock","Customers Bancorp, Inc Common Stock",N,CUBI,N,100.0,N,CUBI
-CUK,Carnival Plc ADS ADS,Carnival Plc ADS ADS,N,CUK,N,100.0,N,CUK
 CURB,Curbline Properties Corp. Common Stock,Curbline Properties Corp. Common Stock,N,CURB,N,100.0,N,CURB
 CURE,Direxion Daily Healthcare Bull 3X ETF,Direxion Daily Healthcare Bull 3X ETF,P,CURE,Y,100.0,N,CURE
 CURV,Torrid Holdings Inc. Common Stock,Torrid Holdings Inc. Common Stock,N,CURV,N,100.0,N,CURV
@@ -2882,6 +2881,7 @@ HARD,Simplify Commodities Strategy No K,Simplify Commodities Strategy No K-1 ETF
 HASI,"HA Sustainable Infrastructure Capital, Inc. Common Stock","HA Sustainable Infrastructure Capital, Inc. Common Stock",N,HASI,N,100.0,N,HASI
 HAUS,Residential REIT ETF,Residential REIT ETF,Z,HAUS,Y,100.0,N,HAUS
 HAUZ,Xtrackers International Real Estate ETF,Xtrackers International Real Estate ETF,P,HAUZ,Y,100.0,N,HAUZ
+HAWK,"HawkEye 360, Inc. Common Stock","HawkEye 360, Inc. Common Stock",N,HAWK,N,100.0,N,HAWK
 HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,iShares Currency Hedged MSCI ACWI ex U.S. ETF,P,HAWX,Y,100.0,N,HAWX
 HAYW,"Hayward Holdings, Inc. Common Stock","Hayward Holdings, Inc. Common Stock",N,HAYW,N,100.0,N,HAYW
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,Hamilton Beach Brands Holding Company Class A Common Stock ,N,HBB,N,100.0,N,HBB
@@ -3675,6 +3675,7 @@ KLMN,Invesco MSCI North America Climate ETF,Invesco MSCI North America Climate E
 KLMT,Invesco MSCI Global Climate 500 ETF,Invesco MSCI Global Climate 500 ETF,P,KLMT,Y,100.0,N,KLMT
 KMAR,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - March,Z,KMAR,Y,100.0,N,KMAR
 KMAY,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - May,Z,KMAY,Y,100.0,N,KMAY
+KMCA,PLUS Korea Manufacturing Core Alliance Index ETF,PLUS Korea Manufacturing Core Alliance Index ETF,P,KMCA,Y,100.0,N,KMCA
 KMI,"Kinder Morgan, Inc. Common Stock","Kinder Morgan, Inc. Common Stock",N,KMI,N,100.0,N,KMI
 KMID,Virtus KAR Mid,Virtus KAR Mid-Cap ETF,P,KMID,Y,100.0,N,KMID
 KMLM,KraneShares Mount Lucas Managed Futures Index Strategy ETF,KraneShares Mount Lucas Managed Futures Index Strategy ETF,P,KMLM,Y,100.0,N,KMLM
@@ -5040,6 +5041,7 @@ PSA$P,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.000% Cu
 PSA$Q,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share of Beneficial Interest, Series Q, par value $0.01 per share","Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share of Beneficial Interest, Series Q, par value $0.01 per share",N,PSApQ,N,100.0,N,PSA-Q
 PSA$R,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00% Cumulative Preferred Share of Bene cial Interest, Series R","Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00% Cumulative Preferred Share of Bene cial Interest, Series R",N,PSApR,N,100.0,N,PSA-R
 PSA$S,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.100% Cumulative Preferred Share of Beneficial Interest, Series S","Public Storage Depositary Shares Each Representing 1/1,000 of a 4.100% Cumulative Preferred Share of Beneficial Interest, Series S",N,PSApS,N,100.0,N,PSA-S
+PSAI,Pacer S&P 500 3AI Top 100 ETF,Pacer S&P 500 3AI Top 100 ETF,Z,PSAI,Y,100.0,N,PSAI
 PSBD,Palmer Square Capital BDC Inc. Common Stock,Palmer Square Capital BDC Inc. Common Stock,N,PSBD,N,100.0,N,PSBD
 PSCJ,Pacer Swan SOS Conservative (July) ETF,Pacer Swan SOS Conservative (July) ETF,Z,PSCJ,Y,100.0,N,PSCJ
 PSCQ,Pacer Swan SOS Conservative (October) ETF,Pacer Swan SOS Conservative (October) ETF,Z,PSCQ,Y,100.0,N,PSCQ
@@ -5186,6 +5188,8 @@ QQH,HCM Defender 100 Index ETF,HCM Defender 100 Index ETF,P,QQH,Y,100.0,N,QQH
 QQMY,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - May Series,Z,QQMY,Y,100.0,N,QQMY
 QQQD,Direxion Daily Magnificent 7 Bear 1X ETF,Direxion Daily Magnificent 7 Bear 1X ETF,P,QQQD,Y,100.0,N,QQQD
 QQQU,Direxion Daily Magnificent 7 Bull 2X ETF,Direxion Daily Magnificent 7 Bull 2X ETF,P,QQQU,Y,100.0,N,QQQU
+QRED,QuasarEdge Acquisition Corporation Ordinary Shares,QuasarEdge Acquisition Corporation Ordinary Shares,N,QRED,N,100.0,N,QRED
+QRED.R,QuasarEdge Acquisition Corporation Rights to receive one,QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share,N,QREDr,N,100.0,N,QRED^
 QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one","QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",N,QRED.U,N,100.0,N,QRED=
 QRFT,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap ETF,P,QRFT,Y,100.0,N,QRFT
 QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,WisdomTree U.S. Short Term Corporate Bond Fund,Z,QSIG,Y,100.0,N,QSIG
@@ -5492,6 +5496,7 @@ SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock
 SAEF,Schwab Ariel Opportunities ETF,Schwab Ariel Opportunities ETF,P,SAEF,Y,100.0,N,SAEF
 SAFE,Safehold Inc. New Common Stock ,Safehold Inc. New Common Stock ,N,SAFE,N,100.0,N,SAFE
 SAGP,Strategas Global Policy Opportunities ETF,Strategas Global Policy Opportunities ETF,P,SAGP,Y,100.0,N,SAGP
+SAGU.U,"Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one","Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one-fourth of one Class A Ordinary Share",N,SAGU.U,N,100.0,N,SAGU=
 SAH,"Sonic Automotive, Inc. Common Stock","Sonic Automotive, Inc. Common Stock",N,SAH,N,100.0,N,SAH
 SAJ,Saratoga Investment Corp 8.00% Notes due 2027,Saratoga Investment Corp 8.00% Notes due 2027,N,SAJ,N,100.0,N,SAJ
 SAM,"Boston Beer Company, Inc. (The) Common Stock","Boston Beer Company, Inc. (The) Common Stock",N,SAM,N,100.0,N,SAM
@@ -6785,10 +6790,12 @@ WCMI,First Trust WCM International Equity ETF,First Trust WCM International Equi
 WCN,"Waste Connections, Inc. Common Shares","Waste Connections, Inc. Common Shares",N,WCN,N,100.0,N,WCN
 WCPB,Weitz Core Plus Bond ETF,Weitz Core Plus Bond ETF,P,WCPB,Y,100.0,N,WCPB
 WD,"Walker & Dunlop, Inc Common Stock","Walker & Dunlop, Inc Common Stock",N,WD,N,100.0,N,WD
+WDAI,Pacer S&P World 3AI Top 300 ETF,Pacer S&P World 3AI Top 300 ETF,Z,WDAI,Y,100.0,N,WDAI
 WDCX,Tradr 2X Long WDC Daily ETF,Tradr 2X Long WDC Daily ETF,Z,WDCX,Y,100.0,N,WDCX
 WDEF,WisdomTree Europe Defense Fund,WisdomTree Europe Defense Fund,P,WDEF,Y,100.0,N,WDEF
 WDH,Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),N,WDH,N,100.0,N,WDH
 WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,N,WDI,N,100.0,N,WDI
+WDIG,WisdomTree Efficient Rare Earth Plus Strategic Metals Fund,WisdomTree Efficient Rare Earth Plus Strategic Metals Fund,Z,WDIG,Y,100.0,N,WDIG
 WDIV,State Street SPDR S&P Global Dividend ETF,State Street SPDR S&P Global Dividend ETF,P,WDIV,Y,100.0,N,WDIV
 WDNA,WisdomTree BioRevolution Fund,WisdomTree BioRevolution Fund,Z,WDNA,Y,100.0,N,WDNA
 WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share","Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",N,WDS,N,100.0,N,WDS
@@ -6990,6 +6997,7 @@ XMMO,Invesco S&P MidCap Momentum ETF,Invesco S&P MidCap Momentum ETF,P,XMMO,Y,10
 XMPT,VanEck CEF Muni Income ETF,VanEck CEF Muni Income ETF,Z,XMPT,Y,100.0,N,XMPT
 XMVM,Invesco S&P MidCap Value with Momentum ETF,Invesco S&P MidCap Value with Momentum ETF,P,XMVM,Y,100.0,N,XMVM
 XNAV,FundX Aggressive ETF,FundX Aggressive ETF,P,XNAV,Y,100.0,N,XNAV
+XNDX,Tradr 2X Long XNDU Daily ETF,Tradr 2X Long XNDU Daily ETF,Z,XNDX,Y,100.0,N,XNDX
 XNOV,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - November,Z,XNOV,Y,100.0,N,XNOV
 XNTK,State Street SPDR NYSE Technology ETF,State Street SPDR NYSE Technology ETF,P,XNTK,Y,40.0,N,XNTK
 XOCT,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - October,Z,XOCT,Y,100.0,N,XOCT

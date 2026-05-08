@@ -521,7 +521,7 @@ CCID,Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 2028
 CCIF,Carlyle Credit Income Fund Shares of Beneficial Interest
 CCJ,Cameco Corporation Common Stock
 CCK,"Crown Holdings, Inc."
-CCL,Carnival Corporation Common Stock
+CCL,Carnival Corporation Ltd. Common Shares
 CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)
 CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock"
 CCS,"Century Communities, Inc. Common Stock"
@@ -693,7 +693,6 @@ CTEV,Claritev Corporation Class A Common Stock
 CTO,"CTO Realty Growth, Inc. Common Stock"
 CTO$A,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock"
 CTOS,"Custom Truck One Source, Inc. Common Stock"
-CTRA,Coterra Energy Inc. Common Stock
 CTRE,"CareTrust REIT, Inc. Common Stock"
 CTRI,"Centuri Holdings, Inc. Common Stock"
 CTS,CTS Corporation Common Stock
@@ -701,7 +700,6 @@ CTVA,"Corteva, Inc. Common Stock "
 CUBB,"Customers Bancorp, Inc 5.375% Subordinated Notes Due 2034"
 CUBE,CubeSmart Common Shares
 CUBI,"Customers Bancorp, Inc Common Stock"
-CUK,Carnival Plc ADS ADS
 CURB,Curbline Properties Corp. Common Stock
 CURV,Torrid Holdings Inc. Common Stock
 CUZ,Cousins Properties Incorporated Common Stock
@@ -1221,6 +1219,7 @@ HAE,Haemonetics Corporation Common Stock
 HAFN,Hafnia Limited Common Shares
 HAL,Halliburton Company Common Stock
 HASI,"HA Sustainable Infrastructure Capital, Inc. Common Stock"
+HAWK,"HawkEye 360, Inc. Common Stock"
 HAYW,"Hayward Holdings, Inc. Common Stock"
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock 
 HBM,Hudbay Minerals Inc. Ordinary Shares (Canada)
@@ -2144,6 +2143,8 @@ Q,"Qnity Electronics, Inc. Common Stock"
 QBTS,D
 QGEN,Qiagen N.V. Common Shares
 QLEP.U,"Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant"
+QRED,QuasarEdge Acquisition Corporation Ordinary Shares
+QRED.R,QuasarEdge Acquisition Corporation Rights to receive one
 QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one"
 QSR,Restaurant Brands International Inc. Common Shares
 QTWO,"Q2 Holdings, Inc. Common Stock"
@@ -2273,6 +2274,7 @@ SAC,Safeguard Acquisition Corp. Class A Ordinary Shares
 SAC.U,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one"
 SAC.W,"Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 SAFE,Safehold Inc. New Common Stock 
+SAGU.U,"Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one"
 SAH,"Sonic Automotive, Inc. Common Stock"
 SAJ,Saratoga Investment Corp 8.00% Notes due 2027
 SAM,"Boston Beer Company, Inc. (The) Common Stock"
