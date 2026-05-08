@@ -1,8 +1,16 @@
 {
-    "license": "",
+    "description": "Stock symbols and company names for securities listed on the NYSE and other U.S. exchanges (NYSE American, NYSE Arca, CBOE/BATS), sourced daily from the NASDAQ Trader FTP symbol directory.",
+    "licenses": [
+        {
+            "name": "ODC-PDDL-1.0",
+            "path": "https://opendatacommons.org/licenses/pddl/",
+            "title": "Open Data Commons Public Domain Dedication and License"
+        }
+    ],
     "name": "nyse-other-listings",
     "resources": [
         {
+            "description": "Securities listed on the New York Stock Exchange (NYSE), filtered from the NASDAQ other-listed file where Exchange = N. Contains ACT symbol and company name only.",
             "format": "csv",
             "mediatype": "text/csv",
             "name": "nyse-listed",
@@ -10,12 +18,12 @@
             "schema": {
                 "fields": [
                     {
-                        "description": "",
+                        "description": "Ticker symbol used in the Automated Confirmation of Transactions (ACT) system.",
                         "name": "ACT Symbol",
                         "type": "string"
                     },
                     {
-                        "description": "",
+                        "description": "Company name parsed from Security Name by taking the text before the first hyphen.",
                         "name": "Company Name",
                         "type": "string"
                     }
@@ -23,6 +31,7 @@
             }
         },
         {
+            "description": "All securities listed on exchanges other than NASDAQ: NYSE (N), NYSE American (A), NYSE Arca (P), and CBOE/BATS (Z). Test issues are excluded. Company Name is derived from Security Name by taking the text before the first hyphen.",
             "format": "csv",
             "mediatype": "text/csv",
             "name": "other-listed",
@@ -30,52 +39,71 @@
             "schema": {
                 "fields": [
                     {
-                        "description": "",
+                        "description": "Ticker symbol used in the Automated Confirmation of Transactions (ACT) system.",
                         "name": "ACT Symbol",
                         "type": "string"
                     },
                     {
-                        "description": "",
+                        "description": "Company name parsed from Security Name by taking the text before the first hyphen.",
                         "name": "Company Name",
                         "type": "string"
                     },
                     {
-                        "description": "",
+                        "description": "Full security name as published in the NASDAQ symbol directory.",
                         "name": "Security Name",
                         "type": "string"
                     },
                     {
-                        "description": "",
+                        "description": "Exchange where the security is listed: N=NYSE, A=NYSE American, P=NYSE Arca, Z=CBOE/BATS.",
                         "name": "Exchange",
                         "type": "string"
                     },
                     {
-                        "description": "",
+                        "description": "Consolidated Quotation System (CQS) symbol used for trade reporting.",
                         "name": "CQS Symbol",
                         "type": "string"
                     },
                     {
-                        "description": "",
+                        "description": "Indicates whether the security is an Exchange-Traded Fund (Y=yes, N=no).",
+                        "falseValues": [
+                            "N"
+                        ],
                         "name": "ETF",
-                        "type": "string"
+                        "trueValues": [
+                            "Y"
+                        ],
+                        "type": "boolean"
                     },
                     {
-                        "description": "",
+                        "description": "Standard trading unit (round lot) size in number of shares.",
                         "name": "Round Lot Size",
                         "type": "number"
                     },
                     {
-                        "description": "",
+                        "description": "Indicates whether the listing is a test issue (Y=yes, N=no). Always N in this file as test issues are excluded.",
+                        "falseValues": [
+                            "N"
+                        ],
                         "name": "Test Issue",
-                        "type": "string"
+                        "trueValues": [
+                            "Y"
+                        ],
+                        "type": "boolean"
                     },
                     {
-                        "description": "",
+                        "description": "NASDAQ trading symbol for the security.",
                         "name": "NASDAQ Symbol",
                         "type": "string"
                     }
                 ]
             }
+        }
+    ],
+    "sources": [
+        {
+            "name": "NASDAQ Trader Symbol Directory",
+            "path": "http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs",
+            "title": "NASDAQ Trader Symbol Directory Definitions"
         }
     ],
     "title": "NYSE and Other Listings"
