@@ -946,7 +946,9 @@ BWA,BorgWarner Inc. Common Stock,BorgWarner Inc. Common Stock,N,BWA,N,100.0,N,BW
 BWEB,Bitwise Web3 ETF,Bitwise Web3 ETF,P,BWEB,Y,100.0,N,BWEB
 BWET,Breakwave Tanker Shipping ETF,Breakwave Tanker Shipping ETF,P,BWET,Y,100.0,N,BWET
 BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,BrandywineGLOBAL Global Income Opportunities Fund Inc.,N,BWG,N,100.0,N,BWG
+BWIV,Blue Water Acquisition Corp. IV Class A Ordinary Shares,Blue Water Acquisition Corp. IV Class A Ordinary Shares,N,BWIV,N,100.0,N,BWIV
 BWIV.U,"Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one","Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,BWIV.U,N,100.0,N,BWIV=
+BWIV.W,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,N,BWIV.WS,N,100.0,N,BWIV+
 BWLP,BW LPG Limited Common Shares,BW LPG Limited Common Shares,N,BWLP,N,100.0,N,BWLP
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares","Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",N,BWMX,N,100.0,N,BWMX
 BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026","Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",N,BWNB,N,100.0,N,BWNB
@@ -1384,8 +1386,6 @@ CTA,Simplify Managed Futures Strategy ETF,Simplify Managed Futures Strategy ETF,
 CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series","EIDP, Inc. Preferred Stock $3.50 Series",N,CTApA,N,100.0,N,CTA-A
 CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series","EIDP, Inc. Preferred Stock $4.50 Series",N,CTApB,N,100.0,N,CTA-B
 CTAP,Simplify US Equity PLUS Managed Futures Strategy ETF,Simplify US Equity PLUS Managed Futures Strategy ETF,P,CTAP,Y,100.0,N,CTAP
-CTBB,Qwest Corporation 6.5% Notes due 2056,Qwest Corporation 6.5% Notes due 2056,N,CTBB,N,100.0,N,CTBB
-CTDD,Qwest Corporation 6.75% Notes due 2057,Qwest Corporation 6.75% Notes due 2057,N,CTDD,N,100.0,N,CTDD
 CTEF,Castellan Targeted Equity ETF,Castellan Targeted Equity ETF,Z,CTEF,Y,100.0,N,CTEF
 CTEV,Claritev Corporation Class A Common Stock,Claritev Corporation Class A Common Stock,N,CTEV,N,100.0,N,CTEV
 CTEX,ProShares S&P Kensho Cleantech ETF,ProShares S&P Kensho Cleantech ETF,P,CTEX,Y,100.0,N,CTEX
@@ -2252,7 +2252,7 @@ FENI,Fidelity Enhanced International ETF,Fidelity Enhanced International ETF,P,F
 FENY,Fidelity MSCI Energy Index ETF,Fidelity MSCI Energy Index ETF,P,FENY,Y,100.0,N,FENY
 FEOE,First Eagle Overseas Equity ETF,First Eagle Overseas Equity ETF,N,FEOE,Y,100.0,N,FEOE
 FERG,Ferguson Enterprises Inc. Common Stock,Ferguson Enterprises Inc. Common Stock,N,FERG,N,100.0,N,FERG
-FESM,Fidelity Enhanced Small Cap ETF,Fidelity Enhanced Small Cap ETF,P,FESM,Y,100.0,N,FESM
+FESM,Fidelity Enhanced Small Cap Core ETF,Fidelity Enhanced Small Cap Core ETF,P,FESM,Y,100.0,N,FESM
 FET,"Forum Energy Technologies, Inc. Common Stock","Forum Energy Technologies, Inc. Common Stock",N,FET,N,100.0,N,FET
 FETH,Fidelity Ethereum Fund,Fidelity Ethereum Fund,Z,FETH,Y,100.0,N,FETH
 FEUS,FlexShares ESG & Climate US Large Cap Core Index Fund,FlexShares ESG & Climate US Large Cap Core Index Fund,P,FEUS,Y,100.0,N,FEUS
@@ -2390,7 +2390,7 @@ FMAY,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - May,Z,FMAY
 FMC,FMC Corporation Common Stock,FMC Corporation Common Stock,N,FMC,N,100.0,N,FMC
 FMCE,FM Compounders Equity ETF,FM Compounders Equity ETF,P,FMCE,Y,100.0,N,FMCE
 FMCX,FM Focus Equity ETF,FM Focus Equity ETF,P,FMCX,Y,100.0,N,FMCX
-FMDE,Fidelity Enhanced Mid Cap ETF,Fidelity Enhanced Mid Cap ETF,P,FMDE,Y,100.0,N,FMDE
+FMDE,Fidelity Enhanced Mid Cap Core ETF,Fidelity Enhanced Mid Cap Core ETF,P,FMDE,Y,100.0,N,FMDE
 FMF,First Trust Managed Futures Strategy Fund,First Trust Managed Futures Strategy Fund,P,FMF,Y,100.0,N,FMF
 FMKT,The Free Markets ETF,The Free Markets ETF,P,FMKT,Y,100.0,N,FMKT
 FMN,Federated Hermes Premier Municipal Income Fund,Federated Hermes Premier Municipal Income Fund,N,FMN,N,100.0,N,FMN
@@ -3328,7 +3328,6 @@ IREZ,Tradr 2X Short IREN Daily ETF,Tradr 2X Short IREN Daily ETF,Z,IREZ,Y,100.0,
 IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,Iron Mountain Incorporated (Delaware)Common Stock REIT,N,IRM,N,100.0,N,IRM
 IROC,Invesco Rochester High Yield Municipal ETF,Invesco Rochester High Yield Municipal ETF,Z,IROC,Y,100.0,N,IROC
 IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),N,IRS,N,100.0,N,IRS
-IRS.W,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares,IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares,N,IRS.WS,N,100.0,N,IRS+
 IRT,"Independence Realty Trust, Inc. Common Stock","Independence Realty Trust, Inc. Common Stock",N,IRT,N,100.0,N,IRT
 IRTR,iShares LifePath Retirement ETF,iShares LifePath Retirement ETF,P,IRTR,Y,100.0,N,IRTR
 IRVH,Global X Interest Rate Volatility & Inflation Hedge ETF,Global X Interest Rate Volatility & Inflation Hedge ETF,P,IRVH,Y,100.0,N,IRVH
