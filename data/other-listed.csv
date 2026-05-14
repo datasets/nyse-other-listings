@@ -202,6 +202,7 @@ ALAI,Alger AI Enablers & Adopters ETF,Alger AI Enablers & Adopters ETF,P,ALAI,Y,
 ALB,Albemarle Corporation Common Stock,Albemarle Corporation Common Stock,N,ALB,N,100.0,N,ALB
 ALB$A,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock,N,ALBpA,N,100.0,N,ALB-A
 ALC,Alcon Inc. Ordinary Shares,Alcon Inc. Ordinary Shares,N,ALC,N,100.0,N,ALC
+ALDB,Aptus Laddered Deep Buffer ETF,Aptus Laddered Deep Buffer ETF,Z,ALDB,Y,100.0,N,ALDB
 ALG,"Alamo Group, Inc. Common Stock","Alamo Group, Inc. Common Stock",N,ALG,N,100.0,N,ALG
 ALH,Alliance Laundry Holdings Inc. Common Stock,Alliance Laundry Holdings Inc. Common Stock,N,ALH,N,100.0,N,ALH
 ALIT,"Alight, Inc. Class A Common Stock","Alight, Inc. Class A Common Stock",N,ALIT,N,100.0,N,ALIT
@@ -2044,7 +2045,6 @@ ESGG,FlexShares STOXX Global ESG Select Index Fund,FlexShares STOXX Global ESG S
 ESGV,Vanguard ESG U.S. Stock ETF,Vanguard ESG U.S. Stock ETF,Z,ESGV,Y,100.0,N,ESGV
 ESI,Element Solutions Inc. Common Stock,Element Solutions Inc. Common Stock,N,ESI,N,100.0,N,ESI
 ESIM,Eventide International ETF,Eventide International ETF,P,ESIM,Y,100.0,N,ESIM
-ESIX,State Street SPDR S&P SmallCap 600 ESG ETF,State Street SPDR S&P SmallCap 600 ESG ETF,P,ESIX,Y,100.0,N,ESIX
 ESK,REX,REX-Osprey ETH + Staking ETF,Z,ESK,Y,100.0,N,ESK
 ESLG,Eventide Large Cap Growth ETF,Eventide Large Cap Growth ETF,P,ESLG,Y,100.0,N,ESLG
 ESLV,Eventide Large Cap Value ETF,Eventide Large Cap Value ETF,P,ESLV,Y,100.0,N,ESLV
@@ -2722,6 +2722,7 @@ GMOD,GMO Dynamic Allocation ETF,GMO Dynamic Allocation ETF,P,GMOD,Y,100.0,N,GMOD
 GMOI,GMO International Value ETF,GMO International Value ETF,P,GMOI,Y,100.0,N,GMOI
 GMOM,Cambria Global Momentum ETF,Cambria Global Momentum ETF,Z,GMOM,Y,100.0,N,GMOM
 GMOV,GMO US Value ETF,GMO US Value ETF,P,GMOV,Y,100.0,N,GMOV
+GMRS,GMR Solutions Inc. Class A Common Stock,GMR Solutions Inc. Class A Common Stock,N,GMRS,N,100.0,N,GMRS
 GMTL,Guardian Metal Resources PLC ADS,Guardian Metal Resources PLC ADS,A,GMTL,N,100.0,N,GMTL
 GMUB,Goldman Sachs Municipal Income ETF,Goldman Sachs Municipal Income ETF,P,GMUB,Y,100.0,N,GMUB
 GMUN,Goldman Sachs Access Municipal Bond ETF,Goldman Sachs Access Municipal Bond ETF,P,GMUN,Y,100.0,N,GMUN
@@ -2756,6 +2757,7 @@ GOOY,YieldMax GOOGL Option Income Strategy ETF,YieldMax GOOGL Option Income Stra
 GOP,Unusual Whales Subversive Republican Trading ETF,Unusual Whales Subversive Republican Trading ETF,Z,GOP,Y,100.0,N,GOP
 GORO,Gold Resource Corporation Common Stock,Gold Resource Corporation Common Stock,A,GORO,N,100.0,N,GORO
 GOTU,Gaotu Techedu Inc. American Depositary Shares,Gaotu Techedu Inc. American Depositary Shares,N,GOTU,N,100.0,N,GOTU
+GOVM,iShares 1,iShares 1-10 Year Treasury Bond ETF,Z,GOVM,Y,100.0,N,GOVM
 GOVT,iShares U.S. Treasury Bond ETF,iShares U.S. Treasury Bond ETF,Z,GOVT,Y,100.0,N,GOVT
 GOVZ,iShares 25  Year Treasury STRIPS Bond ETF,iShares 25  Year Treasury STRIPS Bond ETF,Z,GOVZ,Y,100.0,N,GOVZ
 GPC,Genuine Parts Company Common Stock,Genuine Parts Company Common Stock,N,GPC,N,100.0,N,GPC
@@ -3888,7 +3890,7 @@ LQDH,iShares Interest Rate Hedged Corporate Bond ETF,iShares Interest Rate Hedge
 LQDI,iShares Inflation Hedged Corporate Bond ETF,iShares Inflation Hedged Corporate Bond ETF,Z,LQDI,Y,100.0,N,LQDI
 LQDM,Amplify LQD Investment Grade 12% Target Income ETF,Amplify LQD Investment Grade 12% Target Income ETF,Z,LQDM,Y,100.0,N,LQDM
 LQDW,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,Z,LQDW,Y,100.0,N,LQDW
-LQIG,State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,P,LQIG,Y,100.0,N,LQIG
+LQID,Kurv Enhanced Short Maturity ETF,Kurv Enhanced Short Maturity ETF,Z,LQID,Y,100.0,N,LQID
 LQTI,FT Vest Investment Grade & Target Income ETF,FT Vest Investment Grade & Target Income ETF,P,LQTI,Y,100.0,N,LQTI
 LRCU,Tradr 2X Long LRCX Daily ETF,Tradr 2X Long LRCX Daily ETF,Z,LRCU,Y,100.0,N,LRCU
 LRGC,AB US Large Cap Strategic Equities ETF,AB US Large Cap Strategic Equities ETF,P,LRGC,Y,100.0,N,LRGC
@@ -3987,7 +3989,6 @@ MBC,"MasterBrand, Inc. Common Stock","MasterBrand, Inc. Common Stock",N,MBC,N,10
 MBCC,Monarch Blue Chips Core Index ETF,Monarch Blue Chips Core Index ETF,Z,MBCC,Y,100.0,N,MBCC
 MBI,MBIA Inc. Common Stock,MBIA Inc. Common Stock,N,MBI,N,100.0,N,MBI
 MBND,State Street Nuveen Municipal Bond ETF,State Street Nuveen Municipal Bond ETF,Z,MBND,Y,100.0,N,MBND
-MBNE,State Street Nuveen Municipal Bond ESG ETF,State Street Nuveen Municipal Bond ESG ETF,Z,MBNE,Y,100.0,N,MBNE
 MBOX,Freedom Day Dividend ETF,Freedom Day Dividend ETF,P,MBOX,Y,100.0,N,MBOX
 MBSD,FlexShares Disciplined Duration MBS Index Fund,FlexShares Disciplined Duration MBS Index Fund,P,MBSD,Y,100.0,N,MBSD
 MBSF,Regan Floating Rate MBS ETF,Regan Floating Rate MBS ETF,P,MBSF,Y,100.0,N,MBSF
@@ -4415,6 +4416,7 @@ NIM,Nuveen Select Maturities Municipal Fund Common Stock,Nuveen Select Maturitie
 NINE,"Nine Energy Service, Inc. Common Stock","Nine Energy Service, Inc. Common Stock",A,NINE,N,100.0,N,NINE
 NIO,"NIO Inc. American depositary shares, each  representing one Class A ordinary share","NIO Inc. American depositary shares, each  representing one Class A ordinary share",N,NIO,N,100.0,N,NIO
 NIQ,NIQ Global Intelligence plc Ordinary Shares,NIQ Global Intelligence plc Ordinary Shares,N,NIQ,N,100.0,N,NIQ
+NISM,NYLI International Small,NYLI International Small-Mid Cap Equity ETF,P,NISM,Y,100.0,N,NISM
 NITE,The Nightview Fund NITE,The Nightview Fund NITE,P,NITE,Y,100.0,N,NITE
 NJAN,Innovator Growth,Innovator Growth-100 Power Buffer ETF - January,Z,NJAN,Y,100.0,N,NJAN
 NJNK,Columbia U.S. High Yield ETF,Columbia U.S. High Yield ETF,P,NJNK,Y,100.0,N,NJNK
@@ -6821,6 +6823,8 @@ WEED,Roundhill Cannabis ETF,Roundhill Cannabis ETF,Z,WEED,Y,100.0,N,WEED
 WEEK,Roundhill Weekly T,Roundhill Weekly T-Bill ETF,Z,WEEK,Y,100.0,N,WEEK
 WEEL,Peerless Option Income Wheel ETF,Peerless Option Income Wheel ETF,P,WEEL,Y,100.0,N,WEEL
 WELL,Welltower Inc. Common Stock,Welltower Inc. Common Stock,N,WELL,N,100.0,N,WELL
+WENC,West Enclave Merger Corp. Ordinary Shares,West Enclave Merger Corp. Ordinary Shares,N,WENC,N,100.0,N,WENC
+WENC.R,"West Enclave Merger Corp. Rights, each Right to acquire one","West Enclave Merger Corp. Rights, each Right to acquire one-tenth (1/10) of one Ordinary Share",N,WENCr,N,100.0,N,WENC^
 WENC.U,"West Enclave Merger Corp. Units, each consisting of one Ordinary Share and one Right to acquire one","West Enclave Merger Corp. Units, each consisting of one Ordinary Share and one Right to acquire one-tenth (1/10) of one Ordinary Share",N,WENC.U,N,100.0,N,WENC=
 WEPN,Nicholas Defense and Rare Earth Income ETF,Nicholas Defense and Rare Earth Income ETF,P,WEPN,Y,100.0,N,WEPN
 WES,"Western Midstream Partners, LP Common Units Representing Limited Partner Interests","Western Midstream Partners, LP Common Units Representing Limited Partner Interests",N,WES,N,100.0,N,WES
