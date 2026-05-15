@@ -962,6 +962,7 @@ BWXT,"BWX Technologies, Inc. Common Stock","BWX Technologies, Inc. Common Stock"
 BWZ,State Street SPDR Bloomberg Short Term International Treasury Bond ETF,State Street SPDR Bloomberg Short Term International Treasury Bond ETF,P,BWZ,Y,100.0,N,BWZ
 BX,Blackstone Inc. Common Stock,Blackstone Inc. Common Stock,N,BX,N,100.0,N,BX
 BXC,Bluelinx Holdings Inc. Common Stock,Bluelinx Holdings Inc. Common Stock,N,BXC,N,100.0,N,BXC
+BXDC,Blackstone Digital Infrastructure Trust Inc. Common Stock,Blackstone Digital Infrastructure Trust Inc. Common Stock,N,BXDC,N,100.0,N,BXDC
 BXMT,"Blackstone Mortgage Trust, Inc. Common Stock","Blackstone Mortgage Trust, Inc. Common Stock",N,BXMT,N,100.0,N,BXMT
 BXP,"BXP, Inc. Common Stock","BXP, Inc. Common Stock",N,BXP,N,100.0,N,BXP
 BXSL,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,N,BXSL,N,100.0,N,BXSL
@@ -1626,7 +1627,6 @@ DHSB,Day Hagan Smart Buffer ETF,Day Hagan Smart Buffer ETF,P,DHSB,Y,100.0,N,DHSB
 DHT,"DHT Holdings, Inc.","DHT Holdings, Inc.",N,DHT,N,100.0,N,DHT
 DHX,"DHI Group, Inc. Common Stock","DHI Group, Inc. Common Stock",N,DHX,N,100.0,N,DHX
 DHY,Credit Suisse High Yield Credit Fund Common Stock,Credit Suisse High Yield Credit Fund Common Stock,A,DHY,N,100.0,N,DHY
-DHY.R,"Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights","Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",A,DHYr,N,100.0,N,DHY^
 DIA,State Street SPDR Dow Jones Industrial Average ETF Trust,State Street SPDR Dow Jones Industrial Average ETF Trust,P,DIA,Y,40.0,N,DIA
 DIAL,Columbia Diversified Fixed Income Allocation ETF,Columbia Diversified Fixed Income Allocation ETF,P,DIAL,Y,100.0,N,DIAL
 DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,Franklin Emerging Market Core Dividend Tilt Index ETF,P,DIEM,Y,100.0,N,DIEM
@@ -2032,6 +2032,7 @@ EQX,Equinox Gold Corp. Common Shares,Equinox Gold Corp. Common Shares,A,EQX,N,10
 ERC,Allspring Multi,Allspring Multi-Sector Income Fund Common Stock,A,ERC,N,100.0,N,ERC
 ERH,Allspring Utilities and High Income Fund Common Shares,Allspring Utilities and High Income Fund Common Shares,A,ERH,N,100.0,N,ERH
 ERO,Ero Copper Corp. Common Shares,Ero Copper Corp. Common Shares,N,ERO,N,100.0,N,ERO
+EROK,"EagleRock Land, LLC Class A shares representing limited liability company interests","EagleRock Land, LLC Class A shares representing limited liability company interests",N,EROK,N,100.0,N,EROK
 ERTH,Invesco MSCI Sustainable Future ETF,Invesco MSCI Sustainable Future ETF,P,ERTH,Y,100.0,N,ERTH
 ERX,Direxion Energy Bull 2X ETF,Direxion Energy Bull 2X ETF,P,ERX,Y,100.0,N,ERX
 ERY,Direxion Daily Energy Bear 2X ETF,Direxion Daily Energy Bear 2X ETF,P,ERY,Y,100.0,N,ERY
@@ -2837,6 +2838,7 @@ GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,Goldman Sachs Access 
 GTLS,"Chart Industries, Inc. Common Stock","Chart Industries, Inc. Common Stock",N,GTLS,N,100.0,N,GTLS
 GTN,"Gray Media, Inc. Common Stock","Gray Media, Inc. Common Stock",N,GTN,N,100.0,N,GTN
 GTN.A,"Gray Media, Inc. Class A Common Stock","Gray Media, Inc. Class A Common Stock",N,GTN.A,N,100.0,N,GTN.A
+GTND,Goaltender ETF,Goaltender ETF,P,GTND,Y,100.0,N,GTND
 GTO,Invesco Total Return Bond ETF,Invesco Total Return Bond ETF,P,GTO,Y,100.0,N,GTO
 GTOC,Invesco Core Fixed Income ETF,Invesco Core Fixed Income ETF,Z,GTOC,Y,100.0,N,GTOC
 GTOH,Invesco Short Duration High Yield ETF,Invesco Short Duration High Yield ETF,Z,GTOH,Y,100.0,N,GTOH
@@ -3872,6 +3874,7 @@ LOCL,Local Bounti Corporation Common Stock,Local Bounti Corporation Common Stock
 LOCT,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - October,Z,LOCT,Y,100.0,N,LOCT
 LODE,Comstock Inc. Common Stock,Comstock Inc. Common Stock,A,LODE,N,100.0,N,LODE
 LODI,AAM SLC Low Duration Income ETF,AAM SLC Low Duration Income ETF,P,LODI,Y,100.0,N,LODI
+LOHA,Roundhill HALO ETF,Roundhill HALO ETF,Z,LOHA,Y,100.0,N,LOHA
 LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,N,LOMA,N,100.0,N,LOMA
 LONZ,PIMCO Senior Loan Active Exchange,PIMCO Senior Loan Active Exchange-Traded Fund,P,LONZ,Y,100.0,N,LONZ
 LOPP,Gabelli Love Our Planet & People ETF Gabelli Love Our Planet & People ETF,Gabelli Love Our Planet & People ETF Gabelli Love Our Planet & People ETF,P,LOPP,Y,100.0,N,LOPP
@@ -6303,7 +6306,6 @@ TPET,Trio Petroleum Corp. Common Stock,Trio Petroleum Corp. Common Stock,A,TPET,
 TPFC,Timothy Plan Free Cash Flow ETF,Timothy Plan Free Cash Flow ETF,P,TPFC,Y,100.0,N,TPFC
 TPFG,Timothy Plan Free Cash Flow Growth ETF,Timothy Plan Free Cash Flow Growth ETF,P,TPFG,Y,100.0,N,TPFG
 TPFI,Timothy Plan Fixed Income ETF,Timothy Plan Fixed Income ETF,P,TPFI,Y,100.0,N,TPFI
-TPH,"Tri Pointe Homes, Inc. Common Stock","Tri Pointe Homes, Inc. Common Stock",N,TPH,N,100.0,N,TPH
 TPHD,Timothy Plan High Dividend Stock ETF,Timothy Plan High Dividend Stock ETF,P,TPHD,Y,100.0,N,TPHD
 TPIF,Timothy Plan International ETF,Timothy Plan International ETF,P,TPIF,Y,100.0,N,TPIF
 TPL,Texas Pacific Land Corporation Common Stock,Texas Pacific Land Corporation Common Stock,N,TPL,N,40.0,N,TPL
@@ -6662,7 +6664,6 @@ VHT,Vanguard Health Care ETF,Vanguard Health Care ETF,P,VHT,Y,40.0,N,VHT
 VIA,"Via Transportation, Inc. Class A Common Stock","Via Transportation, Inc. Class A Common Stock",N,VIA,N,100.0,N,VIA
 VICE,AdvisorShares Vice ETF,AdvisorShares Vice ETF,P,VICE,Y,100.0,N,VICE
 VICI,VICI Properties Inc. Common Stock,VICI Properties Inc. Common Stock,N,VICI,N,100.0,N,VICI
-VIDA,VIDA Global Inc. Class A Common Stock,VIDA Global Inc. Class A Common Stock,A,VIDA,N,100.0,N,VIDA
 VIDI,Vident International Equity Strategy ETF,Vident International Equity Strategy ETF,P,VIDI,Y,100.0,N,VIDI
 VIG,Vanguard Div Appreciation ETF,Vanguard Div Appreciation ETF,P,VIG,Y,100.0,N,VIG
 VIK,Viking Holdings Ltd Ordinary Shares,Viking Holdings Ltd Ordinary Shares,N,VIK,N,100.0,N,VIK
@@ -6811,6 +6812,7 @@ WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,W
 WDIG,WisdomTree Efficient Rare Earth Plus Strategic Metals Fund,WisdomTree Efficient Rare Earth Plus Strategic Metals Fund,Z,WDIG,Y,100.0,N,WDIG
 WDIV,State Street SPDR S&P Global Dividend ETF,State Street SPDR S&P Global Dividend ETF,P,WDIV,Y,100.0,N,WDIV
 WDNA,WisdomTree BioRevolution Fund,WisdomTree BioRevolution Fund,Z,WDNA,Y,100.0,N,WDNA
+WDRN,"WisdomTree Physical AI, Humanoids and Drones Fund","WisdomTree Physical AI, Humanoids and Drones Fund",Z,WDRN,Y,100.0,N,WDRN
 WDS,"Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share","Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share",N,WDS,N,100.0,N,WDS
 WDTE,Defiance S&P 500 Weekly Distribution ETF,Defiance S&P 500 Weekly Distribution ETF,P,WDTE,Y,100.0,N,WDTE
 WEA,Western Asset Bond Fund Share of Beneficial Interest,Western Asset Bond Fund Share of Beneficial Interest,N,WEA,N,100.0,N,WEA
