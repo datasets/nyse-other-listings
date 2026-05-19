@@ -1423,6 +1423,7 @@ CUZ,Cousins Properties Incorporated Common Stock,Cousins Properties Incorporated
 CVAR,Cultivar ETF,Cultivar ETF,Z,CVAR,Y,100.0,N,CVAR
 CVE,Cenovus Energy Inc Common Stock,Cenovus Energy Inc Common Stock,N,CVE,N,100.0,N,CVE
 CVEO,Civeo Corporation (Canada) Common Shares,Civeo Corporation (Canada) Common Shares,N,CVEO,N,100.0,N,CVEO
+CVGD,CresAlta Global Dividend ETF,CresAlta Global Dividend ETF,P,CVGD,Y,100.0,N,CVGD
 CVI,CVR Energy Inc. Common Stock,CVR Energy Inc. Common Stock,N,CVI,N,100.0,N,CVI
 CVIE,Calvert International Responsible Index ETF,Calvert International Responsible Index ETF,P,CVIE,Y,100.0,N,CVIE
 CVLC,Calvert US Large,Calvert US Large-Cap Core Responsible Index ETF,P,CVLC,Y,100.0,N,CVLC
@@ -1437,6 +1438,7 @@ CVRT,Calamos Convertible Equity Alternative ETF,Calamos Convertible Equity Alter
 CVS,CVS Health Corporation Common Stock,CVS Health Corporation Common Stock,N,CVS,N,100.0,N,CVS
 CVSA,Covista Inc. Common Shares,Covista Inc. Common Shares,N,CVSA,N,100.0,N,CVSA
 CVSB,Calvert Ultra,Calvert Ultra-Short Investment Grade ETF,P,CVSB,Y,100.0,N,CVSB
+CVSM,CresAlta Small and Mid,CresAlta Small and Mid-Cap ETF,P,CVSM,Y,100.0,N,CVSM
 CVU,"CPI Aerostructures, Inc. Common Stock","CPI Aerostructures, Inc. Common Stock",A,CVU,N,100.0,N,CVU
 CVX,Chevron Corporation Common Stock,Chevron Corporation Common Stock,N,CVX,N,100.0,N,CVX
 CVY,Invesco Zacks Multi,Invesco Zacks Multi-Asset Income ETF,P,CVY,Y,100.0,N,CVY
@@ -1671,6 +1673,7 @@ DKS,Dick's Sporting Goods Inc Common Stock,Dick's Sporting Goods Inc Common Stoc
 DLAG,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - August,Z,DLAG,Y,100.0,N,DLAG
 DLB,Dolby Laboratories Common Stock,Dolby Laboratories Common Stock,N,DLB,N,100.0,N,DLB
 DLFE,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - February,Z,DLFE,Y,100.0,N,DLFE
+DLMY,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - May,Z,DLMY,Y,100.0,N,DLMY
 DLN,WisdomTree U.S. LargeCap Dividend Fund,WisdomTree U.S. LargeCap Dividend Fund,P,DLN,Y,100.0,N,DLN
 DLNG,Dynagas LNG Partners LP Common Units,Dynagas LNG Partners LP Common Units,N,DLNG,N,100.0,N,DLNG
 DLNG$A,Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units,Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units,N,DLNGpA,N,100.0,N,DLNG-A
@@ -2203,7 +2206,6 @@ FCFY,First Trust S&P 500 Diversified Free Cash Flow ETF,First Trust S&P 500 Dive
 FCG,First Trust Natural Gas ETF,First Trust Natural Gas ETF,P,FCG,Y,100.0,N,FCG
 FCLD,Fidelity Cloud Computing ETF,Fidelity Cloud Computing ETF,Z,FCLD,Y,100.0,N,FCLD
 FCN,"FTI Consulting, Inc. Common Stock","FTI Consulting, Inc. Common Stock",N,FCN,N,100.0,N,FCN
-FCO,"abrdn Global Income Fund, Inc. Common Stock","abrdn Global Income Fund, Inc. Common Stock",A,FCO,N,100.0,N,FCO
 FCOM,Fidelity MSCI Communication Services Index ETF,Fidelity MSCI Communication Services Index ETF,P,FCOM,Y,100.0,N,FCOM
 FCOR,Fidelity Corporate Bond ETF,Fidelity Corporate Bond ETF,P,FCOR,Y,100.0,N,FCOR
 FCPI,Fidelity Stocks for Inflation ETF,Fidelity Stocks for Inflation ETF,Z,FCPI,Y,100.0,N,FCPI
@@ -4813,6 +4815,7 @@ PCHI,Polen High Income ETF,Polen High Income ETF,P,PCHI,Y,100.0,N,PCHI
 PCI,PGIM Corporate Bond 5,PGIM Corporate Bond 5-10 Year ETF,Z,PCI,Y,100.0,N,PCI
 PCIG,Polen Capital International Growth ETF,Polen Capital International Growth ETF,P,PCIG,Y,100.0,N,PCIG
 PCL,PGIM Corporate Bond 10+ Year ETF,PGIM Corporate Bond 10+ Year ETF,Z,PCL,Y,100.0,N,PCL
+PCLC,Polen 5Perspectives Large Growth ETF,Polen 5Perspectives Large Growth ETF,P,PCLC,Y,100.0,N,PCLC
 PCLG,Polen Focus Growth ETF,Polen Focus Growth ETF,P,PCLG,Y,100.0,N,PCLG
 PCLN,Pictet Cleaner Planet ETF,Pictet Cleaner Planet ETF,P,PCLN,Y,100.0,N,PCLN
 PCLO,VIRTUS SEIX AAA Private Credit CLO ETF,VIRTUS SEIX AAA Private Credit CLO ETF,P,PCLO,Y,100.0,N,PCLO
@@ -4823,6 +4826,7 @@ PCQ,PIMCO California Municipal Income Fund Common Stock,PIMCO California Municip
 PCR,Simplify VettaFi Private Credit Strategy ETF,Simplify VettaFi Private Credit Strategy ETF,P,PCR,Y,100.0,N,PCR
 PCRB,Putnam ESG Core Bond ETF,Putnam ESG Core Bond ETF,P,PCRB,Y,100.0,N,PCRB
 PCS,PGIM Corporate Bond 0,PGIM Corporate Bond 0-5 Year ETF,Z,PCS,Y,100.0,N,PCS
+PCSG,Polen 5Perspectives Small,Polen 5Perspectives Small-Mid Growth ETF,P,PCSG,Y,100.0,N,PCSG
 PCY,Invesco Emerging Markets Sovereign Debt ETF,Invesco Emerging Markets Sovereign Debt ETF,P,PCY,Y,100.0,N,PCY
 PD,"PagerDuty, Inc. Common Stock","PagerDuty, Inc. Common Stock",N,PD,N,100.0,N,PD
 PDCC,Pearl Diver Credit Company Inc. Common Stock,Pearl Diver Credit Company Inc. Common Stock,N,PDCC,N,100.0,N,PDCC
@@ -6967,13 +6971,6 @@ XHE,State Street SPDR S&P Health Care Equipment ETF,State Street SPDR S&P Health
 XHLF,BondBloxx Bloomberg Six Month Target Duration US Treasury ETF,BondBloxx Bloomberg Six Month Target Duration US Treasury ETF,P,XHLF,Y,100.0,N,XHLF
 XHR,"Xenia Hotels & Resorts, Inc. Common Stock","Xenia Hotels & Resorts, Inc. Common Stock",N,XHR,N,100.0,N,XHR
 XHS,State Street SPDR S&P Health Care Services ETF,State Street SPDR S&P Health Care Services ETF,P,XHS,Y,100.0,N,XHS
-XHYC,BondBloxx USD High Yield Bond Consumer Cyclicals Sector ETF,BondBloxx USD High Yield Bond Consumer Cyclicals Sector ETF,P,XHYC,Y,100.0,N,XHYC
-XHYD,BondBloxx USD High Yield Bond Consumer Non,BondBloxx USD High Yield Bond Consumer Non-Cyclicals Sector ETF,P,XHYD,Y,100.0,N,XHYD
-XHYE,BondBloxx USD High Yield Bond Energy Sector ETF,BondBloxx USD High Yield Bond Energy Sector ETF,P,XHYE,Y,100.0,N,XHYE
-XHYF,BondBloxx USD High Yield Bond Financial & REIT Sector ETF,BondBloxx USD High Yield Bond Financial & REIT Sector ETF,P,XHYF,Y,100.0,N,XHYF
-XHYH,BondBloxx USD High Yield Bond Healthcare Sector ETF,BondBloxx USD High Yield Bond Healthcare Sector ETF,P,XHYH,Y,100.0,N,XHYH
-XHYI,BondBloxx USD High Yield Bond Industrial Sector ETF,BondBloxx USD High Yield Bond Industrial Sector ETF,P,XHYI,Y,100.0,N,XHYI
-XHYT,"BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF","BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF",P,XHYT,Y,100.0,N,XHYT
 XIDE,FT Vest U.S. Equity Buffer & Premium Income  ETF ,FT Vest U.S. Equity Buffer & Premium Income  ETF - December,Z,XIDE,Y,100.0,N,XIDE
 XIDV,Franklin International Dividend Booster Index ETF,Franklin International Dividend Booster Index ETF,P,XIDV,Y,100.0,N,XIDV
 XIFR,"XPLR Infrastructure, LP Common Units representing limited partner interests","XPLR Infrastructure, LP Common Units representing limited partner interests",N,XIFR,N,100.0,N,XIFR
