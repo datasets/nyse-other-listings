@@ -1458,7 +1458,6 @@ KEY$L,KeyCorp Depositary Shares each representing a 1/40th ownership interest in
 KEYS,Keysight Technologies Inc. Common Stock
 KF,"Korea Fund, Inc. (The) New Common Stock"
 KFRC,"Kforce, Inc. Common Stock"
-KFS,"Kingsway Financial Services, Inc. Common Stock (DE)"
 KFY,Korn Ferry Common Stock
 KGC,Kinross Gold Corporation Common Stock
 KGS,"Kodiak Gas Services, Inc. Common Stock"
@@ -1512,6 +1511,7 @@ KVUE,Kenvue Inc. Common Stock
 KVYO,"Klaviyo, Inc. Series A Common Stock"
 KW,Kennedy
 KWR,Quaker Houghton Common Stock
+KWY,Kingsway Corporation Common Stock
 KYN,"Kayne Anderson Energy Infrastructure Fund, Inc."
 L,Loews Corporation Common Stock
 LAC,Lithium Americas Corp. Common Shares
@@ -2636,6 +2636,7 @@ TXT,Textron Inc. Common Stock
 TY,Tri Continental Corporation Common Stock
 TY$,Tri Continental Corporation Preferred Stock
 TYG,Tortoise Energy Infrastructure Corporation Common Stock
+TYG.V,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued"
 TYL,"Tyler Technologies, Inc. Common Stock"
 U,Unity Software Inc. Common Stock
 UA,"Under Armour, Inc. Class C Common Stock"
@@ -2704,6 +2705,8 @@ VATE,INNOVATE Corp. Common Stock
 VBF,Invesco Bond Fund Common Stock
 VCV,Invesco California Value Municipal Income Trust Common Stock
 VCX,"Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests"
+VECA,Vernal Capital Acquisition Corp. Ordinary Shares
+VECA.R,"Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one"
 VECA.U,"Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right"
 VEEV,Veeva Systems Inc. Class A Common Stock
 VEL,"Velocity Financial, Inc. Common Stock"

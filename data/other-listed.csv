@@ -2888,6 +2888,7 @@ HAFN,Hafnia Limited Common Shares,Hafnia Limited Common Shares,N,HAFN,N,100.0,N,
 HAIL,State Street SPDR S&P Kensho Smart Mobility ETF,State Street SPDR S&P Kensho Smart Mobility ETF,P,HAIL,Y,100.0,N,HAIL
 HAKY,Amplify HACK Cybersecurity Covered Call ETF,Amplify HACK Cybersecurity Covered Call ETF,P,HAKY,Y,100.0,N,HAKY
 HAL,Halliburton Company Common Stock,Halliburton Company Common Stock,N,HAL,N,100.0,N,HAL
+HALX,Tuttle Capital Heavy Assets Low Obsolescence ETF,Tuttle Capital Heavy Assets Low Obsolescence ETF,Z,HALX,Y,100.0,N,HALX
 HAP,VanEck Natural Resources ETF,VanEck Natural Resources ETF,P,HAP,Y,100.0,N,HAP
 HAPI,Harbor Human Capital Factor US Large Cap ETF,Harbor Human Capital Factor US Large Cap ETF,P,HAPI,Y,100.0,N,HAPI
 HAPS,Harbor Human Capital Factor US Small Cap ETF,Harbor Human Capital Factor US Small Cap ETF,P,HAPS,Y,100.0,N,HAPS
@@ -3659,7 +3660,6 @@ KEYS,Keysight Technologies Inc. Common Stock,Keysight Technologies Inc. Common S
 KF,"Korea Fund, Inc. (The) New Common Stock","Korea Fund, Inc. (The) New Common Stock",N,KF,N,100.0,N,KF
 KFEB,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - February,Z,KFEB,Y,100.0,N,KFEB
 KFRC,"Kforce, Inc. Common Stock","Kforce, Inc. Common Stock",N,KFRC,N,100.0,N,KFRC
-KFS,"Kingsway Financial Services, Inc. Common Stock (DE)","Kingsway Financial Services, Inc. Common Stock (DE)",N,KFS,N,100.0,N,KFS
 KFY,Korn Ferry Common Stock,Korn Ferry Common Stock,N,KFY,N,100.0,N,KFY
 KGC,Kinross Gold Corporation Common Stock,Kinross Gold Corporation Common Stock,N,KGC,N,100.0,N,KGC
 KGLD,Kurv Gold Enhanced Income ETF,Kurv Gold Enhanced Income ETF,Z,KGLD,Y,100.0,N,KGLD
@@ -3762,6 +3762,7 @@ KWEB,KraneShares CSI China Internet ETF,KraneShares CSI China Internet ETF,P,KWE
 KWIN,KraneShares Wahed Alternative Income Index ETF,KraneShares Wahed Alternative Income Index ETF,P,KWIN,Y,100.0,N,KWIN
 KWR,Quaker Houghton Common Stock,Quaker Houghton Common Stock,N,KWR,N,100.0,N,KWR
 KWT,iShares MSCI Kuwait ETF,iShares MSCI Kuwait ETF,Z,KWT,Y,100.0,N,KWT
+KWY,Kingsway Corporation Common Stock,Kingsway Corporation Common Stock,N,KWY,N,100.0,N,KWY
 KXI,iShares Global Consumer Staples ETF,iShares Global Consumer Staples ETF,P,KXI,Y,100.0,N,KXI
 KYC,Corgi Digital Banking & Fintech Infrastructure ETF,Corgi Digital Banking & Fintech Infrastructure ETF,Z,KYC,Y,100.0,N,KYC
 KYLD,Kurv High Income ETF,Kurv High Income ETF,Z,KYLD,Y,100.0,N,KYLD
@@ -6430,6 +6431,7 @@ TY$,Tri Continental Corporation Preferred Stock,Tri Continental Corporation Pref
 TYA,Simplify Intermediate Term Treasury Futures Strategy ETF,Simplify Intermediate Term Treasury Futures Strategy ETF,Z,TYA,Y,100.0,N,TYA
 TYD,Direxion Daily 10,Direxion Daily 10-Yr Treasury Bull 3x Shrs,P,TYD,Y,100.0,N,TYD
 TYG,Tortoise Energy Infrastructure Corporation Common Stock,Tortoise Energy Infrastructure Corporation Common Stock,N,TYG,N,100.0,N,TYG
+TYG.V,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued","Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",N,TYGrw,N,100.0,N,TYG^#
 TYL,"Tyler Technologies, Inc. Common Stock","Tyler Technologies, Inc. Common Stock",N,TYL,N,40.0,N,TYL
 TYLD,Cambria Tactical Yield ETF,Cambria Tactical Yield ETF,Z,TYLD,Y,100.0,N,TYLD
 TYLG,Global X Information Technology Covered Call & Growth ETF,Global X Information Technology Covered Call & Growth ETF,P,TYLG,Y,100.0,N,TYLG
@@ -6634,6 +6636,8 @@ VDI,Virtus International Dividend ETF,Virtus International Dividend ETF,P,VDI,Y,
 VDIG,Vanguard Wellington Dividend Growth Active ETF,Vanguard Wellington Dividend Growth Active ETF,Z,VDIG,Y,100.0,N,VDIG
 VDV,Vanguard Developed Markets ex,Vanguard Developed Markets ex-US Value Index ETF,Z,VDV,Y,100.0,N,VDV
 VEA,Vanguard FTSE Developed Markets ETF,Vanguard FTSE Developed Markets ETF,P,VEA,Y,100.0,N,VEA
+VECA,Vernal Capital Acquisition Corp. Ordinary Shares,Vernal Capital Acquisition Corp. Ordinary Shares,N,VECA,N,100.0,N,VECA
+VECA.R,"Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one","Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",N,VECAr,N,100.0,N,VECA^
 VECA.U,"Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right","Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right",N,VECA.U,N,100.0,N,VECA=
 VEEV,Veeva Systems Inc. Class A Common Stock,Veeva Systems Inc. Class A Common Stock,N,VEEV,N,100.0,N,VEEV
 VEGA,AdvisorShares STAR Global Buy,AdvisorShares STAR Global Buy-Write ETF,P,VEGA,Y,100.0,N,VEGA
