@@ -381,8 +381,6 @@ BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084
 BIRK,Birkenstock Holding plc Ordinary Shares
 BIT,BlackRock Multi
 BJ,"BJ's Wholesale Club Holdings, Inc. Common Stock"
-BK,The Bank of New York Mellon Corporation Common Stock
-BK$K,"The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock"
 BKD,Brookdale Senior Living Inc. Common Stock
 BKE,"Buckle, Inc. (The) Common Stock"
 BKH,Black Hills Corporation Common Stock
@@ -420,6 +418,8 @@ BNJ,Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes
 BNL,"Broadstone Net Lease, Inc. Common Stock"
 BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares
 BNT,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares
+BNY,The Bank of New York Mellon Corporation Common Stock
+BNY$K,"The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock"
 BOBS,"Bob's Discount Furniture, Inc. Common Stock"
 BOC,Boston Omaha Corporation Class A Common Stock
 BOE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest
@@ -1489,7 +1489,9 @@ KOF,"Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representi
 KOP,Koppers Holdings Inc. Common Stock
 KORE,"KORE Group Holdings, Inc. Common Stock"
 KOS,Kosmos Energy Ltd. Common Shares (DE)
+KPET,KPET Ultra Paceline Corporation Class A Ordinary Shares
 KPET.U,"KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one"
+KPET.W,"KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 KR,Kroger Company (The) Common Stock
 KRC,Kilroy Realty Corporation Common Stock
 KREF,KKR Real Estate Finance Trust Inc. Common Stock
@@ -2637,7 +2639,7 @@ TXT,Textron Inc. Common Stock
 TY,Tri Continental Corporation Common Stock
 TY$,Tri Continental Corporation Preferred Stock
 TYG,Tortoise Energy Infrastructure Corporation Common Stock
-TYG.V,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued"
+TYG.R,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights"
 TYL,"Tyler Technologies, Inc. Common Stock"
 U,Unity Software Inc. Common Stock
 UA,"Under Armour, Inc. Class C Common Stock"

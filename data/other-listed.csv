@@ -390,6 +390,8 @@ ASPN,"Aspen Aerogels, Inc. Common Stock","Aspen Aerogels, Inc. Common Stock",N,A
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock","Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",N,ASR,N,40.0,N,ASR
 ASTN,Defiance Daily Target 2X Short ASTS ETF,Defiance Daily Target 2X Short ASTS ETF,Z,ASTN,Y,100.0,N,ASTN
 ASTX,Tradr 2X Long ASTS Daily ETF,Tradr 2X Long ASTS Daily ETF,Z,ASTX,Y,100.0,N,ASTX
+ASTY,Defiance Daily Target 2X Long ASTS ETF,Defiance Daily Target 2X Long ASTS ETF,Z,ASTY,Y,100.0,N,ASTY
+ASUP,T,T-REX 2X Long ASTS Daily Target ETF,Z,ASUP,Y,100.0,N,ASUP
 ASX,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ","ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) ",N,ASX,N,100.0,N,ASX
 ATCH,"AtlasClear Holdings, Inc. Common Stock","AtlasClear Holdings, Inc. Common Stock",A,ATCH,N,100.0,N,ATCH
 ATCL,REX Autocallable Income ETF,REX Autocallable Income ETF,P,ATCL,Y,100.0,N,ATCL
@@ -740,8 +742,6 @@ BJ,"BJ's Wholesale Club Holdings, Inc. Common Stock","BJ's Wholesale Club Holdin
 BJAN,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - January,Z,BJAN,Y,100.0,N,BJAN
 BJUL,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - July,Z,BJUL,Y,100.0,N,BJUL
 BJUN,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - June,Z,BJUN,Y,100.0,N,BJUN
-BK,The Bank of New York Mellon Corporation Common Stock,The Bank of New York Mellon Corporation Common Stock,N,BK,N,100.0,N,BK
-BK$K,"The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock","The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",N,BKpK,N,100.0,N,BK-K
 BKAG,BNY Mellon Core Bond ETF,BNY Mellon Core Bond ETF,P,BKAG,Y,100.0,N,BKAG
 BKCG,BNY Mellon Concentrated Growth ETF,BNY Mellon Concentrated Growth ETF,P,BKCG,Y,100.0,N,BKCG
 BKCI,BNY Mellon Concentrated International ETF,BNY Mellon Concentrated International ETF,P,BKCI,Y,100.0,N,BKCI
@@ -825,6 +825,8 @@ BNO,"United States Brent Oil Fund, LP ETV","United States Brent Oil Fund, LP ETV
 BNOV,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - November,Z,BNOV,Y,100.0,N,BNOV
 BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,N,BNS,N,100.0,N,BNS
 BNT,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,N,BNT,N,100.0,N,BNT
+BNY,The Bank of New York Mellon Corporation Common Stock,The Bank of New York Mellon Corporation Common Stock,N,BNY,N,100.0,N,BNY
+BNY$K,"The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock","The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",N,BNYpK,N,100.0,N,BNY-K
 BOAT,SonicShares Global Shipping ETF,SonicShares Global Shipping ETF,P,BOAT,Y,100.0,N,BOAT
 BOBP,CORE16 Best of Breed Premier Index ETF,CORE16 Best of Breed Premier Index ETF,P,BOBP,Y,100.0,N,BOBP
 BOBS,"Bob's Discount Furniture, Inc. Common Stock","Bob's Discount Furniture, Inc. Common Stock",N,BOBS,N,100.0,N,BOBS
@@ -1787,6 +1789,7 @@ DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,iShares E
 DWLD,Davis Select Worldwide ETF,Davis Select Worldwide ETF,Z,DWLD,Y,100.0,N,DWLD
 DWM,WisdomTree International Equity Fund,WisdomTree International Equity Fund,P,DWM,Y,100.0,N,DWM
 DWMF,WisdomTree International Multifactor Fund,WisdomTree International Multifactor Fund,P,DWMF,Y,100.0,N,DWMF
+DWWN,Principal Long Duration ETF,Principal Long Duration ETF,Z,DWWN,Y,100.0,N,DWWN
 DWX,State Street SPDR S&P International Dividend ETF,State Street SPDR S&P International Dividend ETF,P,DWX,Y,100.0,N,DWX
 DX,"Dynex Capital, Inc. Common Stock","Dynex Capital, Inc. Common Stock",N,DX,N,100.0,N,DX
 DX$C,"Dynex Capital, Inc. 6.900% Series C Fixed","Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",N,DXpC,N,100.0,N,DX-C
@@ -3722,7 +3725,9 @@ KORE,"KORE Group Holdings, Inc. Common Stock","KORE Group Holdings, Inc. Common 
 KORP,American Century Diversified Corporate Bond ETF,American Century Diversified Corporate Bond ETF,P,KORP,Y,100.0,N,KORP
 KORU,Direxion Daily South Korea Bull 3X ETF,Direxion Daily South Korea Bull 3X ETF,P,KORU,Y,40.0,N,KORU
 KOS,Kosmos Energy Ltd. Common Shares (DE),Kosmos Energy Ltd. Common Shares (DE),N,KOS,N,100.0,N,KOS
+KPET,KPET Ultra Paceline Corporation Class A Ordinary Shares,KPET Ultra Paceline Corporation Class A Ordinary Shares,N,KPET,N,100.0,N,KPET
 KPET.U,"KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one","KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one-sixth of one Warrant",N,KPET.U,N,100.0,N,KPET=
+KPET.W,"KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,KPET.WS,N,100.0,N,KPET+
 KPHO,KraneShares Dragon Capital Vietnam Growth Index ETF,KraneShares Dragon Capital Vietnam Growth Index ETF,P,KPHO,Y,100.0,N,KPHO
 KPRO,KraneShares 100% KWEB Defined Outcome January 2027 ETF,KraneShares 100% KWEB Defined Outcome January 2027 ETF,P,KPRO,Y,100.0,N,KPRO
 KR,Kroger Company (The) Common Stock,Kroger Company (The) Common Stock,N,KR,N,100.0,N,KR
@@ -3855,6 +3860,7 @@ LION,Lionsgate Studios Corp Common Shares,Lionsgate Studios Corp Common Shares,N
 LIT,Global X Lithium & Battery Tech ETF,Global X Lithium & Battery Tech ETF,P,LIT,Y,100.0,N,LIT
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares","LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",N,LITB,N,100.0,N,LITB
 LITL,Simplify Piper Sandler US Small,Simplify Piper Sandler US Small-Cap PLUS Income ETF,P,LITL,Y,100.0,N,LITL
+LITU,T,T-REX 2X Long LITE Daily Target ETF,Z,LITU,Y,100.0,N,LITU
 LITX,Tradr 2X Long LITE Daily ETF,Tradr 2X Long LITE Daily ETF,Z,LITX,Y,100.0,N,LITX
 LITZ,Tradr 2X Short LITE Daily ETF,Tradr 2X Short LITE Daily ETF,Z,LITZ,Y,100.0,N,LITZ
 LJAN,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - January,Z,LJAN,Y,100.0,N,LJAN
@@ -4928,6 +4934,7 @@ PJP,Invesco Pharmaceuticals ETF,Invesco Pharmaceuticals ETF,P,PJP,Y,100.0,N,PJP
 PJT,PJT Partners Inc. Class A Common Stock,PJT Partners Inc. Class A Common Stock,N,PJT,N,100.0,N,PJT
 PJUL,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - July,Z,PJUL,Y,100.0,N,PJUL
 PJUN,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - June,Z,PJUN,Y,100.0,N,PJUN
+PJUS,PGIM Jennison U.S. Core Equity ETF,PGIM Jennison U.S. Core Equity ETF,Z,PJUS,Y,100.0,N,PJUS
 PK,Park Hotels & Resorts Inc. Common Stock ,Park Hotels & Resorts Inc. Common Stock ,N,PK,N,100.0,N,PK
 PKB,Invesco Building & Construction ETF,Invesco Building & Construction ETF,P,PKB,Y,100.0,N,PKB
 PKE,Park Aerospace Corp. Common Stock,Park Aerospace Corp. Common Stock,N,PKE,N,100.0,N,PKE
@@ -5359,6 +5366,7 @@ RITM$E,Rithm Capital Corp. 8.75% Series E Fixed,Rithm Capital Corp. 8.75% Series
 RITM$F,Rithm Capital Corp. 8.750% Series F Fixed,Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,RITMpF,N,100.0,N,RITM-F
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities Fund, Inc. Common Stock",N,RIV,N,100.0,N,RIV
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
+RIZE,Principal Inflation Protection ETF,Principal Inflation Protection ETF,Z,RIZE,Y,100.0,N,RIZE
 RJDI,RJ Eagle GCM Dividend Select Income ETF,RJ Eagle GCM Dividend Select Income ETF,P,RJDI,Y,100.0,N,RJDI
 RJF,"Raymond James Financial, Inc. Common Stock","Raymond James Financial, Inc. Common Stock",N,RJF,N,100.0,N,RJF
 RJMI,RJ Eagle Municipal Income ETF,RJ Eagle Municipal Income ETF,P,RJMI,Y,100.0,N,RJMI
@@ -6432,7 +6440,7 @@ TY$,Tri Continental Corporation Preferred Stock,Tri Continental Corporation Pref
 TYA,Simplify Intermediate Term Treasury Futures Strategy ETF,Simplify Intermediate Term Treasury Futures Strategy ETF,Z,TYA,Y,100.0,N,TYA
 TYD,Direxion Daily 10,Direxion Daily 10-Yr Treasury Bull 3x Shrs,P,TYD,Y,100.0,N,TYD
 TYG,Tortoise Energy Infrastructure Corporation Common Stock,Tortoise Energy Infrastructure Corporation Common Stock,N,TYG,N,100.0,N,TYG
-TYG.V,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued","Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",N,TYGrw,N,100.0,N,TYG^#
+TYG.R,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights","Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",N,TYGr,N,100.0,N,TYG^
 TYL,"Tyler Technologies, Inc. Common Stock","Tyler Technologies, Inc. Common Stock",N,TYL,N,40.0,N,TYL
 TYLD,Cambria Tactical Yield ETF,Cambria Tactical Yield ETF,Z,TYLD,Y,100.0,N,TYLD
 TYLG,Global X Information Technology Covered Call & Growth ETF,Global X Information Technology Covered Call & Growth ETF,P,TYLG,Y,100.0,N,TYLG
@@ -6584,6 +6592,7 @@ UTL,UNITIL Corporation Common Stock,UNITIL Corporation Common Stock,N,UTL,N,100.
 UTSL,Direxion Daily Utilities Bull 3X ETF,Direxion Daily Utilities Bull 3X ETF,P,UTSL,Y,100.0,N,UTSL
 UTZ,Utz Brands Inc Class A Common Stock ,Utz Brands Inc Class A Common Stock ,N,UTZ,N,100.0,N,UTZ
 UUP,Invesco DB USD Index Bullish Fund ETF,Invesco DB USD Index Bullish Fund ETF,P,UUP,Y,100.0,N,UUP
+UUPP,Principal CLO ETF,Principal CLO ETF,Z,UUPP,Y,100.0,N,UUPP
 UUU,"Universal Safety Products, Inc. Common Stock","Universal Safety Products, Inc. Common Stock",A,UUU,N,100.0,N,UUU
 UUUU,Energy Fuels Inc Ordinary Shares (Canada),Energy Fuels Inc Ordinary Shares (Canada),A,UUUU,N,100.0,N,UUUU
 UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,N,UVE,N,100.0,N,UVE
@@ -6820,6 +6829,7 @@ WCPB,Weitz Core Plus Bond ETF,Weitz Core Plus Bond ETF,P,WCPB,Y,100.0,N,WCPB
 WD,"Walker & Dunlop, Inc Common Stock","Walker & Dunlop, Inc Common Stock",N,WD,N,100.0,N,WD
 WDAI,Pacer S&P World 3AI Top 300 ETF,Pacer S&P World 3AI Top 300 ETF,Z,WDAI,Y,100.0,N,WDAI
 WDCX,Tradr 2X Long WDC Daily ETF,Tradr 2X Long WDC Daily ETF,Z,WDCX,Y,100.0,N,WDCX
+WDE,Principal Securitized Debt ETF,Principal Securitized Debt ETF,Z,WDE,Y,100.0,N,WDE
 WDEF,WisdomTree Europe Defense Fund,WisdomTree Europe Defense Fund,P,WDEF,Y,100.0,N,WDEF
 WDH,Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinary Shares),N,WDH,N,100.0,N,WDH
 WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,N,WDI,N,100.0,N,WDI
