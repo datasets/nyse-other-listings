@@ -137,6 +137,7 @@ AGM$E,Federal Agricultural Mortgage Corporation 5.750% Non,"Federal Agricultural
 AGM$F,Federal Agricultural Mortgage Corporation 5.250% Non,"Federal Agricultural Mortgage Corporation 5.250% Non-Cumulative Preferred Stock, Series F",N,AGMpF,N,100.0,N,AGM-F
 AGM$G,Federal Agricultural Mortgage Corporation 4.875% Non,"Federal Agricultural Mortgage Corporation 4.875% Non-Cumulative Preferred Stock, Series G",N,AGMpG,N,100.0,N,AGM-G
 AGM$H,Federal Agricultural Mortgage Corporation 6.500% Non,"Federal Agricultural Mortgage Corporation 6.500% Non-Cumulative Preferred Stock, Series H",N,AGMpH,N,100.0,N,AGM-H
+AGM$I,Federal Agricultural Mortgage Corporation 6.875% Non,"Federal Agricultural Mortgage Corporation 6.875% Non-Cumulative Preferred Stock, Series I",N,AGMpI,N,100.0,N,AGM-I
 AGM.A,Federal Agricultural Mortgage Corporation Common Stock,Federal Agricultural Mortgage Corporation Common Stock,N,AGM.A,N,100.0,N,AGM.A
 AGO,Assured Guaranty Ltd. Common Stock,Assured Guaranty Ltd. Common Stock,N,AGO,N,100.0,N,AGO
 AGOX,Adaptive Alpha Opportunities ETF,Adaptive Alpha Opportunities ETF,P,AGOX,Y,100.0,N,AGOX
@@ -906,7 +907,6 @@ BTG,B2Gold Corp Common shares (Canada),B2Gold Corp Common shares (Canada),A,BTG,
 BTGO,"BitGo Holdings, Inc. Class A Common Stock","BitGo Holdings, Inc. Class A Common Stock",N,BTGO,N,100.0,N,BTGO
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR","British American Tobacco  Industries, p.l.c. Common Stock ADR",N,BTI,N,100.0,N,BTI
 BTO,John Hancock Financial Opportunities Fund Common Stock,John Hancock Financial Opportunities Fund Common Stock,N,BTO,N,100.0,N,BTO
-BTOP,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,P,BTOP,Y,100.0,N,BTOP
 BTOT,iShares Total USD Fixed Income Market ETF,iShares Total USD Fixed Income Market ETF,P,BTOT,Y,100.0,N,BTOT
 BTR,Beacon Tactical Risk ETF,Beacon Tactical Risk ETF,P,BTR,Y,100.0,N,BTR
 BTRN,Global X Bitcoin Trend Strategy ETF,Global X Bitcoin Trend Strategy ETF,P,BTRN,Y,100.0,N,BTRN
@@ -951,7 +951,6 @@ BVN,Buenaventura Mining Company Inc.,Buenaventura Mining Company Inc.,N,BVN,N,10
 BW,"Babcock & Wilcox Enterprises, Inc. Common Stock","Babcock & Wilcox Enterprises, Inc. Common Stock",N,BW,N,100.0,N,BW
 BW$A,"Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock","Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock",N,BWpA,N,100.0,N,BW-A
 BWA,BorgWarner Inc. Common Stock,BorgWarner Inc. Common Stock,N,BWA,N,100.0,N,BWA
-BWEB,Bitwise Web3 ETF,Bitwise Web3 ETF,P,BWEB,Y,100.0,N,BWEB
 BWET,Breakwave Tanker Shipping ETF,Breakwave Tanker Shipping ETF,P,BWET,Y,100.0,N,BWET
 BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,BrandywineGLOBAL Global Income Opportunities Fund Inc.,N,BWG,N,100.0,N,BWG
 BWIV,Blue Water Acquisition Corp. IV Class A Ordinary Shares,Blue Water Acquisition Corp. IV Class A Ordinary Shares,N,BWIV,N,100.0,N,BWIV
@@ -1828,11 +1827,11 @@ EBS,Emergent BioSolutions Inc. Common Stock,Emergent BioSolutions Inc. Common St
 EBUF,Innovator Emerging Markets 10 Buffer ETF ,Innovator Emerging Markets 10 Buffer ETF - Quarterly,P,EBUF,Y,100.0,N,EBUF
 EC,Ecopetrol S.A. American Depositary Shares,Ecopetrol S.A. American Depositary Shares,N,EC,N,100.0,N,EC
 ECAT,BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest,BlackRock ESG Capital Allocation Term Trust Common Shares of Beneficial Interest,N,ECAT,N,100.0,N,ECAT
-ECC,Eagle Point Credit Company Inc. Common Stock,Eagle Point Credit Company Inc. Common Stock,N,ECC,N,100.0,N,ECC
-ECC$D,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,N,ECCpD,N,100.0,N,ECC-D
-ECCC,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,N,ECCC,N,100.0,N,ECCC
-ECCU,Eagle Point Credit Company Inc. 7.75% Notes due 2030,Eagle Point Credit Company Inc. 7.75% Notes due 2030,N,ECCU,N,100.0,N,ECCU
-ECCV,Eagle Point Credit Company Inc. 5.375% Notes due 2029,Eagle Point Credit Company Inc. 5.375% Notes due 2029,N,ECCV,N,100.0,N,ECCV
+ECC,Eagle Point Credit Company Common Share of Beneficial Interest,Eagle Point Credit Company Common Share of Beneficial Interest,N,ECC,N,100.0,N,ECC
+ECC$D,Eagle Point Credit Company 6.75% Series D Preferred Stock,Eagle Point Credit Company 6.75% Series D Preferred Stock,N,ECCpD,N,100.0,N,ECC-D
+ECCC,Eagle Point Credit Company 6.50% Series C Term Preferred Stock due 2031,Eagle Point Credit Company 6.50% Series C Term Preferred Stock due 2031,N,ECCC,N,100.0,N,ECCC
+ECCU,Eagle Point Credit Company 7.75% Notes due 2030,Eagle Point Credit Company 7.75% Notes due 2030,N,ECCU,N,100.0,N,ECCU
+ECCV,Eagle Point Credit Company 5.375% Notes due 2029,Eagle Point Credit Company 5.375% Notes due 2029,N,ECCV,N,100.0,N,ECCV
 ECF,Ellsworth Growth and Income Fund Ltd.,Ellsworth Growth and Income Fund Ltd.,A,ECF,N,100.0,N,ECF
 ECF$A,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),A,ECFpA,N,100.0,N,ECF-A
 ECG,"Everus Construction Group, Inc. Common Stock","Everus Construction Group, Inc. Common Stock",N,ECG,N,100.0,N,ECG
@@ -5523,7 +5522,10 @@ SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock
 SAEF,Schwab Ariel Opportunities ETF,Schwab Ariel Opportunities ETF,P,SAEF,Y,100.0,N,SAEF
 SAFE,Safehold Inc. New Common Stock ,Safehold Inc. New Common Stock ,N,SAFE,N,100.0,N,SAFE
 SAGP,Strategas Global Policy Opportunities ETF,Strategas Global Policy Opportunities ETF,P,SAGP,Y,100.0,N,SAGP
+SAGU,Shreya Acquisition Group Class A Ordinary Shares,Shreya Acquisition Group Class A Ordinary Shares,N,SAGU,N,100.0,N,SAGU
+SAGU.R,"Shreya Acquisition Group Rights, each entitling the holder to receive one","Shreya Acquisition Group Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",N,SAGUr,N,100.0,N,SAGU^
 SAGU.U,"Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one","Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one-fourth of one Class A Ordinary Share",N,SAGU.U,N,100.0,N,SAGU=
+SAGU.W,"Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share","Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share",N,SAGU.WS,N,100.0,N,SAGU+
 SAH,"Sonic Automotive, Inc. Common Stock","Sonic Automotive, Inc. Common Stock",N,SAH,N,100.0,N,SAH
 SAJ,Saratoga Investment Corp 8.00% Notes due 2027,Saratoga Investment Corp 8.00% Notes due 2027,N,SAJ,N,100.0,N,SAJ
 SAM,"Boston Beer Company, Inc. (The) Common Stock","Boston Beer Company, Inc. (The) Common Stock",N,SAM,N,100.0,N,SAM
