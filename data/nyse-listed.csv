@@ -444,6 +444,7 @@ BRIE,MFS Blended Research International Equity ETF
 BRK.A,Berkshire Hathaway Inc. Common Stock
 BRK.B,Berkshire Hathaway Inc. New Common Stock
 BRO,"Brown & Brown, Inc. Common Stock"
+BROL,Baron Risk Optimized Large Cap ETF
 BROS,Dutch Bros Inc. Class A Common Stock
 BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares"
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock"
@@ -765,6 +766,7 @@ DFH,"Dream Finders Homes, Inc. Class A Common Stock"
 DFIN,"Donnelley Financial Solutions, Inc. Common Stock "
 DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock
 DG,Dollar General Corporation Common Stock
+DGAC.U,"Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right"
 DGX,Quest Diagnostics Incorporated Common Stock
 DHF,BNY Mellon High Yield Strategies Fund Common Stock
 DHI,"D.R. Horton, Inc. Common Stock"
@@ -998,6 +1000,8 @@ FCX,Freeport
 FDP,"Fresh Del Monte Produce, Inc. Common Stock"
 FDS,FactSet Research Systems Inc. Common Stock
 FDX,FedEx Corporation Common Stock
+FDX.V,FedEx Corporation Common Stock When
+FDXF.V,"FedEx Freight Holding Company, Inc. Common Stock When"
 FE,FirstEnergy Corp. Common Stock
 FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares"
 FEGE,First Eagle Global Equity ETF
@@ -1822,7 +1826,7 @@ NIQ,NIQ Global Intelligence plc Ordinary Shares
 NJR,NewJersey Resources Corporation Common Stock
 NKE,"Nike, Inc. Common Stock"
 NKX,Nuveen California AMT
-NL,"NL Industries, Inc. Common Stock"
+NL,"NLI Holdings, Inc. Common Stock"
 NLOP,Net Lease Office Properties Common Shares of Beneficial Interest
 NLY,Annaly Capital Management Inc. Common Stock
 NLY$F,Annaly Capital Management Inc 6.95% Series F
@@ -1889,6 +1893,7 @@ NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)
 NVO,Novo Nordisk A/S Common Stock
 NVR,"NVR, Inc. Common Stock"
 NVRI,Enviri Corporation Common Stock
+NVRI.V,Enviri Corporation Common Stock When
 NVS,Novartis AG Common Stock
 NVST,Envista Holdings Corporation Common Stock
 NVT,nVent Electric plc Ordinary Shares 
@@ -2752,7 +2757,6 @@ VOYA$B,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th inter
 VOYG,"Voyager Technologies, Inc. Class A Common Stock"
 VPG,"Vishay Precision Group, Inc. Common Stock"
 VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)
-VRE,"Veris Residential, Inc. Common Stock"
 VRT,"Vertiv Holdings, LLC Class A Common Stock"
 VRTS,"Virtus Investment Partners, Inc. Common Stock"
 VSCO,Victorias Secret & Co. Common Stock 
