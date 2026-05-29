@@ -81,6 +81,7 @@ ADBU,Direxion Daily ADBE Bull 2X ETF,Direxion Daily ADBE Bull 2X ETF,P,ADBU,Y,10
 ADC,Agree Realty Corporation Common Stock,Agree Realty Corporation Common Stock,N,ADC,N,100.0,N,ADC
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock","Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",N,ADCpA,N,100.0,N,ADC-A
 ADCT,ADC Therapeutics SA Common Shares,ADC Therapeutics SA Common Shares,N,ADCT,N,100.0,N,ADCT
+ADDS,Hedgeye Index Adds ETF,Hedgeye Index Adds ETF,P,ADDS,Y,100.0,N,ADDS
 ADFI,Anfield Dynamic Fixed Income ETF,Anfield Dynamic Fixed Income ETF,Z,ADFI,Y,100.0,N,ADFI
 ADIV,Guinness Atkinson Asia Pacific Dividend Builder ETF,Guinness Atkinson Asia Pacific Dividend Builder ETF,P,ADIV,Y,100.0,N,ADIV
 ADM,Archer,Archer-Daniels-Midland Company Common Stock,N,ADM,N,100.0,N,ADM
@@ -184,7 +185,7 @@ AIS,VistaShares Artificial Intelligence Supercycle ETF,VistaShares Artificial In
 AIT,"Applied Industrial Technologies, Inc. Common Stock","Applied Industrial Technologies, Inc. Common Stock",N,AIT,N,40.0,N,AIT
 AIUP,FINQ FIRST U.S. Large Cap AI,FINQ FIRST U.S. Large Cap AI-Managed Equity ETF,P,AIUP,Y,100.0,N,AIUP
 AIV,Apartment Investment and Management Company Common Stock,Apartment Investment and Management Company Common Stock,N,AIV,N,100.0,N,AIV
-AIVC,Amplify Bloomberg AI Value Chain ETF,Amplify Bloomberg AI Value Chain ETF,P,AIVC,Y,100.0,N,AIVC
+AIVC,Amplify Bloomberg AI Equal Weight ETF,Amplify Bloomberg AI Equal Weight ETF,P,AIVC,Y,100.0,N,AIVC
 AIVI,WisdomTree International AI Enhanced Value Fund,WisdomTree International AI Enhanced Value Fund,P,AIVI,Y,100.0,N,AIVI
 AIVL,WisdomTree U.S. AI Enhanced Value Fund,WisdomTree U.S. AI Enhanced Value Fund,P,AIVL,Y,100.0,N,AIVL
 AIYY,YieldMax AI Option Income Strategy ETF,YieldMax AI Option Income Strategy ETF,P,AIYY,Y,100.0,N,AIYY
@@ -1035,6 +1036,8 @@ CBOX,Calamos Tax,Calamos Tax-Aware Collateral ETF,Z,CBOX,Y,100.0,N,CBOX
 CBOY,Calamos Bitcoin Structured Alt Protection ETF ,Calamos Bitcoin Structured Alt Protection ETF - July,Z,CBOY,Y,100.0,N,CBOY
 CBRE,CBRE Group Inc Common Stock Class A,CBRE Group Inc Common Stock Class A,N,CBRE,N,100.0,N,CBRE
 CBRG,Leverage Shares 2X Long CBRS Daily ETF,Leverage Shares 2X Long CBRS Daily ETF,Z,CBRG,Y,100.0,N,CBRG
+CBRX,Tradr 2X Long CBRS Daily ETF,Tradr 2X Long CBRS Daily ETF,Z,CBRX,Y,100.0,N,CBRX
+CBRZ,Tradr 2X Short CBRS Daily ETF,Tradr 2X Short CBRS Daily ETF,Z,CBRZ,Y,100.0,N,CBRZ
 CBSE,Clough Select Equity ETF,Clough Select Equity ETF,P,CBSE,Y,100.0,N,CBSE
 CBT,Cabot Corporation Common Stock,Cabot Corporation Common Stock,N,CBT,N,100.0,N,CBT
 CBTA,Calamos Bitcoin 80 Series Structured Alt Protection ETF ,Calamos Bitcoin 80 Series Structured Alt Protection ETF - April,Z,CBTA,Y,100.0,N,CBTA
@@ -2327,6 +2330,7 @@ FIS,"Fidelity National Information Services, Inc. Common Stock","Fidelity Nation
 FISK,"Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests","Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests",P,FISK,N,100.0,N,FISK
 FISR,State Street Fixed Income Sector Rotation ETF,State Street Fixed Income Sector Rotation ETF,P,FISR,Y,100.0,N,FISR
 FITE,State Street SPDR S&P Kensho Future Security ETF,State Street SPDR S&P Kensho Future Security ETF,P,FITE,Y,100.0,N,FITE
+FITZ,Fitz,Fitz-Gerald Must Have Portfolio ETF,P,FITZ,Y,100.0,N,FITZ
 FIVA,Fidelity International Value Factor ETF,Fidelity International Value Factor ETF,P,FIVA,Y,100.0,N,FIVA
 FIW,First Trust Water ETF,First Trust Water ETF,P,FIW,Y,100.0,N,FIW
 FIX,"Comfort Systems USA, Inc. Common Stock","Comfort Systems USA, Inc. Common Stock",N,FIX,N,10.0,N,FIX
@@ -4017,6 +4021,7 @@ MC,Moelis & Company Class A Common Stock,Moelis & Company Class A Common Stock,N
 MCB,Metropolitan Bank Holding Corp. Common Stock,Metropolitan Bank Holding Corp. Common Stock,N,MCB,N,100.0,N,MCB
 MCD,McDonald's Corporation Common Stock,McDonald's Corporation Common Stock,N,MCD,N,40.0,N,MCD
 MCH,Matthews China Active ETF,Matthews China Active ETF,P,MCH,Y,100.0,N,MCH
+MCHU,Tradr 2X Long MCHP Daily ETF,Tradr 2X Long MCHP Daily ETF,Z,MCHU,Y,100.0,N,MCHU
 MCI,Barings Corporate Investors Common Stock,Barings Corporate Investors Common Stock,N,MCI,N,100.0,N,MCI
 MCK,McKesson Corporation Common Stock,McKesson Corporation Common Stock,N,MCK,N,40.0,N,MCK
 MCN,XAI Madison Equity Premium Income Fund Common Shares,XAI Madison Equity Premium Income Fund Common Shares,N,MCN,N,100.0,N,MCN
@@ -4592,6 +4597,7 @@ NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferre
 NXE,Nexgen Energy Ltd. Common Shares,Nexgen Energy Ltd. Common Shares,N,NXE,N,100.0,N,NXE
 NXG,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,N,NXG,N,100.0,N,NXG
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,Nuveen Select Tax Free Income Portfolio Common Stock,N,NXP,N,100.0,N,NXP
+NXPX,Tradr 2X Long NXPI Daily ETF,Tradr 2X Long NXPI Daily ETF,Z,NXPX,Y,100.0,N,NXPX
 NXRT,"NexPoint Residential Trust, Inc. Common Stock","NexPoint Residential Trust, Inc. Common Stock",N,NXRT,N,100.0,N,NXRT
 NXTE,AXS Green Alpha ETF,AXS Green Alpha ETF,P,NXTE,Y,100.0,N,NXTE
 NXTI,Simplify Next Intangible Core Index ETF,Simplify Next Intangible Core Index ETF,Z,NXTI,Y,100.0,N,NXTI
@@ -4686,6 +4692,7 @@ ONOF,Global X Adaptive U.S. Risk Management ETF,Global X Adaptive U.S. Risk Mana
 ONON,On Holding AG Class A Ordinary Shares,On Holding AG Class A Ordinary Shares,N,ONON,N,100.0,N,ONON
 ONT,"Onterris, Inc. Common Stock","Onterris, Inc. Common Stock",N,ONT,N,100.0,N,ONT
 ONTO,Onto Innovation Inc. Common Stock,Onto Innovation Inc. Common Stock,N,ONTO,N,100.0,N,ONTO
+ONX,Tradr 2X Long ON Daily ETF,Tradr 2X Long ON Daily ETF,Z,ONX,Y,100.0,N,ONX
 OOMA,"Ooma, Inc. Common Stock","Ooma, Inc. Common Stock",N,OOMA,N,100.0,N,OOMA
 OOSP,Obra Opportunistic Structured Products ETF,Obra Opportunistic Structured Products ETF,P,OOSP,Y,100.0,N,OOSP
 OPAD,Offerpad Solutions Inc. Class A Common Stock,Offerpad Solutions Inc. Class A Common Stock,N,OPAD,N,100.0,N,OPAD
@@ -6012,7 +6019,7 @@ ST,Sensata Technologies Holding plc Ordinary Shares,Sensata Technologies Holding
 STAG,"Stag Industrial, Inc. Common Stock","Stag Industrial, Inc. Common Stock",N,STAG,N,100.0,N,STAG
 STAX,Nomura Tax,Nomura Tax-Free USA Short Term ETF,P,STAX,Y,100.0,N,STAX
 STBF,Performance Trust Short Term Bond ETF,Performance Trust Short Term Bond ETF,Z,STBF,Y,100.0,N,STBF
-STBQ,Amplify Stablecoin Technology ETF,Amplify Stablecoin Technology ETF,P,STBQ,Y,100.0,N,STBQ
+STBQ,Amplify Stablecoin Technology Leaders ETF,Amplify Stablecoin Technology Leaders ETF,P,STBQ,Y,100.0,N,STBQ
 STC,Stewart Information Services Corporation Common Stock,Stewart Information Services Corporation Common Stock,N,STC,N,100.0,N,STC
 STCE,Schwab Crypto Thematic ETF,Schwab Crypto Thematic ETF,P,STCE,Y,100.0,N,STCE
 STE,STERIS plc (Ireland) Ordinary Shares,STERIS plc (Ireland) Ordinary Shares,N,STE,N,100.0,N,STE
@@ -6259,7 +6266,7 @@ TJUN,FT Vest Emerging Markets Buffer ETF ,FT Vest Emerging Markets Buffer ETF - 
 TJX,"TJX Companies, Inc. (The) Common Stock","TJX Companies, Inc. (The) Common Stock",N,TJX,N,100.0,N,TJX
 TK,Teekay Corporation Ltd. Common Stock,Teekay Corporation Ltd. Common Stock,N,TK,N,100.0,N,TK
 TKC,Turkcell Iletisim Hizmetleri AS Common Stock,Turkcell Iletisim Hizmetleri AS Common Stock,N,TKC,N,100.0,N,TKC
-TKNQ,Amplify Tokenization Technology ETF,Amplify Tokenization Technology ETF,P,TKNQ,Y,100.0,N,TKNQ
+TKNQ,Amplify Tokenization Technology Leaders ETF,Amplify Tokenization Technology Leaders ETF,P,TKNQ,Y,100.0,N,TKNQ
 TKO,"TKO Group Holdings, Inc. Class A Common Stock","TKO Group Holdings, Inc. Class A Common Stock",N,TKO,N,100.0,N,TKO
 TKR,Timken Company (The) Common Stock,Timken Company (The) Common Stock,N,TKR,N,100.0,N,TKR
 TLCI,Touchstone International Equity ETF,Touchstone International Equity ETF,P,TLCI,Y,100.0,N,TLCI
