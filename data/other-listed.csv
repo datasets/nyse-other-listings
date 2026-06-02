@@ -495,6 +495,7 @@ AZN,AstraZeneca PLC Ordinary Shares,AstraZeneca PLC Ordinary Shares,N,AZN,N,100.
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,10.0,N,AZO
 AZTD,Aztlan Global Stock Selection DM SMID ETF,Aztlan Global Stock Selection DM SMID ETF,P,AZTD,Y,100.0,N,AZTD
 AZTR,Azitra Inc Common Stock,Azitra Inc Common Stock,A,AZTR,N,100.0,N,AZTR
+AZUL,"Azul S.A. American Depositary Shares, each representing two (2) Common Shares","Azul S.A. American Depositary Shares, each representing two (2) Common Shares",A,AZUL,N,100.0,N,AZUL
 AZZ,AZZ Inc.,AZZ Inc.,N,AZZ,N,100.0,N,AZZ
 B,Barrick Mining Corporation Common Shares,Barrick Mining Corporation Common Shares,N,B,N,100.0,N,B
 BA,Boeing Company (The) Common Stock,Boeing Company (The) Common Stock,N,BA,N,100.0,N,BA
@@ -1531,6 +1532,7 @@ DDFN,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Dire
 DDFO,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - October,Z,DDFO,Y,100.0,N,DDFO
 DDFS,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - September,Z,DDFS,Y,100.0,N,DDFS
 DDFY,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - May,Z,DDFY,Y,100.0,N,DDFY
+DDFZ,Innovator Equity Dual Directional 15 Buffer ETF ,Innovator Equity Dual Directional 15 Buffer ETF - June,Z,DDFZ,Y,100.0,N,DDFZ
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),N,DDL,N,100.0,N,DDL
 DDLS,WisdomTree Dynamic International SmallCap Equity Fund,WisdomTree Dynamic International SmallCap Equity Fund,Z,DDLS,Y,100.0,N,DDLS
 DDM,ProShares Ultra Dow30,ProShares Ultra Dow30,P,DDM,Y,100.0,N,DDM
@@ -1548,6 +1550,7 @@ DDTN,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Dire
 DDTO,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - October,Z,DDTO,Y,100.0,N,DDTO
 DDTS,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - September,Z,DDTS,Y,100.0,N,DDTS
 DDTY,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - May,Z,DDTY,Y,100.0,N,DDTY
+DDTZ,Innovator Equity Dual Directional 10 Buffer ETF ,Innovator Equity Dual Directional 10 Buffer ETF - June,Z,DDTZ,Y,100.0,N,DDTZ
 DDV,Defined Duration 5 ETF,Defined Duration 5 ETF,Z,DDV,Y,100.0,N,DDV
 DDWM,WisdomTree Dynamic International Equity Fund,WisdomTree Dynamic International Equity Fund,Z,DDWM,Y,100.0,N,DDWM
 DDX,Defined Duration 10 ETF,Defined Duration 10 ETF,Z,DDX,Y,100.0,N,DDX
@@ -1951,13 +1954,13 @@ EMBJ,Embraer S.A. Common Stock,Embraer S.A. Common Stock,N,EMBJ,N,100.0,N,EMBJ
 EMBX,VanEck Emerging Markets Bond ETF,VanEck Emerging Markets Bond ETF,P,EMBX,Y,100.0,N,EMBX
 EMC,Global X Emerging Markets Great Consumer ETF,Global X Emerging Markets Great Consumer ETF,P,EMC,Y,100.0,N,EMC
 EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,P,EMCR,Y,100.0,N,EMCR
-EMCS,Xtrackers MSCI Emerging Markets Climate Selection ETF,Xtrackers MSCI Emerging Markets Climate Selection ETF,P,EMCS,Y,100.0,N,EMCS
+EMCS,Xtrackers MSCI Emerging Markets Select ETF,Xtrackers MSCI Emerging Markets Select ETF,P,EMCS,Y,100.0,N,EMCS
 EMD,Western Asset Emerging Markets Debt Fund Inc Common Stock,Western Asset Emerging Markets Debt Fund Inc Common Stock,N,EMD,N,100.0,N,EMD
 EMDM,First Trust Bloomberg Emerging Market Democracies ETF,First Trust Bloomberg Emerging Market Democracies ETF,P,EMDM,Y,100.0,N,EMDM
 EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,ProShares MSCI Emerging Markets Dividend Growers ETF,Z,EMDV,Y,100.0,N,EMDV
 EME,"EMCOR Group, Inc. Common Stock","EMCOR Group, Inc. Common Stock",N,EME,N,40.0,N,EME
 EMES,Harbor Emerging Markets Select ETF,Harbor Emerging Markets Select ETF,P,EMES,Y,100.0,N,EMES
-EMET,VanEck Copper and Green Metals ETF,VanEck Copper and Green Metals ETF,P,EMET,Y,100.0,N,EMET
+EMET,VanEck Copper and Electrification Metals ETF,VanEck Copper and Electrification Metals ETF,P,EMET,Y,100.0,N,EMET
 EMF,Templeton Emerging Markets Fund Common Stock,Templeton Emerging Markets Fund Common Stock,N,EMF,N,100.0,N,EMF
 EMFI,Pictet Emerging Markets Debt ETF,Pictet Emerging Markets Debt ETF,P,EMFI,Y,100.0,N,EMFI
 EMGF,iShares Emerging Markets Equity Factor ETF,iShares Emerging Markets Equity Factor ETF,Z,EMGF,Y,100.0,N,EMGF
@@ -2249,8 +2252,7 @@ FDS,FactSet Research Systems Inc. Common Stock,FactSet Research Systems Inc. Com
 FDV,Federated Hermes U.S. Strategic Dividend ETF,Federated Hermes U.S. Strategic Dividend ETF,P,FDV,Y,100.0,N,FDV
 FDVV,Fidelity High Dividend ETF,Fidelity High Dividend ETF,P,FDVV,Y,100.0,N,FDVV
 FDX,FedEx Corporation Common Stock,FedEx Corporation Common Stock,N,FDX,N,40.0,N,FDX
-FDX.V,FedEx Corporation Common Stock When,FedEx Corporation Common Stock When-Issued,N,FDXw,N,100.0,N,FDX#
-FDXF.V,"FedEx Freight Holding Company, Inc. Common Stock When","FedEx Freight Holding Company, Inc. Common Stock When-Issued",N,FDXFw,N,100.0,N,FDXF#
+FDXF,"FedEx Freight Holding Company, Inc. Common Stock","FedEx Freight Holding Company, Inc. Common Stock",N,FDXF,N,100.0,N,FDXF
 FE,FirstEnergy Corp. Common Stock,FirstEnergy Corp. Common Stock,N,FE,N,100.0,N,FE
 FEAC,Fidelity Enhanced U.S. All,Fidelity Enhanced U.S. All-Cap Equity ETF,P,FEAC,Y,100.0,N,FEAC
 FEBM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - February,Z,FEBM,Y,100.0,N,FEBM
@@ -3737,7 +3739,7 @@ KOS,Kosmos Energy Ltd. Common Shares (DE),Kosmos Energy Ltd. Common Shares (DE),
 KPET,KPET Ultra Paceline Corporation Class A Ordinary Shares,KPET Ultra Paceline Corporation Class A Ordinary Shares,N,KPET,N,100.0,N,KPET
 KPET.U,"KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one","KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one-sixth of one Warrant",N,KPET.U,N,100.0,N,KPET=
 KPET.W,"KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,KPET.WS,N,100.0,N,KPET+
-KPHO,KraneShares Dragon Capital Vietnam Growth Index ETF,KraneShares Dragon Capital Vietnam Growth Index ETF,P,KPHO,Y,100.0,N,KPHO
+KPHO,KraneShares Dragon Capital Growth of Vietnam Index ETF,KraneShares Dragon Capital Growth of Vietnam Index ETF,P,KPHO,Y,100.0,N,KPHO
 KPRO,KraneShares 100% KWEB Defined Outcome January 2027 ETF,KraneShares 100% KWEB Defined Outcome January 2027 ETF,P,KPRO,Y,100.0,N,KPRO
 KR,Kroger Company (The) Common Stock,Kroger Company (The) Common Stock,N,KR,N,100.0,N,KR
 KRBN,KraneShares Global Carbon Strategy ETF,KraneShares Global Carbon Strategy ETF,P,KRBN,Y,100.0,N,KRBN
@@ -4580,7 +4582,6 @@ NVO,Novo Nordisk A/S Common Stock,Novo Nordisk A/S Common Stock,N,NVO,N,100.0,N,
 NVOH,Novo Nordisk A/S B Shares ADRhedged,Novo Nordisk A/S B Shares ADRhedged,P,NVOH,Y,100.0,N,NVOH
 NVOX,Defiance Daily Target 2X Long NVO ETF,Defiance Daily Target 2X Long NVO ETF,P,NVOX,Y,100.0,N,NVOX
 NVR,"NVR, Inc. Common Stock","NVR, Inc. Common Stock",N,NVR,N,10.0,N,NVR
-NVRI,Enviri Corporation Common Stock,Enviri Corporation Common Stock,N,NVRI,N,100.0,N,NVRI
 NVRI.V,Enviri Corporation Common Stock When,Enviri Corporation Common Stock When-Issued,N,NVRIw,N,100.0,N,NVRI#
 NVS,Novartis AG Common Stock,Novartis AG Common Stock,N,NVS,N,100.0,N,NVS
 NVST,Envista Holdings Corporation Common Stock,Envista Holdings Corporation Common Stock,N,NVST,N,100.0,N,NVST
@@ -5361,7 +5362,7 @@ RHRX,RH Tactical Rotation ETF,RH Tactical Rotation ETF,P,RHRX,Y,100.0,N,RHRX
 RHTX,RH Tactical Outlook ETF,RH Tactical Outlook ETF,P,RHTX,Y,100.0,N,RHTX
 RIET,Hoya Capital High Dividend Yield ETF,Hoya Capital High Dividend Yield ETF,P,RIET,Y,100.0,N,RIET
 RIG,Transocean Ltd (Switzerland) Common Stock,Transocean Ltd (Switzerland) Common Stock,N,RIG,N,100.0,N,RIG
-RIGS,RiverFront Strategic Income Fund,RiverFront Strategic Income Fund,P,RIGS,Y,100.0,N,RIGS
+RIGS,ALPS Strategic Income Fund,ALPS Strategic Income Fund,P,RIGS,Y,100.0,N,RIGS
 RILA,Indexperts Gorilla Aggressive Growth ETF,Indexperts Gorilla Aggressive Growth ETF,P,RILA,Y,100.0,N,RILA
 RINF,ProShares Inflation Expectations ETF,ProShares Inflation Expectations ETF,P,RINF,Y,100.0,N,RINF
 RIO,Rio Tinto Plc Common Stock,Rio Tinto Plc Common Stock,N,RIO,N,100.0,N,RIO
@@ -5452,7 +5453,7 @@ RSDE,FT Vest U.S. Equity Equal Weight Buffer ETF ,FT Vest U.S. Equity Equal Weig
 RSEE,Rareview Systematic Equity ETF,Rareview Systematic Equity ETF,Z,RSEE,Y,100.0,N,RSEE
 RSF,RiverNorth Capital and Income Fund Common Stock,RiverNorth Capital and Income Fund Common Stock,N,RSF,N,100.0,N,RSF
 RSG,"Republic Services, Inc. Common Stock","Republic Services, Inc. Common Stock",N,RSG,N,100.0,N,RSG
-RSHO,Tema American Reshoring ETF,Tema American Reshoring ETF,P,RSHO,Y,100.0,N,RSHO
+RSHO,Tema U.S. Manufacturing & Reshoring ETF,Tema U.S. Manufacturing & Reshoring ETF,P,RSHO,Y,100.0,N,RSHO
 RSI,"Rush Street Interactive, Inc. Class A Common Stock","Rush Street Interactive, Inc. Class A Common Stock",N,RSI,N,100.0,N,RSI
 RSIT,Return Stacked International Stocks & Managed Futures ETF,Return Stacked International Stocks & Managed Futures ETF,Z,RSIT,Y,100.0,N,RSIT
 RSJN,FT Vest U.S. Equity Equal Weight Buffer ETF ,FT Vest U.S. Equity Equal Weight Buffer ETF - June,P,RSJN,Y,100.0,N,RSJN
@@ -6237,7 +6238,6 @@ THNQ,ROBO Global Artificial Intelligence ETF,ROBO Global Artificial Intelligence
 THNR,Amplify Weight Loss Drug & Treatment ETF,Amplify Weight Loss Drug & Treatment ETF,P,THNR,Y,100.0,N,THNR
 THO,"Thor Industries, Inc. Common Stock","Thor Industries, Inc. Common Stock",N,THO,N,100.0,N,THO
 THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,N,THQ,N,100.0,N,THQ
-THR,"Thermon Group Holdings, Inc. Common Stock","Thermon Group Holdings, Inc. Common Stock",N,THR,N,100.0,N,THR
 THRO,iShares U.S. Thematic Rotation Active ETF,iShares U.S. Thematic Rotation Active ETF,P,THRO,Y,100.0,N,THRO
 THTA,SoFi Enhanced Yield ETF,SoFi Enhanced Yield ETF,P,THTA,Y,100.0,N,THTA
 THW,abrdn World Healthcare Fund Shares of Beneficial Interest,abrdn World Healthcare Fund Shares of Beneficial Interest,N,THW,N,100.0,N,THW

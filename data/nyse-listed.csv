@@ -1000,8 +1000,7 @@ FCX,Freeport
 FDP,"Fresh Del Monte Produce, Inc. Common Stock"
 FDS,FactSet Research Systems Inc. Common Stock
 FDX,FedEx Corporation Common Stock
-FDX.V,FedEx Corporation Common Stock When
-FDXF.V,"FedEx Freight Holding Company, Inc. Common Stock When"
+FDXF,"FedEx Freight Holding Company, Inc. Common Stock"
 FE,FirstEnergy Corp. Common Stock
 FEDU,"Four Seasons Education (Cayman) Inc. American Depositary Shares, each ADS representing 10 ordinary shares"
 FEGE,First Eagle Global Equity ETF
@@ -1892,7 +1891,6 @@ NVG,Nuveen AMT
 NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)
 NVO,Novo Nordisk A/S Common Stock
 NVR,"NVR, Inc. Common Stock"
-NVRI,Enviri Corporation Common Stock
 NVRI.V,Enviri Corporation Common Stock When
 NVS,Novartis AG Common Stock
 NVST,Envista Holdings Corporation Common Stock
@@ -2563,7 +2561,6 @@ THLV,THOR Equal Weight Low Volatility ETF
 THMR,THOR AdaptiveRisk Dynamic ETF
 THO,"Thor Industries, Inc. Common Stock"
 THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest
-THR,"Thermon Group Holdings, Inc. Common Stock"
 THW,abrdn World Healthcare Fund Shares of Beneficial Interest
 TIC,"TIC Solutions, Inc. Common Stock"
 TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares) 
