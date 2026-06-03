@@ -744,12 +744,12 @@ DBRG,"DigitalBridge Group, Inc."
 DBRG$H,"DigitalBridge Group, Inc. 7.125% Series H "
 DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I "
 DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J "
-DCBG,"Dime Community Bancshares, Inc. 9.000% Fixed"
+DCBG,"Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes"
 DCH,Dauch Corporation Common Stock
 DCI,"Donaldson Company, Inc. Common Stock"
 DCO,Ducommun Incorporated Common Stock
-DCOM,"Dime Community Bancshares, Inc. Common Stock"
-DCOM$,"Dime Community Bancshares, Inc. Fixed"
+DCOM,"Dime Commercial Bancshares, Inc. Common Stock"
+DCOM$,"Dime Commercial Bancshares, Inc. Preferred Stock, Series A"
 DD,"DuPont de Nemours, Inc. Common Stock"
 DDD,3D Systems Corporation Common Stock
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)
@@ -1891,7 +1891,7 @@ NVG,Nuveen AMT
 NVGS,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands)
 NVO,Novo Nordisk A/S Common Stock
 NVR,"NVR, Inc. Common Stock"
-NVRI.V,Enviri Corporation Common Stock When
+NVRI,Enviri Corporation Common Stock
 NVS,Novartis AG Common Stock
 NVST,Envista Holdings Corporation Common Stock
 NVT,nVent Electric plc Ordinary Shares 
@@ -2757,10 +2757,10 @@ VPG,"Vishay Precision Group, Inc. Common Stock"
 VPV,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE)
 VRT,"Vertiv Holdings, LLC Class A Common Stock"
 VRTS,"Virtus Investment Partners, Inc. Common Stock"
-VSCO,Victorias Secret & Co. Common Stock 
 VSH,"Vishay Intertechnology, Inc. Common Stock"
 VST,Vistra Corp. Common Stock
 VSTS,Vestis Corporation Common Stock
+VSXY,Victorias Secret & Co. Common Stock 
 VTEX,VTEX Class A Common Shares
 VTMX,"Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares"
 VTN,Invesco Trust for Investment Grade New York Municipals Common Stock
