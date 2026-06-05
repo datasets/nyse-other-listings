@@ -884,6 +884,7 @@ BRO,"Brown & Brown, Inc. Common Stock","Brown & Brown, Inc. Common Stock",N,BRO,
 BROL,Baron Risk Optimized Large Cap ETF,Baron Risk Optimized Large Cap ETF,N,BROL,Y,100.0,N,BROL
 BROS,Dutch Bros Inc. Class A Common Stock,Dutch Bros Inc. Class A Common Stock,N,BROS,N,100.0,N,BROS
 BRSL,"Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares","Brightstar Lottery PLC Trading under the Legal Name to begin at the market open on July 21, 2025. Ordinary Shares",N,BRSL,N,100.0,N,BRSL
+BRSM,MFS Blended Research Small,MFS Blended Research Small-Mid Cap ETF,P,BRSM,Y,100.0,N,BRSM
 BRSP,"BrightSpire Capital, Inc. Class A Common Stock","BrightSpire Capital, Inc. Class A Common Stock",N,BRSP,N,100.0,N,BRSP
 BRT,BRT Apartments Corp. (MD) Common Stock,BRT Apartments Corp. (MD) Common Stock,N,BRT,N,100.0,N,BRT
 BRW,Saba Capital Income & Opportunities Fund SBI,Saba Capital Income & Opportunities Fund SBI,N,BRW,N,100.0,N,BRW
@@ -907,6 +908,7 @@ BTAL,AGF U.S. Market Neutral Anti,AGF U.S. Market Neutral Anti-Beta Fund,P,BTAL,
 BTC,Grayscale Bitcoin Mini Trust (BTC),Grayscale Bitcoin Mini Trust (BTC),P,BTC,Y,100.0,N,BTC
 BTCC,Grayscale Bitcoin Covered Call ETF,Grayscale Bitcoin Covered Call ETF,P,BTCC,Y,100.0,N,BTCC
 BTCI,NEOS Bitcoin High Income ETF,NEOS Bitcoin High Income ETF,Z,BTCI,Y,100.0,N,BTCI
+BTCK,7RCC Spot Bitcoin and Carbon Credit Futures ETF,7RCC Spot Bitcoin and Carbon Credit Futures ETF,P,BTCK,Y,100.0,N,BTCK
 BTCL,T,T-Rex 2X Long Bitcoin Daily Target ETF,Z,BTCL,Y,100.0,N,BTCL
 BTCO,Invesco Galaxy Bitcoin ETF ,Invesco Galaxy Bitcoin ETF ,Z,BTCO,Y,100.0,N,BTCO
 BTCU,Direxion Daily Bitcoin Bull 2X ETF,Direxion Daily Bitcoin Bull 2X ETF,P,BTCU,Y,100.0,N,BTCU
@@ -1029,6 +1031,7 @@ CATX,"Perspective Therapeutics, Inc. Common Stock","Perspective Therapeutics, In
 CAVA,"CAVA Group, Inc. Common Stock","CAVA Group, Inc. Common Stock",N,CAVA,N,100.0,N,CAVA
 CB,Chubb Limited  Common Stock,Chubb Limited  Common Stock,N,CB,N,40.0,N,CB
 CBAN,"Colony Bankcorp, Inc. Common Stock","Colony Bankcorp, Inc. Common Stock",N,CBAN,N,100.0,N,CBAN
+CBIL,Corgi 3,Corgi 3-12 Month T-Bill ETF,Z,CBIL,Y,100.0,N,CBIL
 CBL,"CBL & Associates Properties, Inc. Common Stock","CBL & Associates Properties, Inc. Common Stock",N,CBL,N,100.0,N,CBL
 CBLS,Clough Hedged Equity ETF,Clough Hedged Equity ETF,P,CBLS,Y,100.0,N,CBLS
 CBNA,"Chain Bridge Bancorp, Inc. Class A Common Stock","Chain Bridge Bancorp, Inc. Class A Common Stock",N,CBNA,N,100.0,N,CBNA
@@ -1130,6 +1133,7 @@ CGMM,Capital Group U.S. Small and Mid Cap ETF,Capital Group U.S. Small and Mid C
 CGMS,Capital Group U.S. Multi,Capital Group U.S. Multi-Sector Income ETF,P,CGMS,Y,100.0,N,CGMS
 CGMU,Capital Group Municipal Income ETF,Capital Group Municipal Income ETF,P,CGMU,Y,100.0,N,CGMU
 CGNG,Capital Group New Geography Equity ETF,Capital Group New Geography Equity ETF,P,CGNG,Y,100.0,N,CGNG
+CGOV,Corgi 0,Corgi 0-3 Month T-Bill ETF,Z,CGOV,Y,100.0,N,CGOV
 CGRO,CoreValues Alpha Greater China Growth ETF,CoreValues Alpha Greater China Growth ETF,P,CGRO,Y,100.0,N,CGRO
 CGSD,Capital Group Short Duration Income ETF,Capital Group Short Duration Income ETF,P,CGSD,Y,100.0,N,CGSD
 CGSM,Capital Group Short Duration Municipal Income ETF,Capital Group Short Duration Municipal Income ETF,P,CGSM,Y,100.0,N,CGSM
@@ -1157,12 +1161,14 @@ CHPT,"ChargePoint Holdings, Inc. Common Stock","ChargePoint Holdings, Inc. Commo
 CHPY,YieldMax Semiconductor Portfolio Option Income ETF,YieldMax Semiconductor Portfolio Option Income ETF,P,CHPY,Y,100.0,N,CHPY
 CHT,"Chunghwa Telecom Co., Ltd.","Chunghwa Telecom Co., Ltd.",N,CHT,N,100.0,N,CHT
 CHWY,"Chewy, Inc. Class A Common Stock","Chewy, Inc. Class A Common Stock",N,CHWY,N,100.0,N,CHWY
+CHYG,Corgi 0,Corgi 0-5 Year High Yield Corporate Bond ETF,Z,CHYG,Y,100.0,N,CHYG
 CI,The Cigna Group Common Stock,The Cigna Group Common Stock,N,CI,N,40.0,N,CI
 CIA,"Citizens, Inc. Class A Common Stock ($1.00 Par)","Citizens, Inc. Class A Common Stock ($1.00 Par)",N,CIA,N,100.0,N,CIA
 CIB,Grupo Cibest S.A. American Depositary Shares each representing four Preferred Shares,Grupo Cibest S.A. American Depositary Shares each representing four Preferred Shares,N,CIB,N,100.0,N,CIB
 CICB,CION Investment Corporation 7.50% Notes due 2029,CION Investment Corporation 7.50% Notes due 2029,N,CICB,N,100.0,N,CICB
 CICC,CION Investment Corporation 7.50% Notes due 2031,CION Investment Corporation 7.50% Notes due 2031,N,CICC,N,100.0,N,CICC
 CIEG,Leverage Shares 2X Long CIEN Daily ETF,Leverage Shares 2X Long CIEN Daily ETF,Z,CIEG,Y,100.0,N,CIEG
+CIEI,Corgi 3,Corgi 3-7 Year Treasury Bond ETF,Z,CIEI,Y,100.0,N,CIEI
 CIEN,Ciena Corporation Common Stock,Ciena Corporation Common Stock,N,CIEN,N,40.0,N,CIEN
 CIF,MFS Intermediate High Income Fund Common Stock,MFS Intermediate High Income Fund Common Stock,N,CIF,N,100.0,N,CIF
 CIFU,T,T-REX 2X Long CIFR Daily Target ETF,Z,CIFU,Y,100.0,N,CIFU
@@ -1181,6 +1187,7 @@ CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,Chimera Investm
 CINT,CI&T Inc Class A Common Shares,CI&T Inc Class A Common Shares,N,CINT,N,100.0,N,CINT
 CION,CION Investment Corporation Common Stock,CION Investment Corporation Common Stock,N,CION,N,100.0,N,CION
 CITR,CitroTech Inc. Common Stock,CitroTech Inc. Common Stock,A,CITR,N,100.0,N,CITR
+CIVG,Corgi 1,Corgi 1-5 Year Investment Grade Corporate Bond ETF,Z,CIVG,Y,100.0,N,CIVG
 CIX,CompX International Inc. Common Stock,CompX International Inc. Common Stock,A,CIX,N,100.0,N,CIX
 CJUN,Corgi U.S. Equities 15% Structured Buffer ETF ,Corgi U.S. Equities 15% Structured Buffer ETF - June Series,Z,CJUN,Y,100.0,N,CJUN
 CKX,"CKX Lands, Inc. Common Stock","CKX Lands, Inc. Common Stock",A,CKX,N,100.0,N,CKX
@@ -1434,6 +1441,7 @@ CUBI,"Customers Bancorp, Inc Common Stock","Customers Bancorp, Inc Common Stock"
 CURB,Curbline Properties Corp. Common Stock,Curbline Properties Corp. Common Stock,N,CURB,N,100.0,N,CURB
 CURE,Direxion Daily Healthcare Bull 3X ETF,Direxion Daily Healthcare Bull 3X ETF,P,CURE,Y,100.0,N,CURE
 CURV,Torrid Holdings Inc. Common Stock,Torrid Holdings Inc. Common Stock,N,CURV,N,100.0,N,CURV
+CUST,Corgi 1,Corgi 1-3 Year Treasury Bond ETF,Z,CUST,Y,100.0,N,CUST
 CUT,Invesco MSCI Global Timber ETF,Invesco MSCI Global Timber ETF,P,CUT,Y,100.0,N,CUT
 CUZ,Cousins Properties Incorporated Common Stock,Cousins Properties Incorporated Common Stock,N,CUZ,N,100.0,N,CUZ
 CVAR,Cultivar ETF,Cultivar ETF,Z,CVAR,Y,100.0,N,CVAR
@@ -2106,7 +2114,9 @@ ETN,"Eaton Corporation, PLC Ordinary Shares","Eaton Corporation, PLC Ordinary Sh
 ETNG,Leverage Shares 2X Long ETN Daily ETF,Leverage Shares 2X Long ETN Daily ETF,Z,ETNG,Y,100.0,N,ETNG
 ETO,Eaton Vance Tax,Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,N,ETO,N,100.0,N,ETO
 ETR,Entergy Corporation Common Stock,Entergy Corporation Common Stock,N,ETR,N,100.0,N,ETR
+ETSS,Energy Transition Special Opportunities Class A Ordinary Shares,Energy Transition Special Opportunities Class A Ordinary Shares,N,ETSS,N,100.0,N,ETSS
 ETSS.U,"Energy Transition Special Opportunities Units, each consisting of one Class A ordinary share and one","Energy Transition Special Opportunities Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,ETSS.U,N,100.0,N,ETSS=
+ETSS.W,"Energy Transition Special Opportunities Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Energy Transition Special Opportunities Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,ETSS.WS,N,100.0,N,ETSS+
 ETSY,"Etsy, Inc. Common Stock","Etsy, Inc. Common Stock",N,ETSY,N,100.0,N,ETSY
 ETTY,Amplify Ethereum 3% Monthly Option Income ETF,Amplify Ethereum 3% Monthly Option Income ETF,Z,ETTY,Y,100.0,N,ETTY
 ETU,T,T-Rex 2X Long Ether Daily Target ETF,Z,ETU,Y,100.0,N,ETU
@@ -2758,7 +2768,6 @@ GMOV,GMO US Value ETF,GMO US Value ETF,P,GMOV,Y,100.0,N,GMOV
 GMRS,GMR Solutions Inc. Class A Common Stock,GMR Solutions Inc. Class A Common Stock,N,GMRS,N,100.0,N,GMRS
 GMTL,Guardian Metal Resources PLC ADS,Guardian Metal Resources PLC ADS,A,GMTL,N,100.0,N,GMTL
 GMUB,Goldman Sachs Municipal Income ETF,Goldman Sachs Municipal Income ETF,P,GMUB,Y,100.0,N,GMUB
-GMUN,Goldman Sachs Access Municipal Bond ETF,Goldman Sachs Access Municipal Bond ETF,P,GMUN,Y,100.0,N,GMUN
 GNE,Genie Energy Ltd. Class B Common Stock Stock,Genie Energy Ltd. Class B Common Stock Stock,N,GNE,N,100.0,N,GNE
 GNK,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),N,GNK,N,100.0,N,GNK
 GNL,"Global Net Lease, Inc. Common Stock","Global Net Lease, Inc. Common Stock",N,GNL,N,100.0,N,GNL
@@ -2848,7 +2857,6 @@ GSEW,Goldman Sachs Equal Weight U.S. Large Cap Equity ETF,Goldman Sachs Equal We
 GSG,iShares GSCI Commodity,iShares GSCI Commodity-Indexed Trust Fund,P,GSG,Y,100.0,N,GSG
 GSID,Goldman Sachs MarketBeta International Equity ETF,Goldman Sachs MarketBeta International Equity ETF,Z,GSID,Y,100.0,N,GSID
 GSIE,Goldman Sachs ActiveBeta International Equity ETF,Goldman Sachs ActiveBeta International Equity ETF,P,GSIE,Y,100.0,N,GSIE
-GSIG,Goldman Sachs Access Investment Grade Corporate 1,Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF,P,GSIG,Y,100.0,N,GSIG
 GSJY,Goldman Sachs ActiveBeta Japan Equity ETF,Goldman Sachs ActiveBeta Japan Equity ETF,P,GSJY,Y,100.0,N,GSJY
 GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),GSK plc American Depositary Shares (Each representing two Ordinary Shares),N,GSK,N,100.0,N,GSK
 GSKH,GSK plc ADRhedged,GSK plc ADRhedged,P,GSKH,Y,100.0,N,GSKH
@@ -4158,6 +4166,7 @@ MITT,"TPG Mortgage Investment Trust, Inc. Common Stock","TPG Mortgage Investment
 MITT$A,"TPG Mortgage Investment Trust, Inc. 8.25% Series A Cumulative Redeemable Preferred Stock","TPG Mortgage Investment Trust, Inc. 8.25% Series A Cumulative Redeemable Preferred Stock",N,MITTpA,N,100.0,N,MITT-A
 MITT$B,"TPG Mortgage Investment Trust, Inc. 8.00% Series B Cumulative Redeemable Preferred Stock","TPG Mortgage Investment Trust, Inc. 8.00% Series B Cumulative Redeemable Preferred Stock",N,MITTpB,N,100.0,N,MITT-B
 MITT$C,"TPG Mortgage Investment Trust, Inc. 8.00% Series C Fixed","TPG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",N,MITTpC,N,100.0,N,MITT-C
+MIVL,MFS Active International Value ETF,MFS Active International Value ETF,P,MIVL,Y,100.0,N,MIVL
 MIY,"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock","Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",N,MIY,N,100.0,N,MIY
 MJ,Amplify Alternative Harvest ETF,Amplify Alternative Harvest ETF,P,MJ,Y,100.0,N,MJ
 MJSC,MUFG Japan Small Cap Active ETF,MUFG Japan Small Cap Active ETF,P,MJSC,Y,100.0,N,MJSC
@@ -6042,6 +6051,7 @@ SSG,ProShares UltraShort Semiconductors,ProShares UltraShort Semiconductors,P,SS
 SSK,REX,REX-Osprey SOL + Staking ETF,Z,SSK,Y,100.0,N,SSK
 SSL,Sasol Ltd. American Depositary Shares,Sasol Ltd. American Depositary Shares,N,SSL,N,100.0,N,SSL
 SSMG,Virtus Silvant Small/Mid Growth ETF,Virtus Silvant Small/Mid Growth ETF,P,SSMG,Y,100.0,N,SSMG
+SSMR,Sunshine Silver Mining & Refining Company Common Stock,Sunshine Silver Mining & Refining Company Common Stock,N,SSMR,N,100.0,N,SSMR
 SSO,ProShares Ultra S&P500,ProShares Ultra S&P500,P,SSO,Y,100.0,N,SSO
 SSPY,Stratified LargeCap Index ETF,Stratified LargeCap Index ETF,P,SSPY,Y,100.0,N,SSPY
 SST,"System1, Inc. Class A Common Stock","System1, Inc. Class A Common Stock",N,SST,N,100.0,N,SST
@@ -6687,6 +6697,7 @@ VBND,Vident U.S. Bond Strategy ETF,Vident U.S. Bond Strategy ETF,P,VBND,Y,100.0,
 VBR,Vanguard Small,Vanguard Small-Cap Value ETF,P,VBR,Y,100.0,N,VBR
 VBX,Corgi U.S. Small,Corgi U.S. Small-Cap 2x Daily ETF,Z,VBX,Y,100.0,N,VBX
 VCEB,Vanguard ESG U.S. Corporate Bond ETF,Vanguard ESG U.S. Corporate Bond ETF,Z,VCEB,Y,100.0,N,VCEB
+VCHY,Vanguard U.S. High,Vanguard U.S. High-Yield Corporate Bond Index ETF,Z,VCHY,Y,100.0,N,VCHY
 VCLN,Virtus Duff & Phelps Clean Energy ETF,Virtus Duff & Phelps Clean Energy ETF,P,VCLN,Y,100.0,N,VCLN
 VCOB,Voya Core Bond ETF,Voya Core Bond ETF,P,VCOB,Y,100.0,N,VCOB
 VCR,Vanguard Consumer Discretion ETF,Vanguard Consumer Discretion ETF,P,VCR,Y,40.0,N,VCR
@@ -6708,6 +6719,7 @@ VEGA,AdvisorShares STAR Global Buy,AdvisorShares STAR Global Buy-Write ETF,P,VEG
 VEGI,iShares MSCI Agriculture Producers ETF,iShares MSCI Agriculture Producers ETF,P,VEGI,Y,100.0,N,VEGI
 VEGN,US Vegan Climate ETF,US Vegan Climate ETF,Z,VEGN,Y,100.0,N,VEGN
 VEL,"Velocity Financial, Inc. Common Stock","Velocity Financial, Inc. Common Stock",N,VEL,N,100.0,N,VEL
+VELL,Defiance Daily Target 2X Long VELO ETF,Defiance Daily Target 2X Long VELO ETF,Z,VELL,Y,100.0,N,VELL
 VEM,Virtus Emerging Markets Dividend ETF,Virtus Emerging Markets Dividend ETF,P,VEM,Y,100.0,N,VEM
 VEMY,Virtus Stone Harbor Emerging Markets High Yield Bond ETF,Virtus Stone Harbor Emerging Markets High Yield Bond ETF,P,VEMY,Y,100.0,N,VEMY
 VENU,Venu Holding Corporation Common Stock,Venu Holding Corporation Common Stock,A,VENU,N,100.0,N,VENU
@@ -6998,6 +7010,7 @@ WWW,"Wolverine World Wide, Inc. Common Stock","Wolverine World Wide, Inc. Common
 WX,Corgi All World 2x Daily ETF,Corgi All World 2x Daily ETF,Z,WX,Y,100.0,N,WX
 WXET,Teucrium 2x Daily Wheat ETF,Teucrium 2x Daily Wheat ETF,P,WXET,Y,100.0,N,WXET
 WY,Weyerhaeuser Company Common Stock,Weyerhaeuser Company Common Stock,N,WY,N,100.0,N,WY
+WYFL,Defiance Daily Target 2X Long WYFI ETF,Defiance Daily Target 2X Long WYFI ETF,Z,WYFL,Y,100.0,N,WYFL
 WYY,WidePoint Corporation Common Stock,WidePoint Corporation Common Stock,A,WYY,N,100.0,N,WYY
 WZRD,Opportunistic Trader ETF,Opportunistic Trader ETF,Z,WZRD,Y,100.0,N,WZRD
 XA,Corgi AI Cybersecurity ETF,Corgi AI Cybersecurity ETF,Z,XA,Y,100.0,N,XA
@@ -7183,6 +7196,7 @@ YBIT,YieldMax Bitcoin Option Income Strategy ETF,YieldMax Bitcoin Option Income 
 YBTC,Roundhill Bitcoin Covered Call Strategy ETF,Roundhill Bitcoin Covered Call Strategy ETF,Z,YBTC,Y,100.0,N,YBTC
 YCBD,"cbdMD, Inc. Common Stock","cbdMD, Inc. Common Stock",A,YCBD,N,100.0,N,YCBD
 YCL,ProShares Ultra Yen,ProShares Ultra Yen,P,YCL,Y,100.0,N,YCL
+YCLO,Franklin BSP CLO ETF,Franklin BSP CLO ETF,P,YCLO,Y,100.0,N,YCLO
 YCS,ProShares UltraShort Yen New,ProShares UltraShort Yen New,P,YCS,Y,100.0,N,YCS
 YCY,AA Mission Acquisition Corp. II Class A Ordinary Shares,AA Mission Acquisition Corp. II Class A Ordinary Shares,N,YCY,N,100.0,N,YCY
 YCY.U,"AA Mission Acquisition Corp. II Units, each consisting of one Class A ordinary share and one","AA Mission Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-half of one warrant",N,YCY.U,N,100.0,N,YCY=
