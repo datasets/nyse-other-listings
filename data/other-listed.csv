@@ -2545,6 +2545,7 @@ FTNJ,Franklin New Jersey Municipal Income ETF,Franklin New Jersey Municipal Inco
 FTNY,Franklin New York Municipal Income ETF,Franklin New York Municipal Income ETF,P,FTNY,Y,100.0,N,FTNY
 FTOH,Franklin Ohio Municipal Income ETF,Franklin Ohio Municipal Income ETF,P,FTOH,Y,100.0,N,FTOH
 FTPA,Franklin Pennsylvania Municipal Income ETF,Franklin Pennsylvania Municipal Income ETF,P,FTPA,Y,100.0,N,FTPA
+FTRA.U,"FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one","FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,FTRA.U,N,100.0,N,FTRA=
 FTRB,Federated Hermes Total Return Bond ETF,Federated Hermes Total Return Bond ETF,P,FTRB,Y,100.0,N,FTRB
 FTS,Fortis Inc. Common Shares,Fortis Inc. Common Shares,N,FTS,N,100.0,N,FTS
 FTSD,Franklin Short Duration U.S. Government ETF,Franklin Short Duration U.S. Government ETF,P,FTSD,Y,100.0,N,FTSD
@@ -3313,6 +3314,7 @@ INDO,Indonesia Energy Corporation Limited Ordinary Shares,Indonesia Energy Corpo
 INDS,Pacer Industrial Real Estate ETF,Pacer Industrial Real Estate ETF,P,INDS,Y,100.0,N,INDS
 INDZ,VanEck India Select ETF,VanEck India Select ETF,P,INDZ,Y,100.0,N,INDZ
 INEQ,Columbia International Equity Income ETF,Columbia International Equity Income ETF,P,INEQ,Y,100.0,N,INEQ
+INFH,Defiance Daily Target 2X Long INFQ ETF,Defiance Daily Target 2X Long INFQ ETF,Z,INFH,Y,100.0,N,INFH
 INFL,Horizon Kinetics Inflation Beneficiaries ETF,Horizon Kinetics Inflation Beneficiaries ETF,P,INFL,Y,100.0,N,INFL
 INFO,Harbor PanAgora Dynamic Large Cap Core ETF,Harbor PanAgora Dynamic Large Cap Core ETF,N,INFO,Y,100.0,N,INFO
 INFQ,"Infleqtion, Inc. Common Stock","Infleqtion, Inc. Common Stock",N,INFQ,N,100.0,N,INFQ
@@ -4879,6 +4881,7 @@ PCLO,VIRTUS SEIX AAA Private Credit CLO ETF,VIRTUS SEIX AAA Private Credit CLO E
 PCM,"PCM Fund, Inc. Common Stock","PCM Fund, Inc. Common Stock",N,PCM,N,100.0,N,PCM
 PCN,Pimco Corporate & Income Strategy Fund Common Stock,Pimco Corporate & Income Strategy Fund Common Stock,N,PCN,N,100.0,N,PCN
 PCOR,"Procore Technologies, Inc. Common Stock","Procore Technologies, Inc. Common Stock",N,PCOR,N,100.0,N,PCOR
+PCPP,Porter & Company Porter Portfolio Index ETF,Porter & Company Porter Portfolio Index ETF,Z,PCPP,Y,100.0,N,PCPP
 PCQ,PIMCO California Municipal Income Fund Common Stock,PIMCO California Municipal Income Fund Common Stock,N,PCQ,N,100.0,N,PCQ
 PCR,Simplify VettaFi Private Credit Strategy ETF,Simplify VettaFi Private Credit Strategy ETF,P,PCR,Y,100.0,N,PCR
 PCRB,Putnam ESG Core Bond ETF,Putnam ESG Core Bond ETF,P,PCRB,Y,100.0,N,PCRB
@@ -5566,7 +5569,7 @@ RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed","Reinsurance Group
 RZG,Invesco S&P SmallCap 600 Pure Growth ETF,Invesco S&P SmallCap 600 Pure Growth ETF,P,RZG,Y,100.0,N,RZG
 RZV,Invesco S&P SmallCap 600 Pure Value ETF,Invesco S&P SmallCap 600 Pure Value ETF,P,RZV,Y,100.0,N,RZV
 S,"SentinelOne, Inc. Class A Common Stock","SentinelOne, Inc. Class A Common Stock",N,S,N,100.0,N,S
-SA,"Seabridge Gold, Inc. Ordinary Shares (Canada)","Seabridge Gold, Inc. Ordinary Shares (Canada)",N,SA,N,100.0,N,SA
+SA,"Seabridge Gold, Inc. Common Shares New","Seabridge Gold, Inc. Common Shares New",N,SA,N,100.0,N,SA
 SAA,ProShares Ultra SmallCap600,ProShares Ultra SmallCap600,P,SAA,Y,100.0,N,SAA
 SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,N,SABA,N,100.0,N,SABA
 SAC,Safeguard Acquisition Corp. Class A Ordinary Shares,Safeguard Acquisition Corp. Class A Ordinary Shares,N,SAC,N,100.0,N,SAC
@@ -5847,7 +5850,6 @@ SLYG,State Street SPDR S&P 600 Small Cap Growth ETF,State Street SPDR S&P 600 Sm
 SLYV,State Street SPDR S&P 600 Small Cap Value ETF,State Street SPDR S&P 600 Small Cap Value ETF,P,SLYV,Y,100.0,N,SLYV
 SM,SM Energy Company Common Stock,SM Energy Company Common Stock,N,SM,N,100.0,N,SM
 SMA,"SmartStop Self Storage REIT, Inc. Common Stock","SmartStop Self Storage REIT, Inc. Common Stock",N,SMA,N,100.0,N,SMA
-SMAP,Amplify Small,Amplify Small-Mid Cap Equity ETF,P,SMAP,Y,100.0,N,SMAP
 SMAX,iShares Large Cap Max Buffer Sep ETF,iShares Large Cap Max Buffer Sep ETF,Z,SMAX,Y,100.0,N,SMAX
 SMAY,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - May,Z,SMAY,Y,100.0,N,SMAY
 SMB,VanEck Short Muni ETF,VanEck Short Muni ETF,Z,SMB,Y,100.0,N,SMB
