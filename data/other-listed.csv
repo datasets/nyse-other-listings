@@ -115,6 +115,7 @@ AFGB,"American Financial Group, Inc. 5.875% Subordinated Debentures due 2059","A
 AFGC,"American Financial Group, Inc. 5.125% Subordinated Debentures due 2059","American Financial Group, Inc. 5.125% Subordinated Debentures due 2059",N,AFGC,N,100.0,N,AFGC
 AFGD,"American Financial Group, Inc. 5.625% Subordinated Debentures due 2060","American Financial Group, Inc. 5.625% Subordinated Debentures due 2060",N,AFGD,N,100.0,N,AFGD
 AFGE,"American Financial Group, Inc. 4.500% Subordinated Debentures due 2060","American Financial Group, Inc. 4.500% Subordinated Debentures due 2060",N,AFGE,N,100.0,N,AFGE
+AFGR,First Trust Multi,First Trust Multi-Manager Large Growth ETF,P,AFGR,Y,100.0,N,AFGR
 AFIF,Anfield Universal Fixed Income ETF,Anfield Universal Fixed Income ETF,Z,AFIF,Y,100.0,N,AFIF
 AFIX,Allspring Broad Market Core Bond ETF,Allspring Broad Market Core Bond ETF,P,AFIX,Y,100.0,N,AFIX
 AFK,VanEck Africa Index ETF,VanEck Africa Index ETF,P,AFK,Y,100.0,N,AFK
@@ -485,7 +486,6 @@ AWR,American States Water Company Common Stock,American States Water Company Com
 AWX,Avalon Holdings Corporation Common Stock,Avalon Holdings Corporation Common Stock,A,AWX,N,100.0,N,AWX
 AX,"Axos Financial, Inc. Common Stock","Axos Financial, Inc. Common Stock",N,AX,N,100.0,N,AX
 AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share),AXIA Energia American Depositary Shares (Each representing one Common Share),N,AXIA,N,100.0,N,AXIA
-AXIA$,AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),N,AXIAp,N,100.0,N,AXIA-
 AXIA$C,"AXIA Energia American Depositary Shares, each representing one Preferred Class C Share","AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",N,AXIApC,N,100.0,N,AXIA-C
 AXIL,"AXIL Brands, Inc. Common Stock","AXIL Brands, Inc. Common Stock",A,AXIL,N,100.0,N,AXIL
 AXP,American Express Company Common Stock,American Express Company Common Stock,N,AXP,N,40.0,N,AXP
@@ -1251,7 +1251,6 @@ CMSC,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,CMS Energy
 CMSD,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079,N,CMSD,N,100.0,N,CMSD
 CMT,Core Molding Technologies Inc Common Stock,Core Molding Technologies Inc Common Stock,A,CMT,N,100.0,N,CMT
 CMTG,"Claros Mortgage Trust, Inc. Common Stock","Claros Mortgage Trust, Inc. Common Stock",N,CMTG,N,100.0,N,CMTG
-CMU,MFS Municipal Income Trust Common Stock,MFS Municipal Income Trust Common Stock,N,CMU,N,100.0,N,CMU
 CNA,CNA Financial Corporation Common Stock,CNA Financial Corporation Common Stock,N,CNA,N,100.0,N,CNA
 CNAV,Mohr Company Nav ETF,Mohr Company Nav ETF,Z,CNAV,Y,100.0,N,CNAV
 CNBS,Amplify Seymour Cannabis ETF,Amplify Seymour Cannabis ETF,P,CNBS,Y,100.0,N,CNBS
@@ -1479,8 +1478,6 @@ CWS,AdvisorShares Focused Equity ETF,AdvisorShares Focused Equity ETF,P,CWS,Y,10
 CWT,California Water Service Group Common Stock,California Water Service Group Common Stock,N,CWT,N,100.0,N,CWT
 CWVX,Tradr 2X Long CRWV Daily ETF,Tradr 2X Long CRWV Daily ETF,Z,CWVX,Y,100.0,N,CWVX
 CX,"Cemex, S.A.B. de C.V. Sponsored ADR","Cemex, S.A.B. de C.V. Sponsored ADR",N,CX,N,100.0,N,CX
-CXE,MFS High Income Municipal Trust Common Stock,MFS High Income Municipal Trust Common Stock,N,CXE,N,100.0,N,CXE
-CXH,MFS Investment Grade Municipal Trust Common Stock,MFS Investment Grade Municipal Trust Common Stock,N,CXH,N,100.0,N,CXH
 CXM,"Sprinklr, Inc. Class A Common Stock","Sprinklr, Inc. Class A Common Stock",N,CXM,N,100.0,N,CXM
 CXRN,Teucrium 2x Daily Corn ETF,Teucrium 2x Daily Corn ETF,P,CXRN,Y,100.0,N,CXRN
 CXT,"Crane NXT, Co. Common Stock","Crane NXT, Co. Common Stock",N,CXT,N,100.0,N,CXT
@@ -2476,6 +2473,7 @@ FOUR,"Shift4 Payments, Inc. Class A Common Stock","Shift4 Payments, Inc. Class A
 FOUR$A,"Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock","Shift4 Payments, Inc. 6.00% Series A Mandatory Convertible Preferred Stock",N,FOURpA,N,100.0,N,FOUR-A
 FOWF,Pacer Solactive Whitney Future of Warfare ETF,Pacer Solactive Whitney Future of Warfare ETF,Z,FOWF,Y,100.0,N,FOWF
 FOXY,Simplify Currency Strategy ETF,Simplify Currency Strategy ETF,P,FOXY,Y,100.0,N,FOXY
+FPAA,FPA Global Allocation ETF,FPA Global Allocation ETF,Z,FPAA,Y,100.0,N,FPAA
 FPAG,FPA Global Equity ETF,FPA Global Equity ETF,Z,FPAG,Y,100.0,N,FPAG
 FPAS,FPA Short Duration Government ETF,FPA Short Duration Government ETF,Z,FPAS,Y,100.0,N,FPAS
 FPE,First Trust Preferred Securities and Income ETF ETF,First Trust Preferred Securities and Income ETF ETF,P,FPE,Y,100.0,N,FPE
@@ -3883,7 +3881,7 @@ LGH,HCM Defender 500 Index ETF,HCM Defender 500 Index ETF,P,LGH,Y,100.0,N,LGH
 LGHT,Langar Global HealthTech ETF,Langar Global HealthTech ETF,P,LGHT,Y,100.0,N,LGHT
 LGI,Lazard Global Total Return and Income Fund Common Stock,Lazard Global Total Return and Income Fund Common Stock,N,LGI,N,100.0,N,LGI
 LGL,"LGL Group, Inc. (The) Common Stock","LGL Group, Inc. (The) Common Stock",A,LGL,N,100.0,N,LGL
-LGL.V,"LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued","LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",A,LGLrw,N,100.0,N,LGL^#
+LGL.R,"LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights","LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",A,LGLr,N,100.0,N,LGL^
 LGLV,State Street SPDR US Large Cap Low Volatility Index ETF,State Street SPDR US Large Cap Low Volatility Index ETF,P,LGLV,Y,100.0,N,LGLV
 LGOV,First Trust Long Duration Opportunities ETF,First Trust Long Duration Opportunities ETF,P,LGOV,Y,100.0,N,LGOV
 LGPS,LogProstyle Inc. Common Shares,LogProstyle Inc. Common Shares,A,LGPS,N,100.0,N,LGPS
@@ -4106,7 +4104,7 @@ MFDX,PIMCO RAFI Dynamic Multi,PIMCO RAFI Dynamic Multi-Factor International Equi
 MFEB,Pacer Swan SOS Moderate (February) ETF,Pacer Swan SOS Moderate (February) ETF,Z,MFEB,Y,100.0,N,MFEB
 MFEM,PIMCO RAFI Dynamic Multi,PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF,P,MFEM,Y,100.0,N,MFEM
 MFG,"Mizuho Financial Group, Inc. Sponosred ADR (Japan)","Mizuho Financial Group, Inc. Sponosred ADR (Japan)",N,MFG,N,100.0,N,MFG
-MFM,MFS Municipal Income Trust Common Stock,MFS Municipal Income Trust Common Stock,N,MFM,N,100.0,N,MFM
+MFM,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest,N,MFM,N,100.0,N,MFM
 MFSB,MFS Active Core Plus Bond ETF,MFS Active Core Plus Bond ETF,N,MFSB,Y,100.0,N,MFSB
 MFSG,MFS Active Growth ETF,MFS Active Growth ETF,N,MFSG,Y,100.0,N,MFSG
 MFSI,MFS Active International ETF,MFS Active International ETF,N,MFSI,Y,100.0,N,MFSI
@@ -4201,7 +4199,6 @@ MMIN,NYLI MacKay Muni Insured ETF,NYLI MacKay Muni Insured ETF,P,MMIN,Y,100.0,N,
 MMIT,NYLI MacKay Muni Intermediate ETF,NYLI MacKay Muni Intermediate ETF,P,MMIT,Y,100.0,N,MMIT
 MMK,State Street Prime Money Market ETF,State Street Prime Money Market ETF,N,MMK,Y,100.0,N,MMK
 MMKT,Texas Capital Government Money Market ETF,Texas Capital Government Money Market ETF,N,MMKT,Y,100.0,N,MMKT
-MMLG,First Trust Multi,First Trust Multi-Manager Large Growth ETF,P,MMLG,Y,100.0,N,MMLG
 MMM,3M Company Common Stock,3M Company Common Stock,N,MMM,N,100.0,N,MMM
 MMMA,NYLI MacKay Muni Allocation ETF,NYLI MacKay Muni Allocation ETF,P,MMMA,Y,100.0,N,MMMA
 MMS,"Maximus, Inc. Common Stock","Maximus, Inc. Common Stock",N,MMS,N,100.0,N,MMS
@@ -5845,6 +5842,7 @@ SLV,iShares Silver Trust,iShares Silver Trust,P,SLV,Y,100.0,N,SLV
 SLVM,Sylvamo Corporation Common Stock,Sylvamo Corporation Common Stock,N,SLVM,N,100.0,N,SLVM
 SLVP,iShares MSCI Global Silver and Metals Miners ETF,iShares MSCI Global Silver and Metals Miners ETF,Z,SLVP,Y,100.0,N,SLVP
 SLVX,Nicholas Silver Income ETF,Nicholas Silver Income ETF,P,SLVX,Y,100.0,N,SLVX
+SLWS,Wisdom Short Duration Income ETF,Wisdom Short Duration Income ETF,P,SLWS,Y,100.0,N,SLWS
 SLX,VanEck Steel ETF,VanEck Steel ETF,P,SLX,Y,100.0,N,SLX
 SLYG,State Street SPDR S&P 600 Small Cap Growth ETF,State Street SPDR S&P 600 Small Cap Growth ETF,P,SLYG,Y,100.0,N,SLYG
 SLYV,State Street SPDR S&P 600 Small Cap Value ETF,State Street SPDR S&P 600 Small Cap Value ETF,P,SLYV,Y,100.0,N,SLYV
@@ -6086,7 +6084,6 @@ STOT,State Street DoubleLine Short Duration Total Return Tactical ETF,State Stre
 STOX,Horizon Core Equity ETF,Horizon Core Equity ETF,Z,STOX,Y,100.0,N,STOX
 STPZ,PIMCO 1,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,P,STPZ,Y,100.0,N,STPZ
 STRN,SMART Trend 25 ETF,SMART Trend 25 ETF,P,STRN,Y,100.0,N,STRN
-STRV,Strive 500 ETF,Strive 500 ETF,N,STRV,Y,100.0,N,STRV
 STRW,"Strawberry Fields REIT, Inc. Common Stock","Strawberry Fields REIT, Inc. Common Stock",A,STRW,N,100.0,N,STRW
 STSM,Defiance Daily Target 2X Short TSM ETF,Defiance Daily Target 2X Short TSM ETF,P,STSM,Y,100.0,N,STSM
 STT,State Street Corporation Common Stock,State Street Corporation Common Stock,N,STT,N,100.0,N,STT
@@ -6096,6 +6093,7 @@ STVN,Stevanato Group S.p.A. Ordinary Shares,Stevanato Group S.p.A. Ordinary Shar
 STWD,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.","STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc.",N,STWD,N,100.0,N,STWD
 STXD,Strive 1000 Dividend Growth ETF,Strive 1000 Dividend Growth ETF,N,STXD,Y,100.0,N,STXD
 STXE,Strive Emerging Markets Ex,Strive Emerging Markets Ex-China ETF,N,STXE,Y,100.0,N,STXE
+STXF,Strive 500 ETF,Strive 500 ETF,N,STXF,Y,100.0,N,STXF
 STXG,Strive 1000 Growth ETF,Strive 1000 Growth ETF,N,STXG,Y,100.0,N,STXG
 STXK,Strive Small,Strive Small-Cap ETF,N,STXK,Y,100.0,N,STXK
 STXL,Defiance Daily Target 2x Long STX ETF,Defiance Daily Target 2x Long STX ETF,Z,STXL,Y,100.0,N,STXL
@@ -6942,7 +6940,6 @@ WHR$A,"Whirlpool Corporation Depositary Shares, each representing a 1/20th inter
 WIA,Western Asset Inflation,Western Asset Inflation-Linked Income Fund,N,WIA,N,100.0,N,WIA
 WINN,Harbor Long,Harbor Long-Term Growers ETF,N,WINN,Y,100.0,N,WINN
 WIP,State Street SPDR FTSE International Government Inflation,State Street SPDR FTSE International Government Inflation-Protected Bond ETF,P,WIP,Y,100.0,N,WIP
-WISD,Wisdom Short Duration Income ETF,Wisdom Short Duration Income ETF,P,WISD,Y,100.0,N,WISD
 WIT,Wipro Limited Common Stock,Wipro Limited Common Stock,N,WIT,N,100.0,N,WIT
 WIW,Western Asset Inflation,Western Asset Inflation-Linked Opportunities & Income Fund,N,WIW,N,100.0,N,WIW
 WK,Workiva Inc. Class A Common Stock,Workiva Inc. Class A Common Stock,N,WK,N,100.0,N,WK
