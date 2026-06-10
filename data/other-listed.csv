@@ -2264,7 +2264,7 @@ FDM,First Trust DJ Select MicroCap ETF,First Trust DJ Select MicroCap ETF,P,FDM,
 FDMO,Fidelity Momentum Factor ETF,Fidelity Momentum Factor ETF,P,FDMO,Y,100.0,N,FDMO
 FDN,First Trust DJ Internet Index Fund,First Trust DJ Internet Index Fund,P,FDN,Y,100.0,N,FDN
 FDND,FT Vest Dow Jones Internet & Target Income ETF,FT Vest Dow Jones Internet & Target Income ETF,Z,FDND,Y,100.0,N,FDND
-FDP,"Fresh Del Monte Produce, Inc. Common Stock","Fresh Del Monte Produce, Inc. Common Stock",N,FDP,N,100.0,N,FDP
+FDP,Del Monte Corporation Ordinary Shares,Del Monte Corporation Ordinary Shares,N,FDP,N,100.0,N,FDP
 FDRR,Fidelity Dividend ETF for Rising Rates,Fidelity Dividend ETF for Rising Rates,P,FDRR,Y,100.0,N,FDRR
 FDRV,Fidelity Electric Vehicles and Future Transportation ETF,Fidelity Electric Vehicles and Future Transportation ETF,Z,FDRV,Y,100.0,N,FDRV
 FDS,FactSet Research Systems Inc. Common Stock,FactSet Research Systems Inc. Common Stock,N,FDS,N,100.0,N,FDS
@@ -4339,6 +4339,7 @@ MUSI,American Century Multisector Income ETF,American Century Multisector Income
 MUSQ,MUSQ Global Music Industry Index ETF,MUSQ Global Music Industry Index ETF,P,MUSQ,Y,100.0,N,MUSQ
 MUST,Columbia Multi,Columbia Multi-Sector Municipal Income ETF,P,MUST,Y,100.0,N,MUST
 MUX,McEwen Inc. Common Stock,McEwen Inc. Common Stock,N,MUX,N,100.0,N,MUX
+MUZ,Defiance Daily Target 2X Short MU ETF,Defiance Daily Target 2X Short MU ETF,P,MUZ,Y,100.0,N,MUZ
 MVAL,VanEck Morningstar Wide Moat Value ETF,VanEck Morningstar Wide Moat Value ETF,Z,MVAL,Y,100.0,N,MVAL
 MVFD,Monarch Volume Factor Dividend Tree Index ETF,Monarch Volume Factor Dividend Tree Index ETF,Z,MVFD,Y,100.0,N,MVFD
 MVFG,Monarch Volume Factor Global Unconstrained Index ETF,Monarch Volume Factor Global Unconstrained Index ETF,Z,MVFG,Y,100.0,N,MVFG
@@ -4662,6 +4663,7 @@ OBK,"Origin Bancorp, Inc. Common Stock","Origin Bancorp, Inc. Common Stock",N,OB
 OBND,State Street Loomis Sayles Opportunistic Bond ETF,State Street Loomis Sayles Opportunistic Bond ETF,Z,OBND,Y,100.0,N,OBND
 OBOR,KraneShares MSCI One Belt One Road Index ETF,KraneShares MSCI One Belt One Road Index ETF,P,OBOR,Y,100.0,N,OBOR
 OC,Owens Corning Inc Common Stock New,Owens Corning Inc Common Stock New,N,OC,N,100.0,N,OC
+OCAC.U,"Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right","Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",N,OCAC.U,N,100.0,N,OCAC=
 OCDB,Aptus October Deep Buffer ETF,Aptus October Deep Buffer ETF,Z,OCDB,Y,100.0,N,OCDB
 OCIO,ClearShares OCIO ETF,ClearShares OCIO ETF,P,OCIO,Y,100.0,N,OCIO
 OCTB,Aptus October Buffer ETF,Aptus October Buffer ETF,Z,OCTB,Y,100.0,N,OCTB
@@ -5281,6 +5283,7 @@ QTJA,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ET
 QTJL,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - July,Z,QTJL,Y,100.0,N,QTJL
 QTOC,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ETF - October,Z,QTOC,Y,100.0,N,QTOC
 QTPI,North Square RCIM Tax,North Square RCIM Tax-Advantaged Preferred and Income Securities ETF,P,QTPI,Y,100.0,N,QTPI
+QTUP,Defiance Long Pure Quantum ETF,Defiance Long Pure Quantum ETF,Z,QTUP,Y,100.0,N,QTUP
 QTWO,"Q2 Holdings, Inc. Common Stock","Q2 Holdings, Inc. Common Stock",N,QTWO,N,100.0,N,QTWO
 QUAD,"Quad Graphics, Inc Class A Common Stock","Quad Graphics, Inc Class A Common Stock",N,QUAD,N,100.0,N,QUAD
 QUAL,iShares MSCI USA Quality Factor ETF,iShares MSCI USA Quality Factor ETF,Z,QUAL,Y,100.0,N,QUAL
@@ -6935,6 +6938,7 @@ WGO,"Winnebago Industries, Inc. Common Stock","Winnebago Industries, Inc. Common
 WH,"Wyndham Hotels & Resorts, Inc. Common Stock ","Wyndham Hotels & Resorts, Inc. Common Stock ",N,WH,N,100.0,N,WH
 WHD,"Cactus, Inc. Class A Common Stock","Cactus, Inc. Class A Common Stock",N,WHD,N,100.0,N,WHD
 WHG,Westwood Holdings Group Inc Common Stock,Westwood Holdings Group Inc Common Stock,N,WHG,N,100.0,N,WHG
+WHK,WhiteHawk Minerals Corp Class A Common Stock,WhiteHawk Minerals Corp Class A Common Stock,N,WHK,N,100.0,N,WHK
 WHR,Whirlpool Corporation Common Stock,Whirlpool Corporation Common Stock,N,WHR,N,100.0,N,WHR
 WHR$A,"Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock","Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock",N,WHRpA,N,100.0,N,WHR-A
 WIA,Western Asset Inflation,Western Asset Inflation-Linked Income Fund,N,WIA,N,100.0,N,WIA
@@ -7051,7 +7055,7 @@ XFIV,BondBloxx Bloomberg Five Year Target Duration US Treasury ETF,BondBloxx Blo
 XFLH,XFLH Capital Corporation Ordinary Shares,XFLH Capital Corporation Ordinary Shares,N,XFLH,N,100.0,N,XFLH
 XFLH.R,XFLH Capital Corporation Rights to receive one,XFLH Capital Corporation Rights to receive one-seventh (1/7) of one Ordinary Share,N,XFLHr,N,100.0,N,XFLH^
 XFLH.U,"XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right","XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",N,XFLH.U,N,100.0,N,XFLH=
-XFLT,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,N,XFLT,N,100.0,N,XFLT
+XFLT,XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,N,XFLT,N,100.0,N,XFLT
 XFLX,FundX Flexible ETF,FundX Flexible ETF,P,XFLX,Y,100.0,N,XFLX
 XHB,State Street SPDR S&P Homebuilders ETF,State Street SPDR S&P Homebuilders ETF,P,XHB,Y,100.0,N,XHB
 XHE,State Street SPDR S&P Health Care Equipment ETF,State Street SPDR S&P Health Care Equipment ETF,P,XHE,Y,100.0,N,XHE
