@@ -1291,7 +1291,6 @@ COHN,Cohen & Company Inc.,Cohen & Company Inc.,A,COHN,N,100.0,N,COHN
 COHR,Coherent Corp. Common Stock,Coherent Corp. Common Stock,N,COHR,N,40.0,N,COHR
 COHX,Tradr 2X Long COHR Daily ETF,Tradr 2X Long COHR Daily ETF,Z,COHX,Y,100.0,N,COHX
 COIA,ProShares Ultra COIN,ProShares Ultra COIN,P,COIA,Y,100.0,N,COIA
-COII,REX COIN Growth & Income ETF,REX COIN Growth & Income ETF,Z,COII,Y,100.0,N,COII
 COIO,Leverage Shares 2x Capped Accelerated COIN Monthly ETF,Leverage Shares 2x Capped Accelerated COIN Monthly ETF,Z,COIO,Y,100.0,N,COIO
 COIW,Roundhill COIN WeeklyPay ETF,Roundhill COIN WeeklyPay ETF,Z,COIW,Y,100.0,N,COIW
 COLD,"Americold Realty Trust, Inc. Common Stock","Americold Realty Trust, Inc. Common Stock",N,COLD,N,100.0,N,COLD
@@ -1472,7 +1471,6 @@ CWEB,Direxion Daily CSI China Internet Index Bull 2X ETF,Direxion Daily CSI Chin
 CWEN,"Clearway Energy, Inc. Class C Common Stock","Clearway Energy, Inc. Class C Common Stock",N,CWEN,N,100.0,N,CWEN
 CWH,"Camping World Holdings, Inc. Class A Common Stock","Camping World Holdings, Inc. Class A Common Stock",N,CWH,N,100.0,N,CWH
 CWI,State Street SPDR MSCI ACWI ex,State Street SPDR MSCI ACWI ex-US ETF,P,CWI,Y,100.0,N,CWI
-CWII,REX CRWV Growth & Income ETF,REX CRWV Growth & Income ETF,Z,CWII,Y,100.0,N,CWII
 CWK,Cushman & Wakefield Ltd. Common Shares,Cushman & Wakefield Ltd. Common Shares,N,CWK,N,100.0,N,CWK
 CWS,AdvisorShares Focused Equity ETF,AdvisorShares Focused Equity ETF,P,CWS,Y,100.0,N,CWS
 CWT,California Water Service Group Common Stock,California Water Service Group Common Stock,N,CWT,N,100.0,N,CWT
@@ -2065,6 +2063,7 @@ EQX,Equinox Gold Corp. Common Shares,Equinox Gold Corp. Common Shares,A,EQX,N,10
 ERC,Allspring Multi,Allspring Multi-Sector Income Fund Common Stock,A,ERC,N,100.0,N,ERC
 ERH,Allspring Utilities and High Income Fund Common Shares,Allspring Utilities and High Income Fund Common Shares,A,ERH,N,100.0,N,ERH
 ERO,Ero Copper Corp. Common Shares,Ero Copper Corp. Common Shares,N,ERO,N,100.0,N,ERO
+EROC,"ERock, Inc. Class A Common Stock","ERock, Inc. Class A Common Stock",N,EROC,N,100.0,N,EROC
 EROK,"EagleRock Land, LLC Class A shares representing limited liability company interests","EagleRock Land, LLC Class A shares representing limited liability company interests",N,EROK,N,100.0,N,EROK
 ERTH,Invesco MSCI Sustainable Future ETF,Invesco MSCI Sustainable Future ETF,P,ERTH,Y,100.0,N,ERTH
 ERX,Direxion Energy Bull 2X ETF,Direxion Energy Bull 2X ETF,P,ERX,Y,100.0,N,ERX
@@ -2696,7 +2695,6 @@ GHYG,iShares US & Intl High Yield Corp Bond ETF,iShares US & Intl High Yield Cor
 GIAX,Nicholas Global Equity and Income ETF,Nicholas Global Equity and Income ETF,P,GIAX,Y,100.0,N,GIAX
 GIB,CGI Inc. Common Stock,CGI Inc. Common Stock,N,GIB,N,100.0,N,GIB
 GIC,Global Industrial Company Common Stock,Global Industrial Company Common Stock,N,GIC,N,100.0,N,GIC
-GIF,REX Growth & Income Universe ETF,REX Growth & Income Universe ETF,Z,GIF,Y,100.0,N,GIF
 GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,Goldman Sachs Access Investment Grade Corporate Bond ETF,P,GIGB,Y,100.0,N,GIGB
 GIGL,Goldman Sachs Corporate Bond ETF,Goldman Sachs Corporate Bond ETF,P,GIGL,Y,100.0,N,GIGL
 GII,State Street SPDR S&P Global Infrastructure ETF,State Street SPDR S&P Global Infrastructure ETF,P,GII,Y,100.0,N,GII
@@ -3028,7 +3026,6 @@ HNGE,"Hinge Health, Inc. Class A Common Stock","Hinge Health, Inc. Class A Commo
 HNI,HNI Corporation Common Stock,HNI Corporation Common Stock,N,HNI,N,100.0,N,HNI
 HODL,VanEck Bitcoin Trust ,VanEck Bitcoin Trust ,Z,HODL,Y,100.0,N,HODL
 HOG,Harley,"Harley-Davidson, Inc. Common Stock",N,HOG,N,100.0,N,HOG
-HOII,REX HOOD Growth & Income ETF,REX HOOD Growth & Income ETF,Z,HOII,Y,100.0,N,HOII
 HOLA,JPMorgan International Hedged Equity Laddered Overlay ETF,JPMorgan International Hedged Equity Laddered Overlay ETF,P,HOLA,Y,100.0,N,HOLA
 HOLD,Harbor Alpha Layering ETF,Harbor Alpha Layering ETF,P,HOLD,Y,100.0,N,HOLD
 HOMB,"Home BancShares, Inc. Common Stock","Home BancShares, Inc. Common Stock",N,HOMB,N,100.0,N,HOMB
@@ -3855,9 +3852,6 @@ LEG,"Leggett & Platt, Incorporated Common Stock","Leggett & Platt, Incorporated 
 LEGO,Legato Merger Corp. IV Ordinary Shares,Legato Merger Corp. IV Ordinary Shares,A,LEGO,N,100.0,N,LEGO
 LEGO.U,"Legato Merger Corp. IV Units, each consisting of one ordinary share and one","Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",A,LEGO.U,N,100.0,N,LEGO=
 LEGO.W,"Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share","Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share",A,LEGO.WS,N,100.0,N,LEGO+
-LEGT,Legato Merger Corp. III Ordinary Shares,Legato Merger Corp. III Ordinary Shares,A,LEGT,N,100.0,N,LEGT
-LEGT.U,"Legato Merger Corp. III Units, each consisting of one Ordinary Share and one","Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",A,LEGT.U,N,100.0,N,LEGT=
-LEGT.W,"Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share","Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",A,LEGT.WS,N,100.0,N,LEGT+
 LEMB,iShares J.P. Morgan EM Local Currency Bond,iShares J.P. Morgan EM Local Currency Bond,P,LEMB,Y,100.0,N,LEMB
 LEN,Lennar Corporation Class A Common Stock,Lennar Corporation Class A Common Stock,N,LEN,N,100.0,N,LEN
 LEN.B,Lennar Corporation Class B,Lennar Corporation Class B,N,LEN.B,N,100.0,N,LEN.B
@@ -3905,7 +3899,6 @@ LJAN,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer 
 LJUL,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - July,Z,LJUL,Y,100.0,N,LJUL
 LKOR,FlexShares Credit,FlexShares Credit-Scored US Long Corporate Bond Index Fund,Z,LKOR,Y,100.0,N,LKOR
 LLDR,Global X Long,Global X Long-Term Treasury Ladder ETF,P,LLDR,Y,100.0,N,LLDR
-LLII,REX LLY Growth & Income ETF,REX LLY Growth & Income ETF,Z,LLII,Y,100.0,N,LLII
 LLY,Eli Lilly and Company Common Stock,Eli Lilly and Company Common Stock,N,LLY,N,40.0,N,LLY
 LLYX,Defiance Daily Target 2X Long LLY ETF,Defiance Daily Target 2X Long LLY ETF,P,LLYX,Y,100.0,N,LLYX
 LMND,"Lemonade, Inc. Common Stock","Lemonade, Inc. Common Stock",N,LMND,N,100.0,N,LMND
@@ -4275,7 +4268,6 @@ MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,Madison Squa
 MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),Madison Square Garden Sports Corp. Class A Common Stock (New),N,MSGS,N,40.0,N,MSGS
 MSI,"Motorola Solutions, Inc. Common Stock","Motorola Solutions, Inc. Common Stock",N,MSI,N,40.0,N,MSI
 MSIF,"MSC Income Fund, Inc. Common Stock","MSC Income Fund, Inc. Common Stock",N,MSIF,N,100.0,N,MSIF
-MSII,REX MSTR Growth & Income ETF,REX MSTR Growth & Income ETF,Z,MSII,Y,100.0,N,MSII
 MSLC,Morgan Stanley Pathway Large Cap Equity ETF,Morgan Stanley Pathway Large Cap Equity ETF,P,MSLC,Y,100.0,N,MSLC
 MSM,"MSC Industrial Direct Company, Inc. Common Stock","MSC Industrial Direct Company, Inc. Common Stock",N,MSM,N,100.0,N,MSM
 MSMR,McElhenny Sheffield Managed Risk ETF,McElhenny Sheffield Managed Risk ETF,Z,MSMR,Y,100.0,N,MSMR
@@ -4883,7 +4875,6 @@ PCOR,"Procore Technologies, Inc. Common Stock","Procore Technologies, Inc. Commo
 PCPP,Porter & Company Porter Portfolio Index ETF,Porter & Company Porter Portfolio Index ETF,Z,PCPP,Y,100.0,N,PCPP
 PCQ,PIMCO California Municipal Income Fund Common Stock,PIMCO California Municipal Income Fund Common Stock,N,PCQ,N,100.0,N,PCQ
 PCR,Simplify VettaFi Private Credit Strategy ETF,Simplify VettaFi Private Credit Strategy ETF,P,PCR,Y,100.0,N,PCR
-PCRB,Putnam ESG Core Bond ETF,Putnam ESG Core Bond ETF,P,PCRB,Y,100.0,N,PCRB
 PCS,PGIM Corporate Bond 0,PGIM Corporate Bond 0-5 Year ETF,Z,PCS,Y,100.0,N,PCS
 PCSG,Polen 5Perspectives Small,Polen 5Perspectives Small-Mid Growth ETF,P,PCSG,Y,100.0,N,PCSG
 PCY,Invesco Emerging Markets Sovereign Debt ETF,Invesco Emerging Markets Sovereign Debt ETF,P,PCY,Y,100.0,N,PCY
@@ -4936,7 +4927,6 @@ PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,Flahe
 PFRL,PGIM Floating Rate Income ETF,PGIM Floating Rate Income ETF,P,PFRL,Y,100.0,N,PFRL
 PFS,"Provident Financial Services, Inc Common Stock","Provident Financial Services, Inc Common Stock",N,PFS,N,100.0,N,PFS
 PFSI,"PennyMac Financial Services, Inc. Common Stock","PennyMac Financial Services, Inc. Common Stock",N,PFSI,N,100.0,N,PFSI
-PFUT,Putnam Sustainable Future ETF,Putnam Sustainable Future ETF,P,PFUT,Y,100.0,N,PFUT
 PFXF,VanEck Preferred Securities ex Financials ETF,VanEck Preferred Securities ex Financials ETF,P,PFXF,Y,100.0,N,PFXF
 PG,Procter & Gamble Company (The) Common Stock,Procter & Gamble Company (The) Common Stock,N,PG,N,100.0,N,PG
 PGF,Invesco Financial Preferred ETF,Invesco Financial Preferred ETF,P,PGF,Y,100.0,N,PGF
@@ -4958,7 +4948,6 @@ PHK,Pimco High Income Fund,Pimco High Income Fund,N,PHK,N,100.0,N,PHK
 PHM,"PulteGroup, Inc. Common Stock","PulteGroup, Inc. Common Stock",N,PHM,N,100.0,N,PHM
 PHR,"Phreesia, Inc. Common Stock","Phreesia, Inc. Common Stock",N,PHR,N,100.0,N,PHR
 PHXE$,"Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares","Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",A,PHXEp,N,100.0,N,PHXE-
-PHYD,Putnam ESG High Yield ETF,Putnam ESG High Yield ETF,P,PHYD,Y,100.0,N,PHYD
 PHYL,PGIM Active High Yield Bond ETF,PGIM Active High Yield Bond ETF,P,PHYL,Y,100.0,N,PHYL
 PHYS,Sprott Physical Gold Trust ETV,Sprott Physical Gold Trust ETV,P,PHYS,Y,100.0,N,PHYS
 PICB,Invesco International Corporate Bond ETF,Invesco International Corporate Bond ETF,P,PICB,Y,100.0,N,PICB
@@ -4995,7 +4984,6 @@ PKX,POSCO HOLDINGS INC. American Depositary Shares (Each representing 1/4th of a
 PL,Planet Labs PBC Class A Common Stock,Planet Labs PBC Class A Common Stock,N,PL,N,100.0,N,PL
 PLAG,Planet Green Holdings Corp. Common Stock,Planet Green Holdings Corp. Common Stock,A,PLAG,N,100.0,N,PLAG
 PLD,"Prologis, Inc. Common Stock","Prologis, Inc. Common Stock",N,PLD,N,100.0,N,PLD
-PLDR,Putnam Sustainable Leaders ETF,Putnam Sustainable Leaders ETF,P,PLDR,Y,100.0,N,PLDR
 PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),Platinum Group Metals Ltd. Ordinary Shares (Canada),A,PLG,N,100.0,N,PLG
 PLGI,PL Growth and Income ETF,PL Growth and Income ETF,Z,PLGI,Y,100.0,N,PLGI
 PLGO,Pelagos Insurance Capital Limited Common Shares,Pelagos Insurance Capital Limited Common Shares,N,PLGO,N,100.0,N,PLGO
@@ -5003,7 +4991,6 @@ PLNT,"Planet Fitness, Inc. Common Stock","Planet Fitness, Inc. Common Stock",N,P
 PLOO,Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Z,PLOO,Y,100.0,N,PLOO
 PLOW,"Douglas Dynamics, Inc. Common Stock","Douglas Dynamics, Inc. Common Stock",N,PLOW,N,100.0,N,PLOW
 PLTA,ProShares Ultra PLTR,ProShares Ultra PLTR,P,PLTA,Y,100.0,N,PLTA
-PLTI,REX PLTR Growth & Income ETF,REX PLTR Growth & Income ETF,Z,PLTI,Y,100.0,N,PLTI
 PLTM,GraniteShares Platinum Shares ETF,GraniteShares Platinum Shares ETF,P,PLTM,Y,100.0,N,PLTM
 PLTW,Roundhill PLTR WeeklyPay ETF,Roundhill PLTR WeeklyPay ETF,Z,PLTW,Y,100.0,N,PLTW
 PLTY,YieldMax PLTR Option Income Strategy ETF,YieldMax PLTR Option Income Strategy ETF,P,PLTY,Y,100.0,N,PLTY
@@ -5059,9 +5046,7 @@ POW,VistaShares Electrification Supercycle ETF,VistaShares Electrification Super
 POWA,Invesco Bloomberg Pricing Power ETF,Invesco Bloomberg Pricing Power ETF,P,POWA,Y,100.0,N,POWA
 POWR,iShares U.S. Power Infrastructure ETF,iShares U.S. Power Infrastructure ETF,P,POWR,Y,100.0,N,POWR
 PPA,Invesco Aerospace & Defense ETF,Invesco Aerospace & Defense ETF,P,PPA,Y,100.0,N,PPA
-PPEM,Putnam PanAgora ESG Emerging Markets Equity ETF,Putnam PanAgora ESG Emerging Markets Equity ETF,P,PPEM,Y,100.0,N,PPEM
 PPG,"PPG Industries, Inc. Common Stock","PPG Industries, Inc. Common Stock",N,PPG,N,100.0,N,PPG
-PPIE,Putnam PanAgora ESG International Equity ETF,Putnam PanAgora ESG International Equity ETF,P,PPIE,Y,100.0,N,PPIE
 PPL,PPL Corporation Common Stock,PPL Corporation Common Stock,N,PPL,N,100.0,N,PPL
 PPLC,PPL Corporation Corporate Units,PPL Corporation Corporate Units,N,PPLC,N,100.0,N,PPLC
 PPLT,abrdn Physical Platinum Shares ETF,abrdn Physical Platinum Shares ETF,P,PPLT,Y,100.0,N,PPLT
@@ -5172,7 +5157,6 @@ PTRB,PGIM Total Return Bond ETF,PGIM Total Return Bond ETF,P,PTRB,Y,100.0,N,PTRB
 PTY,Pimco Corporate & Income Opportunity Fund,Pimco Corporate & Income Opportunity Fund,N,PTY,N,100.0,N,PTY
 PUK,Prudential Public Limited Company Common Stock,Prudential Public Limited Company Common Stock,N,PUK,N,100.0,N,PUK
 PULS,PGIM Ultra Short Bond ETF,PGIM Ultra Short Bond ETF,P,PULS,Y,100.0,N,PULS
-PULT,Putnam ESG Ultra Short ETF,Putnam ESG Ultra Short ETF,P,PULT,Y,100.0,N,PULT
 PUMP,ProPetro Holding Corp. Common Stock,ProPetro Holding Corp. Common Stock,N,PUMP,N,100.0,N,PUMP
 PUSH,PGIM Ultra Short Municipal Bond ETF,PGIM Ultra Short Municipal Bond ETF,P,PUSH,Y,100.0,N,PUSH
 PVAL,Putnam Focused Large Cap Value ETF,Putnam Focused Large Cap Value ETF,P,PVAL,Y,100.0,N,PVAL
@@ -6409,6 +6393,7 @@ TRFK,Pacer Data and Digital Revolution ETF,Pacer Data and Digital Revolution ETF
 TRFM,AAM Transformers ETF,AAM Transformers ETF,P,TRFM,Y,100.0,N,TRFM
 TRGP,"Targa Resources, Inc. Common Stock","Targa Resources, Inc. Common Stock",N,TRGP,N,100.0,N,TRGP
 TRIO,MC Trio Equity Buffered ETF,MC Trio Equity Buffered ETF,Z,TRIO,Y,100.0,N,TRIO
+TRLV,Trulieve Cannabis Corp. Subordinate Voting Shares,Trulieve Cannabis Corp. Subordinate Voting Shares,N,TRLV,N,100.0,N,TRLV
 TRN,"Trinity Industries, Inc. Common Stock","Trinity Industries, Inc. Common Stock",N,TRN,N,100.0,N,TRN
 TRND,Pacer Trendpilot Fund of Funds ETF,Pacer Trendpilot Fund of Funds ETF,P,TRND,Y,100.0,N,TRND
 TRNO,Terreno Realty Corporation Common Stock,Terreno Realty Corporation Common Stock,N,TRNO,N,100.0,N,TRNO
