@@ -2625,6 +2625,7 @@ GCDT,Green Circle Decarbonize Technology Limited Ordinary Shares,Green Circle De
 GCO,Genesco Inc. Common Stock,Genesco Inc. Common Stock,N,GCO,N,100.0,N,GCO
 GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,Goldman Sachs Access U.S. Aggregate Bond ETF,P,GCOR,Y,100.0,N,GCOR
 GCOW,Pacer Global Cash Cows Dividend ETF,Pacer Global Cash Cows Dividend ETF,Z,GCOW,Y,100.0,N,GCOW
+GCSH,Guggenheim Ultra Short Income ETF,Guggenheim Ultra Short Income ETF,P,GCSH,Y,100.0,N,GCSH
 GCTS,"GCT Semiconductor Holding, Inc. Common Stock","GCT Semiconductor Holding, Inc. Common Stock",N,GCTS,N,100.0,N,GCTS
 GCTS.W,"GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50","GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",N,GCTS.WS,N,100.0,N,GCTS+
 GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock","Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock",N,GCV,N,100.0,N,GCV
@@ -2705,6 +2706,7 @@ GII,State Street SPDR S&P Global Infrastructure ETF,State Street SPDR S&P Global
 GIL,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock","Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",N,GIL,N,100.0,N,GIL
 GINN,Goldman Sachs Innovate Equity ETF,Goldman Sachs Innovate Equity ETF,P,GINN,Y,100.0,N,GINN
 GIS,"General Mills, Inc. Common Stock","General Mills, Inc. Common Stock",N,GIS,N,100.0,N,GIS
+GISC,Guggenheim Securitized Income ETF,Guggenheim Securitized Income ETF,P,GISC,Y,100.0,N,GISC
 GJAN,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - January,Z,GJAN,Y,100.0,N,GJAN
 GJH,Synthetic Fixed,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,N,GJH,N,100.0,N,GJH
 GJO,Synthetic Fixed,"Synthetic Fixed-Income Securities, Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores, Inc. Securities, Series 2004-5",N,GJO,N,100.0,N,GJO
@@ -3053,6 +3055,7 @@ HR,Healthcare Realty Trust Incorporated Common Stock,Healthcare Realty Trust Inc
 HRB,"H&R Block, Inc. Common Stock","H&R Block, Inc. Common Stock",N,HRB,N,100.0,N,HRB
 HRI,Herc Holdings Inc. Common Stock ,Herc Holdings Inc. Common Stock ,N,HRI,N,100.0,N,HRI
 HRL,Hormel Foods Corporation Common Stock,Hormel Foods Corporation Common Stock,N,HRL,N,100.0,N,HRL
+HRSK,Toews Agility Shares Hedged Risk ETF,Toews Agility Shares Hedged Risk ETF,P,HRSK,Y,100.0,N,HRSK
 HRTG,"Heritage Insurance Holdings, Inc. Common Stock","Heritage Insurance Holdings, Inc. Common Stock",N,HRTG,N,100.0,N,HRTG
 HSBC,"HSBC Holdings, plc. Common Stock","HSBC Holdings, plc. Common Stock",N,HSBC,N,100.0,N,HSBC
 HSBH,HSBC Holdings plc ADRhedged,HSBC Holdings plc ADRhedged,P,HSBH,Y,100.0,N,HSBH
@@ -3517,6 +3520,7 @@ JBL,Jabil Inc. Common Stock,Jabil Inc. Common Stock,N,JBL,N,40.0,N,JBL
 JBND,JPMorgan Active Bond ETF,JPMorgan Active Bond ETF,N,JBND,Y,100.0,N,JBND
 JBS,JBS N.V. Class A Common Shares,JBS N.V. Class A Common Shares,N,JBS,N,100.0,N,JBS
 JBTM,JBT Marel Corporation Common Stock,JBT Marel Corporation Common Stock,N,JBTM,N,100.0,N,JBTM
+JCAL,JPMorgan California Tax Free Bond ETF,JPMorgan California Tax Free Bond ETF,P,JCAL,Y,100.0,N,JCAL
 JCE,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest,N,JCE,N,100.0,N,JCE
 JCHI,JPMorgan Active China ETF,JPMorgan Active China ETF,P,JCHI,Y,100.0,N,JCHI
 JCI,Johnson Controls International plc Ordinary Share,Johnson Controls International plc Ordinary Share,N,JCI,N,100.0,N,JCI
@@ -3577,7 +3581,6 @@ JLQD,Janus Henderson Corporate Bond ETF,Janus Henderson Corporate Bond ETF,P,JLQ
 JLS,Nuveen Mortgage and Income Fund,Nuveen Mortgage and Income Fund,N,JLS,N,100.0,N,JLS
 JMBS,Janus Henderson Mortgage,Janus Henderson Mortgage-Backed Securities ETF,P,JMBS,Y,100.0,N,JMBS
 JMEE,JPMorgan Small & Mid Cap Enhanced Equity ETF,JPMorgan Small & Mid Cap Enhanced Equity ETF,P,JMEE,Y,100.0,N,JMEE
-JMG,JM Group Limited Ordinary Shares,JM Group Limited Ordinary Shares,A,JMG,N,100.0,N,JMG
 JMHI,JPMorgan High Yield Municipal ETF,JPMorgan High Yield Municipal ETF,P,JMHI,Y,100.0,N,JMHI
 JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares","Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",N,JMIA,N,100.0,N,JMIA
 JMM,Nuveen Multi,Nuveen Multi-Market Income Fund (MA),N,JMM,N,100.0,N,JMM
@@ -3632,6 +3635,7 @@ JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,Nuveen R
 JSCP,JPMorgan Short Duration Core Plus ETF,JPMorgan Short Duration Core Plus ETF,P,JSCP,Y,100.0,N,JSCP
 JSI,Janus Henderson Securitized Income ETF,Janus Henderson Securitized Income ETF,P,JSI,Y,100.0,N,JSI
 JSTC,Adasina Social Justice All Cap Global ETF,Adasina Social Justice All Cap Global ETF,P,JSTC,Y,100.0,N,JSTC
+JTNY,JPMorgan New York Tax Free Bond ETF,JPMorgan New York Tax Free Bond ETF,P,JTNY,Y,100.0,N,JTNY
 JUCY,Aptus Enhanced Yield ETF,Aptus Enhanced Yield ETF,Z,JUCY,Y,100.0,N,JUCY
 JUDB,Aptus July Deep Buffer ETF,Aptus July Deep Buffer ETF,Z,JUDB,Y,100.0,N,JUDB
 JUDO,Janus Henderson U.S. Equity Enhanced Income ETF,Janus Henderson U.S. Equity Enhanced Income ETF,Z,JUDO,Y,100.0,N,JUDO
@@ -3921,6 +3925,7 @@ LOCL,Local Bounti Corporation Common Stock,Local Bounti Corporation Common Stock
 LOCT,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - October,Z,LOCT,Y,100.0,N,LOCT
 LODE,Comstock Inc. Common Stock,Comstock Inc. Common Stock,A,LODE,N,100.0,N,LODE
 LODI,AAM SLC Low Duration Income ETF,AAM SLC Low Duration Income ETF,P,LODI,Y,100.0,N,LODI
+LOFF,Direxion Daily SpaceX Bull 2X ETF,Direxion Daily SpaceX Bull 2X ETF,P,LOFF,Y,100.0,N,LOFF
 LOHA,Roundhill HALO ETF,Roundhill HALO ETF,Z,LOHA,Y,100.0,N,LOHA
 LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,N,LOMA,N,100.0,N,LOMA
 LONZ,PIMCO Senior Loan Active Exchange,PIMCO Senior Loan Active Exchange-Traded Fund,P,LONZ,Y,100.0,N,LONZ
@@ -5556,7 +5561,6 @@ RYLD,Global X Russell 2000 Covered Call ETF,Global X Russell 2000 Covered Call E
 RYLG,Global X Russell 2000 Covered Call & Growth ETF,Global X Russell 2000 Covered Call & Growth ETF,P,RYLG,Y,100.0,N,RYLG
 RYN,Rayonier Inc. REIT Common Stock,Rayonier Inc. REIT Common Stock,N,RYN,N,100.0,N,RYN
 RYZ,Ryerson Holding Corporation Common Stock,Ryerson Holding Corporation Common Stock,N,RYZ,N,100.0,N,RYZ
-RZB,"Reinsurance Group of America, Incorporated 5.75% Fixed","Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",N,RZB,N,100.0,N,RZB
 RZC,"Reinsurance Group of America, Incorporated 7.125% Fixed","Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",N,RZC,N,100.0,N,RZC
 RZG,Invesco S&P SmallCap 600 Pure Growth ETF,Invesco S&P SmallCap 600 Pure Growth ETF,P,RZG,Y,100.0,N,RZG
 RZV,Invesco S&P SmallCap 600 Pure Value ETF,Invesco S&P SmallCap 600 Pure Value ETF,P,RZV,Y,100.0,N,RZV
@@ -5891,6 +5895,7 @@ SNDG,Leverage Shares 2X Long SNDK Daily ETF,Leverage Shares 2X Long SNDK Daily E
 SNDQ,Tradr 2X Short SNDK Daily ETF,Tradr 2X Short SNDK Daily ETF,Z,SNDQ,Y,100.0,N,SNDQ
 SNDR,"Schneider National, Inc. Common Stock","Schneider National, Inc. Common Stock",N,SNDR,N,100.0,N,SNDR
 SNDU,T,T-REX 2X Long SNDK Daily Target ETF,Z,SNDU,Y,100.0,N,SNDU
+SNK,GraniteShares 2x Short SpaceX Daily ETF,GraniteShares 2x Short SpaceX Daily ETF,Z,SNK,Y,100.0,N,SNK
 SNN,"Smith & Nephew SNATS, Inc. Common Stock","Smith & Nephew SNATS, Inc. Common Stock",N,SNN,N,100.0,N,SNN
 SNOU,T,T-REX 2X Long SNOW Daily Target ETF,Z,SNOU,Y,100.0,N,SNOU
 SNOV,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - November,Z,SNOV,Y,100.0,N,SNOV
@@ -5929,14 +5934,22 @@ SOXS,Direxion Daily Semiconductor Bear 3X ETF,Direxion Daily Semiconductor Bear 
 SOXY,YieldMax Target 12 Semiconductor Option Income ETF,YieldMax Target 12 Semiconductor Option Income ETF,P,SOXY,Y,100.0,N,SOXY
 SOYB,Teucrium Soybean Fund ETV,Teucrium Soybean Fund ETV,P,SOYB,Y,100.0,N,SOYB
 SPAB,State Street SPDR Portfolio Aggregate Bond ETF,State Street SPDR Portfolio Aggregate Bond ETF,P,SPAB,Y,100.0,N,SPAB
+SPAL,GraniteShares 2x Long SpaceX Daily ETF,GraniteShares 2x Long SpaceX Daily ETF,Z,SPAL,Y,100.0,N,SPAL
+SPAX,T,T-REX 2X Long SpaceX Daily Target ETF,P,SPAX,Y,100.0,N,SPAX
 SPB,"Spectrum Brands Holdings, Inc. Common Stock","Spectrum Brands Holdings, Inc. Common Stock",N,SPB,N,100.0,N,SPB
 SPBO,State Street SPDR Portfolio Corporate Bond ETF,State Street SPDR Portfolio Corporate Bond ETF,P,SPBO,Y,100.0,N,SPBO
 SPBU,AllianzIM Buffer15 Uncapped Allocation ETF,AllianzIM Buffer15 Uncapped Allocation ETF,Z,SPBU,Y,100.0,N,SPBU
 SPBW,AllianzIM Buffer20 Allocation ETF,AllianzIM Buffer20 Allocation ETF,Z,SPBW,Y,100.0,N,SPBW
 SPBX,AllianzIM 6 Month Buffer10 Allocation ETF,AllianzIM 6 Month Buffer10 Allocation ETF,Z,SPBX,Y,100.0,N,SPBX
 SPCE,"Virgin Galactic Holdings, Inc. Common Stock","Virgin Galactic Holdings, Inc. Common Stock",N,SPCE,N,100.0,N,SPCE
+SPCF,ProShares Ultra SpaceX,ProShares Ultra SpaceX,P,SPCF,Y,100.0,N,SPCF
+SPCG,Tradr 2X Short SpaceX Daily ETF,Tradr 2X Short SpaceX Daily ETF,Z,SPCG,Y,100.0,N,SPCG
+SPCH,Leverage Shares 2X Long SPCX Daily ETF,Leverage Shares 2X Long SPCX Daily ETF,Z,SPCH,Y,100.0,N,SPCH
 SPCI,Tuttle Capital Space Industry Income Blast ETF,Tuttle Capital Space Industry Income Blast ETF,Z,SPCI,Y,100.0,N,SPCI
 SPCL,Defiance Pure Space Daily 2X Strategy ETF,Defiance Pure Space Daily 2X Strategy ETF,Z,SPCL,Y,100.0,N,SPCL
+SPCM,Tradr 2X Long SpaceX Daily ETF,Tradr 2X Long SpaceX Daily ETF,Z,SPCM,Y,100.0,N,SPCM
+SPCQ,Defiance Daily Target 2X Short SpaceX ETF,Defiance Daily Target 2X Short SpaceX ETF,Z,SPCQ,Y,100.0,N,SPCQ
+SPCU,Defiance Daily Target 2X Long SpaceX ETF,Defiance Daily Target 2X Long SpaceX ETF,Z,SPCU,Y,100.0,N,SPCU
 SPCZ,RiverNorth Enhanced Pre,RiverNorth Enhanced Pre-Merger SPAC ETF,Z,SPCZ,Y,100.0,N,SPCZ
 SPD,Simplify US Equity PLUS Downside Convexity ETF,Simplify US Equity PLUS Downside Convexity ETF,P,SPD,Y,100.0,N,SPD
 SPDF,Defender Risk Adaptive 500 ETF,Defender Risk Adaptive 500 ETF,Z,SPDF,Y,100.0,N,SPDF
@@ -6047,6 +6060,7 @@ SSL,Sasol Ltd. American Depositary Shares,Sasol Ltd. American Depositary Shares,
 SSMG,Virtus Silvant Small/Mid Growth ETF,Virtus Silvant Small/Mid Growth ETF,P,SSMG,Y,100.0,N,SSMG
 SSMR,Sunshine Silver Mining & Refining Company Common Stock,Sunshine Silver Mining & Refining Company Common Stock,N,SSMR,N,100.0,N,SSMR
 SSO,ProShares Ultra S&P500,ProShares Ultra S&P500,P,SSO,Y,100.0,N,SSO
+SSPC,Leverage Shares 2X Short SPCX Daily ETF,Leverage Shares 2X Short SPCX Daily ETF,Z,SSPC,Y,100.0,N,SSPC
 SSPY,Stratified LargeCap Index ETF,Stratified LargeCap Index ETF,P,SSPY,Y,100.0,N,SSPY
 SST,"System1, Inc. Class A Common Stock","System1, Inc. Class A Common Stock",N,SST,N,100.0,N,SST
 SSTK,"Shutterstock, Inc. Common Stock","Shutterstock, Inc. Common Stock",N,SSTK,N,100.0,N,SSTK
@@ -6181,7 +6195,6 @@ TCAF,T. Rowe Price Capital Appreciation Equity ETF,T. Rowe Price Capital Appreci
 TCAI,Tortoise AI Infrastructure ETF,Tortoise AI Infrastructure ETF,N,TCAI,Y,100.0,N,TCAI
 TCAL,T. Rowe Price Capital Appreciation Premium Income ETF,T. Rowe Price Capital Appreciation Premium Income ETF,P,TCAL,Y,100.0,N,TCAL
 TCBX,"Third Coast Bancshares, Inc. Common Stock","Third Coast Bancshares, Inc. Common Stock",N,TCBX,N,100.0,N,TCBX
-TCGL,TechCreate Group Ltd. Class A Ordinary Shares,TechCreate Group Ltd. Class A Ordinary Shares,A,TCGL,N,100.0,N,TCGL
 TCHP,T. Rowe Price Blue Chip Growth ETF,T. Rowe Price Blue Chip Growth ETF,P,TCHP,Y,100.0,N,TCHP
 TCI,"Transcontinental Realty Investors, Inc. Common Stock","Transcontinental Realty Investors, Inc. Common Stock",N,TCI,N,100.0,N,TCI
 TCPA,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085,N,TCPA,N,100.0,N,TCPA
@@ -7205,7 +7218,7 @@ YETI,"YETI Holdings, Inc. Common Stock","YETI Holdings, Inc. Common Stock",N,YET
 YEXT,"Yext, Inc. Common Stock","Yext, Inc. Common Stock",N,YEXT,N,100.0,N,YEXT
 YFFI,Indexperts Yield Focused Fixed Income ETF,Indexperts Yield Focused Fixed Income ETF,P,YFFI,Y,100.0,N,YFFI
 YFYA,Yields for You Income Strategy A ETF,Yields for You Income Strategy A ETF,P,YFYA,Y,100.0,N,YFYA
-YGLD,Simplify Gold Strategy PLUS Income ETF,Simplify Gold Strategy PLUS Income ETF,P,YGLD,Y,100.0,N,YGLD
+YGLD,Simplify Gold Strategy ETF,Simplify Gold Strategy ETF,P,YGLD,Y,100.0,N,YGLD
 YINN,Direxion Daily FTSE China Bull 3X ETF,Direxion Daily FTSE China Bull 3X ETF,P,YINN,Y,100.0,N,YINN
 YJUN,FT Vest International Equity Moderate Buffer ETF ,FT Vest International Equity Moderate Buffer ETF - June,Z,YJUN,Y,100.0,N,YJUN
 YLD,Principal Active High Yield ETF,Principal Active High Yield ETF,P,YLD,Y,100.0,N,YLD
