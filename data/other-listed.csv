@@ -30,7 +30,6 @@ ABLD,Abacus FCF Real Assets Leaders ETF,Abacus FCF Real Assets Leaders ETF,Z,ABL
 ABLG,Abacus FCF International Leaders ETF,Abacus FCF International Leaders ETF,Z,ABLG,Y,100.0,N,ABLG
 ABLS,Abacus FCF Small Cap Leaders ETF,Abacus FCF Small Cap Leaders ETF,Z,ABLS,Y,100.0,N,ABLS
 ABM,ABM Industries Incorporated Common Stock,ABM Industries Incorporated Common Stock,N,ABM,N,100.0,N,ABM
-ABNY,YieldMax ABNB Option Income Strategy ETF,YieldMax ABNB Option Income Strategy ETF,P,ABNY,Y,100.0,N,ABNY
 ABOT,Abacus FCF Innovation Leaders ETF,Abacus FCF Innovation Leaders ETF,Z,ABOT,Y,100.0,N,ABOT
 ABR,Arbor Realty Trust Common Stock,Arbor Realty Trust Common Stock,N,ABR,N,100.0,N,ABR
 ABR$D,"Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share","Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share",N,ABRpD,N,100.0,N,ABR-D
@@ -86,6 +85,7 @@ ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th o
 ADCT,ADC Therapeutics SA Common Shares,ADC Therapeutics SA Common Shares,N,ADCT,N,100.0,N,ADCT
 ADDS,Hedgeye Index Adds ETF,Hedgeye Index Adds ETF,P,ADDS,Y,100.0,N,ADDS
 ADFI,Anfield Dynamic Fixed Income ETF,Anfield Dynamic Fixed Income ETF,Z,ADFI,Y,100.0,N,ADFI
+ADIU,Leverage Shares 2X Long ADI Daily ETF,Leverage Shares 2X Long ADI Daily ETF,Z,ADIU,Y,100.0,N,ADIU
 ADIV,Guinness Atkinson Asia Pacific Dividend Builder ETF,Guinness Atkinson Asia Pacific Dividend Builder ETF,P,ADIV,Y,100.0,N,ADIV
 ADM,Archer,Archer-Daniels-Midland Company Common Stock,N,ADM,N,100.0,N,ADM
 ADME,Aptus Drawdown Managed Equity ETF,Aptus Drawdown Managed Equity ETF,Z,ADME,Y,100.0,N,ADME
@@ -303,6 +303,7 @@ APD,"Air Products and Chemicals, Inc. Common Stock","Air Products and Chemicals,
 APDB,Aptus April Deep Buffer ETF,Aptus April Deep Buffer ETF,Z,APDB,Y,100.0,N,APDB
 APG,APi Group Corporation Common Stock,APi Group Corporation Common Stock,N,APG,N,100.0,N,APG
 APH,Amphenol Corporation Common Stock,Amphenol Corporation Common Stock,N,APH,N,100.0,N,APH
+APHG,Leverage Shares 2X Long APH Daily ETF,Leverage Shares 2X Long APH Daily ETF,Z,APHG,Y,100.0,N,APHG
 APHU,T,T-REX 2X Long APH Daily Target ETF,Z,APHU,Y,100.0,N,APHU
 APIE,ActivePassive International Equity ETF,ActivePassive International Equity ETF,P,APIE,Y,100.0,N,APIE
 APLE,"Apple Hospitality REIT, Inc. Common Shares","Apple Hospitality REIT, Inc. Common Shares",N,APLE,N,100.0,N,APLE
@@ -493,6 +494,7 @@ AXR,AMREP Corporation Common Stock,AMREP Corporation Common Stock,N,AXR,N,100.0,
 AXS,Axis Capital Holdings Limited Common Stock,Axis Capital Holdings Limited Common Stock,N,AXS,N,100.0,N,AXS
 AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares","Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",N,AXSpE,N,100.0,N,AXS-E
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
+AXTL,Leverage Shares 2X Long AXTI Daily ETF,Leverage Shares 2X Long AXTI Daily ETF,Z,AXTL,Y,100.0,N,AXTL
 AXTU,T,T-REX 2X Long AXTI Daily Target ETF,Z,AXTU,Y,100.0,N,AXTU
 AXTX,Tradr 2X Long AXTI Daily ETF,Tradr 2X Long AXTI Daily ETF,Z,AXTX,Y,100.0,N,AXTX
 AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,40.0,N,AYI
@@ -810,6 +812,7 @@ BML$H,Bank of America Corporation Depositary Shares (Each representing a 1/1200t
 BML$J,Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)",N,BMLpJ,N,100.0,N,BML-J
 BML$L,Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non,"Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)",N,BMLpL,N,100.0,N,BML-L
 BMN,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,N,BMN,N,100.0,N,BMN
+BMNP,"BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock","BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock",N,BMNP,N,100.0,N,BMNP
 BMNR,"BitMine Immersion Technologies, Inc. Common Stock","BitMine Immersion Technologies, Inc. Common Stock",N,BMNR,N,100.0,N,BMNR
 BMNU,T,T-REX 2X Long BMNR Daily Target ETF,Z,BMNU,Y,100.0,N,BMNU
 BMNZ,Defiance Daily Target 2X Short BMNR ETF,Defiance Daily Target 2X Short BMNR ETF,P,BMNZ,Y,100.0,N,BMNZ
@@ -1666,7 +1669,6 @@ DINT,Davis Select International ETF,Davis Select International ETF,Z,DINT,Y,100.
 DIPR,Corgi Space & Satellite Communications ETF,Corgi Space & Satellite Communications ETF,Z,DIPR,Y,100.0,N,DIPR
 DIPS,YieldMax Short NVDA Option Income Strategy ETF,YieldMax Short NVDA Option Income Strategy ETF,P,DIPS,Y,100.0,N,DIPS
 DIS,Walt Disney Company (The) Common Stock,Walt Disney Company (The) Common Stock,N,DIS,N,100.0,N,DIS
-DISO,YieldMax DIS Option Income Strategy ETF,YieldMax DIS Option Income Strategy ETF,P,DISO,Y,100.0,N,DISO
 DISV,Dimensional International Small Cap Value ETF,Dimensional International Small Cap Value ETF,Z,DISV,Y,100.0,N,DISV
 DIT,AMCON Distributing Company Common Stock,AMCON Distributing Company Common Stock,A,DIT,N,100.0,N,DIT
 DIV,Global X Super Dividend ETF,Global X Super Dividend ETF,P,DIV,Y,100.0,N,DIV
@@ -2458,6 +2460,7 @@ FNDE,Schwab Fundamental Emerging Markets Equity ETF,Schwab Fundamental Emerging 
 FNDF,Schwab Fundamental International Equity ETF,Schwab Fundamental International Equity ETF,P,FNDF,Y,100.0,N,FNDF
 FNDX,Schwab Fundamental U.S. Large Company ETF,Schwab Fundamental U.S. Large Company ETF,P,FNDX,Y,100.0,N,FNDX
 FNF,"Fidelity National Financial, Inc. Common Stock","Fidelity National Financial, Inc. Common Stock",N,FNF,N,100.0,N,FNF
+FNG,Leverage Shares 2X Long FN Daily ETF,Leverage Shares 2X Long FN Daily ETF,Z,FNG,Y,100.0,N,FNG
 FNGD,MicroSectors FANG  Index ,"MicroSectors FANG  Index -3X Inverse Leveraged ETNs due January 8, 2038",P,FNGD,N,100.0,N,FNGD
 FNGG,Direxion Daily NYSE FANG+ Bull 2X ETF,Direxion Daily NYSE FANG+ Bull 2X ETF,P,FNGG,Y,100.0,N,FNGG
 FNGO,"MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038","MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038",P,FNGO,N,100.0,N,FNGO
@@ -3699,6 +3702,7 @@ KEY$I,KeyCorp Depositary Shares Each Representing a 1/40th Ownership Interest in
 KEY$J,KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non,"KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series F",N,KEYpJ,N,100.0,N,KEY-J
 KEY$K,"KeyCorp Depositary Shares, each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non","KeyCorp Depositary Shares, each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series G",N,KEYpK,N,100.0,N,KEY-K
 KEY$L,KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non,"KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Perpetual Non-Cumulative Preferred Stock, Series H",N,KEYpL,N,100.0,N,KEY-L
+KEYG,Leverage Shares 2X Long KEYS Daily ETF,Leverage Shares 2X Long KEYS Daily ETF,Z,KEYG,Y,100.0,N,KEYG
 KEYS,Keysight Technologies Inc. Common Stock,Keysight Technologies Inc. Common Stock,N,KEYS,N,40.0,N,KEYS
 KF,"Korea Fund, Inc. (The) New Common Stock","Korea Fund, Inc. (The) New Common Stock",N,KF,N,100.0,N,KF
 KFEB,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - February,Z,KFEB,Y,100.0,N,KFEB
@@ -3803,7 +3807,6 @@ KURE,KraneShares MSCI All China Health Care Index ETF,KraneShares MSCI All China
 KVLE,KraneShares Value Line Dynamic Dividend Equity Index ETF,KraneShares Value Line Dynamic Dividend Equity Index ETF,P,KVLE,Y,100.0,N,KVLE
 KVUE,Kenvue Inc. Common Stock,Kenvue Inc. Common Stock,N,KVUE,N,100.0,N,KVUE
 KVYO,"Klaviyo, Inc. Series A Common Stock","Klaviyo, Inc. Series A Common Stock",N,KVYO,N,100.0,N,KVYO
-KW,Kennedy,Kennedy-Wilson Holdings Inc. Common Stock,N,KW,N,100.0,N,KW
 KWEB,KraneShares CSI China Internet ETF,KraneShares CSI China Internet ETF,P,KWEB,Y,100.0,N,KWEB
 KWIN,KraneShares Wahed Alternative Income Index ETF,KraneShares Wahed Alternative Income Index ETF,P,KWIN,Y,100.0,N,KWIN
 KWR,Quaker Houghton Common Stock,Quaker Houghton Common Stock,N,KWR,N,100.0,N,KWR
@@ -4052,6 +4055,7 @@ MC,Moelis & Company Class A Common Stock,Moelis & Company Class A Common Stock,N
 MCB,Metropolitan Bank Holding Corp. Common Stock,Metropolitan Bank Holding Corp. Common Stock,N,MCB,N,100.0,N,MCB
 MCD,McDonald's Corporation Common Stock,McDonald's Corporation Common Stock,N,MCD,N,40.0,N,MCD
 MCH,Matthews China Active ETF,Matthews China Active ETF,P,MCH,Y,100.0,N,MCH
+MCHG,Leverage Shares 2X Long MCHP Daily ETF,Leverage Shares 2X Long MCHP Daily ETF,Z,MCHG,Y,100.0,N,MCHG
 MCHU,Tradr 2X Long MCHP Daily ETF,Tradr 2X Long MCHP Daily ETF,Z,MCHU,Y,100.0,N,MCHU
 MCI,Barings Corporate Investors Common Stock,Barings Corporate Investors Common Stock,N,MCI,N,100.0,N,MCI
 MCK,McKesson Corporation Common Stock,McKesson Corporation Common Stock,N,MCK,N,40.0,N,MCK
@@ -6229,6 +6233,7 @@ TECS,Direxion Technology Bear 3X ETF,Direxion Technology Bear 3X ETF,P,TECS,Y,10
 TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock","Templeton Emerging Markets Income Fund, Inc. Common Stock",N,TEI,N,100.0,N,TEI
 TEK,iShares Technology Opportunities Active ETF,iShares Technology Opportunities Active ETF,P,TEK,Y,100.0,N,TEK
 TEL,TE Connectivity plc Ordinary Shares,TE Connectivity plc Ordinary Shares,N,TEL,N,100.0,N,TEL
+TELG,Leverage Shares 2X Long TEL Daily ETF,Leverage Shares 2X Long TEL Daily ETF,Z,TELG,Y,100.0,N,TELG
 TEMD,Templeton Emerging Markets Debt ETF,Templeton Emerging Markets Debt ETF,P,TEMD,Y,100.0,N,TEMD
 TEMR,T. Rowe Price Emerging Markets Equity Research ETF,T. Rowe Price Emerging Markets Equity Research ETF,P,TEMR,Y,100.0,N,TEMR
 TEMT,Tradr 2X Long TEM Daily ETF,Tradr 2X Long TEM Daily ETF,Z,TEMT,Y,100.0,N,TEMT
@@ -6440,6 +6445,7 @@ TRX,TRX Gold Corporation Common Stock,TRX Gold Corporation Common Stock,A,TRX,N,
 TS,Tenaris S.A. American Depositary Shares,Tenaris S.A. American Depositary Shares,N,TS,N,100.0,N,TS
 TSCV,Thrivent Small Cap Value ETF,Thrivent Small Cap Value ETF,P,TSCV,Y,100.0,N,TSCV
 TSEC,Touchstone Securitized Income ETF,Touchstone Securitized Income ETF,P,TSEC,Y,100.0,N,TSEC
+TSEG,Leverage Shares 2X Long TSEM Daily ETF,Leverage Shares 2X Long TSEM Daily ETF,Z,TSEG,Y,100.0,N,TSEG
 TSEP,FT Vest Emerging Market Buffer ETF ,FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
 TSES,Truth Social American Energy Security ETF,Truth Social American Energy Security ETF,P,TSES,Y,100.0,N,TSES
 TSI,"TCW Strategic Income Fund, Inc. Common Stock","TCW Strategic Income Fund, Inc. Common Stock",N,TSI,N,100.0,N,TSI
