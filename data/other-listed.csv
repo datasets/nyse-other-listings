@@ -59,6 +59,7 @@ ACLC,American Century Large Cap Equity ETF,American Century Large Cap Equity ETF
 ACLO,TCW AAA CLO ETF,TCW AAA CLO ETF,N,ACLO,Y,100.0,N,ACLO
 ACM,AECOM Common Stock,AECOM Common Stock,N,ACM,N,100.0,N,ACM
 ACN,Accenture plc Class A Ordinary Shares (Ireland),Accenture plc Class A Ordinary Shares (Ireland),N,ACN,N,100.0,N,ACN
+ACOM,Harbor Active Commodity ETF,Harbor Active Commodity ETF,P,ACOM,Y,100.0,N,ACOM
 ACP,abrdn Income Credit Strategies Fund Common Shares,abrdn Income Credit Strategies Fund Common Shares,N,ACP,N,100.0,N,ACP
 ACP$A,abrdn Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock,abrdn Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock,N,ACPpA,N,100.0,N,ACP-A
 ACR,ACRES Commercial Realty Corp. Common Stock,ACRES Commercial Realty Corp. Common Stock,N,ACR,N,100.0,N,ACR
@@ -1293,7 +1294,6 @@ COHN,Cohen & Company Inc.,Cohen & Company Inc.,A,COHN,N,100.0,N,COHN
 COHR,Coherent Corp. Common Stock,Coherent Corp. Common Stock,N,COHR,N,40.0,N,COHR
 COHX,Tradr 2X Long COHR Daily ETF,Tradr 2X Long COHR Daily ETF,Z,COHX,Y,100.0,N,COHX
 COIA,ProShares Ultra COIN,ProShares Ultra COIN,P,COIA,Y,100.0,N,COIA
-COIO,Leverage Shares 2x Capped Accelerated COIN Monthly ETF,Leverage Shares 2x Capped Accelerated COIN Monthly ETF,Z,COIO,Y,100.0,N,COIO
 COIW,Roundhill COIN WeeklyPay ETF,Roundhill COIN WeeklyPay ETF,Z,COIW,Y,100.0,N,COIW
 COLD,"Americold Realty Trust, Inc. Common Stock","Americold Realty Trust, Inc. Common Stock",N,COLD,N,100.0,N,COLD
 COLO,Global X MSCI Colombia ETF,Global X MSCI Colombia ETF,P,COLO,Y,100.0,N,COLO
@@ -1422,7 +1422,9 @@ CTAP,Simplify US Equity PLUS Managed Futures Strategy ETF,Simplify US Equity PLU
 CTEF,Castellan Targeted Equity ETF,Castellan Targeted Equity ETF,Z,CTEF,Y,100.0,N,CTEF
 CTEV,Claritev Corporation Class A Common Stock,Claritev Corporation Class A Common Stock,N,CTEV,N,100.0,N,CTEV
 CTEX,ProShares S&P Kensho Cleantech ETF,ProShares S&P Kensho Cleantech ETF,P,CTEX,Y,100.0,N,CTEX
+CTGG,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),N,CTGG,N,100.0,N,CTGG
 CTGO,Contango Silver & Gold Inc. Common Stock,Contango Silver & Gold Inc. Common Stock,A,CTGO,N,100.0,N,CTGO
+CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),N,CTHH,N,100.0,N,CTHH
 CTIF,Castellan Targeted Income ETF,Castellan Targeted Income ETF,Z,CTIF,Y,100.0,N,CTIF
 CTJN,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Structured Buffer ETF - June Series,Z,CTJN,Y,100.0,N,CTJN
 CTM,"Castellum, Inc. Common Stock","Castellum, Inc. Common Stock",A,CTM,N,100.0,N,CTM
@@ -2329,6 +2331,7 @@ FGSN,"F&G Annuities & Life, Inc. 7.300% Junior Subordinated Notes due 2065","F&G
 FHDG,FT Vest U.S. Equity Quarterly Dynamic Buffer ETF,FT Vest U.S. Equity Quarterly Dynamic Buffer ETF,Z,FHDG,Y,100.0,N,FHDG
 FHEQ,Fidelity Hedged Equity ETF,Fidelity Hedged Equity ETF,Z,FHEQ,Y,100.0,N,FHEQ
 FHI,"Federated Hermes, Inc. Common Stock","Federated Hermes, Inc. Common Stock",N,FHI,N,100.0,N,FHI
+FHIL,Federated Hermes International Leaders ETF,Federated Hermes International Leaders ETF,Z,FHIL,Y,100.0,N,FHIL
 FHLC,Fidelity MSCI Health Care Index ETF,Fidelity MSCI Health Care Index ETF,P,FHLC,Y,100.0,N,FHLC
 FHN,First Horizon Corporation Common Stock,First Horizon Corporation Common Stock,N,FHN,N,100.0,N,FHN
 FHN$E,"First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non","First Horizon Corporation Depositary Shares, each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series E",N,FHNpE,N,100.0,N,FHN-E
@@ -4288,7 +4291,6 @@ MSLC,Morgan Stanley Pathway Large Cap Equity ETF,Morgan Stanley Pathway Large Ca
 MSM,"MSC Industrial Direct Company, Inc. Common Stock","MSC Industrial Direct Company, Inc. Common Stock",N,MSM,N,100.0,N,MSM
 MSMR,McElhenny Sheffield Managed Risk ETF,McElhenny Sheffield Managed Risk ETF,Z,MSMR,Y,100.0,N,MSMR
 MSN,Emerson Radio Corporation Common Stock,Emerson Radio Corporation Common Stock,A,MSN,N,100.0,N,MSN
-MSOO,Leverage Shares 2x Capped Accelerated MSTR Monthly ETF,Leverage Shares 2x Capped Accelerated MSTR Monthly ETF,Z,MSOO,Y,100.0,N,MSOO
 MSOS,AdvisorShares Pure US Cannabis ETF,AdvisorShares Pure US Cannabis ETF,P,MSOS,Y,100.0,N,MSOS
 MSOX,AdvisorShares MSOS Daily Leveraged ETF,AdvisorShares MSOS Daily Leveraged ETF,P,MSOX,Y,100.0,N,MSOX
 MSSM,Morgan Stanley Pathway Small,Morgan Stanley Pathway Small-Mid Cap Equity ETF,P,MSSM,Y,100.0,N,MSSM
@@ -4603,11 +4605,12 @@ NUSC,Nuveen ESG Small,Nuveen ESG Small-Cap ETF,Z,NUSC,Y,100.0,N,NUSC
 NUV,"Nuveen Municipal Value Fund, Inc. Common Stock","Nuveen Municipal Value Fund, Inc. Common Stock",N,NUV,N,100.0,N,NUV
 NUVB,Nuvation Bio Inc. Class A Common Stock,Nuvation Bio Inc. Class A Common Stock,N,NUVB,N,100.0,N,NUVB
 NUW,Nuveen AMT,Nuveen AMT-Free Municipal Value Fund,N,NUW,N,100.0,N,NUW
+NVA,Nova Minerals Corp Common Stock,Nova Minerals Corp Common Stock,A,NVA,N,100.0,N,NVA
+NVA.W,Nova Minerals Corp Warrants to Purchase Common Stock,Nova Minerals Corp Warrants to Purchase Common Stock,A,NVA.WS,N,100.0,N,NVA+
 NVBT,AllianzIM U.S. Large Cap Buffer10 Nov ETF,AllianzIM U.S. Large Cap Buffer10 Nov ETF,Z,NVBT,Y,100.0,N,NVBT
 NVBU,AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF,AllianzIM U.S. Equity Buffer15 Uncapped Nov ETF,Z,NVBU,Y,100.0,N,NVBU
 NVBW,AllianzIM U.S. Large Cap Buffer20 Nov ETF,AllianzIM U.S. Large Cap Buffer20 Nov ETF,Z,NVBW,Y,100.0,N,NVBW
 NVDB,ProShares Ultra NVDA,ProShares Ultra NVDA,P,NVDB,Y,100.0,N,NVDB
-NVDO,Leverage Shares 2x Capped Accelerated NVDA Monthly ETF,Leverage Shares 2x Capped Accelerated NVDA Monthly ETF,Z,NVDO,Y,100.0,N,NVDO
 NVDQ,T,T-Rex 2X Inverse NVIDIA Daily Target ETF,Z,NVDQ,Y,100.0,N,NVDQ
 NVDW,Roundhill NVDA WeeklyPay ETF,Roundhill NVDA WeeklyPay ETF,Z,NVDW,Y,100.0,N,NVDW
 NVDX,T,T-Rex 2X Long NVIDIA Daily Target ETF,Z,NVDX,Y,100.0,N,NVDX
@@ -5005,7 +5008,6 @@ PLG,Platinum Group Metals Ltd. Ordinary Shares (Canada),Platinum Group Metals Lt
 PLGI,PL Growth and Income ETF,PL Growth and Income ETF,Z,PLGI,Y,100.0,N,PLGI
 PLGO,Pelagos Insurance Capital Limited Common Shares,Pelagos Insurance Capital Limited Common Shares,N,PLGO,N,100.0,N,PLGO
 PLNT,"Planet Fitness, Inc. Common Stock","Planet Fitness, Inc. Common Stock",N,PLNT,N,100.0,N,PLNT
-PLOO,Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Leverage Shares 2x Capped Accelerated PLTR Monthly ETF,Z,PLOO,Y,100.0,N,PLOO
 PLOW,"Douglas Dynamics, Inc. Common Stock","Douglas Dynamics, Inc. Common Stock",N,PLOW,N,100.0,N,PLOW
 PLTA,ProShares Ultra PLTR,ProShares Ultra PLTR,P,PLTA,Y,100.0,N,PLTA
 PLTM,GraniteShares Platinum Shares ETF,GraniteShares Platinum Shares ETF,P,PLTM,Y,100.0,N,PLTM
@@ -5486,6 +5488,7 @@ RPT,Rithm Property Trust Inc. Common stock,Rithm Property Trust Inc. Common stoc
 RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,RPTpC,N,100.0,N,RPT-C
 RPV,Invesco S&P 500 Pure Value ETF,Invesco S&P 500 Pure Value ETF,P,RPV,Y,100.0,N,RPV
 RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares,Cohen & Steers Quality Income Realty Fund Inc Common Shares,N,RQI,N,100.0,N,RQI
+RQI.V,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued","Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",N,RQIrw,N,100.0,N,RQI^#
 RRC,Range Resources Corporation Common Stock,Range Resources Corporation Common Stock,N,RRC,N,100.0,N,RRC
 RRX,Regal Rexnord Corporation Common Stock,Regal Rexnord Corporation Common Stock,N,RRX,N,100.0,N,RRX
 RS,"Reliance, Inc. Common Stock","Reliance, Inc. Common Stock",N,RS,N,40.0,N,RS
@@ -6452,7 +6455,6 @@ TSI,"TCW Strategic Income Fund, Inc. Common Stock","TCW Strategic Income Fund, I
 TSIC,Truth Social American Icons ETF,Truth Social American Icons ETF,P,TSIC,Y,100.0,N,TSIC
 TSII,REX TSLA Growth & Income ETF,REX TSLA Growth & Income ETF,Z,TSII,Y,100.0,N,TSII
 TSLI,ProShares Ultra TSLA,ProShares Ultra TSLA,P,TSLI,Y,100.0,N,TSLI
-TSLO,Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,Leverage Shares 2x Capped Accelerated TSLA Monthly ETF,Z,TSLO,Y,100.0,N,TSLO
 TSLP,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Kurv Yield Premium Strategy Tesla (TSLA) ETF,Z,TSLP,Y,100.0,N,TSLP
 TSLT,T,T-REX 2X Long Tesla Daily Target ETF,Z,TSLT,Y,100.0,N,TSLT
 TSLW,Roundhill TSLA WeeklyPay ETF,Roundhill TSLA WeeklyPay ETF,Z,TSLW,Y,100.0,N,TSLW
@@ -6515,7 +6517,6 @@ TY$,Tri Continental Corporation Preferred Stock,Tri Continental Corporation Pref
 TYA,Simplify Intermediate Term Treasury Futures Strategy ETF,Simplify Intermediate Term Treasury Futures Strategy ETF,Z,TYA,Y,100.0,N,TYA
 TYD,Direxion Daily 10,Direxion Daily 10-Yr Treasury Bull 3x Shrs,P,TYD,Y,100.0,N,TYD
 TYG,Tortoise Energy Infrastructure Corporation Common Stock,Tortoise Energy Infrastructure Corporation Common Stock,N,TYG,N,100.0,N,TYG
-TYG.R,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights","Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",N,TYGr,N,100.0,N,TYG^
 TYL,"Tyler Technologies, Inc. Common Stock","Tyler Technologies, Inc. Common Stock",N,TYL,N,40.0,N,TYL
 TYLD,Cambria Tactical Yield ETF,Cambria Tactical Yield ETF,Z,TYLD,Y,100.0,N,TYLD
 TYLG,Global X Information Technology Covered Call & Growth ETF,Global X Information Technology Covered Call & Growth ETF,P,TYLG,Y,100.0,N,TYLG
@@ -7167,6 +7168,7 @@ XSD,State Street SPDR S&P Semiconductor ETF,State Street SPDR S&P Semiconductor 
 XSEM,Corgi U.S. Semiconductors 2x Daily ETF,Corgi U.S. Semiconductors 2x Daily ETF,Z,XSEM,Y,100.0,N,XSEM
 XSEP,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September,Z,XSEP,Y,100.0,N,XSEP
 XSHD,Invesco S&P SmallCap High Dividend Low Volatility ETF,Invesco S&P SmallCap High Dividend Low Volatility ETF,Z,XSHD,Y,100.0,N,XSHD
+XSHP,Kurv SpaceX Enhanced Income ETF,Kurv SpaceX Enhanced Income ETF,Z,XSHP,Y,100.0,N,XSHP
 XSHQ,Invesco S&P SmallCap Quality ETF,Invesco S&P SmallCap Quality ETF,Z,XSHQ,Y,100.0,N,XSHQ
 XSLV,Invesco S&P SmallCap Low Volatility ETF,Invesco S&P SmallCap Low Volatility ETF,P,XSLV,Y,100.0,N,XSLV
 XSMO,Invesco S&P SmallCap Momentum ETF,Invesco S&P SmallCap Momentum ETF,P,XSMO,Y,100.0,N,XSMO

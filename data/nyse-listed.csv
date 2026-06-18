@@ -694,6 +694,8 @@ CSW,"CSW Industrials, Inc. Common Stock"
 CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series"
 CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series"
 CTEV,Claritev Corporation Class A Common Stock
+CTGG,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)
+CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)
 CTO,"CTO Realty Growth, Inc. Common Stock"
 CTO$A,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock"
 CTOS,"Custom Truck One Source, Inc. Common Stock"
@@ -2256,6 +2258,7 @@ RPM,RPM International Inc. Common Stock
 RPT,Rithm Property Trust Inc. Common stock
 RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed
 RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares
+RQI.V,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued"
 RRC,Range Resources Corporation Common Stock
 RRX,Regal Rexnord Corporation Common Stock
 RS,"Reliance, Inc. Common Stock"
@@ -2654,7 +2657,6 @@ TXT,Textron Inc. Common Stock
 TY,Tri Continental Corporation Common Stock
 TY$,Tri Continental Corporation Preferred Stock
 TYG,Tortoise Energy Infrastructure Corporation Common Stock
-TYG.R,"Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights"
 TYL,"Tyler Technologies, Inc. Common Stock"
 U,Unity Software Inc. Common Stock
 UA,"Under Armour, Inc. Class C Common Stock"
