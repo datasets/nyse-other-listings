@@ -2234,6 +2234,7 @@ FBUF,Fidelity Dynamic Buffered Equity ETF,Fidelity Dynamic Buffered Equity ETF,Z
 FBY,YieldMax META Option Income Strategy ETF,YieldMax META Option Income Strategy ETF,P,FBY,Y,100.0,N,FBY
 FC,Franklin Covey Company Common Stock,Franklin Covey Company Common Stock,N,FC,N,100.0,N,FC
 FCBD,Frontier Asset Core Bond ETF,Frontier Asset Core Bond ETF,P,FCBD,Y,100.0,N,FCBD
+FCBM,"First Carolina Financial Services, Inc. Common Stock","First Carolina Financial Services, Inc. Common Stock",N,FCBM,N,100.0,N,FCBM
 FCF,First Commonwealth Financial Corporation Common Stock,First Commonwealth Financial Corporation Common Stock,N,FCF,N,100.0,N,FCF
 FCFY,First Trust S&P 500 Diversified Free Cash Flow ETF,First Trust S&P 500 Diversified Free Cash Flow ETF,P,FCFY,Y,100.0,N,FCFY
 FCG,First Trust Natural Gas ETF,First Trust Natural Gas ETF,P,FCG,Y,100.0,N,FCG
@@ -5014,6 +5015,8 @@ PLTM,GraniteShares Platinum Shares ETF,GraniteShares Platinum Shares ETF,P,PLTM,
 PLTW,Roundhill PLTR WeeklyPay ETF,Roundhill PLTR WeeklyPay ETF,Z,PLTW,Y,100.0,N,PLTW
 PLTY,YieldMax PLTR Option Income Strategy ETF,YieldMax PLTR Option Income Strategy ETF,P,PLTY,Y,100.0,N,PLTY
 PLU,Defiance Daily Target 2x Long PL ETF,Defiance Daily Target 2x Long PL ETF,Z,PLU,Y,100.0,N,PLU
+PLUN,Plutonian Acquisition Corp II Class A Ordinary Shares,Plutonian Acquisition Corp II Class A Ordinary Shares,N,PLUN,N,100.0,N,PLUN
+PLUN.R,"Plutonian Acquisition Corp II Rights, each entitling the holder to receive one","Plutonian Acquisition Corp II Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",N,PLUNr,N,100.0,N,PLUN^
 PLUN.U,"Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one","Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",N,PLUN.U,N,100.0,N,PLUN=
 PLX,"Protalix BioTherapeutics, Inc. (DE) Common Stock","Protalix BioTherapeutics, Inc. (DE) Common Stock",A,PLX,N,100.0,N,PLX
 PM,Philip Morris International Inc Common Stock,Philip Morris International Inc Common Stock,N,PM,N,100.0,N,PM
@@ -5033,7 +5036,6 @@ PMM,Putnam Managed Municipal Income Trust Common Stock,Putnam Managed Municipal 
 PMMF,iShares Prime Money Market ETF,iShares Prime Money Market ETF,N,PMMF,Y,100.0,N,PMMF
 PMMR,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - March,Z,PMMR,Y,100.0,N,PMMR
 PMMY,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - May,Z,PMMY,Y,100.0,N,PMMY
-PMNT,Perfect Moment Ltd. Common Stock,Perfect Moment Ltd. Common Stock,A,PMNT,N,100.0,N,PMNT
 PMNV,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - November,Z,PMNV,Y,100.0,N,PMNV
 PMO,Putnam Municipal Opportunities Trust Common Stock,Putnam Municipal Opportunities Trust Common Stock,N,PMO,N,100.0,N,PMO
 PMOC,PGIM S&P 500 Max Buffer ETF ,PGIM S&P 500 Max Buffer ETF - October,Z,PMOC,Y,100.0,N,PMOC
@@ -6579,6 +6581,7 @@ ULS,UL Solutions Inc. Class A Common Stock,UL Solutions Inc. Class A Common Stoc
 ULST,State Street Ultra Short Term Bond ETF,State Street Ultra Short Term Bond ETF,P,ULST,Y,100.0,N,ULST
 ULTY,YieldMax Ultra Option Income Strategy ETF,YieldMax Ultra Option Income Strategy ETF,P,ULTY,Y,100.0,N,ULTY
 UMAC,"Unusual Machines, Inc. Common Stock","Unusual Machines, Inc. Common Stock",A,UMAC,N,100.0,N,UMAC
+UMAL,Defiance Daily Target 2X Long UMAC ETF,Defiance Daily Target 2X Long UMAC ETF,Z,UMAL,Y,100.0,N,UMAL
 UMAR,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - March,Z,UMAR,Y,100.0,N,UMAR
 UMAY,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - May,Z,UMAY,Y,100.0,N,UMAY
 UMC,United Microelectronics Corporation (NEW) Common Stock,United Microelectronics Corporation (NEW) Common Stock,N,UMC,N,100.0,N,UMC
