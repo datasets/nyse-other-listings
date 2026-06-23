@@ -1174,7 +1174,6 @@ CICC,CION Investment Corporation 7.50% Notes due 2031,CION Investment Corporatio
 CIEG,Leverage Shares 2X Long CIEN Daily ETF,Leverage Shares 2X Long CIEN Daily ETF,Z,CIEG,Y,100.0,N,CIEG
 CIEI,Corgi 3,Corgi 3-7 Year Treasury Bond ETF,Z,CIEI,Y,100.0,N,CIEI
 CIEN,Ciena Corporation Common Stock,Ciena Corporation Common Stock,N,CIEN,N,40.0,N,CIEN
-CIF,MFS Intermediate High Income Fund Common Stock,MFS Intermediate High Income Fund Common Stock,N,CIF,N,100.0,N,CIF
 CIFU,T,T-REX 2X Long CIFR Daily Target ETF,Z,CIFU,Y,100.0,N,CIFU
 CIG,Comp En De Mn Cemig ADS American Depositary Shares,Comp En De Mn Cemig ADS American Depositary Shares,N,CIG,N,100.0,N,CIG
 CIG.C,Comp En De Mn Cemig ADS American Depositary Receipts,Comp En De Mn Cemig ADS American Depositary Receipts,N,CIG.C,N,100.0,N,CIG.C
@@ -1743,6 +1742,7 @@ DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,Duff & Phelps Utility and
 DPRE,Virtus Duff & Phelps Real Estate Income ETF,Virtus Duff & Phelps Real Estate Income ETF,P,DPRE,Y,100.0,N,DPRE
 DPST,Direxion Daily Regional Banks Bull 3X ETF,Direxion Daily Regional Banks Bull 3X ETF,P,DPST,Y,100.0,N,DPST
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares","DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",N,DQ,N,100.0,N,DQ
+DQJN,FT Vest Nasdaq,FT Vest Nasdaq-100 Dual Directional Buffer ETF - June,Z,DQJN,Y,100.0,N,DQJN
 DRAI,Draco Evolution AI ETF,Draco Evolution AI ETF,P,DRAI,Y,100.0,N,DRAI
 DRAM,Roundhill Memory ETF,Roundhill Memory ETF,Z,DRAM,Y,100.0,N,DRAM
 DRAY,YieldMax DKNG Option Income Strategy ETF,YieldMax DKNG Option Income Strategy ETF,P,DRAY,Y,100.0,N,DRAY
@@ -2351,6 +2351,7 @@ FIIG,First Trust Intermediate Duration Investment Grade Corporate ETF,First Trus
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,N,FINS,N,100.0,N,FINS
 FINT,Frontier Asset Total International Equity ETF,Frontier Asset Total International Equity ETF,P,FINT,Y,100.0,N,FINT
 FINV,FinVolution Group American Depositary Shares,FinVolution Group American Depositary Shares,N,FINV,N,100.0,N,FINV
+FIRY,Firy Inc. Class A Common Stock,Firy Inc. Class A Common Stock,N,FIRY,N,100.0,N,FIRY
 FIS,"Fidelity National Information Services, Inc. Common Stock","Fidelity National Information Services, Inc. Common Stock",N,FIS,N,100.0,N,FIS
 FISK,"Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests","Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests",P,FISK,N,100.0,N,FISK
 FISR,State Street Fixed Income Sector Rotation ETF,State Street Fixed Income Sector Rotation ETF,P,FISR,Y,100.0,N,FISR
@@ -3839,7 +3840,6 @@ LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company 
 LBAY,Leatherback Long/Short Alternative Yield ETF,Leatherback Long/Short Alternative Yield ETF,P,LBAY,Y,100.0,N,LBAY
 LBO,WHITEWOLF Publicly Listed Private Equity ETF,WHITEWOLF Publicly Listed Private Equity ETF,Z,LBO,Y,100.0,N,LBO
 LBRT,Liberty Energy Inc. Class A common stock,Liberty Energy Inc. Class A common stock,N,LBRT,N,100.0,N,LBRT
-LC,LendingClub Corporation Common Stock,LendingClub Corporation Common Stock,N,LC,N,100.0,N,LC
 LCAP,Principal Capital Appreciation Select ETF,Principal Capital Appreciation Select ETF,Z,LCAP,Y,100.0,N,LCAP
 LCF,Touchstone US Large Cap Focused ETF,Touchstone US Large Cap Focused ETF,Z,LCF,Y,100.0,N,LCF
 LCII,LCI Industries,LCI Industries,N,LCII,N,100.0,N,LCII
@@ -4066,7 +4066,6 @@ MCK,McKesson Corporation Common Stock,McKesson Corporation Common Stock,N,MCK,N,
 MCN,XAI Madison Equity Premium Income Fund Common Shares,XAI Madison Equity Premium Income Fund Common Shares,N,MCN,N,100.0,N,MCN
 MCO,Moody's Corporation Common Stock,Moody's Corporation Common Stock,N,MCO,N,40.0,N,MCO
 MCOW,Pacer S&P MidCap 400 Quality FCF Aristocrats ETF,Pacer S&P MidCap 400 Quality FCF Aristocrats ETF,Z,MCOW,Y,100.0,N,MCOW
-MCR,MFS Charter Income Trust Common Stock,MFS Charter Income Trust Common Stock,N,MCR,N,100.0,N,MCR
 MCRP,Micropolis AI Robotics Ordinary Shares,Micropolis AI Robotics Ordinary Shares,A,MCRP,N,100.0,N,MCRP
 MCS,Marcus Corporation (The) Common Stock,Marcus Corporation (The) Common Stock,N,MCS,N,100.0,N,MCS
 MCVT,Miller Convertible Total Return ETF,Miller Convertible Total Return ETF,P,MCVT,Y,100.0,N,MCVT
@@ -4216,7 +4215,7 @@ MMMA,NYLI MacKay Muni Allocation ETF,NYLI MacKay Muni Allocation ETF,P,MMMA,Y,10
 MMS,"Maximus, Inc. Common Stock","Maximus, Inc. Common Stock",N,MMS,N,100.0,N,MMS
 MMSC,First Trust Multi,First Trust Multi-Manager Small Cap Opportunities ETF,P,MMSC,Y,100.0,N,MMSC
 MMSD,NYLI MacKay Muni Short Duration ETF,NYLI MacKay Muni Short Duration ETF,P,MMSD,Y,100.0,N,MMSD
-MMT,MFS Multimarket Income Trust Common Stock,MFS Multimarket Income Trust Common Stock,N,MMT,N,100.0,N,MMT
+MMT,Aberdeen Multi,Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest,N,MMT,N,100.0,N,MMT
 MMTM,State Street SPDR S&P 1500 Momentum Tilt ETF,State Street SPDR S&P 1500 Momentum Tilt ETF,P,MMTM,Y,40.0,N,MMTM
 MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock","Western Asset Managed Municipals Fund, Inc. Common Stock",N,MMU,N,100.0,N,MMU
 MNA,NYLI Merger Arbitrage ETF,NYLI Merger Arbitrage ETF,P,MNA,Y,100.0,N,MNA
@@ -4321,7 +4320,9 @@ MTGP,WisdomTree Mortgage Plus Bond Fund,WisdomTree Mortgage Plus Bond Fund,P,MTG
 MTH,Meritage Homes Corporation Common Stock,Meritage Homes Corporation Common Stock,N,MTH,N,100.0,N,MTH
 MTN,"Vail Resorts, Inc. Common Stock","Vail Resorts, Inc. Common Stock",N,MTN,N,100.0,N,MTN
 MTNB,"Matinas Biopharma Holdings, Inc. Common Stock","Matinas Biopharma Holdings, Inc. Common Stock",A,MTNB,N,100.0,N,MTNB
+MTNE,CH4 Natural Solutions Corporation Class A Ordinary Shares,CH4 Natural Solutions Corporation Class A Ordinary Shares,N,MTNE,N,100.0,N,MTNE
 MTNE.U,"CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one","CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one-half of one Warrant",N,MTNE.U,N,100.0,N,MTNE=
+MTNE.W,"CH4 Natural Solutions Corporation Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share","CH4 Natural Solutions Corporation Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",N,MTNE.WS,N,100.0,N,MTNE+
 MTR,Mesa Royalty Trust Common Stock,Mesa Royalty Trust Common Stock,N,MTR,N,100.0,N,MTR
 MTRA,Invesco International Growth Focus ETF,Invesco International Growth Focus ETF,Z,MTRA,Y,100.0,N,MTRA
 MTRN,Materion Corporation,Materion Corporation,N,MTRN,N,100.0,N,MTRN
@@ -5490,7 +5491,7 @@ RPT,Rithm Property Trust Inc. Common stock,Rithm Property Trust Inc. Common stoc
 RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,RPTpC,N,100.0,N,RPT-C
 RPV,Invesco S&P 500 Pure Value ETF,Invesco S&P 500 Pure Value ETF,P,RPV,Y,100.0,N,RPV
 RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares,Cohen & Steers Quality Income Realty Fund Inc Common Shares,N,RQI,N,100.0,N,RQI
-RQI.V,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued","Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",N,RQIrw,N,100.0,N,RQI^#
+RQI.R,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights","Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",N,RQIr,N,100.0,N,RQI^
 RRC,Range Resources Corporation Common Stock,Range Resources Corporation Common Stock,N,RRC,N,100.0,N,RRC
 RRX,Regal Rexnord Corporation Common Stock,Regal Rexnord Corporation Common Stock,N,RRX,N,100.0,N,RRX
 RS,"Reliance, Inc. Common Stock","Reliance, Inc. Common Stock",N,RS,N,40.0,N,RS
@@ -5501,7 +5502,6 @@ RSDE,FT Vest U.S. Equity Equal Weight Buffer ETF ,FT Vest U.S. Equity Equal Weig
 RSEE,Rareview Systematic Equity ETF,Rareview Systematic Equity ETF,Z,RSEE,Y,100.0,N,RSEE
 RSF,RiverNorth Capital and Income Fund Common Stock,RiverNorth Capital and Income Fund Common Stock,N,RSF,N,100.0,N,RSF
 RSG,"Republic Services, Inc. Common Stock","Republic Services, Inc. Common Stock",N,RSG,N,100.0,N,RSG
-RSHO,Tema U.S. Manufacturing & Reshoring ETF,Tema U.S. Manufacturing & Reshoring ETF,P,RSHO,Y,100.0,N,RSHO
 RSI,"Rush Street Interactive, Inc. Class A Common Stock","Rush Street Interactive, Inc. Class A Common Stock",N,RSI,N,100.0,N,RSI
 RSIT,Return Stacked International Stocks & Managed Futures ETF,Return Stacked International Stocks & Managed Futures ETF,Z,RSIT,Y,100.0,N,RSIT
 RSJN,FT Vest U.S. Equity Equal Weight Buffer ETF ,FT Vest U.S. Equity Equal Weight Buffer ETF - June,P,RSJN,Y,100.0,N,RSJN
@@ -5825,7 +5825,6 @@ SJT,San Juan Basin Royalty Trust Common Stock,San Juan Basin Royalty Trust Commo
 SKE,Skeena Resources Limited Common Shares,Skeena Resources Limited Common Shares,N,SKE,N,100.0,N,SKE
 SKF,ProShares UltraShort Financials,ProShares UltraShort Financials,P,SKF,Y,100.0,N,SKF
 SKIL,Skillsoft Corp. Class A Common Stock,Skillsoft Corp. Class A Common Stock,N,SKIL,N,100.0,N,SKIL
-SKLZ,Skillz Inc. Class A Common Stock,Skillz Inc. Class A Common Stock,N,SKLZ,N,100.0,N,SKLZ
 SKM,"SK Telecom Co., Ltd. Common Stock","SK Telecom Co., Ltd. Common Stock",N,SKM,N,100.0,N,SKM
 SKT,Tanger Inc. Common Stock,Tanger Inc. Common Stock,N,SKT,N,100.0,N,SKT
 SKY,"Champion Homes, Inc. Common Stock","Champion Homes, Inc. Common Stock",N,SKY,N,100.0,N,SKY
@@ -6934,6 +6933,7 @@ WEC,"WEC Energy Group, Inc. Common Stock","WEC Energy Group, Inc. Common Stock",
 WEED,Roundhill Cannabis ETF,Roundhill Cannabis ETF,Z,WEED,Y,100.0,N,WEED
 WEEK,Roundhill Weekly T,Roundhill Weekly T-Bill ETF,Z,WEEK,Y,100.0,N,WEEK
 WEEL,Peerless Option Income Wheel ETF,Peerless Option Income Wheel ETF,P,WEEL,Y,100.0,N,WEEL
+WELD,Tema U.S. Manufacturing & Reshoring ETF,Tema U.S. Manufacturing & Reshoring ETF,P,WELD,Y,100.0,N,WELD
 WELL,Welltower Inc. Common Stock,Welltower Inc. Common Stock,N,WELL,N,100.0,N,WELL
 WENC,West Enclave Merger Corp. Ordinary Shares,West Enclave Merger Corp. Ordinary Shares,N,WENC,N,100.0,N,WENC
 WENC.R,"West Enclave Merger Corp. Rights, each Right to acquire one","West Enclave Merger Corp. Rights, each Right to acquire one-tenth (1/10) of one Ordinary Share",N,WENCr,N,100.0,N,WENC^
@@ -7210,7 +7210,7 @@ XYZ,"Block, Inc. Class A Common Stock,","Block, Inc. Class A Common Stock,",N,XY
 XYZY,YieldMax XYZ Option Income Strategy ETF,YieldMax XYZ Option Income Strategy ETF,P,XYZY,Y,100.0,N,XYZY
 XZO,"Exzeo Group, Inc. Common Stock","Exzeo Group, Inc. Common Stock",N,XZO,N,100.0,N,XZO
 YALA,"Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share","Yalla Group Limited American Depositary Shares, each representing one Class A Ordinary Share",N,YALA,N,100.0,N,YALA
-YALL,God Bless America ETF,God Bless America ETF,P,YALL,Y,100.0,N,YALL
+YALL,Truth Social God Bless America ETF,Truth Social God Bless America ETF,P,YALL,Y,100.0,N,YALL
 YANG,Direxion Daily FTSE China Bear 3X ETF,Direxion Daily FTSE China Bear 3X ETF,P,YANG,Y,100.0,N,YANG
 YBIT,YieldMax Bitcoin Option Income Strategy ETF,YieldMax Bitcoin Option Income Strategy ETF,P,YBIT,Y,100.0,N,YBIT
 YBTC,Roundhill Bitcoin Covered Call Strategy ETF,Roundhill Bitcoin Covered Call Strategy ETF,Z,YBTC,Y,100.0,N,YBTC

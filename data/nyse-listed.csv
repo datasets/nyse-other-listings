@@ -572,7 +572,6 @@ CIB,Grupo Cibest S.A. American Depositary Shares each representing four Preferre
 CICB,CION Investment Corporation 7.50% Notes due 2029
 CICC,CION Investment Corporation 7.50% Notes due 2031
 CIEN,Ciena Corporation Common Stock
-CIF,MFS Intermediate High Income Fund Common Stock
 CIG,Comp En De Mn Cemig ADS American Depositary Shares
 CIG.C,Comp En De Mn Cemig ADS American Depositary Receipts
 CII,"BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock"
@@ -1028,6 +1027,7 @@ FIG,"Figma, Inc. Class A Common Stock"
 FIGS,"FIGS, Inc. Class A Common Stock"
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest
 FINV,FinVolution Group American Depositary Shares
+FIRY,Firy Inc. Class A Common Stock
 FIS,"Fidelity National Information Services, Inc. Common Stock"
 FITB,Fifth Third Bancorp Common Stock
 FITB$A,Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non
@@ -1538,7 +1538,6 @@ LAW,"CS Disco, Inc. Common Stock"
 LAZ,"Lazard, Inc. Common Stock"
 LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests
 LBRT,Liberty Energy Inc. Class A common stock
-LC,LendingClub Corporation Common Stock
 LCII,LCI Industries
 LCLN,"Lincoln International, Inc. Class A Common Stock"
 LDI,"loanDepot, Inc. Class A Common Stock"
@@ -1624,7 +1623,6 @@ MCI,Barings Corporate Investors Common Stock
 MCK,McKesson Corporation Common Stock
 MCN,XAI Madison Equity Premium Income Fund Common Shares
 MCO,Moody's Corporation Common Stock
-MCR,MFS Charter Income Trust Common Stock
 MCS,Marcus Corporation (The) Common Stock
 MCY,Mercury General Corporation Common Stock
 MD,"Pediatrix Medical Group, Inc. Common Stock"
@@ -1697,7 +1695,7 @@ MMK,State Street Prime Money Market ETF
 MMKT,Texas Capital Government Money Market ETF
 MMM,3M Company Common Stock
 MMS,"Maximus, Inc. Common Stock"
-MMT,MFS Multimarket Income Trust Common Stock
+MMT,Aberdeen Multi
 MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock"
 MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests
 MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares"
@@ -1754,7 +1752,9 @@ MTDR,Matador Resources Company Common Stock
 MTG,MGIC Investment Corporation Common Stock
 MTH,Meritage Homes Corporation Common Stock
 MTN,"Vail Resorts, Inc. Common Stock"
+MTNE,CH4 Natural Solutions Corporation Class A Ordinary Shares
 MTNE.U,"CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one"
+MTNE.W,"CH4 Natural Solutions Corporation Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share"
 MTR,Mesa Royalty Trust Common Stock
 MTRN,Materion Corporation
 MTUS,Metallus Inc. Common Shares
@@ -2261,7 +2261,7 @@ RPM,RPM International Inc. Common Stock
 RPT,Rithm Property Trust Inc. Common stock
 RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed
 RQI,Cohen & Steers Quality Income Realty Fund Inc Common Shares
-RQI.V,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued"
+RQI.R,"Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights"
 RRC,Range Resources Corporation Common Stock
 RRX,Regal Rexnord Corporation Common Stock
 RS,"Reliance, Inc. Common Stock"
@@ -2382,7 +2382,6 @@ SJM,The J.M. Smucker Company Common Stock
 SJT,San Juan Basin Royalty Trust Common Stock
 SKE,Skeena Resources Limited Common Shares
 SKIL,Skillsoft Corp. Class A Common Stock
-SKLZ,Skillz Inc. Class A Common Stock
 SKM,"SK Telecom Co., Ltd. Common Stock"
 SKT,Tanger Inc. Common Stock
 SKY,"Champion Homes, Inc. Common Stock"
