@@ -2163,7 +2163,8 @@ PYT,PPlus Tr GSC
 Q,"Qnity Electronics, Inc. Common Stock"
 QBTS,D
 QGEN,Qiagen N.V. Common Shares
-QLEP.U,"Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant"
+QLEP,Quantum Leap Acquisition Corp Class A Ordinary Shares
+QLEP.W,"Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share"
 QRED,QuasarEdge Acquisition Corporation Ordinary Shares
 QRED.R,QuasarEdge Acquisition Corporation Rights to receive one
 QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one"
@@ -2601,6 +2602,7 @@ TPC,Tutor Perini Corporation Common Stock
 TPL,Texas Pacific Land Corporation Common Stock
 TPR,"Tapestry, Inc. Common Stock"
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026"
+TPTS,"Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029"
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock
 TPYP,Tortoise North American Pipeline ETF
 TPZ,Tortoise Electrification Infrastructure ETF
