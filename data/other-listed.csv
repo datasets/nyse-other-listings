@@ -251,6 +251,7 @@ AMG,"Affiliated Managers Group, Inc. Common Stock","Affiliated Managers Group, I
 AMH,American Homes 4 Rent Common Shares of Beneficial Interest,American Homes 4 Rent Common Shares of Beneficial Interest,N,AMH,N,100.0,N,AMH
 AMH$G,American Homes 4 Rent Series G cumulative redeemable perpetual preferred shares of beneficial interest,American Homes 4 Rent Series G cumulative redeemable perpetual preferred shares of beneficial interest,N,AMHpG,N,100.0,N,AMH-G
 AMH$H,American Homes 4 Rent Series H cumulative redeemable perpetual Preferred Shares of Beneficial Interest,American Homes 4 Rent Series H cumulative redeemable perpetual Preferred Shares of Beneficial Interest,N,AMHpH,N,100.0,N,AMH-H
+AMHI,American Beacon Aberdeen Municipal High Income ETF,American Beacon Aberdeen Municipal High Income ETF,P,AMHI,Y,100.0,N,AMHI
 AMJB,Alerian MLP Index ETN,Alerian MLP Index ETN,P,AMJB,Y,100.0,N,AMJB
 AMKL,Defiance Daily Target 2X Long AMKR ETF,Defiance Daily Target 2X Long AMKR ETF,Z,AMKL,Y,100.0,N,AMKL
 AMLP,Alerian MLP ETF,Alerian MLP ETF,P,AMLP,Y,100.0,N,AMLP
@@ -806,7 +807,7 @@ BLUI,Bluemonte Diversified Income ETF,Bluemonte Diversified Income ETF,P,BLUI,Y,
 BLUX,Bluemonte Dynamic Total Market ETF,Bluemonte Dynamic Total Market ETF,P,BLUX,Y,100.0,N,BLUX
 BLV,Vanguard Long,Vanguard Long-Term Bond ETF,P,BLV,Y,100.0,N,BLV
 BLW,Blackrock Limited Duration Income Trust,Blackrock Limited Duration Income Trust,N,BLW,N,100.0,N,BLW
-BLX,"Banco Latinoamericano de Comercio Exterior, S.A.","Banco Latinoamericano de Comercio Exterior, S.A.",N,BLX,N,100.0,N,BLX
+BLX,"Bladex, Inc. Class E Common Stock","Bladex, Inc. Class E Common Stock",N,BLX,N,100.0,N,BLX
 BMA,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),Banco Macro S.A.  ADR (representing Ten Class B Common Shares),N,BMA,N,100.0,N,BMA
 BMAR,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - March,Z,BMAR,Y,100.0,N,BMAR
 BMAY,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - May,Z,BMAY,Y,100.0,N,BMAY
@@ -1479,7 +1480,6 @@ CVU,"CPI Aerostructures, Inc. Common Stock","CPI Aerostructures, Inc. Common Sto
 CVX,Chevron Corporation Common Stock,Chevron Corporation Common Stock,N,CVX,N,100.0,N,CVX
 CVY,Invesco Zacks Multi,Invesco Zacks Multi-Asset Income ETF,P,CVY,Y,100.0,N,CVY
 CW,Curtiss,Curtiss-Wright Corporation Common Stock,N,CW,N,40.0,N,CW
-CWAN,"Clearwater Analytics Holdings, Inc. Class A Common Stock","Clearwater Analytics Holdings, Inc. Class A Common Stock",N,CWAN,N,100.0,N,CWAN
 CWB,State Street SPDR Bloomberg Convertible Securities ETF,State Street SPDR Bloomberg Convertible Securities ETF,P,CWB,Y,100.0,N,CWB
 CWEB,Direxion Daily CSI China Internet Index Bull 2X ETF,Direxion Daily CSI China Internet Index Bull 2X ETF,P,CWEB,Y,100.0,N,CWEB
 CWEN,"Clearway Energy, Inc. Class C Common Stock","Clearway Energy, Inc. Class C Common Stock",N,CWEN,N,100.0,N,CWEN
@@ -1750,12 +1750,14 @@ DON,WisdomTree U.S. MidCap Dividend Fund,WisdomTree U.S. MidCap Dividend Fund,P,
 DOUG,Douglas Elliman Inc. Common Stock,Douglas Elliman Inc. Common Stock,N,DOUG,N,100.0,N,DOUG
 DOV,Dover Corporation Common Stock,Dover Corporation Common Stock,N,DOV,N,100.0,N,DOV
 DOW,Dow Inc. Common Stock ,Dow Inc. Common Stock ,N,DOW,N,100.0,N,DOW
+DPC,DPC Holdings PLC Ordinary Shares,DPC Holdings PLC Ordinary Shares,N,DPC,N,100.0,N,DPC
 DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,Duff & Phelps Utility and Infrastructure Fund Inc.,N,DPG,N,100.0,N,DPG
 DPRE,Virtus Duff & Phelps Real Estate Income ETF,Virtus Duff & Phelps Real Estate Income ETF,P,DPRE,Y,100.0,N,DPRE
 DPST,Direxion Daily Regional Banks Bull 3X ETF,Direxion Daily Regional Banks Bull 3X ETF,P,DPST,Y,100.0,N,DPST
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares","DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",N,DQ,N,100.0,N,DQ
 DQJN,FT Vest Nasdaq,FT Vest Nasdaq-100 Dual Directional Buffer ETF - June,Z,DQJN,Y,100.0,N,DQJN
 DRAI,Draco Evolution AI ETF,Draco Evolution AI ETF,P,DRAI,Y,100.0,N,DRAI
+DRAL,Defiance Daily Target 2X Long DRAM ETF,Defiance Daily Target 2X Long DRAM ETF,Z,DRAL,Y,100.0,N,DRAL
 DRAM,Roundhill Memory ETF,Roundhill Memory ETF,Z,DRAM,Y,100.0,N,DRAM
 DRAY,YieldMax DKNG Option Income Strategy ETF,YieldMax DKNG Option Income Strategy ETF,P,DRAY,Y,100.0,N,DRAY
 DRD,DRDGOLD Limited American Depositary Shares,DRDGOLD Limited American Depositary Shares,N,DRD,N,100.0,N,DRD
@@ -7121,6 +7123,7 @@ XHS,State Street SPDR S&P Health Care Services ETF,State Street SPDR S&P Health 
 XIDE,FT Vest U.S. Equity Buffer & Premium Income  ETF ,FT Vest U.S. Equity Buffer & Premium Income  ETF - December,Z,XIDE,Y,100.0,N,XIDE
 XIDV,Franklin International Dividend Booster Index ETF,Franklin International Dividend Booster Index ETF,P,XIDV,Y,100.0,N,XIDV
 XIFR,"XPLR Infrastructure, LP Common Units representing limited partner interests","XPLR Infrastructure, LP Common Units representing limited partner interests",N,XIFR,N,100.0,N,XIFR
+XIGV,Defiance US 100 Tech Ex Software ETF,Defiance US 100 Tech Ex Software ETF,Z,XIGV,Y,100.0,N,XIGV
 XIJN,FT Vest U.S. Equity Buffer & Premium Income ETF ,FT Vest U.S. Equity Buffer & Premium Income ETF - June,Z,XIJN,Y,100.0,N,XIJN
 XIMR,FT Vest U.S. Equity Buffer & Premium Income ETF ,FT Vest U.S. Equity Buffer & Premium Income ETF - March,Z,XIMR,Y,100.0,N,XIMR
 XISE,FT Vest U.S. Equity Buffer & Premium Income ETF ,FT Vest U.S. Equity Buffer & Premium Income ETF - September,Z,XISE,Y,100.0,N,XISE
