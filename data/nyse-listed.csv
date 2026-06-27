@@ -1532,7 +1532,6 @@ LAC,Lithium Americas Corp. Common Shares
 LAD,"Lithia Motors, Inc. Common Stock"
 LADR,Ladder Capital Corp Class A Common Stock
 LANV,Lanvin Group Holdings Limited Ordinary Shares
-LANV.W,"Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50"
 LAR,Lithium Argentina AG Common Shares
 LAW,"CS Disco, Inc. Common Stock"
 LAZ,"Lazard, Inc. Common Stock"
@@ -1615,6 +1614,7 @@ MATV,"Mativ Holdings, Inc. Common Stock"
 MATX,"Matson, Inc. Common Stock"
 MAX,"MediaAlpha, Inc. Class A Common Stock"
 MBC,"MasterBrand, Inc. Common Stock"
+MBGL.V,Mobility Global Inc. Common Stock When
 MBI,MBIA Inc. Common Stock
 MC,Moelis & Company Class A Common Stock
 MCB,Metropolitan Bank Holding Corp. Common Stock
@@ -2105,7 +2105,6 @@ PPL,PPL Corporation Common Stock
 PPLC,PPL Corporation Corporate Units
 PPT,Putnam Premier Income Trust Common Stock
 PR,Permian Resources Corporation Class A Common Stock
-PRA,ProAssurance Corporation Common Stock
 PRCS,Parnassus Core Select ETF
 PRG,"PROG Holdings, Inc. Common Stock"
 PRGO,Perrigo Company plc Ordinary Shares
@@ -2377,6 +2376,7 @@ SID,Companhia Siderurgica Nacional S.A. Common Stock
 SIG,Signet Jewelers Limited Common Shares
 SII,Sprott Inc. Common Shares
 SILA,"Sila Realty Trust, Inc. Common Stock"
+SIND,Sinda Ltd. Common Stock
 SITC,SITE Centers Corp. Common Stock
 SITE,"SiteOne Landscape Supply, Inc. Common Stock"
 SJM,The J.M. Smucker Company Common Stock
@@ -2439,6 +2439,7 @@ SPE$C,"Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, Series
 SPG,"Simon Property Group, Inc. Common Stock"
 SPG$J,"Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock"
 SPGI,S&P Global Inc. Common Stock
+SPGI.V,S&P Global Inc. Common Stock When
 SPH,"Suburban Propane Partners, L.P. Common Stock"
 SPHR,Sphere Entertainment Co. Class A Common Stock
 SPIR,"Spire Global, Inc. Class A Common Stock"
