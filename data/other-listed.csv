@@ -1734,6 +1734,7 @@ DMAX,iShares Large Cap Max Buffer Dec ETF,iShares Large Cap Max Buffer Dec ETF,Z
 DMAY,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - May,Z,DMAY,Y,100.0,N,DMAY
 DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock","BNY Mellon Municipal Bond Infrastructure Fund, Inc. Common Stock",N,DMB,N,100.0,N,DMB
 DMBS,DoubleLine Mortgage ETF,DoubleLine Mortgage ETF,P,DMBS,Y,100.0,N,DMBS
+DMC,Del Monte Corporation Ordinary Shares,Del Monte Corporation Ordinary Shares,N,DMC,N,100.0,N,DMC
 DMO,Western Asset Mortgage Opportunity Fund Inc. Common Stock,Western Asset Mortgage Opportunity Fund Inc. Common Stock,N,DMO,N,100.0,N,DMO
 DMX,DoubleLine Multi,DoubleLine Multi-Sector Income ETF,P,DMX,Y,100.0,N,DMX
 DNA,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock","Ginkgo Bioworks Holdings, Inc. Class A Common Stock",N,DNA,N,100.0,N,DNA
@@ -2289,7 +2290,6 @@ FDM,First Trust DJ Select MicroCap ETF,First Trust DJ Select MicroCap ETF,P,FDM,
 FDMO,Fidelity Momentum Factor ETF,Fidelity Momentum Factor ETF,P,FDMO,Y,100.0,N,FDMO
 FDN,First Trust DJ Internet Index Fund,First Trust DJ Internet Index Fund,P,FDN,Y,100.0,N,FDN
 FDND,FT Vest Dow Jones Internet & Target Income ETF,FT Vest Dow Jones Internet & Target Income ETF,Z,FDND,Y,100.0,N,FDND
-FDP,Del Monte Corporation Ordinary Shares,Del Monte Corporation Ordinary Shares,N,FDP,N,100.0,N,FDP
 FDRR,Fidelity Dividend ETF for Rising Rates,Fidelity Dividend ETF for Rising Rates,P,FDRR,Y,100.0,N,FDRR
 FDRV,Fidelity Electric Vehicles and Future Transportation ETF,Fidelity Electric Vehicles and Future Transportation ETF,Z,FDRV,Y,100.0,N,FDRV
 FDS,FactSet Research Systems Inc. Common Stock,FactSet Research Systems Inc. Common Stock,N,FDS,N,100.0,N,FDS
@@ -2627,7 +2627,6 @@ GAB$H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H","Gabelli Equity Trust, Inc. (
 GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock","Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock",N,GABpK,N,100.0,N,GAB-K
 GABF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,P,GABF,Y,100.0,N,GABF
 GAEM,Simplify Gamma Emerging Market Bond ETF,Simplify Gamma Emerging Market Bond ETF,P,GAEM,Y,100.0,N,GAEM
-GAID,Guinness Atkinson International Dividend Builder ETF,Guinness Atkinson International Dividend Builder ETF,P,GAID,Y,100.0,N,GAID
 GAL,State Street Global Allocation ETF,State Street Global Allocation ETF,P,GAL,Y,100.0,N,GAL
 GAM,"General American Investors, Inc. Common Stock","General American Investors, Inc. Common Stock",N,GAM,N,100.0,N,GAM
 GAM$B,"General American Investors Company, Inc. Cumulative Preferred Stock","General American Investors Company, Inc. Cumulative Preferred Stock",N,GAMpB,N,100.0,N,GAM-B
@@ -2639,7 +2638,6 @@ GARP,iShares MSCI USA Quality GARP ETF,iShares MSCI USA Quality GARP ETF,Z,GARP,
 GASZ,Corgi Natural Gas Power & Turbines ETF,Corgi Natural Gas Power & Turbines ETF,Z,GASZ,Y,100.0,N,GASZ
 GATX,GATX Corporation Common Stock,GATX Corporation Common Stock,N,GATX,N,100.0,N,GATX
 GAU,Galiano Gold Inc.,Galiano Gold Inc.,A,GAU,N,100.0,N,GAU
-GAUD,Guinness Atkinson US Dividend Builder ETF,Guinness Atkinson US Dividend Builder ETF,P,GAUD,Y,100.0,N,GAUD
 GAUG,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - August,Z,GAUG,Y,100.0,N,GAUG
 GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,N,GBAB,N,100.0,N,GBAB
 GBCI,"Glacier Bancorp, Inc. Common Stock","Glacier Bancorp, Inc. Common Stock",N,GBCI,N,100.0,N,GBCI
@@ -3920,7 +3918,6 @@ LGH,HCM Defender 500 Index ETF,HCM Defender 500 Index ETF,P,LGH,Y,100.0,N,LGH
 LGHT,Langar Global HealthTech ETF,Langar Global HealthTech ETF,P,LGHT,Y,100.0,N,LGHT
 LGI,Lazard Global Total Return and Income Fund Common Stock,Lazard Global Total Return and Income Fund Common Stock,N,LGI,N,100.0,N,LGI
 LGL,"LGL Group, Inc. (The) Common Stock","LGL Group, Inc. (The) Common Stock",A,LGL,N,100.0,N,LGL
-LGL.R,"LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights","LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",A,LGLr,N,100.0,N,LGL^
 LGLV,State Street SPDR US Large Cap Low Volatility Index ETF,State Street SPDR US Large Cap Low Volatility Index ETF,P,LGLV,Y,100.0,N,LGLV
 LGOV,First Trust Long Duration Opportunities ETF,First Trust Long Duration Opportunities ETF,P,LGOV,Y,100.0,N,LGOV
 LGPS,LogProstyle Inc. Common Shares,LogProstyle Inc. Common Shares,A,LGPS,N,100.0,N,LGPS
@@ -4402,6 +4399,7 @@ MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ETRACS Monthly Pay 1.5X
 MVV,ProShares Ultra MidCap400,ProShares Ultra MidCap400,P,MVV,Y,100.0,N,MVV
 MWA,MUELLER WATER PRODUCTS Common Stock,MUELLER WATER PRODUCTS Common Stock,N,MWA,N,100.0,N,MWA
 MWG,Multi Ways Holdings Limited Class A Ordinary Shares,Multi Ways Holdings Limited Class A Ordinary Shares,A,MWG,N,100.0,N,MWG
+MWHS,Skylar Electricity Futures ETF,Skylar Electricity Futures ETF,P,MWHS,Y,100.0,N,MWHS
 MX,Magnachip Semiconductor Corporation Common Stock,Magnachip Semiconductor Corporation Common Stock,N,MX,N,100.0,N,MX
 MXC,Mexco Energy Corporation Common Stock,Mexco Energy Corporation Common Stock,A,MXC,N,100.0,N,MXC
 MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock","Mexico Equity and Income Fund, Inc. (The) Common Stock",N,MXE,N,100.0,N,MXE
@@ -4819,6 +4817,8 @@ OSG,"Octave Specialty Group, Inc. Common Stock","Octave Specialty Group, Inc. Co
 OSK,Oshkosh Corporation (Holding Company)Common Stock,Oshkosh Corporation (Holding Company)Common Stock,N,OSK,N,100.0,N,OSK
 OSSL,Defiance Daily Target 2X Long OSS ETF,Defiance Daily Target 2X Long OSS ETF,Z,OSSL,Y,100.0,N,OSSL
 OSTX,OS Therapies Incorporated Common Stock,OS Therapies Incorporated Common Stock,A,OSTX,N,100.0,N,OSTX
+OTAI,Starlink AI Acquisition Corporation Ordinary Shares,Starlink AI Acquisition Corporation Ordinary Shares,N,OTAI,N,100.0,N,OTAI
+OTAI.R,"Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one","Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",N,OTAIr,N,100.0,N,OTAI^
 OTAI.U,"Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one","Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one-fourth (1/4) of one ordinary share",N,OTAI.U,N,100.0,N,OTAI=
 OTF,Blue Owl Technology Finance Corp. Common Stock,Blue Owl Technology Finance Corp. Common Stock,N,OTF,N,100.0,N,OTF
 OTIS,Otis Worldwide Corporation Common Stock ,Otis Worldwide Corporation Common Stock ,N,OTIS,N,100.0,N,OTIS
@@ -5978,7 +5978,6 @@ SOJD,"Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due Ja
 SOJE,"Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060","Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060",N,SOJE,N,100.0,N,SOJE
 SOJF,"Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085","Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15, 2085",N,SOJF,N,100.0,N,SOJF
 SOLM,Amplify Solana 3% Monthly Option Income ETF,Amplify Solana 3% Monthly Option Income ETF,Z,SOLM,Y,100.0,N,SOLM
-SOLR,Guinness Atkinson Sustainable Energy ETF,Guinness Atkinson Sustainable Energy ETF,P,SOLR,Y,100.0,N,SOLR
 SOLV,Solventum Corporation Common Stock,Solventum Corporation Common Stock,N,SOLV,N,100.0,N,SOLV
 SOMN,Southern Company (The) 2025 Series A Corporate Units,Southern Company (The) 2025 Series A Corporate Units,N,SOMN,N,100.0,N,SOMN
 SON,Sonoco Products Company Common Stock,Sonoco Products Company Common Stock,N,SON,N,100.0,N,SON
@@ -6062,7 +6061,7 @@ SPTL,State Street SPDR Portfolio Long Term Treasury ETF,State Street SPDR Portfo
 SPTM,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF,P,SPTM,Y,100.0,N,SPTM
 SPTS,State Street SPDR Portfolio Short Term Treasury ETF,State Street SPDR Portfolio Short Term Treasury ETF,P,SPTS,Y,100.0,N,SPTS
 SPTU,State Street SPDR Portfolio Ultra Short T,State Street SPDR Portfolio Ultra Short T-Bill ETF,P,SPTU,Y,100.0,N,SPTU
-SPUC,Simplify US Equity PLUS Upside Convexity ETF,Simplify US Equity PLUS Upside Convexity ETF,P,SPUC,Y,100.0,N,SPUC
+SPUC,Simplify US Equity Income ETF,Simplify US Equity Income ETF,P,SPUC,Y,100.0,N,SPUC
 SPUS,SP Funds S&P 500 Sharia Industry Exclusions ETF,SP Funds S&P 500 Sharia Industry Exclusions ETF,P,SPUS,Y,100.0,N,SPUS
 SPUT,Innovator Equity Premium Income ,Innovator Equity Premium Income - Daily PutWrite ETF,P,SPUT,Y,100.0,N,SPUT
 SPUU,Direxion Daily S&P 500 Bull 2X ETF,Direxion Daily S&P 500 Bull 2X ETF,P,SPUU,Y,100.0,N,SPUU
@@ -6110,7 +6109,7 @@ SRS,ProShares UltraShort Real Estate,ProShares UltraShort Real Estate,P,SRS,Y,10
 SRTY,ProShares UltraPro Short Russell2000,ProShares UltraPro Short Russell2000,P,SRTY,Y,100.0,N,SRTY
 SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,N,SRV,N,100.0,N,SRV
 SRVR,Pacer Data & Infrastructure Real Estate ETF,Pacer Data & Infrastructure Real Estate ETF,P,SRVR,Y,100.0,N,SRVR
-SRXH,"SRX Health Solutions, Inc. Common Stock","SRX Health Solutions, Inc. Common Stock",A,SRXH,N,100.0,N,SRXH
+SRXH,SRX Global Inc. Common Stock,SRX Global Inc. Common Stock,A,SRXH,N,100.0,N,SRXH
 SSB,SouthState Bank Corporation Common Stock,SouthState Bank Corporation Common Stock,N,SSB,N,100.0,N,SSB
 SSCP,SMART Small Cap ETF,SMART Small Cap ETF,P,SSCP,Y,100.0,N,SSCP
 SSD,"Simpson Manufacturing Company, Inc. Common Stock","Simpson Manufacturing Company, Inc. Common Stock",N,SSD,N,100.0,N,SSD
@@ -6327,7 +6326,7 @@ TFPM,Triple Flag Precious Metals Corp. Common Shares,Triple Flag Precious Metals
 TFPN,Blueprint Chesapeake Multi,Blueprint Chesapeake Multi-Asset Trend ETF,P,TFPN,Y,100.0,N,TFPN
 TFX,Teleflex Incorporated Common Stock,Teleflex Incorporated Common Stock,N,TFX,N,100.0,N,TFX
 TG,Tredegar Corporation Common Stock,Tredegar Corporation Common Stock,N,TG,N,100.0,N,TG
-TGB,"Taseko Mines, Ltd. Common Stock","Taseko Mines, Ltd. Common Stock",A,TGB,N,100.0,N,TGB
+TGB,Trekor Metals Limited Common Shares,Trekor Metals Limited Common Shares,A,TGB,N,100.0,N,TGB
 TGE,The Generation Essentials Group Class A Ordinary Shares,The Generation Essentials Group Class A Ordinary Shares,N,TGE,N,100.0,N,TGE
 TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share","The Generation Essentials Group Warrants, each whole warrant exercisable for one Class A Ordinary Share",A,TGE.WS,N,100.0,N,TGE+
 TGEN,Tecogen Inc. Common Stock,Tecogen Inc. Common Stock,A,TGEN,N,100.0,N,TGEN
