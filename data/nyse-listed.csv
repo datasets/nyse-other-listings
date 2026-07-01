@@ -1,6 +1,7 @@
 ACT Symbol,Company Name
 A,"Agilent Technologies, Inc. Common Stock"
 AA,Alcoa Corporation Common Stock 
+AAC.U,"Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one"
 AADX,"Applied Aerospace & Defense, Inc. Common Stock"
 AAMI,Acadian Asset Management Inc. Common Stock
 AAP,Advance Auto Parts Inc.
@@ -1155,6 +1156,7 @@ GJT,Synthetic Fixed
 GKOS,Glaukos Corporation Common Stock
 GL,Globe Life Inc. Common Stock
 GL$D,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061
+GLAS,Glass House Brands Inc. Subordinate Voting Shares
 GLED,GalaxyEdge Acquisition Corporation Ordinary Shares
 GLED.R,GalaxyEdge Acquisition Corporation Rights to receive one
 GLED.U,"GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share"
@@ -2604,7 +2606,6 @@ TPB,"Turning Point Brands, Inc. Common Stock"
 TPC,Tutor Perini Corporation Common Stock
 TPL,Texas Pacific Land Corporation Common Stock
 TPR,"Tapestry, Inc. Common Stock"
-TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026"
 TPTS,"Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029"
 TPVG,TriplePoint Venture Growth BDC Corp. Common Stock
 TPYP,Tortoise North American Pipeline ETF
@@ -2792,7 +2793,6 @@ VYX,NCR Voyix Corporation Common Stock
 VZ,Verizon Communications Inc. Common Stock
 W,Wayfair Inc. Class A Common Stock
 WAB,Westinghouse Air Brake Technologies Corporation Common Stock
-WAGN,Pabrai Wagons ETF
 WAL,Western Alliance Bancorporation Common Stock (DE)
 WAL$A,"Western Alliance Bancorporation Depositary Shares, Each Representing a 1/400th Interest in a Share of 4.250% Fixed"
 WAT,Waters Corporation Common Stock
