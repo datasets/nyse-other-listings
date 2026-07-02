@@ -394,7 +394,6 @@ BKT,BlackRock Income Trust Inc. (The)
 BKU,"BankUnited, Inc. Common Stock"
 BKV,BKV Corporation Common Stock
 BLCO,Bausch + Lomb Corporation Common Shares
-BLD,TopBuild Corp. Common Stock
 BLDR,"Builders FirstSource, Inc. Common Stock"
 BLK,"BlackRock, Inc. Common Stock"
 BLND,"Blend Labs, Inc. Class A Common Stock"
@@ -1425,7 +1424,6 @@ JENA.R,"Jena Acquisition Corporation II Rights, each right to acquire one"
 JENA.U,"Jena Acquisition Corporation II Units, each consisting of one Class A ordinary share and one right"
 JFR,Nuveen Floating Rate Income Fund Common Stock
 JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest
-JHG,Janus Henderson Group plc Ordinary Shares
 JHI,John Hancock Investors Trust Common Stock
 JHS,John Hancock Income Securities Trust Common Stock
 JHX,James Hardie Industries plc. Ordinary Shares
@@ -1616,7 +1614,7 @@ MATV,"Mativ Holdings, Inc. Common Stock"
 MATX,"Matson, Inc. Common Stock"
 MAX,"MediaAlpha, Inc. Class A Common Stock"
 MBC,"MasterBrand, Inc. Common Stock"
-MBGL.V,Mobility Global Inc. Common Stock When
+MBGL,Mobility Global Inc. Common Stock
 MBI,MBIA Inc. Common Stock
 MC,Moelis & Company Class A Common Stock
 MCB,Metropolitan Bank Holding Corp. Common Stock
@@ -2351,7 +2349,6 @@ SEAL$A,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Unit
 SEAL$B,Seapeak LLC 8.50% Series B Fixed
 SEG,Seaport Entertainment Group Inc. Common Stock
 SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock"
-SEM,Select Medical Holdings Corporation Common Stock
 SES,SES AI Corporation Class A Common Stock
 SES.W,"SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share"
 SF,Stifel Financial Corporation Common Stock
@@ -2379,7 +2376,6 @@ SI,"Shoulder Innovations, Inc. Common Stock"
 SID,Companhia Siderurgica Nacional S.A. Common Stock
 SIG,Signet Jewelers Limited Common Shares
 SII,Sprott Inc. Common Shares
-SILA,"Sila Realty Trust, Inc. Common Stock"
 SIND,Sinda Ltd. Common Stock
 SITC,SITE Centers Corp. Common Stock
 SITE,"SiteOne Landscape Supply, Inc. Common Stock"
@@ -2443,7 +2439,6 @@ SPE$C,"Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock, Series
 SPG,"Simon Property Group, Inc. Common Stock"
 SPG$J,"Simon Property Group, Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock"
 SPGI,S&P Global Inc. Common Stock
-SPGI.V,S&P Global Inc. Common Stock When
 SPH,"Suburban Propane Partners, L.P. Common Stock"
 SPHR,Sphere Entertainment Co. Class A Common Stock
 SPIR,"Spire Global, Inc. Class A Common Stock"
@@ -2477,7 +2472,6 @@ ST,Sensata Technologies Holding plc Ordinary Shares
 STAG,"Stag Industrial, Inc. Common Stock"
 STC,Stewart Information Services Corporation Common Stock
 STE,STERIS plc (Ireland) Ordinary Shares
-STEL,"Stellar Bancorp, Inc. Common Stock"
 STEM,"Stem, Inc. Class A Common Stock"
 STEW,"SRH Total Return Fund, Inc. Common Stock"
 STG,"Sunlands Technology Group American Depositary Shares, representing Class A ordinary shares"
