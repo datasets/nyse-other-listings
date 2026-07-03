@@ -1214,6 +1214,7 @@ CION,CION Investment Corporation Common Stock,CION Investment Corporation Common
 CITR,CitroTech Inc. Common Stock,CitroTech Inc. Common Stock,A,CITR,N,100.0,N,CITR
 CIVG,Corgi 1,Corgi 1-5 Year Investment Grade Corporate Bond ETF,Z,CIVG,Y,100.0,N,CIVG
 CIX,CompX International Inc. Common Stock,CompX International Inc. Common Stock,A,CIX,N,100.0,N,CIX
+CJUL,Corgi U.S. Equities 15% Structured Buffer ETF ,Corgi U.S. Equities 15% Structured Buffer ETF - July Series,Z,CJUL,Y,100.0,N,CJUL
 CJUN,Corgi U.S. Equities 15% Structured Buffer ETF ,Corgi U.S. Equities 15% Structured Buffer ETF - June Series,Z,CJUN,Y,100.0,N,CJUN
 CKX,"CKX Lands, Inc. Common Stock","CKX Lands, Inc. Common Stock",A,CKX,N,100.0,N,CKX
 CL,Colgate,Colgate-Palmolive Company Common Stock,N,CL,N,100.0,N,CL
@@ -1331,6 +1332,8 @@ COPA,Themes Copper Miners ETF,Themes Copper Miners ETF,Z,COPA,Y,100.0,N,COPA
 COPL,Copley Acquisition Corp Ordinary Shares,Copley Acquisition Corp Ordinary Shares,N,COPL,N,100.0,N,COPL
 COPL.U,"Copley Acquisition Corp Units, each consisting of one ordinary share and one","Copley Acquisition Corp Units, each consisting of one ordinary share and one-half warrant",N,COPL.U,N,100.0,N,COPL=
 COPL.W,"Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Copley Acquisition Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,COPL.WS,N,100.0,N,COPL+
+COPR,Idaho Copper Corporation Common Stock,Idaho Copper Corporation Common Stock,A,COPR,N,100.0,N,COPR
+COPR.W,Idaho Copper Corporation Common Stock Purchase Warrant,Idaho Copper Corporation Common Stock Purchase Warrant,A,COPR.WS,N,100.0,N,COPR+
 COPX,Global X Copper Miners ETF,Global X Copper Miners ETF,P,COPX,Y,100.0,N,COPX
 COPY,"Tweedy, Browne Insider + Value ETF","Tweedy, Browne Insider + Value ETF",P,COPY,Y,100.0,N,COPY
 COPZ,Defiance Daily Target 2X Long Copper Miners ETF,Defiance Daily Target 2X Long Copper Miners ETF,P,COPZ,Y,100.0,N,COPZ
@@ -1450,6 +1453,7 @@ CTGG,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),Qwest
 CTGO,Contango Silver & Gold Inc. Common Stock,Contango Silver & Gold Inc. Common Stock,A,CTGO,N,100.0,N,CTGO
 CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),N,CTHH,N,100.0,N,CTHH
 CTIF,Castellan Targeted Income ETF,Castellan Targeted Income ETF,Z,CTIF,Y,100.0,N,CTIF
+CTJL,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Structured Buffer ETF - July Series,Z,CTJL,Y,100.0,N,CTJL
 CTJN,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Structured Buffer ETF - June Series,Z,CTJN,Y,100.0,N,CTJN
 CTM,"Castellum, Inc. Common Stock","Castellum, Inc. Common Stock",A,CTM,N,100.0,N,CTM
 CTMA,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Structured Buffer ETF - May Series,Z,CTMA,Y,100.0,N,CTMA
@@ -2011,6 +2015,7 @@ EMFI,Pictet Emerging Markets Debt ETF,Pictet Emerging Markets Debt ETF,P,EMFI,Y,
 EMGF,iShares Emerging Markets Equity Factor ETF,iShares Emerging Markets Equity Factor ETF,Z,EMGF,Y,100.0,N,EMGF
 EMHC,State Street SPDR Bloomberg Emerging Markets USD Bond ETF,State Street SPDR Bloomberg Emerging Markets USD Bond ETF,P,EMHC,Y,100.0,N,EMHC
 EMHY,iShares J.P. Morgan EM High Yield Bond ETF,iShares J.P. Morgan EM High Yield Bond ETF,Z,EMHY,Y,100.0,N,EMHY
+EMJL,Corgi Emerging Markets Equities 15% Structured Buffer ETF ,Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series,Z,EMJL,Y,100.0,N,EMJL
 EMJN,Corgi Emerging Markets Equities 15% Structured Buffer ETF ,Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series,Z,EMJN,Y,100.0,N,EMJN
 EMKT,Lazard Emerging Markets Opportunities ETF,Lazard Emerging Markets Opportunities ETF,P,EMKT,Y,100.0,N,EMKT
 EMLC,VanEck J. P. Morgan EM Local Currency Bond ET,VanEck J. P. Morgan EM Local Currency Bond ET,P,EMLC,Y,100.0,N,EMLC
@@ -2949,7 +2954,6 @@ GVIP,Goldman Sachs Hedge Industry VIP ETF,Goldman Sachs Hedge Industry VIP ETF,P
 GVLU,Gotham 1000 Value ETF,Gotham 1000 Value ETF,P,GVLU,Y,100.0,N,GVLU
 GVUS,Goldman Sachs MarketBeta Russell 1000 Value Equity ETF,Goldman Sachs MarketBeta Russell 1000 Value Equity ETF,P,GVUS,Y,100.0,N,GVUS
 GWH,"ESS Tech, Inc. Common Stock","ESS Tech, Inc. Common Stock",N,GWH,N,100.0,N,GWH
-GWH.W,"ESS Tech, Inc. Warrant","ESS Tech, Inc. Warrant",N,GWH.WS,N,100.0,N,GWH+
 GWRE,"Guidewire Software, Inc. Common Stock","Guidewire Software, Inc. Common Stock",N,GWRE,N,100.0,N,GWRE
 GWW,"W.W. Grainger, Inc. Common Stock","W.W. Grainger, Inc. Common Stock",N,GWW,N,10.0,N,GWW
 GWX,State Street SPDR S&P International Small Cap ETF,State Street SPDR S&P International Small Cap ETF,P,GWX,Y,100.0,N,GWX
@@ -3057,6 +3061,7 @@ HIPS,GraniteShares HIPS US High Income ETF,GraniteShares HIPS US High Income ETF
 HIW,"Highwoods Properties, Inc. Common Stock","Highwoods Properties, Inc. Common Stock",N,HIW,N,100.0,N,HIW
 HIX,Western Asset High Income Fund II Inc. Common Stock,Western Asset High Income Fund II Inc. Common Stock,N,HIX,N,100.0,N,HIX
 HIYY,YieldMax HIMS Option Income Strategy ETF,YieldMax HIMS Option Income Strategy ETF,P,HIYY,Y,100.0,N,HIYY
+HJLY,Corgi U.S. Equities 100% Structured Buffer ETF ,Corgi U.S. Equities 100% Structured Buffer ETF - July Series,Z,HJLY,Y,100.0,N,HJLY
 HJUN,Corgi U.S. Equities 100% Structured Buffer ETF ,Corgi U.S. Equities 100% Structured Buffer ETF - June Series,Z,HJUN,Y,100.0,N,HJUN
 HKD,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),N,HKD,N,100.0,N,HKD
 HL,Hecla Mining Company Common Stock,Hecla Mining Company Common Stock,N,HL,N,100.0,N,HL
@@ -3251,6 +3256,7 @@ IDEQ,Lazard International Dynamic Equity ETF,Lazard International Dynamic Equity
 IDEV,iShares Core MSCI International Developed Markets ETF,iShares Core MSCI International Developed Markets ETF,P,IDEV,Y,100.0,N,IDEV
 IDGT,iShares U.S. Digital Infrastructure and Real Estate ETF,iShares U.S. Digital Infrastructure and Real Estate ETF,P,IDGT,Y,100.0,N,IDGT
 IDHQ,Invesco S&P International Developed Quality ETF,Invesco S&P International Developed Quality ETF,P,IDHQ,Y,100.0,N,IDHQ
+IDJL,Corgi International Developed Equities 15% Structured Buffer ETF ,Corgi International Developed Equities 15% Structured Buffer ETF - July Series,Z,IDJL,Y,100.0,N,IDJL
 IDJN,Corgi International Developed Equities 15% Structured Buffer ETF ,Corgi International Developed Equities 15% Structured Buffer ETF - June Series,Z,IDJN,Y,100.0,N,IDJN
 IDLV,Invesco S&P International Developed Low Volatility ETF,Invesco S&P International Developed Low Volatility ETF,P,IDLV,Y,100.0,N,IDLV
 IDMO,Invesco S&P International Developed Momentum ETF,Invesco S&P International Developed Momentum ETF,P,IDMO,Y,100.0,N,IDMO
@@ -3690,6 +3696,7 @@ JUCY,Aptus Enhanced Yield ETF,Aptus Enhanced Yield ETF,Z,JUCY,Y,100.0,N,JUCY
 JUDB,Aptus July Deep Buffer ETF,Aptus July Deep Buffer ETF,Z,JUDB,Y,100.0,N,JUDB
 JUDO,Janus Henderson U.S. Equity Enhanced Income ETF,Janus Henderson U.S. Equity Enhanced Income ETF,Z,JUDO,Y,100.0,N,JUDO
 JULB,Aptus July Buffer ETF,Aptus July Buffer ETF,Z,JULB,Y,100.0,N,JULB
+JULC,Corgi U.S. Equities 10% Structured Buffer ETF ,Corgi U.S. Equities 10% Structured Buffer ETF - July Series,Z,JULC,Y,100.0,N,JULC
 JULH,Innovator Premium Income 20 Barrier ETF ,Innovator Premium Income 20 Barrier ETF - July,Z,JULH,Y,100.0,N,JULH
 JULI,AllianzIM International Equity Buffer15 Uncapped Jul ETF,AllianzIM International Equity Buffer15 Uncapped Jul ETF,Z,JULI,Y,100.0,N,JULI
 JULJ,Innovator Premium Income 30 Barrier ETF ,Innovator Premium Income 30 Barrier ETF - July,Z,JULJ,Y,100.0,N,JULJ
@@ -5317,6 +5324,7 @@ QIDX,Indexperts Quality Earnings Focused ETF,Indexperts Quality Earnings Focused
 QIG,WisdomTree U.S. Corporate Bond Fund,WisdomTree U.S. Corporate Bond Fund,Z,QIG,Y,100.0,N,QIG
 QINT,American Century Quality Diversified International ETF,American Century Quality Diversified International ETF,P,QINT,Y,100.0,N,QINT
 QIS,Simplify Multi,Simplify Multi-QIS Alternative ETF,P,QIS,Y,100.0,N,QIS
+QJL,Corgi Growth & Technology 10% Structured Buffer ETF ,Corgi Growth & Technology 10% Structured Buffer ETF - July Series,Z,QJL,Y,100.0,N,QJL
 QJN,Corgi Growth & Technology 10% Structured Buffer ETF ,Corgi Growth & Technology 10% Structured Buffer ETF - June Series,Z,QJN,Y,100.0,N,QJN
 QJUN,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - June,Z,QJUN,Y,100.0,N,QJUN
 QLC,FlexShares US Quality Large Cap Index Fund,FlexShares US Quality Large Cap Index Fund,Z,QLC,Y,100.0,N,QLC
@@ -5339,6 +5347,7 @@ QNC,Quantum eMotion Corp. Common Shares,Quantum eMotion Corp. Common Shares,A,QN
 QNTU,Tradr 2X Long QNT Daily ETF,Tradr 2X Long QNT Daily ETF,Z,QNTU,Y,100.0,N,QNTU
 QPX,AdvisorShares Q Dynamic Growth ETF,AdvisorShares Q Dynamic Growth ETF,P,QPX,Y,100.0,N,QPX
 QQH,HCM Defender 100 Index ETF,HCM Defender 100 Index ETF,P,QQH,Y,100.0,N,QQH
+QQJL,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - July Series,Z,QQJL,Y,100.0,N,QQJL
 QQJN,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - June Series,Z,QQJN,Y,100.0,N,QQJN
 QQMY,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - May Series,Z,QQMY,Y,100.0,N,QQMY
 QQQD,Direxion Daily Magnificent 7 Bear 1X ETF,Direxion Daily Magnificent 7 Bear 1X ETF,P,QQQD,Y,100.0,N,QQQD
@@ -5750,6 +5759,7 @@ SCHZ,Schwab US Aggregate Bond ETF,Schwab US Aggregate Bond ETF,P,SCHZ,Y,100.0,N,
 SCI,Service Corporation International Common Stock,Service Corporation International Common Stock,N,SCI,N,100.0,N,SCI
 SCIO,First Trust Structured Credit Income Opportunities ETF,First Trust Structured Credit Income Opportunities ETF,P,SCIO,Y,100.0,N,SCIO
 SCJ,iShares MSCI Japan Sm Cap,iShares MSCI Japan Sm Cap,P,SCJ,Y,100.0,N,SCJ
+SCJL,Corgi U.S. Small,Corgi U.S. Small-Cap 15% Structured Buffer ETF - July Series,Z,SCJL,Y,100.0,N,SCJL
 SCJN,Corgi U.S. Small,Corgi U.S. Small-Cap 15% Structured Buffer ETF - June Series,Z,SCJN,Y,100.0,N,SCJN
 SCL,Stepan Company Common Stock,Stepan Company Common Stock,N,SCL,N,100.0,N,SCL
 SCLZ,Swan Enhanced Dividend Income ETF,Swan Enhanced Dividend Income ETF,Z,SCLZ,Y,100.0,N,SCLZ
@@ -5791,6 +5801,7 @@ SEB,Seaboard Corporation Common Stock,Seaboard Corporation Common Stock,A,SEB,N,
 SECR,NYLI MacKay Securitized Income ETF,NYLI MacKay Securitized Income ETF,P,SECR,Y,100.0,N,SECR
 SECT,Main Sector Rotation ETF,Main Sector Rotation ETF,Z,SECT,Y,100.0,N,SECT
 SECU,iShares Securitized Income Active ETF,iShares Securitized Income Active ETF,Z,SECU,Y,100.0,N,SECU
+SECZ,Securitize Corp. Common Stock,Securitize Corp. Common Stock,N,SECZ,N,100.0,N,SECZ
 SEF,ProShares Short Financials,ProShares Short Financials,P,SEF,Y,100.0,N,SEF
 SEG,Seaport Entertainment Group Inc. Common Stock,Seaport Entertainment Group Inc. Common Stock,N,SEG,N,100.0,N,SEG
 SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock","Solaris Energy Infrastructure, Inc. Class A Common Stock",N,SEI,N,100.0,N,SEI
@@ -6020,7 +6031,7 @@ SOXY,YieldMax Target 12 Semiconductor Option Income ETF,YieldMax Target 12 Semic
 SOYB,Teucrium Soybean Fund ETV,Teucrium Soybean Fund ETV,P,SOYB,Y,100.0,N,SOYB
 SPAB,State Street SPDR Portfolio Aggregate Bond ETF,State Street SPDR Portfolio Aggregate Bond ETF,P,SPAB,Y,100.0,N,SPAB
 SPAL,GraniteShares 2x Long SpaceX Daily ETF,GraniteShares 2x Long SpaceX Daily ETF,Z,SPAL,Y,100.0,N,SPAL
-SPAX,T,T-REX 2X Long SpaceX Daily Target ETF,P,SPAX,Y,100.0,N,SPAX
+SPAX,T,T-REX 2X Long SPCX Daily Target ETF,P,SPAX,Y,100.0,N,SPAX
 SPB,"Spectrum Brands Holdings, Inc. Common Stock","Spectrum Brands Holdings, Inc. Common Stock",N,SPB,N,100.0,N,SPB
 SPBO,State Street SPDR Portfolio Corporate Bond ETF,State Street SPDR Portfolio Corporate Bond ETF,P,SPBO,Y,100.0,N,SPBO
 SPBU,AllianzIM Buffer15 Uncapped Allocation ETF,AllianzIM Buffer15 Uncapped Allocation ETF,Z,SPBU,Y,100.0,N,SPBU
@@ -6857,6 +6868,7 @@ VICI,VICI Properties Inc. Common Stock,VICI Properties Inc. Common Stock,N,VICI,
 VIDA,VIDA Global Inc. Class A Common Stock,VIDA Global Inc. Class A Common Stock,A,VIDA,N,100.0,N,VIDA
 VIDI,Vident International Equity Strategy ETF,Vident International Equity Strategy ETF,P,VIDI,Y,100.0,N,VIDI
 VIG,Vanguard Div Appreciation ETF,Vanguard Div Appreciation ETF,P,VIG,Y,100.0,N,VIG
+VII.U,"Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one","Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",N,VII.U,N,100.0,N,VII=
 VIK,Viking Holdings Ltd Ordinary Shares,Viking Holdings Ltd Ordinary Shares,N,VIK,N,100.0,N,VIK
 VIOG,Vanguard S&P Small,Vanguard S&P Small-Cap 600 Growth ETF,P,VIOG,Y,100.0,N,VIOG
 VIOO,Vanguard S&P Small,Vanguard S&P Small-Cap 600 ETF,P,VIOO,Y,100.0,N,VIOO
@@ -7226,7 +7238,7 @@ XNTK,State Street SPDR NYSE Technology ETF,State Street SPDR NYSE Technology ETF
 XOCT,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - October,Z,XOCT,Y,100.0,N,XOCT
 XOEF,iShares S&P 500 ex S&P 100 ETF,iShares S&P 500 ex S&P 100 ETF,P,XOEF,Y,100.0,N,XOEF
 XOEX,Xtrackers S&P 100 Ex Top 20 ETF,Xtrackers S&P 100 Ex Top 20 ETF,Z,XOEX,Y,100.0,N,XOEX
-XOM,Exxon Mobil Corporation Common Stock,Exxon Mobil Corporation Common Stock,N,XOM,N,100.0,N,XOM
+XOM,ExxonMobil Holdings Corporation Common Stock,ExxonMobil Holdings Corporation Common Stock,N,XOM,N,100.0,N,XOM
 XOMO,YieldMax XOM Option Income Strategy ETF,YieldMax XOM Option Income Strategy ETF,P,XOMO,Y,100.0,N,XOMO
 XONE,BondBloxx Bloomberg One Year Target Duration US Treasury ETF,BondBloxx Bloomberg One Year Target Duration US Treasury ETF,P,XONE,Y,100.0,N,XONE
 XOP,State Street SPDR S&P Oil & Gas Exploration & Production ETF,State Street SPDR S&P Oil & Gas Exploration & Production ETF,P,XOP,Y,100.0,N,XOP
