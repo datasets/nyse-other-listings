@@ -19,7 +19,6 @@ AAPY,Kurv Yield Premium Strategy Apple (AAPL) ETF,Kurv Yield Premium Strategy Ap
 AAT,"American Assets Trust, Inc. Common Stock","American Assets Trust, Inc. Common Stock",N,AAT,N,100.0,N,AAT
 AAUA,Alpha Architect US Equity 3 ETF,Alpha Architect US Equity 3 ETF,Z,AAUA,Y,100.0,N,AAUA
 AAUC,Allied Gold Corporation Common Shares,Allied Gold Corporation Common Shares,N,AAUC,N,100.0,N,AAUC
-AAUM,Tema Alternative Asset Managers ETF,Tema Alternative Asset Managers ETF,Z,AAUM,Y,100.0,N,AAUM
 AB,AllianceBernstein Holding L.P.  Units,AllianceBernstein Holding L.P.  Units,N,AB,N,100.0,N,AB
 ABBV,AbbVie Inc. Common Stock,AbbVie Inc. Common Stock,N,ABBV,N,100.0,N,ABBV
 ABCB,Ameris Bancorp Common Stock,Ameris Bancorp Common Stock,N,ABCB,N,100.0,N,ABCB
@@ -4181,7 +4180,7 @@ MFUT,Cambria Chesapeake Pure Trend ETF,Cambria Chesapeake Pure Trend ETF,Z,MFUT,
 MG,Mistras Group Inc Common Stock,Mistras Group Inc Common Stock,N,MG,N,100.0,N,MG
 MGA,"Magna International, Inc. Common Stock","Magna International, Inc. Common Stock",N,MGA,N,100.0,N,MGA
 MGC,Vanguard Mega Cap ETF,Vanguard Mega Cap ETF,P,MGC,Y,100.0,N,MGC
-MGF,MFS Government Markets Income Trust Common Stock,MFS Government Markets Income Trust Common Stock,N,MGF,N,100.0,N,MGF
+MGF,Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest,Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest,N,MGF,N,100.0,N,MGF
 MGK,Vanguard Mega Cap Growth ETF,Vanguard Mega Cap Growth ETF,P,MGK,Y,40.0,N,MGK
 MGKX,Corgi U.S. Mega,Corgi U.S. Mega-Cap Growth 2x Daily ETF,Z,MGKX,Y,100.0,N,MGKX
 MGLD,"The Marygold Companies, Inc. Common Stock","The Marygold Companies, Inc. Common Stock",A,MGLD,N,100.0,N,MGLD
@@ -4216,7 +4215,7 @@ MIDU,Direxion Mid Cap Bull 3X ETF,Direxion Mid Cap Bull 3X ETF,P,MIDU,Y,100.0,N,
 MIG,VanEck Moody's Analytics IG Corporate Bond ETF,VanEck Moody's Analytics IG Corporate Bond ETF,Z,MIG,Y,100.0,N,MIG
 MIGO,MIG Core ETF,MIG Core ETF,P,MIGO,Y,100.0,N,MIGO
 MILK,Pacer US Cash Cows Bond ETF,Pacer US Cash Cows Bond ETF,Z,MILK,Y,100.0,N,MILK
-MIN,MFS Intermediate Income Trust Common Stock,MFS Intermediate Income Trust Common Stock,N,MIN,N,100.0,N,MIN
+MIN,Aberdeen Intermediate Income Fund Common Shares of Beneficial Interest,Aberdeen Intermediate Income Fund Common Shares of Beneficial Interest,N,MIN,N,100.0,N,MIN
 MINE,Mayfair Gold Corp. Common Shares,Mayfair Gold Corp. Common Shares,A,MINE,N,100.0,N,MINE
 MINN,Mairs & Power Minnesota Municipal Bond ETF,Mairs & Power Minnesota Municipal Bond ETF,Z,MINN,Y,100.0,N,MINN
 MINO,PIMCO Municipal Income Opportunities Active Exchange,PIMCO Municipal Income Opportunities Active Exchange-Traded Fund,P,MINO,Y,100.0,N,MINO
@@ -5182,6 +5181,7 @@ PRT,PermRock Royalty Trust Units of Beneficial Interest,PermRock Royalty Trust U
 PRTO,RCN Pareto Strategic Allocation ETF,RCN Pareto Strategic Allocation ETF,P,PRTO,Y,100.0,N,PRTO
 PRU,"Prudential Financial, Inc. Common Stock","Prudential Financial, Inc. Common Stock",N,PRU,N,100.0,N,PRU
 PRVS,Parnassus Value Select ETF,Parnassus Value Select ETF,N,PRVS,Y,100.0,N,PRVS
+PRVT,Tema Alternative Asset Managers ETF,Tema Alternative Asset Managers ETF,Z,AAUM,Y,100.0,N,AAUM
 PRXG,Praxis Impact Large Cap Growth ETF,Praxis Impact Large Cap Growth ETF,P,PRXG,Y,100.0,N,PRXG
 PRXI,Praxis Impact International ETF,Praxis Impact International ETF,P,PRXI,Y,100.0,N,PRXI
 PRXV,Praxis Impact Large Cap Value ETF,Praxis Impact Large Cap Value ETF,P,PRXV,Y,100.0,N,PRXV
@@ -5916,7 +5916,7 @@ SKT,Tanger Inc. Common Stock,Tanger Inc. Common Stock,N,SKT,N,100.0,N,SKT
 SKY,"Champion Homes, Inc. Common Stock","Champion Homes, Inc. Common Stock",N,SKY,N,100.0,N,SKY
 SKYH,Sky Harbour Group Corporation Class A Common Stock,Sky Harbour Group Corporation Class A Common Stock,N,SKYH,N,100.0,N,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",N,SKYH.WS,N,100.0,N,SKYH+
-SLAI,SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares),N,SLAI,N,100.0,N,SLAI
+SLAI,SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares),SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares),N,SLAI,N,100.0,N,SLAI
 SLB,SLB Limited Common Shares,SLB Limited Common Shares,N,SLB,N,100.0,N,SLB
 SLDR,Global X Short,Global X Short-Term Treasury Ladder ETF,P,SLDR,Y,100.0,N,SLDR
 SLF,Sun Life Financial Inc. Common Stock,Sun Life Financial Inc. Common Stock,N,SLF,N,100.0,N,SLF
