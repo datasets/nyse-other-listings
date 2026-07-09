@@ -6022,6 +6022,7 @@ SNPD,Xtrackers S&P Dividend Aristocrats Screened ETF,Xtrackers S&P Dividend Aris
 SNPE,Xtrackers S&P 500 Scored & Screened ETF,Xtrackers S&P 500 Scored & Screened ETF,P,SNPE,Y,100.0,N,SNPE
 SNPG,Xtrackers S&P 500 Growth Scored & Screened ETF,Xtrackers S&P 500 Growth Scored & Screened ETF,Z,SNPG,Y,100.0,N,SNPG
 SNTH,MRP SynthEquity ETF,MRP SynthEquity ETF,P,SNTH,Y,100.0,N,SNTH
+SNTQ,MRP SynthEquity Nasdaq 100 ETF,MRP SynthEquity Nasdaq 100 ETF,Z,SNTQ,Y,100.0,N,SNTQ
 SNX,TD SYNNEX Corporation Common Stock,TD SYNNEX Corporation Common Stock,N,SNX,N,100.0,N,SNX
 SNXX,Tradr 2X Long SNDK Daily ETF,Tradr 2X Long SNDK Daily ETF,Z,SNXX,Y,100.0,N,SNXX
 SO,Southern Company (The) Common Stock,Southern Company (The) Common Stock,N,SO,N,100.0,N,SO
@@ -6388,7 +6389,7 @@ TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable 
 TGEN,Tecogen Inc. Common Stock,Tecogen Inc. Common Stock,A,TGEN,N,100.0,N,TGEN
 TGLB,T. Rowe Price Global Equity ETF,T. Rowe Price Global Equity ETF,P,TGLB,Y,100.0,N,TGLB
 TGLR,Wedbush LAFFER TENGLER New Era Value ETF,Wedbush LAFFER TENGLER New Era Value ETF,P,TGLR,Y,100.0,N,TGLR
-TGLS,Tecnoglass Inc. Ordinary Shares,Tecnoglass Inc. Ordinary Shares,N,TGLS,N,100.0,N,TGLS
+TGLS,Tecnoglass Inc. Common Stock,Tecnoglass Inc. Common Stock,N,TGLS,N,100.0,N,TGLS
 TGRT,T. Rowe Price Growth ETF,T. Rowe Price Growth ETF,P,TGRT,Y,100.0,N,TGRT
 TGRW,T. Rowe Price Growth Stock ETF,T. Rowe Price Growth Stock ETF,P,TGRW,Y,100.0,N,TGRW
 TGS,Transportadora de Gas del Sur SA TGS Common Stock,Transportadora de Gas del Sur SA TGS Common Stock,N,TGS,N,100.0,N,TGS
