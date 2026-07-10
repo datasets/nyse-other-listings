@@ -523,7 +523,7 @@ AZN,AstraZeneca PLC Ordinary Shares,AstraZeneca PLC Ordinary Shares,N,AZN,N,100.
 AZO,"AutoZone, Inc. Common Stock","AutoZone, Inc. Common Stock",N,AZO,N,10.0,N,AZO
 AZTD,Aztlan Global Stock Selection DM SMID ETF,Aztlan Global Stock Selection DM SMID ETF,P,AZTD,Y,100.0,N,AZTD
 AZTR,Azitra Inc Common Stock,Azitra Inc Common Stock,A,AZTR,N,100.0,N,AZTR
-AZUL,"Azul S.A. American Depositary Shares, each representing two (2) Common Shares","Azul S.A. American Depositary Shares, each representing two (2) Common Shares",A,AZUL,N,100.0,N,AZUL
+AZUL,"Azul S.A. American Depositary Shares, each representing two (2) Common Shares","Azul S.A. American Depositary Shares, each representing two (2) Common Shares",N,AZUL,N,100.0,N,AZUL
 AZZ,AZZ Inc.,AZZ Inc.,N,AZZ,N,100.0,N,AZZ
 B,Barrick Mining Corporation Common Shares,Barrick Mining Corporation Common Shares,N,B,N,100.0,N,B
 BA,Boeing Company (The) Common Stock,Boeing Company (The) Common Stock,N,BA,N,100.0,N,BA
@@ -998,6 +998,7 @@ BWLP,BW LPG Limited Common Shares,BW LPG Limited Common Shares,N,BWLP,N,100.0,N,
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares","Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",N,BWMX,N,100.0,N,BWMX
 BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026","Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",N,BWNB,N,100.0,N,BWNB
 BWOW,Bitwise Dogecoin ETF,Bitwise Dogecoin ETF,P,BWOW,Y,100.0,N,BWOW
+BWQG,BWM Quality Growth ETF,BWM Quality Growth ETF,Z,BWQG,Y,100.0,N,BWQG
 BWTG,Brendan Wood TopGun Index ETF,Brendan Wood TopGun Index ETF,Z,BWTG,Y,100.0,N,BWTG
 BWX,State Street SPDR Bloomberg International Treasury Bond ETF,State Street SPDR Bloomberg International Treasury Bond ETF,P,BWX,Y,100.0,N,BWX
 BWXT,"BWX Technologies, Inc. Common Stock","BWX Technologies, Inc. Common Stock",N,BWXT,N,100.0,N,BWXT
@@ -1800,6 +1801,7 @@ DRNL,Defiance 2X Daily Long Pure Drone and Aerial Automation ETF,Defiance 2X Dai
 DRSK,Aptus Defined Risk ETF,Aptus Defined Risk ETF,Z,DRSK,Y,100.0,N,DRSK
 DRUP,GraniteShares Nasdaq Select Disruptors ETF,GraniteShares Nasdaq Select Disruptors ETF,P,DRUP,Y,100.0,N,DRUP
 DRV,Direxion Daily Real Estate Bear 3X ETF,Direxion Daily Real Estate Bear 3X ETF,P,DRV,Y,100.0,N,DRV
+DRVR,Amplify S&P 500 Dividend Drivers ETF,Amplify S&P 500 Dividend Drivers ETF,P,DRVR,Y,100.0,N,DRVR
 DSCO,DoubleLine Securitized Credit ETF,DoubleLine Securitized Credit ETF,P,DSCO,Y,100.0,N,DSCO
 DSEP,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - September,Z,DSEP,Y,100.0,N,DSEP
 DSI,iShares ESG MSCI KLD 400 ETF,iShares ESG MSCI KLD 400 ETF,P,DSI,Y,100.0,N,DSI
@@ -2394,6 +2396,7 @@ FIG,"Figma, Inc. Class A Common Stock","Figma, Inc. Class A Common Stock",N,FIG,
 FIGB,Fidelity Investment Grade Bond ETF,Fidelity Investment Grade Bond ETF,P,FIGB,Y,100.0,N,FIGB
 FIGS,"FIGS, Inc. Class A Common Stock","FIGS, Inc. Class A Common Stock",N,FIGS,N,100.0,N,FIGS
 FIIG,First Trust Intermediate Duration Investment Grade Corporate ETF,First Trust Intermediate Duration Investment Grade Corporate ETF,P,FIIG,Y,100.0,N,FIIG
+FINA,Fidelity MSCI North American Subset Index ETF,Fidelity MSCI North American Subset Index ETF,P,FINA,Y,100.0,N,FINA
 FINS,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,N,FINS,N,100.0,N,FINS
 FINT,Frontier Asset Total International Equity ETF,Frontier Asset Total International Equity ETF,P,FINT,Y,100.0,N,FINT
 FINV,FinVolution Group American Depositary Shares,FinVolution Group American Depositary Shares,N,FINV,N,100.0,N,FINV
@@ -2433,7 +2436,7 @@ FLCH,Franklin FTSE China ETF,Franklin FTSE China ETF,P,FLCH,Y,100.0,N,FLCH
 FLCO,Franklin Investment Grade Corporate ETF,Franklin Investment Grade Corporate ETF,P,FLCO,Y,100.0,N,FLCO
 FLCV,Federated Hermes MDT Large Cap Value ETF,Federated Hermes MDT Large Cap Value ETF,P,FLCV,Y,100.0,N,FLCV
 FLDR,Fidelity Low Duration Bond Factor ETF,Fidelity Low Duration Bond Factor ETF,Z,FLDR,Y,100.0,N,FLDR
-FLDZ,RiverNorth Patriot ETF,RiverNorth Patriot ETF,Z,FLDZ,Y,100.0,N,FLDZ
+FLDZ,TrueShares Patriot Defense ETF,TrueShares Patriot Defense ETF,Z,FLDZ,Y,100.0,N,FLDZ
 FLEE,Franklin FTSE Europe ETF,Franklin FTSE Europe ETF,P,FLEE,Y,100.0,N,FLEE
 FLEU,Franklin FTSE Eurozone ETF,Franklin FTSE Eurozone ETF,P,FLEU,Y,100.0,N,FLEU
 FLG,"Flagstar Bank, N.A. Common Stock","Flagstar Bank, N.A. Common Stock",N,FLG,N,100.0,N,FLG
@@ -2573,6 +2576,7 @@ FSMD,Fidelity Small,Fidelity Small-Mid Multifactor ETF,P,FSMD,Y,100.0,N,FSMD
 FSML,Franklin Small Cap Enhanced ETF,Franklin Small Cap Enhanced ETF,P,FSML,Y,100.0,N,FSML
 FSOL,Fidelity Solana Fund,Fidelity Solana Fund,P,FSOL,Y,100.0,N,FSOL
 FSP,Franklin Street Properties Corp. Common Stock,Franklin Street Properties Corp. Common Stock,A,FSP,N,100.0,N,FSP
+FSPC,First Trust Bloomberg Space Economy ETF,First Trust Bloomberg Space Economy ETF,P,FSPC,Y,100.0,N,FSPC
 FSS,Federal Signal Corporation Common Stock,Federal Signal Corporation Common Stock,N,FSS,N,100.0,N,FSS
 FSSL,FS Specialty Lending Fund Common Shares of Beneficial Interest,FS Specialty Lending Fund Common Shares of Beneficial Interest,N,FSSL,N,100.0,N,FSSL
 FSTA,Fidelity MSCI Consumer Staples Index ETF,Fidelity MSCI Consumer Staples Index ETF,P,FSTA,Y,100.0,N,FSTA
@@ -4025,7 +4029,7 @@ LRGF,iShares U.S. Equity Factor ETF,iShares U.S. Equity Factor ETF,P,LRGF,Y,100.
 LRGG,Nomura Focused Large Growth ETF,Nomura Focused Large Growth ETF,P,LRGG,Y,100.0,N,LRGG
 LRN,"Stride, Inc. Common Stock","Stride, Inc. Common Stock",N,LRN,N,100.0,N,LRN
 LRNX,Corgi LRN 2x Daily ETF,Corgi LRN 2x Daily ETF,Z,LRNX,Y,100.0,N,LRNX
-LRNZ,"TrueShares Technology, AI & Deep Learning ETF","TrueShares Technology, AI & Deep Learning ETF",P,LRNZ,Y,100.0,N,LRNZ
+LRNZ,"TrueShares Technology, AI & Deep Learning ETF","TrueShares Technology, AI & Deep Learning ETF",Z,LRNZ,Y,100.0,N,LRNZ
 LSAF,LeaderShares AlphaFactor US Core Equity ETF,LeaderShares AlphaFactor US Core Equity ETF,P,LSAF,Y,100.0,N,LSAF
 LSAT,LeaderShares AlphaFactor Tactical Focused ETF,LeaderShares AlphaFactor Tactical Focused ETF,P,LSAT,Y,100.0,N,LSAT
 LSCP,Natixis Loomis Sayles Dynamic Core Plus ETF,Natixis Loomis Sayles Dynamic Core Plus ETF,P,LSCP,Y,100.0,N,LSCP
@@ -4648,6 +4652,8 @@ NSA$B,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Pr
 NSC,Norfolk Southern Corporation Common Stock,Norfolk Southern Corporation Common Stock,N,NSC,N,40.0,N,NSC
 NSCI,Nuveen Securitized Income ETF,Nuveen Securitized Income ETF,P,NSCI,Y,100.0,N,NSCI
 NSEP,Innovator Growth,Innovator Growth-100 Power Buffer ETF - September,Z,NSEP,Y,100.0,N,NSEP
+NSIG,North Square Growth Opportunities ETF,North Square Growth Opportunities ETF,P,NSIG,Y,100.0,N,NSIG
+NSIV,North Square Disciplined Value ETF,North Square Disciplined Value ETF,P,NSIV,Y,100.0,N,NSIV
 NSP,"Insperity, Inc. Common Stock","Insperity, Inc. Common Stock",N,NSP,N,100.0,N,NSP
 NSRX,Nasus Pharma Ltd. Ordinary Shares,Nasus Pharma Ltd. Ordinary Shares,A,NSRX,N,100.0,N,NSRX
 NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,N,NTB,N,100.0,N,NTB
@@ -5284,6 +5290,7 @@ PW$A,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,Power REIT 7
 PWB,Invesco Large Cap Growth ETF,Invesco Large Cap Growth ETF,P,PWB,Y,100.0,N,PWB
 PWER,Nomura Energy Transition ETF,Nomura Energy Transition ETF,P,PWER,Y,100.0,N,PWER
 PWR,"Quanta Services, Inc. Common Stock","Quanta Services, Inc. Common Stock",N,PWR,N,40.0,N,PWR
+PWRZ,TrueShares Eagle Global Renewable Energy Income ETF,TrueShares Eagle Global Renewable Energy Income ETF,Z,PWRZ,Y,100.0,N,PWRZ
 PWS,Pacer WealthShield ETF,Pacer WealthShield ETF,Z,PWS,Y,100.0,N,PWS
 PWV,Invesco Large Cap Value ETF,Invesco Large Cap Value ETF,P,PWV,Y,100.0,N,PWV
 PWZ,Invesco California AMT,Invesco California AMT-Free Municipal Bond Portfolio,P,PWZ,Y,100.0,N,PWZ
@@ -5563,13 +5570,13 @@ RMT,Royce Micro,"Royce Micro-Cap Trust, Inc. Common Stock",N,RMT,N,100.0,N,RMT
 RND,First Trust Bloomberg R&D Leaders ETF,First Trust Bloomberg R&D Leaders ETF,P,RND,Y,100.0,N,RND
 RNG,"RingCentral, Inc. Class A Common Stock","RingCentral, Inc. Class A Common Stock",N,RNG,N,100.0,N,RNG
 RNGR,"Ranger Energy Services, Inc. Class A Common Stock","Ranger Energy Services, Inc. Class A Common Stock",N,RNGR,N,100.0,N,RNGR
+RNMN,RiverNorth Market Neutral ETF,RiverNorth Market Neutral ETF,Z,RNMN,Y,100.0,N,RNMN
 RNP,"Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares","Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares",N,RNP,N,100.0,N,RNP
 RNR,RenaissanceRe Holdings Ltd. Common Stock,RenaissanceRe Holdings Ltd. Common Stock,N,RNR,N,40.0,N,RNR
 RNR$F,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Series F Preference Share","RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Series F Preference Share",N,RNRpF,N,100.0,N,RNR-F
 RNR$G,"RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1,000th interest in a share of 4.20% Series G Preference Shares","RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1,000th interest in a share of 4.20% Series G Preference Shares",N,RNRpG,N,100.0,N,RNR-G
 RNST,Renasant Corporation Common Stock,Renasant Corporation Common Stock,N,RNST,N,100.0,N,RNST
 RNTY,YieldMax Target 12 Real Estate Option Income ETF,YieldMax Target 12 Real Estate Option Income ETF,P,RNTY,Y,100.0,N,RNTY
-RNWZ,TrueShares Eagle Global Renewable Energy Income ETF,TrueShares Eagle Global Renewable Energy Income ETF,P,RNWZ,Y,100.0,N,RNWZ
 ROAM,Hartford Multifactor Emerging Markets ETF,Hartford Multifactor Emerging Markets ETF,P,ROAM,Y,100.0,N,ROAM
 ROBN,T,T-Rex 2X Long HOOD Daily Target ETF,Z,ROBN,Y,100.0,N,ROBN
 ROBO,ROBO Global Robotics and Automation Index ETF,ROBO Global Robotics and Automation Index ETF,P,ROBO,Y,100.0,N,ROBO
@@ -5956,6 +5963,7 @@ SLV,iShares Silver Trust,iShares Silver Trust,P,SLV,Y,100.0,N,SLV
 SLVM,Sylvamo Corporation Common Stock,Sylvamo Corporation Common Stock,N,SLVM,N,100.0,N,SLVM
 SLVP,iShares MSCI Global Silver and Metals Miners ETF,iShares MSCI Global Silver and Metals Miners ETF,Z,SLVP,Y,100.0,N,SLVP
 SLVX,Nicholas Silver Income ETF,Nicholas Silver Income ETF,P,SLVX,Y,100.0,N,SLVX
+SLVY,FT Vest Silver Strategy & Target Income ETF,FT Vest Silver Strategy & Target Income ETF,Z,SLVY,Y,100.0,N,SLVY
 SLWS,Wisdom Short Duration Income ETF,Wisdom Short Duration Income ETF,P,SLWS,Y,100.0,N,SLWS
 SLX,VanEck Steel ETF,VanEck Steel ETF,P,SLX,Y,100.0,N,SLX
 SLYG,State Street SPDR S&P 600 Small Cap Growth ETF,State Street SPDR S&P 600 Small Cap Growth ETF,P,SLYG,Y,100.0,N,SLYG
@@ -6067,7 +6075,6 @@ SPCL,Defiance Pure Space Daily 2X Strategy ETF,Defiance Pure Space Daily 2X Stra
 SPCM,Tradr 2X Long SpaceX Daily ETF,Tradr 2X Long SpaceX Daily ETF,Z,SPCM,Y,100.0,N,SPCM
 SPCQ,Defiance Daily Target 2X Short SPCX ETF,Defiance Daily Target 2X Short SPCX ETF,Z,SPCQ,Y,100.0,N,SPCQ
 SPCU,Defiance Daily Target 2X Long SPCX ETF,Defiance Daily Target 2X Long SPCX ETF,Z,SPCU,Y,100.0,N,SPCU
-SPCZ,RiverNorth Enhanced Pre,RiverNorth Enhanced Pre-Merger SPAC ETF,Z,SPCZ,Y,100.0,N,SPCZ
 SPD,Simplify US Equity PLUS Downside Convexity ETF,Simplify US Equity PLUS Downside Convexity ETF,P,SPD,Y,100.0,N,SPD
 SPDF,Defender Risk Adaptive 500 ETF,Defender Risk Adaptive 500 ETF,Z,SPDF,Y,100.0,N,SPDF
 SPDG,State Street SPDR Portfolio S&P Sector Neutral Dividend ETF,State Street SPDR Portfolio S&P Sector Neutral Dividend ETF,P,SPDG,Y,100.0,N,SPDG
@@ -6336,7 +6343,6 @@ TDVI,FT Vest Technology Dividend Target Income ETF,FT Vest Technology Dividend T
 TDW,Tidewater Inc. Common Stock,Tidewater Inc. Common Stock,N,TDW,N,100.0,N,TDW
 TDY,Teledyne Technologies Incorporated Common Stock,Teledyne Technologies Incorporated Common Stock,N,TDY,N,40.0,N,TDY
 TE,T1 Energy Inc. Common Stock,T1 Energy Inc. Common Stock,N,TE,N,100.0,N,TE
-TE.W,"T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share","T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",N,TE.WS,N,100.0,N,TE+
 TEC,Harbor Transformative Technologies ETF,Harbor Transformative Technologies ETF,P,TEC,Y,100.0,N,TEC
 TECB,iShares U.S. Tech Breakthrough Multisector ETF,iShares U.S. Tech Breakthrough Multisector ETF,P,TECB,Y,100.0,N,TECB
 TECK,Teck Resources Ltd Ordinary Shares,Teck Resources Ltd Ordinary Shares,N,TECK,N,100.0,N,TECK
