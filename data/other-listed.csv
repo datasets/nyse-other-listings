@@ -213,6 +213,7 @@ AKO.A,Embotelladora Andina S.A. Common Stock,Embotelladora Andina S.A. Common St
 AKO.B,Embotelladora Andina S.A. Common Stock,Embotelladora Andina S.A. Common Stock,N,AKO.B,N,100.0,N,AKO.B
 AKR,Acadia Realty Trust Common Stock,Acadia Realty Trust Common Stock,N,AKR,N,100.0,N,AKR
 AKRE,Akre Focus ETF,Akre Focus ETF,P,AKRE,Y,100.0,N,AKRE
+ALA,Corgi ALAB 2x Daily ETF,Corgi ALAB 2x Daily ETF,Z,ALA,Y,100.0,N,ALA
 ALAI,Alger AI Enablers & Adopters ETF,Alger AI Enablers & Adopters ETF,P,ALAI,Y,100.0,N,ALAI
 ALB,Albemarle Corporation Common Stock,Albemarle Corporation Common Stock,N,ALB,N,100.0,N,ALB
 ALB$A,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock,N,ALBpA,N,100.0,N,ALB-A
@@ -530,6 +531,7 @@ BA,Boeing Company (The) Common Stock,Boeing Company (The) Common Stock,N,BA,N,10
 BA$A,"Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00","Boeing Company (The) Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, par value $1.00",N,BApA,N,100.0,N,BA-A
 BAB,Invesco Taxable Municipal Bond ETF,Invesco Taxable Municipal Bond ETF,P,BAB,Y,100.0,N,BAB
 BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,N,BABA,N,100.0,N,BABA
+BABC,Corgi BABA 2x Daily ETF,Corgi BABA 2x Daily ETF,Z,BABC,Y,100.0,N,BABC
 BABO,YieldMax BABA Option Income Strategy ETF,YieldMax BABA Option Income Strategy ETF,P,BABO,Y,100.0,N,BABO
 BABW,Roundhill BABA WeeklyPay ETF,Roundhill BABA WeeklyPay ETF,Z,BABW,Y,100.0,N,BABW
 BAC,Bank of America Corporation Common Stock,Bank of America Corporation Common Stock,N,BAC,N,100.0,N,BAC
@@ -855,6 +857,7 @@ BNJ,Brookfield Finance Inc. 4.50% Perpetual Subordinated Notes,Brookfield Financ
 BNKD,MicroSectors U.S. Big Banks ,"MicroSectors U.S. Big Banks -3 Inverse Leveraged ETNs due February 17, 2045",P,BNKD,Y,100.0,N,BNKD
 BNKU,"MicroSectors U.S. Big Banks 3 Leveraged ETNs due February 17, 2045","MicroSectors U.S. Big Banks 3 Leveraged ETNs due February 17, 2045",P,BNKU,Y,100.0,N,BNKU
 BNL,"Broadstone Net Lease, Inc. Common Stock","Broadstone Net Lease, Inc. Common Stock",N,BNL,N,100.0,N,BNL
+BNMC,Corgi BMNR 2x Daily ETF,Corgi BMNR 2x Daily ETF,Z,BNMC,Y,100.0,N,BNMC
 BNO,"United States Brent Oil Fund, LP ETV","United States Brent Oil Fund, LP ETV",P,BNO,Y,100.0,N,BNO
 BNOV,Innovator U.S. Equity Buffer ETF ,Innovator U.S. Equity Buffer ETF - November,Z,BNOV,Y,100.0,N,BNOV
 BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,N,BNS,N,100.0,N,BNS
@@ -2727,6 +2730,7 @@ GEO,Geo Group Inc (The) REIT,Geo Group Inc (The) REIT,N,GEO,N,100.0,N,GEO
 GEOA,WisdomTree GeoAlpha Opportunities Fund,WisdomTree GeoAlpha Opportunities Fund,P,GEOA,Y,100.0,N,GEOA
 GETY,"Getty Images Holdings, Inc. Class A Common Stock","Getty Images Holdings, Inc. Class A Common Stock",N,GETY,N,100.0,N,GETY
 GEV,GE Vernova Inc. Common Stock,GE Vernova Inc. Common Stock,N,GEV,N,40.0,N,GEV
+GEVC,Corgi GEV 2x Daily ETF,Corgi GEV 2x Daily ETF,Z,GEVC,Y,100.0,N,GEVC
 GEVX,Tradr 2X Long GEV Daily ETF,Tradr 2X Long GEV Daily ETF,Z,GEVX,Y,100.0,N,GEVX
 GF,"New Germany Fund, Inc. (The) Common Stock","New Germany Fund, Inc. (The) Common Stock",N,GF,N,100.0,N,GF
 GFEB,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - February,Z,GFEB,Y,100.0,N,GFEB
@@ -3101,6 +3105,7 @@ HOLD,Harbor Alpha Layering ETF,Harbor Alpha Layering ETF,P,HOLD,Y,100.0,N,HOLD
 HOMB,"Home BancShares, Inc. Common Stock","Home BancShares, Inc. Common Stock",N,HOMB,N,100.0,N,HOMB
 HOMZ,Hoya Capital Housing ETF,Hoya Capital Housing ETF,P,HOMZ,Y,100.0,N,HOMZ
 HONG,Leverage Shares 2X Long HON Daily ETF,Leverage Shares 2X Long HON Daily ETF,Z,HONG,Y,100.0,N,HONG
+HOOC,Corgi HOOD 2x Daily ETF,Corgi HOOD 2x Daily ETF,Z,HOOC,Y,100.0,N,HOOC
 HOOW,Roundhill HOOD WeeklyPay ETF,Roundhill HOOD WeeklyPay ETF,Z,HOOW,Y,100.0,N,HOOW
 HOOY,YieldMax HOOD Option Income Strategy ETF,YieldMax HOOD Option Income Strategy ETF,P,HOOY,Y,100.0,N,HOOY
 HOOZ,Defiance Daily Target 2X Short HOOD ETF,Defiance Daily Target 2X Short HOOD ETF,P,HOOZ,Y,100.0,N,HOOZ
@@ -3404,6 +3409,7 @@ INQQ,INQQ The India Internet ETF,INQQ The India Internet ETF,P,INQQ,Y,100.0,N,IN
 INR,"Infinity Natural Resources, Inc. Class A Common Stock","Infinity Natural Resources, Inc. Class A Common Stock",N,INR,N,100.0,N,INR
 INSP,"Inspire Medical Systems, Inc. Common Stock","Inspire Medical Systems, Inc. Common Stock",N,INSP,N,100.0,N,INSP
 INSW,"International Seaways, Inc. Common Stock ","International Seaways, Inc. Common Stock ",N,INSW,N,100.0,N,INSW
+INT,Corgi INTC 2x Daily ETF,Corgi INTC 2x Daily ETF,Z,INT,Y,100.0,N,INT
 INTF,iShares International Equity Factor ETF,iShares International Equity Factor ETF,P,INTF,Y,100.0,N,INTF
 INTL,Main International ETF,Main International ETF,Z,INTL,Y,100.0,N,INTL
 INTM,Invesco Intermediate Municipal ETF,Invesco Intermediate Municipal ETF,Z,INTM,Y,100.0,N,INTM
@@ -3665,6 +3671,7 @@ JNJ,Johnson & Johnson Common Stock,Johnson & Johnson Common Stock,N,JNJ,N,100.0,
 JNK,State Street SPDR Bloomberg High Yield Bond ETF,State Street SPDR Bloomberg High Yield Bond ETF,P,JNK,Y,100.0,N,JNK
 JNUG,Direxion Daily Junior Gold Miners Index Bull 2X ETF,Direxion Daily Junior Gold Miners Index Bull 2X ETF,P,JNUG,Y,100.0,N,JNUG
 JOB,GEE Group Inc. Common Stock,GEE Group Inc. Common Stock,A,JOB,N,100.0,N,JOB
+JOBC,Corgi JOBY 2x Daily ETF,Corgi JOBY 2x Daily ETF,Z,JOBC,Y,100.0,N,JOBC
 JOBX,Tradr 2X Long JOBY Daily ETF,Tradr 2X Long JOBY Daily ETF,Z,JOBX,Y,100.0,N,JOBX
 JOBY,"Joby Aviation, Inc. Common Stock","Joby Aviation, Inc. Common Stock",N,JOBY,N,100.0,N,JOBY
 JOBY.W,"Joby Aviation, Inc. Warrants","Joby Aviation, Inc. Warrants",N,JOBY.WS,N,100.0,N,JOBY+
@@ -3973,6 +3980,7 @@ LIMI,Themes Lithium & Battery Metal Miners ETF,Themes Lithium & Battery Metal Mi
 LION,Lionsgate Studios Corp Common Shares,Lionsgate Studios Corp Common Shares,N,LION,N,100.0,N,LION
 LIT,Global X Lithium & Battery Tech ETF,Global X Lithium & Battery Tech ETF,P,LIT,Y,100.0,N,LIT
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares","LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",N,LITB,N,100.0,N,LITB
+LITC,Corgi LITE 2x Daily ETF,Corgi LITE 2x Daily ETF,Z,LITC,Y,100.0,N,LITC
 LITL,Simplify Piper Sandler US Small,Simplify Piper Sandler US Small-Cap PLUS Income ETF,P,LITL,Y,100.0,N,LITL
 LITU,T,T-REX 2X Long LITE Daily Target ETF,Z,LITU,Y,100.0,N,LITU
 LITX,Tradr 2X Long LITE Daily ETF,Tradr 2X Long LITE Daily ETF,Z,LITX,Y,100.0,N,LITX
@@ -5395,6 +5403,7 @@ QTOC,Innovator Growth Accelerated Plus ETF ,Innovator Growth Accelerated Plus ET
 QTPI,North Square RCIM Tax,North Square RCIM Tax-Advantaged Preferred and Income Securities ETF,P,QTPI,Y,100.0,N,QTPI
 QTUP,Defiance Long Pure Quantum ETF,Defiance Long Pure Quantum ETF,Z,QTUP,Y,100.0,N,QTUP
 QTWO,"Q2 Holdings, Inc. Common Stock","Q2 Holdings, Inc. Common Stock",N,QTWO,N,100.0,N,QTWO
+QUA,Corgi QBTS 2x Daily ETF,Corgi QBTS 2x Daily ETF,Z,QUA,Y,100.0,N,QUA
 QUAD,"Quad Graphics, Inc Class A Common Stock","Quad Graphics, Inc Class A Common Stock",N,QUAD,N,100.0,N,QUAD
 QUAL,iShares MSCI USA Quality Factor ETF,iShares MSCI USA Quality Factor ETF,Z,QUAL,Y,100.0,N,QUAL
 QUBX,Tradr 2X Long QUBT Daily ETF,Tradr 2X Long QUBT Daily ETF,Z,QUBX,Y,100.0,N,QUBX
@@ -5703,6 +5712,7 @@ SAH,"Sonic Automotive, Inc. Common Stock","Sonic Automotive, Inc. Common Stock",
 SAJ,Saratoga Investment Corp 8.00% Notes due 2027,Saratoga Investment Corp 8.00% Notes due 2027,N,SAJ,N,100.0,N,SAJ
 SAM,"Boston Beer Company, Inc. (The) Common Stock","Boston Beer Company, Inc. (The) Common Stock",N,SAM,N,100.0,N,SAM
 SAMM,Strategas Macro Momentum ETF,Strategas Macro Momentum ETF,P,SAMM,Y,100.0,N,SAMM
+SAMO.U,"Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one","Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",N,SAMO.U,N,100.0,N,SAMO=
 SAMT,Strategas Macro Thematic Opportunities ETF,Strategas Macro Thematic Opportunities ETF,P,SAMT,Y,100.0,N,SAMT
 SAN,"Banco Santander, S.A. Sponsored ADR (Spain)","Banco Santander, S.A. Sponsored ADR (Spain)",N,SAN,N,100.0,N,SAN
 SAP,SAP  SE ADS,SAP  SE ADS,N,SAP,N,100.0,N,SAP
@@ -6004,6 +6014,7 @@ SMP,"Standard Motor Products, Inc. Common Stock","Standard Motor Products, Inc. 
 SMR,NuScale Power Corporation Class A Common Stock,NuScale Power Corporation Class A Common Stock,N,SMR,N,100.0,N,SMR
 SMRF,"ALPS Nautilus SMR, Nuclear & Technology ETF","ALPS Nautilus SMR, Nuclear & Technology ETF",P,SMRF,Y,100.0,N,SMRF
 SMRT,"SmartRent, Inc. Class A Common Stock","SmartRent, Inc. Class A Common Stock",N,SMRT,N,100.0,N,SMRT
+SMRX,Corgi SMR 2x Daily ETF,Corgi SMR 2x Daily ETF,Z,SMRX,Y,100.0,N,SMRX
 SMTG,Leverage Shares 2X Long SMTC Daily ETF,Leverage Shares 2X Long SMTC Daily ETF,Z,SMTG,Y,100.0,N,SMTG
 SMTH,ALPS Smith Core Plus Bond ETF,ALPS Smith Core Plus Bond ETF,P,SMTH,Y,100.0,N,SMTH
 SMU,Tradr 2X Long SMR Daily ETF,Tradr 2X Long SMR Daily ETF,Z,SMU,Y,100.0,N,SMU
@@ -6038,6 +6049,7 @@ SOAR,"Volato Group, Inc. Class A Common Stock","Volato Group, Inc. Class A Commo
 SOBO,South Bow Corporation Common Shares,South Bow Corporation Common Shares,N,SOBO,N,100.0,N,SOBO
 SOC,Sable Offshore Corp. Common Stock,Sable Offshore Corp. Common Stock,N,SOC,N,100.0,N,SOC
 SOEZ,Franklin Solana ETF,Franklin Solana ETF,P,SOEZ,Y,100.0,N,SOEZ
+SOFC,Corgi SOFI 2x Daily ETF,Corgi SOFI 2x Daily ETF,Z,SOFC,Y,100.0,N,SOFC
 SOFR,Amplify Samsung SOFR ETF,Amplify Samsung SOFR ETF,P,SOFR,Y,100.0,N,SOFR
 SOJC,"Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077","Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1, 2077",N,SOJC,N,100.0,N,SOJC
 SOJD,"Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080","Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080",N,SOJD,N,100.0,N,SOJD
@@ -6352,6 +6364,7 @@ TEI,"Templeton Emerging Markets Income Fund, Inc. Common Stock","Templeton Emerg
 TEK,iShares Technology Opportunities Active ETF,iShares Technology Opportunities Active ETF,P,TEK,Y,100.0,N,TEK
 TEL,TE Connectivity plc Ordinary Shares,TE Connectivity plc Ordinary Shares,N,TEL,N,100.0,N,TEL
 TELG,Leverage Shares 2X Long TEL Daily ETF,Leverage Shares 2X Long TEL Daily ETF,Z,TELG,Y,100.0,N,TELG
+TEMC,Corgi TEM 2x Daily ETF,Corgi TEM 2x Daily ETF,Z,TEMC,Y,100.0,N,TEMC
 TEMD,Templeton Emerging Markets Debt ETF,Templeton Emerging Markets Debt ETF,P,TEMD,Y,100.0,N,TEMD
 TEMR,T. Rowe Price Emerging Markets Equity Research ETF,T. Rowe Price Emerging Markets Equity Research ETF,P,TEMR,Y,100.0,N,TEMR
 TEMT,Tradr 2X Long TEM Daily ETF,Tradr 2X Long TEM Daily ETF,Z,TEMT,Y,100.0,N,TEMT
@@ -6732,6 +6745,7 @@ UPGD,Invesco Bloomberg Analyst Rating Improvers ETF,Invesco Bloomberg Analyst Ra
 UPLT,ProShares Ultra Platinum K,ProShares Ultra Platinum K-1 Free ETF,P,UPLT,Y,100.0,N,UPLT
 UPRO,ProShares UltraPro S&P 500,ProShares UltraPro S&P 500,P,UPRO,Y,100.0,N,UPRO
 UPS,"United Parcel Service, Inc. Common Stock","United Parcel Service, Inc. Common Stock",N,UPS,N,100.0,N,UPS
+UPSC,Corgi UPST 2x Daily ETF,Corgi UPST 2x Daily ETF,Z,UPSC,Y,100.0,N,UPSC
 UPSD,Aptus Large Cap Upside ETF,Aptus Large Cap Upside ETF,Z,UPSD,Y,100.0,N,UPSD
 UPSX,Tradr 2X Long UPST Daily ETF,Tradr 2X Long UPST Daily ETF,Z,UPSX,Y,100.0,N,UPSX
 UPV,ProShares Ultra FTSE Europe,ProShares Ultra FTSE Europe,P,UPV,Y,100.0,N,UPV
@@ -6799,6 +6813,7 @@ UTZ,Utz Brands Inc Class A Common Stock ,Utz Brands Inc Class A Common Stock ,N,
 UUP,Invesco DB USD Index Bullish Fund ETF,Invesco DB USD Index Bullish Fund ETF,P,UUP,Y,100.0,N,UUP
 UUPP,Principal CLO ETF,Principal CLO ETF,Z,UUPP,Y,100.0,N,UUPP
 UUU,"Universal Safety Products, Inc. Common Stock","Universal Safety Products, Inc. Common Stock",A,UUU,N,100.0,N,UUU
+UUUC,Corgi UUUU 2x Daily ETF,Corgi UUUU 2x Daily ETF,Z,UUUC,Y,100.0,N,UUUC
 UUUU,Energy Fuels Inc Ordinary Shares (Canada),Energy Fuels Inc Ordinary Shares (Canada),A,UUUU,N,100.0,N,UUUU
 UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,UNIVERSAL INSURANCE HOLDINGS INC Common Stock,N,UVE,N,100.0,N,UVE
 UVIX,2x Long VIX Futures ETF,2x Long VIX Futures ETF,Z,UVIX,Y,100.0,N,UVIX
@@ -7038,6 +7053,7 @@ WCN,"Waste Connections, Inc. Common Shares","Waste Connections, Inc. Common Shar
 WCPB,Weitz Core Plus Bond ETF,Weitz Core Plus Bond ETF,P,WCPB,Y,100.0,N,WCPB
 WD,"Walker & Dunlop, Inc Common Stock","Walker & Dunlop, Inc Common Stock",N,WD,N,100.0,N,WD
 WDAI,Pacer S&P World 3AI Top 300 ETF,Pacer S&P World 3AI Top 300 ETF,Z,WDAI,Y,100.0,N,WDAI
+WDCC,Corgi WDC 2x Daily ETF,Corgi WDC 2x Daily ETF,Z,WDCC,Y,100.0,N,WDCC
 WDCX,Tradr 2X Long WDC Daily ETF,Tradr 2X Long WDC Daily ETF,Z,WDCX,Y,100.0,N,WDCX
 WDE,Principal Securitized Debt ETF,Principal Securitized Debt ETF,Z,WDE,Y,100.0,N,WDE
 WDEF,WisdomTree Europe Defense Fund,WisdomTree Europe Defense Fund,P,WDEF,Y,100.0,N,WDEF
