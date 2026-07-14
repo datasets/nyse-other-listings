@@ -106,7 +106,6 @@ AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,Aegon Funding C
 AEG,Aegon Ltd. New York Registry Shares,Aegon Ltd. New York Registry Shares,N,AEG,N,100.0,N,AEG
 AEHG,Leverage Shares 2X Long AEHR Daily ETF,Leverage Shares 2X Long AEHR Daily ETF,Z,AEHG,Y,100.0,N,AEHG
 AEM,Agnico Eagle Mines Limited Common Stock,Agnico Eagle Mines Limited Common Stock,N,AEM,N,100.0,N,AEM
-AEMS,Anfield Enhanced Market ETF,Anfield Enhanced Market ETF,Z,AEMS,Y,100.0,N,AEMS
 AEO,"American Eagle Outfitters, Inc. Common Stock","American Eagle Outfitters, Inc. Common Stock",N,AEO,N,100.0,N,AEO
 AEON,"AEON Biopharma, Inc. Class A Common Stock","AEON Biopharma, Inc. Class A Common Stock",A,AEON,N,100.0,N,AEON
 AER,AerCap Holdings N.V. Ordinary Shares,AerCap Holdings N.V. Ordinary Shares,N,AER,N,100.0,N,AER
@@ -764,7 +763,6 @@ BIT,BlackRock Multi,BlackRock Multi-Sector Income Trust Common Shares of Benefic
 BITB,Bitwise Bitcoin ETF ,Bitwise Bitcoin ETF ,P,BITB,Y,100.0,N,BITB
 BITC,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,P,BITC,Y,100.0,N,BITC
 BITI,ProShares Short Bitcoin ETF,ProShares Short Bitcoin ETF,P,BITI,Y,100.0,N,BITI
-BITK,Tuttle Capital IBIT 0DTE Covered Call ETF,Tuttle Capital IBIT 0DTE Covered Call ETF,Z,BITK,Y,100.0,N,BITK
 BITO,ProShares Bitcoin ETF,ProShares Bitcoin ETF,P,BITO,Y,100.0,N,BITO
 BITQ,Bitwise Crypto Industry Innovators ETF,Bitwise Crypto Industry Innovators ETF,P,BITQ,Y,100.0,N,BITQ
 BITU,ProShares Ultra Bitcoin ETF,ProShares Ultra Bitcoin ETF,P,BITU,Y,100.0,N,BITU
@@ -3328,7 +3326,6 @@ IGME,Bitwise GME Option Income Strategy ETF,Bitwise GME Option Income Strategy E
 IGPT,Invesco AI and Next Gen Software ETF,Invesco AI and Next Gen Software ETF,P,IGPT,Y,100.0,N,IGPT
 IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,N,IGR,N,100.0,N,IGR
 IGRO,iShares International Dividend Growth ETF,iShares International Dividend Growth ETF,Z,IGRO,Y,100.0,N,IGRO
-IGTR,Innovator Gradient Tactical Rotation Strategy ETF,Innovator Gradient Tactical Rotation Strategy ETF,P,IGTR,Y,100.0,N,IGTR
 IGV,iShares Expanded Tech,iShares Expanded Tech-Software Sector ETF,Z,IGV,Y,100.0,N,IGV
 IH,"iHuman Inc. American depositary shares, each representing five Class A ordinary shares","iHuman Inc. American depositary shares, each representing five Class A ordinary shares",N,IH,N,100.0,N,IH
 IHAK,iShares Cybersecurity and Tech ETF,iShares Cybersecurity and Tech ETF,P,IHAK,Y,100.0,N,IHAK
@@ -3699,6 +3696,7 @@ JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,JPMorgan USD Emerging Mark
 JPME,JPMorgan Diversified Return U.S. Mid Cap Equity ETF,JPMorgan Diversified Return U.S. Mid Cap Equity ETF,P,JPME,Y,100.0,N,JPME
 JPO,YieldMax JP Option Income Strategy ETF,YieldMax JP Option Income Strategy ETF,P,JPO,Y,100.0,N,JPO
 JPRE,JPMorgan Realty Income ETF,JPMorgan Realty Income ETF,P,JPRE,Y,100.0,N,JPRE
+JPRF,JPMorgan Preferred and Income Securities ETF,JPMorgan Preferred and Income Securities ETF,P,JPRF,Y,100.0,N,JPRF
 JPSE,JPMorgan Diversified Return U.S. Small Cap Equity ETF,JPMorgan Diversified Return U.S. Small Cap Equity ETF,P,JPSE,Y,100.0,N,JPSE
 JPST,JPMorgan Ultra,JPMorgan Ultra-Short Income ETF,P,JPST,Y,100.0,N,JPST
 JPSV,JPMorgan Active Small Cap Value ETF,JPMorgan Active Small Cap Value ETF,P,JPSV,Y,100.0,N,JPSV
@@ -4089,7 +4087,6 @@ MAGA,Point Bridge America First ETF,Point Bridge America First ETF,Z,MAGA,Y,100.
 MAGC,Roundhill China Magnificent Seven ETF,Roundhill China Magnificent Seven ETF,Z,MAGC,Y,100.0,N,MAGC
 MAGG,Madison Aggregate Bond ETF,Madison Aggregate Bond ETF,P,MAGG,Y,100.0,N,MAGG
 MAGN,Magnera Corporation Common Stock,Magnera Corporation Common Stock,N,MAGN,N,100.0,N,MAGN
-MAGO,Tuttle Capital Magnificent 7 Income Blast ETF,Tuttle Capital Magnificent 7 Income Blast ETF,Z,MAGO,Y,100.0,N,MAGO
 MAGS,Roundhill Magnificent Seven ETF,Roundhill Magnificent Seven ETF,Z,MAGS,Y,100.0,N,MAGS
 MAGX,Roundhill Daily 2X Long Magnificent Seven ETF,Roundhill Daily 2X Long Magnificent Seven ETF,Z,MAGX,Y,100.0,N,MAGX
 MAGY,Roundhill Magnificent Seven Covered Call ETF,Roundhill Magnificent Seven Covered Call ETF,Z,MAGY,Y,100.0,N,MAGY
@@ -4640,6 +4637,7 @@ NPO,Enpro Inc. Common Stock,Enpro Inc. Common Stock,N,NPO,N,40.0,N,NPO
 NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,Nuveen Virginia Quality Municipal Income Fund Common Stock,N,NPV,N,100.0,N,NPV
 NPWR,NET Power Inc. Class A Common Stock,NET Power Inc. Class A Common Stock,N,NPWR,N,100.0,N,NPWR
 NPWR.W,"NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50","NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",N,NPWR.WS,N,100.0,N,NPWR+
+NQLT,Neuberger Quality Select ETF,Neuberger Quality Select ETF,P,NQLT,Y,100.0,N,NQLT
 NRDY,Nerdy Inc. Class A Common Stock,Nerdy Inc. Class A Common Stock,N,NRDY,N,100.0,N,NRDY
 NREF,"NexPoint Real Estate Finance, Inc. Common Stock","NexPoint Real Estate Finance, Inc. Common Stock",N,NREF,N,100.0,N,NREF
 NREF$A,"NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock","NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock",N,NREFpA,N,100.0,N,NREF-A
@@ -4904,7 +4902,6 @@ OZ,"Belpointe PREP, LLC Class A Units","Belpointe PREP, LLC Class A Units",A,OZ,
 P,"Everpure, Inc. Class A common stock","Everpure, Inc. Class A common stock",N,P,N,100.0,N,P
 PAAA,PGIM AAA CLO ETF,PGIM AAA CLO ETF,P,PAAA,Y,100.0,N,PAAA
 PAAS,Pan American Silver Corp. Common Stock,Pan American Silver Corp. Common Stock,N,PAAS,N,100.0,N,PAAS
-PAAU,T,T-REX 2X Long PAAS Daily Target ETF,Z,PAAU,Y,100.0,N,PAAU
 PAB,PGIM Active Aggregate Bond ETF,PGIM Active Aggregate Bond ETF,P,PAB,Y,100.0,N,PAB
 PAC,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)","Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)",N,PAC,N,100.0,N,PAC
 PACK,Ranpak Holdings Corp Class A Common Stock,Ranpak Holdings Corp Class A Common Stock,N,PACK,N,100.0,N,PACK
@@ -5604,7 +5601,6 @@ ROUS,Hartford Multifactor U.S. Equity ETF,Hartford Multifactor U.S. Equity ETF,P
 RPAR,RPAR Risk Parity ETF,RPAR Risk Parity ETF,P,RPAR,Y,100.0,N,RPAR
 RPC,"Ridgepost Capital, Inc. Class A Common Stock","Ridgepost Capital, Inc. Class A Common Stock",N,RPC,N,100.0,N,RPC
 RPG,Invesco S&P 500 Pure Growth ETF,Invesco S&P 500 Pure Growth ETF,P,RPG,Y,100.0,N,RPG
-RPHS,Regents Park Hedged Market Strategy ETF,Regents Park Hedged Market Strategy ETF,Z,RPHS,Y,100.0,N,RPHS
 RPM,RPM International Inc. Common Stock,RPM International Inc. Common Stock,N,RPM,N,100.0,N,RPM
 RPT,Rithm Property Trust Inc. Common stock,Rithm Property Trust Inc. Common stock,N,RPT,N,100.0,N,RPT
 RPT$C,Rithm Property Trust Inc. 9.875% Series C Fixed,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,RPTpC,N,100.0,N,RPT-C
@@ -6887,7 +6883,6 @@ VEU,Vanguard FTSE All World Ex US ETF,Vanguard FTSE All World Ex US ETF,P,VEU,Y,
 VEXC,Vanguard Emerging Markets Ex,Vanguard Emerging Markets Ex-China ETF,P,VEXC,Y,100.0,N,VEXC
 VFC,V.F. Corporation Common Stock,V.F. Corporation Common Stock,N,VFC,N,100.0,N,VFC
 VFH,Vanguard Financials ETF,Vanguard Financials ETF,P,VFH,Y,100.0,N,VFH
-VFL,abrdn National Municipal Income Fund Common Stock,abrdn National Municipal Income Fund Common Stock,A,VFL,N,100.0,N,VFL
 VFMF,Vanguard U.S. Multifactor ETF,Vanguard U.S. Multifactor ETF,Z,VFMF,Y,100.0,N,VFMF
 VFMO,Vanguard U.S. Momentum Factor ETF,Vanguard U.S. Momentum Factor ETF,Z,VFMO,Y,100.0,N,VFMO
 VFMV,Vanguard U.S. Minimum Volatility ETF,Vanguard U.S. Minimum Volatility ETF,Z,VFMV,Y,100.0,N,VFMV
