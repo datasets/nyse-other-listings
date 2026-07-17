@@ -262,6 +262,7 @@ AMJB,Alerian MLP Index ETN,Alerian MLP Index ETN,P,AMJB,Y,100.0,N,AMJB
 AMKL,Defiance Daily Target 2X Long AMKR ETF,Defiance Daily Target 2X Long AMKR ETF,Z,AMKL,Y,100.0,N,AMKL
 AMKX,Corgi AMKR 2x Daily ETF,Corgi AMKR 2x Daily ETF,Z,AMKX,Y,100.0,N,AMKX
 AMLP,Alerian MLP ETF,Alerian MLP ETF,P,AMLP,Y,100.0,N,AMLP
+AMMO,VistaShares Defense Supercycle ETF,VistaShares Defense Supercycle ETF,P,AMMO,Y,100.0,N,AMMO
 AMN,AMN Healthcare Services Inc,AMN Healthcare Services Inc,N,AMN,N,100.0,N,AMN
 AMOM,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap Momentum ETF,P,AMOM,Y,100.0,N,AMOM
 AMP,"Ameriprise Financial, Inc. Common Stock","Ameriprise Financial, Inc. Common Stock",N,AMP,N,40.0,N,AMP
@@ -1449,6 +1450,7 @@ CSM,ProShares Large Cap Core Plus,ProShares Large Cap Core Plus,Z,CSM,Y,100.0,N,
 CSMD,Congress SMid Growth ETF,Congress SMid Growth ETF,P,CSMD,Y,100.0,N,CSMD
 CSNR,Cohen & Steers Natural Resources Active ETF,Cohen & Steers Natural Resources Active ETF,P,CSNR,Y,100.0,N,CSNR
 CSPF,Cohen & Steers Preferred and Income Opportunities Active ETF,Cohen & Steers Preferred and Income Opportunities Active ETF,P,CSPF,Y,100.0,N,CSPF
+CSQR,"Csquare, Inc. Common Stock","Csquare, Inc. Common Stock",N,CSQR,N,100.0,N,CSQR
 CSR,D/B/A Centerspace Common Stock,D/B/A Centerspace Common Stock,N,CSR,N,100.0,N,CSR
 CSRE,Cohen & Steers Real Estate Active ETF,Cohen & Steers Real Estate Active ETF,P,CSRE,Y,100.0,N,CSRE
 CSSD,Cohen & Steers Short Duration Preferred and Income Active ETF,Cohen & Steers Short Duration Preferred and Income Active ETF,P,CSSD,Y,100.0,N,CSSD
@@ -1801,6 +1803,7 @@ DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X ETF,Direxion Daily S&P Oi
 DRKY,VistaShares Target 15 DRUKMacro Distribution ETF,VistaShares Target 15 DRUKMacro Distribution ETF,P,DRKY,Y,100.0,N,DRKY
 DRLL,Strive U.S. Energy ETF,Strive U.S. Energy ETF,N,DRLL,Y,100.0,N,DRLL
 DRMP,Tuttle Capital Memory Stack Income Blast ETF,Tuttle Capital Memory Stack Income Blast ETF,Z,DRMP,Y,100.0,N,DRMP
+DRMY,XFUNDS Memory Income ETF,XFUNDS Memory Income ETF,P,DRMY,Y,100.0,N,DRMY
 DRN,Direxion Daily Real Estate Bull 3X ETF,Direxion Daily Real Estate Bull 3X ETF,P,DRN,Y,100.0,N,DRN
 DRNL,Defiance 2X Daily Long Pure Drone and Aerial Automation ETF,Defiance 2X Daily Long Pure Drone and Aerial Automation ETF,Z,DRNL,Y,100.0,N,DRNL
 DRSK,Aptus Defined Risk ETF,Aptus Defined Risk ETF,Z,DRSK,Y,100.0,N,DRSK
@@ -2660,6 +2663,7 @@ GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stoc
 GABF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,P,GABF,Y,100.0,N,GABF
 GAEM,Simplify Gamma Emerging Market Bond ETF,Simplify Gamma Emerging Market Bond ETF,P,GAEM,Y,100.0,N,GAEM
 GAL,State Street Global Allocation ETF,State Street Global Allocation ETF,P,GAL,Y,100.0,N,GAL
+GALX,VistaShares Space Supercycle ETF,VistaShares Space Supercycle ETF,P,GALX,Y,100.0,N,GALX
 GAM,"General American Investors, Inc. Common Stock","General American Investors, Inc. Common Stock",N,GAM,N,100.0,N,GAM
 GAM$B,"General American Investors Company, Inc. Cumulative Preferred Stock","General American Investors Company, Inc. Cumulative Preferred Stock",N,GAMpB,N,100.0,N,GAM-B
 GAMR,Amplify Video Game Leaders ETF,Amplify Video Game Leaders ETF,P,GAMR,Y,100.0,N,GAMR
@@ -2948,7 +2952,6 @@ GTE,Gran Tierra Energy Inc. Common Stock,Gran Tierra Energy Inc. Common Stock,A,
 GTEK,Goldman Sachs Future Tech Leaders Equity ETF,Goldman Sachs Future Tech Leaders Equity ETF,P,GTEK,Y,100.0,N,GTEK
 GTES,Gates Industrial Corporation plc Ordinary Shares,Gates Industrial Corporation plc Ordinary Shares,N,GTES,N,100.0,N,GTES
 GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,Goldman Sachs Access Inflation Protected USD Bond ETF,Z,GTIP,Y,100.0,N,GTIP
-GTLS,"Chart Industries, Inc. Common Stock","Chart Industries, Inc. Common Stock",N,GTLS,N,100.0,N,GTLS
 GTN,"Gray Media, Inc. Common Stock","Gray Media, Inc. Common Stock",N,GTN,N,100.0,N,GTN
 GTN.A,"Gray Media, Inc. Class A Common Stock","Gray Media, Inc. Class A Common Stock",N,GTN.A,N,100.0,N,GTN.A
 GTND,Goaltender ETF,Goaltender ETF,P,GTND,Y,100.0,N,GTND
@@ -5662,6 +5665,7 @@ RSSX,Return Stacked U.S. Stocks & Gold/Bitcoin ETF,Return Stacked U.S. Stocks & 
 RSSY,Return Stacked U.S. Stocks & Futures Yield ETF,Return Stacked U.S. Stocks & Futures Yield ETF,Z,RSSY,Y,100.0,N,RSSY
 RTAI,Rareview Tax Advantaged Income ETF,Rareview Tax Advantaged Income ETF,Z,RTAI,Y,100.0,N,RTAI
 RTO,Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares),Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares),N,RTO,N,100.0,N,RTO
+RTOO,VistaShares Robotics Supercycle ETF,VistaShares Robotics Supercycle ETF,P,RTOO,Y,100.0,N,RTOO
 RTRE,Rareview Total Return Bond ETF,Rareview Total Return Bond ETF,Z,RTRE,Y,100.0,N,RTRE
 RTX,RTX Corporation Common Stock,RTX Corporation Common Stock,N,RTX,N,100.0,N,RTX
 RULE,Adaptive Core ETF,Adaptive Core ETF,Z,RULE,Y,100.0,N,RULE
@@ -6226,6 +6230,7 @@ STBF,Performance Trust Short Term Bond ETF,Performance Trust Short Term Bond ETF
 STBQ,Amplify Stablecoin Technology Leaders ETF,Amplify Stablecoin Technology Leaders ETF,P,STBQ,Y,100.0,N,STBQ
 STC,Stewart Information Services Corporation Common Stock,Stewart Information Services Corporation Common Stock,N,STC,N,100.0,N,STC
 STCE,Schwab Crypto Thematic ETF,Schwab Crypto Thematic ETF,P,STCE,Y,100.0,N,STCE
+STDN,"Standard Nuclear, Inc. Class A Common Stock","Standard Nuclear, Inc. Class A Common Stock",N,STDN,N,100.0,N,STDN
 STE,STERIS plc (Ireland) Ordinary Shares,STERIS plc (Ireland) Ordinary Shares,N,STE,N,100.0,N,STE
 STEM,"Stem, Inc. Class A Common Stock","Stem, Inc. Class A Common Stock",N,STEM,N,100.0,N,STEM
 STEN,iShares Large Cap 10% Target Buffer Sep ETF,iShares Large Cap 10% Target Buffer Sep ETF,Z,STEN,Y,100.0,N,STEN
@@ -6474,6 +6479,7 @@ TJX,"TJX Companies, Inc. (The) Common Stock","TJX Companies, Inc. (The) Common S
 TK,Teekay Corporation Ltd. Common Stock,Teekay Corporation Ltd. Common Stock,N,TK,N,100.0,N,TK
 TKC,Turkcell Iletisim Hizmetleri AS Common Stock,Turkcell Iletisim Hizmetleri AS Common Stock,N,TKC,N,100.0,N,TKC
 TKNQ,Amplify Tokenization Technology Leaders ETF,Amplify Tokenization Technology Leaders ETF,P,TKNQ,Y,100.0,N,TKNQ
+TKNZ,T. Rowe Price Active Crypto ETF,T. Rowe Price Active Crypto ETF,P,TKNZ,Y,100.0,N,TKNZ
 TKO,"TKO Group Holdings, Inc. Class A Common Stock","TKO Group Holdings, Inc. Class A Common Stock",N,TKO,N,100.0,N,TKO
 TKR,Timken Company (The) Common Stock,Timken Company (The) Common Stock,N,TKR,N,100.0,N,TKR
 TLCI,Touchstone International Equity ETF,Touchstone International Equity ETF,P,TLCI,Y,100.0,N,TLCI
