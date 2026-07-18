@@ -1682,6 +1682,8 @@ DFUV,Dimensional US Marketwide Value ETF,Dimensional US Marketwide Value ETF,P,D
 DFVE,DoubleLine Fortune 500 Equal Weight ETF,DoubleLine Fortune 500 Equal Weight ETF,P,DFVE,Y,100.0,N,DFVE
 DFVX,Dimensional US Large Cap Vector ETF,Dimensional US Large Cap Vector ETF,P,DFVX,Y,100.0,N,DFVX
 DG,Dollar General Corporation Common Stock,Dollar General Corporation Common Stock,N,DG,N,100.0,N,DG
+DGAC,Disciplined Growth Acquisition Corporation Class A Ordinary Shares,Disciplined Growth Acquisition Corporation Class A Ordinary Shares,N,DGAC,N,100.0,N,DGAC
+DGAC.R,"Disciplined Growth Acquisition Corporation Rights, each right entitling the holder to receive one","Disciplined Growth Acquisition Corporation Rights, each right entitling the holder to receive one-fourth (1/4) of one Class A ordinary share",N,DGACr,N,100.0,N,DGAC^
 DGAC.U,"Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right","Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",N,DGAC.U,N,100.0,N,DGAC=
 DGAP,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - April,Z,DGAP,Y,100.0,N,DGAP
 DGIN,VanEck Digital India ETF,VanEck Digital India ETF,P,DGIN,Y,100.0,N,DGIN
@@ -5974,7 +5976,6 @@ SKT,Tanger Inc. Common Stock,Tanger Inc. Common Stock,N,SKT,N,100.0,N,SKT
 SKY,"Champion Homes, Inc. Common Stock","Champion Homes, Inc. Common Stock",N,SKY,N,100.0,N,SKY
 SKYH,Sky Harbour Group Corporation Class A Common Stock,Sky Harbour Group Corporation Class A Common Stock,N,SKYH,N,100.0,N,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",N,SKYH.WS,N,100.0,N,SKYH+
-SLAI,SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares),SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares),N,SLAI,N,100.0,N,SLAI
 SLB,SLB Limited Common Shares,SLB Limited Common Shares,N,SLB,N,100.0,N,SLB
 SLDR,Global X Short,Global X Short-Term Treasury Ladder ETF,P,SLDR,Y,100.0,N,SLDR
 SLF,Sun Life Financial Inc. Common Stock,Sun Life Financial Inc. Common Stock,N,SLF,N,100.0,N,SLF
