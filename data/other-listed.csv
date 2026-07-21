@@ -978,7 +978,6 @@ BUL,Pacer US Cash Cows Growth ETF,Pacer US Cash Cows Growth ETF,P,BUL,Y,100.0,N,
 BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,MicroSectors FANG & Innovation 3x Leveraged ETN,P,BULZ,Y,100.0,N,BULZ
 BUR,Burford Capital Limited Ordinary Shares,Burford Capital Limited Ordinary Shares,N,BUR,N,100.0,N,BUR
 BURL,"Burlington Stores, Inc. Common Stock","Burlington Stores, Inc. Common Stock",N,BURL,N,40.0,N,BURL
-BURU,"Nuburu, Inc. Common Stock","Nuburu, Inc. Common Stock",A,BURU,N,100.0,N,BURU
 BUSA,Brandes U.S. Value ETF,Brandes U.S. Value ETF,Z,BUSA,Y,100.0,N,BUSA
 BUXX,Strive Enhanced Income Short Maturity ETF,Strive Enhanced Income Short Maturity ETF,N,BUXX,Y,100.0,N,BUXX
 BUYB,ProShares S&P 500 Buyback Aristocrats ETF,ProShares S&P 500 Buyback Aristocrats ETF,P,BUYB,Y,100.0,N,BUYB
@@ -1688,6 +1687,7 @@ DGAC.U,"Disciplined Growth Acquisition Corporation Units, each consisting of one
 DGAP,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - April,Z,DGAP,Y,100.0,N,DGAP
 DGIN,VanEck Digital India ETF,VanEck Digital India ETF,P,DGIN,Y,100.0,N,DGIN
 DGJA,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - January,Z,DGJA,Y,100.0,N,DGJA
+DGJL,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - July,Z,DGJL,Y,100.0,N,DGJL
 DGOC,FT Vest U.S. Equity Buffer & Digital Return ETF ,FT Vest U.S. Equity Buffer & Digital Return ETF - October,Z,DGOC,Y,100.0,N,DGOC
 DGP,"DB Gold Double Long ETN due February 15, 2038","DB Gold Double Long ETN due February 15, 2038",P,DGP,N,100.0,N,DGP
 DGRO,iShares Core Dividend Growth ETF,iShares Core Dividend Growth ETF,P,DGRO,Y,100.0,N,DGRO
@@ -2876,7 +2876,7 @@ GOOW,Roundhill GOOGL WeeklyPay ETF,Roundhill GOOGL WeeklyPay ETF,Z,GOOW,Y,100.0,
 GOOX,T,T-Rex 2X Long Alphabet Daily Target ETF,Z,GOOX,Y,100.0,N,GOOX
 GOOY,YieldMax GOOGL Option Income Strategy ETF,YieldMax GOOGL Option Income Strategy ETF,P,GOOY,Y,100.0,N,GOOY
 GOP,Unusual Whales Subversive Republican Trading ETF,Unusual Whales Subversive Republican Trading ETF,Z,GOP,Y,100.0,N,GOP
-GORO,Gold Resource Corporation Common Stock,Gold Resource Corporation Common Stock,A,GORO,N,100.0,N,GORO
+GORO,Goldgroup Mining Inc. Common Shares,Goldgroup Mining Inc. Common Shares,A,GORO,N,100.0,N,GORO
 GOTU,Gaotu Techedu Inc. American Depositary Shares,Gaotu Techedu Inc. American Depositary Shares,N,GOTU,N,100.0,N,GOTU
 GOVM,iShares 1,iShares 1-10 Year Treasury Bond ETF,Z,GOVM,Y,100.0,N,GOVM
 GOVT,iShares U.S. Treasury Bond ETF,iShares U.S. Treasury Bond ETF,Z,GOVT,Y,100.0,N,GOVT
@@ -2952,7 +2952,7 @@ GSWO,Goldman Sachs ActiveBeta World Equity ETF,Goldman Sachs ActiveBeta World Eq
 GSY,Invesco Ultra Short Duration ETF,Invesco Ultra Short Duration ETF,P,GSY,Y,100.0,N,GSY
 GTE,Gran Tierra Energy Inc. Common Stock,Gran Tierra Energy Inc. Common Stock,A,GTE,N,100.0,N,GTE
 GTEK,Goldman Sachs Future Tech Leaders Equity ETF,Goldman Sachs Future Tech Leaders Equity ETF,P,GTEK,Y,100.0,N,GTEK
-GTES,Gates Industrial Corporation plc Ordinary Shares,Gates Industrial Corporation plc Ordinary Shares,N,GTES,N,100.0,N,GTES
+GTES,Gates Industrial Corporation Ltd. Common Shares,Gates Industrial Corporation Ltd. Common Shares,N,GTES,N,100.0,N,GTES
 GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,Goldman Sachs Access Inflation Protected USD Bond ETF,Z,GTIP,Y,100.0,N,GTIP
 GTN,"Gray Media, Inc. Common Stock","Gray Media, Inc. Common Stock",N,GTN,N,100.0,N,GTN
 GTN.A,"Gray Media, Inc. Class A Common Stock","Gray Media, Inc. Class A Common Stock",N,GTN.A,N,100.0,N,GTN.A
@@ -3881,7 +3881,7 @@ KSEP,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power B
 KSLV,Kurv Silver Enhanced Income ETF,Kurv Silver Enhanced Income ETF,Z,KSLV,Y,100.0,N,KSLV
 KSPY,KraneShares Hedgeye Hedged Equity Index ETF,KraneShares Hedgeye Hedged Equity Index ETF,P,KSPY,Y,100.0,N,KSPY
 KSS,Kohl's Corporation Common Stock,Kohl's Corporation Common Stock,N,KSS,N,100.0,N,KSS
-KSTR,KraneShares SSE STAR Market 50 Index ETF,KraneShares SSE STAR Market 50 Index ETF,P,KSTR,Y,100.0,N,KSTR
+KSTR,KraneShares China Technology & Semiconductor STAR 50 Index ETF,KraneShares China Technology & Semiconductor STAR 50 Index ETF,P,KSTR,Y,100.0,N,KSTR
 KT,KT Corporation Common Stock,KT Corporation Common Stock,N,KT,N,100.0,N,KT
 KTB,"Kontoor Brands, Inc. Common Stock ","Kontoor Brands, Inc. Common Stock ",N,KTB,N,100.0,N,KTB
 KTEC,KraneShares Hang Seng TECH Index ETF,KraneShares Hang Seng TECH Index ETF,P,KTEC,Y,100.0,N,KTEC
@@ -4017,6 +4017,7 @@ LOCL,Local Bounti Corporation Common Stock,Local Bounti Corporation Common Stock
 LOCT,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - October,Z,LOCT,Y,100.0,N,LOCT
 LODE,Comstock Inc. Common Stock,Comstock Inc. Common Stock,A,LODE,N,100.0,N,LODE
 LODI,AAM SLC Low Duration Income ETF,AAM SLC Low Duration Income ETF,P,LODI,Y,100.0,N,LODI
+LOEV,Harding Loevner International Developed Markets Select Equity ETF,Harding Loevner International Developed Markets Select Equity ETF,P,LOEV,Y,100.0,N,LOEV
 LOFF,Direxion Daily SpaceX Bull 2X ETF,Direxion Daily SpaceX Bull 2X ETF,P,LOFF,Y,100.0,N,LOFF
 LOHA,Roundhill HALO ETF,Roundhill HALO ETF,Z,LOHA,Y,100.0,N,LOHA
 LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,N,LOMA,N,100.0,N,LOMA
@@ -4801,7 +4802,6 @@ OCTZ,TrueShares Structured Outcome (October) ETF,TrueShares Structured Outcome (
 ODC,Oil,Oil-Dri Corporation Of America Common Stock,N,ODC,N,100.0,N,ODC
 ODDZ,Corgi Sports Betting & Gambling ETF,Corgi Sports Betting & Gambling ETF,Z,ODDZ,Y,100.0,N,ODDZ
 ODHY,Obra Defensive High Yield ETF,Obra Defensive High Yield ETF,P,ODHY,Y,100.0,N,ODHY
-ODV,Osisko Development Corp. Common Shares,Osisko Development Corp. Common Shares,N,ODV,N,100.0,N,ODV
 OEC,Orion S.A. Common Shares,Orion S.A. Common Shares,N,OEC,N,100.0,N,OEC
 OEF,iShares S&P 100 Fund,iShares S&P 100 Fund,P,OEF,Y,40.0,N,OEF
 OEFA,ALPS O'Shares International Developed Quality Dividend ETF,ALPS O'Shares International Developed Quality Dividend ETF,P,OEFA,Y,100.0,N,OEFA
@@ -4812,6 +4812,7 @@ OGC,OceanaGold Corporation Common Shares,OceanaGold Corporation Common Shares,N,
 OGCP,"Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests","Empire State Realty OP, L.P. Series 60 Operating Partnership Units Representing Limited Partnership Interests",P,OGCP,N,100.0,N,OGCP
 OGE,OGE Energy Corp Common Stock,OGE Energy Corp Common Stock,N,OGE,N,100.0,N,OGE
 OGEN,Oragenics Inc. Common Stock,Oragenics Inc. Common Stock,A,OGEN,N,100.0,N,OGEN
+OGG,Osisko Gold Group Inc. Common Shares,Osisko Gold Group Inc. Common Shares,N,OGG,N,100.0,N,OGG
 OGIG,ALPS O'Shares Global Internet Giants ETF,ALPS O'Shares Global Internet Giants ETF,P,OGIG,Y,100.0,N,OGIG
 OGN,Organon & Co. Common Stock ,Organon & Co. Common Stock ,N,OGN,N,100.0,N,OGN
 OGS,"ONE Gas, Inc. Common Stock","ONE Gas, Inc. Common Stock",N,OGS,N,100.0,N,OGS
@@ -4862,7 +4863,6 @@ OPAD,Offerpad Solutions Inc. Class A Common Stock,Offerpad Solutions Inc. Class 
 OPER,ETF ClearShares Ultra,ETF ClearShares Ultra-Short Maturity ETF,P,OPER,Y,100.0,N,OPER
 OPEX,Tradr 2X Long OPEN Daily ETF,Tradr 2X Long OPEN Daily ETF,Z,OPEX,Y,100.0,N,OPEX
 OPFI,OppFi Inc. Class A Common Stock,OppFi Inc. Class A Common Stock,N,OPFI,N,100.0,N,OPFI
-OPFI.W,OppFi Inc. Warrants,OppFi Inc. Warrants,N,OPFI.WS,N,100.0,N,OPFI+
 OPHC,"OptimumBank Holdings, Inc. Common Stock","OptimumBank Holdings, Inc. Common Stock",A,OPHC,N,100.0,N,OPHC
 OPLN,"OPENLANE, Inc. Common Stock","OPENLANE, Inc. Common Stock",N,OPLN,N,100.0,N,OPLN
 OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock","RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock",N,OPP,N,100.0,N,OPP
@@ -5719,7 +5719,6 @@ SAC.U,"Safeguard Acquisition Corp. Units, each consisting of one Class A ordinar
 SAC.W,"Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,SAC.WS,N,100.0,N,SAC+
 SACH,Sachem Capital Corp. Common Shares,Sachem Capital Corp. Common Shares,A,SACH,N,100.0,N,SACH
 SACH$A,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,A,SACHpA,N,100.0,N,SACH-A
-SAEF,Schwab Ariel Opportunities ETF,Schwab Ariel Opportunities ETF,P,SAEF,Y,100.0,N,SAEF
 SAFE,Safehold Inc. New Common Stock ,Safehold Inc. New Common Stock ,N,SAFE,N,100.0,N,SAFE
 SAGP,Strategas Global Policy Opportunities ETF,Strategas Global Policy Opportunities ETF,P,SAGP,Y,100.0,N,SAGP
 SAGU,Shreya Acquisition Group Class A Ordinary Shares,Shreya Acquisition Group Class A Ordinary Shares,N,SAGU,N,100.0,N,SAGU
@@ -6937,7 +6936,9 @@ VICI,VICI Properties Inc. Common Stock,VICI Properties Inc. Common Stock,N,VICI,
 VIDA,VIDA Global Inc. Class A Common Stock,VIDA Global Inc. Class A Common Stock,A,VIDA,N,100.0,N,VIDA
 VIDI,Vident International Equity Strategy ETF,Vident International Equity Strategy ETF,P,VIDI,Y,100.0,N,VIDI
 VIG,Vanguard Div Appreciation ETF,Vanguard Div Appreciation ETF,P,VIG,Y,100.0,N,VIG
+VII,Viking Acquisition Corp. II Class A Ordinary Shares,Viking Acquisition Corp. II Class A Ordinary Shares,N,VII,N,100.0,N,VII
 VII.U,"Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one","Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",N,VII.U,N,100.0,N,VII=
+VII.W,Viking Acquisition Corp. II Warrants to purchase one Class A Ordinary Share,Viking Acquisition Corp. II Warrants to purchase one Class A Ordinary Share,N,VII.WS,N,100.0,N,VII+
 VIK,Viking Holdings Ltd Ordinary Shares,Viking Holdings Ltd Ordinary Shares,N,VIK,N,100.0,N,VIK
 VIOG,Vanguard S&P Small,Vanguard S&P Small-Cap 600 Growth ETF,P,VIOG,Y,100.0,N,VIOG
 VIOO,Vanguard S&P Small,Vanguard S&P Small-Cap 600 ETF,P,VIOO,Y,100.0,N,VIOO
