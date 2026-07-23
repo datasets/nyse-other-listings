@@ -2053,7 +2053,6 @@ EMPB,Efficient Market Portfolio Plus ETF,Efficient Market Portfolio Plus ETF,P,E
 EMQQ,EMQQ The Emerging Markets Internet ETF,EMQQ The Emerging Markets Internet ETF,P,EMQQ,Y,100.0,N,EMQQ
 EMR,Emerson Electric Company Common Stock,Emerson Electric Company Common Stock,N,EMR,N,100.0,N,EMR
 EMSF,Matthews Emerging Markets Sustainable Future Active ETF,Matthews Emerging Markets Sustainable Future Active ETF,P,EMSF,Y,100.0,N,EMSF
-EMTL,State Street DoubleLine Emerging Markets Fixed Income ETF,State Street DoubleLine Emerging Markets Fixed Income ETF,Z,EMTL,Y,100.0,N,EMTL
 EMTY,ProShares Decline of the Retail Store ETF,ProShares Decline of the Retail Store ETF,P,EMTY,Y,100.0,N,EMTY
 EMXX,Corgi Emerging Markets 2x Daily ETF,Corgi Emerging Markets 2x Daily ETF,Z,EMXX,Y,100.0,N,EMXX
 ENB,Enbridge Inc Common Stock,Enbridge Inc Common Stock,N,ENB,N,100.0,N,ENB
@@ -4669,9 +4668,6 @@ NRSH,Aztlan North America Nearshoring Stock Selection ETF,Aztlan North America N
 NRT,North European Oil Royality Trust Common Stock,North European Oil Royality Trust Common Stock,N,NRT,N,100.0,N,NRT
 NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),N,NRUC,N,100.0,N,NRUC
 NRXS,"Neuraxis, Inc. Common Stock","Neuraxis, Inc. Common Stock",A,NRXS,N,100.0,N,NRXS
-NSA,National Storage Affiliates Trust Common Shares of Beneficial Interest,National Storage Affiliates Trust Common Shares of Beneficial Interest,N,NSA,N,100.0,N,NSA
-NSA$A,National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share),National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share),N,NSApA,N,100.0,N,NSA-A
-NSA$B,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest,N,NSApB,N,100.0,N,NSA-B
 NSC,Norfolk Southern Corporation Common Stock,Norfolk Southern Corporation Common Stock,N,NSC,N,40.0,N,NSC
 NSCI,Nuveen Securitized Income ETF,Nuveen Securitized Income ETF,P,NSCI,Y,100.0,N,NSCI
 NSEP,Innovator Growth,Innovator Growth-100 Power Buffer ETF - September,Z,NSEP,Y,100.0,N,NSEP
@@ -5249,6 +5245,8 @@ PSA$P,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.000% Cu
 PSA$Q,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share of Beneficial Interest, Series Q, par value $0.01 per share","Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share of Beneficial Interest, Series Q, par value $0.01 per share",N,PSApQ,N,100.0,N,PSA-Q
 PSA$R,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00% Cumulative Preferred Share of Bene cial Interest, Series R","Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00% Cumulative Preferred Share of Bene cial Interest, Series R",N,PSApR,N,100.0,N,PSA-R
 PSA$S,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.100% Cumulative Preferred Share of Beneficial Interest, Series S","Public Storage Depositary Shares Each Representing 1/1,000 of a 4.100% Cumulative Preferred Share of Beneficial Interest, Series S",N,PSApS,N,100.0,N,PSA-S
+PSA$T,"Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T","Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T",N,PSApT,N,100.0,N,PSA-T
+PSA$U,"Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U","Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U",N,PSApU,N,100.0,N,PSA-U
 PSAI,Pacer S&P 500 3AI Top 100 ETF,Pacer S&P 500 3AI Top 100 ETF,Z,PSAI,Y,100.0,N,PSAI
 PSBD,Palmer Square Capital BDC Inc. Common Stock,Palmer Square Capital BDC Inc. Common Stock,N,PSBD,N,100.0,N,PSBD
 PSCJ,Pacer Swan SOS Conservative (July) ETF,Pacer Swan SOS Conservative (July) ETF,Z,PSCJ,Y,100.0,N,PSCJ
@@ -5404,7 +5402,6 @@ QQQU,Direxion Daily Magnificent 7 Bull 2X ETF,Direxion Daily Magnificent 7 Bull 
 QRED,QuasarEdge Acquisition Corporation Ordinary Shares,QuasarEdge Acquisition Corporation Ordinary Shares,N,QRED,N,100.0,N,QRED
 QRED.R,QuasarEdge Acquisition Corporation Rights to receive one,QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share,N,QREDr,N,100.0,N,QRED^
 QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one","QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",N,QRED.U,N,100.0,N,QRED=
-QRFT,QRAFT AI,QRAFT AI-Enhanced U.S. Large Cap ETF,P,QRFT,Y,100.0,N,QRFT
 QSIG,WisdomTree U.S. Short Term Corporate Bond Fund,WisdomTree U.S. Short Term Corporate Bond Fund,Z,QSIG,Y,100.0,N,QSIG
 QSOL,Invesco Galaxy Solana ETF,Invesco Galaxy Solana ETF,Z,QSOL,Y,100.0,N,QSOL
 QSPT,FT Vest Nasdaq,FT Vest Nasdaq-100 Buffer ETF - September,Z,QSPT,Y,100.0,N,QSPT

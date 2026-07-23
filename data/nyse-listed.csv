@@ -1880,9 +1880,6 @@ NRK,Nuveen New York AMT
 NRP,Natural Resource Partners LP Limited Partnership
 NRT,North European Oil Royality Trust Common Stock
 NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes)
-NSA,National Storage Affiliates Trust Common Shares of Beneficial Interest
-NSA$A,National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share)
-NSA$B,National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest
 NSC,Norfolk Southern Corporation Common Stock
 NSP,"Insperity, Inc. Common Stock"
 NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares
@@ -2139,6 +2136,8 @@ PSA$P,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.000% Cu
 PSA$Q,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share of Beneficial Interest, Series Q, par value $0.01 per share"
 PSA$R,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.00% Cumulative Preferred Share of Bene cial Interest, Series R"
 PSA$S,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.100% Cumulative Preferred Share of Beneficial Interest, Series S"
+PSA$T,"Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T"
+PSA$U,"Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U"
 PSBD,Palmer Square Capital BDC Inc. Common Stock
 PSEC$A,Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock
 PSF,"Cohen & Steers Select Preferred and Income Fund, Inc. Common Stock"
