@@ -1027,7 +1027,6 @@ CAAP,Corporacion America Airports SA Common Shares,Corporacion America Airports 
 CABO,"Cable One, Inc. Common Stock","Cable One, Inc. Common Stock",N,CABO,N,100.0,N,CABO
 CABZ,"Roundhill Robotaxi, Autonomous Vehicles & Technology ETF","Roundhill Robotaxi, Autonomous Vehicles & Technology ETF",Z,CABZ,Y,100.0,N,CABZ
 CACI,"CACI International, Inc. Class A Common Stock","CACI International, Inc. Class A Common Stock",N,CACI,N,40.0,N,CACI
-CAE,CAE Inc. Ordinary Shares,CAE Inc. Ordinary Shares,N,CAE,N,100.0,N,CAE
 CAF,Morgan Stanley China A Share Fund Inc. Common Stock,Morgan Stanley China A Share Fund Inc. Common Stock,N,CAF,N,100.0,N,CAF
 CAFX,Congress Intermediate Bond ETF,Congress Intermediate Bond ETF,P,CAFX,Y,100.0,N,CAFX
 CAG,"ConAgra Brands, Inc. Common Stock","ConAgra Brands, Inc. Common Stock",N,CAG,N,100.0,N,CAG
@@ -5158,6 +5157,7 @@ PMT,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,Penn
 PMT$A,PennyMac Mortgage Investment Trust 8.125% Series A Fixed,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,N,PMTpA,N,100.0,N,PMT-A
 PMT$B,PennyMac Mortgage Investment Trust 8.00% Series B Fixed,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,N,PMTpB,N,100.0,N,PMT-B
 PMT$C,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Preferred Shares of Beneficial Interest,N,PMTpC,N,100.0,N,PMT-C
+PMTL,First Trust Indxx Quality Precious Metals Miners ETF,First Trust Indxx Quality Precious Metals Miners ETF,P,PMTL,Y,100.0,N,PMTL
 PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,N,PMTU,N,100.0,N,PMTU
 PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,N,PMTV,N,100.0,N,PMTV
 PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,N,PMTW,N,100.0,N,PMTW
@@ -5445,6 +5445,7 @@ RACK,VanEck Data Center Supply Chain ETF,VanEck Data Center Supply Chain ETF,Z,R
 RAFE,PIMCO RAFI ESG U.S. ETF,PIMCO RAFI ESG U.S. ETF,P,RAFE,Y,100.0,N,RAFE
 RAL,Ralliant Corporation Common Stock,Ralliant Corporation Common Stock,N,RAL,N,100.0,N,RAL
 RAM,Roundhill T,Roundhill T-REX 2X Long DRAM Daily Target ETF,Z,RAM,Y,100.0,N,RAM
+RAML,Leverage Shares 2X Long Memory Daily ETF,Leverage Shares 2X Long Memory Daily ETF,Z,RAML,Y,100.0,N,RAML
 RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stock",N,RAMP,N,100.0,N,RAMP
 RANK,Defiance KSM TipRanks Analyst ETF,Defiance KSM TipRanks Analyst ETF,P,RANK,Y,100.0,N,RANK
 RAVI,FlexShares Ultra,FlexShares Ultra-Short Income Fund,P,RAVI,Y,100.0,N,RAVI
