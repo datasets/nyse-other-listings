@@ -241,7 +241,6 @@ AVBC,"Avidia Bancorp, Inc. Common Stock"
 AVD,American Vanguard Corporation Common Stock ($0.10 Par Value)
 AVEX,AEVEX Corp. Class A Common Stock
 AVK,Advent Convertible and Income Fund
-AVNS,"Avanos Medical, Inc. Common Stock"
 AVNT,Avient Corporation Common Stock
 AVTR,"Avantor, Inc. Common Stock"
 AVY,Avery Dennison Corporation Common Stock
@@ -1082,7 +1081,9 @@ FT,Franklin Universal Trust Common Stock
 FTHY,First Trust High Yield Opportunities 2027 Term Fund Common Stock
 FTI,TechnipFMC plc Ordinary Share
 FTK,"Flotek Industries, Inc. Common Stock"
+FTRA,FutureCorp Space Acquisition 1 Class A Ordinary Shares
 FTRA.U,"FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one"
+FTRA.W,"FutureCorp Space Acquisition 1 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 FTS,Fortis Inc. Common Shares
 FTV,Fortive Corporation Common Stock 
 FTW,Presidio Production Company Class A Common Stock
@@ -1760,6 +1761,7 @@ MTW,"Manitowoc Company, Inc. (The) Common Stock"
 MTX,Minerals Technologies Inc. Common Stock
 MTZ,"MasTec, Inc. Common Stock"
 MUA,"Blackrock MuniAssets Fund, Inc Common Stock"
+MUA.V,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued"
 MUC,"Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock"
 MUFG,"Mitsubishi UFJ Financial Group, Inc. Common Stock"
 MUJ,"Blackrock MuniHoldings New Jersey Quality Fund, Inc. Common Stock"
@@ -1767,7 +1769,6 @@ MUR,Murphy Oil Corporation Common Stock
 MUSA,Murphy USA Inc. Common Stock
 MUSE,TCW Multisector Credit Income ETF
 MUX,McEwen Inc. Common Stock
-MVO,MV Oil Trust Units of Beneficial Interests
 MWA,MUELLER WATER PRODUCTS Common Stock
 MX,Magnachip Semiconductor Corporation Common Stock
 MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock"
@@ -2158,7 +2159,6 @@ PWR,"Quanta Services, Inc. Common Stock"
 PXED,"Phoenix Education Partners, Inc. Common Stock"
 PYT,PPlus Tr GSC
 Q,"Qnity Electronics, Inc. Common Stock"
-QBTS,D
 QGEN,Qiagen N.V. Common Shares
 QLEP,Quantum Leap Acquisition Corp Class A Ordinary Shares
 QLEP.W,"Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share"
@@ -2607,9 +2607,12 @@ TRAK,"ReposiTrak, Inc. Common Stock"
 TRC,Tejon Ranch Co Common Stock
 TREX,"Trex Company, Inc. Common Stock"
 TRGP,"Targa Resources, Inc. Common Stock"
+TRIN,Trinity Capital Inc. Common Stock
 TRLV,Trulieve Cannabis Corp. Subordinate Voting Shares
 TRN,"Trinity Industries, Inc. Common Stock"
+TRNI,Trinity Capital Inc. 7.875% Notes Due 2029
 TRNO,Terreno Realty Corporation Common Stock
+TRNZ,Trinity Capital Inc. 7.875% Notes due 2029
 TROX,Tronox Holdings plc Ordinary Shares (UK)
 TRP,TC Energy Corporation Common Stock
 TRTN$A,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares
@@ -2746,7 +2749,6 @@ VIST,"Vista Energy S.A.B. de C.V. American Depositary Shares, each representing 
 VIV,Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)
 VKQ,Invesco Municipal Trust Common Stock
 VLN,Valens Semiconductor Ltd. Ordinary Shares
-VLN.W,"Valens Semiconductor Ltd. Warrants, each warrant to purchase one"
 VLO,Valero Energy Corporation Common Stock
 VLRS,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates"
 VLT,Invesco High Income Trust II
