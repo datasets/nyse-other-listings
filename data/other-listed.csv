@@ -4388,8 +4388,10 @@ MSLC,Morgan Stanley Pathway Large Cap Equity ETF,Morgan Stanley Pathway Large Ca
 MSM,"MSC Industrial Direct Company, Inc. Common Stock","MSC Industrial Direct Company, Inc. Common Stock",N,MSM,N,100.0,N,MSM
 MSMR,McElhenny Sheffield Managed Risk ETF,McElhenny Sheffield Managed Risk ETF,Z,MSMR,Y,100.0,N,MSMR
 MSN,Emerson Radio Corporation Common Stock,Emerson Radio Corporation Common Stock,A,MSN,N,100.0,N,MSN
+MSOL,Morgan Stanley Solana Trust,Morgan Stanley Solana Trust,P,MSOL,Y,100.0,N,MSOL
 MSOS,AdvisorShares Pure US Cannabis ETF,AdvisorShares Pure US Cannabis ETF,P,MSOS,Y,100.0,N,MSOS
 MSOX,AdvisorShares MSOS Daily Leveraged ETF,AdvisorShares MSOS Daily Leveraged ETF,P,MSOX,Y,100.0,N,MSOX
+MSSE,Morgan Stanley Ethereum Trust,Morgan Stanley Ethereum Trust,P,MSSE,Y,100.0,N,MSSE
 MSSM,Morgan Stanley Pathway Small,Morgan Stanley Pathway Small-Mid Cap Equity ETF,P,MSSM,Y,100.0,N,MSSM
 MSSS,Monarch Select Subsector Index ETF,Monarch Select Subsector Index ETF,Z,MSSS,Y,100.0,N,MSSS
 MSST,YieldMax MSTR Performance & Distribution Target 25 ETF,YieldMax MSTR Performance & Distribution Target 25 ETF,Z,MSST,Y,100.0,N,MSST
@@ -4410,6 +4412,7 @@ MTB,M&T Bank Corporation Common Stock,M&T Bank Corporation Common Stock,N,MTB,N,
 MTB$H,M&T Bank Corporation Perpetual Fixed,"M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H",N,MTBpH,N,100.0,N,MTB-H
 MTB$J,M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J",N,MTBpJ,N,100.0,N,MTB-J
 MTB$K,M&T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non,"M&T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",N,MTBpK,N,100.0,N,MTB-K
+MTB$L,M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 6.625% Non,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 6.625% Non-Cumulative Preferred Stock, Series L",N,MTBpL,N,100.0,N,MTB-L
 MTBA,Simplify MBS ETF,Simplify MBS ETF,P,MTBA,Y,100.0,N,MTBA
 MTD,Mettler,"Mettler-Toledo International, Inc. Common Stock",N,MTD,N,10.0,N,MTD
 MTDR,Matador Resources Company Common Stock,Matador Resources Company Common Stock,N,MTDR,N,100.0,N,MTDR
@@ -5447,6 +5450,7 @@ RAL,Ralliant Corporation Common Stock,Ralliant Corporation Common Stock,N,RAL,N,
 RAM,Roundhill T,Roundhill T-REX 2X Long DRAM Daily Target ETF,Z,RAM,Y,100.0,N,RAM
 RAML,Leverage Shares 2X Long Memory Daily ETF,Leverage Shares 2X Long Memory Daily ETF,Z,RAML,Y,100.0,N,RAML
 RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stock",N,RAMP,N,100.0,N,RAMP
+RAMZ,T,T-REX 2X Inverse DRAM Daily Target ETF,Z,RAMZ,Y,100.0,N,RAMZ
 RANK,Defiance KSM TipRanks Analyst ETF,Defiance KSM TipRanks Analyst ETF,P,RANK,Y,100.0,N,RANK
 RAVI,FlexShares Ultra,FlexShares Ultra-Short Income Fund,P,RAVI,Y,100.0,N,RAVI
 RAYJ,Rayliant SMDAM Japan Equity ETF,Rayliant SMDAM Japan Equity ETF,P,RAYJ,Y,100.0,N,RAYJ
@@ -5585,7 +5589,6 @@ RMCA,Rockefeller California Municipal Bond ETF,Rockefeller California Municipal 
 RMD,ResMed Inc. Common Stock,ResMed Inc. Common Stock,N,RMD,N,100.0,N,RMD
 RMHY,Global X Adaptive Risk Managed Yield ETF,Global X Adaptive Risk Managed Yield ETF,P,RMHY,Y,100.0,N,RMHY
 RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock","RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock",N,RMI,N,100.0,N,RMI
-RMIF,LHA Risk,LHA Risk-Managed Income ETF,Z,RMIF,Y,100.0,N,RMIF
 RMM,"RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock","RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock",N,RMM,N,100.0,N,RMM
 RMME,Rareview Government Money Market ETF,Rareview Government Money Market ETF,Z,RMME,Y,100.0,N,RMME
 RMMZ,"RiverNorth Managed Duration Municipal Income Fund II, Inc. Common Stock","RiverNorth Managed Duration Municipal Income Fund II, Inc. Common Stock",N,RMMZ,N,100.0,N,RMMZ
@@ -5963,7 +5966,9 @@ SJT,San Juan Basin Royalty Trust Common Stock,San Juan Basin Royalty Trust Commo
 SK,Corgi SK hynix 2x Daily ETF,Corgi SK hynix 2x Daily ETF,Z,SK,Y,100.0,N,SK
 SKE,Skeena Resources Limited Common Shares,Skeena Resources Limited Common Shares,N,SKE,N,100.0,N,SKE
 SKF,ProShares UltraShort Financials,ProShares UltraShort Financials,P,SKF,Y,100.0,N,SKF
+SKHA,Tradr 2X Long SK hynix Daily ETF,Tradr 2X Long SK hynix Daily ETF,Z,SKHA,Y,100.0,N,SKHA
 SKHL,Direxion Daily SK Hynix Bull 2X ETF,Direxion Daily SK Hynix Bull 2X ETF,P,SKHL,Y,100.0,N,SKHL
+SKHN,Tradr 2X Short SK hynix Daily ETF,Tradr 2X Short SK hynix Daily ETF,Z,SKHN,Y,100.0,N,SKHN
 SKHU,ProShares Ultra SK hynix,ProShares Ultra SK hynix,P,SKHU,Y,100.0,N,SKHU
 SKHX,Leverage Shares 2X Long SK Hynix Daily ETF,Leverage Shares 2X Long SK Hynix Daily ETF,Z,SKHX,Y,100.0,N,SKHX
 SKHZ,Leverage Shares 1X Short SK Hynix Daily ETF,Leverage Shares 1X Short SK Hynix Daily ETF,Z,SKHZ,Y,100.0,N,SKHZ
@@ -6227,7 +6232,7 @@ STAX,Nomura Tax,Nomura Tax-Free USA Short Term ETF,P,STAX,Y,100.0,N,STAX
 STBF,Performance Trust Short Term Bond ETF,Performance Trust Short Term Bond ETF,Z,STBF,Y,100.0,N,STBF
 STBQ,Amplify Stablecoin Technology Leaders ETF,Amplify Stablecoin Technology Leaders ETF,P,STBQ,Y,100.0,N,STBQ
 STC,Stewart Information Services Corporation Common Stock,Stewart Information Services Corporation Common Stock,N,STC,N,100.0,N,STC
-STCE,Schwab Crypto Thematic ETF,Schwab Crypto Thematic ETF,P,STCE,Y,100.0,N,STCE
+STCE,Schwab Crypto Thematic Natural Language Processing ETF,Schwab Crypto Thematic Natural Language Processing ETF,P,STCE,Y,100.0,N,STCE
 STDN,"Standard Nuclear, Inc. Class A Common Stock","Standard Nuclear, Inc. Class A Common Stock",N,STDN,N,100.0,N,STDN
 STE,STERIS plc (Ireland) Ordinary Shares,STERIS plc (Ireland) Ordinary Shares,N,STE,N,100.0,N,STE
 STEM,"Stem, Inc. Class A Common Stock","Stem, Inc. Class A Common Stock",N,STEM,N,100.0,N,STEM
