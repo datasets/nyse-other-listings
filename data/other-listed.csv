@@ -353,6 +353,7 @@ AR,Antero Resources Corporation Common Stock,Antero Resources Corporation Common
 ARB,AltShares Merger Arbitrage ETF,AltShares Merger Arbitrage ETF,P,ARB,Y,100.0,N,ARB
 ARCM,Arrow Reserve Capital Management ETF,Arrow Reserve Capital Management ETF,Z,ARCM,Y,100.0,N,ARCM
 ARCO,Arcos Dorados Holdings Inc. Class A Shares,Arcos Dorados Holdings Inc. Class A Shares,N,ARCO,N,100.0,N,ARCO
+ARCP,Aristotle Core Plus Income ETF,Aristotle Core Plus Income ETF,P,ARCP,Y,100.0,N,ARCP
 ARCX,Tradr 2X Long ACHR Daily ETF,Tradr 2X Long ACHR Daily ETF,Z,ARCX,Y,100.0,N,ARCX
 ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common Shares","Ares Dynamic Credit Allocation Fund, Inc. Common Shares",N,ARDC,N,100.0,N,ARDC
 ARDT,"Ardent Health, Inc. Common Stock","Ardent Health, Inc. Common Stock",N,ARDT,N,100.0,N,ARDT
@@ -382,6 +383,7 @@ ARMA,Corgi ARM 2x Daily ETF,Corgi ARM 2x Daily ETF,Z,ARMA,Y,100.0,N,ARMA
 ARMH,Arm Holdings PLC ADRhedged,Arm Holdings PLC ADRhedged,P,ARMH,Y,100.0,N,ARMH
 ARMK,Aramark Common Stock,Aramark Common Stock,N,ARMK,N,100.0,N,ARMK
 ARMP,"Armata Pharmaceuticals, Inc. Common Stock","Armata Pharmaceuticals, Inc. Common Stock",A,ARMP,N,100.0,N,ARMP
+ARMS,Aristotle Multi,Aristotle Multi-Sector Income ETF,P,ARMS,Y,100.0,N,ARMS
 ARMW,Roundhill ARM WeeklyPay ETF,Roundhill ARM WeeklyPay ETF,Z,ARMW,Y,100.0,N,ARMW
 AROC,"Archrock, Inc. Common Stock","Archrock, Inc. Common Stock",N,AROC,N,100.0,N,AROC
 ARP,PMV Adaptive Risk Parity ETF,PMV Adaptive Risk Parity ETF,P,ARP,Y,100.0,N,ARP
@@ -2818,7 +2820,6 @@ GLOP$A,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed 
 GLOP$B,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,N,GLOPpB,N,100.0,N,GLOP-B
 GLOP$C,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,N,GLOPpC,N,100.0,N,GLOP-C
 GLP,Global Partners LP Common Units representing Limited Partner Interests,Global Partners LP Common Units representing Limited Partner Interests,N,GLP,N,100.0,N,GLP
-GLP$B,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,N,GLPpB,N,100.0,N,GLP-B
 GLQ,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,A,GLQ,N,100.0,N,GLQ
 GLRY,Inspire Growth ETF,Inspire Growth ETF,P,GLRY,Y,100.0,N,GLRY
 GLTR,abrdn Physical Precious Metals Basket Shares ETF,abrdn Physical Precious Metals Basket Shares ETF,P,GLTR,Y,100.0,N,GLTR
@@ -3671,6 +3672,7 @@ JMBS,Janus Henderson Mortgage,Janus Henderson Mortgage-Backed Securities ETF,P,J
 JMEE,JPMorgan Small & Mid Cap Enhanced Equity ETF,JPMorgan Small & Mid Cap Enhanced Equity ETF,P,JMEE,Y,100.0,N,JMEE
 JMHI,JPMorgan High Yield Municipal ETF,JPMorgan High Yield Municipal ETF,P,JMHI,Y,100.0,N,JMHI
 JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares","Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares",N,JMIA,N,100.0,N,JMIA
+JMKE,Jersey Mike's Subs Inc. Class A Common Stock,Jersey Mike's Subs Inc. Class A Common Stock,N,JMKE,N,100.0,N,JMKE
 JMM,Nuveen Multi,Nuveen Multi-Market Income Fund (MA),N,JMM,N,100.0,N,JMM
 JMMF,JPMorgan 100% U.S. Treasury Securities Money Market ETF,JPMorgan 100% U.S. Treasury Securities Money Market ETF,P,JMMF,Y,100.0,N,JMMF
 JMOM,JPMorgan U.S. Momentum Factor ETF,JPMorgan U.S. Momentum Factor ETF,P,JMOM,Y,100.0,N,JMOM
@@ -5501,6 +5503,7 @@ RECI,Columbia Research Enhanced Core Premium Income ETF,Columbia Research Enhanc
 RECS,Columbia Research Enhanced Core ETF,Columbia Research Enhanced Core ETF,P,RECS,Y,100.0,N,RECS
 REED,"Reed's, Inc. Common Stock","Reed's, Inc. Common Stock",A,REED,N,100.0,N,REED
 REET,iShares Global REIT ETF,iShares Global REIT ETF,P,REET,Y,100.0,N,REET
+REF,Reformation Inc. Common Stock,Reformation Inc. Common Stock,N,REF,N,100.0,N,REF
 REFA,Columbia Research Enhanced International Equity ETF,Columbia Research Enhanced International Equity ETF,P,REFA,Y,100.0,N,REFA
 REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,ProShares S&P MidCap 400 Dividend Aristocrats ETF,Z,REGL,Y,100.0,N,REGL
 REGS,Columbia Large Cap Growth ETF,Columbia Large Cap Growth ETF,P,REGS,Y,100.0,N,REGS
@@ -5854,6 +5857,7 @@ SDOW,UltraPro Short Dow30,UltraPro Short Dow30,P,SDOW,Y,100.0,N,SDOW
 SDP,ProShares UltraShort Utilities,ProShares UltraShort Utilities,P,SDP,Y,100.0,N,SDP
 SDRL,Seadrill Limited Common Shares,Seadrill Limited Common Shares,N,SDRL,N,100.0,N,SDRL
 SDS,ProShares UltraShort S&P500,ProShares UltraShort S&P500,P,SDS,Y,100.0,N,SDS
+SDUR,Aristotle Short Term Income ETF,Aristotle Short Term Income ETF,P,SDUR,Y,100.0,N,SDUR
 SDVD,FT Vest SMID Rising Dividend Achievers Target Income ETF,FT Vest SMID Rising Dividend Achievers Target Income ETF,Z,SDVD,Y,100.0,N,SDVD
 SDY,State Street SPDR S&P Dividend ETF,State Street SPDR S&P Dividend ETF,P,SDY,Y,100.0,N,SDY
 SE,"Sea Limited American Depositary Shares, each representing one Class A Ordinary Share","Sea Limited American Depositary Shares, each representing one Class A Ordinary Share",N,SE,N,100.0,N,SE

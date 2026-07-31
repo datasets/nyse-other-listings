@@ -1168,7 +1168,6 @@ GLOP$A,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed 
 GLOP$B,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units
 GLOP$C,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units
 GLP,Global Partners LP Common Units representing Limited Partner Interests
-GLP$B,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests
 GLW,Corning Incorporated Common Stock
 GM,General Motors Company Common Stock
 GME,GameStop Corporation Common Stock
@@ -1433,6 +1432,7 @@ JKS,JinkoSolar Holding Company Limited American Depositary Shares (each represen
 JLL,Jones Lang LaSalle Incorporated Common Stock
 JLS,Nuveen Mortgage and Income Fund
 JMIA,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares"
+JMKE,Jersey Mike's Subs Inc. Class A Common Stock
 JMM,Nuveen Multi
 JNJ,Johnson & Johnson Common Stock
 JOBY,"Joby Aviation, Inc. Common Stock"
@@ -2196,6 +2196,7 @@ RDDT,"Reddit, Inc. Class A Common Stock"
 RDN,Radian Group Inc. Common Stock
 RDW,Redwire Corporation Common Stock
 RDY,Dr. Reddy's Laboratories Ltd Common Stock
+REF,Reformation Inc. Common Stock
 RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share)
 RERE,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares)
 RES,"RPC, Inc. Common Stock"
