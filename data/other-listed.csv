@@ -329,7 +329,6 @@ APLZ,Tradr 2X Short APLD Daily ETF,Tradr 2X Short APLD Daily ETF,Z,APLZ,Y,100.0,
 APMI,Corgi AMAT 2x Daily ETF,Corgi AMAT 2x Daily ETF,Z,APMI,Y,100.0,N,APMI
 APMU,ActivePassive Intermediate Municipal Bond ETF,ActivePassive Intermediate Municipal Bond ETF,P,APMU,Y,100.0,N,APMU
 APO,"Apollo Global Management, Inc. (New) Common Stock","Apollo Global Management, Inc. (New) Common Stock",N,APO,N,100.0,N,APO
-APO$A,"Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock","Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",N,APOpA,N,100.0,N,APO-A
 APOC,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 6mo Apr/Oct,Z,APOC,Y,100.0,N,APOC
 APOS,"Apollo Global Management, Inc. 7.625% Fixed","Apollo Global Management, Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053",N,APOS,N,100.0,N,APOS
 APPC,Corgi APP 2x Daily ETF,Corgi APP 2x Daily ETF,Z,APPC,Y,100.0,N,APPC
@@ -2882,7 +2881,7 @@ GOOS,Canada Goose Holdings Inc. Subordinate Voting Shares,Canada Goose Holdings 
 GOOW,Roundhill GOOGL WeeklyPay ETF,Roundhill GOOGL WeeklyPay ETF,Z,GOOW,Y,100.0,N,GOOW
 GOOX,T,T-Rex 2X Long Alphabet Daily Target ETF,Z,GOOX,Y,100.0,N,GOOX
 GOOY,YieldMax GOOGL Option Income Strategy ETF,YieldMax GOOGL Option Income Strategy ETF,P,GOOY,Y,100.0,N,GOOY
-GOP,Unusual Whales Subversive Republican Trading ETF,Unusual Whales Subversive Republican Trading ETF,Z,GOP,Y,100.0,N,GOP
+GOP,Subversive Congressional Republicans Trading ETF,Subversive Congressional Republicans Trading ETF,Z,GOP,Y,100.0,N,GOP
 GORO,Goldgroup Mining Inc. Common Shares,Goldgroup Mining Inc. Common Shares,A,GORO,N,100.0,N,GORO
 GOTU,Gaotu Techedu Inc. American Depositary Shares,Gaotu Techedu Inc. American Depositary Shares,N,GOTU,N,100.0,N,GOTU
 GOVM,iShares 1,iShares 1-10 Year Treasury Bond ETF,Z,GOVM,Y,100.0,N,GOVM
@@ -4496,7 +4495,7 @@ NAD,Nuveen Quality Municipal Income Fund Common Stock,Nuveen Quality Municipal I
 NAIL,Direxion Daily Homebuilders & Supplies Bull 3X ETF,Direxion Daily Homebuilders & Supplies Bull 3X ETF,P,NAIL,Y,100.0,N,NAIL
 NAK,"Northern Dynasty Minerals, Ltd. Common Stock","Northern Dynasty Minerals, Ltd. Common Stock",A,NAK,N,100.0,N,NAK
 NAN,Nuveen New York Quality Municipal Income Fund Common Stock,Nuveen New York Quality Municipal Income Fund Common Stock,N,NAN,N,100.0,N,NAN
-NANC,Unusual Whales Subversive Democratic Trading ETF,Unusual Whales Subversive Democratic Trading ETF,Z,NANC,Y,100.0,N,NANC
+NANC,Subversive Congressional Democrats Trading ETF,Subversive Congressional Democrats Trading ETF,Z,NANC,Y,100.0,N,NANC
 NANR,State Street SPDR S&P North American Natural Resources ETF,State Street SPDR S&P North American Natural Resources ETF,P,NANR,Y,100.0,N,NANR
 NAPR,Innovator Growth,Innovator Growth-100 Power Buffer ETF - April,Z,NAPR,Y,100.0,N,NAPR
 NASA,Tema Space Innovators ETF,Tema Space Innovators ETF,P,NASA,Y,100.0,N,NASA
@@ -4889,7 +4888,6 @@ ORCL,Oracle Corporation Common Stock,Oracle Corporation Common Stock,N,ORCL,N,10
 ORCL$D,"Oracle Corporation Depositary Shares, each representing a 1/2,000th interest in a sh of 6.50% Series D Mandatory Convertible Preferred Stock","Oracle Corporation Depositary Shares, each representing a 1/2,000th interest in a sh of 6.50% Series D Mandatory Convertible Preferred Stock",N,ORCLpD,N,100.0,N,ORCL-D
 ORCZ,Tradr 2X Short ORCL Daily ETF,Tradr 2X Short ORCL Daily ETF,Z,ORCZ,Y,100.0,N,ORCZ
 ORI,Old Republic International Corporation Common Stock,Old Republic International Corporation Common Stock,N,ORI,N,100.0,N,ORI
-ORLA,Orla Mining Ltd. Common Shares,Orla Mining Ltd. Common Shares,A,ORLA,N,100.0,N,ORLA
 ORN,"Orion Group Holdings, Inc. Common","Orion Group Holdings, Inc. Common",N,ORN,N,100.0,N,ORN
 ORO,Arrow Valtoro ETF,Arrow Valtoro ETF,Z,ORO,Y,100.0,N,ORO
 OSCR,"Oscar Health, Inc. Class A Common Stock","Oscar Health, Inc. Class A Common Stock",N,OSCR,N,100.0,N,OSCR
@@ -5463,7 +5461,6 @@ RAMP,"LiveRamp Holdings, Inc. Common Stock","LiveRamp Holdings, Inc. Common Stoc
 RAMZ,T,T-REX 2X Inverse DRAM Daily Target ETF,Z,RAMZ,Y,100.0,N,RAMZ
 RANK,Defiance KSM TipRanks Analyst ETF,Defiance KSM TipRanks Analyst ETF,P,RANK,Y,100.0,N,RANK
 RAVI,FlexShares Ultra,FlexShares Ultra-Short Income Fund,P,RAVI,Y,100.0,N,RAVI
-RAYJ,Rayliant SMDAM Japan Equity ETF,Rayliant SMDAM Japan Equity ETF,P,RAYJ,Y,100.0,N,RAYJ
 RB,ProShares Russell 2000 Dynamic Buffer ETF,ProShares Russell 2000 Dynamic Buffer ETF,Z,RB,Y,100.0,N,RB
 RBA,"RB Global, Inc. Common Stock","RB Global, Inc. Common Stock",N,RBA,N,100.0,N,RBA
 RBC,RBC Bearings Incorporated Common Stock,RBC Bearings Incorporated Common Stock,N,RBC,N,40.0,N,RBC
@@ -6446,7 +6443,7 @@ TGE.W,"The Generation Essentials Group Warrants, each whole warrant exercisable 
 TGEN,Tecogen Inc. Common Stock,Tecogen Inc. Common Stock,A,TGEN,N,100.0,N,TGEN
 TGLB,T. Rowe Price Global Equity ETF,T. Rowe Price Global Equity ETF,P,TGLB,Y,100.0,N,TGLB
 TGLR,Wedbush LAFFER TENGLER New Era Value ETF,Wedbush LAFFER TENGLER New Era Value ETF,P,TGLR,Y,100.0,N,TGLR
-TGLS,Tecnoglass Inc. Common Stock,Tecnoglass Inc. Common Stock,N,TGLS,N,100.0,N,TGLS
+TGLS,Tecnoglass Holdings Inc. Common Stock,Tecnoglass Holdings Inc. Common Stock,N,TGLS,N,100.0,N,TGLS
 TGRT,T. Rowe Price Growth ETF,T. Rowe Price Growth ETF,P,TGRT,Y,100.0,N,TGRT
 TGRW,T. Rowe Price Growth Stock ETF,T. Rowe Price Growth Stock ETF,P,TGRW,Y,100.0,N,TGRW
 TGS,Transportadora de Gas del Sur SA TGS Common Stock,Transportadora de Gas del Sur SA TGS Common Stock,N,TGS,N,100.0,N,TGS
