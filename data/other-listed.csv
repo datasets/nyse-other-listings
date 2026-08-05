@@ -91,7 +91,7 @@ ADC,Agree Realty Corporation Common Stock,Agree Realty Corporation Common Stock,
 ADC$A,"Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock","Agree Realty Corporation Depositary Shares, each representing 1/1,000th of a 4.250% Series A Cumulative Redeemable Preferred Stock",N,ADCpA,N,100.0,N,ADC-A
 ADCT,ADC Therapeutics SA Common Shares,ADC Therapeutics SA Common Shares,N,ADCT,N,100.0,N,ADCT
 ADDS,Hedgeye Index Adds ETF,Hedgeye Index Adds ETF,P,ADDS,Y,100.0,N,ADDS
-ADIG.V,ADI Global Distribution Inc. Common Stock When,ADI Global Distribution Inc. Common Stock When-Issued,N,ADIGw,N,100.0,N,ADIG#
+ADIG,ADI Global Distribution Inc. Common Stock,ADI Global Distribution Inc. Common Stock,N,ADIG,N,100.0,N,ADIG
 ADIU,Leverage Shares 2X Long ADI Daily ETF,Leverage Shares 2X Long ADI Daily ETF,Z,ADIU,Y,100.0,N,ADIU
 ADIV,Guinness Atkinson Asia Pacific Dividend Builder ETF,Guinness Atkinson Asia Pacific Dividend Builder ETF,P,ADIV,Y,100.0,N,ADIV
 ADM,Archer,Archer-Daniels-Midland Company Common Stock,N,ADM,N,100.0,N,ADM
@@ -448,6 +448,7 @@ AU,AngloGold Ashanti PLC Ordinary Shares,AngloGold Ashanti PLC Ordinary Shares,N
 AUAU,Global X Gold Miners ETF,Global X Gold Miners ETF,P,AUAU,Y,100.0,N,AUAU
 AUB,Atlantic Union Bankshares Corporation Common Stock,Atlantic Union Bankshares Corporation Common Stock,N,AUB,N,100.0,N,AUB
 AUB$A,Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non,"Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non-Cumulative Preferred Stock, Series A",N,AUBpA,N,100.0,N,AUB-A
+AUGC,Corgi U.S. Equities 10% Structured Buffer ETF ,Corgi U.S. Equities 10% Structured Buffer ETF - August Series,Z,AUGC,Y,100.0,N,AUGC
 AUGM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - August,Z,AUGM,Y,100.0,N,AUGM
 AUGP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - August,Z,AUGP,Y,100.0,N,AUGP
 AUGT,AllianzIM U.S. Large Cap Buffer10 Aug ETF,AllianzIM U.S. Large Cap Buffer10 Aug ETF,Z,AUGT,Y,100.0,N,AUGT
@@ -1065,6 +1066,7 @@ CATF,American Century California Municipal Bond ETF,American Century California 
 CATG,Leverage Shares 2X Long CAT Daily ETF,Leverage Shares 2X Long CAT Daily ETF,Z,CATG,Y,100.0,N,CATG
 CATO,Cato Corporation (The) Class A Common Stock,Cato Corporation (The) Class A Common Stock,N,CATO,N,100.0,N,CATO
 CATX,"Perspective Therapeutics, Inc. Common Stock","Perspective Therapeutics, Inc. Common Stock",A,CATX,N,100.0,N,CATX
+CAUG,Corgi U.S. Equities 15% Structured Buffer ETF ,Corgi U.S. Equities 15% Structured Buffer ETF - August Series,Z,CAUG,Y,100.0,N,CAUG
 CAVA,"CAVA Group, Inc. Common Stock","CAVA Group, Inc. Common Stock",N,CAVA,N,100.0,N,CAVA
 CB,Chubb Limited  Common Stock,Chubb Limited  Common Stock,N,CB,N,40.0,N,CB
 CBAN,"Colony Bankcorp, Inc. Common Stock","Colony Bankcorp, Inc. Common Stock",N,CBAN,N,100.0,N,CBAN
@@ -1186,6 +1188,7 @@ CHAT,Roundhill Generative AI & Technology ETF,Roundhill Generative AI & Technolo
 CHAU,Direxion Daily CSI 300 China A Share Bull 2X ETF,Direxion Daily CSI 300 China A Share Bull 2X ETF,P,CHAU,Y,100.0,N,CHAU
 CHCT,Community Healthcare Trust Incorporated Common Stock,Community Healthcare Trust Incorporated Common Stock,N,CHCT,N,100.0,N,CHCT
 CHD,"Church & Dwight Company, Inc. Common Stock","Church & Dwight Company, Inc. Common Stock",N,CHD,N,100.0,N,CHD
+CHDG,Calamos Active Hedged Equity ETF,Calamos Active Hedged Equity ETF,Z,CHDG,Y,100.0,N,CHDG
 CHE,Chemed Corp,Chemed Corp,N,CHE,N,40.0,N,CHE
 CHGG,"Chegg, Inc. Common Stock","Chegg, Inc. Common Stock",N,CHGG,N,100.0,N,CHGG
 CHH,"Choice Hotels International, Inc. Common Stock","Choice Hotels International, Inc. Common Stock",N,CHH,N,100.0,N,CHH
@@ -1466,6 +1469,7 @@ CTA,Simplify Managed Futures Strategy ETF,Simplify Managed Futures Strategy ETF,
 CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series","EIDP, Inc. Preferred Stock $3.50 Series",N,CTApA,N,100.0,N,CTA-A
 CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series","EIDP, Inc. Preferred Stock $4.50 Series",N,CTApB,N,100.0,N,CTA-B
 CTAP,Simplify US Equity PLUS Managed Futures Strategy ETF,Simplify US Equity PLUS Managed Futures Strategy ETF,P,CTAP,Y,100.0,N,CTAP
+CTAU,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Structured Buffer ETF - August Series,Z,CTAU,Y,100.0,N,CTAU
 CTEF,Castellan Targeted Equity ETF,Castellan Targeted Equity ETF,Z,CTEF,Y,100.0,N,CTEF
 CTEV,Claritev Corporation Class A Common Stock,Claritev Corporation Class A Common Stock,N,CTEV,N,100.0,N,CTEV
 CTEX,ProShares S&P Kensho Cleantech ETF,ProShares S&P Kensho Cleantech ETF,P,CTEX,Y,100.0,N,CTEX
@@ -2024,6 +2028,7 @@ ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each re
 ELS,"Equity Lifestyle Properties, Inc. Common Stock","Equity Lifestyle Properties, Inc. Common Stock",N,ELS,N,100.0,N,ELS
 ELV,"Elevance Health, Inc. Common Stock","Elevance Health, Inc. Common Stock",N,ELV,N,40.0,N,ELV
 EMA,Emera Incorporated Common Shares,Emera Incorporated Common Shares,N,EMA,N,100.0,N,EMA
+EMAU,Corgi Emerging Markets Equities 15% Structured Buffer ETF ,Corgi Emerging Markets Equities 15% Structured Buffer ETF - August Series,Z,EMAU,Y,100.0,N,EMAU
 EMBD,Global X Emerging Markets Bond ETF,Global X Emerging Markets Bond ETF,P,EMBD,Y,100.0,N,EMBD
 EMBJ,Embraer S.A. Common Stock,Embraer S.A. Common Stock,N,EMBJ,N,100.0,N,EMBJ
 EMBX,VanEck Emerging Markets Bond ETF,VanEck Emerging Markets Bond ETF,P,EMBX,Y,100.0,N,EMBX
@@ -2431,6 +2436,7 @@ FIW,First Trust Water ETF,First Trust Water ETF,P,FIW,Y,100.0,N,FIW
 FIX,"Comfort Systems USA, Inc. Common Stock","Comfort Systems USA, Inc. Common Stock",N,FIX,N,10.0,N,FIX
 FIXP,FolioBeyond Enhanced Fixed Income Premium ETF,FolioBeyond Enhanced Fixed Income Premium ETF,P,FIXP,Y,100.0,N,FIXP
 FIXT,TCW Core Plus Bond ETF,TCW Core Plus Bond ETF,N,FIXT,Y,100.0,N,FIXT
+FIZY,Fitz,Fitz-Gerald Must Have Portfolio and Options Overlay ETF,P,FIZY,Y,100.0,N,FIZY
 FJAN,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - January,Z,FJAN,Y,100.0,N,FJAN
 FJET,"Starfighters Space, Inc. Common Stock","Starfighters Space, Inc. Common Stock",A,FJET,N,100.0,N,FJET
 FJUL,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - July,Z,FJUL,Y,100.0,N,FJUL
@@ -3009,6 +3015,7 @@ HAPI,Harbor Human Capital Factor US Large Cap ETF,Harbor Human Capital Factor US
 HAPS,Harbor Human Capital Factor US Small Cap ETF,Harbor Human Capital Factor US Small Cap ETF,P,HAPS,Y,100.0,N,HAPS
 HARD,Simplify Commodities Strategy No K,Simplify Commodities Strategy No K-1 ETF,P,HARD,Y,100.0,N,HARD
 HASI,"HA Sustainable Infrastructure Capital, Inc. Common Stock","HA Sustainable Infrastructure Capital, Inc. Common Stock",N,HASI,N,100.0,N,HASI
+HAUG,Corgi U.S. Equities 100% Structured Buffer ETF ,Corgi U.S. Equities 100% Structured Buffer ETF - August Series,Z,HAUG,Y,100.0,N,HAUG
 HAUS,Residential REIT ETF,Residential REIT ETF,Z,HAUS,Y,100.0,N,HAUS
 HAUZ,Xtrackers International Real Estate ETF,Xtrackers International Real Estate ETF,P,HAUZ,Y,100.0,N,HAUZ
 HAWK,"HawkEye 360, Inc. Common Stock","HawkEye 360, Inc. Common Stock",N,HAWK,N,100.0,N,HAWK
@@ -3277,6 +3284,7 @@ ICR$A,"InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Red
 ICSH,iShares Ultra Short Duration Bond Active ETF,iShares Ultra Short Duration Bond Active ETF,Z,ICSH,Y,100.0,N,ICSH
 ICVT,iShares Convertible Bond ETF,iShares Convertible Bond ETF,Z,ICVT,Y,100.0,N,ICVT
 IDA,"IDACORP, Inc. Common Stock","IDACORP, Inc. Common Stock",N,IDA,N,100.0,N,IDA
+IDAU,Corgi International Developed Equities 15% Structured Buffer ETF ,Corgi International Developed Equities 15% Structured Buffer ETF - August Series,Z,IDAU,Y,100.0,N,IDAU
 IDE,"Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest","Voya Infrastructure, Industrials and Materials Fund Common Shares of Beneficial Interest",N,IDE,N,100.0,N,IDE
 IDEC,Innovator International Developed Power Buffer ETF  December,Innovator International Developed Power Buffer ETF  December,P,IDEC,Y,100.0,N,IDEC
 IDEQ,Lazard International Dynamic Equity ETF,Lazard International Dynamic Equity ETF,P,IDEQ,Y,100.0,N,IDEQ
@@ -4436,7 +4444,7 @@ MTW,"Manitowoc Company, Inc. (The) Common Stock","Manitowoc Company, Inc. (The) 
 MTX,Minerals Technologies Inc. Common Stock,Minerals Technologies Inc. Common Stock,N,MTX,N,100.0,N,MTX
 MTZ,"MasTec, Inc. Common Stock","MasTec, Inc. Common Stock",N,MTZ,N,40.0,N,MTZ
 MUA,"Blackrock MuniAssets Fund, Inc Common Stock","Blackrock MuniAssets Fund, Inc Common Stock",N,MUA,N,100.0,N,MUA
-MUA.V,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued","Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",N,MUArw,N,100.0,N,MUA^#
+MUA.R,"Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights","Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",N,MUAr,N,100.0,N,MUA^
 MUB,iShares National Muni Bond ETF,iShares National Muni Bond ETF,P,MUB,Y,100.0,N,MUB
 MUC,"Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock","Blackrock MuniHoldings California Quality Fund, Inc.  Common Stock",N,MUC,N,100.0,N,MUC
 MUFG,"Mitsubishi UFJ Financial Group, Inc. Common Stock","Mitsubishi UFJ Financial Group, Inc. Common Stock",N,MUFG,N,100.0,N,MUFG
@@ -5343,6 +5351,7 @@ PZT,Invesco New York AMT,Invesco New York AMT-Free Municipal Bond ETF,P,PZT,Y,10
 Q,"Qnity Electronics, Inc. Common Stock","Qnity Electronics, Inc. Common Stock",N,Q,N,100.0,N,Q
 QAI,NYLI Hedge Multi,NYLI Hedge Multi-Strategy Tracker ETF,P,QAI,Y,100.0,N,QAI
 QARP,Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF,Xtrackers Russell 1000 US Quality at a Reasonable Price ETF ETF,P,QARP,Y,100.0,N,QARP
+QAU,Corgi Growth & Technology 10% Structured Buffer ETF ,Corgi Growth & Technology 10% Structured Buffer ETF - August Series,Z,QAU,Y,100.0,N,QAU
 QBER,TrueShares Quarterly Bear Hedge ETF,TrueShares Quarterly Bear Hedge ETF,Z,QBER,Y,100.0,N,QBER
 QBF,Innovator Uncapped Bitcoin 20 Floor ETF ,Innovator Uncapped Bitcoin 20 Floor ETF - Quarterly,Z,QBF,Y,100.0,N,QBF
 QBIF,AllianzIM International Equity Buffer15 ETF,AllianzIM International Equity Buffer15 ETF,Z,QBIF,Y,100.0,N,QBIF
@@ -5403,6 +5412,7 @@ QMY,Corgi Growth & Technology 10% Structured Buffer ETF ,Corgi Growth & Technolo
 QNC,Quantum eMotion Corp. Common Shares,Quantum eMotion Corp. Common Shares,A,QNC,N,100.0,N,QNC
 QNTU,Tradr 2X Long QNT Daily ETF,Tradr 2X Long QNT Daily ETF,Z,QNTU,Y,100.0,N,QNTU
 QPX,AdvisorShares Q Dynamic Growth ETF,AdvisorShares Q Dynamic Growth ETF,P,QPX,Y,100.0,N,QPX
+QQAU,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - August Series,Z,QQAU,Y,100.0,N,QQAU
 QQH,HCM Defender 100 Index ETF,HCM Defender 100 Index ETF,P,QQH,Y,100.0,N,QQH
 QQJL,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - July Series,Z,QQJL,Y,100.0,N,QQJL
 QQJN,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - June Series,Z,QQJN,Y,100.0,N,QQJN
@@ -5522,7 +5532,6 @@ REXR$B,"Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Pr
 REXR$C,"Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share","Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.01 per share",N,REXRpC,N,100.0,N,REXR-C
 REZ,iShares Residential and Multisector Real Estate ETF,iShares Residential and Multisector Real Estate ETF,P,REZ,Y,100.0,N,REZ
 REZI,"Resideo Technologies, Inc. Common Stock ","Resideo Technologies, Inc. Common Stock ",N,REZI,N,100.0,N,REZI
-REZI.V,"Resideo Technologies, Inc. Common Stock When","Resideo Technologies, Inc. Common Stock When-Issued",N,REZIw,N,100.0,N,REZI#
 RF,Regions Financial Corporation Common Stock,Regions Financial Corporation Common Stock,N,RF,N,100.0,N,RF
 RF$C,"Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a  Share of 5.700% Fixed","Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a  Share of 5.700% Fixed-to-Floating Rate Non-Cumulative  Perpetual Preferred Stock, Series C",N,RFpC,N,100.0,N,RF-C
 RF$E,"Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non","Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E",N,RFpE,N,100.0,N,RF-E
@@ -5684,7 +5693,7 @@ RULE,Adaptive Core ETF,Adaptive Core ETF,Z,RULE,Y,100.0,N,RULE
 RVER,Trenchless Fund ETF,Trenchless Fund ETF,P,RVER,Y,100.0,N,RVER
 RVI,Robinhood Ventures Fund I Common Shares of Beneficial Interest,Robinhood Ventures Fund I Common Shares of Beneficial Interest,N,RVI,N,100.0,N,RVI
 RVLV,"Revolve Group, Inc. Class A Common Stock","Revolve Group, Inc. Class A Common Stock",N,RVLV,N,100.0,N,RVLV
-RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,Xtrackers Municipal Infrastructure Revenue Bond ETF,P,RVNU,Y,100.0,N,RVNU
+RVNU,Xtrackers Municipal Infrastructure Revenue Bond Active ETF,Xtrackers Municipal Infrastructure Revenue Bond Active ETF,P,RVNU,Y,100.0,N,RVNU
 RVP,"Retractable Technologies, Inc. Common Stock","Retractable Technologies, Inc. Common Stock",A,RVP,N,100.0,N,RVP
 RVT,Royce Small,"Royce Small-Cap Trust, Inc. Common Stock",N,RVT,N,100.0,N,RVT
 RVTY,"Revvity, Inc. Common Stock","Revvity, Inc. Common Stock",N,RVTY,N,100.0,N,RVTY
@@ -5780,6 +5789,7 @@ SBXE,SilverBox Corp V Class A Ordinary Shares,SilverBox Corp V Class A Ordinary 
 SBXE.U,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one","SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",N,SBXE.U,N,100.0,N,SBXE=
 SBXE.W,"SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50","SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",N,SBXE.WS,N,100.0,N,SBXE+
 SCAP,Infrastructure Capital Small Cap Income ETF,Infrastructure Capital Small Cap Income ETF,P,SCAP,Y,100.0,N,SCAP
+SCAU,Corgi U.S. Small,Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series,Z,SCAU,Y,100.0,N,SCAU
 SCC,ProShares UltraShort Consumer Discretionary,ProShares UltraShort Consumer Discretionary,P,SCC,Y,100.0,N,SCC
 SCCD,Sachem Capital Corp. 6.00% Notes due 2026,Sachem Capital Corp. 6.00% Notes due 2026,A,SCCD,N,100.0,N,SCCD
 SCCE,Sachem Capital Corp. 6.00% Notes due 2027,Sachem Capital Corp. 6.00% Notes due 2027,A,SCCE,N,100.0,N,SCCE
@@ -6029,7 +6039,9 @@ SMDX,Intech S&P Small,Intech S&P Small-Mid Cap Diversified Alpha ETF,P,SMDX,Y,10
 SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),N,SMFG,N,100.0,N,SMFG
 SMG,Scotts Miracle,Scotts Miracle-Gro Company (The) Common Stock,N,SMG,N,100.0,N,SMG
 SMHB,ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B,ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B,P,SMHB,N,100.0,N,SMHB
+SMHD,MicroSectors ,MicroSectors -3x Short Semiconductor ETNs,Z,SMHD,Y,100.0,N,SMHD
 SMHI,SEACOR Marine Holdings Inc. Common Stock ,SEACOR Marine Holdings Inc. Common Stock ,N,SMHI,N,100.0,N,SMHI
+SMHU,MicroSectors 3x Long Semiconductor ETNs,MicroSectors 3x Long Semiconductor ETNs,Z,SMHU,Y,100.0,N,SMHU
 SMIG,Bahl & Gaynor Small/Mid Cap Income Growth ETF,Bahl & Gaynor Small/Mid Cap Income Growth ETF,P,SMIG,Y,100.0,N,SMIG
 SMIN,Ishares MSCI India Small Cap ETF,Ishares MSCI India Small Cap ETF,Z,SMIN,Y,100.0,N,SMIN
 SMIZ,Zacks Small/Mid Cap ETF,Zacks Small/Mid Cap ETF,P,SMIZ,Y,100.0,N,SMIZ
@@ -6675,6 +6687,7 @@ TWI,"Titan International, Inc. (DE) Common Stock","Titan International, Inc. (DE
 TWLO,Twilio Inc. Class A Common Stock,Twilio Inc. Class A Common Stock,N,TWLO,N,100.0,N,TWLO
 TWM,ProShares UltraShort Russell2000,ProShares UltraShort Russell2000,P,TWM,Y,100.0,N,TWM
 TWN,"Taiwan Fund, Inc. (The) Common Stock","Taiwan Fund, Inc. (The) Common Stock",N,TWN,N,100.0,N,TWN
+TWO,Two Harbors Investment Corp,Two Harbors Investment Corp,N,TWO,N,100.0,N,TWO
 TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),N,TWOpA,N,100.0,N,TWO-A
 TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpB,N,100.0,N,TWO-B
 TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpC,N,100.0,N,TWO-C
@@ -7428,7 +7441,7 @@ YMAX,YieldMax Universe Fund of Option Income ETFs,YieldMax Universe Fund of Opti
 YMM,Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares),Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares),N,YMM,N,100.0,N,YMM
 YOLO,AdvisorShares Pure Cannabis ETF,AdvisorShares Pure Cannabis ETF,P,YOLO,Y,100.0,N,YOLO
 YOU,"Clear Secure, Inc. Class A Common Stock","Clear Secure, Inc. Class A Common Stock",N,YOU,N,100.0,N,YOU
-YPF,YPF Sociedad Anonima Common Stock,YPF Sociedad Anonima Common Stock,N,YPF,N,100.0,N,YPF
+YPF,YPF Sociedad Anonima American Depositary Shares,YPF Sociedad Anonima American Depositary Shares,N,YPF,N,100.0,N,YPF
 YRD,"Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares","Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares",N,YRD,N,100.0,N,YRD
 YSEP,FT Vest International Equity Buffer ETF ,FT Vest International Equity Buffer ETF - September,Z,YSEP,Y,100.0,N,YSEP
 YSG,"Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares","Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",N,YSG,N,100.0,N,YSG
