@@ -511,8 +511,6 @@ AWP,abrdn Global Premier Properties Fund Common Shares of Beneficial Interest,ab
 AWR,American States Water Company Common Stock,American States Water Company Common Stock,N,AWR,N,100.0,N,AWR
 AWX,Avalon Holdings Corporation Common Stock,Avalon Holdings Corporation Common Stock,A,AWX,N,100.0,N,AWX
 AX,"Axos Financial, Inc. Common Stock","Axos Financial, Inc. Common Stock",N,AX,N,100.0,N,AX
-AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share),AXIA Energia American Depositary Shares (Each representing one Common Share),N,AXIA,N,100.0,N,AXIA
-AXIA$C,"AXIA Energia American Depositary Shares, each representing one Preferred Class C Share","AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",N,AXIApC,N,100.0,N,AXIA-C
 AXIL,"AXIL Brands, Inc. Common Stock","AXIL Brands, Inc. Common Stock",A,AXIL,N,100.0,N,AXIL
 AXP,American Express Company Common Stock,American Express Company Common Stock,N,AXP,N,40.0,N,AXP
 AXR,AMREP Corporation Common Stock,AMREP Corporation Common Stock,N,AXR,N,100.0,N,AXR
@@ -3724,7 +3722,6 @@ JPUS,JPMorgan Diversified Return U.S. Equity ETF,JPMorgan Diversified Return U.S
 JPXN,iShares JPX,iShares JPX-Nikkei 400 ETF,P,JPXN,Y,100.0,N,JPXN
 JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,N,JQC,N,100.0,N,JQC
 JQUA,JPMorgan U.S. Quality Factor ETF,JPMorgan U.S. Quality Factor ETF,P,JQUA,Y,100.0,N,JQUA
-JRE,Janus Henderson U.S. Real Estate ETF,Janus Henderson U.S. Real Estate ETF,P,JRE,Y,100.0,N,JRE
 JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,N,JRI,N,100.0,N,JRI
 JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,N,JRS,N,100.0,N,JRS
 JSCP,JPMorgan Short Duration Core Plus ETF,JPMorgan Short Duration Core Plus ETF,P,JSCP,Y,100.0,N,JSCP
@@ -5186,6 +5183,7 @@ PMTL,First Trust Indxx Quality Precious Metals Miners ETF,First Trust Indxx Qual
 PMTU,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,N,PMTU,N,100.0,N,PMTU
 PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,N,PMTV,N,100.0,N,PMTV
 PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,N,PMTW,N,100.0,N,PMTW
+PNAQ.U,"Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right","Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",N,PNAQ.U,N,100.0,N,PNAQ=
 PNC,"PNC Financial Services Group, Inc. (The) Common Stock","PNC Financial Services Group, Inc. (The) Common Stock",N,PNC,N,100.0,N,PNC
 PNFP,"Pinnacle Financial Partners, Inc. Common stock","Pinnacle Financial Partners, Inc. Common stock",N,PNFP,N,100.0,N,PNFP
 PNFP$A,"Pinnacle Financial Partners, Inc. Fixed","Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",N,PNFPpA,N,100.0,N,PNFP-A
@@ -6579,6 +6577,7 @@ TOUS,T. Rowe Price International Equity ETF,T. Rowe Price International Equity E
 TOV,JLens 500 Jewish Advocacy U.S. ETF,JLens 500 Jewish Advocacy U.S. ETF,P,TOV,Y,100.0,N,TOV
 TOVX,"Theriva Biologics, Inc. Common Stock","Theriva Biologics, Inc. Common Stock",A,TOVX,N,100.0,N,TOVX
 TOXR,21Shares XRP ETF,21Shares XRP ETF,Z,TOXR,Y,100.0,N,TOXR
+TP,Ticketplus Ltd. Ordinary Shares,Ticketplus Ltd. Ordinary Shares,A,TP,N,100.0,N,TP
 TPAY,Roundhill S&P 500 Target 10 Managed Distribution ETF,Roundhill S&P 500 Target 10 Managed Distribution ETF,Z,TPAY,Y,100.0,N,TPAY
 TPB,"Turning Point Brands, Inc. Common Stock","Turning Point Brands, Inc. Common Stock",N,TPB,N,100.0,N,TPB
 TPC,Tutor Perini Corporation Common Stock,Tutor Perini Corporation Common Stock,N,TPC,N,100.0,N,TPC
