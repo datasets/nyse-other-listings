@@ -363,6 +363,7 @@ ARES,Ares Management Corporation Class A Common Stock,Ares Management Corporatio
 ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,N,ARESpB,N,100.0,N,ARES-B
 ARGT,Global X MSCI Argentina ETF,Global X MSCI Argentina ETF,P,ARGT,Y,100.0,N,ARGT
 ARI,"Apollo Commercial Real Estate Finance, Inc","Apollo Commercial Real Estate Finance, Inc",N,ARI,N,100.0,N,ARI
+ARIA,ARIA Opportunities ETF,ARIA Opportunities ETF,P,ARIA,Y,100.0,N,ARIA
 ARIS,Aris Mining Corporation Common Shares,Aris Mining Corporation Common Shares,N,ARIS,N,100.0,N,ARIS
 ARKB,ARK 21Shares Bitcoin ETF ,ARK 21Shares Bitcoin ETF ,Z,ARKB,Y,100.0,N,ARKB
 ARKD,ARK DIET Q1 Buffer ETF,ARK DIET Q1 Buffer ETF,Z,ARKD,Y,100.0,N,ARKD
@@ -2314,7 +2315,6 @@ FCRS,FutureCrest Acquisition Corp. Class A Ordinary Shares,FutureCrest Acquisiti
 FCRS.U,"FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one","FutureCrest Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",N,FCRS.U,N,100.0,N,FCRS=
 FCRS.W,"FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","FutureCrest Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,FCRS.WS,N,100.0,N,FCRS+
 FCSH,Federated Hermes Short Duration Corporate ETF,Federated Hermes Short Duration Corporate ETF,P,FCSH,Y,100.0,N,FCSH
-FCT,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,N,FCT,N,100.0,N,FCT
 FCTR,First Trust Lunt U.S. Factor Rotation ETF,First Trust Lunt U.S. Factor Rotation ETF,Z,FCTR,Y,100.0,N,FCTR
 FCUS,Pinnacle Focused Opportunities ETF,Pinnacle Focused Opportunities ETF,P,FCUS,Y,100.0,N,FCUS
 FCX,Freeport,"Freeport-McMoRan, Inc. Common Stock",N,FCX,N,100.0,N,FCX
@@ -2384,6 +2384,7 @@ FFLC,Fidelity Fundamental Large Cap Core ETF,Fidelity Fundamental Large Cap Core
 FFLG,Fidelity Fundamental Large Cap Growth ETF,Fidelity Fundamental Large Cap Growth ETF,Z,FFLG,Y,100.0,N,FFLG
 FFLS,The Future Fund Long/Short ETF,The Future Fund Long/Short ETF,P,FFLS,Y,100.0,N,FFLS
 FFLV,Fidelity Fundamental Large Cap Value ETF,Fidelity Fundamental Large Cap Value ETF,Z,FFLV,Y,100.0,N,FFLV
+FFLX,First Trust Flexible Income ETF,First Trust Flexible Income ETF,P,FFLX,Y,100.0,N,FFLX
 FFND,One Global ETF,One Global ETF,P,FFND,Y,100.0,N,FFND
 FFOG,Franklin Focused Growth ETF,Franklin Focused Growth ETF,Z,FFOG,Y,100.0,N,FFOG
 FFOX,FundX Future Fund Opportunities ETF,FundX Future Fund Opportunities ETF,P,FFOX,Y,100.0,N,FFOX
@@ -2707,6 +2708,7 @@ GCDT,Green Circle Decarbonize Technology Limited Ordinary Shares,Green Circle De
 GCO,Genesco Inc. Common Stock,Genesco Inc. Common Stock,N,GCO,N,100.0,N,GCO
 GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,Goldman Sachs Access U.S. Aggregate Bond ETF,P,GCOR,Y,100.0,N,GCOR
 GCOW,Pacer Global Cash Cows Dividend ETF,Pacer Global Cash Cows Dividend ETF,Z,GCOW,Y,100.0,N,GCOW
+GCPB,Goldman Sachs Core Plus Bond ETF,Goldman Sachs Core Plus Bond ETF,N,GCPB,Y,100.0,N,GCPB
 GCSH,Guggenheim Ultra Short Income ETF,Guggenheim Ultra Short Income ETF,P,GCSH,Y,100.0,N,GCSH
 GCTS,"GCT Semiconductor Holding, Inc. Common Stock","GCT Semiconductor Holding, Inc. Common Stock",N,GCTS,N,100.0,N,GCTS
 GCTS.W,"GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50","GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",N,GCTS.WS,N,100.0,N,GCTS+
@@ -2787,6 +2789,7 @@ GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,Goldman Sachs Acce
 GIGL,Goldman Sachs Corporate Bond ETF,Goldman Sachs Corporate Bond ETF,P,GIGL,Y,100.0,N,GIGL
 GII,State Street SPDR S&P Global Infrastructure ETF,State Street SPDR S&P Global Infrastructure ETF,P,GII,Y,100.0,N,GII
 GIL,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock","Gildan Activewear, Inc. Class A Sub. Vot. Common Stock",N,GIL,N,100.0,N,GIL
+GINC,Goldman Sachs Income ETF,Goldman Sachs Income ETF,P,GINC,Y,100.0,N,GINC
 GINN,Goldman Sachs Innovate Equity ETF,Goldman Sachs Innovate Equity ETF,P,GINN,Y,100.0,N,GINN
 GIS,"General Mills, Inc. Common Stock","General Mills, Inc. Common Stock",N,GIS,N,100.0,N,GIS
 GISC,Guggenheim Securitized Income ETF,Guggenheim Securitized Income ETF,P,GISC,Y,100.0,N,GISC
@@ -3689,7 +3692,6 @@ JOB,GEE Group Inc. Common Stock,GEE Group Inc. Common Stock,A,JOB,N,100.0,N,JOB
 JOBC,Corgi JOBY 2x Daily ETF,Corgi JOBY 2x Daily ETF,Z,JOBC,Y,100.0,N,JOBC
 JOBX,Tradr 2X Long JOBY Daily ETF,Tradr 2X Long JOBY Daily ETF,Z,JOBX,Y,100.0,N,JOBX
 JOBY,"Joby Aviation, Inc. Common Stock","Joby Aviation, Inc. Common Stock",N,JOBY,N,100.0,N,JOBY
-JOBY.W,"Joby Aviation, Inc. Warrants","Joby Aviation, Inc. Warrants",N,JOBY.WS,N,100.0,N,JOBY+
 JOE,St. Joe Company (The) Common Stock,St. Joe Company (The) Common Stock,N,JOE,N,100.0,N,JOE
 JOET,Virtus Terranova U.S. Quality Momentum ETF,Virtus Terranova U.S. Quality Momentum ETF,P,JOET,Y,100.0,N,JOET
 JOF,Japan Smaller Capitalization Fund Inc Common Stock,Japan Smaller Capitalization Fund Inc Common Stock,N,JOF,N,100.0,N,JOF
@@ -5100,6 +5102,7 @@ PHI,PLDT Inc. Sponsored ADR,PLDT Inc. Sponsored ADR,N,PHI,N,100.0,N,PHI
 PHIN,PHINIA Inc. Common Stock,PHINIA Inc. Common Stock,N,PHIN,N,100.0,N,PHIN
 PHK,Pimco High Income Fund,Pimco High Income Fund,N,PHK,N,100.0,N,PHK
 PHM,"PulteGroup, Inc. Common Stock","PulteGroup, Inc. Common Stock",N,PHM,N,100.0,N,PHM
+PHOX,Aura AI Photonics ETF,Aura AI Photonics ETF,P,PHOX,Y,100.0,N,PHOX
 PHR,"Phreesia, Inc. Common Stock","Phreesia, Inc. Common Stock",N,PHR,N,100.0,N,PHR
 PHXE$,"Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares","Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",A,PHXEp,N,100.0,N,PHXE-
 PHYL,PGIM Active High Yield Bond ETF,PGIM Active High Yield Bond ETF,P,PHYL,Y,100.0,N,PHYL
