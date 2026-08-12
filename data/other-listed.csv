@@ -802,7 +802,6 @@ BKLN,Invesco Senior Loan ETF,Invesco Senior Loan ETF,P,BKLN,Y,100.0,N,BKLN
 BKMC,BNY Mellon US Mid Cap Core Equity ETF,BNY Mellon US Mid Cap Core Equity ETF,P,BKMC,Y,100.0,N,BKMC
 BKSE,BNY Mellon US Small Cap Core Equity ETF,BNY Mellon US Small Cap Core Equity ETF,P,BKSE,Y,100.0,N,BKSE
 BKSY,BlackSky Technology Inc. Class A Common Stock,BlackSky Technology Inc. Class A Common Stock,N,BKSY,N,100.0,N,BKSY
-BKSY.W,"BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock","BlackSky Technology Inc. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock",N,BKSY.WS,N,100.0,N,BKSY+
 BKT,BlackRock Income Trust Inc. (The),BlackRock Income Trust Inc. (The),N,BKT,N,100.0,N,BKT
 BKTI,BK Technologies Corporation Common Stock,BK Technologies Corporation Common Stock,A,BKTI,N,100.0,N,BKTI
 BKU,"BankUnited, Inc. Common Stock","BankUnited, Inc. Common Stock",N,BKU,N,100.0,N,BKU
@@ -1304,7 +1303,6 @@ CNF,"CNFinance Holdings Limited American Depositary Shares, each representing tw
 CNH,CNH Industrial N.V. Common Shares,CNH Industrial N.V. Common Shares,N,CNH,N,100.0,N,CNH
 CNI,Canadian National Railway Company Common Stock,Canadian National Railway Company Common Stock,N,CNI,N,100.0,N,CNI
 CNK,"Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock","Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock",N,CNK,N,100.0,N,CNK
-CNL,Collective Mining Ltd. Common Shares,Collective Mining Ltd. Common Shares,A,CNL,N,100.0,N,CNL
 CNM,"Core & Main, Inc. Class A Common Stock","Core & Main, Inc. Class A Common Stock",N,CNM,N,100.0,N,CNM
 CNMD,CONMED Corporation Common Stock,CONMED Corporation Common Stock,N,CNMD,N,100.0,N,CNMD
 CNNE,"Cannae Holdings, Inc. Common Stock","Cannae Holdings, Inc. Common Stock",N,CNNE,N,100.0,N,CNNE
@@ -3188,8 +3186,10 @@ HYDW,Xtrackers Low Beta High Yield Bond ETF,Xtrackers Low Beta High Yield Bond E
 HYEM,VanEck Emerging Markets High Yield Bond ETF,VanEck Emerging Markets High Yield Bond ETF,P,HYEM,Y,100.0,N,HYEM
 HYFI,AB High Yield ETF,AB High Yield ETF,P,HYFI,Y,100.0,N,HYFI
 HYG,iShares iBoxx $ High Yield Corporate Bond ETF,iShares iBoxx $ High Yield Corporate Bond ETF,P,HYG,Y,100.0,N,HYG
+HYGD,MicroSectors ,MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs,Z,HYGD,Y,100.0,N,HYGD
 HYGH,iShares Interest Rate Hedged High Yield Bond ETF,iShares Interest Rate Hedged High Yield Bond ETF,P,HYGH,Y,100.0,N,HYGH
 HYGM,Amplify HYG High Yield 10% Target Income ETF,Amplify HYG High Yield 10% Target Income ETF,Z,HYGM,Y,100.0,N,HYGM
+HYGU,MicroSectors 3x Long High Yield Corporate Bond (HYG) ETNs,MicroSectors 3x Long High Yield Corporate Bond (HYG) ETNs,Z,HYGU,Y,100.0,N,HYGU
 HYGV,FlexShares High Yield Value,FlexShares High Yield Value-Scored Bond Index Fund,P,HYGV,Y,100.0,N,HYGV
 HYGW,iShares High Yield Corporate Bond BuyWrite Strategy ETF,iShares High Yield Corporate Bond BuyWrite Strategy ETF,Z,HYGW,Y,100.0,N,HYGW
 HYHG,ProShares High Yield Interest Rate Hedged,ProShares High Yield Interest Rate Hedged,Z,HYHG,Y,100.0,N,HYHG
@@ -3998,6 +3998,7 @@ LION,Lionsgate Studios Corp Common Shares,Lionsgate Studios Corp Common Shares,N
 LIT,Global X Lithium & Battery Tech ETF,Global X Lithium & Battery Tech ETF,P,LIT,Y,100.0,N,LIT
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares","LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",N,LITB,N,100.0,N,LITB
 LITC,Corgi LITE 2x Daily ETF,Corgi LITE 2x Daily ETF,Z,LITC,Y,100.0,N,LITC
+LITG,Leverage Shares 2X Long LITE Daily ETF,Leverage Shares 2X Long LITE Daily ETF,Z,LITG,Y,100.0,N,LITG
 LITL,Simplify Piper Sandler US Small,Simplify Piper Sandler US Small-Cap PLUS Income ETF,P,LITL,Y,100.0,N,LITL
 LITU,T,T-REX 2X Long LITE Daily Target ETF,Z,LITU,Y,100.0,N,LITU
 LITX,Tradr 2X Long LITE Daily ETF,Tradr 2X Long LITE Daily ETF,Z,LITX,Y,100.0,N,LITX
@@ -4043,9 +4044,11 @@ LPX,Louisiana,Louisiana-Pacific Corporation Common Stock,N,LPX,N,100.0,N,LPX
 LQAI,LG QRAFT AI,LG QRAFT AI-Powered U.S. Large Cap Core ETF,P,LQAI,Y,100.0,N,LQAI
 LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,iShares iBoxx $ Investment Grade Corporate Bond ETF,P,LQD,Y,100.0,N,LQD
 LQDB,iShares BBB Rated Corporate Bond ETF,iShares BBB Rated Corporate Bond ETF,P,LQDB,Y,100.0,N,LQDB
+LQDD,MicroSectors ,MicroSectors -3x Short Investment Grade Corporate Bond (LQD) ETNs,Z,LQDD,Y,100.0,N,LQDD
 LQDH,iShares Interest Rate Hedged Corporate Bond ETF,iShares Interest Rate Hedged Corporate Bond ETF,P,LQDH,Y,100.0,N,LQDH
 LQDI,iShares Inflation Hedged Corporate Bond ETF,iShares Inflation Hedged Corporate Bond ETF,Z,LQDI,Y,100.0,N,LQDI
 LQDM,Amplify LQD Investment Grade 12% Target Income ETF,Amplify LQD Investment Grade 12% Target Income ETF,Z,LQDM,Y,100.0,N,LQDM
+LQDU,MicroSectors 3x Long Investment Grade Corporate Bond (LQD) ETNs,MicroSectors 3x Long Investment Grade Corporate Bond (LQD) ETNs,Z,LQDU,Y,100.0,N,LQDU
 LQDW,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,Z,LQDW,Y,100.0,N,LQDW
 LQID,Kurv Enhanced Short Maturity ETF,Kurv Enhanced Short Maturity ETF,Z,LQID,Y,100.0,N,LQID
 LQTI,FT Vest Investment Grade & Target Income ETF,FT Vest Investment Grade & Target Income ETF,P,LQTI,Y,100.0,N,LQTI
@@ -4358,6 +4361,7 @@ MPV,Barings Participation Investors Common Stock,Barings Participation Investors
 MPWC,Corgi MPWR 2x Daily ETF,Corgi MPWR 2x Daily ETF,Z,MPWC,Y,100.0,N,MPWC
 MPWX,Tradr 2X Long MPWR Daily ETF,Tradr 2X Long MPWR Daily ETF,Z,MPWX,Y,100.0,N,MPWX
 MQY,"Blackrock MuniYield Quality Fund, Inc. Common Stock","Blackrock MuniYield Quality Fund, Inc. Common Stock",N,MQY,N,100.0,N,MQY
+MRAX,Tradr 2X Long MRAM Daily ETF,Tradr 2X Long MRAM Daily ETF,Z,MRAX,Y,100.0,N,MRAX
 MRCP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - March,Z,MRCP,Y,100.0,N,MRCP
 MRGR,ProShares Merger ETF,ProShares Merger ETF,Z,MRGR,Y,100.0,N,MRGR
 MRK,"Merck & Company, Inc. Common Stock (new)","Merck & Company, Inc. Common Stock (new)",N,MRK,N,100.0,N,MRK
@@ -4483,6 +4487,7 @@ MXC,Mexco Energy Corporation Common Stock,Mexco Energy Corporation Common Stock,
 MXE,"Mexico Equity and Income Fund, Inc. (The) Common Stock","Mexico Equity and Income Fund, Inc. (The) Common Stock",N,MXE,N,100.0,N,MXE
 MXF,"Mexico Fund, Inc. (The) Common Stock","Mexico Fund, Inc. (The) Common Stock",N,MXF,N,100.0,N,MXF
 MXI,iShares Global Materials ETF,iShares Global Materials ETF,P,MXI,Y,100.0,N,MXI
+MXLL,Leverage Shares 2X Long MXL Daily ETF,Leverage Shares 2X Long MXL Daily ETF,Z,MXLL,Y,100.0,N,MXLL
 MYE,"Myers Industries, Inc. Common Stock","Myers Industries, Inc. Common Stock",N,MYE,N,100.0,N,MYE
 MYI,"Blackrock MuniYield Quality Fund III, Inc Common Stock","Blackrock MuniYield Quality Fund III, Inc Common Stock",N,MYI,N,100.0,N,MYI
 MYLD,Cambria Micro and SmallCap Shareholder Yield ETF,Cambria Micro and SmallCap Shareholder Yield ETF,Z,MYLD,Y,100.0,N,MYLD
@@ -5974,6 +5979,7 @@ SIO,Touchstone Strategic Income ETF,Touchstone Strategic Income ETF,P,SIO,Y,100.
 SIOO,VistaShares Target 15 S&P 100 Distribution ETF,VistaShares Target 15 S&P 100 Distribution ETF,P,SIOO,Y,100.0,N,SIOO
 SITC,SITE Centers Corp. Common Stock,SITE Centers Corp. Common Stock,N,SITC,N,100.0,N,SITC
 SITE,"SiteOne Landscape Supply, Inc. Common Stock","SiteOne Landscape Supply, Inc. Common Stock",N,SITE,N,100.0,N,SITE
+SITX,Tradr 2X Long SITM Daily ETF,Tradr 2X Long SITM Daily ETF,Z,SITX,Y,100.0,N,SITX
 SIVR,abrdn Physical Silver Shares ETF,abrdn Physical Silver Shares ETF,P,SIVR,Y,100.0,N,SIVR
 SIXA,ETC 6 Meridian Mega Cap Equity ETF,ETC 6 Meridian Mega Cap Equity ETF,P,SIXA,Y,100.0,N,SIXA
 SIXD,AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF,AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF,Z,SIXD,Y,100.0,N,SIXD
@@ -6272,6 +6278,7 @@ STHH,STMicroelectronics NV ADRhedged,STMicroelectronics NV ADRhedged,P,STHH,Y,10
 STIP,iShares 0,iShares 0-5 Year TIPS Bond ETF,P,STIP,Y,100.0,N,STIP
 STK,Columbia Seligman Premium Technology Growth Fund Inc,Columbia Seligman Premium Technology Growth Fund Inc,N,STK,N,100.0,N,STK
 STLA,Stellantis N.V. Common Shares,Stellantis N.V. Common Shares,N,STLA,N,100.0,N,STLA
+STLL,Leverage Shares 2X Long STRL Daily ETF,Leverage Shares 2X Long STRL Daily ETF,Z,STLL,Y,100.0,N,STLL
 STLR,Stellar ETF,Stellar ETF,Z,STLR,Y,100.0,N,STLR
 STLU,2x Stellar ETF,2x Stellar ETF,Z,STLU,Y,100.0,N,STLU
 STM,STMicroelectronics N.V. Common Stock,STMicroelectronics N.V. Common Stock,N,STM,N,100.0,N,STM
@@ -6782,6 +6789,7 @@ UMAL,Defiance Daily Target 2X Long UMAC ETF,Defiance Daily Target 2X Long UMAC E
 UMAR,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - March,Z,UMAR,Y,100.0,N,UMAR
 UMAY,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - May,Z,UMAY,Y,100.0,N,UMAY
 UMC,United Microelectronics Corporation (NEW) Common Stock,United Microelectronics Corporation (NEW) Common Stock,N,UMC,N,100.0,N,UMC
+UMCU,Tradr 2X Long UMC Daily ETF,Tradr 2X Long UMC Daily ETF,Z,UMCU,Y,100.0,N,UMCU
 UMCX,Corgi UMC 2x Daily ETF,Corgi UMC 2x Daily ETF,Z,UMCX,Y,100.0,N,UMCX
 UMDD,UltraPro MidCap400,UltraPro MidCap400,P,UMDD,Y,100.0,N,UMDD
 UMH,"UMH Properties, Inc. Common Stock","UMH Properties, Inc. Common Stock",N,UMH,N,100.0,N,UMH
