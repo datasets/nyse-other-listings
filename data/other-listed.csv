@@ -1457,6 +1457,7 @@ CSNR,Cohen & Steers Natural Resources Active ETF,Cohen & Steers Natural Resource
 CSPF,Cohen & Steers Preferred and Income Opportunities Active ETF,Cohen & Steers Preferred and Income Opportunities Active ETF,P,CSPF,Y,100.0,N,CSPF
 CSQR,"Csquare, Inc. Common Stock","Csquare, Inc. Common Stock",N,CSQR,N,100.0,N,CSQR
 CSR,D/B/A Centerspace Common Stock,D/B/A Centerspace Common Stock,N,CSR,N,100.0,N,CSR
+CSRA,Cohen & Steers Real Assets Active ETF,Cohen & Steers Real Assets Active ETF,P,CSRA,Y,100.0,N,CSRA
 CSRE,Cohen & Steers Real Estate Active ETF,Cohen & Steers Real Estate Active ETF,P,CSRE,Y,100.0,N,CSRE
 CSSD,Cohen & Steers Short Duration Preferred and Income Active ETF,Cohen & Steers Short Duration Preferred and Income Active ETF,P,CSSD,Y,100.0,N,CSSD
 CSTK,Invesco Comstock Contrarian Equity ETF,Invesco Comstock Contrarian Equity ETF,Z,CSTK,Y,100.0,N,CSTK
@@ -2259,6 +2260,7 @@ EXK,Endeavour Silver Corporation Ordinary Shares (Canada),Endeavour Silver Corpo
 EXOD,"Exodus Movement, Inc. Class A Common Stock","Exodus Movement, Inc. Class A Common Stock",A,EXOD,N,100.0,N,EXOD
 EXP,Eagle Materials Inc Common Stock,Eagle Materials Inc Common Stock,N,EXP,N,100.0,N,EXP
 EXPD,"Expeditors International of Washington, Inc. Common Stock","Expeditors International of Washington, Inc. Common Stock",N,EXPD,N,100.0,N,EXPD
+EXPN,Horizon Expansion Leaders ETF,Horizon Expansion Leaders ETF,Z,EXPN,Y,100.0,N,EXPN
 EXR,Extra Space Storage Inc Common Stock,Extra Space Storage Inc Common Stock,N,EXR,N,100.0,N,EXR
 EYES,Corgi Data & Surveillance ETF,Corgi Data & Surveillance ETF,Z,EYES,Y,100.0,N,EYES
 EYLD,Cambria Emerging Shareholder Yield ETF,Cambria Emerging Shareholder Yield ETF,Z,EYLD,Y,100.0,N,EYLD
@@ -2544,6 +2546,7 @@ FNV,Franco,Franco-Nevada Corporation,N,FNV,N,100.0,N,FNV
 FOA,Finance of America Companies Inc. Class A Common Stock,Finance of America Companies Inc. Class A Common Stock,N,FOA,N,100.0,N,FOA
 FOCT,FT Vest U.S. Equity Buffer ETF ,FT Vest U.S. Equity Buffer ETF - October,Z,FOCT,Y,100.0,N,FOCT
 FOF,Cohen & Steers Closed,"Cohen & Steers Closed-End Opportunity Fund, Inc. Common Stock",N,FOF,N,100.0,N,FOF
+FOIL,"Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares","Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares",N,FOIL,N,100.0,N,FOIL
 FOMG,Leverage Shares 2X Long FORM Daily ETF,Leverage Shares 2X Long FORM Daily ETF,Z,FOMG,Y,100.0,N,FOMG
 FOPC,Frontier Asset Opportunistic Credit ETF,Frontier Asset Opportunistic Credit ETF,P,FOPC,Y,100.0,N,FOPC
 FOR,Forestar Group Inc Common Stock ,Forestar Group Inc Common Stock ,N,FOR,N,100.0,N,FOR
@@ -2676,6 +2679,7 @@ GAB$H,"Gabelli Equity Trust, Inc. (The) Pfd Ser H","Gabelli Equity Trust, Inc. (
 GAB$K,"Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock","Gabelli Equity Trust, Inc. (The) 5.00% Series K Cumulative Preferred Stock",N,GABpK,N,100.0,N,GAB-K
 GABF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,Gabelli ETFs Trust Gabelli Financial Services Opportunities ETF,P,GABF,Y,100.0,N,GABF
 GAEM,Simplify Gamma Emerging Market Bond ETF,Simplify Gamma Emerging Market Bond ETF,P,GAEM,Y,100.0,N,GAEM
+GAIQ,Guinness Atkinson Global Innovators Fund: ETF Class Shares,Guinness Atkinson Global Innovators Fund: ETF Class Shares,P,GAIQ,Y,100.0,N,GAIQ
 GAL,State Street Global Allocation ETF,State Street Global Allocation ETF,P,GAL,Y,100.0,N,GAL
 GALX,VistaShares Space Supercycle ETF,VistaShares Space Supercycle ETF,P,GALX,Y,100.0,N,GALX
 GAM,"General American Investors, Inc. Common Stock","General American Investors, Inc. Common Stock",N,GAM,N,100.0,N,GAM
@@ -4183,8 +4187,6 @@ MDPL,Monarch Dividend Plus Index ETF,Monarch Dividend Plus Index ETF,Z,MDPL,Y,10
 MDST,Westwood Salient Enhanced Midstream Income ETF,Westwood Salient Enhanced Midstream Income ETF,N,MDST,Y,100.0,N,MDST
 MDT,Medtronic plc. Ordinary Shares,Medtronic plc. Ordinary Shares,N,MDT,N,100.0,N,MDT
 MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)","MDU Resources Group, Inc. Common Stock (Holding Company)",N,MDU,N,100.0,N,MDU
-MDV,"Modiv Industrial, Inc. Class C Common Stock","Modiv Industrial, Inc. Class C Common Stock",N,MDV,N,100.0,N,MDV
-MDV$A,"Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock","Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",N,MDVpA,N,100.0,N,MDV-A
 MDY,State Street SPDR S&P MIDCAP 400 ETF Trust,State Street SPDR S&P MIDCAP 400 ETF Trust,P,MDY,Y,40.0,N,MDY
 MDYG,State Street SPDR S&P 400 Mid Cap Growth ETF,State Street SPDR S&P 400 Mid Cap Growth ETF,P,MDYG,Y,100.0,N,MDYG
 MDYV,State Street SPDR S&P 400 Mid Cap Value ETF,State Street SPDR S&P 400 Mid Cap Value ETF,P,MDYV,Y,100.0,N,MDYV
@@ -4350,6 +4352,9 @@ MOV,Movado Group Inc. Common Stock,Movado Group Inc. Common Stock,N,MOV,N,100.0,
 MP,MP Materials Corp. Common Stock,MP Materials Corp. Common Stock,N,MP,N,100.0,N,MP
 MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,N,MPA,N,100.0,N,MPA
 MPC,Marathon Petroleum Corporation Common Stock,Marathon Petroleum Corporation Common Stock,N,MPC,N,100.0,N,MPC
+MPDB,m+ DynaBuffer ETF,m+ DynaBuffer ETF,Z,MPDB,Y,100.0,N,MPDB
+MPDY,m+ DualYield Autocall ETF,m+ DualYield Autocall ETF,P,MPDY,Y,100.0,N,MPDY
+MPIM,m+ Income Momentum Autocall ETF,m+ Income Momentum Autocall ETF,P,MPIM,Y,100.0,N,MPIM
 MPL,Defiance Daily Target 2X Long MP ETF,Defiance Daily Target 2X Long MP ETF,P,MPL,Y,100.0,N,MPL
 MPLX,MPLX LP Common Units Representing Limited Partner Interests,MPLX LP Common Units Representing Limited Partner Interests,N,MPLX,N,100.0,N,MPLX
 MPLY,Monopoly ETF,Monopoly ETF,Z,MPLY,Y,100.0,N,MPLY
@@ -6099,6 +6104,7 @@ SNOY,YieldMax SNOW Option Income Strategy ETF,YieldMax SNOW Option Income Strate
 SNPD,Xtrackers S&P Dividend Aristocrats Screened ETF,Xtrackers S&P Dividend Aristocrats Screened ETF,Z,SNPD,Y,100.0,N,SNPD
 SNPE,Xtrackers S&P 500 Scored & Screened ETF,Xtrackers S&P 500 Scored & Screened ETF,P,SNPE,Y,100.0,N,SNPE
 SNPG,Xtrackers S&P 500 Growth Scored & Screened ETF,Xtrackers S&P 500 Growth Scored & Screened ETF,Z,SNPG,Y,100.0,N,SNPG
+SNSC,SunScout Holding Limited Class A Ordinary Shares,SunScout Holding Limited Class A Ordinary Shares,A,SNSC,N,100.0,N,SNSC
 SNTH,MRP SynthEquity ETF,MRP SynthEquity ETF,P,SNTH,Y,100.0,N,SNTH
 SNTQ,MRP SynthEquity Nasdaq 100 ETF,MRP SynthEquity Nasdaq 100 ETF,Z,SNTQ,Y,100.0,N,SNTQ
 SNX,TD SYNNEX Corporation Common Stock,TD SYNNEX Corporation Common Stock,N,SNX,N,100.0,N,SNX
@@ -7451,6 +7457,7 @@ YINN,Direxion Daily FTSE China Bull 3X ETF,Direxion Daily FTSE China Bull 3X ETF
 YJUN,FT Vest International Equity Moderate Buffer ETF ,FT Vest International Equity Moderate Buffer ETF - June,Z,YJUN,Y,100.0,N,YJUN
 YLD,Principal Active High Yield ETF,Principal Active High Yield ETF,P,YLD,Y,100.0,N,YLD
 YLDW,Westwood Enhanced Income Opportunity ETF,Westwood Enhanced Income Opportunity ETF,P,YLDW,Y,100.0,N,YLDW
+YLDY,Horizon High Income ETF,Horizon High Income ETF,Z,YLDY,Y,100.0,N,YLDY
 YMAG,YieldMax Magnificent 7 Fund of Option Income ETFs,YieldMax Magnificent 7 Fund of Option Income ETFs,P,YMAG,Y,100.0,N,YMAG
 YMAR,FT Vest International Equity Moderate Buffer ETF ,FT Vest International Equity Moderate Buffer ETF - March,Z,YMAR,Y,100.0,N,YMAR
 YMAX,YieldMax Universe Fund of Option Income ETFs,YieldMax Universe Fund of Option Income ETFs,P,YMAX,Y,100.0,N,YMAX
