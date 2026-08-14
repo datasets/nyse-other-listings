@@ -155,7 +155,6 @@ AGO,Assured Guaranty Ltd. Common Stock,Assured Guaranty Ltd. Common Stock,N,AGO,
 AGOX,Adaptive Alpha Opportunities ETF,Adaptive Alpha Opportunities ETF,P,AGOX,Y,100.0,N,AGOX
 AGQ,ProShares Ultra Silver,ProShares Ultra Silver,P,AGQ,Y,100.0,N,AGQ
 AGQI,First Trust Active Global Quality Income ETF,First Trust Active Global Quality Income ETF,P,AGQI,Y,100.0,N,AGQI
-AGRH,iShares Interest Rate Hedged U.S. Aggregate Bond ETF,iShares Interest Rate Hedged U.S. Aggregate Bond ETF,P,AGRH,Y,100.0,N,AGRH
 AGRO,Adecoagro S.A. Common Shares,Adecoagro S.A. Common Shares,N,AGRO,N,100.0,N,AGRO
 AGRW,Allspring LT Large Growth ETF,Allspring LT Large Growth ETF,P,AGRW,Y,100.0,N,AGRW
 AGX,"Argan, Inc. Common Stock","Argan, Inc. Common Stock",N,AGX,N,40.0,N,AGX
@@ -298,6 +297,7 @@ ANF,Abercrombie & Fitch Company Common Stock,Abercrombie & Fitch Company Common 
 ANG$D,"American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed","American National Group Inc. Depositary Shares, each representing a 1/1000th interest in a share of 7.375% Fixed-Rate Non-Cumulative Preferred Stock, Series D",N,ANGpD,N,100.0,N,ANG-D
 ANGX,"Angel Studios, Inc. Class A Common Stock","Angel Studios, Inc. Class A Common Stock",N,ANGX,N,100.0,N,ANGX
 ANRO,"Alto Neuroscience, Inc. Common Stock","Alto Neuroscience, Inc. Common Stock",N,ANRO,N,100.0,N,ANRO
+ANTW,Anthropic AI Lab Ecosystem ETF,Anthropic AI Lab Ecosystem ETF,P,ANTW,Y,100.0,N,ANTW
 ANVS,"Annovis Bio, Inc. Common Stock","Annovis Bio, Inc. Common Stock",N,ANVS,N,100.0,N,ANVS
 AOA,iShares Core 80/20 Aggressive Allocation ETF,iShares Core 80/20 Aggressive Allocation ETF,P,AOA,Y,100.0,N,AOA
 AOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to October 2026,Z,AOCT,Y,100.0,N,AOCT
@@ -1005,7 +1005,6 @@ BWIV.U,"Blue Water Acquisition Corp. IV Units, each consisting of one Class A or
 BWIV.W,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,N,BWIV.WS,N,100.0,N,BWIV+
 BWLP,BW LPG Limited Common Shares,BW LPG Limited Common Shares,N,BWLP,N,100.0,N,BWLP
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares","Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",N,BWMX,N,100.0,N,BWMX
-BWNB,"Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026","Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",N,BWNB,N,100.0,N,BWNB
 BWOW,Bitwise Dogecoin ETF,Bitwise Dogecoin ETF,P,BWOW,Y,100.0,N,BWOW
 BWQG,BWM Quality Growth ETF,BWM Quality Growth ETF,Z,BWQG,Y,100.0,N,BWQG
 BWTG,Brendan Wood TopGun Index ETF,Brendan Wood TopGun Index ETF,Z,BWTG,Y,100.0,N,BWTG
@@ -1540,6 +1539,7 @@ CZA,Invesco Zacks Mid,Invesco Zacks Mid-Cap ETF,P,CZA,Y,100.0,N,CZA
 D,"Dominion Energy, Inc. Common Stock","Dominion Energy, Inc. Common Stock",N,D,N,100.0,N,D
 DABS,DoubleLine Asset,DoubleLine Asset-Backed Securities ETF,P,DABS,Y,100.0,N,DABS
 DAC,Danaos Corporation Common Stock,Danaos Corporation Common Stock,N,DAC,N,100.0,N,DAC
+DACL,REX Defensive Autocallable Income ETF,REX Defensive Autocallable Income ETF,P,DACL,Y,100.0,N,DACL
 DAL,"Delta Air Lines, Inc. Common Stock","Delta Air Lines, Inc. Common Stock",N,DAL,N,100.0,N,DAL
 DAMD,Defiance Daily Target 2X Short AMD ETF,Defiance Daily Target 2X Short AMD ETF,P,DAMD,Y,100.0,N,DAMD
 DAN,Dana Incorporated Common Stock ,Dana Incorporated Common Stock ,N,DAN,N,100.0,N,DAN
@@ -1643,6 +1643,7 @@ DEI,"Douglas Emmett, Inc. Common Stock","Douglas Emmett, Inc. Common Stock",N,DE
 DELL,Dell Technologies Inc. Class C Common Stock ,Dell Technologies Inc. Class C Common Stock ,N,DELL,N,100.0,N,DELL
 DEM,WisdomTree Emerging Markets High Dividend Fund,WisdomTree Emerging Markets High Dividend Fund,P,DEM,Y,100.0,N,DEM
 DEO,Diageo plc Common Stock,Diageo plc Common Stock,N,DEO,N,100.0,N,DEO
+DEPW,Google DeepMind AI Lab Ecosystem ETF,Google DeepMind AI Lab Ecosystem ETF,P,DEPW,Y,100.0,N,DEPW
 DES,WisdomTree U.S. SmallCap Dividend Fund,WisdomTree U.S. SmallCap Dividend Fund,P,DES,Y,100.0,N,DES
 DESK,VanEck Office and Commercial REIT ETF,VanEck Office and Commercial REIT ETF,P,DESK,Y,100.0,N,DESK
 DEUS,Xtrackers Russell US Multifactor ETF,Xtrackers Russell US Multifactor ETF,P,DEUS,Y,100.0,N,DEUS
@@ -1900,10 +1901,6 @@ EAGG,iShares ESG Aware U.S. Aggregate Bond ETF,iShares ESG Aware U.S. Aggregate 
 EAGL,Eagle Capital Select Equity ETF,Eagle Capital Select Equity ETF,P,EAGL,Y,100.0,N,EAGL
 EAI,"Entergy Arkansas, LLC First Mortgage Bonds, 4.875% Series Due September 1, 2066","Entergy Arkansas, LLC First Mortgage Bonds, 4.875% Series Due September 1, 2066",N,EAI,N,100.0,N,EAI
 EALT,Innovator U.S. Equity 5 to 15 Buffer ETF ,Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly,Z,EALT,Y,100.0,N,EALT
-EAOA,iShares ESG Aware 80/20 Aggressive Allocation ETF,iShares ESG Aware 80/20 Aggressive Allocation ETF,Z,EAOA,Y,100.0,N,EAOA
-EAOK,iShares ESG Aware 30/70 Conservative Allocation ETF,iShares ESG Aware 30/70 Conservative Allocation ETF,Z,EAOK,Y,100.0,N,EAOK
-EAOM,iShares ESG Aware 40/60 Moderate Allocation ETF,iShares ESG Aware 40/60 Moderate Allocation ETF,Z,EAOM,Y,100.0,N,EAOM
-EAOR,iShares ESG Aware 60/40 Balanced Allocation ETF,iShares ESG Aware 60/40 Balanced Allocation ETF,Z,EAOR,Y,100.0,N,EAOR
 EAPR,Innovator Emerging Markets Power Buffer ETF April,Innovator Emerging Markets Power Buffer ETF April,P,EAPR,Y,100.0,N,EAPR
 EARN,Ellington Credit Company Common Shares of Beneficial Interest,Ellington Credit Company Common Shares of Beneficial Interest,N,EARN,N,100.0,N,EARN
 EASG,Xtrackers MSCI EAFE Selection Equity ETF,Xtrackers MSCI EAFE Selection Equity ETF,P,EASG,Y,100.0,N,EASG
@@ -2706,7 +2703,7 @@ GBX,"Greenbrier Companies, Inc. (The) Common Stock","Greenbrier Companies, Inc. 
 GCAD,Gabelli Commercial Aerospace and Defense ETF,Gabelli Commercial Aerospace and Defense ETF,P,GCAD,Y,100.0,N,GCAD
 GCAL,Goldman Sachs Dynamic California Municipal Income ETF,Goldman Sachs Dynamic California Municipal Income ETF,P,GCAL,Y,100.0,N,GCAL
 GCC,WisdomTree EnhancedContinuous Commodity Index Fund,WisdomTree EnhancedContinuous Commodity Index Fund,P,GCC,Y,100.0,N,GCC
-GCDT,Green Circle Decarbonize Technology Limited Ordinary Shares,Green Circle Decarbonize Technology Limited Ordinary Shares,A,GCDT,N,100.0,N,GCDT
+GCDT,Green Circle Decarbonize Technology Limited Class A Ordinary Shares,Green Circle Decarbonize Technology Limited Class A Ordinary Shares,A,GCDT,N,100.0,N,GCDT
 GCO,Genesco Inc. Common Stock,Genesco Inc. Common Stock,N,GCO,N,100.0,N,GCO
 GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,Goldman Sachs Access U.S. Aggregate Bond ETF,P,GCOR,Y,100.0,N,GCOR
 GCOW,Pacer Global Cash Cows Dividend ETF,Pacer Global Cash Cows Dividend ETF,Z,GCOW,Y,100.0,N,GCOW
@@ -3026,6 +3023,7 @@ HAWK,"HawkEye 360, Inc. Common Stock","HawkEye 360, Inc. Common Stock",N,HAWK,N,
 HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,iShares Currency Hedged MSCI ACWI ex U.S. ETF,P,HAWX,Y,100.0,N,HAWX
 HAYW,"Hayward Holdings, Inc. Common Stock","Hayward Holdings, Inc. Common Stock",N,HAYW,N,100.0,N,HAYW
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock ,Hamilton Beach Brands Holding Company Class A Common Stock ,N,HBB,N,100.0,N,HBB
+HBIL,Harbor Short Term Treasury ETF,Harbor Short Term Treasury ETF,P,HBIL,Y,100.0,N,HBIL
 HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),Hudbay Minerals Inc. Ordinary Shares (Canada),N,HBM,N,100.0,N,HBM
 HBMX,Tuttle Capital Concentrated Memory Stack ETF,Tuttle Capital Concentrated Memory Stack ETF,Z,HBMX,Y,100.0,N,HBMX
 HBRD,Invesco U.S. Hybrid Bond ETF,Invesco U.S. Hybrid Bond ETF,P,HBRD,Y,100.0,N,HBRD
@@ -3533,7 +3531,6 @@ IVOO,Vanguard S&P Mid,Vanguard S&P Mid-Cap 400 ETF,P,IVOO,Y,100.0,N,IVOO
 IVOV,Vanguard S&P Mid,Vanguard S&P Mid-Cap 400 Value ETF,P,IVOV,Y,100.0,N,IVOV
 IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,INVESCO MORTGAGE CAPITAL INC Common Stock,N,IVR,N,100.0,N,IVR
 IVR$C,INVESCO MORTGAGE CAPITAL INC 7.5% Fixed,"INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share",N,IVRpC,N,100.0,N,IVR-C
-IVRS,iShares Future Metaverse Tech and Communications ETF,iShares Future Metaverse Tech and Communications ETF,P,IVRS,Y,100.0,N,IVRS
 IVT,InvenTrust Properties Corp. Common Stock,InvenTrust Properties Corp. Common Stock,N,IVT,N,100.0,N,IVT
 IVV,iShares Core S&P 500 ETF,iShares Core S&P 500 ETF,P,IVV,Y,40.0,N,IVV
 IVVB,iShares Large Cap Deep Quarterly Laddered ETF,iShares Large Cap Deep Quarterly Laddered ETF,Z,IVVB,Y,100.0,N,IVVB
@@ -4429,6 +4426,7 @@ MTA,Metalla Royalty & Streaming Ltd. Common Shares,Metalla Royalty & Streaming L
 MTAL,Metals Acquisition Corp. II Class A Ordinary Shares,Metals Acquisition Corp. II Class A Ordinary Shares,N,MTAL,N,100.0,N,MTAL
 MTAL.U,"Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one","Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,MTAL.U,N,100.0,N,MTAL=
 MTAL.W,"Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,MTAL.WS,N,100.0,N,MTAL+
+MTAW,Meta AI Lab Ecosystem ETF,Meta AI Lab Ecosystem ETF,P,MTAW,Y,100.0,N,MTAW
 MTB,M&T Bank Corporation Common Stock,M&T Bank Corporation Common Stock,N,MTB,N,100.0,N,MTB
 MTB$H,M&T Bank Corporation Perpetual Fixed,"M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series H",N,MTBpH,N,100.0,N,MTB-H
 MTB$J,M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non,"M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock, Series J",N,MTBpJ,N,100.0,N,MTB-J
@@ -4796,6 +4794,7 @@ O,Realty Income Corporation Common Stock,Realty Income Corporation Common Stock,
 OACP,OneAscent Core Plus Bond ETF,OneAscent Core Plus Bond ETF,P,OACP,Y,100.0,N,OACP
 OAEM,OneAscent Emerging Markets ETF,OneAscent Emerging Markets ETF,P,OAEM,Y,100.0,N,OAEM
 OAIM,OneAscent International Equity ETF,OneAscent International Equity ETF,P,OAIM,Y,100.0,N,OAIM
+OAIW,OpenAI Lab Ecosystem ETF,OpenAI Lab Ecosystem ETF,P,OAIW,Y,100.0,N,OAIW
 OAK$A,"Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units","Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units",N,OAKpA,N,100.0,N,OAK-A
 OAK$B,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units","Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",N,OAKpB,N,100.0,N,OAK-B
 OAKG,Oakmark Global Large Cap ETF,Oakmark Global Large Cap ETF,P,OAKG,Y,100.0,N,OAKG
@@ -5709,6 +5708,7 @@ RTX,RTX Corporation Common Stock,RTX Corporation Common Stock,N,RTX,N,100.0,N,RT
 RULE,Adaptive Core ETF,Adaptive Core ETF,Z,RULE,Y,100.0,N,RULE
 RVER,Trenchless Fund ETF,Trenchless Fund ETF,P,RVER,Y,100.0,N,RVER
 RVI,Robinhood Ventures Fund I Common Shares of Beneficial Interest,Robinhood Ventures Fund I Common Shares of Beneficial Interest,N,RVI,N,100.0,N,RVI
+RVII,Robinhood Ventures Fund II Common Shares of Beneficial Interest,Robinhood Ventures Fund II Common Shares of Beneficial Interest,N,RVII,N,100.0,N,RVII
 RVLV,"Revolve Group, Inc. Class A Common Stock","Revolve Group, Inc. Class A Common Stock",N,RVLV,N,100.0,N,RVLV
 RVNU,Xtrackers Municipal Infrastructure Revenue Bond Active ETF,Xtrackers Municipal Infrastructure Revenue Bond Active ETF,P,RVNU,Y,100.0,N,RVNU
 RVP,"Retractable Technologies, Inc. Common Stock","Retractable Technologies, Inc. Common Stock",A,RVP,N,100.0,N,RVP
@@ -7256,6 +7256,7 @@ WZRD,Opportunistic Trader ETF,Opportunistic Trader ETF,Z,WZRD,Y,100.0,N,WZRD
 XA,Corgi AI Cybersecurity ETF,Corgi AI Cybersecurity ETF,Z,XA,Y,100.0,N,XA
 XAGG,Eaton Vance Income Opportunities ETF,Eaton Vance Income Opportunities ETF,P,XAGG,Y,100.0,N,XAGG
 XAGI,Corgi AGIX 2x Daily ETF,Corgi AGIX 2x Daily ETF,Z,XAGI,Y,100.0,N,XAGI
+XAIW,SpaceXAI Lab Ecosystem ETF,SpaceXAI Lab Ecosystem ETF,P,XAIW,Y,100.0,N,XAIW
 XAPR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - April,Z,XAPR,Y,100.0,N,XAPR
 XAR,State Street SPDR S&P Aerospace & Defense ETF,State Street SPDR S&P Aerospace & Defense ETF,P,XAR,Y,40.0,N,XAR
 XAUG,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - August,Z,XAUG,Y,100.0,N,XAUG
