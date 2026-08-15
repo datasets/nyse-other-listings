@@ -1131,6 +1131,7 @@ GFF,Griffon Corporation Common Stock
 GFI,Gold Fields Limited American Depositary Shares
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value"
 GFR,Greenfire Resources Ltd. Common Shares
+GFR.V,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued"
 GGB,Gerdau S.A. Common Stock
 GGG,Graco Inc. Common Stock
 GGT,Gabelli Multi
@@ -2348,7 +2349,6 @@ SECZ,Securitize Corp. Common Stock
 SEG,Seaport Entertainment Group Inc. Common Stock
 SEI,"Solaris Energy Infrastructure, Inc. Class A Common Stock"
 SES,SES AI Corporation Class A Common Stock
-SES.W,"SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share"
 SF,Stifel Financial Corporation Common Stock
 SF$B,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non"
 SF$C,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.125% Non Cumulative Preferred Stock, Series C"

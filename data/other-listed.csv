@@ -671,6 +671,7 @@ BEDZ,AdvisorShares Hotel ETF,AdvisorShares Hotel ETF,P,BEDZ,Y,100.0,N,BEDZ
 BEGS,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Z,BEGS,Y,100.0,N,BEGS
 BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),N,BEKE,N,100.0,N,BEKE
 BEMB,iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,Z,BEMB,Y,100.0,N,BEMB
+BEMD,BNY Mellon Emerging Markets Debt ETF,BNY Mellon Emerging Markets Debt ETF,Z,BEMD,Y,100.0,N,BEMD
 BEN,"Franklin Resources, Inc. Common Stock","Franklin Resources, Inc. Common Stock",N,BEN,N,100.0,N,BEN
 BENJ,Horizon Landmark ETF,Horizon Landmark ETF,P,BENJ,Y,100.0,N,BENJ
 BEP,Brookfield Renewable Partners L.P. Limited Partnership Units,Brookfield Renewable Partners L.P. Limited Partnership Units,N,BEP,N,100.0,N,BEP
@@ -2758,6 +2759,7 @@ GFF,Griffon Corporation Common Stock,Griffon Corporation Common Stock,N,GFF,N,10
 GFI,Gold Fields Limited American Depositary Shares,Gold Fields Limited American Depositary Shares,N,GFI,N,100.0,N,GFI
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value","GFL Environmental Inc. Subordinate voting shares, no par value",N,GFL,N,100.0,N,GFL
 GFR,Greenfire Resources Ltd. Common Shares,Greenfire Resources Ltd. Common Shares,N,GFR,N,100.0,N,GFR
+GFR.V,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued","Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",N,GFRrw,N,100.0,N,GFR^#
 GFSG,Leverage Shares 2X Long GFS Daily ETF,Leverage Shares 2X Long GFS Daily ETF,Z,GFSG,Y,100.0,N,GFSG
 GGB,Gerdau S.A. Common Stock,Gerdau S.A. Common Stock,N,GGB,N,100.0,N,GGB
 GGG,Graco Inc. Common Stock,Graco Inc. Common Stock,N,GGG,N,100.0,N,GGG
@@ -3019,6 +3021,7 @@ HASI,"HA Sustainable Infrastructure Capital, Inc. Common Stock","HA Sustainable 
 HAUG,Corgi U.S. Equities 100% Structured Buffer ETF ,Corgi U.S. Equities 100% Structured Buffer ETF - August Series,Z,HAUG,Y,100.0,N,HAUG
 HAUS,Residential REIT ETF,Residential REIT ETF,Z,HAUS,Y,100.0,N,HAUS
 HAUZ,Xtrackers International Real Estate ETF,Xtrackers International Real Estate ETF,P,HAUZ,Y,100.0,N,HAUZ
+HAWG,HCM Hedged Equity ETF,HCM Hedged Equity ETF,P,HAWG,Y,100.0,N,HAWG
 HAWK,"HawkEye 360, Inc. Common Stock","HawkEye 360, Inc. Common Stock",N,HAWK,N,100.0,N,HAWK
 HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,iShares Currency Hedged MSCI ACWI ex U.S. ETF,P,HAWX,Y,100.0,N,HAWX
 HAYW,"Hayward Holdings, Inc. Common Stock","Hayward Holdings, Inc. Common Stock",N,HAYW,N,100.0,N,HAYW
@@ -5912,7 +5915,6 @@ SEPW,AllianzIM U.S. Large Cap Buffer20 Sep ETF,AllianzIM U.S. Large Cap Buffer20
 SEPZ,TrueShares Structured Outcome (September) ETF,TrueShares Structured Outcome (September) ETF,Z,SEPZ,Y,100.0,N,SEPZ
 SER,"Serina Therapeutics, Inc. Common Stock","Serina Therapeutics, Inc. Common Stock",A,SER,N,100.0,N,SER
 SES,SES AI Corporation Class A Common Stock,SES AI Corporation Class A Common Stock,N,SES,N,100.0,N,SES
-SES.W,"SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share","SES AI Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share",N,SES.WS,N,100.0,N,SES+
 SETH,ProShares Short Ether ETF,ProShares Short Ether ETF,P,SETH,Y,100.0,N,SETH
 SF,Stifel Financial Corporation Common Stock,Stifel Financial Corporation Common Stock,N,SF,N,100.0,N,SF
 SF$B,"Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non","Stifel Financial Corporation Depositary Shares, Each Representing 1/1,000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock, Series B",N,SFpB,N,100.0,N,SF-B
