@@ -236,7 +236,6 @@ AUB$A,Atlantic Union Bankshares Corporation Depositary Shares each representing 
 AUNA,Auna SA Class A Ordinary Shares
 AVA,Avista Corporation Common Stock
 AVAL,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares)
-AVB,"AvalonBay Communities, Inc. Common Stock"
 AVBC,"Avidia Bancorp, Inc. Common Stock"
 AVD,American Vanguard Corporation Common Stock ($0.10 Par Value)
 AVEX,AEVEX Corp. Class A Common Stock
@@ -289,8 +288,6 @@ BB,BlackBerry Limited Common Stock
 BBAI,"BigBear.ai, Inc. Common Stock"
 BBAI.W,"BigBear.ai, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share"
 BBAR,Banco BBVA Argentina S.A. ADS
-BBBY,"Bed Bath & Beyond, Inc. Common Stock"
-BBBY.W,"Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock"
 BBD,Banco Bradesco Sa American Depositary Shares
 BBDC,"Barings BDC, Inc. Common Stock"
 BBDO,Banco Bradesco Sa American Depositary Shares (each representing one Common Share)
@@ -326,7 +323,7 @@ BEBE,TGE Value Creative Solutions Corp Class A Ordinary Shares
 BEBE.U,"TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one"
 BEBE.W,"TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share"
 BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)
-BEN,"Franklin Resources, Inc. Common Stock"
+BEN,"Franklin Templeton, Inc. Common Stock"
 BEP,Brookfield Renewable Partners L.P. Limited Partnership Units
 BEP$A,"Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17"
 BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares
@@ -824,6 +821,7 @@ DTW,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 20
 DUK,Duke Energy Corporation (Holding Company) Common Stock
 DUK$A,"Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock"
 DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078
+DUKU,Duke Energy Corporation Corporate Units
 DV,"DoubleVerify Holdings, Inc. Common Stock"
 DVA,DaVita Inc. Common Stock
 DVN,Devon Energy Corporation Common Stock
