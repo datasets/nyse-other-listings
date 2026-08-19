@@ -519,6 +519,7 @@ AXS$E,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100t
 AXTA,Axalta Coating Systems Ltd. Common Shares,Axalta Coating Systems Ltd. Common Shares,N,AXTA,N,100.0,N,AXTA
 AXTC,Corgi AXTI 2x Daily ETF,Corgi AXTI 2x Daily ETF,Z,AXTC,Y,100.0,N,AXTC
 AXTL,Leverage Shares 2X Long AXTI Daily ETF,Leverage Shares 2X Long AXTI Daily ETF,Z,AXTL,Y,100.0,N,AXTL
+AXTQ,Tradr 2X Short AXTI Daily ETF,Tradr 2X Short AXTI Daily ETF,Z,AXTQ,Y,100.0,N,AXTQ
 AXTU,T,T-REX 2X Long AXTI Daily Target ETF,Z,AXTU,Y,100.0,N,AXTU
 AXTX,Tradr 2X Long AXTI Daily ETF,Tradr 2X Long AXTI Daily ETF,Z,AXTX,Y,100.0,N,AXTX
 AYI,Acuity Inc. Common Stock,Acuity Inc. Common Stock,N,AYI,N,40.0,N,AYI
@@ -1327,6 +1328,7 @@ COF$N,"Capital One Financial Corporation Depositary Shares, Each Representing a 
 COHC,Corgi COHR 2x Daily ETF,Corgi COHR 2x Daily ETF,Z,COHC,Y,100.0,N,COHC
 COHH,Leverage Shares 2X Long COHR Daily ETF,Leverage Shares 2X Long COHR Daily ETF,Z,COHH,Y,100.0,N,COHH
 COHN,Cohen & Company Inc.,Cohen & Company Inc.,A,COHN,N,100.0,N,COHN
+COHQ,Tradr 2X Short COHR Daily ETF,Tradr 2X Short COHR Daily ETF,Z,COHQ,Y,100.0,N,COHQ
 COHR,Coherent Corp. Common Stock,Coherent Corp. Common Stock,N,COHR,N,40.0,N,COHR
 COHX,Tradr 2X Long COHR Daily ETF,Tradr 2X Long COHR Daily ETF,Z,COHX,Y,100.0,N,COHX
 COIA,ProShares Ultra COIN,ProShares Ultra COIN,P,COIA,Y,100.0,N,COIA
@@ -1633,7 +1635,6 @@ DECZ,TrueShares Structured Outcome (December) ETF,TrueShares Structured Outcome 
 DEED,First Trust Securitized Plus ETF,First Trust Securitized Plus ETF,P,DEED,Y,100.0,N,DEED
 DEEF,Xtrackers FTSE Developed ex US Multifactor ETF,Xtrackers FTSE Developed ex US Multifactor ETF,P,DEEF,Y,100.0,N,DEEF
 DEEP,Acquirers Small and Micro Deep Value ETF,Acquirers Small and Micro Deep Value ETF,P,DEEP,Y,100.0,N,DEEP
-DEFI,Hashdex Bitcoin ETF,Hashdex Bitcoin ETF,P,DEFI,Y,100.0,N,DEFI
 DEFR,Aptus Deferred Income ETF,Aptus Deferred Income ETF,Z,DEFR,Y,100.0,N,DEFR
 DEHP,Dimensional Emerging Markets High Profitability ETF,Dimensional Emerging Markets High Profitability ETF,P,DEHP,Y,100.0,N,DEHP
 DEI,"Douglas Emmett, Inc. Common Stock","Douglas Emmett, Inc. Common Stock",N,DEI,N,100.0,N,DEI
@@ -2118,7 +2119,6 @@ EQIN,Columbia U.S. Equity Income ETF,Columbia U.S. Equity Income ETF,P,EQIN,Y,10
 EQL,ALPS Equal Sector Weight ETF,ALPS Equal Sector Weight ETF,P,EQL,Y,100.0,N,EQL
 EQLT,iShares MSCI Emerging Markets Quality Factor ETF,iShares MSCI Emerging Markets Quality Factor ETF,Z,EQLT,Y,100.0,N,EQLT
 EQNR,Equinor ASA,Equinor ASA,N,EQNR,N,100.0,N,EQNR
-EQR,Equity Residential Common Shares of Beneficial Interest,Equity Residential Common Shares of Beneficial Interest,N,EQR,N,100.0,N,EQR
 EQS,"Equus Total Return, Inc. Common Stock","Equus Total Return, Inc. Common Stock",N,EQS,N,100.0,N,EQS
 EQT,EQT Corporation Common Stock,EQT Corporation Common Stock,N,EQT,N,100.0,N,EQT
 EQTY,Kovitz Core Equity ETF,Kovitz Core Equity ETF,P,EQTY,Y,100.0,N,EQTY
@@ -3209,6 +3209,7 @@ HYTI,FT Vest High Yield & Target Income ETF,FT Vest High Yield & Target Income E
 HYTR,Counterpoint High Yield Trend ETF,Counterpoint High Yield Trend ETF,N,HYTR,Y,100.0,N,HYTR
 HYUP,Xtrackers High Beta High Yield Bond ETF,Xtrackers High Beta High Yield Bond ETF,P,HYUP,Y,100.0,N,HYUP
 HZO,"MarineMax, Inc.  (FL) Common Stock","MarineMax, Inc.  (FL) Common Stock",N,HZO,N,100.0,N,HZO
+IACL,GraniteShares US 100 Autocallable Income ETF,GraniteShares US 100 Autocallable Income ETF,Z,IACL,Y,100.0,N,IACL
 IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest,N,IAE,N,100.0,N,IAE
 IAF,"abrdn Australia Equity Fund, Inc. Common Stock","abrdn Australia Equity Fund, Inc. Common Stock",A,IAF,N,100.0,N,IAF
 IAG,Iamgold Corporation Ordinary Shares,Iamgold Corporation Ordinary Shares,N,IAG,N,100.0,N,IAG
@@ -4092,6 +4093,7 @@ LVS,Las Vegas Sands Corp. Common Stock,Las Vegas Sands Corp. Common Stock,N,LVS,
 LVWR,"LiveWire Group, Inc. Common Stock","LiveWire Group, Inc. Common Stock",N,LVWR,N,100.0,N,LVWR
 LVWR.W,"LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share","LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,LVWR.WS,N,100.0,N,LVWR+
 LW,"Lamb Weston Holdings, Inc. Common Stock ","Lamb Weston Holdings, Inc. Common Stock ",N,LW,N,100.0,N,LW
+LWLX,Tradr 2X Long LWLG Daily ETF,Tradr 2X Long LWLG Daily ETF,Z,LWLX,Y,100.0,N,LWLX
 LXFR,Luxfer Holdings PLC Ordinary Shares,Luxfer Holdings PLC Ordinary Shares,N,LXFR,N,100.0,N,LXFR
 LXP,LXP Industrial Trust Common Stock (Maryland REIT),LXP Industrial Trust Common Stock (Maryland REIT),N,LXP,N,100.0,N,LXP
 LXP$C,LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock,LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock,N,LXPpC,N,100.0,N,LXP-C
@@ -4204,6 +4206,7 @@ MET$A,"MetLife, Inc. Preferred Series A Floating Rate","MetLife, Inc. Preferred 
 MET$E,"MetLife, Inc. Depositary Shares ","MetLife, Inc. Depositary Shares ",N,METpE,N,100.0,N,MET-E
 MET$F,"MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.75% Non","MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.75% Non-Cumulative Preferred Stock, Series F",N,METpF,N,100.0,N,MET-F
 METG,Leverage Shares 2X Long META Daily ETF,Leverage Shares 2X Long META Daily ETF,Z,METG,Y,100.0,N,METG
+METQ,Tradr 2X Short META Daily ETF,Tradr 2X Short META Daily ETF,Z,METQ,Y,100.0,N,METQ
 METV,Roundhill Ball Metaverse ETF,Roundhill Ball Metaverse ETF,P,METV,Y,100.0,N,METV
 METW,Roundhill META WeeklyPay ETF,Roundhill META WeeklyPay ETF,Z,METW,Y,100.0,N,METW
 MEXX,Direxion Daily MSCI Mexico Bull 3X ETF,Direxion Daily MSCI Mexico Bull 3X ETF,P,MEXX,Y,100.0,N,MEXX
@@ -7014,6 +7017,7 @@ VMAX,Hartford US Value ETF,Hartford US Value ETF,Z,VMAX,Y,100.0,N,VMAX
 VMC,Vulcan Materials Company (Holding Company) Common Stock,Vulcan Materials Company (Holding Company) Common Stock,N,VMC,N,40.0,N,VMC
 VMI,"Valmont Industries, Inc. Common Stock","Valmont Industries, Inc. Common Stock",N,VMI,N,40.0,N,VMI
 VMO,Invesco Municipal Opportunity Trust Common Stock,Invesco Municipal Opportunity Trust Common Stock,N,VMO,N,100.0,N,VMO
+VMRK,Vivmark Residential Common Shares of Beneficial Interest,Vivmark Residential Common Shares of Beneficial Interest,N,VMRK,N,100.0,N,VMRK
 VMSB,Voya Multi,Voya Multi-Sector Income ETF,P,VMSB,Y,100.0,N,VMSB
 VNAM,Global X MSCI Vietnam ETF,Global X MSCI Vietnam ETF,P,VNAM,Y,100.0,N,VNAM
 VNIE,Vontobel International Equity Active ETF,Vontobel International Equity Active ETF,P,VNIE,Y,100.0,N,VNIE
