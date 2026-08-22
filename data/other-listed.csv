@@ -3090,6 +3090,7 @@ HGRO,Hedgeye Quality Growth ETF,Hedgeye Quality Growth ETF,P,HGRO,Y,100.0,N,HGRO
 HGTY,"Hagerty, Inc. Class A Common Stock","Hagerty, Inc. Class A Common Stock",N,HGTY,N,100.0,N,HGTY
 HGV,Hilton Grand Vacations Inc. Common Stock ,Hilton Grand Vacations Inc. Common Stock ,N,HGV,N,100.0,N,HGV
 HHH,Howard Hughes Holdings Inc. Common Stock,Howard Hughes Holdings Inc. Common Stock,N,HHH,N,100.0,N,HHH
+HIAI,Ai Funds High Conviction US Equity AI,Ai Funds High Conviction US Equity AI-Managed ETF,Z,HIAI,Y,100.0,N,HIAI
 HIBL,Direxion Daily S&P 500 High Beta Bull 3X ETF,Direxion Daily S&P 500 High Beta Bull 3X ETF,P,HIBL,Y,100.0,N,HIBL
 HIBS,Direxion Daily S&P 500 High Beta Bear 3X ETF,Direxion Daily S&P 500 High Beta Bear 3X ETF,P,HIBS,Y,100.0,N,HIBS
 HIDV,AB US High Dividend ETF,AB US High Dividend ETF,P,HIDV,Y,100.0,N,HIDV
@@ -3185,6 +3186,9 @@ HVAC,AdvisorShares HVAC and Industrials ETF,AdvisorShares HVAC and Industrials E
 HVT,"Haverty Furniture Companies, Inc. Common Stock","Haverty Furniture Companies, Inc. Common Stock",N,HVT,N,100.0,N,HVT
 HVT.A,"Haverty Furniture Companies, Inc. Common Stock","Haverty Furniture Companies, Inc. Common Stock",N,HVT.A,N,100.0,N,HVT.A
 HWM,Howmet Aerospace Inc. Common Stock,Howmet Aerospace Inc. Common Stock,N,HWM,N,100.0,N,HWM
+HXA,Mast HedgeIndex Corporate Arbitrage ETF,Mast HedgeIndex Corporate Arbitrage ETF,P,HXA,Y,100.0,N,HXA
+HXC,Mast HedgeIndex Strategic Commodities ETF,Mast HedgeIndex Strategic Commodities ETF,P,HXC,Y,100.0,N,HXC
+HXE,Mast HedgeIndex Adaptive Equities ETF,Mast HedgeIndex Adaptive Equities ETF,P,HXE,Y,100.0,N,HXE
 HXL,Hexcel Corporation Common Stock,Hexcel Corporation Common Stock,N,HXL,N,100.0,N,HXL
 HY,Hyster,"Hyster-Yale, Inc. Class A common stock",N,HY,N,100.0,N,HY
 HYBB,iShares BB Rated Corporate Bond ETF,iShares BB Rated Corporate Bond ETF,P,HYBB,Y,100.0,N,HYBB
@@ -3322,7 +3326,6 @@ IDVZ,Polen International Dividend Income Fund,Polen International Dividend Incom
 IDX,VanEck Indonesia Index ETF,VanEck Indonesia Index ETF,P,IDX,Y,100.0,N,IDX
 IDYN,iShares International Equity Factor Rotation Active ETF,iShares International Equity Factor Rotation Active ETF,P,IDYN,Y,100.0,N,IDYN
 IE,Ivanhoe Electric Inc. Common Stock,Ivanhoe Electric Inc. Common Stock,A,IE,N,100.0,N,IE
-IEDI,iShares U.S. Consumer Focused ETF,iShares U.S. Consumer Focused ETF,Z,IEDI,Y,100.0,N,IEDI
 IEFA,iShares Core MSCI EAFE ETF,iShares Core MSCI EAFE ETF,Z,IEFA,Y,100.0,N,IEFA
 IEMG,iShares Core MSCI Emerging Markets ETF,iShares Core MSCI Emerging Markets ETF,P,IEMG,Y,100.0,N,IEMG
 IEO,iShares U.S. Oil & Gas Exploration & Production ETF,iShares U.S. Oil & Gas Exploration & Production ETF,Z,IEO,Y,100.0,N,IEO
@@ -4203,6 +4206,7 @@ MEC,"Mayville Engineering Company, Inc. Common Stock","Mayville Engineering Comp
 MED,MEDIFAST INC Common Stock,MEDIFAST INC Common Stock,N,MED,N,100.0,N,MED
 MEDI,Harbor Health Care ETF,Harbor Health Care ETF,P,MEDI,Y,100.0,N,MEDI
 MEGI,NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares,NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares,N,MEGI,N,100.0,N,MEGI
+MEGX,Corgi U.S. Mega,Corgi U.S. Mega-Cap Growth 2x Daily ETF,Z,MEGX,Y,100.0,N,MEGX
 MEI,"Methode Electronics, Inc. Common Stock","Methode Electronics, Inc. Common Stock",N,MEI,N,100.0,N,MEI
 MEIB,Direxion META Defined Income Boost ETF,Direxion META Defined Income Boost ETF,Z,MEIB,Y,100.0,N,MEIB
 MEM,Matthews Emerging Markets Equity Active ETF,Matthews Emerging Markets Equity Active ETF,P,MEM,Y,100.0,N,MEM
@@ -4243,7 +4247,6 @@ MGA,"Magna International, Inc. Common Stock","Magna International, Inc. Common S
 MGC,Vanguard Morningstar Mega Cap ETF,Vanguard Morningstar Mega Cap ETF,P,MGC,Y,100.0,N,MGC
 MGF,Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest,Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest,N,MGF,N,100.0,N,MGF
 MGK,Vanguard Morningstar Mega Cap Growth ETF,Vanguard Morningstar Mega Cap Growth ETF,P,MGK,Y,40.0,N,MGK
-MGKX,Corgi U.S. Mega,Corgi U.S. Mega-Cap Growth 2x Daily ETF,Z,MGKX,Y,100.0,N,MGKX
 MGLD,"The Marygold Companies, Inc. Common Stock","The Marygold Companies, Inc. Common Stock",A,MGLD,N,100.0,N,MGLD
 MGM,MGM Resorts International Common Stock,MGM Resorts International Common Stock,N,MGM,N,100.0,N,MGM
 MGMT,Ballast Small/Mid Cap ETF,Ballast Small/Mid Cap ETF,P,MGMT,Y,100.0,N,MGMT
@@ -6874,13 +6877,16 @@ USFD,US Foods Holding Corp. Common Stock,US Foods Holding Corp. Common Stock,N,U
 USFE,First Eagle US Equity ETF,First Eagle US Equity ETF,P,USFE,Y,100.0,N,USFE
 USFR,WisdomTree Floating Rate Treasury Fund,WisdomTree Floating Rate Treasury Fund,P,USFR,Y,100.0,N,USFR
 USG,USCF Gold Strategy Plus Income Fund,USCF Gold Strategy Plus Income Fund,P,USG,Y,100.0,N,USG
+USGX,Corgi U.S. Growth 2x Daily ETF,Corgi U.S. Growth 2x Daily ETF,Z,USGX,Y,100.0,N,USGX
 USHY,iShares Broad USD High Yield Corporate Bond ETF,iShares Broad USD High Yield Corporate Bond ETF,Z,USHY,Y,100.0,N,USHY
 USL,United States 12 Month Oil,United States 12 Month Oil,P,USL,Y,100.0,N,USL
 USLN,iShares Broad USD Floating Rate Loan ETF,iShares Broad USD Floating Rate Loan ETF,Z,USLN,Y,100.0,N,USLN
 USLV,Direxion Daily Silver Bull 2X ETF,Direxion Daily Silver Bull 2X ETF,P,USLV,Y,100.0,N,USLV
+USLX,Corgi U.S. Large,Corgi U.S. Large-Cap 2x Daily ETF,Z,USLX,Y,100.0,N,USLX
 USMD,CoreValues America First Technology ETF,CoreValues America First Technology ETF,P,USMD,Y,100.0,N,USMD
 USMF,WisdomTree U.S. Multifactor Fund,WisdomTree U.S. Multifactor Fund,Z,USMF,Y,100.0,N,USMF
 USMV,iShares MSCI USA Min Vol Factor ETF,iShares MSCI USA Min Vol Factor ETF,Z,USMV,Y,100.0,N,USMV
+USMX,Corgi U.S. Mid,Corgi U.S. Mid-Cap 2x Daily ETF,Z,USMX,Y,100.0,N,USMX
 USNA,"USANA Health Sciences, Inc. Common Stock","USANA Health Sciences, Inc. Common Stock",N,USNA,N,100.0,N,USNA
 USNG,Amplify Samsung U.S. Natural Gas Infrastructure ETF,Amplify Samsung U.S. Natural Gas Infrastructure ETF,P,USNG,Y,100.0,N,USNG
 USNZ,Xtrackers Net Zero Pathway Paris Aligned US Equity ETF,Xtrackers Net Zero Pathway Paris Aligned US Equity ETF,P,USNZ,Y,100.0,N,USNZ
@@ -6890,6 +6896,7 @@ USPX,Franklin U.S. Equity Index ETF,Franklin U.S. Equity Index ETF,P,USPX,Y,100.
 USRT,iShares Core U.S. REIT ETF,iShares Core U.S. REIT ETF,P,USRT,Y,100.0,N,USRT
 USSE,Segall Bryant & Hamill Trust Segall Bryant & Hamill Select Equity ETF,Segall Bryant & Hamill Trust Segall Bryant & Hamill Select Equity ETF,P,USSE,Y,100.0,N,USSE
 USSG,Xtrackers MSCI USA Selection Equity ETF,Xtrackers MSCI USA Selection Equity ETF,P,USSG,Y,100.0,N,USSG
+USSX,Corgi U.S. Small,Corgi U.S. Small-Cap 2x Daily ETF,Z,USSX,Y,100.0,N,USSX
 UST,ProShares Ultra 7,ProShares Ultra 7-10 Year Treasury,P,UST,Y,100.0,N,UST
 USX,Corgi Total U.S. Market 2x Daily ETF,Corgi Total U.S. Market 2x Daily ETF,Z,USX,Y,100.0,N,USX
 UTES,Virtus Reaves Utilities ETF,Virtus Reaves Utilities ETF,P,UTES,Y,100.0,N,UTES
@@ -6941,7 +6948,6 @@ VBF,Invesco Bond Fund Common Stock,Invesco Bond Fund Common Stock,N,VBF,N,100.0,
 VBK,Vanguard Morningstar Small,Vanguard Morningstar Small-Cap Growth ETF,P,VBK,Y,40.0,N,VBK
 VBND,Vident U.S. Bond Strategy ETF,Vident U.S. Bond Strategy ETF,P,VBND,Y,100.0,N,VBND
 VBR,Vanguard Morningstar Small,Vanguard Morningstar Small-Cap Value ETF,P,VBR,Y,100.0,N,VBR
-VBX,Corgi U.S. Small,Corgi U.S. Small-Cap 2x Daily ETF,Z,VBX,Y,100.0,N,VBX
 VCEB,Vanguard ESG U.S. Corporate Bond ETF,Vanguard ESG U.S. Corporate Bond ETF,Z,VCEB,Y,100.0,N,VCEB
 VCHY,Vanguard U.S. High,Vanguard U.S. High-Yield Corporate Bond Index ETF,Z,VCHY,Y,100.0,N,VCHY
 VCLN,Virtus Duff & Phelps Clean Energy ETF,Virtus Duff & Phelps Clean Energy ETF,P,VCLN,Y,100.0,N,VCLN
@@ -7051,7 +7057,6 @@ VOE,Vanguard Morningstar Mid,Vanguard Morningstar Mid-Cap Value ETF,P,VOE,Y,100.
 VOO,Vanguard S&P 500 ETF,Vanguard S&P 500 ETF,P,VOO,Y,40.0,N,VOO
 VOOG,Vanguard S&P 500 Growth ETF,Vanguard S&P 500 Growth ETF,P,VOOG,Y,40.0,N,VOOG
 VOOV,Vanguard S&P 500 Value ETF,Vanguard S&P 500 Value ETF,P,VOOV,Y,100.0,N,VOOV
-VOOX,Corgi U.S. Large,Corgi U.S. Large-Cap 2x Daily ETF,Z,VOOX,Y,100.0,N,VOOX
 VOT,Vanguard Morningstar Mid,Vanguard Morningstar Mid-Cap Growth ETF,P,VOT,Y,40.0,N,VOT
 VOX,Vanguard Communication Services  ETF,Vanguard Communication Services  ETF,P,VOX,Y,100.0,N,VOX
 VOXP,Vox Populi ETF,Vox Populi ETF,Z,VOXP,Y,100.0,N,VOXP
@@ -7432,9 +7437,7 @@ XUSP,Innovator Uncapped Accelerated U.S. Equity ETF,Innovator Uncapped Accelerat
 XV,Simplify Target 15 Distribution ETF,Simplify Target 15 Distribution ETF,P,XV,Y,100.0,N,XV
 XVAP,FT Vest AAPL & Target Income ETF,FT Vest AAPL & Target Income ETF,Z,XVAP,Y,100.0,N,XVAP
 XVNV,FT Vest NVDA & Target Income ETF,FT Vest NVDA & Target Income ETF,Z,XVNV,Y,100.0,N,XVNV
-XVO,Corgi U.S. Mid,Corgi U.S. Mid-Cap 2x Daily ETF,Z,XVO,Y,100.0,N,XVO
 XVTS,FT Vest TSLA & Target Income ETF,FT Vest TSLA & Target Income ETF,Z,XVTS,Y,100.0,N,XVTS
-XVUG,Corgi U.S. Growth 2x Daily ETF,Corgi U.S. Growth 2x Daily ETF,Z,XVUG,Y,100.0,N,XVUG
 XVV,iShares ESG Select Screened S&P 500 ETF,iShares ESG Select Screened S&P 500 ETF,Z,XVV,Y,100.0,N,XVV
 XW,Corgi Ex,Corgi Ex-U.S. Equities 2x Daily ETF,Z,XW,Y,100.0,N,XW
 XWNG,Amplify Top 10 Space ETF,Amplify Top 10 Space ETF,P,XWNG,Y,100.0,N,XWNG
