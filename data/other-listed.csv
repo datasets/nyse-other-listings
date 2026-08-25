@@ -666,7 +666,6 @@ BEBE,TGE Value Creative Solutions Corp Class A Ordinary Shares,TGE Value Creativ
 BEBE.U,"TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one","TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,BEBE.U,N,100.0,N,BEBE=
 BEBE.W,"TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,BEBE.WS,N,100.0,N,BEBE+
 BEC,Corgi BE 2x Daily ETF,Corgi BE 2x Daily ETF,Z,BEC,Y,100.0,N,BEC
-BEDZ,AdvisorShares Hotel ETF,AdvisorShares Hotel ETF,P,BEDZ,Y,100.0,N,BEDZ
 BEGS,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Rareview 2x Bull Cryptocurrency & Precious Metals ETF,Z,BEGS,Y,100.0,N,BEGS
 BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),N,BEKE,N,100.0,N,BEKE
 BEMB,iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,iShares J.P. Morgan Broad USD Emerging Markets Bond ETF,Z,BEMB,Y,100.0,N,BEMB
@@ -1948,6 +1947,7 @@ EDOG,ALPS Emerging Sector Dividend Dogs ETF,ALPS Emerging Sector Dividend Dogs E
 EDOW,First Trust Dow 30 Equal Weight ETF,First Trust Dow 30 Equal Weight ETF,P,EDOW,Y,100.0,N,EDOW
 EDU,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)","New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)",N,EDU,N,100.0,N,EDU
 EDV,Vanguard Extended Duration Treasury ETF,Vanguard Extended Duration Treasury ETF,P,EDV,Y,100.0,N,EDV
+EDVA,"Endovia Health Sciences, Inc. Common Stock","Endovia Health Sciences, Inc. Common Stock",A,EDVA,N,100.0,N,EDVA
 EDZ,Direxion Emerging Markets Bear 3X ETF,Direxion Emerging Markets Bear 3X ETF,P,EDZ,Y,100.0,N,EDZ
 EE,"Excelerate Energy, Inc. Class A Common Stock","Excelerate Energy, Inc. Class A Common Stock",N,EE,N,100.0,N,EE
 EEA,"The European Equity Fund, Inc. Common Stock","The European Equity Fund, Inc. Common Stock",N,EEA,N,100.0,N,EEA
@@ -1997,8 +1997,8 @@ EHC,Encompass Health Corporation Common Stock,Encompass Health Corporation Commo
 EHCC,Global X Ethereum Covered Call ETF,Global X Ethereum Covered Call ETF,Z,EHCC,Y,100.0,N,EHCC
 EHI,Western Asset Global High Income Fund Inc Common Stock,Western Asset Global High Income Fund Inc Common Stock,N,EHI,N,100.0,N,EHI
 EHY,Amplify Ethereum Max Income Covered Call ETF,Amplify Ethereum Max Income Covered Call ETF,Z,EHY,Y,100.0,N,EHY
-EIC,Eagle Point Income Company Inc. Common Stock,Eagle Point Income Company Inc. Common Stock,N,EIC,N,100.0,N,EIC
-EICA,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,N,EICA,N,100.0,N,EICA
+EIC,Eagle Point Income Company Common Shares of Beneficial Interest,Eagle Point Income Company Common Shares of Beneficial Interest,N,EIC,N,100.0,N,EIC
+EICA,Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026,Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026,N,EICA,N,100.0,N,EICA
 EIDO,iShares MSCI Indonesia ETF,iShares MSCI Indonesia ETF,P,EIDO,Y,100.0,N,EIDO
 EIG,Employers Holdings Inc Common Stock,Employers Holdings Inc Common Stock,N,EIG,N,100.0,N,EIG
 EIIA,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,N,EIIA,N,100.0,N,EIIA
@@ -4555,7 +4555,6 @@ NBXG,Neuberger Next Generation Connectivity Fund Inc. Common Stock,Neuberger Nex
 NC,"NACCO Industries, Inc. Common Stock","NACCO Industries, Inc. Common Stock",N,NC,N,100.0,N,NC
 NCA,Nuveen California Municipal Value Fund,Nuveen California Municipal Value Fund,N,NCA,N,100.0,N,NCA
 NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,Nuveen Churchill Direct Lending Corp. Common Stock,N,NCDL,N,100.0,N,NCDL
-NCL,Northann Corp. Common Stock,Northann Corp. Common Stock,A,NCL,N,100.0,N,NCL
 NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,N,NCLH,N,100.0,N,NCLH
 NCLO,Nuveen AA,Nuveen AA-BBB CLO ETF,P,NCLO,Y,100.0,N,NCLO
 NCV,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,Virtus Convertible & Income Fund Common Shares of Beneficial Interest,N,NCV,N,100.0,N,NCV
@@ -5798,7 +5797,6 @@ SB$C,"Safe Bulkers, Inc Cumulative Redeemable Perpetual Preferred Series C (Mars
 SB$D,"Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)","Safe Bulkers, Inc Perpetual Preferred Series D (Marshall Islands)",N,SBpD,N,100.0,N,SB-D
 SBAR,Simplify Barrier Income ETF,Simplify Barrier Income ETF,P,SBAR,Y,100.0,N,SBAR
 SBB,ProShares Short SmallCap600,ProShares Short SmallCap600,P,SBB,Y,100.0,N,SBB
-SBEV,"Splash Beverage Group, Inc. (NV) Common Stock","Splash Beverage Group, Inc. (NV) Common Stock",A,SBEV,N,100.0,N,SBEV
 SBH,"Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock","Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.) Common Stock",N,SBH,N,100.0,N,SBH
 SBI,Western Asset Intermediate Muni Fund Inc Common Stock,Western Asset Intermediate Muni Fund Inc Common Stock,N,SBI,N,100.0,N,SBI
 SBIL,Simplify Government Money Market ETF,Simplify Government Money Market ETF,P,SBIL,Y,100.0,N,SBIL
@@ -6242,6 +6240,7 @@ SPYT,Defiance S&P 500 Target Income ETF,Defiance S&P 500 Target Income ETF,P,SPY
 SPYU,"MAX S&P 500 4X Leveraged ETNs due October 30, 2043","MAX S&P 500 4X Leveraged ETNs due October 30, 2043",P,SPYU,Y,100.0,N,SPYU
 SPYV,State Street SPDR Portfolio S&P 500 Value ETF,State Street SPDR Portfolio S&P 500 Value ETF,P,SPYV,Y,100.0,N,SPYV
 SPYX,State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF,State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF,P,SPYX,Y,100.0,N,SPYX
+SQBA,FT Vest U.S. Equity Quarterly 15 Buffer ETF,FT Vest U.S. Equity Quarterly 15 Buffer ETF,Z,SQBA,Y,100.0,N,SQBA
 SQLT,iShares MSCI USA Small,iShares MSCI USA Small-Cap Quality Factor ETF,Z,SQLT,Y,100.0,N,SQLT
 SQM,Sociedad Quimica y Minera S.A. Common Stock,Sociedad Quimica y Minera S.A. Common Stock,N,SQM,N,100.0,N,SQM
 SQMX,FT Vest U.S. Equity Quarterly Max Buffer ETF,FT Vest U.S. Equity Quarterly Max Buffer ETF,Z,SQMX,Y,100.0,N,SQMX
@@ -7002,7 +7001,6 @@ VHI,"Valhi, Inc. Common Stock","Valhi, Inc. Common Stock",N,VHI,N,100.0,N,VHI
 VHT,Vanguard Health Care ETF,Vanguard Health Care ETF,P,VHT,Y,40.0,N,VHT
 VIA,"Via Transportation, Inc. Class A Common Stock","Via Transportation, Inc. Class A Common Stock",N,VIA,N,100.0,N,VIA
 VIAG,Leverage Shares 2X Long VIAV Daily ETF,Leverage Shares 2X Long VIAV Daily ETF,Z,VIAG,Y,100.0,N,VIAG
-VICE,AdvisorShares Vice ETF,AdvisorShares Vice ETF,P,VICE,Y,100.0,N,VICE
 VICI,VICI Properties Inc. Common Stock,VICI Properties Inc. Common Stock,N,VICI,N,100.0,N,VICI
 VIDA,VIDA Global Inc. Class A Common Stock,VIDA Global Inc. Class A Common Stock,A,VIDA,N,100.0,N,VIDA
 VIDI,Vident International Equity Strategy ETF,Vident International Equity Strategy ETF,P,VIDI,Y,100.0,N,VIDI
