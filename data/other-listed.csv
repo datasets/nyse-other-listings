@@ -941,6 +941,7 @@ BSTP,Innovator Buffer Step,Innovator Buffer Step-Up Strategy ETF,P,BSTP,Y,100.0,
 BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,N,BSTZ,N,100.0,N,BSTZ
 BSV,Vanguard Short,Vanguard Short-Term Bond ETF,P,BSV,Y,100.0,N,BSV
 BSX,Boston Scientific Corporation Common Stock,Boston Scientific Corporation Common Stock,N,BSX,N,100.0,N,BSX
+BTA,Beacon Tactical Alternatives Risk ETF,Beacon Tactical Alternatives Risk ETF,P,BTA,Y,100.0,N,BTA
 BTAL,AGF U.S. Market Neutral Anti,AGF U.S. Market Neutral Anti-Beta Fund,P,BTAL,Y,100.0,N,BTAL
 BTC,Grayscale Bitcoin Mini Trust (BTC),Grayscale Bitcoin Mini Trust (BTC),P,BTC,Y,100.0,N,BTC
 BTCC,Grayscale Bitcoin Covered Call ETF,Grayscale Bitcoin Covered Call ETF,P,BTCC,Y,100.0,N,BTCC
@@ -2764,7 +2765,7 @@ GFF,Griffon Corporation Common Stock,Griffon Corporation Common Stock,N,GFF,N,10
 GFI,Gold Fields Limited American Depositary Shares,Gold Fields Limited American Depositary Shares,N,GFI,N,100.0,N,GFI
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value","GFL Environmental Inc. Subordinate voting shares, no par value",N,GFL,N,100.0,N,GFL
 GFR,Greenfire Resources Ltd. Common Shares,Greenfire Resources Ltd. Common Shares,N,GFR,N,100.0,N,GFR
-GFR.V,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued","Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",N,GFRrw,N,100.0,N,GFR^#
+GFR.R,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights","Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",N,GFRr,N,100.0,N,GFR^
 GFSG,Leverage Shares 2X Long GFS Daily ETF,Leverage Shares 2X Long GFS Daily ETF,Z,GFSG,Y,100.0,N,GFSG
 GGB,Gerdau S.A. Common Stock,Gerdau S.A. Common Stock,N,GGB,N,100.0,N,GGB
 GGG,Graco Inc. Common Stock,Graco Inc. Common Stock,N,GGG,N,100.0,N,GGG
@@ -3754,6 +3755,7 @@ JULM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - Ju
 JULP,PGIM S&P 500 Buffer 12 ETF ,PGIM S&P 500 Buffer 12 ETF - July,Z,JULP,Y,100.0,N,JULP
 JULT,AllianzIM U.S. Large Cap Buffer10 Jul ETF,AllianzIM U.S. Large Cap Buffer10 Jul ETF,Z,JULT,Y,100.0,N,JULT
 JULU,AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF,AllianzIM U.S. Equity Buffer15 Uncapped Jul ETF,Z,JULU,Y,100.0,N,JULU
+JULV,VanEck U.S. Equity Buffer ETF ,VanEck U.S. Equity Buffer ETF - July,P,JULV,Y,100.0,N,JULV
 JULW,AllianzIM U.S. Large Cap Buffer20 Jul ETF,AllianzIM U.S. Large Cap Buffer20 Jul ETF,Z,JULW,Y,100.0,N,JULW
 JULZ,TrueShares Structured Outcome (July) ETF,TrueShares Structured Outcome (July) ETF,Z,JULZ,Y,100.0,N,JULZ
 JUNC,Corgi U.S. Equities 10% Structured Buffer ETF ,Corgi U.S. Equities 10% Structured Buffer ETF - June Series,Z,JUNC,Y,100.0,N,JUNC
@@ -3945,6 +3947,7 @@ LAZR,Tema Photonics & Optical ETF,Tema Photonics & Optical ETF,P,LAZR,Y,100.0,N,
 LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,N,LB,N,100.0,N,LB
 LBAY,Leatherback Long/Short Alternative Yield ETF,Leatherback Long/Short Alternative Yield ETF,P,LBAY,Y,100.0,N,LBAY
 LBO,WHITEWOLF Publicly Listed Private Equity ETF,WHITEWOLF Publicly Listed Private Equity ETF,Z,LBO,Y,100.0,N,LBO
+LBOX,GraniteShares Short Term Box ETF,GraniteShares Short Term Box ETF,Z,LBOX,Y,100.0,N,LBOX
 LBRT,Liberty Energy Inc. Class A common stock,Liberty Energy Inc. Class A common stock,N,LBRT,N,100.0,N,LBRT
 LCAP,Principal Capital Appreciation Select ETF,Principal Capital Appreciation Select ETF,Z,LCAP,Y,100.0,N,LCAP
 LCF,Touchstone US Large Cap Focused ETF,Touchstone US Large Cap Focused ETF,Z,LCF,Y,100.0,N,LCF
@@ -5626,7 +5629,6 @@ RLTY,Cohen & Steers Real Estate Opportunities and Income Fund Common Shares of B
 RLX,"RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class A ordinary share","RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class A ordinary share",N,RLX,N,100.0,N,RLX
 RLY,State Street Multi,State Street Multi-Asset Real Return ETF,P,RLY,Y,100.0,N,RLY
 RM,Regional Management Corp. Common Stock,Regional Management Corp. Common Stock,N,RM,N,100.0,N,RM
-RMAX,"RE/MAX Holdings, Inc. Class A Common Stock","RE/MAX Holdings, Inc. Class A Common Stock",N,RMAX,N,100.0,N,RMAX
 RMBC,Corgi RMBS 2x Daily ETF,Corgi RMBS 2x Daily ETF,Z,RMBC,Y,100.0,N,RMBC
 RMBX,Tradr 2X Long RMBS Daily ETF,Tradr 2X Long RMBS Daily ETF,Z,RMBX,Y,100.0,N,RMBX
 RMCA,Rockefeller California Municipal Bond ETF,Rockefeller California Municipal Bond ETF,P,RMCA,Y,100.0,N,RMCA
@@ -6723,7 +6725,6 @@ TWI,"Titan International, Inc. (DE) Common Stock","Titan International, Inc. (DE
 TWLO,Twilio Inc. Class A Common Stock,Twilio Inc. Class A Common Stock,N,TWLO,N,100.0,N,TWLO
 TWM,ProShares UltraShort Russell2000,ProShares UltraShort Russell2000,P,TWM,Y,100.0,N,TWM
 TWN,"Taiwan Fund, Inc. (The) Common Stock","Taiwan Fund, Inc. (The) Common Stock",N,TWN,N,100.0,N,TWN
-TWO,Two Harbors Investment Corp,Two Harbors Investment Corp,N,TWO,N,100.0,N,TWO
 TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),N,TWOpA,N,100.0,N,TWO-A
 TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpB,N,100.0,N,TWO-B
 TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpC,N,100.0,N,TWO-C
@@ -7503,6 +7504,7 @@ ZCBC,Global X Zero Coupon Bond 2032 ETF,Global X Zero Coupon Bond 2032 ETF,P,ZCB
 ZCBE,Global X Zero Coupon Bond 2033 ETF,Global X Zero Coupon Bond 2033 ETF,P,ZCBE,Y,100.0,N,ZCBE
 ZCBF,Global X Zero Coupon Bond 2034 ETF,Global X Zero Coupon Bond 2034 ETF,P,ZCBF,Y,100.0,N,ZCBF
 ZCBG,Global X Zero Coupon Bond 2035 ETF,Global X Zero Coupon Bond 2035 ETF,P,ZCBG,Y,100.0,N,ZCBG
+ZCSH,The Zcash ETF Shares,The Zcash ETF Shares,P,ZCSH,Y,100.0,N,ZCSH
 ZDEK,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr December,Z,ZDEK,Y,100.0,N,ZDEK
 ZDGE,"Zedge, Inc. Class B Common Stock ","Zedge, Inc. Class B Common Stock ",A,ZDGE,N,100.0,N,ZDGE
 ZDIS,Virtus Zevenbergen Discovery Growth ETF,Virtus Zevenbergen Discovery Growth ETF,P,ZDIS,Y,100.0,N,ZDIS

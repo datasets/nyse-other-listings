@@ -1128,7 +1128,7 @@ GFF,Griffon Corporation Common Stock
 GFI,Gold Fields Limited American Depositary Shares
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value"
 GFR,Greenfire Resources Ltd. Common Shares
-GFR.V,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued"
+GFR.R,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights"
 GGB,Gerdau S.A. Common Stock
 GGG,Graco Inc. Common Stock
 GGT,Gabelli Multi
@@ -2235,7 +2235,6 @@ RLJ$A,RLJ Lodging Trust $1.95 Series A Cumulative Convertible  Preferred Shares
 RLTY,Cohen & Steers Real Estate Opportunities and Income Fund Common Shares of Beneficial Interest
 RLX,"RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class A ordinary share"
 RM,Regional Management Corp. Common Stock
-RMAX,"RE/MAX Holdings, Inc. Class A Common Stock"
 RMD,ResMed Inc. Common Stock
 RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc. Common Stock"
 RMM,"RiverNorth Managed Duration Municipal Income Fund, Inc. Common Stock"
@@ -2645,7 +2644,6 @@ TVE,Tennessee Valley Authority
 TWI,"Titan International, Inc. (DE) Common Stock"
 TWLO,Twilio Inc. Class A Common Stock
 TWN,"Taiwan Fund, Inc. (The) Common Stock"
-TWO,Two Harbors Investment Corp
 TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed
 TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed
 TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed
