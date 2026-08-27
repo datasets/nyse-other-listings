@@ -1,7 +1,9 @@
 ACT Symbol,Company Name
 A,"Agilent Technologies, Inc. Common Stock"
 AA,Alcoa Corporation Common Stock 
+AAC,Ares Acquisition Corporation III Class A Ordinary Shares
 AAC.U,"Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one"
+AAC.W,"Ares Acquisition Corporation III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 AADX,"Applied Aerospace & Defense, Inc. Common Stock"
 AAMI,Acadian Asset Management Inc. Common Stock
 AAP,Advance Auto Parts Inc.
@@ -1536,7 +1538,6 @@ LDI,"loanDepot, Inc. Class A Common Stock"
 LDOS,"Leidos Holdings, Inc. Common Stock"
 LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc."
 LEA,Lear Corporation Common Stock
-LEG,"Leggett & Platt, Incorporated Common Stock"
 LEN,Lennar Corporation Class A Common Stock
 LEN.B,Lennar Corporation Class B
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock"
@@ -1878,7 +1879,6 @@ NSP,"Insperity, Inc. Common Stock"
 NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares
 NTR,Nutrien Ltd. Common Shares
 NTST,NetSTREIT Corp. Common Stock
-NTZ,"Natuzzi, S.p.A."
 NU,Nu Holdings Ltd. Class A Ordinary Shares
 NUE,Nucor Corporation Common Stock
 NUS,"Nu Skin Enterprises, Inc. Common Stock"
@@ -1966,6 +1966,7 @@ OSK,Oshkosh Corporation (Holding Company)Common Stock
 OTAI,Starlink AI Acquisition Corporation Ordinary Shares
 OTAI.R,"Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one"
 OTAI.U,"Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one"
+OTAX,Optimal Tax Managed Equity ETF
 OTF,Blue Owl Technology Finance Corp. Common Stock
 OTIS,Otis Worldwide Corporation Common Stock 
 OUT,OUTFRONT Media Inc. Common Stock
@@ -2305,6 +2306,7 @@ SAR,Saratoga Investment Corp New
 SARO,"StandardAero, Inc. Common Stock"
 SAT,Saratoga Investment Corp 6.00% Notes due 2027
 SAV,Saratoga Investment Corp 7.50% Notes due 2031
+SAX,Saratoga Investment Corp 8.00% Notes due 2031
 SAY,Saratoga Investment Corp 8.125% Notes due 2027
 SAZ,Saratoga Investment Corp 8.50% Notes due 2028
 SB,"Safe Bulkers, Inc Common Stock ($0.001 par value)"
