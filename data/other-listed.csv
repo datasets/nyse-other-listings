@@ -108,6 +108,7 @@ AEF,abrdn Emerging Markets ex,"abrdn Emerging Markets ex-China Fund, Inc. Common
 AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,N,AEFC,N,100.0,N,AEFC
 AEG,Aegon Ltd. New York Registry Shares,Aegon Ltd. New York Registry Shares,N,AEG,N,100.0,N,AEG
 AEHG,Leverage Shares 2X Long AEHR Daily ETF,Leverage Shares 2X Long AEHR Daily ETF,Z,AEHG,Y,100.0,N,AEHG
+AELV,Harbor AlphaEdge Large Cap Value ETF,Harbor AlphaEdge Large Cap Value ETF,P,AELV,Y,100.0,N,AELV
 AEM,Agnico Eagle Mines Limited Common Stock,Agnico Eagle Mines Limited Common Stock,N,AEM,N,100.0,N,AEM
 AEMC,Harbor AlphaEdge Mid Cap Core ETF,Harbor AlphaEdge Mid Cap Core ETF,P,AEMC,Y,100.0,N,AEMC
 AEMG,Harbor AlphaEdge Mid Cap Growth ETF,Harbor AlphaEdge Mid Cap Growth ETF,P,AEMG,Y,100.0,N,AEMG
@@ -366,7 +367,6 @@ ARCX,Tradr 2X Long ACHR Daily ETF,Tradr 2X Long ACHR Daily ETF,Z,ARCX,Y,100.0,N,
 ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common Shares","Ares Dynamic Credit Allocation Fund, Inc. Common Shares",N,ARDC,N,100.0,N,ARDC
 ARDT,"Ardent Health, Inc. Common Stock","Ardent Health, Inc. Common Stock",N,ARDT,N,100.0,N,ARDT
 ARE,"Alexandria Real Estate Equities, Inc. Common Stock","Alexandria Real Estate Equities, Inc. Common Stock",N,ARE,N,100.0,N,ARE
-AREN,"The Arena Group Holdings, Inc. Common Stock","The Arena Group Holdings, Inc. Common Stock",A,AREN,N,100.0,N,AREN
 ARES,Ares Management Corporation Class A Common Stock,Ares Management Corporation Class A Common Stock,N,ARES,N,100.0,N,ARES
 ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,N,ARESpB,N,100.0,N,ARES-B
 ARGT,Global X MSCI Argentina ETF,Global X MSCI Argentina ETF,P,ARGT,Y,100.0,N,ARGT
@@ -2593,6 +2593,7 @@ FRO,Frontline Plc Ordinary Shares,Frontline Plc Ordinary Shares,N,FRO,N,100.0,N,
 FRT,Federal Realty Investment Trust Common Stock,Federal Realty Investment Trust Common Stock,N,FRT,N,100.0,N,FRT
 FRT$C,"Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share","Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share",N,FRTpC,N,100.0,N,FRT-C
 FRTY,Alger Mid Cap 40 ETF,Alger Mid Cap 40 ETF,P,FRTY,Y,100.0,N,FRTY
+FRUT,Yorkville America MANGOS Plus Index ETF,Yorkville America MANGOS Plus Index ETF,P,FRUT,Y,100.0,N,FRUT
 FSCC,Federated Hermes MDT Small Cap Core ETF,Federated Hermes MDT Small Cap Core ETF,P,FSCC,Y,100.0,N,FSCC
 FSCO,FS Credit Opportunities Corp. Common Stock,FS Credit Opportunities Corp. Common Stock,N,FSCO,N,100.0,N,FSCO
 FSEC,Fidelity Investment Grade Securitized ETF,Fidelity Investment Grade Securitized ETF,P,FSEC,Y,100.0,N,FSEC
@@ -4150,7 +4151,6 @@ MAN,ManpowerGroup Common Stock,ManpowerGroup Common Stock,N,MAN,N,100.0,N,MAN
 MANE,"Veradermics, Incorporated Common Stock","Veradermics, Incorporated Common Stock",N,MANE,N,100.0,N,MANE
 MANI,Man Active Income ETF,Man Active Income ETF,P,MANI,Y,100.0,N,MANI
 MANU,Manchester United Ltd. Class A Ordinary Shares,Manchester United Ltd. Class A Ordinary Shares,N,MANU,N,100.0,N,MANU
-MAPP,Harbor Multi,Harbor Multi-Asset Explorer ETF,P,MAPP,Y,100.0,N,MAPP
 MARM,FT Vest U.S. Equity Max Buffer ETF ,FT Vest U.S. Equity Max Buffer ETF - March,Z,MARM,Y,100.0,N,MARM
 MARO,YieldMax MARA Option Income Strategy ETF,YieldMax MARA Option Income Strategy ETF,P,MARO,Y,100.0,N,MARO
 MARS,Roundhill Space & Technology ETF,Roundhill Space & Technology ETF,Z,MARS,Y,100.0,N,MARS
@@ -4159,6 +4159,7 @@ MARU,AllianzIM U.S. Equity Buffer15 Uncapped Mar ETF,AllianzIM U.S. Equity Buffe
 MARW,AllianzIM U.S. Large Cap Buffer20 Mar ETF,AllianzIM U.S. Large Cap Buffer20 Mar ETF,Z,MARW,Y,100.0,N,MARW
 MARZ,TrueShares Structured Outcome (March) ETF,TrueShares Structured Outcome (March) ETF,Z,MARZ,Y,100.0,N,MARZ
 MAS,Masco Corporation Common Stock,Masco Corporation Common Stock,N,MAS,N,100.0,N,MAS
+MATR,Harbor Multi,Harbor Multi-Asset Explorer ETF,P,MATR,Y,100.0,N,MATR
 MATV,"Mativ Holdings, Inc. Common Stock","Mativ Holdings, Inc. Common Stock",N,MATV,N,100.0,N,MATV
 MATX,"Matson, Inc. Common Stock","Matson, Inc. Common Stock",N,MATX,N,100.0,N,MATX
 MAUG,Pacer Swan SOS Moderate (August) ETF,Pacer Swan SOS Moderate (August) ETF,Z,MAUG,Y,100.0,N,MAUG
@@ -4910,7 +4911,6 @@ ONTX,Corgi ONTO 2x Daily ETF,Corgi ONTO 2x Daily ETF,Z,ONTX,Y,100.0,N,ONTX
 ONX,Tradr 2X Long ON Daily ETF,Tradr 2X Long ON Daily ETF,Z,ONX,Y,100.0,N,ONX
 OOMA,"Ooma, Inc. Common Stock","Ooma, Inc. Common Stock",N,OOMA,N,100.0,N,OOMA
 OOSP,Obra Opportunistic Structured Products ETF,Obra Opportunistic Structured Products ETF,P,OOSP,Y,100.0,N,OOSP
-OPAD,Offerpad Solutions Inc. Class A Common Stock,Offerpad Solutions Inc. Class A Common Stock,N,OPAD,N,100.0,N,OPAD
 OPER,ETF ClearShares Ultra,ETF ClearShares Ultra-Short Maturity ETF,P,OPER,Y,100.0,N,OPER
 OPEX,Tradr 2X Long OPEN Daily ETF,Tradr 2X Long OPEN Daily ETF,Z,OPEX,Y,100.0,N,OPEX
 OPFI,OppFi Inc. Class A Common Stock,OppFi Inc. Class A Common Stock,N,OPFI,N,100.0,N,OPFI
@@ -4972,6 +4972,7 @@ OXY.W,Occidental Petroleum Corporation Warrants ,Occidental Petroleum Corporatio
 OZ,"Belpointe PREP, LLC Class A Units","Belpointe PREP, LLC Class A Units",A,OZ,N,100.0,N,OZ
 P,"Everpure, Inc. Class A common stock","Everpure, Inc. Class A common stock",N,P,N,100.0,N,P
 PAAA,PGIM AAA CLO ETF,PGIM AAA CLO ETF,P,PAAA,Y,100.0,N,PAAA
+PAAI,"Paradium.AI, Inc. Common Stock","Paradium.AI, Inc. Common Stock",A,PAAI,N,100.0,N,PAAI
 PAAS,Pan American Silver Corp. Common Stock,Pan American Silver Corp. Common Stock,N,PAAS,N,100.0,N,PAAS
 PAB,PGIM Active Aggregate Bond ETF,PGIM Active Aggregate Bond ETF,P,PAB,Y,100.0,N,PAB
 PAC,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)","Grupo Aeroportuario Del Pacifico, S.A. B. de C.V. Grupo Aeroportuario Del Pacifico, S.A. de C.V. (each representing 10 Series B shares)",N,PAC,N,100.0,N,PAC
@@ -5415,7 +5416,7 @@ QDEF,Northern Trust Quality Dividend Defensive ETF,Northern Trust Quality Divide
 QDF,Northern Trust Quality Dividend ETF,Northern Trust Quality Dividend ETF,P,QDF,Y,100.0,N,QDF
 QDIV,Global X S&P 500 Quality Dividend ETF,Global X S&P 500 Quality Dividend ETF,P,QDIV,Y,100.0,N,QDIV
 QDPL,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,P,QDPL,Y,100.0,N,QDPL
-QDTE,Roundhill Innovation,Roundhill Innovation-100 0DTE Covered Call Strategy ETF,Z,QDTE,Y,100.0,N,QDTE
+QDTE,Roundhill Nasdaq,Roundhill Nasdaq-100 0DTE Covered Call ETF Strategy ETF,Z,QDTE,Y,100.0,N,QDTE
 QDVO,Amplify CWP Growth & Income ETF,Amplify CWP Growth & Income ETF,P,QDVO,Y,100.0,N,QDVO
 QEFA,State Street SPDR MSCI EAFE StrategicFactors ETF,State Street SPDR MSCI EAFE StrategicFactors ETF,P,QEFA,Y,100.0,N,QEFA
 QEMM,State Street SPDR MSCI Emerging Markets StrategicFactors ETF,State Street SPDR MSCI Emerging Markets StrategicFactors ETF,P,QEMM,Y,100.0,N,QEMM
@@ -5791,7 +5792,9 @@ SAH,"Sonic Automotive, Inc. Common Stock","Sonic Automotive, Inc. Common Stock",
 SAJ,Saratoga Investment Corp 8.00% Notes due 2027,Saratoga Investment Corp 8.00% Notes due 2027,N,SAJ,N,100.0,N,SAJ
 SAM,"Boston Beer Company, Inc. (The) Common Stock","Boston Beer Company, Inc. (The) Common Stock",N,SAM,N,100.0,N,SAM
 SAMM,Strategas Macro Momentum ETF,Strategas Macro Momentum ETF,P,SAMM,Y,100.0,N,SAMM
+SAMO,Samos Energy Acquisition Corporation Class A Ordinary Shares,Samos Energy Acquisition Corporation Class A Ordinary Shares,N,SAMO,N,100.0,N,SAMO
 SAMO.U,"Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one","Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",N,SAMO.U,N,100.0,N,SAMO=
+SAMO.W,"Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,SAMO.WS,N,100.0,N,SAMO+
 SAMT,Strategas Macro Thematic Opportunities ETF,Strategas Macro Thematic Opportunities ETF,P,SAMT,Y,100.0,N,SAMT
 SAN,"Banco Santander, S.A. Sponsored ADR (Spain)","Banco Santander, S.A. Sponsored ADR (Spain)",N,SAN,N,100.0,N,SAN
 SAP,SAP  SE ADS,SAP  SE ADS,N,SAP,N,100.0,N,SAP
@@ -7039,7 +7042,6 @@ VIXM,VIX Mid,VIX Mid-Term Futures ETF,Z,VIXM,Y,100.0,N,VIXM
 VIXY,VIX Short,VIX Short-Term Futures ETF,Z,VIXY,Y,100.0,N,VIXY
 VKI,Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),A,VKI,N,100.0,N,VKI
 VKQ,Invesco Municipal Trust Common Stock,Invesco Municipal Trust Common Stock,N,VKQ,N,100.0,N,VKQ
-VLLU,Harbor AlphaEdge Large Cap Value ETF,Harbor AlphaEdge Large Cap Value ETF,P,VLLU,Y,100.0,N,VLLU
 VLN,Valens Semiconductor Ltd. Ordinary Shares,Valens Semiconductor Ltd. Ordinary Shares,N,VLN,N,100.0,N,VLN
 VLO,Valero Energy Corporation Common Stock,Valero Energy Corporation Common Stock,N,VLO,N,100.0,N,VLO
 VLRS,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates","Controladora Vuela Compania de Aviacion, S.A.B. de C.V. American Depositary Shares, each representing ten (10) Ordinary Participation Certificates",N,VLRS,N,100.0,N,VLRS
