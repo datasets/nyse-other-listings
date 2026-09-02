@@ -146,6 +146,7 @@ AGCO,AGCO Corporation Common Stock,AGCO Corporation Common Stock,N,AGCO,N,100.0,
 AGD,abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest,abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest,N,AGD,N,100.0,N,AGD
 AGG,iShares Core U.S. Aggregate Bond ETF,iShares Core U.S. Aggregate Bond ETF,P,AGG,Y,100.0,N,AGG
 AGGH,Simplify Aggregate Bond ETF,Simplify Aggregate Bond ETF,P,AGGH,Y,100.0,N,AGGH
+AGGM,iShares 1,iShares 1-10 Year U.S. Aggregate Bond ETF,P,AGGM,Y,100.0,N,AGGM
 AGGS,Harbor Disciplined Bond ETF,Harbor Disciplined Bond ETF,P,AGGS,Y,100.0,N,AGGS
 AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,P,AGGY,Y,100.0,N,AGGY
 AGI,Alamos Gold Inc. Class A Common Shares,Alamos Gold Inc. Class A Common Shares,N,AGI,N,100.0,N,AGI
@@ -2706,7 +2707,6 @@ GAU,Galiano Gold Inc.,Galiano Gold Inc.,A,GAU,N,100.0,N,GAU
 GAUG,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - August,Z,GAUG,Y,100.0,N,GAUG
 GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust Common Shares of Beneficial Interest,N,GBAB,N,100.0,N,GBAB
 GBCI,"Glacier Bancorp, Inc. Common Stock","Glacier Bancorp, Inc. Common Stock",N,GBCI,N,100.0,N,GBCI
-GBF,iShares Government/Credit Bond ETF,iShares Government/Credit Bond ETF,P,GBF,Y,100.0,N,GBF
 GBHI,Gabelli High Income ETF,Gabelli High Income ETF,P,GBHI,Y,100.0,N,GBHI
 GBIL,Goldman Sachs Access Treasury 0,Goldman Sachs Access Treasury 0-1 Year ETF,P,GBIL,Y,100.0,N,GBIL
 GBND,Goldman Sachs Core Bond ETF,Goldman Sachs Core Bond ETF,P,GBND,Y,100.0,N,GBND
@@ -3199,6 +3199,7 @@ HWM,Howmet Aerospace Inc. Common Stock,Howmet Aerospace Inc. Common Stock,N,HWM,
 HXA,Mast HedgeIndex Corporate Arbitrage ETF,Mast HedgeIndex Corporate Arbitrage ETF,P,HXA,Y,100.0,N,HXA
 HXC,Mast HedgeIndex Strategic Commodities ETF,Mast HedgeIndex Strategic Commodities ETF,P,HXC,Y,100.0,N,HXC
 HXE,Mast HedgeIndex Adaptive Equities ETF,Mast HedgeIndex Adaptive Equities ETF,P,HXE,Y,100.0,N,HXE
+HXF,Mast HedgeIndex Managed Futures Strategy ETF,Mast HedgeIndex Managed Futures Strategy ETF,P,HXF,Y,100.0,N,HXF
 HXL,Hexcel Corporation Common Stock,Hexcel Corporation Common Stock,N,HXL,N,100.0,N,HXL
 HY,Hyster,"Hyster-Yale, Inc. Class A common stock",N,HY,N,100.0,N,HY
 HYBB,iShares BB Rated Corporate Bond ETF,iShares BB Rated Corporate Bond ETF,P,HYBB,Y,100.0,N,HYBB
@@ -4507,7 +4508,7 @@ MUZ,Defiance Daily Target 2X Short MU ETF,Defiance Daily Target 2X Short MU ETF,
 MVAL,VanEck Morningstar Wide Moat Value ETF,VanEck Morningstar Wide Moat Value ETF,Z,MVAL,Y,100.0,N,MVAL
 MVFD,Monarch Volume Factor Dividend Tree Index ETF,Monarch Volume Factor Dividend Tree Index ETF,Z,MVFD,Y,100.0,N,MVFD
 MVFG,Monarch Volume Factor Global Unconstrained Index ETF,Monarch Volume Factor Global Unconstrained Index ETF,Z,MVFG,Y,100.0,N,MVFG
-MVPA,Miller Value Partners Appreciation ETF,Miller Value Partners Appreciation ETF,P,MVPA,Y,100.0,N,MVPA
+MVPA,Miller Value Partners Appreciation ETF,Miller Value Partners Appreciation ETF,N,MVPA,Y,100.0,N,MVPA
 MVPL,Miller Value Partners Leverage ETF,Miller Value Partners Leverage ETF,P,MVPL,Y,100.0,N,MVPL
 MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,P,MVRL,Y,100.0,N,MVRL
 MVV,ProShares Ultra MidCap400,ProShares Ultra MidCap400,P,MVV,Y,100.0,N,MVV
@@ -7548,7 +7549,7 @@ ZMAR,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protectio
 ZMAY,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr May,Z,ZMAY,Y,100.0,N,ZMAY
 ZNOV,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr November,Z,ZNOV,Y,100.0,N,ZNOV
 ZOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr October,Z,ZOCT,Y,100.0,N,ZOCT
-ZONE,CleanCore Solutions Inc. Class B Common Stock,CleanCore Solutions Inc. Class B Common Stock,A,ZONE,N,100.0,N,ZONE
+ZONE,Zone Frontier Inc. Class B Common Stock,Zone Frontier Inc. Class B Common Stock,A,ZONE,N,100.0,N,ZONE
 ZROZ,PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange,PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,P,ZROZ,Y,100.0,N,ZROZ
 ZSB,USCF Sustainable Battery Metals Strategy Fund,USCF Sustainable Battery Metals Strategy Fund,P,ZSB,Y,100.0,N,ZSB
 ZSC,USCF Sustainable Commodity Strategy Fund,USCF Sustainable Commodity Strategy Fund,P,ZSC,Y,100.0,N,ZSC
