@@ -1746,6 +1746,7 @@ DIV,Global X Super Dividend ETF,Global X Super Dividend ETF,P,DIV,Y,100.0,N,DIV
 DIVB,iShares Core Dividend ETF,iShares Core Dividend ETF,Z,DIVB,Y,100.0,N,DIVB
 DIVE,Dana Concentrated Dividend ETF,Dana Concentrated Dividend ETF,P,DIVE,Y,100.0,N,DIVE
 DIVG,Invesco S&P 500 High Dividend Growers ETF,Invesco S&P 500 High Dividend Growers ETF,P,DIVG,Y,100.0,N,DIVG
+DIVH,Integrity Dividend Harvest ETF,Integrity Dividend Harvest ETF,P,DIVH,Y,100.0,N,DIVH
 DIVI,Franklin International Core Dividend Tilt Index ETF,Franklin International Core Dividend Tilt Index ETF,P,DIVI,Y,100.0,N,DIVI
 DIVL,Madison Dividend Value ETF,Madison Dividend Value ETF,P,DIVL,Y,100.0,N,DIVL
 DIVN,Horizon Dividend Income ETF,Horizon Dividend Income ETF,Z,DIVN,Y,100.0,N,DIVN
@@ -3129,7 +3130,6 @@ HLIO,"Helios Technologies, Inc. Common Stock","Helios Technologies, Inc. Common 
 HLLY,Holley Inc. Common Stock,Holley Inc. Common Stock,N,HLLY,N,100.0,N,HLLY
 HLN,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),Haleon plc American Depositary Shares (Each representing two Ordinary Shares),N,HLN,N,100.0,N,HLN
 HLT,Hilton Worldwide Holdings Inc. Common Stock ,Hilton Worldwide Holdings Inc. Common Stock ,N,HLT,N,40.0,N,HLT
-HLX,"Helix Energy Solutions Group, Inc. Common Stock","Helix Energy Solutions Group, Inc. Common Stock",N,HLX,N,100.0,N,HLX
 HMAY,Corgi U.S. Equities 100% Structured Buffer ETF ,Corgi U.S. Equities 100% Structured Buffer ETF - May Series,Z,HMAY,Y,100.0,N,HMAY
 HMC,"Honda Motor Company, Ltd. Common Stock","Honda Motor Company, Ltd. Common Stock",N,HMC,N,100.0,N,HMC
 HMN,Horace Mann Educators Corporation Common Stock,Horace Mann Educators Corporation Common Stock,N,HMN,N,100.0,N,HMN
@@ -3147,6 +3147,7 @@ HONG,Leverage Shares 2X Long HON Daily ETF,Leverage Shares 2X Long HON Daily ETF
 HOOC,Corgi HOOD 2x Daily ETF,Corgi HOOD 2x Daily ETF,Z,HOOC,Y,100.0,N,HOOC
 HOOW,Roundhill HOOD WeeklyPay ETF,Roundhill HOOD WeeklyPay ETF,Z,HOOW,Y,100.0,N,HOOW
 HOOY,YieldMax HOOD Option Income Strategy ETF,YieldMax HOOD Option Income Strategy ETF,P,HOOY,Y,100.0,N,HOOY
+HOS,"Hornbeck Offshore Services, Inc. Common Stock","Hornbeck Offshore Services, Inc. Common Stock",N,HOS,N,100.0,N,HOS
 HOV,"Hovnanian Enterprises, Inc. Class A Common Stock","Hovnanian Enterprises, Inc. Class A Common Stock",N,HOV,N,100.0,N,HOV
 HP,"Helmerich & Payne, Inc. Common Stock","Helmerich & Payne, Inc. Common Stock",N,HP,N,100.0,N,HP
 HPE,Hewlett Packard Enterprise Company Common Stock,Hewlett Packard Enterprise Company Common Stock,N,HPE,N,100.0,N,HPE
@@ -6035,6 +6036,7 @@ SKF,ProShares UltraShort Financials,ProShares UltraShort Financials,P,SKF,Y,100.
 SKHA,Tradr 2X Long SK hynix Daily ETF,Tradr 2X Long SK hynix Daily ETF,Z,SKHA,Y,100.0,N,SKHA
 SKHL,Direxion Daily SK Hynix Bull 2X ETF,Direxion Daily SK Hynix Bull 2X ETF,P,SKHL,Y,100.0,N,SKHL
 SKHN,Tradr 2X Short SK hynix Daily ETF,Tradr 2X Short SK hynix Daily ETF,Z,SKHN,Y,100.0,N,SKHN
+SKHQ,Leverage Shares 2X Short Sk Hynix Daily ETF,Leverage Shares 2X Short Sk Hynix Daily ETF,Z,SKHQ,Y,100.0,N,SKHQ
 SKHU,ProShares Ultra SK hynix,ProShares Ultra SK hynix,P,SKHU,Y,100.0,N,SKHU
 SKHX,Leverage Shares 2X Long SK Hynix Daily ETF,Leverage Shares 2X Long SK Hynix Daily ETF,Z,SKHX,Y,100.0,N,SKHX
 SKHZ,Leverage Shares 1X Short SK Hynix Daily ETF,Leverage Shares 1X Short SK Hynix Daily ETF,Z,SKHZ,Y,100.0,N,SKHZ
@@ -6789,6 +6791,7 @@ UBR,ProShares Ultra MSCI Brazil Capped,ProShares Ultra MSCI Brazil Capped,P,UBR,
 UBS,UBS Group AG Registered Ordinary Shares,UBS Group AG Registered Ordinary Shares,N,UBS,N,100.0,N,UBS
 UBT,ProShares Ultra 20+ Year Treasury,ProShares Ultra 20+ Year Treasury,P,UBT,Y,100.0,N,UBT
 UCB,"United Community Banks, Inc. Common Stock","United Community Banks, Inc. Common Stock",N,UCB,N,100.0,N,UCB
+UCBG,State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF,State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF,P,UCBG,Y,100.0,N,UCBG
 UCC,ProShares Ultra Consumer Discretionary,ProShares Ultra Consumer Discretionary,P,UCC,Y,100.0,N,UCC
 UCIB,"ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038","ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5, 2038",P,UCIB,N,100.0,N,UCIB
 UCO,ProShares Ultra Bloomberg Crude Oil,ProShares Ultra Bloomberg Crude Oil,P,UCO,Y,100.0,N,UCO
@@ -7076,6 +7079,7 @@ VOE,Vanguard Morningstar Mid,Vanguard Morningstar Mid-Cap Value ETF,P,VOE,Y,100.
 VOO,Vanguard S&P 500 ETF,Vanguard S&P 500 ETF,P,VOO,Y,40.0,N,VOO
 VOOG,Vanguard S&P 500 Growth ETF,Vanguard S&P 500 Growth ETF,P,VOOG,Y,40.0,N,VOOG
 VOOV,Vanguard S&P 500 Value ETF,Vanguard S&P 500 Value ETF,P,VOOV,Y,100.0,N,VOOV
+VOOY,XFUNDS Large Cap Income ETF,XFUNDS Large Cap Income ETF,P,VOOY,Y,100.0,N,VOOY
 VOT,Vanguard Morningstar Mid,Vanguard Morningstar Mid-Cap Growth ETF,P,VOT,Y,40.0,N,VOT
 VOX,Vanguard Communication Services  ETF,Vanguard Communication Services  ETF,P,VOX,Y,100.0,N,VOX
 VOXP,Vox Populi ETF,Vox Populi ETF,Z,VOXP,Y,100.0,N,VOXP
