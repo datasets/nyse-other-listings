@@ -5165,6 +5165,7 @@ PJFM,PGIM Jennison Focused Mid,PGIM Jennison Focused Mid-Cap ETF,Z,PJFM,Y,100.0,
 PJFV,PGIM Jennison Focused Value ETF,PGIM Jennison Focused Value ETF,P,PJFV,Y,100.0,N,PJFV
 PJIO,PGIM Jennison Focused International Equity ETF,PGIM Jennison Focused International Equity ETF,P,PJIO,Y,100.0,N,PJIO
 PJP,Invesco Pharmaceuticals ETF,Invesco Pharmaceuticals ETF,P,PJP,Y,100.0,N,PJP
+PJSM,PGIM Jennison Small,PGIM Jennison Small-Mid Cap Core Equity ETF,P,PJSM,Y,100.0,N,PJSM
 PJT,PJT Partners Inc. Class A Common Stock,PJT Partners Inc. Class A Common Stock,N,PJT,N,100.0,N,PJT
 PJUL,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - July,Z,PJUL,Y,100.0,N,PJUL
 PJUN,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - June,Z,PJUN,Y,100.0,N,PJUN
@@ -5288,7 +5289,6 @@ PRT,PermRock Royalty Trust Units of Beneficial Interest,PermRock Royalty Trust U
 PRTO,RCN Pareto Strategic Allocation ETF,RCN Pareto Strategic Allocation ETF,P,PRTO,Y,100.0,N,PRTO
 PRU,"Prudential Financial, Inc. Common Stock","Prudential Financial, Inc. Common Stock",N,PRU,N,100.0,N,PRU
 PRVS,Parnassus Value Select ETF,Parnassus Value Select ETF,N,PRVS,Y,100.0,N,PRVS
-PRVT,Tema Alternative Asset Managers ETF,Tema Alternative Asset Managers ETF,Z,PRVT,Y,100.0,N,PRVT
 PRXG,Praxis Impact Large Cap Growth ETF,Praxis Impact Large Cap Growth ETF,P,PRXG,Y,100.0,N,PRXG
 PRXI,Praxis Impact International ETF,Praxis Impact International ETF,P,PRXI,Y,100.0,N,PRXI
 PRXV,Praxis Impact Large Cap Value ETF,Praxis Impact Large Cap Value ETF,P,PRXV,Y,100.0,N,PRXV
@@ -6694,6 +6694,7 @@ TRV,"The Travelers Companies, Inc. Common Stock","The Travelers Companies, Inc. 
 TRX,TRX Gold Corporation Common Stock,TRX Gold Corporation Common Stock,A,TRX,N,100.0,N,TRX
 TS,Tenaris S.A. American Depositary Shares,Tenaris S.A. American Depositary Shares,N,TS,N,100.0,N,TS
 TSCV,Thrivent Small Cap Value ETF,Thrivent Small Cap Value ETF,P,TSCV,Y,100.0,N,TSCV
+TSCZ,T. Rowe Price Securitized Income ETF,T. Rowe Price Securitized Income ETF,P,TSCZ,Y,100.0,N,TSCZ
 TSEC,Touchstone Securitized Income ETF,Touchstone Securitized Income ETF,P,TSEC,Y,100.0,N,TSEC
 TSEG,Leverage Shares 2X Long TSEM Daily ETF,Leverage Shares 2X Long TSEM Daily ETF,Z,TSEG,Y,100.0,N,TSEG
 TSEP,FT Vest Emerging Market Buffer ETF ,FT Vest Emerging Market Buffer ETF - September,Z,TSEP,Y,100.0,N,TSEP
