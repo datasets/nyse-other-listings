@@ -1838,6 +1838,7 @@ NLY$J,Annaly Capital Management Inc. 8.875% Series J Fixed
 NMAI,Nuveen Multi
 NMAX,"Newsmax, Inc. Class B Common Stock"
 NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares
+NMCO.V,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued"
 NMG,Nouveau Monde Graphite Inc. Common Shares
 NMI,"Nuveen Municipal Income Fund, Inc. Common Stock"
 NMM,Navios Maritime Partners LP Common Units Representing Limited Partner Interests
@@ -2227,7 +2228,7 @@ RITM$E,Rithm Capital Corp. 8.75% Series E Fixed
 RITM$F,Rithm Capital Corp. 8.750% Series F Fixed
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock"
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock"
-RIV.V,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued"
+RIV.R,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights"
 RJF,"Raymond James Financial, Inc. Common Stock"
 RKT,"Rocket Companies, Inc. Class A Common Stock"
 RL,Ralph Lauren Corporation Common Stock
@@ -2887,6 +2888,7 @@ XPRO,Expro Ltd Ordinary Shares
 XRN,Chiron Real Estate Inc. Common Stock
 XRN$A,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock
 XRN$B,"Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share"
+XTND,"Xtend AI Robotics, Inc. Common Stock"
 XXI,"Twenty One Capital, Inc. Class A Common Stock"
 XYF,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares"
 XYL,Xylem Inc. Common Stock New

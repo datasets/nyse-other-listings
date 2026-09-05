@@ -1227,7 +1227,7 @@ CIFU,T,T-REX 2X Long CIFR Daily Target ETF,Z,CIFU,Y,100.0,N,CIFU
 CIG,Comp En De Mn Cemig ADS American Depositary Shares,Comp En De Mn Cemig ADS American Depositary Shares,N,CIG,N,100.0,N,CIG
 CIG.C,Comp En De Mn Cemig ADS American Depositary Receipts,Comp En De Mn Cemig ADS American Depositary Receipts,N,CIG.C,N,100.0,N,CIG.C
 CII,"BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock","BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock",N,CII,N,100.0,N,CII
-CIK,"Credit Suisse Asset Management Income Fund, Inc. Common Stock","Credit Suisse Asset Management Income Fund, Inc. Common Stock",A,CIK,N,100.0,N,CIK
+CIK,"UBS Asset Management Income Fund, Inc. Common Stock","UBS Asset Management Income Fund, Inc. Common Stock",A,CIK,N,100.0,N,CIK
 CIM,Chimera Investment Corporation Common Stock,Chimera Investment Corporation Common Stock,N,CIM,N,100.0,N,CIM
 CIM$A,Chimera Investment Corporation 8.00% Series A Cumulative Redeemable Preferred Stock,Chimera Investment Corporation 8.00% Series A Cumulative Redeemable Preferred Stock,N,CIMpA,N,100.0,N,CIM-A
 CIM$B,Chimera Investment Corporation 8.00% Series B Fixed,Chimera Investment Corporation 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,CIMpB,N,100.0,N,CIM-B
@@ -1726,7 +1726,7 @@ DHS,WisdomTree U.S. High Dividend Fund,WisdomTree U.S. High Dividend Fund,P,DHS,
 DHSB,Day Hagan Smart Buffer ETF,Day Hagan Smart Buffer ETF,P,DHSB,Y,100.0,N,DHSB
 DHT,"DHT Holdings, Inc.","DHT Holdings, Inc.",N,DHT,N,100.0,N,DHT
 DHX,"DHI Group, Inc. Common Stock","DHI Group, Inc. Common Stock",N,DHX,N,100.0,N,DHX
-DHY,Credit Suisse High Yield Credit Fund Common Stock,Credit Suisse High Yield Credit Fund Common Stock,A,DHY,N,100.0,N,DHY
+DHY,UBS Asset Management High Yield Credit Fund Common Stock,UBS Asset Management High Yield Credit Fund Common Stock,A,DHY,N,100.0,N,DHY
 DIA,State Street SPDR Dow Jones Industrial Average ETF Trust,State Street SPDR Dow Jones Industrial Average ETF Trust,P,DIA,Y,40.0,N,DIA
 DIAL,Columbia Diversified Fixed Income Allocation ETF,Columbia Diversified Fixed Income Allocation ETF,P,DIAL,Y,100.0,N,DIAL
 DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,Franklin Emerging Market Core Dividend Tilt Index ETF,P,DIEM,Y,100.0,N,DIEM
@@ -4666,6 +4666,7 @@ NMAY,Innovator Growth,Innovator Growth-100 Power Buffer ETF - May,Z,NMAY,Y,100.0
 NMB,Simplify National Muni Bond ETF,Simplify National Muni Bond ETF,P,NMB,Y,100.0,N,NMB
 NMBL,NovaTide Flexible Allocation ETF,NovaTide Flexible Allocation ETF,P,NMBL,Y,100.0,N,NMBL
 NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,Nuveen Municipal Credit Opportunities Fund Common Shares,N,NMCO,N,100.0,N,NMCO
+NMCO.V,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued","Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",N,NMCOrw,N,100.0,N,NMCO^#
 NMG,Nouveau Monde Graphite Inc. Common Shares,Nouveau Monde Graphite Inc. Common Shares,N,NMG,N,100.0,N,NMG
 NMI,"Nuveen Municipal Income Fund, Inc. Common Stock","Nuveen Municipal Income Fund, Inc. Common Stock",N,NMI,N,100.0,N,NMI
 NML,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,A,NML,N,100.0,N,NML
@@ -5163,6 +5164,7 @@ PJAN,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer 
 PJFG,PGIM Jennison Focused Growth ETF,PGIM Jennison Focused Growth ETF,P,PJFG,Y,100.0,N,PJFG
 PJFM,PGIM Jennison Focused Mid,PGIM Jennison Focused Mid-Cap ETF,Z,PJFM,Y,100.0,N,PJFM
 PJFV,PGIM Jennison Focused Value ETF,PGIM Jennison Focused Value ETF,P,PJFV,Y,100.0,N,PJFV
+PJIN,PGIM Jennison International Core Equity ETF,PGIM Jennison International Core Equity ETF,P,PJIN,Y,100.0,N,PJIN
 PJIO,PGIM Jennison Focused International Equity ETF,PGIM Jennison Focused International Equity ETF,P,PJIO,Y,100.0,N,PJIO
 PJP,Invesco Pharmaceuticals ETF,Invesco Pharmaceuticals ETF,P,PJP,Y,100.0,N,PJP
 PJSM,PGIM Jennison Small,PGIM Jennison Small-Mid Cap Core Equity ETF,P,PJSM,Y,100.0,N,PJSM
@@ -5625,7 +5627,7 @@ RITM$E,Rithm Capital Corp. 8.75% Series E Fixed,Rithm Capital Corp. 8.75% Series
 RITM$F,Rithm Capital Corp. 8.750% Series F Fixed,Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,RITMpF,N,100.0,N,RITM-F
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities Fund, Inc. Common Stock",N,RIV,N,100.0,N,RIV
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
-RIV.V,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued","RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",N,RIVrw,N,100.0,N,RIV^#
+RIV.R,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights","RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",N,RIVr,N,100.0,N,RIV^
 RIVC,Corgi RIVN 2x Daily ETF,Corgi RIVN 2x Daily ETF,Z,RIVC,Y,100.0,N,RIVC
 RIZE,Principal Inflation Protection ETF,Principal Inflation Protection ETF,Z,RIZE,Y,100.0,N,RIZE
 RJCA,RJ ClariVest Capital Appreciation ETF,RJ ClariVest Capital Appreciation ETF,P,RJCA,Y,100.0,N,RJCA
@@ -7450,6 +7452,7 @@ XTJA,Innovator U.S. Equity Accelerated Plus ETF ,Innovator U.S. Equity Accelerat
 XTJL,Innovator U.S. Equity Accelerated Plus ETF ,Innovator U.S. Equity Accelerated Plus ETF - July,Z,XTJL,Y,100.0,N,XTJL
 XTL,State Street SPDR S&P Telecom ETF,State Street SPDR S&P Telecom ETF,P,XTL,Y,100.0,N,XTL
 XTN,State Street SPDR S&P Transportation ETF,State Street SPDR S&P Transportation ETF,P,XTN,Y,100.0,N,XTN
+XTND,"Xtend AI Robotics, Inc. Common Stock","Xtend AI Robotics, Inc. Common Stock",N,XTND,N,100.0,N,XTND
 XTNT,"Xtant Medical Holdings, Inc. Common Stock","Xtant Medical Holdings, Inc. Common Stock",A,XTNT,N,100.0,N,XTNT
 XTOC,Innovator U.S. Equity Accelerated Plus ETF ,Innovator U.S. Equity Accelerated Plus ETF - October,Z,XTOC,Y,100.0,N,XTOC
 XTR,Global X S&P 500 Tail Risk ETF,Global X S&P 500 Tail Risk ETF,P,XTR,Y,100.0,N,XTR
