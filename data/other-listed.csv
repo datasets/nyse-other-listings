@@ -1730,6 +1730,7 @@ DHX,"DHI Group, Inc. Common Stock","DHI Group, Inc. Common Stock",N,DHX,N,100.0,
 DHY,UBS Asset Management High Yield Credit Fund Common Stock,UBS Asset Management High Yield Credit Fund Common Stock,A,DHY,N,100.0,N,DHY
 DIA,State Street SPDR Dow Jones Industrial Average ETF Trust,State Street SPDR Dow Jones Industrial Average ETF Trust,P,DIA,Y,40.0,N,DIA
 DIAL,Columbia Diversified Fixed Income Allocation ETF,Columbia Diversified Fixed Income Allocation ETF,P,DIAL,Y,100.0,N,DIAL
+DICE,Tema Trading & Prediction Markets ETF,Tema Trading & Prediction Markets ETF,Z,DICE,Y,100.0,N,DICE
 DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,Franklin Emerging Market Core Dividend Tilt Index ETF,P,DIEM,Y,100.0,N,DIEM
 DIG,ProShares Ultra Energy,ProShares Ultra Energy,P,DIG,Y,100.0,N,DIG
 DIHP,Dimensional International High Profitability ETF,Dimensional International High Profitability ETF,Z,DIHP,Y,100.0,N,DIHP
@@ -3788,6 +3789,7 @@ KAMO,Kensington Credit Opportunities ETF,Kensington Credit Opportunities ETF,Z,K
 KAPA,"Kairos Pharma, Ltd. Common Stock","Kairos Pharma, Ltd. Common Stock",A,KAPA,N,100.0,N,KAPA
 KAPR,Innovator U.S. Small Cap Power Buffer ETF ,Innovator U.S. Small Cap Power Buffer ETF - April,Z,KAPR,Y,100.0,N,KAPR
 KARS,KraneShares Electric Vehicles and Future Mobility Index ETF,KraneShares Electric Vehicles and Future Mobility Index ETF,P,KARS,Y,100.0,N,KARS
+KATT,T,T-REX 2X Long PURR Daily Target ETF,Z,KATT,Y,100.0,N,KATT
 KAUG,Innovator US Small Cap Power Buffer ETF ,Innovator US Small Cap Power Buffer ETF - August,Z,KAUG,Y,100.0,N,KAUG
 KB,KB Financial Group Inc,KB Financial Group Inc,N,KB,N,100.0,N,KB
 KBA,KraneShares Bosera MSCI China A 50 Connect Index ETF,KraneShares Bosera MSCI China A 50 Connect Index ETF,P,KBA,Y,100.0,N,KBA
@@ -5135,7 +5137,7 @@ PH,Parker,Parker-Hannifin Corporation Common Stock,N,PH,N,40.0,N,PH
 PHDG,Invesco S&P 500 Downside Hedged ETF,Invesco S&P 500 Downside Hedged ETF,P,PHDG,Y,100.0,N,PHDG
 PHEQ,Parametric Hedged Equity ETF,Parametric Hedged Equity ETF,P,PHEQ,Y,100.0,N,PHEQ
 PHG,Koninklijke Philips N.V. NY Registry Shares,Koninklijke Philips N.V. NY Registry Shares,N,PHG,N,100.0,N,PHG
-PHGE,BiomX Inc. COmmon Stock,BiomX Inc. COmmon Stock,A,PHGE,N,100.0,N,PHGE
+PHGE,BiomX Inc. Common Stock,BiomX Inc. Common Stock,A,PHGE,N,100.0,N,PHGE
 PHI,PLDT Inc. Sponsored ADR,PLDT Inc. Sponsored ADR,N,PHI,N,100.0,N,PHI
 PHIN,PHINIA Inc. Common Stock,PHINIA Inc. Common Stock,N,PHIN,N,100.0,N,PHIN
 PHK,Pimco High Income Fund,Pimco High Income Fund,N,PHK,N,100.0,N,PHK
@@ -6695,6 +6697,7 @@ TRTY,Cambria Trinity ETF,Cambria Trinity ETF,Z,TRTY,Y,100.0,N,TRTY
 TRU,TransUnion Common Stock,TransUnion Common Stock,N,TRU,N,100.0,N,TRU
 TRV,"The Travelers Companies, Inc. Common Stock","The Travelers Companies, Inc. Common Stock",N,TRV,N,40.0,N,TRV
 TRX,TRX Gold Corporation Common Stock,TRX Gold Corporation Common Stock,A,TRX,N,100.0,N,TRX
+TRXS,Canary Staked TRX ETF,Canary Staked TRX ETF,Z,TRXS,Y,100.0,N,TRXS
 TS,Tenaris S.A. American Depositary Shares,Tenaris S.A. American Depositary Shares,N,TS,N,100.0,N,TS
 TSCV,Thrivent Small Cap Value ETF,Thrivent Small Cap Value ETF,P,TSCV,Y,100.0,N,TSCV
 TSCZ,T. Rowe Price Securitized Income ETF,T. Rowe Price Securitized Income ETF,P,TSCZ,Y,100.0,N,TSCZ
