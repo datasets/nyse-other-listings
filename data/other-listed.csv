@@ -4251,10 +4251,12 @@ MFEM,PIMCO RAFI Dynamic Multi,PIMCO RAFI Dynamic Multi-Factor Emerging Markets E
 MFG,"Mizuho Financial Group, Inc. Sponosred ADR (Japan)","Mizuho Financial Group, Inc. Sponosred ADR (Japan)",N,MFG,N,100.0,N,MFG
 MFM,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest,N,MFM,N,100.0,N,MFM
 MFSB,MFS Active Core Plus Bond ETF,MFS Active Core Plus Bond ETF,N,MFSB,Y,100.0,N,MFSB
+MFSD,MFS Active Short Duration Income ETF,MFS Active Short Duration Income ETF,P,MFSD,Y,100.0,N,MFSD
 MFSG,MFS Active Growth ETF,MFS Active Growth ETF,N,MFSG,Y,100.0,N,MFSG
 MFSI,MFS Active International ETF,MFS Active International ETF,N,MFSI,Y,100.0,N,MFSI
 MFSM,MFS Active Intermediate Muni Bond ETF,MFS Active Intermediate Muni Bond ETF,N,MFSM,Y,100.0,N,MFSM
 MFSV,MFS Active Value ETF,MFS Active Value ETF,N,MFSV,Y,100.0,N,MFSV
+MFSX,MFS Active Short Muni Bond ETF,MFS Active Short Muni Bond ETF,P,MFSX,Y,100.0,N,MFSX
 MFUL,Mindful Conservative ETF,Mindful Conservative ETF,Z,MFUL,Y,100.0,N,MFUL
 MFUS,PIMCO RAFI Dynamic Multi,PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF,P,MFUS,Y,100.0,N,MFUS
 MFUT,Cambria Chesapeake Pure Trend ETF,Cambria Chesapeake Pure Trend ETF,Z,MFUT,Y,100.0,N,MFUT
@@ -4669,7 +4671,7 @@ NMAY,Innovator Growth,Innovator Growth-100 Power Buffer ETF - May,Z,NMAY,Y,100.0
 NMB,Simplify National Muni Bond ETF,Simplify National Muni Bond ETF,P,NMB,Y,100.0,N,NMB
 NMBL,NovaTide Flexible Allocation ETF,NovaTide Flexible Allocation ETF,P,NMBL,Y,100.0,N,NMBL
 NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,Nuveen Municipal Credit Opportunities Fund Common Shares,N,NMCO,N,100.0,N,NMCO
-NMCO.V,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued","Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",N,NMCOrw,N,100.0,N,NMCO^#
+NMCO.R,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights","Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",N,NMCOr,N,100.0,N,NMCO^
 NMG,Nouveau Monde Graphite Inc. Common Shares,Nouveau Monde Graphite Inc. Common Shares,N,NMG,N,100.0,N,NMG
 NMI,"Nuveen Municipal Income Fund, Inc. Common Stock","Nuveen Municipal Income Fund, Inc. Common Stock",N,NMI,N,100.0,N,NMI
 NML,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,A,NML,N,100.0,N,NML
@@ -4712,6 +4714,7 @@ NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,Nuveen Virginia Q
 NPWR,NET Power Inc. Class A Common Stock,NET Power Inc. Class A Common Stock,N,NPWR,N,100.0,N,NPWR
 NPWR.W,"NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50","NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",N,NPWR.WS,N,100.0,N,NPWR+
 NQLT,Neuberger Quality Select ETF,Neuberger Quality Select ETF,P,NQLT,Y,100.0,N,NQLT
+NRAM,Yorkville America Next Generation Memory Index ETF,Yorkville America Next Generation Memory Index ETF,P,NRAM,Y,100.0,N,NRAM
 NRDY,Nerdy Inc. Class A Common Stock,Nerdy Inc. Class A Common Stock,N,NRDY,N,100.0,N,NRDY
 NREF,"NexPoint Real Estate Finance, Inc. Common Stock","NexPoint Real Estate Finance, Inc. Common Stock",N,NREF,N,100.0,N,NREF
 NREF$A,"NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock","NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock",N,NREFpA,N,100.0,N,NREF-A
@@ -7001,6 +7004,7 @@ VEEV,Veeva Systems Inc. Class A Common Stock,Veeva Systems Inc. Class A Common S
 VEGA,AdvisorShares STAR Global Buy,AdvisorShares STAR Global Buy-Write ETF,P,VEGA,Y,100.0,N,VEGA
 VEGI,iShares MSCI Agriculture Producers ETF,iShares MSCI Agriculture Producers ETF,P,VEGI,Y,100.0,N,VEGI
 VEGN,US Vegan Climate ETF,US Vegan Climate ETF,Z,VEGN,Y,100.0,N,VEGN
+VEGX,International Vegan Climate ETF,International Vegan Climate ETF,Z,VEGX,Y,100.0,N,VEGX
 VEL,"Velocity Financial, Inc. Common Stock","Velocity Financial, Inc. Common Stock",N,VEL,N,100.0,N,VEL
 VELL,Defiance Daily Target 2X Long VELO ETF,Defiance Daily Target 2X Long VELO ETF,Z,VELL,Y,100.0,N,VELL
 VEM,Virtus Emerging Markets Dividend ETF,Virtus Emerging Markets Dividend ETF,P,VEM,Y,100.0,N,VEM
@@ -7365,7 +7369,9 @@ XLB,State Street Materials Select Sector SPDR ETF,State Street Materials Select 
 XLBI,State Street Materials Select Sector SPDR Premium Income ETF,State Street Materials Select Sector SPDR Premium Income ETF,P,XLBI,Y,100.0,N,XLBI
 XLBX,Corgi U.S. Materials 2x Daily ETF,Corgi U.S. Materials 2x Daily ETF,Z,XLBX,Y,100.0,N,XLBX
 XLC,State Street Communication Services Select Sector SPDR ETF,State Street Communication Services Select Sector SPDR ETF,P,XLC,Y,100.0,N,XLC
+XLCD,MicroSectors ,MicroSectors -3x Short Communication Services (XLC) ETNs,Z,XLCD,Y,100.0,N,XLCD
 XLCI,State Street Communication Services Select Sector SPDR Premium Income ETF,State Street Communication Services Select Sector SPDR Premium Income ETF,P,XLCI,Y,100.0,N,XLCI
+XLCU,MicroSectors 3x Long Communication Services (XLC) ETNs,MicroSectors 3x Long Communication Services (XLC) ETNs,Z,XLCU,Y,100.0,N,XLCU
 XLE,State Street Energy Select Sector SPDR ETF,State Street Energy Select Sector SPDR ETF,P,XLE,Y,100.0,N,XLE
 XLEI,State Street Energy Select Sector SPDR Premium Income ETF,State Street Energy Select Sector SPDR Premium Income ETF,P,XLEI,Y,100.0,N,XLEI
 XLEX,Corgi U.S. Energy 2x Daily ETF,Corgi U.S. Energy 2x Daily ETF,Z,XLEX,Y,100.0,N,XLEX
@@ -7380,6 +7386,8 @@ XLK,State Street Technology Select Sector SPDR ETF,State Street Technology Selec
 XLKI,State Street Technology Select Sector SPDR Premium Income ETF,State Street Technology Select Sector SPDR Premium Income ETF,P,XLKI,Y,100.0,N,XLKI
 XLKX,Corgi U.S. Technology 2x Daily ETF,Corgi U.S. Technology 2x Daily ETF,Z,XLKX,Y,100.0,N,XLKX
 XLP,State Street Consumer Staples Select Sector SPDR ETF,State Street Consumer Staples Select Sector SPDR ETF,P,XLP,Y,100.0,N,XLP
+XLPD,MicroSectors ,MicroSectors -3x Short Consumer Staples (XLP) ETNs,Z,XLPD,Y,100.0,N,XLPD
+XLPU,MicroSectors 3x Long Consumer Staples (XLP) ETNs,MicroSectors 3x Long Consumer Staples (XLP) ETNs,Z,XLPU,Y,100.0,N,XLPU
 XLPX,Corgi U.S. Consumer Staples 2x Daily ETF,Corgi U.S. Consumer Staples 2x Daily ETF,Z,XLPX,Y,100.0,N,XLPX
 XLRE,State Street Real Estate Select Sector SPDR ETF,State Street Real Estate Select Sector SPDR ETF,P,XLRE,Y,100.0,N,XLRE
 XLRI,State Street Real Estate Select Sector SPDR Premium Income ETF,State Street Real Estate Select Sector SPDR Premium Income ETF,P,XLRI,Y,100.0,N,XLRI
