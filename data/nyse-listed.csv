@@ -1130,7 +1130,6 @@ GFF,Griffon Corporation Common Stock
 GFI,Gold Fields Limited American Depositary Shares
 GFL,"GFL Environmental Inc. Subordinate voting shares, no par value"
 GFR,Greenfire Resources Ltd. Common Shares
-GFR.R,"Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights"
 GGB,Gerdau S.A. Common Stock
 GGG,Graco Inc. Common Stock
 GGT,Gabelli Multi
@@ -1470,6 +1469,7 @@ KFRC,"Kforce, Inc. Common Stock"
 KFY,Korn Ferry Common Stock
 KGC,Kinross Gold Corporation Common Stock
 KGS,"Kodiak Gas Services, Inc. Common Stock"
+KHC,The Kraft Heinz Company Common Stock
 KIM,Kimco Realty Corporation (HC) Common Stock
 KIM$L,"Kimco Realty Corporation Class L Depositary Shares, each of which represents a one"
 KIM$M,"Kimco Realty Corporation Class M Depositary Shares, each of which represents a one"
@@ -2552,7 +2552,7 @@ TEN,Tsakos Energy Navigation Ltd Common Shares
 TEN$E,Tsakos Energy Navigation Ltd Series E Fixed
 TEN$F,Tsakos Energy Navigation Ltd Series F Fixed
 TEO,Telecom Argentina SA
-TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares
+TEVA,Teva Pharmaceutical Industries Limited Ordinary Shares
 TEX,Terex Corporation Common Stock
 TFC,Truist Financial Corporation Common Stock
 TFC$I,Truist Financial Corporation Depositary Shares
