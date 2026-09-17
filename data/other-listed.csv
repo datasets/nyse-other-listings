@@ -411,6 +411,7 @@ ASB,Associated Banc,Associated Banc-Corp Common Stock,N,ASB,N,100.0,N,ASB
 ASB$E,Associated Banc,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series E",N,ASBpE,N,100.0,N,ASB-E
 ASB$F,Associated Banc,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated Banc-Corp 5.625% Non-Cumulative Perpetual Preferred Stock, Series F",N,ASBpF,N,100.0,N,ASB-F
 ASBA,Associated Banc,Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033,N,ASBA,N,100.0,N,ASBA
+ASBH,"American Savings Bank, N.A. Common Stock","American Savings Bank, N.A. Common Stock",N,ASBH,N,100.0,N,ASBH
 ASC,Ardmore Shipping Corporation Common Stock,Ardmore Shipping Corporation Common Stock,N,ASC,N,100.0,N,ASC
 ASCE,Allspring SMID Core ETF,Allspring SMID Core ETF,P,ASCE,Y,100.0,N,ASCE
 ASEA,Global X FTSE Southeast Asia ETF,Global X FTSE Southeast Asia ETF,P,ASEA,Y,100.0,N,ASEA
@@ -992,6 +993,7 @@ BUFX,FT Vest Laddered Enhance & Moderate Buffer ETF,FT Vest Laddered Enhance & M
 BUFY,FT Vest Laddered International Moderate Buffer ETF,FT Vest Laddered International Moderate Buffer ETF,Z,BUFY,Y,100.0,N,BUFY
 BUFZ,FT Vest Laddered Moderate Buffer ETF,FT Vest Laddered Moderate Buffer ETF,Z,BUFZ,Y,100.0,N,BUFZ
 BUI,"BlackRock Utility, Infrastructure & Power Opportunities Trust","BlackRock Utility, Infrastructure & Power Opportunities Trust",N,BUI,N,100.0,N,BUI
+BUIL,Rebuild America ETF,Rebuild America ETF,Z,BUIL,Y,100.0,N,BUIL
 BUL,Pacer US Cash Cows Growth ETF,Pacer US Cash Cows Growth ETF,P,BUL,Y,100.0,N,BUL
 BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,MicroSectors FANG & Innovation 3x Leveraged ETN,P,BULZ,Y,100.0,N,BULZ
 BUR,Burford Capital Limited Ordinary Shares,Burford Capital Limited Ordinary Shares,N,BUR,N,100.0,N,BUR
@@ -4896,7 +4898,7 @@ OIH,VanEck Oil Services ETF,VanEck Oil Services ETF,P,OIH,Y,40.0,N,OIH
 OII,"Oceaneering International, Inc. Common Stock","Oceaneering International, Inc. Common Stock",N,OII,N,100.0,N,OII
 OILD,MicroSectors Oil & Gas Exp. & Prod. ,MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN,P,OILD,Y,100.0,N,OILD
 OILK,ProShares K,ProShares K-1 Free Crude Oil ETF,Z,OILK,Y,100.0,N,OILK
-OILT,Texas Capital Texas Oil Index ETF,Texas Capital Texas Oil Index ETF,P,OILT,Y,100.0,N,OILT
+OILT,Texas Capital Texas Oil Index ETF,Texas Capital Texas Oil Index ETF,F,OILT,Y,100.0,N,OILT
 OILU,MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN,MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN,P,OILU,Y,100.0,N,OILU
 OIS,"Oil States International, Inc. Common Stock","Oil States International, Inc. Common Stock",N,OIS,N,100.0,N,OIS
 OKE,"ONEOK, Inc. Common Stock","ONEOK, Inc. Common Stock",N,OKE,N,100.0,N,OKE
@@ -6702,7 +6704,6 @@ TROX,Tronox Holdings plc Ordinary Shares (UK),Tronox Holdings plc Ordinary Share
 TRP,TC Energy Corporation Common Stock,TC Energy Corporation Common Stock,N,TRP,N,100.0,N,TRP
 TRPA,Hartford AAA CLO ETF,Hartford AAA CLO ETF,Z,TRPA,Y,100.0,N,TRPA
 TRSY,Xtrackers US 0,Xtrackers US 0-1 Year Treasury ETF,Z,TRSY,Y,100.0,N,TRSY
-TRT,Trio,Trio-Tech International Common Stock,A,TRT,N,100.0,N,TRT
 TRTN$A,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares,N,TRTNpA,N,100.0,N,TRTN-A
 TRTN$B,Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares,N,TRTNpB,N,100.0,N,TRTN-B
 TRTN$C,Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares,Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares,N,TRTNpC,N,100.0,N,TRTN-C
@@ -6785,7 +6786,7 @@ TXBC,21Shares FTSE Crypto 10 ex,21Shares FTSE Crypto 10 ex-BTC Index ETF,P,TXBC,
 TXNM,"TXNM Energy, Inc. Common Stock","TXNM Energy, Inc. Common Stock",N,TXNM,N,100.0,N,TXNM
 TXNU,Direxion Daily TXN Bull 2X ETF,Direxion Daily TXN Bull 2X ETF,P,TXNU,Y,100.0,N,TXNU
 TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests","TXO Partners, L.P. Common Units Representing Limited Partner Interests",N,TXO,N,100.0,N,TXO
-TXS,Texas Capital Texas Equity Index ETF,Texas Capital Texas Equity Index ETF,P,TXS,Y,100.0,N,TXS
+TXS,Texas Capital Texas Equity Index ETF,Texas Capital Texas Equity Index ETF,F,TXS,Y,100.0,N,TXS
 TXT,Textron Inc. Common Stock,Textron Inc. Common Stock,N,TXT,N,100.0,N,TXT
 TXXI,BondBloxx IR+M Tax,BondBloxx IR+M Tax-Aware Intermediate Duration ETF,P,TXXI,Y,100.0,N,TXXI
 TY,Tri Continental Corporation Common Stock,Tri Continental Corporation Common Stock,N,TY,N,100.0,N,TY
