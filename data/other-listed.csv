@@ -955,7 +955,7 @@ BSX,Boston Scientific Corporation Common Stock,Boston Scientific Corporation Com
 BTA,Beacon Tactical Alternatives Risk ETF,Beacon Tactical Alternatives Risk ETF,P,BTA,Y,100.0,N,BTA
 BTAL,AGF U.S. Market Neutral Anti,AGF U.S. Market Neutral Anti-Beta Fund,P,BTAL,Y,100.0,N,BTAL
 BTC,Grayscale Bitcoin Mini Trust (BTC),Grayscale Bitcoin Mini Trust (BTC),P,BTC,Y,100.0,N,BTC
-BTCC,Grayscale Bitcoin Covered Call ETF,Grayscale Bitcoin Covered Call ETF,P,BTCC,Y,100.0,N,BTCC
+BTCC,Grayscale Bitcoin High Income ETF,Grayscale Bitcoin High Income ETF,P,BTCC,Y,100.0,N,BTCC
 BTCI,NEOS Bitcoin High Income ETF,NEOS Bitcoin High Income ETF,Z,BTCI,Y,100.0,N,BTCI
 BTCK,7RCC Spot Bitcoin and Carbon Credit Futures ETF,7RCC Spot Bitcoin and Carbon Credit Futures ETF,P,BTCK,Y,100.0,N,BTCK
 BTCL,T,T-Rex 2X Long Bitcoin Daily Target ETF,Z,BTCL,Y,100.0,N,BTCL
@@ -1175,6 +1175,7 @@ CGCP,Capital Group Core Plus Income ETF,Capital Group Core Plus Income ETF,P,CGC
 CGCV,Capital Group Conservative Equity ETF,Capital Group Conservative Equity ETF,P,CGCV,Y,100.0,N,CGCV
 CGDG,Capital Group Dividend Growers ETF,Capital Group Dividend Growers ETF,P,CGDG,Y,100.0,N,CGDG
 CGDV,Capital Group Dividend Value ETF,Capital Group Dividend Value ETF,P,CGDV,Y,100.0,N,CGDV
+CGFS,CG Flagship Equity ETF,CG Flagship Equity ETF,Z,CGFS,Y,100.0,N,CGFS
 CGGE,Capital Group Global Equity ETF,Capital Group Global Equity ETF,P,CGGE,Y,100.0,N,CGGE
 CGGG,Capital Group U.S. Large Growth ETF,Capital Group U.S. Large Growth ETF,P,CGGG,Y,100.0,N,CGGG
 CGGO,Capital Group Global Growth Equity ETF,Capital Group Global Growth Equity ETF,P,CGGO,Y,100.0,N,CGGO
@@ -2179,7 +2180,7 @@ ESUM,Eventide US Market ETF,Eventide US Market ETF,P,ESUM,Y,100.0,N,ESUM
 ET,Energy Transfer LP Common Units ,Energy Transfer LP Common Units ,N,ET,N,100.0,N,ET
 ET$I,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units,N,ETpI,N,100.0,N,ET-I
 ETB,Eaton Vance Tax,Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest,N,ETB,N,100.0,N,ETB
-ETCO,Grayscale Ethereum Covered Call ETF,Grayscale Ethereum Covered Call ETF,P,ETCO,Y,100.0,N,ETCO
+ETCO,Grayscale Ethereum High Income ETF,Grayscale Ethereum High Income ETF,P,ETCO,Y,100.0,N,ETCO
 ETD,Ethan Allen Interiors Inc. Common Stock,Ethan Allen Interiors Inc. Common Stock,N,ETD,N,100.0,N,ETD
 ETFT,Fundsmith Equity ETF,Fundsmith Equity ETF,P,ETFT,Y,100.0,N,ETFT
 ETG,Eaton Vance Tax,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,N,ETG,N,100.0,N,ETG
@@ -3199,6 +3200,7 @@ HUBB,Hubbell Inc Common Stock,Hubbell Inc Common Stock,N,HUBB,N,40.0,N,HUBB
 HUBS,"HubSpot, Inc. Common Stock","HubSpot, Inc. Common Stock",N,HUBS,N,40.0,N,HUBS
 HULL,Corgi Shipping & Global Logistics ETF,Corgi Shipping & Global Logistics ETF,Z,HULL,Y,100.0,N,HULL
 HUM,Humana Inc. Common Stock,Humana Inc. Common Stock,N,HUM,N,100.0,N,HUM
+HUMM,800VDC AI Datacenter Ecosystem ETF,800VDC AI Datacenter Ecosystem ETF,P,HUMM,Y,100.0,N,HUMM
 HUMN,Roundhill Humanoid Robotics ETF,Roundhill Humanoid Robotics ETF,Z,HUMN,Y,100.0,N,HUMN
 HUN,Huntsman Corporation Common Stock,Huntsman Corporation Common Stock,N,HUN,N,100.0,N,HUN
 HUSV,First Trust Horizon Managed Volatility Domestic ETF,First Trust Horizon Managed Volatility Domestic ETF,P,HUSV,Y,100.0,N,HUSV
@@ -3213,6 +3215,7 @@ HXE,Mast HedgeIndex Adaptive Equities ETF,Mast HedgeIndex Adaptive Equities ETF,
 HXF,Mast HedgeIndex Managed Futures Strategy ETF,Mast HedgeIndex Managed Futures Strategy ETF,P,HXF,Y,100.0,N,HXF
 HXL,Hexcel Corporation Common Stock,Hexcel Corporation Common Stock,N,HXL,N,100.0,N,HXL
 HY,Hyster,"Hyster-Yale, Inc. Class A common stock",N,HY,N,100.0,N,HY
+HYAC.U,"Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one","Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,HYAC.U,N,100.0,N,HYAC=
 HYBB,iShares BB Rated Corporate Bond ETF,iShares BB Rated Corporate Bond ETF,P,HYBB,Y,100.0,N,HYBB
 HYBL,State Street Blackstone High Income ETF,State Street Blackstone High Income ETF,Z,HYBL,Y,100.0,N,HYBL
 HYBX,TCW High Yield Bond ETF,TCW High Yield Bond ETF,N,HYBX,Y,100.0,N,HYBX
@@ -4373,6 +4376,7 @@ MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock","Western Asset Ma
 MNA,NYLIM Merger Arbitrage ETF,NYLIM Merger Arbitrage ETF,P,MNA,Y,100.0,N,MNA
 MNBD,ALPS BBH Intermediate Municipal Bond ETF,ALPS BBH Intermediate Municipal Bond ETF,P,MNBD,Y,100.0,N,MNBD
 MNGU,MicroSectors 3x Long MANGOS+ ex Private Companies ETNs,MicroSectors 3x Long MANGOS+ ex Private Companies ETNs,P,MNGU,Y,100.0,N,MNGU
+MNGZ,Yorkville America 2X Long MANGOS Plus Daily Target ETF,Yorkville America 2X Long MANGOS Plus Daily Target ETF,P,MNGZ,Y,100.0,N,MNGZ
 MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,Mach Natural Resources LP Common Units representing Limited Partner Interests,N,MNR,N,100.0,N,MNR
 MNRS,Grayscale Bitcoin Miners ETF,Grayscale Bitcoin Miners ETF,P,MNRS,Y,100.0,N,MNRS
 MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares","MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",N,MNSO,N,100.0,N,MNSO
@@ -5395,6 +5399,7 @@ PW$A,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,Power REIT 7
 PWB,Invesco Large Cap Growth ETF,Invesco Large Cap Growth ETF,P,PWB,Y,100.0,N,PWB
 PWER,Nomura Energy Transition ETF,Nomura Energy Transition ETF,P,PWER,Y,100.0,N,PWER
 PWR,"Quanta Services, Inc. Common Stock","Quanta Services, Inc. Common Stock",N,PWR,N,40.0,N,PWR
+PWRX,Westwood Salient Enhanced Power & Infrastructure ETF,Westwood Salient Enhanced Power & Infrastructure ETF,F,PWRX,Y,100.0,N,PWRX
 PWRZ,TrueShares Eagle Global Renewable Energy Income ETF,TrueShares Eagle Global Renewable Energy Income ETF,Z,PWRZ,Y,100.0,N,PWRZ
 PWS,Pacer WealthShield ETF,Pacer WealthShield ETF,Z,PWS,Y,100.0,N,PWS
 PWV,Invesco Large Cap Value ETF,Invesco Large Cap Value ETF,P,PWV,Y,100.0,N,PWV
