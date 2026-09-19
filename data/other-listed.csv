@@ -417,6 +417,7 @@ ASCE,Allspring SMID Core ETF,Allspring SMID Core ETF,P,ASCE,Y,100.0,N,ASCE
 ASEA,Global X FTSE Southeast Asia ETF,Global X FTSE Southeast Asia ETF,P,ASEA,Y,100.0,N,ASEA
 ASG,Liberty All,"Liberty All-Star Growth Fund, Inc.",N,ASG,N,100.0,N,ASG
 ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,N,ASGI,N,100.0,N,ASGI
+ASGI.V,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued","abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",N,ASGIrw,N,100.0,N,ASGI^#
 ASGM,Virtus AlphaSimplex Global Macro ETF,Virtus AlphaSimplex Global Macro ETF,P,ASGM,Y,100.0,N,ASGM
 ASH,Ashland Inc. Common Stock,Ashland Inc. Common Stock,N,ASH,N,100.0,N,ASH
 ASHR,Xtrackers Harvest CSI 300 China A,Xtrackers Harvest CSI 300 China A-Shares ETF,P,ASHR,Y,100.0,N,ASHR
@@ -431,6 +432,7 @@ ASMH,ASML Holding NV ADRhedged,ASML Holding NV ADRhedged,P,ASMH,Y,100.0,N,ASMH
 ASMZ,Corgi ASML 2x Daily ETF,Corgi ASML 2x Daily ETF,Z,ASMZ,Y,100.0,N,ASMZ
 ASPN,"Aspen Aerogels, Inc. Common Stock","Aspen Aerogels, Inc. Common Stock",N,ASPN,N,100.0,N,ASPN
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock","Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",N,ASR,N,40.0,N,ASR
+ASSX,T,T-REX 2X Long ASST Daily Target ETF,Z,ASSX,Y,100.0,N,ASSX
 ASTG,Leverage Shares 2X Long ASTS Daily ETF,Leverage Shares 2X Long ASTS Daily ETF,Z,ASTG,Y,100.0,N,ASTG
 ASTN,Defiance Daily Target 2X Short ASTS ETF,Defiance Daily Target 2X Short ASTS ETF,Z,ASTN,Y,100.0,N,ASTN
 ASTT,Corgi ASTS 2x Daily ETF,Corgi ASTS 2x Daily ETF,Z,ASTT,Y,100.0,N,ASTT
@@ -3063,7 +3065,6 @@ HCC,"Warrior Met Coal, Inc. Common Stock","Warrior Met Coal, Inc. Common Stock",
 HCI,"HCI Group, Inc. Common Stock","HCI Group, Inc. Common Stock",N,HCI,N,100.0,N,HCI
 HCMT,Direxion HCM Tactical Enhanced US ETF,Direxion HCM Tactical Enhanced US ETF,P,HCMT,Y,100.0,N,HCMT
 HCRB,Hartford Core Bond ETF,Hartford Core Bond ETF,Z,HCRB,Y,100.0,N,HCRB
-HCWC,Healthy Choice Wellness Corp. Class A Common Stock,Healthy Choice Wellness Corp. Class A Common Stock,A,HCWC,N,100.0,N,HCWC
 HCXY,"Hercules Capital, Inc. 6.25% Notes due 2033","Hercules Capital, Inc. 6.25% Notes due 2033",N,HCXY,N,100.0,N,HCXY
 HD,"Home Depot, Inc. (The) Common Stock","Home Depot, Inc. (The) Common Stock",N,HD,N,40.0,N,HD
 HDB,HDFC Bank Limited Common Stock,HDFC Bank Limited Common Stock,N,HDB,N,100.0,N,HDB
@@ -3158,6 +3159,7 @@ HOOC,Corgi HOOD 2x Daily ETF,Corgi HOOD 2x Daily ETF,Z,HOOC,Y,100.0,N,HOOC
 HOOW,Roundhill HOOD WeeklyPay ETF,Roundhill HOOD WeeklyPay ETF,Z,HOOW,Y,100.0,N,HOOW
 HOOY,YieldMax HOOD Option Income Strategy ETF,YieldMax HOOD Option Income Strategy ETF,P,HOOY,Y,100.0,N,HOOY
 HOS,"Hornbeck Offshore Services, Inc. Common Stock","Hornbeck Offshore Services, Inc. Common Stock",N,HOS,N,100.0,N,HOS
+HOST,Host Digital Inc. Class A Common Stock,Host Digital Inc. Class A Common Stock,A,HOST,N,100.0,N,HOST
 HOV,"Hovnanian Enterprises, Inc. Class A Common Stock","Hovnanian Enterprises, Inc. Class A Common Stock",N,HOV,N,100.0,N,HOV
 HP,"Helmerich & Payne, Inc. Common Stock","Helmerich & Payne, Inc. Common Stock",N,HP,N,100.0,N,HP
 HPE,Hewlett Packard Enterprise Company Common Stock,Hewlett Packard Enterprise Company Common Stock,N,HPE,N,100.0,N,HPE
@@ -3418,7 +3420,7 @@ ILCV,iShares Morningstar Large,iShares Morningstar Large-Cap  Value ETF,P,ILCV,Y
 ILDR,First Trust Innovation Leaders ETF,First Trust Innovation Leaders ETF,P,ILDR,Y,100.0,N,ILDR
 ILF,iShares Latin America 40 ETF,iShares Latin America 40 ETF,P,ILF,Y,100.0,N,ILF
 ILOW,AB International Low Volatility Equity ETF,AB International Low Volatility Equity ETF,P,ILOW,Y,100.0,N,ILOW
-ILS,Brookmont Catastrophic Bond ETF,Brookmont Catastrophic Bond ETF,P,ILS,Y,100.0,N,ILS
+ILS,Brookmont Catastrophic Bond ETF,Brookmont Catastrophic Bond ETF,F,ILS,Y,100.0,N,ILS
 ILTB,iShares Core 10  Year USD Bond ETF,iShares Core 10  Year USD Bond ETF,P,ILTB,Y,100.0,N,ILTB
 IMAR,Innovator International Developed Power Buffer ETF  March,Innovator International Developed Power Buffer ETF  March,P,IMAR,Y,100.0,N,IMAR
 IMAX,Imax Corporation Common Stock,Imax Corporation Common Stock,N,IMAX,N,100.0,N,IMAX
@@ -5832,7 +5834,6 @@ SAPH,SAP SE ADRhedged,SAP SE ADRhedged,P,SAPH,Y,100.0,N,SAPH
 SAR,Saratoga Investment Corp New,Saratoga Investment Corp New,N,SAR,N,100.0,N,SAR
 SARO,"StandardAero, Inc. Common Stock","StandardAero, Inc. Common Stock",N,SARO,N,100.0,N,SARO
 SASS,M.D. Sass Concentrated Value ETF,M.D. Sass Concentrated Value ETF,P,SASS,Y,100.0,N,SASS
-SAT,Saratoga Investment Corp 6.00% Notes due 2027,Saratoga Investment Corp 6.00% Notes due 2027,N,SAT,N,100.0,N,SAT
 SATO,Invesco Alerian Galaxy Crypto Economy ETF,Invesco Alerian Galaxy Crypto Economy ETF,Z,SATO,Y,100.0,N,SATO
 SAUG,FT Vest U.S. Small Cap Moderate Buffer ETF ,FT Vest U.S. Small Cap Moderate Buffer ETF - August,Z,SAUG,Y,100.0,N,SAUG
 SAV,Saratoga Investment Corp 7.50% Notes due 2031,Saratoga Investment Corp 7.50% Notes due 2031,N,SAV,N,100.0,N,SAV
