@@ -1463,7 +1463,6 @@ CRWC,Corgi CRWD 2x Daily ETF,Corgi CRWD 2x Daily ETF,Z,CRWC,Y,100.0,N,CRWC
 CRWU,T,T-REX 2X Long CRWV Daily Target ETF,Z,CRWU,Y,100.0,N,CRWU
 CRWX,Corgi CRWV 2x Daily ETF,Corgi CRWV 2x Daily ETF,Z,CRWX,Y,100.0,N,CRWX
 CRXP,Columbia Core Plus Bond ETF,Columbia Core Plus Bond ETF,P,CRXP,Y,100.0,N,CRXP
-CSAN,Cosan S.A. ADS,Cosan S.A. ADS,N,CSAN,N,100.0,N,CSAN
 CSD,Invesco S&P Spin,Invesco S&P Spin-Off ETF,P,CSD,Y,100.0,N,CSD
 CSEP,Corgi U.S. Equities 15% Structured Buffer ETF ,Corgi U.S. Equities 15% Structured Buffer ETF - September Series,Z,CSEP,Y,100.0,N,CSEP
 CSEX,Tradr 2X Long CLS Daily ETF,Tradr 2X Long CLS Daily ETF,Z,CSEX,Y,100.0,N,CSEX
@@ -1487,6 +1486,7 @@ CSW,"CSW Industrials, Inc. Common Stock","CSW Industrials, Inc. Common Stock",N,
 CTA,Simplify Managed Futures Strategy ETF,Simplify Managed Futures Strategy ETF,P,CTA,Y,100.0,N,CTA
 CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series","EIDP, Inc. Preferred Stock $3.50 Series",N,CTApA,N,100.0,N,CTA-A
 CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series","EIDP, Inc. Preferred Stock $4.50 Series",N,CTApB,N,100.0,N,CTA-B
+CTAG,Calamos Timpani Active SMID Growth ETF,Calamos Timpani Active SMID Growth ETF,F,CTAG,Y,100.0,N,CTAG
 CTAP,Simplify US Equity PLUS Managed Futures Strategy ETF,Simplify US Equity PLUS Managed Futures Strategy ETF,P,CTAP,Y,100.0,N,CTAP
 CTAU,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Structured Buffer ETF - August Series,Z,CTAU,Y,100.0,N,CTAU
 CTEF,Castellan Targeted Equity ETF,Castellan Targeted Equity ETF,Z,CTEF,Y,100.0,N,CTEF
@@ -1828,6 +1828,7 @@ DPRE,Virtus Duff & Phelps Real Estate Income ETF,Virtus Duff & Phelps Real Estat
 DPST,Direxion Daily Regional Banks Bull 3X ETF,Direxion Daily Regional Banks Bull 3X ETF,P,DPST,Y,100.0,N,DPST
 DQ,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares","DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares",N,DQ,N,100.0,N,DQ
 DQJN,FT Vest Nasdaq,FT Vest Nasdaq-100 Dual Directional Buffer ETF - June,Z,DQJN,Y,100.0,N,DQJN
+DQSE,FT Vest Nasdaq,FT Vest Nasdaq-100 Dual Directional Buffer ETF - September,Z,DQSE,Y,100.0,N,DQSE
 DRAI,Draco Evolution AI ETF,Draco Evolution AI ETF,P,DRAI,Y,100.0,N,DRAI
 DRAL,Defiance Daily Target 2X Long DRAM ETF,Defiance Daily Target 2X Long DRAM ETF,Z,DRAL,Y,100.0,N,DRAL
 DRAM,Roundhill Memory ETF,Roundhill Memory ETF,Z,DRAM,Y,100.0,N,DRAM
@@ -5485,6 +5486,7 @@ QNC,Quantum eMotion Corp. Common Shares,Quantum eMotion Corp. Common Shares,A,QN
 QNTU,Tradr 2X Long QNT Daily ETF,Tradr 2X Long QNT Daily ETF,Z,QNTU,Y,100.0,N,QNTU
 QPX,AdvisorShares Q Dynamic Growth ETF,AdvisorShares Q Dynamic Growth ETF,P,QPX,Y,100.0,N,QPX
 QQAU,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - August Series,Z,QQAU,Y,100.0,N,QQAU
+QQBF,FT Vest Nasdaq,FT Vest Nasdaq-100 Quarterly 15 Buffer ETF,Z,QQBF,Y,100.0,N,QQBF
 QQH,HCM Defender 100 Index ETF,HCM Defender 100 Index ETF,P,QQH,Y,100.0,N,QQH
 QQJL,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - July Series,Z,QQJL,Y,100.0,N,QQJL
 QQJN,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - June Series,Z,QQJN,Y,100.0,N,QQJN
@@ -5949,6 +5951,7 @@ SEA,U.S. Global Sea to Sky Cargo ETF,U.S. Global Sea to Sky Cargo ETF,P,SEA,Y,10
 SEAL$A,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units,N,SEALpA,N,100.0,N,SEAL-A
 SEAL$B,Seapeak LLC 8.50% Series B Fixed,Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units,N,SEALpB,N,100.0,N,SEAL-B
 SEB,Seaboard Corporation Common Stock,Seaboard Corporation Common Stock,A,SEB,N,10.0,N,SEB
+SECA,Main Active Rotation ETF,Main Active Rotation ETF,Z,SECA,Y,100.0,N,SECA
 SECR,NYLIM MacKay Securitized Income ETF,NYLIM MacKay Securitized Income ETF,P,SECR,Y,100.0,N,SECR
 SECT,Main Sector Rotation ETF,Main Sector Rotation ETF,Z,SECT,Y,100.0,N,SECT
 SECU,iShares Securitized Income Active ETF,iShares Securitized Income Active ETF,Z,SECU,Y,100.0,N,SECU
