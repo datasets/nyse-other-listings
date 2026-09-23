@@ -2098,6 +2098,7 @@ ENO,"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 20
 ENOR,iShares MSCI Norway ETF,iShares MSCI Norway ETF,Z,ENOR,Y,100.0,N,ENOR
 ENOV,Enovis Corporation Common Stock,Enovis Corporation Common Stock,N,ENOV,N,100.0,N,ENOV
 ENR,"Energizer Holdings, Inc. Common Stock","Energizer Holdings, Inc. Common Stock",N,ENR,N,100.0,N,ENR
+ENRG,Ninepoint North American Energy Independence ETF,Ninepoint North American Energy Independence ETF,P,ENRG,Y,100.0,N,ENRG
 ENS,EnerSys Common Stock,EnerSys Common Stock,N,ENS,N,100.0,N,ENS
 ENTL,Leverage Shares 2X Long ENTG Daily ETF,Leverage Shares 2X Long ENTG Daily ETF,Z,ENTL,Y,100.0,N,ENTL
 ENVA,"Enova International, Inc. Common Stock","Enova International, Inc. Common Stock",N,ENVA,N,100.0,N,ENVA
@@ -2737,6 +2738,7 @@ GCO,Genesco Inc. Common Stock,Genesco Inc. Common Stock,N,GCO,N,100.0,N,GCO
 GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,Goldman Sachs Access U.S. Aggregate Bond ETF,P,GCOR,Y,100.0,N,GCOR
 GCOW,Pacer Global Cash Cows Dividend ETF,Pacer Global Cash Cows Dividend ETF,Z,GCOW,Y,100.0,N,GCOW
 GCPB,Goldman Sachs Core Plus Bond ETF,Goldman Sachs Core Plus Bond ETF,N,GCPB,Y,100.0,N,GCPB
+GCPU,Grayscale AI Compute ETF,Grayscale AI Compute ETF,P,GCPU,Y,100.0,N,GCPU
 GCSH,Guggenheim Ultra Short Income ETF,Guggenheim Ultra Short Income ETF,P,GCSH,Y,100.0,N,GCSH
 GCTS,"GCT Semiconductor Holding, Inc. Common Stock","GCT Semiconductor Holding, Inc. Common Stock",N,GCTS,N,100.0,N,GCTS
 GCTS.W,"GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50","GCT Semiconductor Holding, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50",N,GCTS.WS,N,100.0,N,GCTS+
@@ -4039,7 +4041,6 @@ LIAU,LifeX 2060 Inflation,LifeX 2060 Inflation-Protected Longevity Income ETF,Z,
 LIBD,LifeX 2065 Inflation,LifeX 2065 Inflation-Protected Longevity Income ETF,Z,LIBD,Y,40.0,N,LIBD
 LIFT,LifeX 2028 Income Bucket ETF,LifeX 2028 Income Bucket ETF,Z,LIFT,Y,100.0,N,LIFT
 LII,"Lennox International, Inc. Common Stock","Lennox International, Inc. Common Stock",N,LII,N,40.0,N,LII
-LIMI,Themes Lithium & Battery Metal Miners ETF,Themes Lithium & Battery Metal Miners ETF,Z,LIMI,Y,100.0,N,LIMI
 LION,Lionsgate Studios Corp Common Shares,Lionsgate Studios Corp Common Shares,N,LION,N,100.0,N,LION
 LIT,Global X Lithium & Battery Tech ETF,Global X Lithium & Battery Tech ETF,P,LIT,Y,100.0,N,LIT
 LITB,"LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares","LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",N,LITB,N,100.0,N,LITB
@@ -4378,10 +4379,10 @@ MMTM,State Street SPDR S&P 1500 Momentum Tilt ETF,State Street SPDR S&P 1500 Mom
 MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock","Western Asset Managed Municipals Fund, Inc. Common Stock",N,MMU,N,100.0,N,MMU
 MNA,NYLIM Merger Arbitrage ETF,NYLIM Merger Arbitrage ETF,P,MNA,Y,100.0,N,MNA
 MNBD,ALPS BBH Intermediate Municipal Bond ETF,ALPS BBH Intermediate Municipal Bond ETF,P,MNBD,Y,100.0,N,MNBD
+MNGB,Yorkville America 2X Inverse MANGOS Plus Daily Target ETF,Yorkville America 2X Inverse MANGOS Plus Daily Target ETF,P,MNGB,Y,100.0,N,MNGB
 MNGU,MicroSectors 3x Long MANGOS+ ex Private Companies ETNs,MicroSectors 3x Long MANGOS+ ex Private Companies ETNs,P,MNGU,Y,100.0,N,MNGU
 MNGZ,Yorkville America 2X Long MANGOS Plus Daily Target ETF,Yorkville America 2X Long MANGOS Plus Daily Target ETF,P,MNGZ,Y,100.0,N,MNGZ
 MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,Mach Natural Resources LP Common Units representing Limited Partner Interests,N,MNR,N,100.0,N,MNR
-MNRS,Grayscale Bitcoin Miners ETF,Grayscale Bitcoin Miners ETF,P,MNRS,Y,100.0,N,MNRS
 MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares","MINISO Group Holding Limited American Depositary Shares, each representing four Ordinary Shares",N,MNSO,N,100.0,N,MNSO
 MNSX,Corgi MNST 2x Daily ETF,Corgi MNST 2x Daily ETF,Z,MNSX,Y,100.0,N,MNSX
 MNTN,"MNTN, Inc. Class A Common Stock","MNTN, Inc. Class A Common Stock",N,MNTN,N,100.0,N,MNTN
