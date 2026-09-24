@@ -187,6 +187,7 @@ AHYB,American Century Select High Yield ETF,American Century Select High Yield E
 AI,"C3.ai, Inc. Class A Common Stock","C3.ai, Inc. Class A Common Stock",N,AI,N,100.0,N,AI
 AIB,AIB Data Centers Inc. Common Stock,AIB Data Centers Inc. Common Stock,A,AIB,N,100.0,N,AIB
 AIBD,Direxion Daily AI and Big Data Bear 2X ETF,Direxion Daily AI and Big Data Bear 2X ETF,P,AIBD,Y,100.0,N,AIBD
+AIBF,iShares Future AI Beneficiaries ETF,iShares Future AI Beneficiaries ETF,P,AIBF,Y,100.0,N,AIBF
 AIBU,Direxion Daily AI and Big Data Bull 2X ETF,Direxion Daily AI and Big Data Bull 2X ETF,P,AIBU,Y,100.0,N,AIBU
 AIEQ,Amplify AI Powered Equity ETF,Amplify AI Powered Equity ETF,P,AIEQ,Y,100.0,N,AIEQ
 AIG,"American International Group, Inc. New Common Stock","American International Group, Inc. New Common Stock",N,AIG,N,100.0,N,AIG
@@ -4614,6 +4615,7 @@ NE.W,Noble Corporation plc Tranche 1 Warrants,Noble Corporation plc Tranche 1 Wa
 NEA,Nuveen AMT,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,N,NEA,N,100.0,N,NEA
 NEAR,iShares Short Duration Bond Active ETF,iShares Short Duration Bond Active ETF,Z,NEAR,Y,100.0,N,NEAR
 NEBX,Tradr 2X Long NBIS Daily ETF,Tradr 2X Long NBIS Daily ETF,Z,NEBX,Y,100.0,N,NEBX
+NECK,xETFs AI Bottlenecks ETF,xETFs AI Bottlenecks ETF,P,NECK,Y,100.0,N,NECK
 NEE,"NextEra Energy, Inc. Common Stock","NextEra Energy, Inc. Common Stock",N,NEE,N,100.0,N,NEE
 NEE$N,"NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1, 2079","NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1, 2079",N,NEEpN,N,100.0,N,NEE-N
 NEE$S,"NextEra Energy, Inc. 7.299% Corporate Units","NextEra Energy, Inc. 7.299% Corporate Units",N,NEEpS,N,100.0,N,NEE-S
@@ -5657,7 +5659,6 @@ RITM$E,Rithm Capital Corp. 8.75% Series E Fixed,Rithm Capital Corp. 8.75% Series
 RITM$F,Rithm Capital Corp. 8.750% Series F Fixed,Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock,N,RITMpF,N,100.0,N,RITM-F
 RIV,"RiverNorth Opportunities Fund, Inc. Common Stock","RiverNorth Opportunities Fund, Inc. Common Stock",N,RIV,N,100.0,N,RIV
 RIV$A,"RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock","RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",N,RIVpA,N,100.0,N,RIV-A
-RIV.R,"RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights","RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",N,RIVr,N,100.0,N,RIV^
 RIVC,Corgi RIVN 2x Daily ETF,Corgi RIVN 2x Daily ETF,Z,RIVC,Y,100.0,N,RIVC
 RIZE,Principal Inflation Protection ETF,Principal Inflation Protection ETF,Z,RIZE,Y,100.0,N,RIZE
 RJCA,RJ ClariVest Capital Appreciation ETF,RJ ClariVest Capital Appreciation ETF,P,RJCA,Y,100.0,N,RJCA
@@ -7501,8 +7502,14 @@ XTWY,BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF,BondBloxx B
 XUDV,Franklin U.S. Dividend Booster Index ETF,Franklin U.S. Dividend Booster Index ETF,P,XUDV,Y,100.0,N,XUDV
 XUSP,Innovator Uncapped Accelerated U.S. Equity ETF,Innovator Uncapped Accelerated U.S. Equity ETF,Z,XUSP,Y,100.0,N,XUSP
 XV,Simplify Target 15 Distribution ETF,Simplify Target 15 Distribution ETF,P,XV,Y,100.0,N,XV
+XVAD,FT Vest AMD & Target Income ETF,FT Vest AMD & Target Income ETF,Z,XVAD,Y,100.0,N,XVAD
 XVAP,FT Vest AAPL & Target Income ETF,FT Vest AAPL & Target Income ETF,Z,XVAP,Y,100.0,N,XVAP
+XVAZ,FT Vest AMZN & Target Income ETF,FT Vest AMZN & Target Income ETF,Z,XVAZ,Y,100.0,N,XVAZ
+XVGL,FT Vest GOOG & Target Income ETF,FT Vest GOOG & Target Income ETF,Z,XVGL,Y,100.0,N,XVGL
+XVMS,FT Vest MSFT & Target Income ETF,FT Vest MSFT & Target Income ETF,Z,XVMS,Y,100.0,N,XVMS
+XVMT,FT Vest META & Target Income ETF,FT Vest META & Target Income ETF,Z,XVMT,Y,100.0,N,XVMT
 XVNV,FT Vest NVDA & Target Income ETF,FT Vest NVDA & Target Income ETF,Z,XVNV,Y,100.0,N,XVNV
+XVPT,FT Vest PLTR & Target Income ETF,FT Vest PLTR & Target Income ETF,Z,XVPT,Y,100.0,N,XVPT
 XVSP,FT Vest SPCX & Target Income ETF,FT Vest SPCX & Target Income ETF,Z,XVSP,Y,100.0,N,XVSP
 XVTS,FT Vest TSLA & Target Income ETF,FT Vest TSLA & Target Income ETF,Z,XVTS,Y,100.0,N,XVTS
 XVV,iShares ESG Select Screened S&P 500 ETF,iShares ESG Select Screened S&P 500 ETF,Z,XVV,Y,100.0,N,XVV
