@@ -213,7 +213,7 @@ ASBH,"American Savings Bank, N.A. Common Stock"
 ASC,Ardmore Shipping Corporation Common Stock
 ASG,Liberty All
 ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest
-ASGI.V,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued"
+ASGI.R,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights"
 ASH,Ashland Inc. Common Stock
 ASIC,Ategrity Specialty Insurance Company Holdings Common Stock
 ASIX,AdvanSix Inc. Common Stock 
@@ -304,6 +304,7 @@ BBY,"Best Buy Co., Inc. Common Stock"
 BC,Brunswick Corporation Common Stock
 BC$C,Brunswick Corporation 6.375% Notes due 2049
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest
+BCAT.V,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued"
 BCC,"Boise Cascade, L.L.C. Common Stock"
 BCE,"BCE, Inc. Common Stock"
 BCEM,Baron Emerging Markets Select ETF

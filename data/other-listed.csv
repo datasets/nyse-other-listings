@@ -418,7 +418,7 @@ ASCE,Allspring SMID Core ETF,Allspring SMID Core ETF,P,ASCE,Y,100.0,N,ASCE
 ASEA,Global X FTSE Southeast Asia ETF,Global X FTSE Southeast Asia ETF,P,ASEA,Y,100.0,N,ASEA
 ASG,Liberty All,"Liberty All-Star Growth Fund, Inc.",N,ASG,N,100.0,N,ASG
 ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,N,ASGI,N,100.0,N,ASGI
-ASGI.V,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued","abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",N,ASGIrw,N,100.0,N,ASGI^#
+ASGI.R,"abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights","abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",N,ASGIr,N,100.0,N,ASGI^
 ASGM,Virtus AlphaSimplex Global Macro ETF,Virtus AlphaSimplex Global Macro ETF,P,ASGM,Y,100.0,N,ASGM
 ASH,Ashland Inc. Common Stock,Ashland Inc. Common Stock,N,ASH,N,100.0,N,ASH
 ASHR,Xtrackers Harvest CSI 300 China A,Xtrackers Harvest CSI 300 China A-Shares ETF,P,ASHR,Y,100.0,N,ASHR
@@ -636,6 +636,7 @@ BBY,"Best Buy Co., Inc. Common Stock","Best Buy Co., Inc. Common Stock",N,BBY,N,
 BC,Brunswick Corporation Common Stock,Brunswick Corporation Common Stock,N,BC,N,100.0,N,BC
 BC$C,Brunswick Corporation 6.375% Notes due 2049,Brunswick Corporation 6.375% Notes due 2049,N,BCpC,N,100.0,N,BC-C
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest,N,BCAT,N,100.0,N,BCAT
+BCAT.V,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued","BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",N,BCATrw,N,100.0,N,BCAT^#
 BCC,"Boise Cascade, L.L.C. Common Stock","Boise Cascade, L.L.C. Common Stock",N,BCC,N,100.0,N,BCC
 BCCC,Global X Bitcoin Covered Call ETF,Global X Bitcoin Covered Call ETF,Z,BCCC,Y,100.0,N,BCCC
 BCD,abrdn Bloomberg All Commodity Longer Dated Strategy K,abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF,P,BCD,Y,100.0,N,BCD
@@ -972,7 +973,6 @@ BTGO,"BitGo Holdings, Inc. Class A Common Stock","BitGo Holdings, Inc. Class A C
 BTI,"British American Tobacco  Industries, p.l.c. Common Stock ADR","British American Tobacco  Industries, p.l.c. Common Stock ADR",N,BTI,N,100.0,N,BTI
 BTO,John Hancock Financial Opportunities Fund Common Stock,John Hancock Financial Opportunities Fund Common Stock,N,BTO,N,100.0,N,BTO
 BTOT,iShares Total USD Fixed Income Market ETF,iShares Total USD Fixed Income Market ETF,P,BTOT,Y,100.0,N,BTOT
-BTR,Beacon Tactical Risk ETF,Beacon Tactical Risk ETF,P,BTR,Y,100.0,N,BTR
 BTRN,Global X Bitcoin Trend Strategy ETF,Global X Bitcoin Trend Strategy ETF,P,BTRN,Y,100.0,N,BTRN
 BTT,BlackRock Municipal 2030 Target Term Trust,BlackRock Municipal 2030 Target Term Trust,N,BTT,N,100.0,N,BTT
 BTU,Peabody Energy Corporation Common Stock ,Peabody Energy Corporation Common Stock ,N,BTU,N,100.0,N,BTU
@@ -1597,6 +1597,7 @@ DBRG$H,"DigitalBridge Group, Inc. 7.125% Series H ","DigitalBridge Group, Inc. 7
 DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I ","DigitalBridge Group, Inc. 7.15% Series I ",N,DBRGpI,N,100.0,N,DBRG-I
 DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J ","DigitalBridge Group, Inc. 7.125% Series J ",N,DBRGpJ,N,100.0,N,DBRG-J
 DC,Dakota Gold Corp. Common Stock,Dakota Gold Corp. Common Stock,A,DC,N,100.0,N,DC
+DCAP,T,T-Strive Digital Credit Preferred Income ETF,Z,DCAP,Y,100.0,N,DCAP
 DCBG,"Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes","Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",N,DCBG,N,100.0,N,DCBG
 DCH,Dauch Corporation Common Stock,Dauch Corporation Common Stock,N,DCH,N,100.0,N,DCH
 DCI,"Donaldson Company, Inc. Common Stock","Donaldson Company, Inc. Common Stock",N,DCI,N,100.0,N,DCI
@@ -4284,6 +4285,7 @@ MG,Mistras Group Inc Common Stock,Mistras Group Inc Common Stock,N,MG,N,100.0,N,
 MGA,"Magna International, Inc. Common Stock","Magna International, Inc. Common Stock",N,MGA,N,100.0,N,MGA
 MGC,Vanguard Morningstar Mega Cap ETF,Vanguard Morningstar Mega Cap ETF,P,MGC,Y,100.0,N,MGC
 MGF,Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest,Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest,N,MGF,N,100.0,N,MGF
+MGIN,Man Active Global Infrastructure ETF,Man Active Global Infrastructure ETF,P,MGIN,Y,100.0,N,MGIN
 MGK,Vanguard Morningstar Mega Cap Growth ETF,Vanguard Morningstar Mega Cap Growth ETF,P,MGK,Y,40.0,N,MGK
 MGLD,"The Marygold Companies, Inc. Common Stock","The Marygold Companies, Inc. Common Stock",A,MGLD,N,100.0,N,MGLD
 MGM,MGM Resorts International Common Stock,MGM Resorts International Common Stock,N,MGM,N,100.0,N,MGM
@@ -6606,6 +6608,7 @@ TKR,Timken Company (The) Common Stock,Timken Company (The) Common Stock,N,TKR,N,
 TLCI,Touchstone International Equity ETF,Touchstone International Equity ETF,P,TLCI,Y,100.0,N,TLCI
 TLDR,The Laddered T,The Laddered T-Bill ETF,Z,TLDR,Y,100.0,N,TLDR
 TLH,iShares 10,iShares 10-20 Year Treasury Bond ETF,P,TLH,Y,100.0,N,TLH
+TLIE,American Beacon The London Company Income Equity ETF,American Beacon The London Company Income Equity ETF,P,TLIE,Y,100.0,N,TLIE
 TLK,"PT Telekomunikasi Indonesia, Tbk","PT Telekomunikasi Indonesia, Tbk",N,TLK,N,100.0,N,TLK
 TLTD,Northern Trust Morningstar Developed Markets ex,Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF,P,TLTD,Y,100.0,N,TLTD
 TLTE,Northern Trust Morningstar Emerging Markets Factor Tilt ETF,Northern Trust Morningstar Emerging Markets Factor Tilt ETF,P,TLTE,Y,100.0,N,TLTE
@@ -6997,6 +7000,7 @@ VAC,Marriott Vacations Worldwide Corporation Common Stock,Marriott Vacations Wor
 VACI,Viking Acquisition Corp. I Class A Ordinary Shares,Viking Acquisition Corp. I Class A Ordinary Shares,N,VACI,N,100.0,N,VACI
 VACI.U,"Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one","Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",N,VACI.U,N,100.0,N,VACI=
 VACI.W,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,N,VACI.WS,N,100.0,N,VACI+
+VAIC,VegaShares US Equity Autocallable Conservative Income ETF,VegaShares US Equity Autocallable Conservative Income ETF,P,VAIC,Y,100.0,N,VAIC
 VAIE,VegaShares US Equity Autocallable Income ETF,VegaShares US Equity Autocallable Income ETF,P,VAIE,Y,100.0,N,VAIE
 VAL,Valaris Limited Common Shares,Valaris Limited Common Shares,N,VAL,N,100.0,N,VAL
 VAL.W,Valaris Limited Warrants,Valaris Limited Warrants,N,VAL.WS,N,100.0,N,VAL+
