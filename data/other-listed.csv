@@ -1605,7 +1605,7 @@ DCMT,DoubleLine Commodity Strategy ETF,DoubleLine Commodity Strategy ETF,P,DCMT,
 DCO,Ducommun Incorporated Common Stock,Ducommun Incorporated Common Stock,N,DCO,N,100.0,N,DCO
 DCOM,"Dime Commercial Bancshares, Inc. Common Stock","Dime Commercial Bancshares, Inc. Common Stock",N,DCOM,N,100.0,N,DCOM
 DCOM$,"Dime Commercial Bancshares, Inc. Preferred Stock, Series A","Dime Commercial Bancshares, Inc. Preferred Stock, Series A",N,DCOMp,N,100.0,N,DCOM-
-DCOR,Dimensional US Core Equity 1 ETF,Dimensional US Core Equity 1 ETF,P,DCOR,Y,100.0,N,DCOR
+DCOR,US Core Equity 1 Portfolio ETF Class Shares,US Core Equity 1 Portfolio ETF Class Shares,P,DCOR,Y,100.0,N,DCOR
 DCRE,DoubleLine Commercial Real Estate Debt ETF,DoubleLine Commercial Real Estate Debt ETF,P,DCRE,Y,100.0,N,DCRE
 DD,"DuPont de Nemours, Inc. Common Stock","DuPont de Nemours, Inc. Common Stock",N,DD,N,100.0,N,DD
 DDC,DDC Enterprise Limited Class A Ordinary Shares,DDC Enterprise Limited Class A Ordinary Shares,A,DDC,N,100.0,N,DDC
@@ -1676,7 +1676,7 @@ DFAC,Dimensional U.S. Core Equity 2 ETF,Dimensional U.S. Core Equity 2 ETF,P,DFA
 DFAE,Dimensional Emerging Core Equity Market ETF,Dimensional Emerging Core Equity Market ETF,P,DFAE,Y,100.0,N,DFAE
 DFAI,Dimensional International Core Equity Market ETF,Dimensional International Core Equity Market ETF,P,DFAI,Y,100.0,N,DFAI
 DFAL,Dimensional US Large Cap Core Equity Market ETF,Dimensional US Large Cap Core Equity Market ETF,Z,DFAL,Y,100.0,N,DFAL
-DFAR,Dimensional US Real Estate ETF,Dimensional US Real Estate ETF,P,DFAR,Y,100.0,N,DFAR
+DFAR,DFA Real Estate Securities Portfolio ETF Class Shares,DFA Real Estate Securities Portfolio ETF Class Shares,P,DFAR,Y,100.0,N,DFAR
 DFAS,Dimensional U.S. Small Cap ETF,Dimensional U.S. Small Cap ETF,P,DFAS,Y,100.0,N,DFAS
 DFAT,Dimensional U.S. Targeted Value ETF,Dimensional U.S. Targeted Value ETF,P,DFAT,Y,100.0,N,DFAT
 DFAU,Dimensional US Core Equity Market ETF,Dimensional US Core Equity Market ETF,P,DFAU,Y,100.0,N,DFAU
@@ -1708,7 +1708,7 @@ DFSD,Dimensional Short,Dimensional Short-Duration Fixed Income ETF,P,DFSD,Y,100.
 DFSE,Dimensional Emerging Markets Sustainability Core 1 ETF,Dimensional Emerging Markets Sustainability Core 1 ETF,P,DFSE,Y,100.0,N,DFSE
 DFSI,Dimensional International Sustainability Core 1 ETF,Dimensional International Sustainability Core 1 ETF,P,DFSI,Y,100.0,N,DFSI
 DFSU,Dimensional US Sustainability Core 1 ETF,Dimensional US Sustainability Core 1 ETF,P,DFSU,Y,100.0,N,DFSU
-DFSV,Dimensional US Small Cap Value ETF,Dimensional US Small Cap Value ETF,P,DFSV,Y,100.0,N,DFSV
+DFSV,US Small Cap Value Portfolio ETF Class Shares,US Small Cap Value Portfolio ETF Class Shares,P,DFSV,Y,100.0,N,DFSV
 DFTT,DF Tactical 30 ETF,DF Tactical 30 ETF,P,DFTT,Y,100.0,N,DFTT
 DFUS,Dimensional U.S. Equity Market ETF,Dimensional U.S. Equity Market ETF,P,DFUS,Y,100.0,N,DFUS
 DFUV,Dimensional US Marketwide Value ETF,Dimensional US Marketwide Value ETF,P,DFUV,Y,100.0,N,DFUV
@@ -1879,7 +1879,7 @@ DTRE,First Trust Alerian Disruptive Technology Real Estate ETF,First Trust Aleri
 DTW,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077,N,DTW,N,100.0,N,DTW
 DUBS,Aptus Large Cap Enhanced Yield ETF,Aptus Large Cap Enhanced Yield ETF,Z,DUBS,Y,100.0,N,DUBS
 DUG,ProShares UltraShort Energy,ProShares UltraShort Energy,P,DUG,Y,100.0,N,DUG
-DUHP,Dimensional US High Profitability ETF,Dimensional US High Profitability ETF,P,DUHP,Y,100.0,N,DUHP
+DUHP,US High Relative Profitability Portfolio ETF Class Shares,US High Relative Profitability Portfolio ETF Class Shares,P,DUHP,Y,100.0,N,DUHP
 DUK,Duke Energy Corporation (Holding Company) Common Stock,Duke Energy Corporation (Holding Company) Common Stock,N,DUK,N,100.0,N,DUK
 DUK$A,"Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock","Duke Energy Corporation Depositary Shares, each representing a 1/1,000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock",N,DUKpA,N,100.0,N,DUK-A
 DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,N,DUKB,N,100.0,N,DUKB
@@ -1914,7 +1914,7 @@ DXD,ProShares UltraShort Dow30,ProShares UltraShort Dow30,P,DXD,Y,100.0,N,DXD
 DXF,Eason Technology Limited American Depositary Shares (each representing sixty,"Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",A,DXF,N,100.0,N,DXF
 DXIV,Dimensional International Vector Equity ETF,Dimensional International Vector Equity ETF,P,DXIV,Y,100.0,N,DXIV
 DXJ,WisdomTree Japan Hedged Equity Fund,WisdomTree Japan Hedged Equity Fund,P,DXJ,Y,100.0,N,DXJ
-DXUV,Dimensional US Vector Equity ETF,Dimensional US Vector Equity ETF,P,DXUV,Y,100.0,N,DXUV
+DXUV,US Vector Equity Portfolio ETF Class Shares,US Vector Equity Portfolio ETF Class Shares,P,DXUV,Y,100.0,N,DXUV
 DXYZ,Destiny Tech100 Inc. Common Stock,Destiny Tech100 Inc. Common Stock,N,DXYZ,N,100.0,N,DXYZ
 DY,"Dycom Industries, Inc. Common Stock","Dycom Industries, Inc. Common Stock",N,DY,N,40.0,N,DY
 DYLD,LeaderShares Dynamic Yield ETF,LeaderShares Dynamic Yield ETF,P,DYLD,Y,100.0,N,DYLD
@@ -3987,6 +3987,7 @@ LBRT,Liberty Energy Inc. Class A common stock,Liberty Energy Inc. Class A common
 LCAP,Principal Capital Appreciation Select ETF,Principal Capital Appreciation Select ETF,Z,LCAP,Y,100.0,N,LCAP
 LCF,Touchstone US Large Cap Focused ETF,Touchstone US Large Cap Focused ETF,Z,LCF,Y,100.0,N,LCF
 LCII,LCI Industries,LCI Industries,N,LCII,N,100.0,N,LCII
+LCIV,Logan Capital International ETF,Logan Capital International ETF,N,LCIV,Y,100.0,N,LCIV
 LCLG,Logan Capital Large Cap Growth ETF,Logan Capital Large Cap Growth ETF,P,LCLG,Y,100.0,N,LCLG
 LCLN,"Lincoln International, Inc. Class A Common Stock","Lincoln International, Inc. Class A Common Stock",N,LCLN,N,100.0,N,LCLN
 LCO,LOGIQ Contrarian Opportunities ETF,LOGIQ Contrarian Opportunities ETF,P,LCO,Y,100.0,N,LCO
@@ -5149,6 +5150,7 @@ PFLT,PennantPark Floating Rate Capital Ltd. Common Stock,PennantPark Floating Ra
 PFN,PIMCO Income Strategy Fund II,PIMCO Income Strategy Fund II,N,PFN,N,100.0,N,PFN
 PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,N,PFO,N,100.0,N,PFO
 PFRL,PGIM Floating Rate Income ETF,PGIM Floating Rate Income ETF,P,PFRL,Y,100.0,N,PFRL
+PFRX,Putnam Focused U.S. Research ETF,Putnam Focused U.S. Research ETF,P,PFRX,Y,100.0,N,PFRX
 PFS,"Provident Financial Services, Inc Common Stock","Provident Financial Services, Inc Common Stock",N,PFS,N,100.0,N,PFS
 PFSI,"PennyMac Financial Services, Inc. Common Stock","PennyMac Financial Services, Inc. Common Stock",N,PFSI,N,100.0,N,PFSI
 PFXF,VanEck Preferred Securities ex Financials ETF,VanEck Preferred Securities ex Financials ETF,P,PFXF,Y,100.0,N,PFXF
@@ -5867,9 +5869,6 @@ SBS,Companhia de saneamento Basico Do Estado De Sao Paulo ,Companhia de saneamen
 SBSI,"Southside Bancshares, Inc. Common Stock","Southside Bancshares, Inc. Common Stock",N,SBSI,N,100.0,N,SBSI
 SBSW,D/B/A Sibanye,D/B/A Sibanye-Stillwater Limited ADS,N,SBSW,N,100.0,N,SBSW
 SBTU,T,T-REX 2X Long SBET Daily Target ETF,Z,SBTU,Y,100.0,N,SBTU
-SBXD,SilverBox Corp IV Class A Ordinary Shares,SilverBox Corp IV Class A Ordinary Shares,N,SBXD,N,100.0,N,SBXD
-SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one","SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,SBXD.U,N,100.0,N,SBXD=
-SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50","SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",N,SBXD.WS,N,100.0,N,SBXD+
 SBXE,SilverBox Corp V Class A Ordinary Shares,SilverBox Corp V Class A Ordinary Shares,N,SBXE,N,100.0,N,SBXE
 SBXE.U,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one","SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",N,SBXE.U,N,100.0,N,SBXE=
 SBXE.W,"SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50","SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",N,SBXE.WS,N,100.0,N,SBXE+
@@ -6791,9 +6790,6 @@ TWI,"Titan International, Inc. (DE) Common Stock","Titan International, Inc. (DE
 TWLO,Twilio Inc. Class A Common Stock,Twilio Inc. Class A Common Stock,N,TWLO,N,100.0,N,TWLO
 TWM,ProShares UltraShort Russell2000,ProShares UltraShort Russell2000,P,TWM,Y,100.0,N,TWM
 TWN,"Taiwan Fund, Inc. (The) Common Stock","Taiwan Fund, Inc. (The) Common Stock",N,TWN,N,100.0,N,TWN
-TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),N,TWOpA,N,100.0,N,TWO-A
-TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpB,N,100.0,N,TWO-B
-TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,N,TWOpC,N,100.0,N,TWO-C
 TWOD,Two Harbors Investments Corp 9.375% Senior Notes due 2030,Two Harbors Investments Corp 9.375% Senior Notes due 2030,N,TWOD,N,100.0,N,TWOD
 TWOX,iShares Large Cap Accelerated Outcome ETF,iShares Large Cap Accelerated Outcome ETF,Z,TWOX,Y,100.0,N,TWOX
 TWSC,Corgi TSM 2x Daily ETF,Corgi TSM 2x Daily ETF,Z,TWSC,Y,100.0,N,TWSC

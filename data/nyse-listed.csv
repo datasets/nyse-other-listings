@@ -1535,6 +1535,7 @@ LAZ,"Lazard, Inc. Common Stock"
 LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests
 LBRT,Liberty Energy Inc. Class A common stock
 LCII,LCI Industries
+LCIV,Logan Capital International ETF
 LCLN,"Lincoln International, Inc. Class A Common Stock"
 LDI,"loanDepot, Inc. Class A Common Stock"
 LDOS,"Leidos Holdings, Inc. Common Stock"
@@ -2324,9 +2325,6 @@ SBR,Sabine Royalty Trust Common Stock
 SBS,Companhia de saneamento Basico Do Estado De Sao Paulo 
 SBSI,"Southside Bancshares, Inc. Common Stock"
 SBSW,D/B/A Sibanye
-SBXD,SilverBox Corp IV Class A Ordinary Shares
-SBXD.U,"SilverBox Corp IV Units, each consisting of one Class A ordinary share and one"
-SBXD.W,"SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50"
 SBXE,SilverBox Corp V Class A Ordinary Shares
 SBXE.U,"SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one"
 SBXE.W,"SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50"
@@ -2652,9 +2650,6 @@ TVE,Tennessee Valley Authority
 TWI,"Titan International, Inc. (DE) Common Stock"
 TWLO,Twilio Inc. Class A Common Stock
 TWN,"Taiwan Fund, Inc. (The) Common Stock"
-TWO$A,Two Harbors Investments Corp 8.125% Series A Fixed
-TWO$B,Two Harbors Investments Corp 7.625% Series B Fixed
-TWO$C,Two Harbors Investments Corp 7.25% Series C Fixed
 TWOD,Two Harbors Investments Corp 9.375% Senior Notes due 2030
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)"
 TXNM,"TXNM Energy, Inc. Common Stock"
