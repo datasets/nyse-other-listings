@@ -2729,7 +2729,6 @@ GBIL,Goldman Sachs Access Treasury 0,Goldman Sachs Access Treasury 0-1 Year ETF,
 GBND,Goldman Sachs Core Bond ETF,Goldman Sachs Core Bond ETF,P,GBND,Y,100.0,N,GBND
 GBR,"New Concept Energy, Inc Common Stock","New Concept Energy, Inc Common Stock",A,GBR,N,100.0,N,GBR
 GBTC,Grayscale Bitcoin Trust (BTC),Grayscale Bitcoin Trust (BTC),P,GBTC,Y,100.0,N,GBTC
-GBTG,"Global Business Travel Group, Inc. Class A Common Stock","Global Business Travel Group, Inc. Class A Common Stock",N,GBTG,N,100.0,N,GBTG
 GBX,"Greenbrier Companies, Inc. (The) Common Stock","Greenbrier Companies, Inc. (The) Common Stock",N,GBX,N,100.0,N,GBX
 GCAD,Gabelli Commercial Aerospace and Defense ETF,Gabelli Commercial Aerospace and Defense ETF,P,GCAD,Y,100.0,N,GCAD
 GCAL,Goldman Sachs Dynamic California Municipal Income ETF,Goldman Sachs Dynamic California Municipal Income ETF,P,GCAL,Y,100.0,N,GCAL
@@ -3486,7 +3485,6 @@ IOCT,Innovator International Developed Power Buffer ETF ,Innovator International
 ION,ProShares S&P Global Core Battery Metals ETF,ProShares S&P Global Core Battery Metals ETF,P,ION,Y,100.0,N,ION
 IONC,Corgi IONQ 2x Daily ETF,Corgi IONQ 2x Daily ETF,Z,IONC,Y,100.0,N,IONC
 IONQ,"IonQ, Inc. Common Stock","IonQ, Inc. Common Stock",N,IONQ,N,100.0,N,IONQ
-IONQ.W,"IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share","IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",N,IONQ.WS,N,100.0,N,IONQ+
 IOO,iShares Global 100 ETF,iShares Global 100 ETF,P,IOO,Y,100.0,N,IOO
 IOPP,Simplify Tara India Opportunities ETF,Simplify Tara India Opportunities ETF,P,IOPP,Y,100.0,N,IOPP
 IOR,"Income Opportunity Realty Investors, Inc. Common Stock","Income Opportunity Realty Investors, Inc. Common Stock",A,IOR,N,100.0,N,IOR
@@ -3987,7 +3985,6 @@ LBRT,Liberty Energy Inc. Class A common stock,Liberty Energy Inc. Class A common
 LCAP,Principal Capital Appreciation Select ETF,Principal Capital Appreciation Select ETF,Z,LCAP,Y,100.0,N,LCAP
 LCF,Touchstone US Large Cap Focused ETF,Touchstone US Large Cap Focused ETF,Z,LCF,Y,100.0,N,LCF
 LCII,LCI Industries,LCI Industries,N,LCII,N,100.0,N,LCII
-LCIV,Logan Capital International ETF,Logan Capital International ETF,N,LCIV,Y,100.0,N,LCIV
 LCLG,Logan Capital Large Cap Growth ETF,Logan Capital Large Cap Growth ETF,P,LCLG,Y,100.0,N,LCLG
 LCLN,"Lincoln International, Inc. Class A Common Stock","Lincoln International, Inc. Class A Common Stock",N,LCLN,N,100.0,N,LCLN
 LCO,LOGIQ Contrarian Opportunities ETF,LOGIQ Contrarian Opportunities ETF,P,LCO,Y,100.0,N,LCO
@@ -4133,6 +4130,7 @@ LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,Lucky Strike En
 LUD,Luda Technology Group Limited Ordinary Shares,Luda Technology Group Limited Ordinary Shares,A,LUD,N,100.0,N,LUD
 LUMA,KraneShares Photonic and Optical ETF,KraneShares Photonic and Optical ETF,P,LUMA,Y,100.0,N,LUMA
 LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common Stock",N,LUMN,N,100.0,N,LUMN
+LUNC,Longnook Uncommon Compounders ETF,Longnook Uncommon Compounders ETF,P,LUNC,Y,100.0,N,LUNC
 LUNL,Defiance Daily Target 2X Long LUNR ETF,Defiance Daily Target 2X Long LUNR ETF,Z,LUNL,Y,100.0,N,LUNL
 LUV,Southwest Airlines Company Common Stock,Southwest Airlines Company Common Stock,N,LUV,N,100.0,N,LUV
 LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share","LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share",N,LUXE,N,100.0,N,LUXE
@@ -4750,6 +4748,7 @@ NRGV,"Energy Vault Holdings, Inc. Common Stock","Energy Vault Holdings, Inc. Com
 NRK,Nuveen New York AMT,Nuveen New York AMT-Free Quality Municipal Income Fund ,N,NRK,N,100.0,N,NRK
 NRO,Neuberger Real Estate Securities Income Fund Inc. Common Stock,Neuberger Real Estate Securities Income Fund Inc. Common Stock,A,NRO,N,100.0,N,NRO
 NRP,Natural Resource Partners LP Limited Partnership,Natural Resource Partners LP Limited Partnership,N,NRP,N,100.0,N,NRP
+NRR,Common Shares of Beneficial Interest of Bitwise NEAR ETF,Common Shares of Beneficial Interest of Bitwise NEAR ETF,P,NRR,Y,100.0,N,NRR
 NRSH,Aztlan North America Nearshoring Stock Selection ETF,Aztlan North America Nearshoring Stock Selection ETF,P,NRSH,Y,100.0,N,NRSH
 NRT,North European Oil Royality Trust Common Stock,North European Oil Royality Trust Common Stock,N,NRT,N,100.0,N,NRT
 NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),N,NRUC,N,100.0,N,NRUC
