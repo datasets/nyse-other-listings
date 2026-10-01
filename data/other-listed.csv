@@ -57,6 +57,7 @@ ACH,"Accendra Health, Inc. Common Stock","Accendra Health, Inc. Common Stock",N,
 ACHR,Archer Aviation Inc. Class A Common Stock,Archer Aviation Inc. Class A Common Stock,N,ACHR,N,100.0,N,ACHR
 ACHX,Corgi ACHR 2x Daily ETF,Corgi ACHR 2x Daily ETF,Z,ACHX,Y,100.0,N,ACHX
 ACI,"Albertsons Companies, Inc. Class A Common Stock","Albertsons Companies, Inc. Class A Common Stock",N,ACI,N,100.0,N,ACI
+ACIG,Hartford Alpha Capture International Growth ETF,Hartford Alpha Capture International Growth ETF,Z,ACIG,Y,100.0,N,ACIG
 ACII,Innovator Index Autocallable Income Strategy ETF,Innovator Index Autocallable Income Strategy ETF,P,ACII,Y,100.0,N,ACII
 ACIO,Aptus Collared Investment Opportunity ETF,Aptus Collared Investment Opportunity ETF,Z,ACIO,Y,100.0,N,ACIO
 ACKY,VistaShares Target 15 ACKtivist Distribution ETF,VistaShares Target 15 ACKtivist Distribution ETF,P,ACKY,Y,100.0,N,ACKY
@@ -75,6 +76,7 @@ ACR$D,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Prefer
 ACRE,Ares Commercial Real Estate Corporation Common Stock,Ares Commercial Real Estate Corporation Common Stock,N,ACRE,N,100.0,N,ACRE
 ACSG,American Century Small Cap Growth Insights ETF,American Century Small Cap Growth Insights ETF,Z,ACSG,Y,100.0,N,ACSG
 ACSI,American Customer Satisfaction ETF,American Customer Satisfaction ETF,Z,ACSI,Y,100.0,N,ACSI
+ACSM,Hartford Alpha Capture SMID Cap ETF,Hartford Alpha Capture SMID Cap ETF,Z,ACSM,Y,100.0,N,ACSM
 ACSV,American Century Small Cap Value Insights ETF,American Century Small Cap Value Insights ETF,Z,ACSV,Y,100.0,N,ACSV
 ACTS,FIS Tactical Equity ETF,FIS Tactical Equity ETF,P,ACTS,Y,100.0,N,ACTS
 ACU,Acme United Corporation. Common Stock,Acme United Corporation. Common Stock,A,ACU,N,100.0,N,ACU
@@ -295,7 +297,6 @@ AMUB,"ETRACS Alerian MLP Index ETN Series B due July 18, 2042","ETRACS Alerian M
 AMWL,American Well Corporation Class A Common Stock,American Well Corporation Class A Common Stock,N,AMWL,N,100.0,N,AMWL
 AMX,"America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares","America Movil, S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares",N,AMX,N,100.0,N,AMX
 AMZA,InfraCap MLP ETF,InfraCap MLP ETF,P,AMZA,Y,100.0,N,AMZA
-AMZE,"Amaze Holdings, Inc. Common Stock","Amaze Holdings, Inc. Common Stock",A,AMZE,N,100.0,N,AMZE
 AMZG,Leverage Shares 2X Long AMZN Daily ETF,Leverage Shares 2X Long AMZN Daily ETF,Z,AMZG,Y,100.0,N,AMZG
 AMZO,Tradr 2X Short AMZN Daily ETF,Tradr 2X Short AMZN Daily ETF,Z,AMZO,Y,100.0,N,AMZO
 AMZP,Kurv Yield Premium Strategy Amazon (AMZN) ETF,Kurv Yield Premium Strategy Amazon (AMZN) ETF,Z,AMZP,Y,100.0,N,AMZP
@@ -504,6 +505,7 @@ AVMA,Avantis Moderate Allocation ETF,Avantis Moderate Allocation ETF,P,AVMA,Y,10
 AVMC,Avantis U.S. Mid Cap Equity ETF,Avantis U.S. Mid Cap Equity ETF,P,AVMC,Y,100.0,N,AVMC
 AVMU,Avantis Core Municipal Fixed Income ETF,Avantis Core Municipal Fixed Income ETF,P,AVMU,Y,100.0,N,AVMU
 AVMV,Avantis U.S. Mid Cap Value ETF,Avantis U.S. Mid Cap Value ETF,P,AVMV,Y,100.0,N,AVMV
+AVNC,Avantis All International Core Equity ETF,Avantis All International Core Equity ETF,P,AVNC,Y,100.0,N,AVNC
 AVNM,Avantis All International Markets Equity ETF,Avantis All International Markets Equity ETF,P,AVNM,Y,100.0,N,AVNM
 AVNT,Avient Corporation Common Stock,Avient Corporation Common Stock,N,AVNT,N,100.0,N,AVNT
 AVNV,Avantis All International Markets Value ETF,Avantis All International Markets Value ETF,P,AVNV,Y,100.0,N,AVNV
@@ -1576,6 +1578,7 @@ DAUG,FT Vest U.S. Equity Deep Buffer ETF ,FT Vest U.S. Equity Deep Buffer ETF - 
 DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share),Endava plc American Depositary Shares (each representing one Class A Ordinary Share),N,DAVA,N,100.0,N,DAVA
 DB,Deutsche Bank AG Common Stock,Deutsche Bank AG Common Stock,N,DB,N,100.0,N,DB
 DBA,Invesco DB Agriculture Fund,Invesco DB Agriculture Fund,P,DBA,Y,100.0,N,DBA
+DBAR,IMGP DBI Absolute Return ETF,IMGP DBI Absolute Return ETF,P,DBAR,Y,100.0,N,DBAR
 DBAW,Xtrackers MSCI All World ex US Hedged Equity ETF,Xtrackers MSCI All World ex US Hedged Equity ETF,P,DBAW,Y,100.0,N,DBAW
 DBB,Invesco DB Base Metals Fund,Invesco DB Base Metals Fund,P,DBB,Y,100.0,N,DBB
 DBC,Invesco DB Commodity Index Tracking Fund,Invesco DB Commodity Index Tracking Fund,P,DBC,Y,100.0,N,DBC
@@ -1592,7 +1595,6 @@ DBMF,iMGP DBi Managed Futures Strategy ETF,iMGP DBi Managed Futures Strategy ETF
 DBND,DoubleLine Opportunistic Core Bond ETF,DoubleLine Opportunistic Core Bond ETF,P,DBND,Y,100.0,N,DBND
 DBO,Invesco DB Oil Fund,Invesco DB Oil Fund,P,DBO,Y,100.0,N,DBO
 DBP,Invesco DB Precious Metals Fund,Invesco DB Precious Metals Fund,P,DBP,Y,100.0,N,DBP
-DBRG,"DigitalBridge Group, Inc.","DigitalBridge Group, Inc.",N,DBRG,N,100.0,N,DBRG
 DBRG$H,"DigitalBridge Group, Inc. 7.125% Series H ","DigitalBridge Group, Inc. 7.125% Series H ",N,DBRGpH,N,100.0,N,DBRG-H
 DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I ","DigitalBridge Group, Inc. 7.15% Series I ",N,DBRGpI,N,100.0,N,DBRG-I
 DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J ","DigitalBridge Group, Inc. 7.125% Series J ",N,DBRGpJ,N,100.0,N,DBRG-J
@@ -2781,7 +2783,6 @@ GENM,Genter Capital Municipal Quality Intermediate ETF,Genter Capital Municipal 
 GENT,Genter Capital Taxable Quality Intermediate ETF,Genter Capital Taxable Quality Intermediate ETF,P,GENT,Y,100.0,N,GENT
 GENW,Genter Capital International Dividend ETF,Genter Capital International Dividend ETF,P,GENW,Y,100.0,N,GENW
 GEO,Geo Group Inc (The) REIT,Geo Group Inc (The) REIT,N,GEO,N,100.0,N,GEO
-GETY,"Getty Images Holdings, Inc. Class A Common Stock","Getty Images Holdings, Inc. Class A Common Stock",N,GETY,N,100.0,N,GETY
 GEV,GE Vernova Inc. Common Stock,GE Vernova Inc. Common Stock,N,GEV,N,40.0,N,GEV
 GEVC,Corgi GEV 2x Daily ETF,Corgi GEV 2x Daily ETF,Z,GEVC,Y,100.0,N,GEVC
 GEVX,Tradr 2X Long GEV Daily ETF,Tradr 2X Long GEV Daily ETF,Z,GEVX,Y,100.0,N,GEVX
@@ -3563,6 +3564,7 @@ ITT,ITT Inc. Common Stock ,ITT Inc. Common Stock ,N,ITT,N,100.0,N,ITT
 ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),N,ITUB,N,100.0,N,ITUB
 ITW,Illinois Tool Works Inc. Common Stock,Illinois Tool Works Inc. Common Stock,N,ITW,N,40.0,N,ITW
 ITWO,ProShares Russell 2000 High Income ETF,ProShares Russell 2000 High Income ETF,Z,ITWO,Y,100.0,N,ITWO
+IVAI,Ives Ultra AI Opportunities Inc. Common Stock,Ives Ultra AI Opportunities Inc. Common Stock,N,IVAI,N,100.0,N,IVAI
 IVE,iShares S&P 500 Value ETF,iShares S&P 500 Value ETF,P,IVE,Y,100.0,N,IVE
 IVEP,Dan IVES Wedbush AI Power & Infrastructure ETF,Dan IVES Wedbush AI Power & Infrastructure ETF,P,IVEP,Y,100.0,N,IVEP
 IVES,Dan IVES Wedbush AI Revolution ETF,Dan IVES Wedbush AI Revolution ETF,P,IVES,Y,100.0,N,IVES
@@ -3765,6 +3767,7 @@ JPSV,JPMorgan Active Small Cap Value ETF,JPMorgan Active Small Cap Value ETF,P,J
 JPUS,JPMorgan Diversified Return U.S. Equity ETF,JPMorgan Diversified Return U.S. Equity ETF,P,JPUS,Y,100.0,N,JPUS
 JPXN,iShares JPX,iShares JPX-Nikkei 400 ETF,P,JPXN,Y,100.0,N,JPXN
 JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,N,JQC,N,100.0,N,JQC
+JQTY,Jensen U.S. Quality Index ETF,Jensen U.S. Quality Index ETF,P,JQTY,Y,100.0,N,JQTY
 JQUA,JPMorgan U.S. Quality Factor ETF,JPMorgan U.S. Quality Factor ETF,P,JQUA,Y,100.0,N,JQUA
 JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,N,JRI,N,100.0,N,JRI
 JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,N,JRS,N,100.0,N,JRS
@@ -3985,6 +3988,7 @@ LBRT,Liberty Energy Inc. Class A common stock,Liberty Energy Inc. Class A common
 LCAP,Principal Capital Appreciation Select ETF,Principal Capital Appreciation Select ETF,Z,LCAP,Y,100.0,N,LCAP
 LCF,Touchstone US Large Cap Focused ETF,Touchstone US Large Cap Focused ETF,Z,LCF,Y,100.0,N,LCF
 LCII,LCI Industries,LCI Industries,N,LCII,N,100.0,N,LCII
+LCIV,Logan Capital International ETF,Logan Capital International ETF,N,LCIV,Y,100.0,N,LCIV
 LCLG,Logan Capital Large Cap Growth ETF,Logan Capital Large Cap Growth ETF,P,LCLG,Y,100.0,N,LCLG
 LCLN,"Lincoln International, Inc. Class A Common Stock","Lincoln International, Inc. Class A Common Stock",N,LCLN,N,100.0,N,LCLN
 LCO,LOGIQ Contrarian Opportunities ETF,LOGIQ Contrarian Opportunities ETF,P,LCO,Y,100.0,N,LCO
@@ -6474,7 +6478,7 @@ TCHP,T. Rowe Price Blue Chip Growth ETF,T. Rowe Price Blue Chip Growth ETF,P,TCH
 TCI,"Transcontinental Realty Investors, Inc. Common Stock","Transcontinental Realty Investors, Inc. Common Stock",N,TCI,N,100.0,N,TCI
 TCPA,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085,TransCanada PipeLines Limited 6.250% Junior Subordinated Notes due 2085,N,TCPA,N,100.0,N,TCPA
 TCPB,Thrivent Core Plus Bond ETF,Thrivent Core Plus Bond ETF,P,TCPB,Y,100.0,N,TCPB
-TCV,Towle Value ETF,Towle Value ETF,P,TCV,Y,100.0,N,TCV
+TCV,Towle Small,Towle Small-Cap Value ETF,P,TCV,Y,100.0,N,TCV
 TD,Toronto Dominion Bank (The) Common Stock,Toronto Dominion Bank (The) Common Stock,N,TD,N,100.0,N,TD
 TDAQ,TappAlpha Innovation 100 Growth & Daily Income ETF,TappAlpha Innovation 100 Growth & Daily Income ETF,Z,TDAQ,Y,100.0,N,TDAQ
 TDAX,TDAQ Lift ETF,TDAQ Lift ETF,Z,TDAX,Y,100.0,N,TDAX
