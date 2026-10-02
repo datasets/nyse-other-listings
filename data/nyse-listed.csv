@@ -1596,7 +1596,6 @@ LZM.W,Lifezone Metals Limited Warrants
 M,Macy's Inc Common Stock
 MA,Mastercard Incorporated Common Stock
 MAA,Mid
-MAA$I,Mid
 MAC,Macerich Company (The) Common Stock
 MAGN,Magnera Corporation Common Stock
 MAIN,Main Street Capital Corporation Common Stock
@@ -1833,7 +1832,6 @@ NLOP,Net Lease Office Properties Common Shares of Beneficial Interest
 NLY,Annaly Capital Management Inc. Common Stock
 NLY$F,Annaly Capital Management Inc 6.95% Series F
 NLY$G,Annaly Capital Management Inc 6.50% Series G Fixed
-NLY$I,Annaly Capital Management Inc 6.750% Series I Fixed
 NLY$J,Annaly Capital Management Inc. 8.875% Series J Fixed
 NMAI,Nuveen Multi
 NMAX,"Newsmax, Inc. Class B Common Stock"
@@ -2097,6 +2095,7 @@ PNNT,PennantPark Investment Corporation Common Stock
 PNR,Pentair plc. Ordinary Share
 PNW,Pinnacle West Capital Corporation Common Stock
 POR,Portland General Electric Co Common Stock
+PORT.U,"Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one"
 POST,"Post Holdings, Inc. Common Stock"
 PPG,"PPG Industries, Inc. Common Stock"
 PPL,PPL Corporation Common Stock
@@ -2708,6 +2707,7 @@ UTZ,Utz Brands Inc Class A Common Stock
 UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock
 UVV,Universal Corporation Common Stock
 UWMC,UWM Holdings Corporation Class A Common Stock
+UWMC.V,"UWM Holdings Corporation Rights (November 12, 2026) Rights when issued"
 UZD,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069"
 UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"
 UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"
@@ -2782,6 +2782,7 @@ VTS,"Vitesse Energy, Inc. Common Stock"
 VVR,Invesco Senior Income Trust Common Stock (DE)
 VVV,Valvoline Inc. Common Stock
 VVX,"V2X, Inc. Common Stock"
+VYLR,Vylor Inc. Common Stock
 VYX,NCR Voyix Corporation Common Stock
 VZ,Verizon Communications Inc. Common Stock
 W,Wayfair Inc. Class A Common Stock
