@@ -654,6 +654,7 @@ BCI,abrdn Bloomberg All Commodity Strategy K,abrdn Bloomberg All Commodity Strat
 BCIL,Bancreek International Large Cap ETF,Bancreek International Large Cap ETF,P,BCIL,Y,100.0,N,BCIL
 BCKT,LifeX 2030 Income Bucket ETF,LifeX 2030 Income Bucket ETF,Z,BCKT,Y,100.0,N,BCKT
 BCO,Brinks Company (The) Common Stock,Brinks Company (The) Common Stock,N,BCO,N,100.0,N,BCO
+BCOM,Rareview Bloomberg Commodity Index ETF,Rareview Bloomberg Commodity Index ETF,Z,BCOM,Y,100.0,N,BCOM
 BCOR,Grayscale Bitcoin Adopters ETF,Grayscale Bitcoin Adopters ETF,P,BCOR,Y,100.0,N,BCOR
 BCPL,BNY Mellon Core Plus ETF,BNY Mellon Core Plus ETF,P,BCPL,Y,100.0,N,BCPL
 BCS,Barclays PLC Common Stock,Barclays PLC Common Stock,N,BCS,N,100.0,N,BCS
@@ -1911,6 +1912,7 @@ DWWN,Principal Long Duration ETF,Principal Long Duration ETF,Z,DWWN,Y,100.0,N,DW
 DWX,State Street SPDR S&P International Dividend ETF,State Street SPDR S&P International Dividend ETF,P,DWX,Y,100.0,N,DWX
 DX,"Dynex Capital, Inc. Common Stock","Dynex Capital, Inc. Common Stock",N,DX,N,100.0,N,DX
 DX$C,"Dynex Capital, Inc. 6.900% Series C Fixed","Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",N,DXpC,N,100.0,N,DX-C
+DX$D,"Dynex Capital, Inc. 9.375% Series D Fixed","Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",N,DXpD,N,100.0,N,DX-D
 DXC,DXC Technology Company Common Stock ,DXC Technology Company Common Stock ,N,DXC,N,100.0,N,DXC
 DXD,ProShares UltraShort Dow30,ProShares UltraShort Dow30,P,DXD,Y,100.0,N,DXD
 DXF,Eason Technology Limited American Depositary Shares (each representing sixty,"Eason Technology Limited American Depositary Shares (each representing sixty-thousand (60,000) Ordinary Shares)",A,DXF,N,100.0,N,DXF
@@ -4385,6 +4387,7 @@ MMSD,NYLIM MacKay Muni Short Duration ETF,NYLIM MacKay Muni Short Duration ETF,P
 MMT,Aberdeen Multi,Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest,N,MMT,N,100.0,N,MMT
 MMTM,State Street SPDR S&P 1500 Momentum Tilt ETF,State Street SPDR S&P 1500 Momentum Tilt ETF,P,MMTM,Y,40.0,N,MMTM
 MMU,"Western Asset Managed Municipals Fund, Inc. Common Stock","Western Asset Managed Municipals Fund, Inc. Common Stock",N,MMU,N,100.0,N,MMU
+MN,Corgi MANGOS ETF,Corgi MANGOS ETF,Z,MN,Y,100.0,N,MN
 MNA,NYLIM Merger Arbitrage ETF,NYLIM Merger Arbitrage ETF,P,MNA,Y,100.0,N,MNA
 MNBD,ALPS BBH Intermediate Municipal Bond ETF,ALPS BBH Intermediate Municipal Bond ETF,P,MNBD,Y,100.0,N,MNBD
 MNGB,Yorkville America 2X Inverse MANGOS Plus Daily Target ETF,Yorkville America 2X Inverse MANGOS Plus Daily Target ETF,P,MNGB,Y,100.0,N,MNGB
@@ -4765,6 +4768,8 @@ NSIG,North Square Growth Opportunities ETF,North Square Growth Opportunities ETF
 NSIV,North Square Disciplined Value ETF,North Square Disciplined Value ETF,P,NSIV,Y,100.0,N,NSIV
 NSP,"Insperity, Inc. Common Stock","Insperity, Inc. Common Stock",N,NSP,N,100.0,N,NSP
 NSRX,Nasus Pharma Ltd. Ordinary Shares,Nasus Pharma Ltd. Ordinary Shares,A,NSRX,N,100.0,N,NSRX
+NSTR,"NorthStar Earth & Space Enterprises, Inc. Common Shares","NorthStar Earth & Space Enterprises, Inc. Common Shares",A,NSTR,N,100.0,N,NSTR
+NSTR.W,"NorthStar Earth & Space Enterprises, Inc. Warrants","NorthStar Earth & Space Enterprises, Inc. Warrants",A,NSTR.WS,N,100.0,N,NSTR+
 NTB,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,N,NTB,N,100.0,N,NTB
 NTIP,Network,"Network-1 Technologies, Inc. Common Stock",A,NTIP,N,100.0,N,NTIP
 NTR,Nutrien Ltd. Common Shares,Nutrien Ltd. Common Shares,N,NTR,N,100.0,N,NTR
@@ -7004,9 +7009,6 @@ UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070","Array Dig
 V,Visa Inc.,Visa Inc.,N,V,N,40.0,N,V
 VABS,Virtus Newfleet ABS/MBS ETF,Virtus Newfleet ABS/MBS ETF,P,VABS,Y,100.0,N,VABS
 VAC,Marriott Vacations Worldwide Corporation Common Stock,Marriott Vacations Worldwide Corporation Common Stock,N,VAC,N,100.0,N,VAC
-VACI,Viking Acquisition Corp. I Class A Ordinary Shares,Viking Acquisition Corp. I Class A Ordinary Shares,N,VACI,N,100.0,N,VACI
-VACI.U,"Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one","Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",N,VACI.U,N,100.0,N,VACI=
-VACI.W,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share,N,VACI.WS,N,100.0,N,VACI+
 VAIC,VegaShares US Equity Autocallable Conservative Income ETF,VegaShares US Equity Autocallable Conservative Income ETF,P,VAIC,Y,100.0,N,VAIC
 VAIE,VegaShares US Equity Autocallable Income ETF,VegaShares US Equity Autocallable Income ETF,P,VAIE,Y,100.0,N,VAIE
 VAL,Valaris Limited Common Shares,Valaris Limited Common Shares,N,VAL,N,100.0,N,VAL
