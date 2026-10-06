@@ -304,7 +304,7 @@ BBY,"Best Buy Co., Inc. Common Stock"
 BC,Brunswick Corporation Common Stock
 BC$C,Brunswick Corporation 6.375% Notes due 2049
 BCAT,BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest
-BCAT.V,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued"
+BCAT.R,"BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights"
 BCC,"Boise Cascade, L.L.C. Common Stock"
 BCE,"BCE, Inc. Common Stock"
 BCEM,Baron Emerging Markets Select ETF
@@ -734,9 +734,6 @@ DB,Deutsche Bank AG Common Stock
 DBD,Diebold Nixdorf Incorporated Common stock
 DBI,Designer Brands Inc. Class A Common Stock
 DBL,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest
-DBRG$H,"DigitalBridge Group, Inc. 7.125% Series H "
-DBRG$I,"DigitalBridge Group, Inc. 7.15% Series I "
-DBRG$J,"DigitalBridge Group, Inc. 7.125% Series J "
 DCBG,"Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes"
 DCH,Dauch Corporation Common Stock
 DCI,"Donaldson Company, Inc. Common Stock"
@@ -746,8 +743,6 @@ DCOM$,"Dime Commercial Bancshares, Inc. Preferred Stock, Series A"
 DD,"DuPont de Nemours, Inc. Common Stock"
 DDD,3D Systems Corporation Common Stock
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares)
-DDS,"Dillard's, Inc. Common Stock"
-DDT,Dillard's Capital Trust I
 DE,Deere & Company Common Stock
 DEA,"Easterly Government Properties, Inc. Common Stock"
 DEC,Diversified Energy Company Common Stock
@@ -938,8 +933,6 @@ ESNT,Essent Group Ltd. Common Shares
 ESRT,"Empire State Realty Trust, Inc. Class A Common Stock"
 ESS,"Essex Property Trust, Inc. Common Stock"
 ESTC,Elastic N.V. Ordinary Shares
-ET,Energy Transfer LP Common Units 
-ET$I,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units
 ETB,Eaton Vance Tax
 ETD,Ethan Allen Interiors Inc. Common Stock
 ETG,Eaton Vance Tax
@@ -1220,7 +1213,6 @@ GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest
 GUT,Gabelli Utility Trust (The) Common Stock
 GUT$C,Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares
 GVA,Granite Construction Incorporated Common Stock
-GWH,"ESS Tech, Inc. Common Stock"
 GWRE,"Guidewire Software, Inc. Common Stock"
 GWW,"W.W. Grainger, Inc. Common Stock"
 GXO,"GXO Logistics, Inc. Common Stock "
@@ -2494,9 +2486,7 @@ STXV,Strive 1000 Value ETF
 STZ,"Constellation Brands, Inc. Common Stock"
 SU,Suncor Energy  Inc. Common Stock
 SUI,"Sun Communities, Inc. Common Stock"
-SUN,Sunoco LP Common Units representing limited partner interests
 SUNB,"Sunbelt Rentals Holdings, Inc. Common Stock"
-SUNC,"SunocoCorp LLC Common Units, representing limited liability company interests"
 SUPV,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares
 SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share)
 SVV,"Savers Value Village, Inc. Common Stock"
@@ -2647,7 +2637,6 @@ TVE,Tennessee Valley Authority
 TWI,"Titan International, Inc. (DE) Common Stock"
 TWLO,Twilio Inc. Class A Common Stock
 TWN,"Taiwan Fund, Inc. (The) Common Stock"
-TWOD,Two Harbors Investments Corp 9.375% Senior Notes due 2030
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)"
 TXNM,"TXNM Energy, Inc. Common Stock"
 TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests"
@@ -2690,7 +2679,6 @@ UP,Wheels Up Experience Inc. Class A Common Stock
 UPS,"United Parcel Service, Inc. Common Stock"
 URI,"United Rentals, Inc. Common Stock"
 USA,Liberty All
-USAC,"USA Compression Partners, LP Common Units Representing Limited Partner Interests"
 USB,U.S. Bancorp Common Stock
 USB$A,"U.S. Bancorp Depositary Shares, Each representing a 1/100th interest in a share of Series A Non"
 USB$H,U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B
