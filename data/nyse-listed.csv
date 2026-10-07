@@ -689,8 +689,6 @@ CSW,"CSW Industrials, Inc. Common Stock"
 CTA$A,"EIDP, Inc. Preferred Stock $3.50 Series"
 CTA$B,"EIDP, Inc. Preferred Stock $4.50 Series"
 CTEV,Claritev Corporation Class A Common Stock
-CTGG,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)
-CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)
 CTO,"CTO Realty Growth, Inc. Common Stock"
 CTO$A,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock"
 CTOS,"Custom Truck One Source, Inc. Common Stock"
@@ -1568,7 +1566,6 @@ LTH,"Life Time Group Holdings, Inc. Common Stock"
 LTM,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)"
 LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares"
 LUCK,Lucky Strike Entertainment Corporation Class A Common Stock
-LUMN,"Lumen Technologies, Inc. Common Stock"
 LUV,Southwest Airlines Company Common Stock
 LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share"
 LVS,Las Vegas Sands Corp. Common Stock
@@ -2375,6 +2372,7 @@ SKIL,Skillsoft Corp. Class A Common Stock
 SKM,"SK Telecom Co., Ltd. Common Stock"
 SKT,Tanger Inc. Common Stock
 SKY,"Champion Homes, Inc. Common Stock"
+SKYD,Skydance Corporation Class B Common Stock
 SKYH,Sky Harbour Group Corporation Class A Common Stock
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share"
 SLB,SLB Limited Common Shares
@@ -2696,7 +2694,6 @@ UTZ,Utz Brands Inc Class A Common Stock
 UVE,UNIVERSAL INSURANCE HOLDINGS INC Common Stock
 UVV,Universal Corporation Common Stock
 UWMC,UWM Holdings Corporation Class A Common Stock
-UWMC.V,"UWM Holdings Corporation Rights (November 12, 2026) Rights when issued"
 UZD,"Array Digital Infrastructure, Inc. 6.250% Senior Notes due 2069"
 UZE,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"
 UZF,"Array Digital Infrastructure, Inc. 5.500% Senior Notes due 2070"

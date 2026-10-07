@@ -1495,9 +1495,7 @@ CTAU,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Stru
 CTEF,Castellan Targeted Equity ETF,Castellan Targeted Equity ETF,Z,CTEF,Y,100.0,N,CTEF
 CTEV,Claritev Corporation Class A Common Stock,Claritev Corporation Class A Common Stock,N,CTEV,N,100.0,N,CTEV
 CTEX,ProShares S&P Kensho Cleantech ETF,ProShares S&P Kensho Cleantech ETF,P,CTEX,Y,100.0,N,CTEX
-CTGG,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),N,CTGG,N,100.0,N,CTGG
 CTGO,Contango Silver & Gold Inc. Common Stock,Contango Silver & Gold Inc. Common Stock,A,CTGO,N,100.0,N,CTGO
-CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),N,CTHH,N,100.0,N,CTHH
 CTIF,Castellan Targeted Income ETF,Castellan Targeted Income ETF,Z,CTIF,Y,100.0,N,CTIF
 CTJL,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Structured Buffer ETF - July Series,Z,CTJL,Y,100.0,N,CTJL
 CTJN,Corgi U.S. Equities 30% Structured Buffer ETF ,Corgi U.S. Equities 30% Structured Buffer ETF - June Series,Z,CTJN,Y,100.0,N,CTJN
@@ -2871,6 +2869,7 @@ GLW,Corning Incorporated Common Stock,Corning Incorporated Common Stock,N,GLW,N,
 GLX,Corgi GLXY 2x Daily ETF,Corgi GLXY 2x Daily ETF,Z,GLX,Y,100.0,N,GLX
 GLXU,T,T-REX 2X Long GLXY Daily Target ETF,Z,GLXU,Y,100.0,N,GLXU
 GM,General Motors Company Common Stock,General Motors Company Common Stock,N,GM,N,100.0,N,GM
+GMAC,Simplify Brookwood Global Macro ETF,Simplify Brookwood Global Macro ETF,P,GMAC,Y,100.0,N,GMAC
 GMAR,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - March,Z,GMAR,Y,100.0,N,GMAR
 GMAY,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - May,Z,GMAY,Y,100.0,N,GMAY
 GME,GameStop Corporation Common Stock,GameStop Corporation Common Stock,N,GME,N,100.0,N,GME
@@ -3101,6 +3100,7 @@ HF,DGA Core Plus Absolute Return ETF,DGA Core Plus Absolute Return ETF,N,HF,Y,10
 HFEQ,Unlimited HFEQ Equity Long/Short ETF,Unlimited HFEQ Equity Long/Short ETF,N,HFEQ,Y,100.0,N,HFEQ
 HFGM,Unlimited HFGM Global Macro ETF,Unlimited HFGM Global Macro ETF,N,HFGM,Y,100.0,N,HFGM
 HFGO,Hartford Large Cap Growth ETF,Hartford Large Cap Growth ETF,Z,HFGO,Y,100.0,N,HFGO
+HFIX,Nomura High Yield Total Return ETF,Nomura High Yield Total Return ETF,P,HFIX,Y,100.0,N,HFIX
 HFMF,Unlimited HFMF Managed Futures ETF,Unlimited HFMF Managed Futures ETF,N,HFMF,Y,100.0,N,HFMF
 HFND,Unlimited HFND Multi,Unlimited HFND Multi-Strategy Return Tracker ETF,N,HFND,Y,100.0,N,HFND
 HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,N,HFRO,N,100.0,N,HFRO
@@ -4130,7 +4130,6 @@ LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordi
 LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,Lucky Strike Entertainment Corporation Class A Common Stock,N,LUCK,N,100.0,N,LUCK
 LUD,Luda Technology Group Limited Ordinary Shares,Luda Technology Group Limited Ordinary Shares,A,LUD,N,100.0,N,LUD
 LUMA,KraneShares Photonic and Optical ETF,KraneShares Photonic and Optical ETF,P,LUMA,Y,100.0,N,LUMA
-LUMN,"Lumen Technologies, Inc. Common Stock","Lumen Technologies, Inc. Common Stock",N,LUMN,N,100.0,N,LUMN
 LUNC,Longnook Uncommon Compounders ETF,Longnook Uncommon Compounders ETF,P,LUNC,Y,100.0,N,LUNC
 LUNL,Defiance Daily Target 2X Long LUNR ETF,Defiance Daily Target 2X Long LUNR ETF,Z,LUNL,Y,100.0,N,LUNL
 LUV,Southwest Airlines Company Common Stock,Southwest Airlines Company Common Stock,N,LUV,N,100.0,N,LUV
@@ -6090,6 +6089,7 @@ SKIL,Skillsoft Corp. Class A Common Stock,Skillsoft Corp. Class A Common Stock,N
 SKM,"SK Telecom Co., Ltd. Common Stock","SK Telecom Co., Ltd. Common Stock",N,SKM,N,100.0,N,SKM
 SKT,Tanger Inc. Common Stock,Tanger Inc. Common Stock,N,SKT,N,100.0,N,SKT
 SKY,"Champion Homes, Inc. Common Stock","Champion Homes, Inc. Common Stock",N,SKY,N,100.0,N,SKY
+SKYD,Skydance Corporation Class B Common Stock,Skydance Corporation Class B Common Stock,N,SKYD,N,100.0,N,SKYD
 SKYH,Sky Harbour Group Corporation Class A Common Stock,Sky Harbour Group Corporation Class A Common Stock,N,SKYH,N,100.0,N,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",N,SKYH.WS,N,100.0,N,SKYH+
 SLB,SLB Limited Common Shares,SLB Limited Common Shares,N,SLB,N,100.0,N,SLB
@@ -6832,6 +6832,7 @@ UAUG,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer 
 UAVS,"AgEagle Aerial Systems, Inc. Common Stock","AgEagle Aerial Systems, Inc. Common Stock",A,UAVS,N,100.0,N,UAVS
 UBER,"Uber Technologies, Inc. Common Stock","Uber Technologies, Inc. Common Stock",N,UBER,N,100.0,N,UBER
 UBEW,Roundhill UBER WeeklyPay ETF,Roundhill UBER WeeklyPay ETF,Z,UBEW,Y,100.0,N,UBEW
+UBIQ,AAM Ubiquitous ETF,AAM Ubiquitous ETF,P,UBIQ,Y,100.0,N,UBIQ
 UBOT,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF","Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF",P,UBOT,Y,100.0,N,UBOT
 UBR,ProShares Ultra MSCI Brazil Capped,ProShares Ultra MSCI Brazil Capped,P,UBR,Y,100.0,N,UBR
 UBS,UBS Group AG Registered Ordinary Shares,UBS Group AG Registered Ordinary Shares,N,UBS,N,100.0,N,UBS
@@ -6987,7 +6988,6 @@ UVV,Universal Corporation Common Stock,Universal Corporation Common Stock,N,UVV,
 UVXY,ProShares Ultra VIX Short Term Futures ETF,ProShares Ultra VIX Short Term Futures ETF,Z,UVXY,Y,100.0,N,UVXY
 UWM,ProShares Ultra Russell2000,ProShares Ultra Russell2000,P,UWM,Y,100.0,N,UWM
 UWMC,UWM Holdings Corporation Class A Common Stock,UWM Holdings Corporation Class A Common Stock,N,UWMC,N,100.0,N,UWMC
-UWMC.V,"UWM Holdings Corporation Rights (November 12, 2026) Rights when issued","UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",N,UWMCrw,N,100.0,N,UWMC^#
 UX,Roundhill Uranium ETF,Roundhill Uranium ETF,Z,UX,Y,100.0,N,UX
 UXAP,FT Vest U.S. Equity Uncapped Accelerator ETF ,FT Vest U.S. Equity Uncapped Accelerator ETF - April,Z,UXAP,Y,100.0,N,UXAP
 UXI,ProShares Ultra Industrials,ProShares Ultra Industrials,P,UXI,Y,100.0,N,UXI
