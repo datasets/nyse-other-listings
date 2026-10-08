@@ -86,6 +86,7 @@ ACVF,American Conservative Values ETF,American Conservative Values ETF,P,ACVF,Y,
 ACVT,Advent Convertible Bond ETF,Advent Convertible Bond ETF,P,ACVT,Y,100.0,N,ACVT
 ACVU,Hartford Alpha Capture Value ETF,Hartford Alpha Capture Value ETF,Z,ACVU,Y,100.0,N,ACVU
 ACWV,iShares MSCI Global Min Vol Factor ETF,iShares MSCI Global Min Vol Factor ETF,Z,ACWV,Y,100.0,N,ACWV
+ACYB,FT Vest Laddered Autocallable Buffer & Resilient Income ETF,FT Vest Laddered Autocallable Buffer & Resilient Income ETF,P,ACYB,Y,100.0,N,ACYB
 ACYN,FT Vest Laddered Autocallable Barrier & Income ETF,FT Vest Laddered Autocallable Barrier & Income ETF,P,ACYN,Y,100.0,N,ACYN
 ACYQ,FT Vest Autocallable Barrier & High Income ETF,FT Vest Autocallable Barrier & High Income ETF,P,ACYQ,Y,100.0,N,ACYQ
 ACYS,FT Vest Laddered Autocallable Barrier & Resilient Income ETF,FT Vest Laddered Autocallable Barrier & Resilient Income ETF,P,ACYS,Y,100.0,N,ACYS
@@ -312,7 +313,7 @@ ANRO,"Alto Neuroscience, Inc. Common Stock","Alto Neuroscience, Inc. Common Stoc
 ANTW,Anthropic AI Lab Ecosystem ETF,Anthropic AI Lab Ecosystem ETF,P,ANTW,Y,100.0,N,ANTW
 ANVS,"Annovis Bio, Inc. Common Stock","Annovis Bio, Inc. Common Stock",N,ANVS,N,100.0,N,ANVS
 AOA,iShares Core 80/20 Aggressive Allocation ETF,iShares Core 80/20 Aggressive Allocation ETF,P,AOA,Y,100.0,N,AOA
-AOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to October 2026,Z,AOCT,Y,100.0,N,AOCT
+AOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 2 Yr to October 2028,Z,AOCT,Y,100.0,N,AOCT
 AOD,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,N,AOD,N,100.0,N,AOD
 AOK,iShares Core 30/70 Conservative Allocation ETF,iShares Core 30/70 Conservative Allocation ETF,P,AOK,Y,100.0,N,AOK
 AOM,iShares Core 40/60 Moderate Allocation ETF,iShares Core 40/60 Moderate Allocation ETF,P,AOM,Y,100.0,N,AOM
@@ -1425,6 +1426,7 @@ CPST,Calamos S&P 500 Structured Alt Protection ETF  September,Calamos S&P 500 St
 CPSU,Calamos S&P 500 Structured Alt Protection ETF June,Calamos S&P 500 Structured Alt Protection ETF June,P,CPSU,Y,100.0,N,CPSU
 CPSY,Calamos S&P 500 Structured Alt Protection ETF January,Calamos S&P 500 Structured Alt Protection ETF January,P,CPSY,Y,100.0,N,CPSY
 CPT,Camden Property Trust Common Stock,Camden Property Trust Common Stock,N,CPT,N,100.0,N,CPT
+CPU,Amplify Top 10 Semiconductors ETF,Amplify Top 10 Semiconductors ETF,P,CPU,Y,100.0,N,CPU
 CPXR,USCF Daily Target 2X Copper Index ETF,USCF Daily Target 2X Copper Index ETF,P,CPXR,Y,100.0,N,CPXR
 CQP,"Cheniere Energy Partners, LP Common Units","Cheniere Energy Partners, LP Common Units",N,CQP,N,100.0,N,CQP
 CQQQ,Invesco China Technology ETF,Invesco China Technology ETF,P,CQQQ,Y,100.0,N,CQQQ
@@ -4696,7 +4698,6 @@ NMAY,Innovator Growth,Innovator Growth-100 Power Buffer ETF - May,Z,NMAY,Y,100.0
 NMB,Simplify National Muni Bond ETF,Simplify National Muni Bond ETF,P,NMB,Y,100.0,N,NMB
 NMBL,NovaTide Flexible Allocation ETF,NovaTide Flexible Allocation ETF,P,NMBL,Y,100.0,N,NMBL
 NMCO,Nuveen Municipal Credit Opportunities Fund Common Shares,Nuveen Municipal Credit Opportunities Fund Common Shares,N,NMCO,N,100.0,N,NMCO
-NMCO.R,"Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights","Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",N,NMCOr,N,100.0,N,NMCO^
 NMG,Nouveau Monde Graphite Inc. Common Shares,Nouveau Monde Graphite Inc. Common Shares,N,NMG,N,100.0,N,NMG
 NMI,"Nuveen Municipal Income Fund, Inc. Common Stock","Nuveen Municipal Income Fund, Inc. Common Stock",N,NMI,N,100.0,N,NMI
 NML,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,A,NML,N,100.0,N,NML
@@ -4863,6 +4864,7 @@ OAK$A,"Brookfield Oaktree Holdings, LLC 6.625% Series A Preferred Units","Brookf
 OAK$B,"Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units","Brookfield Oaktree Holdings, LLC 6.550% Series B Preferred Units",N,OAKpB,N,100.0,N,OAK-B
 OAKG,Oakmark Global Large Cap ETF,Oakmark Global Large Cap ETF,P,OAKG,Y,100.0,N,OAKG
 OAKI,Oakmark International Large Cap ETF,Oakmark International Large Cap ETF,P,OAKI,Y,100.0,N,OAKI
+OAKL,Oakmark U.S. Concentrated ETF,Oakmark U.S. Concentrated ETF,P,OAKL,Y,100.0,N,OAKL
 OAKM,Oakmark U.S. Large Cap ETF,Oakmark U.S. Large Cap ETF,P,OAKM,Y,100.0,N,OAKM
 OALC,OneAscent Large Cap Core ETF,OneAscent Large Cap Core ETF,P,OALC,Y,100.0,N,OALC
 OARK,YieldMax Innovation Option Income Strategy ETF,YieldMax Innovation Option Income Strategy ETF,P,OARK,Y,100.0,N,OARK
@@ -5656,6 +5658,7 @@ RIG,Transocean Ltd (Switzerland) Common Stock,Transocean Ltd (Switzerland) Commo
 RIGS,ALPS Strategic Income Fund,ALPS Strategic Income Fund,P,RIGS,Y,100.0,N,RIGS
 RILA,Indexperts Gorilla Aggressive Growth ETF,Indexperts Gorilla Aggressive Growth ETF,P,RILA,Y,100.0,N,RILA
 RINF,ProShares Inflation Expectations ETF,ProShares Inflation Expectations ETF,P,RINF,Y,100.0,N,RINF
+RINK,Russell Investments Multisector Bond ETF,Russell Investments Multisector Bond ETF,P,RINK,Y,100.0,N,RINK
 RIO,Rio Tinto Plc Common Stock,Rio Tinto Plc Common Stock,N,RIO,N,100.0,N,RIO
 RIOX,Defiance Daily Target 2X Long RIOT ETF,Defiance Daily Target 2X Long RIOT ETF,P,RIOX,Y,100.0,N,RIOX
 RISE,Pictet Emerging Markets Rising Economies ETF,Pictet Emerging Markets Rising Economies ETF,P,RISE,Y,100.0,N,RISE
@@ -6108,6 +6111,7 @@ SLQT,"SelectQuote, Inc. Common Stock","SelectQuote, Inc. Common Stock",N,SLQT,N,
 SLSR,Solaris Resources Inc. Common Shares,Solaris Resources Inc. Common Shares,A,SLSR,N,100.0,N,SLSR
 SLTY,YieldMax Ultra Short Option Income Strategy ETF,YieldMax Ultra Short Option Income Strategy ETF,P,SLTY,Y,100.0,N,SLTY
 SLV,iShares Silver Trust,iShares Silver Trust,P,SLV,Y,100.0,N,SLV
+SLVI,NEOS Silver High Income ETF,NEOS Silver High Income ETF,Z,SLVI,Y,100.0,N,SLVI
 SLVM,Sylvamo Corporation Common Stock,Sylvamo Corporation Common Stock,N,SLVM,N,100.0,N,SLVM
 SLVP,iShares MSCI Global Silver and Metals Miners ETF,iShares MSCI Global Silver and Metals Miners ETF,Z,SLVP,Y,100.0,N,SLVP
 SLVX,Nicholas Silver Income ETF,Nicholas Silver Income ETF,P,SLVX,Y,100.0,N,SLVX
@@ -6157,6 +6161,7 @@ SMRT,"SmartRent, Inc. Class A Common Stock","SmartRent, Inc. Class A Common Stoc
 SMRX,Corgi SMR 2x Daily ETF,Corgi SMR 2x Daily ETF,Z,SMRX,Y,100.0,N,SMRX
 SMTG,Leverage Shares 2X Long SMTC Daily ETF,Leverage Shares 2X Long SMTC Daily ETF,Z,SMTG,Y,100.0,N,SMTG
 SMTH,ALPS Smith Core Plus Bond ETF,ALPS Smith Core Plus Bond ETF,P,SMTH,Y,100.0,N,SMTH
+SMTJ,Synera Funds Takumi+ ETF,Synera Funds Takumi+ ETF,P,SMTJ,Y,100.0,N,SMTJ
 SMU,Tradr 2X Long SMR Daily ETF,Tradr 2X Long SMR Daily ETF,Z,SMU,Y,100.0,N,SMU
 SMUP,T,T-REX 2X Long SMR Daily Target ETF,Z,SMUP,Y,100.0,N,SMUP
 SMWB,Similarweb Ltd. Ordinary Shares,Similarweb Ltd. Ordinary Shares,N,SMWB,N,100.0,N,SMWB
@@ -6290,6 +6295,7 @@ SPXC,"SPX Technologies, Inc. Common Stock","SPX Technologies, Inc. Common Stock"
 SPXE,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Energy ETF,P,SPXE,Y,100.0,N,SPXE
 SPXL,Direxion Daily S&P 500 Bull 3X ETF,Direxion Daily S&P 500 Bull 3X ETF,P,SPXL,Y,100.0,N,SPXL
 SPXN,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Financials ETF,P,SPXN,Y,100.0,N,SPXN
+SPXP,Direxion U.S. 500 Plus ETF,Direxion U.S. 500 Plus ETF,P,SPXP,Y,100.0,N,SPXP
 SPXS,Direxion Daily S&P 500 Bear 3X ETF,Direxion Daily S&P 500 Bear 3X ETF,P,SPXS,Y,100.0,N,SPXS
 SPXT,ProShares S&P 500 Ex,ProShares S&P 500 Ex-Technology ETF,P,SPXT,Y,100.0,N,SPXT
 SPXU,ProShares UltraPro Short S&P500,ProShares UltraPro Short S&P500,P,SPXU,Y,100.0,N,SPXU
