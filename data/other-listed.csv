@@ -6483,6 +6483,8 @@ TBXU,Direxion Daily Biotech Top 5 Bull 2X ETF,Direxion Daily Biotech Top 5 Bull 
 TCAF,T. Rowe Price Capital Appreciation Equity ETF,T. Rowe Price Capital Appreciation Equity ETF,P,TCAF,Y,100.0,N,TCAF
 TCAI,Tortoise AI Infrastructure ETF,Tortoise AI Infrastructure ETF,N,TCAI,Y,100.0,N,TCAI
 TCAL,T. Rowe Price Capital Appreciation Premium Income ETF,T. Rowe Price Capital Appreciation Premium Income ETF,P,TCAL,Y,100.0,N,TCAL
+TCBI,"Texas Capital Bancshares, Inc. Common Stock","Texas Capital Bancshares, Inc. Common Stock",F,TCBI,N,100.0,N,TCBI
+TCBI$B,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non","Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",F,TCBIpB,N,100.0,N,TCBI-B
 TCBX,"Third Coast Bancshares, Inc. Common Stock","Third Coast Bancshares, Inc. Common Stock",N,TCBX,N,100.0,N,TCBX
 TCHP,T. Rowe Price Blue Chip Growth ETF,T. Rowe Price Blue Chip Growth ETF,P,TCHP,Y,100.0,N,TCHP
 TCI,"Transcontinental Realty Investors, Inc. Common Stock","Transcontinental Realty Investors, Inc. Common Stock",N,TCI,N,100.0,N,TCI
@@ -7312,6 +7314,7 @@ WRBY,Warby Parker Inc. Class A Common Stock,Warby Parker Inc. Class A Common Sto
 WRN,Western Copper and Gold Corporation Common Stock,Western Copper and Gold Corporation Common Stock,A,WRN,N,100.0,N,WRN
 WS,"Worthington Steel, Inc. Common Shares","Worthington Steel, Inc. Common Shares",N,WS,N,100.0,N,WS
 WSDB,Weitz Short Duration Bond ETF,Weitz Short Duration Bond ETF,P,WSDB,Y,100.0,N,WSDB
+WSLS,WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund,WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund,F,WSLS,Y,100.0,N,WSLS
 WSM,Williams,"Williams-Sonoma, Inc. Common Stock (DE)",N,WSM,N,100.0,N,WSM
 WSMD,Wasatch Small/Mid Cap ETF,Wasatch Small/Mid Cap ETF,P,WSMD,Y,100.0,N,WSMD
 WSO,"Watsco, Inc. Common Stock","Watsco, Inc. Common Stock",N,WSO,N,40.0,N,WSO
@@ -7319,6 +7322,7 @@ WSO.B,"Watsco, Inc. Class B Common Stock","Watsco, Inc. Class B Common Stock",N,
 WST,"West Pharmaceutical Services, Inc. Common Stock","West Pharmaceutical Services, Inc. Common Stock",N,WST,N,100.0,N,WST
 WT,"WisdomTree, Inc. Common Stock","WisdomTree, Inc. Common Stock",N,WT,N,100.0,N,WT
 WTAI,WisdomTree Artificial Intelligence and Innovation Fund,WisdomTree Artificial Intelligence and Innovation Fund,Z,WTAI,Y,100.0,N,WTAI
+WTAL,WisdomTree Global Alpha Fund,WisdomTree Global Alpha Fund,F,WTAL,Y,100.0,N,WTAL
 WTI,"W&T Offshore, Inc. Common Stock","W&T Offshore, Inc. Common Stock",N,WTI,N,100.0,N,WTI
 WTIB,USCF Oil Plus Bitcoin Strategy Fund,USCF Oil Plus Bitcoin Strategy Fund,P,WTIB,Y,100.0,N,WTIB
 WTID,MicroSectors Energy 3X Inverse Leveraged ETNs,MicroSectors Energy 3X Inverse Leveraged ETNs,P,WTID,Y,100.0,N,WTID
