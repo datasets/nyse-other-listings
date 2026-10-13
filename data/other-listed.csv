@@ -65,6 +65,7 @@ ACLC,American Century Large Cap Equity ETF,American Century Large Cap Equity ETF
 ACLO,TCW AAA CLO ETF,TCW AAA CLO ETF,N,ACLO,Y,100.0,N,ACLO
 ACLZ,Corgi ACLS 2x Daily ETF,Corgi ACLS 2x Daily ETF,Z,ACLZ,Y,100.0,N,ACLZ
 ACM,AECOM Common Stock,AECOM Common Stock,N,ACM,N,100.0,N,ACM
+ACMG,American Century Mid Cap Growth Insights ETF,American Century Mid Cap Growth Insights ETF,Z,ACMG,Y,100.0,N,ACMG
 ACMM,Corgi ACMR 2x Daily ETF,Corgi ACMR 2x Daily ETF,Z,ACMM,Y,100.0,N,ACMM
 ACN,Accenture plc Class A Ordinary Shares (Ireland),Accenture plc Class A Ordinary Shares (Ireland),N,ACN,N,100.0,N,ACN
 ACOM,Harbor Active Commodity ETF,Harbor Active Commodity ETF,P,ACOM,Y,100.0,N,ACOM
@@ -4314,7 +4315,6 @@ MI,NFT Limited Class A Ordinary Share,NFT Limited Class A Ordinary Share,A,MI,N,
 MIAX,"Miami International Holdings, Inc. Common Stock","Miami International Holdings, Inc. Common Stock",N,MIAX,N,100.0,N,MIAX
 MIC,Corgi MU 2x Daily ETF,Corgi MU 2x Daily ETF,Z,MIC,Y,100.0,N,MIC
 MICC,The Magnum Ice Cream Company N.V. Ordinary Shares,The Magnum Ice Cream Company N.V. Ordinary Shares,N,MICC,N,100.0,N,MICC
-MID,American Century Mid Cap Growth Insights ETF,American Century Mid Cap Growth Insights ETF,P,MID,Y,100.0,N,MID
 MIDE,Xtrackers S&P MidCap 400 Scored & Screened ETF,Xtrackers S&P MidCap 400 Scored & Screened ETF,P,MIDE,Y,100.0,N,MIDE
 MIDU,Direxion Mid Cap Bull 3X ETF,Direxion Mid Cap Bull 3X ETF,P,MIDU,Y,100.0,N,MIDU
 MIG,VanEck Moody's Analytics IG Corporate Bond ETF,VanEck Moody's Analytics IG Corporate Bond ETF,Z,MIG,Y,100.0,N,MIG
