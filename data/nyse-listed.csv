@@ -386,7 +386,6 @@ BKD,Brookdale Senior Living Inc. Common Stock
 BKE,"Buckle, Inc. (The) Common Stock"
 BKH,Black Hills Corporation Common Stock
 BKKT,"Bakkt, Inc. Class A Common Stock"
-BKKT.W,"Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share"
 BKSY,BlackSky Technology Inc. Class A Common Stock
 BKT,BlackRock Income Trust Inc. (The)
 BKU,"BankUnited, Inc. Common Stock"
@@ -454,6 +453,7 @@ BSAC,Banco Santander
 BSBR,"Banco Santander Brasil SA American Depositary Shares, each representing one unit"
 BSL,Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest
 BSM,"Black Stone Minerals, L.P. Common units representing limited partner interests"
+BSRT,BSR Real Estate Investment Trust Units
 BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest
 BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest
 BSX,Boston Scientific Corporation Common Stock
@@ -526,7 +526,6 @@ CCJ,Cameco Corporation Common Stock
 CCK,"Crown Holdings, Inc."
 CCL,Carnival Corporation Ltd. Common Shares
 CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares)
-CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock"
 CCS,"Century Communities, Inc. Common Stock"
 CCU,"Compania Cervecerias Unidas, S.A. Common Stock"
 CCZ,Comcast Holdings ZONES
@@ -1316,7 +1315,6 @@ HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock"
 HYTR,Counterpoint High Yield Trend ETF
 HZO,"MarineMax, Inc.  (FL) Common Stock"
-IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest
 IAG,Iamgold Corporation Ordinary Shares
 IBM,International Business Machines Corporation Common Stock
 IBN,ICICI Bank Limited Common Stock
@@ -1338,7 +1336,6 @@ IGD,Voya Global Equity Dividend and Premium Opportunity Fund
 IGI,Western Asset Investment Grade Opportunity Trust Inc. Common Stock
 IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest
 IH,"iHuman Inc. American depositary shares, each representing five Class A ordinary shares"
-IHD,Voya Emerging Markets High Income Dividend Equity Fund Common Shares
 IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share)
 IHS,IHS Holding Limited Ordinary Shares
 IIF,"Morgan Stanley India Investment Fund, Inc. Common Stock"
@@ -1520,7 +1517,7 @@ LANV,Lanvin Group Holdings Limited Ordinary Shares
 LAR,Lithium Argentina AG Common Shares
 LAW,"CS Disco, Inc. Common Stock"
 LAZ,"Lazard, Inc. Common Stock"
-LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests
+LB,LandBridge Corporation Class A Common Stock
 LBRT,Liberty Energy Inc. Class A common stock
 LCII,LCI Industries
 LCIV,Logan Capital International ETF
@@ -1888,7 +1885,6 @@ NWAX.W,"New America Acquisition I Corp. Warrants, each whole warrant is exercisa
 NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Ordinary Shares)"
 NWN,Northwest Natural Holding Company Common Stock
 NX,Quanex Building Products Corporation Common Stock
-NXDR,"Nextdoor Holdings, Inc. Class A Common Stock"
 NXDT,NexPoint Diversified Real Estate Trust Common Stock
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share)
 NXE,Nexgen Energy Ltd. Common Shares
@@ -2097,7 +2093,6 @@ PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062"
 PRI,"Primerica, Inc. Common Stock"
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029"
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock"
-PRIF$L,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029"
 PRIM,Primoris Services Corporation Common Stock
 PRKS,United Parks & Resorts Inc. Common Stock
 PRLB,"Proto Labs, Inc. Common stock"
@@ -2371,7 +2366,7 @@ SKM,"SK Telecom Co., Ltd. Common Stock"
 SKT,Tanger Inc. Common Stock
 SKY,"Champion Homes, Inc. Common Stock"
 SKYD,Skydance Corporation Class B Common Stock
-SKYD.V,Skydance Corporation Warrants to Purchase Class B Common Stock When
+SKYD.W,Skydance Corporation Warrants to Purchase Class B Common Stock
 SKYH,Sky Harbour Group Corporation Class A Common Stock
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share"
 SLB,SLB Limited Common Shares

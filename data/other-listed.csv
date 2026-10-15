@@ -812,7 +812,6 @@ BKH,Black Hills Corporation Common Stock,Black Hills Corporation Common Stock,N,
 BKHY,BNY Mellon High Yield ETF,BNY Mellon High Yield ETF,P,BKHY,Y,100.0,N,BKHY
 BKIE,BNY Mellon International Equity ETF,BNY Mellon International Equity ETF,P,BKIE,Y,100.0,N,BKIE
 BKKT,"Bakkt, Inc. Class A Common Stock","Bakkt, Inc. Class A Common Stock",N,BKKT,N,100.0,N,BKKT
-BKKT.W,"Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share","Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",N,BKKT.WS,N,100.0,N,BKKT+
 BKLC,BNY Mellon US Large Cap Core Equity ETF,BNY Mellon US Large Cap Core Equity ETF,P,BKLC,Y,100.0,N,BKLC
 BKLG,BNY Mellon US Large Cap Equity Growth ETF,BNY Mellon US Large Cap Equity Growth ETF,P,BKLG,Y,100.0,N,BKLG
 BKLN,Invesco Senior Loan ETF,Invesco Senior Loan ETF,P,BKLN,Y,100.0,N,BKLN
@@ -954,6 +953,7 @@ BSM,"Black Stone Minerals, L.P. Common units representing limited partner intere
 BSMC,Brandes U.S. Small,Brandes U.S. Small-Mid Cap Value ETF,Z,BSMC,Y,100.0,N,BSMC
 BSOL,Bitwise Solana Staking ETF,Bitwise Solana Staking ETF,P,BSOL,Y,100.0,N,BSOL
 BSR,Beacon Unified Catalyst ETF,Beacon Unified Catalyst ETF,P,BSR,Y,100.0,N,BSR
+BSRT,BSR Real Estate Investment Trust Units,BSR Real Estate Investment Trust Units,N,BSRT,N,100.0,N,BSRT
 BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest,BlackRock Science and Technology Trust Common Shares of Beneficial Interest,N,BST,N,100.0,N,BST
 BSTP,Innovator Buffer Step,Innovator Buffer Step-Up Strategy ETF,P,BSTP,Y,100.0,N,BSTP
 BSTZ,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,BlackRock Science and Technology Term Trust Common Shares of Beneficial Interest,N,BSTZ,N,100.0,N,BSTZ
@@ -1131,7 +1131,6 @@ CCJ,Cameco Corporation Common Stock,Cameco Corporation Common Stock,N,CCJ,N,100.
 CCK,"Crown Holdings, Inc.","Crown Holdings, Inc.",N,CCK,N,100.0,N,CCK
 CCL,Carnival Corporation Ltd. Common Shares,Carnival Corporation Ltd. Common Shares,N,CCL,N,100.0,N,CCL
 CCM,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),N,CCM,N,100.0,N,CCM
-CCO,"Clear Channel Outdoor Holdings, Inc. Common Stock","Clear Channel Outdoor Holdings, Inc. Common Stock",N,CCO,N,100.0,N,CCO
 CCOM,Simplify Chinese Commodities Strategy No K,Simplify Chinese Commodities Strategy No K-1 ETF,P,CCOM,Y,100.0,N,CCOM
 CCOR,Core Alternative ETF,Core Alternative ETF,P,CCOR,Y,100.0,N,CCOR
 CCPX,Corgi China 2x Daily ETF,Corgi China 2x Daily ETF,Z,CCPX,Y,100.0,N,CCPX
@@ -3251,7 +3250,6 @@ HYTR,Counterpoint High Yield Trend ETF,Counterpoint High Yield Trend ETF,N,HYTR,
 HYUP,Xtrackers High Beta High Yield Bond ETF,Xtrackers High Beta High Yield Bond ETF,P,HYUP,Y,100.0,N,HYUP
 HZO,"MarineMax, Inc.  (FL) Common Stock","MarineMax, Inc.  (FL) Common Stock",N,HZO,N,100.0,N,HZO
 IACL,GraniteShares US 100 Autocallable Income ETF,GraniteShares US 100 Autocallable Income ETF,Z,IACL,Y,100.0,N,IACL
-IAE,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest,Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest,N,IAE,N,100.0,N,IAE
 IAF,"abrdn Australia Equity Fund, Inc. Common Stock","abrdn Australia Equity Fund, Inc. Common Stock",A,IAF,N,100.0,N,IAF
 IAG,Iamgold Corporation Ordinary Shares,Iamgold Corporation Ordinary Shares,N,IAG,N,100.0,N,IAG
 IAGG,iShares International Aggregate Bond Fund,iShares International Aggregate Bond Fund,Z,IAGG,Y,100.0,N,IAGG
@@ -3392,7 +3390,6 @@ IGRO,iShares International Dividend Growth ETF,iShares International Dividend Gr
 IGV,iShares Expanded Tech,iShares Expanded Tech-Software Sector ETF,Z,IGV,Y,100.0,N,IGV
 IH,"iHuman Inc. American depositary shares, each representing five Class A ordinary shares","iHuman Inc. American depositary shares, each representing five Class A ordinary shares",N,IH,N,100.0,N,IH
 IHAK,iShares Cybersecurity and Tech ETF,iShares Cybersecurity and Tech ETF,P,IHAK,Y,100.0,N,IHAK
-IHD,Voya Emerging Markets High Income Dividend Equity Fund Common Shares,Voya Emerging Markets High Income Dividend Equity Fund Common Shares,N,IHD,N,100.0,N,IHD
 IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,WisdomTree International Hedged Quality Dividend Growth Fund,P,IHDG,Y,100.0,N,IHDG
 IHE,iShares U.S. Pharmaceutical ETF,iShares U.S. Pharmaceutical ETF,P,IHE,Y,100.0,N,IHE
 IHF,iShares U.S. Health Care Providers ETF,iShares U.S. Health Care Providers ETF,P,IHF,Y,100.0,N,IHF
@@ -3975,7 +3972,7 @@ LATR,Corgi Buy Now Pay Later ETF,Corgi Buy Now Pay Later ETF,Z,LATR,Y,100.0,N,LA
 LAW,"CS Disco, Inc. Common Stock","CS Disco, Inc. Common Stock",N,LAW,N,100.0,N,LAW
 LAZ,"Lazard, Inc. Common Stock","Lazard, Inc. Common Stock",N,LAZ,N,100.0,N,LAZ
 LAZR,Tema Photonics & Optical ETF,Tema Photonics & Optical ETF,P,LAZR,Y,100.0,N,LAZR
-LB,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests,N,LB,N,100.0,N,LB
+LB,LandBridge Corporation Class A Common Stock,LandBridge Corporation Class A Common Stock,N,LB,N,100.0,N,LB
 LBAY,Leatherback Long/Short Alternative Yield ETF,Leatherback Long/Short Alternative Yield ETF,P,LBAY,Y,100.0,N,LBAY
 LBO,WHITEWOLF Publicly Listed Private Equity ETF,WHITEWOLF Publicly Listed Private Equity ETF,Z,LBO,Y,100.0,N,LBO
 LBOX,GraniteShares Short Term Box ETF,GraniteShares Short Term Box ETF,Z,LBOX,Y,100.0,N,LBOX
@@ -4830,7 +4827,6 @@ NWG,"NatWest Group plc American Depositary Shares, (each representing two (2) Or
 NWN,Northwest Natural Holding Company Common Stock,Northwest Natural Holding Company Common Stock,N,NWN,N,100.0,N,NWN
 NX,Quanex Building Products Corporation Common Stock,Quanex Building Products Corporation Common Stock,N,NX,N,100.0,N,NX
 NXB,NextBoat Inc. Common Stcok,NextBoat Inc. Common Stcok,A,NXB,N,100.0,N,NXB
-NXDR,"Nextdoor Holdings, Inc. Class A Common Stock","Nextdoor Holdings, Inc. Class A Common Stock",N,NXDR,N,100.0,N,NXDR
 NXDT,NexPoint Diversified Real Estate Trust Common Stock,NexPoint Diversified Real Estate Trust Common Stock,N,NXDT,N,100.0,N,NXDT
 NXDT$A,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),N,NXDTpA,N,100.0,N,NXDT-A
 NXE,Nexgen Energy Ltd. Common Shares,Nexgen Energy Ltd. Common Shares,N,NXE,N,100.0,N,NXE
@@ -5311,7 +5307,6 @@ PRH,"Prudential Financial, Inc. 5.950% Junior Subordinated Notes due 2062","Prud
 PRI,"Primerica, Inc. Common Stock","Primerica, Inc. Common Stock",N,PRI,N,40.0,N,PRI
 PRIF$D,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029","Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",N,PRIFpD,N,100.0,N,PRIF-D
 PRIF$K,"Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock","Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",N,PRIFpK,N,100.0,N,PRIF-K
-PRIF$L,"Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029","Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",N,PRIFpL,N,100.0,N,PRIF-L
 PRIM,Primoris Services Corporation Common Stock,Primoris Services Corporation Common Stock,N,PRIM,N,100.0,N,PRIM
 PRIV,State Street IG Public & Private Credit ETF,State Street IG Public & Private Credit ETF,P,PRIV,Y,100.0,N,PRIV
 PRIZ,Zacks Preferred Income ETF,Zacks Preferred Income ETF,P,PRIZ,Y,100.0,N,PRIZ
@@ -6088,7 +6083,7 @@ SKM,"SK Telecom Co., Ltd. Common Stock","SK Telecom Co., Ltd. Common Stock",N,SK
 SKT,Tanger Inc. Common Stock,Tanger Inc. Common Stock,N,SKT,N,100.0,N,SKT
 SKY,"Champion Homes, Inc. Common Stock","Champion Homes, Inc. Common Stock",N,SKY,N,100.0,N,SKY
 SKYD,Skydance Corporation Class B Common Stock,Skydance Corporation Class B Common Stock,N,SKYD,N,100.0,N,SKYD
-SKYD.V,Skydance Corporation Warrants to Purchase Class B Common Stock When,Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued,N,SKYD.WSw,N,100.0,N,SKYD+#
+SKYD.W,Skydance Corporation Warrants to Purchase Class B Common Stock,Skydance Corporation Warrants to Purchase Class B Common Stock,N,SKYD.WS,N,100.0,N,SKYD+
 SKYH,Sky Harbour Group Corporation Class A Common Stock,Sky Harbour Group Corporation Class A Common Stock,N,SKYH,N,100.0,N,SKYH
 SKYH.W,"Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share","Sky Harbour Group Corporation Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",N,SKYH.WS,N,100.0,N,SKYH+
 SLB,SLB Limited Common Shares,SLB Limited Common Shares,N,SLB,N,100.0,N,SLB
@@ -7413,6 +7408,7 @@ XLCI,State Street Communication Services Select Sector SPDR Premium Income ETF,S
 XLCU,MicroSectors 3x Long Communication Services (XLC) ETNs,MicroSectors 3x Long Communication Services (XLC) ETNs,Z,XLCU,Y,100.0,N,XLCU
 XLE,State Street Energy Select Sector SPDR ETF,State Street Energy Select Sector SPDR ETF,P,XLE,Y,100.0,N,XLE
 XLEI,State Street Energy Select Sector SPDR Premium Income ETF,State Street Energy Select Sector SPDR Premium Income ETF,P,XLEI,Y,100.0,N,XLEI
+XLEM,State Street S&P 500 Energy Market Sector SPDR ETF,State Street S&P 500 Energy Market Sector SPDR ETF,P,XLEM,Y,100.0,N,XLEM
 XLEX,Corgi U.S. Energy 2x Daily ETF,Corgi U.S. Energy 2x Daily ETF,Z,XLEX,Y,100.0,N,XLEX
 XLF,State Street Financial Select Sector SPDR ETF,State Street Financial Select Sector SPDR ETF,P,XLF,Y,100.0,N,XLF
 XLFI,State Street Financial Select Sector SPDR Premium Income ETF,State Street Financial Select Sector SPDR Premium Income ETF,P,XLFI,Y,100.0,N,XLFI
@@ -7423,9 +7419,11 @@ XLII,State Street Industrial Select Sector SPDR Premium Income ETF,State Street 
 XLIX,Corgi U.S. Industrials 2x Daily ETF,Corgi U.S. Industrials 2x Daily ETF,Z,XLIX,Y,100.0,N,XLIX
 XLK,State Street Technology Select Sector SPDR ETF,State Street Technology Select Sector SPDR ETF,P,XLK,Y,100.0,N,XLK
 XLKI,State Street Technology Select Sector SPDR Premium Income ETF,State Street Technology Select Sector SPDR Premium Income ETF,P,XLKI,Y,100.0,N,XLKI
+XLKM,State Street S&P 500 Technology Market Sector SPDR ETF,State Street S&P 500 Technology Market Sector SPDR ETF,P,XLKM,Y,100.0,N,XLKM
 XLKX,Corgi U.S. Technology 2x Daily ETF,Corgi U.S. Technology 2x Daily ETF,Z,XLKX,Y,100.0,N,XLKX
 XLP,State Street Consumer Staples Select Sector SPDR ETF,State Street Consumer Staples Select Sector SPDR ETF,P,XLP,Y,100.0,N,XLP
 XLPD,MicroSectors ,MicroSectors -3x Short Consumer Staples (XLP) ETNs,Z,XLPD,Y,100.0,N,XLPD
+XLPM,State Street S&P 500 Consumer Staples Market Sector SPDR ETF,State Street S&P 500 Consumer Staples Market Sector SPDR ETF,P,XLPM,Y,100.0,N,XLPM
 XLPU,MicroSectors 3x Long Consumer Staples (XLP) ETNs,MicroSectors 3x Long Consumer Staples (XLP) ETNs,Z,XLPU,Y,100.0,N,XLPU
 XLPX,Corgi U.S. Consumer Staples 2x Daily ETF,Corgi U.S. Consumer Staples 2x Daily ETF,Z,XLPX,Y,100.0,N,XLPX
 XLRE,State Street Real Estate Select Sector SPDR ETF,State Street Real Estate Select Sector SPDR ETF,P,XLRE,Y,100.0,N,XLRE
@@ -7440,6 +7438,7 @@ XLVI,State Street Health Care Select Sector SPDR Premium Income ETF,State Street
 XLVX,Corgi U.S. Healthcare 2x Daily ETF,Corgi U.S. Healthcare 2x Daily ETF,Z,XLVX,Y,100.0,N,XLVX
 XLY,State Street Consumer Discretionary Select Sector SPDR ETF,State Street Consumer Discretionary Select Sector SPDR ETF,P,XLY,Y,100.0,N,XLY
 XLYI,State Street Consumer Discretionary Select Sector SPDR Premium Income ETF,State Street Consumer Discretionary Select Sector SPDR Premium Income ETF,P,XLYI,Y,100.0,N,XLYI
+XLYM,State Street S&P 500 Consumer Discretionary Market Sector SPDR ETF,State Street S&P 500 Consumer Discretionary Market Sector SPDR ETF,P,XLYM,Y,100.0,N,XLYM
 XLYX,Corgi U.S. Consumer Discretionary 2x Daily ETF,Corgi U.S. Consumer Discretionary 2x Daily ETF,Z,XLYX,Y,100.0,N,XLYX
 XMAR,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - March,Z,XMAR,Y,100.0,N,XMAR
 XMAY,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - May,Z,XMAY,Y,100.0,N,XMAY
