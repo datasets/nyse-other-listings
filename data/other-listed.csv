@@ -192,6 +192,7 @@ AI,"C3.ai, Inc. Class A Common Stock","C3.ai, Inc. Class A Common Stock",N,AI,N,
 AIB,AIB Data Centers Inc. Common Stock,AIB Data Centers Inc. Common Stock,A,AIB,N,100.0,N,AIB
 AIBD,Direxion Daily AI and Big Data Bear 2X ETF,Direxion Daily AI and Big Data Bear 2X ETF,P,AIBD,Y,100.0,N,AIBD
 AIBF,iShares Future AI Beneficiaries ETF,iShares Future AI Beneficiaries ETF,P,AIBF,Y,100.0,N,AIBF
+AIBN,Defiance AI Infrastructure Bond ETF,Defiance AI Infrastructure Bond ETF,P,AIBN,Y,100.0,N,AIBN
 AIBU,Direxion Daily AI and Big Data Bull 2X ETF,Direxion Daily AI and Big Data Bull 2X ETF,P,AIBU,Y,100.0,N,AIBU
 AIED,Defiance LLM Catalyst Momentum ETF,Defiance LLM Catalyst Momentum ETF,P,AIED,Y,100.0,N,AIED
 AIEQ,Amplify AI Powered Equity ETF,Amplify AI Powered Equity ETF,P,AIEQ,Y,100.0,N,AIEQ
@@ -1042,7 +1043,6 @@ BY,"Byline Bancorp, Inc. Common Stock","Byline Bancorp, Inc. Common Stock",N,BY,
 BYD,Boyd Gaming Corporation Common Stock,Boyd Gaming Corporation Common Stock,N,BYD,N,100.0,N,BYD
 BYLD,iShares Yield Optimized Bond ETF,iShares Yield Optimized Bond ETF,P,BYLD,Y,100.0,N,BYLD
 BYRE,Principal Real Estate Active Opportunities ETF,Principal Real Estate Active Opportunities ETF,P,BYRE,Y,100.0,N,BYRE
-BZH,"Beazer Homes USA, Inc. Common Stock","Beazer Homes USA, Inc. Common Stock",N,BZH,N,100.0,N,BZH
 BZQ,ProShares UltraShort MSCI Brazil Capped,ProShares UltraShort MSCI Brazil Capped,P,BZQ,Y,100.0,N,BZQ
 BZZ,Corgi Drones & Urban Air Mobility ETF,Corgi Drones & Urban Air Mobility ETF,Z,BZZ,Y,100.0,N,BZZ
 C,"Citigroup, Inc. Common Stock","Citigroup, Inc. Common Stock",N,C,N,100.0,N,C
@@ -6195,7 +6195,7 @@ SNUS$H,"Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,
 SNX,TD SYNNEX Corporation Common Stock,TD SYNNEX Corporation Common Stock,N,SNX,N,100.0,N,SNX
 SNXX,Tradr 2X Long SNDK Daily ETF,Tradr 2X Long SNDK Daily ETF,Z,SNXX,Y,100.0,N,SNXX
 SO,Southern Company (The) Common Stock,Southern Company (The) Common Stock,N,SO,N,100.0,N,SO
-SOAR,"Volato Group, Inc. Class A Common Stock","Volato Group, Inc. Class A Common Stock",A,SOAR,N,100.0,N,SOAR
+SOAR,"SOAR AI, Inc. Class A Common Stock","SOAR AI, Inc. Class A Common Stock",A,SOAR,N,100.0,N,SOAR
 SOBO,South Bow Corporation Common Shares,South Bow Corporation Common Shares,N,SOBO,N,100.0,N,SOBO
 SOC,Sable Offshore Corp. Common Stock,Sable Offshore Corp. Common Stock,N,SOC,N,100.0,N,SOC
 SOEZ,Franklin Solana ETF,Franklin Solana ETF,P,SOEZ,Y,100.0,N,SOEZ
@@ -7635,7 +7635,6 @@ ZNOV,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protectio
 ZOCT,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr October,Z,ZOCT,Y,100.0,N,ZOCT
 ZONE,Zone Frontier Inc. Class B Common Stock,Zone Frontier Inc. Class B Common Stock,A,ZONE,N,100.0,N,ZONE
 ZROZ,PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange,PIMCO 25  Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,P,ZROZ,Y,100.0,N,ZROZ
-ZSB,USCF Sustainable Battery Metals Strategy Fund,USCF Sustainable Battery Metals Strategy Fund,P,ZSB,Y,100.0,N,ZSB
 ZSEP,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr September,Z,ZSEP,Y,100.0,N,ZSEP
 ZSL,ProShares UltraShort Silver,ProShares UltraShort Silver,P,ZSL,Y,100.0,N,ZSL
 ZTAX,X,X-Square Municipal Income ETF,P,ZTAX,Y,100.0,N,ZTAX
