@@ -2434,6 +2434,7 @@ FIAX,Nicholas Fixed Income Alternative ETF,Nicholas Fixed Income Alternative ETF
 FICO,Fair Isaac Corporation Common Stock,Fair Isaac Corporation Common Stock,N,FICO,N,10.0,N,FICO
 FIDI,Fidelity International High Dividend ETF,Fidelity International High Dividend ETF,P,FIDI,Y,100.0,N,FIDI
 FIDU,Fidelity MSCI Industrials Index ETF,Fidelity MSCI Industrials Index ETF,P,FIDU,Y,100.0,N,FIDU
+FIFT,HCM Select 50 ETF,HCM Select 50 ETF,F,FIFT,Y,100.0,N,FIFT
 FIG,"Figma, Inc. Class A Common Stock","Figma, Inc. Class A Common Stock",N,FIG,N,100.0,N,FIG
 FIGB,Fidelity Investment Grade Bond ETF,Fidelity Investment Grade Bond ETF,P,FIGB,Y,100.0,N,FIGB
 FIGS,"FIGS, Inc. Class A Common Stock","FIGS, Inc. Class A Common Stock",N,FIGS,N,100.0,N,FIGS
@@ -3324,6 +3325,7 @@ ICE,Intercontinental Exchange Inc. Common Stock,Intercontinental Exchange Inc. C
 ICF,iShares Select U.S. REIT ETF,iShares Select U.S. REIT ETF,Z,ICF,Y,100.0,N,ICF
 ICL,ICL Group Ltd. Ordinary Shares,ICL Group Ltd. Ordinary Shares,N,ICL,N,100.0,N,ICL
 ICLO,Invesco AAA CLO Floating Rate Note ETF,Invesco AAA CLO Floating Rate Note ETF,Z,ICLO,Y,100.0,N,ICLO
+ICOM,Tema Commodity Income ETF,Tema Commodity Income ETF,F,ICOM,Y,100.0,N,ICOM
 ICOW,Pacer Developed Markets International Cash Cows 100 ETF,Pacer Developed Markets International Cash Cows 100 ETF,Z,ICOW,Y,100.0,N,ICOW
 ICPI,iShares 0,iShares 0-1 Year TIPS Bond ETF,P,ICPI,Y,100.0,N,ICPI
 ICPY,"Tweedy, Browne International Insider + Value ETF","Tweedy, Browne International Insider + Value ETF",P,ICPY,Y,100.0,N,ICPY
@@ -6584,6 +6586,7 @@ THO,"Thor Industries, Inc. Common Stock","Thor Industries, Inc. Common Stock",N,
 THOR,Thornburg Premium Income Builder ETF,Thornburg Premium Income Builder ETF,P,THOR,Y,100.0,N,THOR
 THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,N,THQ,N,100.0,N,THQ
 THRO,iShares U.S. Thematic Rotation Active ETF,iShares U.S. Thematic Rotation Active ETF,P,THRO,Y,100.0,N,THRO
+THRU,Tema Commodity Infrastructure ETF,Tema Commodity Infrastructure ETF,F,THRU,Y,100.0,N,THRU
 THTA,SoFi Enhanced Yield ETF,SoFi Enhanced Yield ETF,P,THTA,Y,100.0,N,THTA
 THW,abrdn World Healthcare Fund Shares of Beneficial Interest,abrdn World Healthcare Fund Shares of Beneficial Interest,N,THW,N,100.0,N,THW
 THY,Toews Agility Shares Dynamic Tactical Income ETF,Toews Agility Shares Dynamic Tactical Income ETF,P,THY,Y,100.0,N,THY
