@@ -2227,7 +2227,6 @@ EVAC.U,"EQV Ventures Acquisition Corp. II Units, each unit consists of one Class
 EVAC.W,"EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share","EQV Ventures Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",N,EVAC.WS,N,100.0,N,EVAC+
 EVC,Entravision Communications Corporation Common Stock,Entravision Communications Corporation Common Stock,N,EVC,N,100.0,N,EVC
 EVEX,"Eve Holding, Inc. Common Stock","Eve Holding, Inc. Common Stock",N,EVEX,N,100.0,N,EVEX
-EVEX.W,"Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share","Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,EVEX.WS,N,100.0,N,EVEX+
 EVF,Eaton Vance Senior Income Trust Common Stock,Eaton Vance Senior Income Trust Common Stock,N,EVF,N,100.0,N,EVF
 EVG,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,N,EVG,N,100.0,N,EVG
 EVH,"Evolent Health, Inc Class A Common Stock","Evolent Health, Inc Class A Common Stock",N,EVH,N,100.0,N,EVH
@@ -3707,7 +3706,7 @@ JIG,JPMorgan International Growth ETF,JPMorgan International Growth ETF,P,JIG,Y,
 JIII,Janus Henderson Income ETF,Janus Henderson Income ETF,P,JIII,Y,100.0,N,JIII
 JILL,"J. Jill, Inc. Common Stock","J. Jill, Inc. Common Stock",N,JILL,N,100.0,N,JILL
 JIRE,JPMorgan International Research Enhanced Equity ETF,JPMorgan International Research Enhanced Equity ETF,P,JIRE,Y,100.0,N,JIRE
-JKS,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares),N,JKS,N,100.0,N,JKS
+JKS,Jinko Holdings Limited American Depositary Shares (each representing 4 Ordinary Shares),Jinko Holdings Limited American Depositary Shares (each representing 4 Ordinary Shares),N,JKS,N,100.0,N,JKS
 JLCO,John Hancock Large Cap Opportunities ETF,John Hancock Large Cap Opportunities ETF,P,JLCO,Y,100.0,N,JLCO
 JLL,Jones Lang LaSalle Incorporated Common Stock,Jones Lang LaSalle Incorporated Common Stock,N,JLL,N,40.0,N,JLL
 JLQD,Janus Henderson Corporate Bond ETF,Janus Henderson Corporate Bond ETF,P,JLQD,Y,100.0,N,JLQD
@@ -4130,7 +4129,7 @@ LTL,ProShares Ultra Communication Services,ProShares Ultra Communication Service
 LTM,"LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)","LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock)",N,LTM,N,100.0,N,LTM
 LTPZ,Pimco 15  Year U.S. TIPS Index Exchange,Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund,P,LTPZ,Y,100.0,N,LTPZ
 LTTI,FT Vest 20+ Year Treasury & Target Income ETF,FT Vest 20+ Year Treasury & Target Income ETF,P,LTTI,Y,100.0,N,LTTI
-LU,"Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares","Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",N,LU,N,100.0,N,LU
+LU,Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares),Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares),N,LU,N,100.0,N,LU
 LUCK,Lucky Strike Entertainment Corporation Class A Common Stock,Lucky Strike Entertainment Corporation Class A Common Stock,N,LUCK,N,100.0,N,LUCK
 LUD,Luda Technology Group Limited Ordinary Shares,Luda Technology Group Limited Ordinary Shares,A,LUD,N,100.0,N,LUD
 LUMA,KraneShares Photonic and Optical ETF,KraneShares Photonic and Optical ETF,P,LUMA,Y,100.0,N,LUMA
@@ -4999,6 +4998,7 @@ OVF,Overlay Shares Foreign Equity ETF,Overlay Shares Foreign Equity ETF,Z,OVF,Y,
 OVL,Overlay Shares Large Cap Equity ETF,Overlay Shares Large Cap Equity ETF,Z,OVL,Y,100.0,N,OVL
 OVLH,Overlay Shares Hedged Large Cap Equity ETF,Overlay Shares Hedged Large Cap Equity ETF,Z,OVLH,Y,100.0,N,OVLH
 OVM,Overlay Shares Municipal Bond ETF,Overlay Shares Municipal Bond ETF,Z,OVM,Y,100.0,N,OVM
+OVQ,Overlay Shares Nasdaq 100 Income ETF,Overlay Shares Nasdaq 100 Income ETF,Z,OVQ,Y,100.0,N,OVQ
 OVS,Overlay Shares Small Cap Equity ETF,Overlay Shares Small Cap Equity ETF,Z,OVS,Y,100.0,N,OVS
 OVT,Overlay Shares Short Term Bond ETF,Overlay Shares Short Term Bond ETF,Z,OVT,Y,100.0,N,OVT
 OVV,Ovintiv Inc. (DE),Ovintiv Inc. (DE),N,OVV,N,100.0,N,OVV
@@ -5132,7 +5132,6 @@ PEMX,Putnam Emerging Markets ex,Putnam Emerging Markets ex-China ETF,P,PEMX,Y,10
 PEN,"Penumbra, Inc. Common Stock","Penumbra, Inc. Common Stock",N,PEN,N,40.0,N,PEN
 PENU,T,T-REX 2X Long PENG Daily Target ETF,Z,PENU,Y,100.0,N,PENU
 PEO,"Adams Natural Resources Fund, Inc. Common Stock","Adams Natural Resources Fund, Inc. Common Stock",N,PEO,N,100.0,N,PEO
-PERF,Perfect Corp. Class A Ordinary Share,Perfect Corp. Class A Ordinary Share,N,PERF,N,100.0,N,PERF
 PEVC,Pacer PE/VC ETF,Pacer PE/VC ETF,P,PEVC,Y,100.0,N,PEVC
 PEW,GrabAGun Digital Holdings Inc. Common Stock,GrabAGun Digital Holdings Inc. Common Stock,N,PEW,N,100.0,N,PEW
 PEW.W,"GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share","GrabAGun Digital Holdings Inc. Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $11.50 per share",N,PEW.WS,N,100.0,N,PEW+
@@ -5503,6 +5502,7 @@ QNTU,Tradr 2X Long QNT Daily ETF,Tradr 2X Long QNT Daily ETF,Z,QNTU,Y,100.0,N,QN
 QPX,AdvisorShares Q Dynamic Growth ETF,AdvisorShares Q Dynamic Growth ETF,P,QPX,Y,100.0,N,QPX
 QQAU,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - August Series,Z,QQAU,Y,100.0,N,QQAU
 QQBF,FT Vest Nasdaq,FT Vest Nasdaq-100 Quarterly 15 Buffer ETF,Z,QQBF,Y,100.0,N,QQBF
+QQDH,Tuttle Capital Innovation 100 Income & Hedge ETF,Tuttle Capital Innovation 100 Income & Hedge ETF,Z,QQDH,Y,100.0,N,QQDH
 QQH,HCM Defender 100 Index ETF,HCM Defender 100 Index ETF,P,QQH,Y,100.0,N,QQH
 QQJL,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - July Series,Z,QQJL,Y,100.0,N,QQJL
 QQJN,Corgi Growth & Technology 15% Structured Buffer ETF ,Corgi Growth & Technology 15% Structured Buffer ETF - June Series,Z,QQJN,Y,100.0,N,QQJN
