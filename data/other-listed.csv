@@ -46,7 +46,6 @@ ABUF,Aptus Laddered Buffer ETF,Aptus Laddered Buffer ETF,Z,ABUF,Y,100.0,N,ABUF
 ABX,"Abacus Global Management, Inc. Class A Common Stock","Abacus Global Management, Inc. Class A Common Stock",N,ABX,N,100.0,N,ABX
 ABXB,Abacus Flexible Bond Leaders ETF,Abacus Flexible Bond Leaders ETF,Z,ABXB,Y,100.0,N,ABXB
 ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028","Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",N,ABXL,N,100.0,N,ABXL
-ACA,"Arcosa, Inc. Common Stock ","Arcosa, Inc. Common Stock ",N,ACA,N,100.0,N,ACA
 ACCO,Acco Brands Corporation Common Stock,Acco Brands Corporation Common Stock,N,ACCO,N,100.0,N,ACCO
 ACCS,ACCESS Newswire Inc. Common Stock,ACCESS Newswire Inc. Common Stock,A,ACCS,N,100.0,N,ACCS
 ACEI,Innovator Equity Autocallable Income Strategy ETF,Innovator Equity Autocallable Income Strategy ETF,P,ACEI,Y,100.0,N,ACEI
@@ -60,6 +59,7 @@ ACHX,Corgi ACHR 2x Daily ETF,Corgi ACHR 2x Daily ETF,Z,ACHX,Y,100.0,N,ACHX
 ACI,"Albertsons Companies, Inc. Class A Common Stock","Albertsons Companies, Inc. Class A Common Stock",N,ACI,N,100.0,N,ACI
 ACIG,Hartford Alpha Capture International Growth ETF,Hartford Alpha Capture International Growth ETF,Z,ACIG,Y,100.0,N,ACIG
 ACII,Innovator Index Autocallable Income Strategy ETF,Innovator Index Autocallable Income Strategy ETF,P,ACII,Y,100.0,N,ACII
+ACIN,Hartford Alpha Capture International Equity ETF,Hartford Alpha Capture International Equity ETF,Z,ACIN,Y,100.0,N,ACIN
 ACIO,Aptus Collared Investment Opportunity ETF,Aptus Collared Investment Opportunity ETF,Z,ACIO,Y,100.0,N,ACIO
 ACIV,Hartford Alpha Capture International Value ETF,Hartford Alpha Capture International Value ETF,Z,ACIV,Y,100.0,N,ACIV
 ACKY,VistaShares Target 15 ACKtivist Distribution ETF,VistaShares Target 15 ACKtivist Distribution ETF,P,ACKY,Y,100.0,N,ACKY
@@ -1086,6 +1086,7 @@ CATO,Cato Corporation (The) Class A Common Stock,Cato Corporation (The) Class A 
 CATX,"Perspective Therapeutics, Inc. Common Stock","Perspective Therapeutics, Inc. Common Stock",A,CATX,N,100.0,N,CATX
 CAUG,Corgi U.S. Equities 15% Structured Buffer ETF ,Corgi U.S. Equities 15% Structured Buffer ETF - August Series,Z,CAUG,Y,100.0,N,CAUG
 CAVA,"CAVA Group, Inc. Common Stock","CAVA Group, Inc. Common Stock",N,CAVA,N,100.0,N,CAVA
+CAYN,Calamos Least,Calamos Least-Of Autocallable Income ETF,P,CAYN,Y,100.0,N,CAYN
 CB,Chubb Limited  Common Stock,Chubb Limited  Common Stock,N,CB,N,40.0,N,CB
 CBAN,"Colony Bankcorp, Inc. Common Stock","Colony Bankcorp, Inc. Common Stock",N,CBAN,N,100.0,N,CBAN
 CBIL,Corgi 3,Corgi 3-12 Month T-Bill ETF,Z,CBIL,Y,100.0,N,CBIL
@@ -1138,7 +1139,6 @@ CCU,"Compania Cervecerias Unidas, S.A. Common Stock","Compania Cervecerias Unida
 CCUP,T,T-REX 2X Long CRCL Daily Target ETF,Z,CCUP,Y,100.0,N,CCUP
 CCZ,Comcast Holdings ZONES,Comcast Holdings ZONES,N,CCZ,N,100.0,N,CCZ
 CDE,"Coeur Mining, Inc. Common Stock","Coeur Mining, Inc. Common Stock",N,CDE,N,100.0,N,CDE
-CDEI,Calvert US Large,"Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF",P,CDEI,Y,100.0,N,CDEI
 CDLR,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),N,CDLR,N,100.0,N,CDLR
 CDNG,Leverage Shares 2X Long CDNS Daily ETF,Leverage Shares 2X Long CDNS Daily ETF,Z,CDNG,Y,100.0,N,CDNG
 CDP,COPT Defense Properties Common Shares of Beneficial Interest,COPT Defense Properties Common Shares of Beneficial Interest,N,CDP,N,100.0,N,CDP
@@ -2043,7 +2043,6 @@ ELLA,Ellington Credit Company 8.50% Notes due 2031,Ellington Credit Company 8.50
 ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),Ellomay Capital Ltd Ordinary Shares (Israel),A,ELLO,N,100.0,N,ELLO
 ELM,Elm Market Navigator ETF,Elm Market Navigator ETF,P,ELM,Y,100.0,N,ELM
 ELMD,"Electromed, Inc. Common Stock","Electromed, Inc. Common Stock",A,ELMD,N,100.0,N,ELMD
-ELME,Elme Communities Common Stock,Elme Communities Common Stock,N,ELME,N,100.0,N,ELME
 ELPC,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),N,ELPC,N,100.0,N,ELPC
 ELS,"Equity Lifestyle Properties, Inc. Common Stock","Equity Lifestyle Properties, Inc. Common Stock",N,ELS,N,100.0,N,ELS
 ELV,"Elevance Health, Inc. Common Stock","Elevance Health, Inc. Common Stock",N,ELV,N,40.0,N,ELV
@@ -3008,6 +3007,7 @@ GTOS,Invesco Short Duration Total Return Bond ETF,Invesco Short Duration Total R
 GTY,Getty Realty Corporation Common Stock,Getty Realty Corporation Common Stock,N,GTY,N,100.0,N,GTY
 GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,N,GUG,N,100.0,N,GUG
 GUMI,Goldman Sachs Ultra Short Municipal Income ETF,Goldman Sachs Ultra Short Municipal Income ETF,P,GUMI,Y,100.0,N,GUMI
+GUNN,Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares),Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares),A,GUNN,N,100.0,N,GUNN
 GUNR,Northern Trust Morningstar Global Upstream Natural Resources ETF,Northern Trust Morningstar Global Upstream Natural Resources ETF,P,GUNR,Y,100.0,N,GUNR
 GURU,Global X Guru Index ETF,Global X Guru Index ETF,P,GURU,Y,100.0,N,GURU
 GUSA,Goldman Sachs MarketBeta U.S. 1000 Equity ETF,Goldman Sachs MarketBeta U.S. 1000 Equity ETF,P,GUSA,Y,100.0,N,GUSA
@@ -5030,7 +5030,6 @@ PALL,abrdn Physical Palladium Shares ETF,abrdn Physical Palladium Shares ETF,P,P
 PAM,Pampa Energia S.A.,Pampa Energia S.A.,N,PAM,N,100.0,N,PAM
 PAMC,Pacer Lunt MidCap Multi,Pacer Lunt MidCap Multi-Factor Alternator ETF,P,PAMC,Y,100.0,N,PAMC
 PAPI,Parametric Equity Premium Income ETF,Parametric Equity Premium Income ETF,P,PAPI,Y,100.0,N,PAPI
-PAPL,Pineapple Financial Inc. Common Stock,Pineapple Financial Inc. Common Stock,A,PAPL,N,100.0,N,PAPL
 PAPR,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer ETF - April,Z,PAPR,Y,100.0,N,PAPR
 PAR,PAR Technology Corporation Common Stock,PAR Technology Corporation Common Stock,N,PAR,N,100.0,N,PAR
 PARR,"Par Pacific Holdings, Inc.  Common Stock","Par Pacific Holdings, Inc.  Common Stock",N,PARR,N,100.0,N,PARR
@@ -5397,6 +5396,7 @@ PTBD,Pacer Trendpilot US Bond ETF,Pacer Trendpilot US Bond ETF,P,PTBD,Y,100.0,N,
 PTEU,Pacer TrendpilotTM European Index ETF,Pacer TrendpilotTM European Index ETF,Z,PTEU,Y,100.0,N,PTEU
 PTHS,Pelthos Therapeutics Inc. Common Stock,Pelthos Therapeutics Inc. Common Stock,A,PTHS,N,100.0,N,PTHS
 PTIN,Pacer Trendpilot International ETF,Pacer Trendpilot International ETF,P,PTIN,Y,100.0,N,PTIN
+PTIV,Pineapple Financial Inc. Common Stock,Pineapple Financial Inc. Common Stock,A,PTIV,N,100.0,N,PTIV
 PTL,Inspire 500 ETF,Inspire 500 ETF,P,PTL,Y,40.0,N,PTL
 PTLC,Pacer Trendpilot US Large Cap ETF,Pacer Trendpilot US Large Cap ETF,Z,PTLC,Y,100.0,N,PTLC
 PTMC,Pacer Trendpilot US Mid Cap ETF,Pacer Trendpilot US Mid Cap ETF,Z,PTMC,Y,100.0,N,PTMC
@@ -7245,7 +7245,6 @@ WDS,"Woodside Energy Group Limited American Depositary Shares, each representing
 WDTE,Defiance S&P 500 Weekly Distribution ETF,Defiance S&P 500 Weekly Distribution ETF,P,WDTE,Y,100.0,N,WDTE
 WEA,Western Asset Bond Fund Share of Beneficial Interest,Western Asset Bond Fund Share of Beneficial Interest,N,WEA,N,100.0,N,WEA
 WEAT,Teucrium Wheat Fund ETV,Teucrium Wheat Fund ETV,P,WEAT,Y,100.0,N,WEAT
-WEAV,"Weave Communications, Inc. Common Stock","Weave Communications, Inc. Common Stock",N,WEAV,N,100.0,N,WEAV
 WEBL,Direxion Daily Dow Jones Internet Bull 3X ETF,Direxion Daily Dow Jones Internet Bull 3X ETF,P,WEBL,Y,100.0,N,WEBL
 WEBS,Direxion Daily Dow Jones Internet Bear 3X ETF,Direxion Daily Dow Jones Internet Bear 3X ETF,P,WEBS,Y,100.0,N,WEBS
 WEBX,Corgi Chinese Internet 2x Daily ETF,Corgi Chinese Internet 2x Daily ETF,Z,WEBX,Y,100.0,N,WEBX
