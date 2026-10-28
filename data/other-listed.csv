@@ -3819,7 +3819,6 @@ KBUF,KraneShares 90% KWEB Defined Outcome January 2027 ETF,KraneShares 90% KWEB 
 KCA.U,"Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three","Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three-quarters of one Class 2 Redeemable Warrant",N,KCA.U,N,100.0,N,KCA=
 KCAC.U,"Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one","Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant",N,KCAC.U,N,100.0,N,KCAC=
 KCAC.W,"Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50","Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50",N,KCAC.WS,N,100.0,N,KCAC+
-KCAI,KraneShares China Alpha Index ETF,KraneShares China Alpha Index ETF,P,KCAI,Y,100.0,N,KCAI
 KCCA,KraneShares California Carbon Allowance Strategy ETF,KraneShares California Carbon Allowance Strategy ETF,P,KCCA,Y,100.0,N,KCCA
 KCE,State Street SPDR S&P Capital Markets ETF,State Street SPDR S&P Capital Markets ETF,P,KCE,Y,100.0,N,KCE
 KCHP,KICK Korea Semiconductor Index ETF,KICK Korea Semiconductor Index ETF,P,KCHP,Y,100.0,N,KCHP
@@ -3855,7 +3854,6 @@ KGRN,KraneShares MSCI China Clean Technology Index ETF,KraneShares MSCI China Cl
 KGS,"Kodiak Gas Services, Inc. Common Stock","Kodiak Gas Services, Inc. Common Stock",N,KGS,N,100.0,N,KGS
 KHC,The Kraft Heinz Company Common Stock,The Kraft Heinz Company Common Stock,N,KHC,N,100.0,N,KHC
 KHPI,Kensington Hedged Premium Income ETF,Kensington Hedged Premium Income ETF,Z,KHPI,Y,100.0,N,KHPI
-KHYB,KraneShares Asia Pacific High Income USD Bond ETF,KraneShares Asia Pacific High Income USD Bond ETF,P,KHYB,Y,100.0,N,KHYB
 KIE,State Street SPDR S&P Insurance ETF,State Street SPDR S&P Insurance ETF,P,KIE,Y,100.0,N,KIE
 KIM,Kimco Realty Corporation (HC) Common Stock,Kimco Realty Corporation (HC) Common Stock,N,KIM,N,100.0,N,KIM
 KIM$L,"Kimco Realty Corporation Class L Depositary Shares, each of which represents a one","Kimco Realty Corporation Class L Depositary Shares, each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock, liquidation preference $25,000.00 per share",N,KIMpL,N,100.0,N,KIM-L
@@ -4458,9 +4456,8 @@ MSFW,Roundhill MSFT WeeklyPay ETF,Roundhill MSFT WeeklyPay ETF,Z,MSFW,Y,100.0,N,
 MSFX,T,T-Rex 2X Long Microsoft Daily Target ETF,Z,MSFX,Y,100.0,N,MSFX
 MSFY,Kurv Yield Premium Strategy Microsoft (MSFT) ETF,Kurv Yield Premium Strategy Microsoft (MSFT) ETF,Z,MSFY,Y,100.0,N,MSFY
 MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,Madison Square Garden Entertainment Corp. Class A Common Stock,N,MSGE,N,100.0,N,MSGE
-MSGK.V,Madison Square Garden Sports Corp. Class A Common Stock When,Madison Square Garden Sports Corp. Class A Common Stock When-Issued,N,MSGKw,N,100.0,N,MSGK#
-MSGR.V,MSG Rangers Corp. Class A Common Stock When,MSG Rangers Corp. Class A Common Stock When-Issued,N,MSGRw,N,100.0,N,MSGR#
-MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),Madison Square Garden Sports Corp. Class A Common Stock (New),N,MSGS,N,40.0,N,MSGS
+MSGK,MSG Knickerbockers Corp. Class A Common Stock,MSG Knickerbockers Corp. Class A Common Stock,N,MSGK,N,40.0,N,MSGK
+MSGR,MSG Rangers Corp. Class A Common Stock,MSG Rangers Corp. Class A Common Stock,N,MSGR,N,100.0,N,MSGR
 MSI,"Motorola Solutions, Inc. Common Stock","Motorola Solutions, Inc. Common Stock",N,MSI,N,40.0,N,MSI
 MSIF,"MSC Income Fund, Inc. Common Stock","MSC Income Fund, Inc. Common Stock",N,MSIF,N,100.0,N,MSIF
 MSIX,Corgi MSI 2x Daily ETF,Corgi MSI 2x Daily ETF,Z,MSIX,Y,100.0,N,MSIX
@@ -6685,7 +6682,6 @@ TOPT,iShares Top 20 U.S. Stocks ETF,iShares Top 20 U.S. Stocks ETF,P,TOPT,Y,100.
 TOPW,Roundhill Top WeeklyPay ETF,Roundhill Top WeeklyPay ETF,Z,TOPW,Y,100.0,N,TOPW
 TOS,Twin Oak Strategic Solutions ETF,Twin Oak Strategic Solutions ETF,Z,TOS,Y,100.0,N,TOS
 TOST,"Toast, Inc. Class A Common Stock","Toast, Inc. Class A Common Stock",N,TOST,N,100.0,N,TOST
-TOT,LionShares U.S. Equity Total Return ETF,LionShares U.S. Equity Total Return ETF,P,TOT,Y,100.0,N,TOT
 TOTL,State Street DoubleLine Total Return Tactical ETF,State Street DoubleLine Total Return Tactical ETF,P,TOTL,Y,100.0,N,TOTL
 TOTR,T. Rowe Price Total Return ETF,T. Rowe Price Total Return ETF,P,TOTR,Y,100.0,N,TOTR
 TOUS,T. Rowe Price International Equity ETF,T. Rowe Price International Equity ETF,P,TOUS,Y,100.0,N,TOUS
@@ -7220,6 +7216,7 @@ WBIF,WBI BullBear Value 3000 ETF,WBI BullBear Value 3000 ETF,P,WBIF,Y,100.0,N,WB
 WBIG,WBI BullBear Yield 3000 ETF,WBI BullBear Yield 3000 ETF,P,WBIG,Y,100.0,N,WBIG
 WBIL,WBI BullBear Quality 3000 ETF,WBI BullBear Quality 3000 ETF,P,WBIL,Y,100.0,N,WBIL
 WBIY,WBI Power Factor High Dividend ETF,WBI Power Factor High Dividend ETF,N,WBIY,Y,100.0,N,WBIY
+WBMO,VanEck Wealth Builder ETF,VanEck Wealth Builder ETF,P,WBMO,Y,100.0,N,WBMO
 WBX,Wallbox N.V. Class A Ordinary Shares,Wallbox N.V. Class A Ordinary Shares,N,WBX,N,100.0,N,WBX
 WCAP,WarCap Unconstrained Equity ETF,WarCap Unconstrained Equity ETF,P,WCAP,Y,100.0,N,WCAP
 WCC,"WESCO International, Inc. Common Stock","WESCO International, Inc. Common Stock",N,WCC,N,40.0,N,WCC
