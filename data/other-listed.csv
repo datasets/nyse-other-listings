@@ -2066,6 +2066,7 @@ EMFI,Pictet Emerging Markets Debt ETF,Pictet Emerging Markets Debt ETF,P,EMFI,Y,
 EMGF,iShares Emerging Markets Equity Factor ETF,iShares Emerging Markets Equity Factor ETF,Z,EMGF,Y,100.0,N,EMGF
 EMHC,State Street SPDR Bloomberg Emerging Markets USD Bond ETF,State Street SPDR Bloomberg Emerging Markets USD Bond ETF,P,EMHC,Y,100.0,N,EMHC
 EMHY,iShares J.P. Morgan EM High Yield Bond ETF,iShares J.P. Morgan EM High Yield Bond ETF,Z,EMHY,Y,100.0,N,EMHY
+EMIL,VanEck EM Focus Inflation Bond ETF,VanEck EM Focus Inflation Bond ETF,P,EMIL,Y,100.0,N,EMIL
 EMJL,Corgi Emerging Markets Equities 15% Structured Buffer ETF ,Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series,Z,EMJL,Y,100.0,N,EMJL
 EMJN,Corgi Emerging Markets Equities 15% Structured Buffer ETF ,Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series,Z,EMJN,Y,100.0,N,EMJN
 EMKT,Lazard Emerging Markets Opportunities ETF,Lazard Emerging Markets Opportunities ETF,P,EMKT,Y,100.0,N,EMKT
@@ -6565,6 +6566,7 @@ TGRW,T. Rowe Price Growth Stock ETF,T. Rowe Price Growth Stock ETF,P,TGRW,Y,100.
 TGS,Transportadora de Gas del Sur SA TGS Common Stock,Transportadora de Gas del Sur SA TGS Common Stock,N,TGS,N,100.0,N,TGS
 TGT,Target Corporation Common Stock,Target Corporation Common Stock,N,TGT,N,100.0,N,TGT
 THC,Tenet Healthcare Corporation Common Stock,Tenet Healthcare Corporation Common Stock,N,THC,N,40.0,N,THC
+THCR,THOR Conservative Risk Dynamic ETF,THOR Conservative Risk Dynamic ETF,N,THCR,Y,100.0,N,THCR
 THD,iShares MSCI Thailand ETF,iShares MSCI Thailand ETF,P,THD,Y,100.0,N,THD
 THEQ,T. Rowe Price Hedged Equity ETF,T. Rowe Price Hedged Equity ETF,P,THEQ,Y,100.0,N,THEQ
 THG,Hanover Insurance Group Inc,Hanover Insurance Group Inc,N,THG,N,100.0,N,THG
@@ -7174,6 +7176,7 @@ VTP,Vanguard Total Inflation,Vanguard Total Inflation-Protected Securities ETF,P
 VTR,"Ventas, Inc. Common Stock","Ventas, Inc. Common Stock",N,VTR,N,100.0,N,VTR
 VTS,"Vitesse Energy, Inc. Common Stock","Vitesse Energy, Inc. Common Stock",N,VTS,N,100.0,N,VTS
 VTV,Vanguard Morningstar Value ETF,Vanguard Morningstar Value ETF,P,VTV,Y,100.0,N,VTV
+VTVX,XFUNDS Value Income ETF,XFUNDS Value Income ETF,P,VTVX,Y,100.0,N,VTVX
 VUG,Vanguard Morningstar Growth ETF,Vanguard Morningstar Growth ETF,P,VUG,Y,100.0,N,VUG
 VUS,Virtus US Dividend ETF,Virtus US Dividend ETF,P,VUS,Y,100.0,N,VUS
 VUSB,Vanguard Ultra,Vanguard Ultra-Short Bond ETF,Z,VUSB,Y,100.0,N,VUSB
