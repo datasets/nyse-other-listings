@@ -624,6 +624,7 @@ BBJP,JPMorgan BetaBuilders Japan ETF,JPMorgan BetaBuilders Japan ETF,Z,BBJP,Y,10
 BBLB,JPMorgan BetaBuilders U.S. Treasury Bond 20+ Year ETF,JPMorgan BetaBuilders U.S. Treasury Bond 20+ Year ETF,Z,BBLB,Y,100.0,N,BBLB
 BBLS,Munificent Seven ETF,Munificent Seven ETF,P,BBLS,Y,100.0,N,BBLS
 BBLU,EA Bridgeway Blue Chip ETF,EA Bridgeway Blue Chip ETF,P,BBLU,Y,100.0,N,BBLU
+BBLX,BondBloxx Core Plus ETF,BondBloxx Core Plus ETF,P,BBLX,Y,100.0,N,BBLX
 BBMC,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF,Z,BBMC,Y,100.0,N,BBMC
 BBN,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,N,BBN,N,100.0,N,BBN
 BBP,Virtus Biotech ETF,Virtus Biotech ETF,P,BBP,Y,100.0,N,BBP
@@ -717,6 +718,7 @@ BFEW,FT Vest Laddered U.S. Equity Equal Weight Buffer ETF,FT Vest Laddered U.S. 
 BFH,"Bread Financial Holdings, Inc. Common Stock","Bread Financial Holdings, Inc. Common Stock",N,BFH,N,100.0,N,BFH
 BFH$A,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non","Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.625% Non-Cumulative Perpetual Preferred Stock, Series A",N,BFHpA,N,100.0,N,BFH-A
 BFH$B,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non","Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",N,BFHpB,N,100.0,N,BFH-B
+BFH$C,"Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non","Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",N,BFHpC,N,100.0,N,BFH-C
 BFIX,Build Bond Innovation ETF,Build Bond Innovation ETF,P,BFIX,Y,100.0,N,BFIX
 BFJA,FT Vest Bitcoin Strategy Floor15 ETF ,FT Vest Bitcoin Strategy Floor15 ETF - January,P,BFJA,Y,100.0,N,BFJA
 BFJL,FT Vest Bitcoin Strategy Floor15 ETF July,FT Vest Bitcoin Strategy Floor15 ETF July,P,BFJL,Y,100.0,N,BFJL
@@ -1138,7 +1140,7 @@ CCU,"Compania Cervecerias Unidas, S.A. Common Stock","Compania Cervecerias Unida
 CCUP,T,T-REX 2X Long CRCL Daily Target ETF,Z,CCUP,Y,100.0,N,CCUP
 CCZ,Comcast Holdings ZONES,Comcast Holdings ZONES,N,CCZ,N,100.0,N,CCZ
 CDE,"Coeur Mining, Inc. Common Stock","Coeur Mining, Inc. Common Stock",N,CDE,N,100.0,N,CDE
-CDLR,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),N,CDLR,N,100.0,N,CDLR
+CDLR,Cadeler plc Ordinary Shares,Cadeler plc Ordinary Shares,N,CDLR,N,100.0,N,CDLR
 CDNG,Leverage Shares 2X Long CDNS Daily ETF,Leverage Shares 2X Long CDNS Daily ETF,Z,CDNG,Y,100.0,N,CDNG
 CDP,COPT Defense Properties Common Shares of Beneficial Interest,COPT Defense Properties Common Shares of Beneficial Interest,N,CDP,N,100.0,N,CDP
 CDPI,Columbia High Dividend Premium Income ETF,Columbia High Dividend Premium Income ETF,P,CDPI,Y,100.0,N,CDPI
@@ -1689,6 +1691,7 @@ DFII,FT Vest Bitcoin Strategy & Target Income ETF,FT Vest Bitcoin Strategy & Tar
 DFIN,"Donnelley Financial Solutions, Inc. Common Stock ","Donnelley Financial Solutions, Inc. Common Stock ",N,DFIN,N,100.0,N,DFIN
 DFIP,Dimensional Inflation,Dimensional Inflation-Protected Securities ETF,P,DFIP,Y,100.0,N,DFIP
 DFIS,Dimensional International Small Cap ETF,Dimensional International Small Cap ETF,Z,DFIS,Y,100.0,N,DFIS
+DFIT,Davidson Intermediate Taxable ETF,Davidson Intermediate Taxable ETF,Z,DFIT,Y,100.0,N,DFIT
 DFIV,Dimensional International Value ETF,Dimensional International Value ETF,P,DFIV,Y,100.0,N,DFIV
 DFJ,WisdomTree Japan SmallCap Fund,WisdomTree Japan SmallCap Fund,P,DFJ,Y,100.0,N,DFJ
 DFLV,Dimensional US Large Cap Value ETF,Dimensional US Large Cap Value ETF,P,DFLV,Y,100.0,N,DFLV
@@ -1772,6 +1775,7 @@ DK,"Delek US Holdings, Inc. Common Stock","Delek US Holdings, Inc. Common Stock"
 DKL,"Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests","Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests",N,DKL,N,100.0,N,DKL
 DKS,Dick's Sporting Goods Inc Common Stock,Dick's Sporting Goods Inc Common Stock,N,DKS,N,100.0,N,DKS
 DLAG,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - August,Z,DLAG,Y,100.0,N,DLAG
+DLAY,Tuttle Capital AI Bottleneck ETF,Tuttle Capital AI Bottleneck ETF,Z,DLAY,Y,100.0,N,DLAY
 DLB,Dolby Laboratories Common Stock,Dolby Laboratories Common Stock,N,DLB,N,100.0,N,DLB
 DLFE,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - February,Z,DLFE,Y,100.0,N,DLFE
 DLMY,FT Vest U.S. Equity Dual Directional Buffer ETF ,FT Vest U.S. Equity Dual Directional Buffer ETF - May,Z,DLMY,Y,100.0,N,DLMY
@@ -2540,6 +2544,7 @@ FMCE,FM Compounders Equity ETF,FM Compounders Equity ETF,P,FMCE,Y,100.0,N,FMCE
 FMCX,FM Focus Equity ETF,FM Focus Equity ETF,P,FMCX,Y,100.0,N,FMCX
 FMDE,Fidelity Enhanced Mid Cap Core ETF,Fidelity Enhanced Mid Cap Core ETF,P,FMDE,Y,100.0,N,FMDE
 FMF,First Trust Managed Futures Strategy Fund,First Trust Managed Futures Strategy Fund,P,FMF,Y,100.0,N,FMF
+FMIG,FMI Global Equity ETF,FMI Global Equity ETF,P,FMIG,Y,100.0,N,FMIG
 FMKT,The Free Markets ETF,The Free Markets ETF,P,FMKT,Y,100.0,N,FMKT
 FMN,Federated Hermes Premier Municipal Income Fund,Federated Hermes Premier Municipal Income Fund,N,FMN,N,100.0,N,FMN
 FMNY,First Trust New York Municipal High Income ETF,First Trust New York Municipal High Income ETF,P,FMNY,Y,100.0,N,FMNY
@@ -3143,7 +3148,6 @@ HLIO,"Helios Technologies, Inc. Common Stock","Helios Technologies, Inc. Common 
 HLLY,Holley Inc. Common Stock,Holley Inc. Common Stock,N,HLLY,N,100.0,N,HLLY
 HLN,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),Haleon plc American Depositary Shares (Each representing two Ordinary Shares),N,HLN,N,100.0,N,HLN
 HLSQ,Tessera Defense and Homeland Security Inc. Common Stock,Tessera Defense and Homeland Security Inc. Common Stock,A,HLSQ,N,100.0,N,HLSQ
-HLT,Hilton Worldwide Holdings Inc. Common Stock ,Hilton Worldwide Holdings Inc. Common Stock ,N,HLT,N,40.0,N,HLT
 HMAY,Corgi U.S. Equities 100% Structured Buffer ETF ,Corgi U.S. Equities 100% Structured Buffer ETF - May Series,Z,HMAY,Y,100.0,N,HMAY
 HMC,"Honda Motor Company, Ltd. Common Stock","Honda Motor Company, Ltd. Common Stock",N,HMC,N,100.0,N,HMC
 HMN,Horace Mann Educators Corporation Common Stock,Horace Mann Educators Corporation Common Stock,N,HMN,N,100.0,N,HMN
