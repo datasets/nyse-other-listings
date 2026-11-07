@@ -6080,9 +6080,7 @@ SJT,San Juan Basin Royalty Trust Common Stock,San Juan Basin Royalty Trust Commo
 SK,Corgi SK hynix 2x Daily ETF,Corgi SK hynix 2x Daily ETF,Z,SK,Y,100.0,N,SK
 SKE,Skeena Resources Limited Common Shares,Skeena Resources Limited Common Shares,N,SKE,N,100.0,N,SKE
 SKF,ProShares UltraShort Financials,ProShares UltraShort Financials,P,SKF,Y,100.0,N,SKF
-SKHA,Tradr 2X Long SK hynix Daily ETF,Tradr 2X Long SK hynix Daily ETF,Z,SKHA,Y,100.0,N,SKHA
 SKHL,Direxion Daily SK Hynix Bull 2X ETF,Direxion Daily SK Hynix Bull 2X ETF,P,SKHL,Y,100.0,N,SKHL
-SKHN,Tradr 2X Short SK hynix Daily ETF,Tradr 2X Short SK hynix Daily ETF,Z,SKHN,Y,100.0,N,SKHN
 SKHQ,Leverage Shares 2X Short Sk Hynix Daily ETF,Leverage Shares 2X Short Sk Hynix Daily ETF,Z,SKHQ,Y,100.0,N,SKHQ
 SKHU,ProShares Ultra SK hynix,ProShares Ultra SK hynix,P,SKHU,Y,100.0,N,SKHU
 SKHX,Leverage Shares 2X Long SK Hynix Daily ETF,Leverage Shares 2X Long SK Hynix Daily ETF,Z,SKHX,Y,100.0,N,SKHX
@@ -6949,7 +6947,6 @@ USCA,Xtrackers MSCI USA Climate Action Equity ETF,Xtrackers MSCI USA Climate Act
 USCI,United States Commodity Index Fund ETV,United States Commodity Index Fund ETV,P,USCI,Y,100.0,N,USCI
 USD,ProShares Ultra Semiconductors,ProShares Ultra Semiconductors,P,USD,Y,100.0,N,USD
 USDU,WisdomTree Bloomberg U.S. Dollar Bullish Fund,WisdomTree Bloomberg U.S. Dollar Bullish Fund,P,USDU,Y,100.0,N,USDU
-USE,USCF Energy Commodity Strategy Absolute Return Fund,USCF Energy Commodity Strategy Absolute Return Fund,P,USE,Y,100.0,N,USE
 USEP,Innovator U.S. Equity Ultra Buffer ETF ,Innovator U.S. Equity Ultra Buffer ETF - September,Z,USEP,Y,100.0,N,USEP
 USEW,Cambria US EW ETF,Cambria US EW ETF,Z,USEW,Y,100.0,N,USEW
 USFD,US Foods Holding Corp. Common Stock,US Foods Holding Corp. Common Stock,N,USFD,N,100.0,N,USFD
@@ -7327,7 +7324,6 @@ WT,"WisdomTree, Inc. Common Stock","WisdomTree, Inc. Common Stock",N,WT,N,100.0,
 WTAI,WisdomTree Artificial Intelligence and Innovation Fund,WisdomTree Artificial Intelligence and Innovation Fund,Z,WTAI,Y,100.0,N,WTAI
 WTAL,WisdomTree Global Alpha Fund,WisdomTree Global Alpha Fund,F,WTAL,Y,100.0,N,WTAL
 WTI,"W&T Offshore, Inc. Common Stock","W&T Offshore, Inc. Common Stock",N,WTI,N,100.0,N,WTI
-WTIB,USCF Oil Plus Bitcoin Strategy Fund,USCF Oil Plus Bitcoin Strategy Fund,P,WTIB,Y,100.0,N,WTIB
 WTID,MicroSectors Energy 3X Inverse Leveraged ETNs,MicroSectors Energy 3X Inverse Leveraged ETNs,P,WTID,Y,100.0,N,WTID
 WTIU,MicroSectors Energy 3X Leveraged ETNs,MicroSectors Energy 3X Leveraged ETNs,P,WTIU,Y,100.0,N,WTIU
 WTLS,WisdomTree Efficient Long/Short U.S. Equity Fund,WisdomTree Efficient Long/Short U.S. Equity Fund,Z,WTLS,Y,100.0,N,WTLS
