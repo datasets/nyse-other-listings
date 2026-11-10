@@ -376,7 +376,6 @@ ARE,"Alexandria Real Estate Equities, Inc. Common Stock","Alexandria Real Estate
 ARES,Ares Management Corporation Class A Common Stock,Ares Management Corporation Class A Common Stock,N,ARES,N,100.0,N,ARES
 ARES$B,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,N,ARESpB,N,100.0,N,ARES-B
 ARGT,Global X MSCI Argentina ETF,Global X MSCI Argentina ETF,P,ARGT,Y,100.0,N,ARGT
-ARI,"Apollo Commercial Real Estate Finance, Inc","Apollo Commercial Real Estate Finance, Inc",N,ARI,N,100.0,N,ARI
 ARIA,ARIA Opportunities ETF,ARIA Opportunities ETF,P,ARIA,Y,100.0,N,ARIA
 ARIS,Aris Mining Corporation Common Shares,Aris Mining Corporation Common Shares,N,ARIS,N,100.0,N,ARIS
 ARKB,ARK 21Shares Bitcoin ETF ,ARK 21Shares Bitcoin ETF ,Z,ARKB,Y,100.0,N,ARKB
@@ -3224,7 +3223,10 @@ HXE,Mast HedgeIndex Adaptive Equities ETF,Mast HedgeIndex Adaptive Equities ETF,
 HXF,Mast HedgeIndex Managed Futures Strategy ETF,Mast HedgeIndex Managed Futures Strategy ETF,P,HXF,Y,100.0,N,HXF
 HXL,Hexcel Corporation Common Stock,Hexcel Corporation Common Stock,N,HXL,N,100.0,N,HXL
 HY,Hyster,"Hyster-Yale, Inc. Class A common stock",N,HY,N,100.0,N,HY
+HYAC,Haymaker Acquisition Corp V Class A Ordinary Shares,Haymaker Acquisition Corp V Class A Ordinary Shares,N,HYAC,N,100.0,N,HYAC
 HYAC.U,"Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one","Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,HYAC.U,N,100.0,N,HYAC=
+HYAC.W,"Haymaker Acquisition Corp V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Haymaker Acquisition Corp V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,HYAC.WS,N,100.0,N,HYAC+
+HYB,Lazard US High Yield ETF,Lazard US High Yield ETF,P,HYB,Y,100.0,N,HYB
 HYBB,iShares BB Rated Corporate Bond ETF,iShares BB Rated Corporate Bond ETF,P,HYBB,Y,100.0,N,HYBB
 HYBL,State Street Blackstone High Income ETF,State Street Blackstone High Income ETF,Z,HYBL,Y,100.0,N,HYBL
 HYBX,TCW High Yield Bond ETF,TCW High Yield Bond ETF,N,HYBX,Y,100.0,N,HYBX
@@ -3233,6 +3235,7 @@ HYDB,iShares High Yield Systematic Bond ETF,iShares High Yield Systematic Bond E
 HYDW,Xtrackers Low Beta High Yield Bond ETF,Xtrackers Low Beta High Yield Bond ETF,P,HYDW,Y,100.0,N,HYDW
 HYEM,VanEck Emerging Markets High Yield Bond ETF,VanEck Emerging Markets High Yield Bond ETF,P,HYEM,Y,100.0,N,HYEM
 HYFI,AB High Yield ETF,AB High Yield ETF,P,HYFI,Y,100.0,N,HYFI
+HYFY,Lazard Hybrid Financial Income ETF,Lazard Hybrid Financial Income ETF,P,HYFY,Y,100.0,N,HYFY
 HYG,iShares iBoxx $ High Yield Corporate Bond ETF,iShares iBoxx $ High Yield Corporate Bond ETF,P,HYG,Y,100.0,N,HYG
 HYGD,MicroSectors ,MicroSectors -3x Short High Yield Corporate Bond (HYG) ETNs,Z,HYGD,Y,100.0,N,HYGD
 HYGH,iShares Interest Rate Hedged High Yield Bond ETF,iShares Interest Rate Hedged High Yield Bond ETF,P,HYGH,Y,100.0,N,HYGH
@@ -4149,6 +4152,8 @@ LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),LyondellB
 LYG,Lloyds Banking Group Plc American Depositary Shares,Lloyds Banking Group Plc American Depositary Shares,N,LYG,N,100.0,N,LYG
 LYLD,Cambria Large Cap Shareholder Yield ETF,Cambria Large Cap Shareholder Yield ETF,Z,LYLD,Y,100.0,N,LYLD
 LYNX,Lyntris Inc. Common Stock,Lyntris Inc. Common Stock,N,LYNX,N,100.0,N,LYNX
+LYR,Lyrical U.S. Value Equity ETF,Lyrical U.S. Value Equity ETF,P,LYR,Y,100.0,N,LYR
+LYRI,Lyrical International Value Equity ETF,Lyrical International Value Equity ETF,P,LYRI,Y,100.0,N,LYRI
 LYTE,Roundhill Photonics & Optics ETF,Roundhill Photonics & Optics ETF,Z,LYTE,Y,100.0,N,LYTE
 LYV,"Live Nation Entertainment, Inc. Common Stock","Live Nation Entertainment, Inc. Common Stock",N,LYV,N,100.0,N,LYV
 LZB,La,La-Z-Boy Incorporated Common Stock,N,LZB,N,100.0,N,LZB
@@ -4267,6 +4272,7 @@ MFDX,PIMCO RAFI Dynamic Multi,PIMCO RAFI Dynamic Multi-Factor International Equi
 MFEB,Pacer Swan SOS Moderate (February) ETF,Pacer Swan SOS Moderate (February) ETF,Z,MFEB,Y,100.0,N,MFEB
 MFEM,PIMCO RAFI Dynamic Multi,PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF,P,MFEM,Y,100.0,N,MFEM
 MFG,"Mizuho Financial Group, Inc. Sponosred ADR (Japan)","Mizuho Financial Group, Inc. Sponosred ADR (Japan)",N,MFG,N,100.0,N,MFG
+MFIX,Nomura Strategic Income ETF,Nomura Strategic Income ETF,P,MFIX,Y,100.0,N,MFIX
 MFM,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest,N,MFM,N,100.0,N,MFM
 MFSB,MFS Active Core Plus Bond ETF,MFS Active Core Plus Bond ETF,N,MFSB,Y,100.0,N,MFSB
 MFSD,MFS Active Short Duration Income ETF,MFS Active Short Duration Income ETF,P,MFSD,Y,100.0,N,MFSD
@@ -6129,6 +6135,7 @@ SMC,Summit Midstream Corporation Common Stock,Summit Midstream Corporation Commo
 SMCC,Corgi SMCI 2x Daily ETF,Corgi SMCI 2x Daily ETF,Z,SMCC,Y,100.0,N,SMCC
 SMCP,SMART Mid Cap ETF,SMART Mid Cap ETF,P,SMCP,Y,100.0,N,SMCP
 SMCY,YieldMax SMCI Option Income Strategy ETF,YieldMax SMCI Option Income Strategy ETF,P,SMCY,Y,100.0,N,SMCY
+SMDC,Nomura Small and Mid Cap ETF,Nomura Small and Mid Cap ETF,P,SMDC,Y,100.0,N,SMDC
 SMDD,UltraPro Short MidCap400,UltraPro Short MidCap400,P,SMDD,Y,100.0,N,SMDD
 SMDV,ProShares Russell 2000 Dividend Growers ETF,ProShares Russell 2000 Dividend Growers ETF,Z,SMDV,Y,100.0,N,SMDV
 SMDX,Intech S&P Small,Intech S&P Small-Mid Cap Diversified Alpha ETF,P,SMDX,Y,100.0,N,SMDX
@@ -6481,8 +6488,6 @@ TBXU,Direxion Daily Biotech Top 5 Bull 2X ETF,Direxion Daily Biotech Top 5 Bull 
 TCAF,T. Rowe Price Capital Appreciation Equity ETF,T. Rowe Price Capital Appreciation Equity ETF,P,TCAF,Y,100.0,N,TCAF
 TCAI,Tortoise AI Infrastructure ETF,Tortoise AI Infrastructure ETF,N,TCAI,Y,100.0,N,TCAI
 TCAL,T. Rowe Price Capital Appreciation Premium Income ETF,T. Rowe Price Capital Appreciation Premium Income ETF,P,TCAL,Y,100.0,N,TCAL
-TCBI,"Texas Capital Bancshares, Inc. Common Stock","Texas Capital Bancshares, Inc. Common Stock",F,TCBI,N,100.0,N,TCBI
-TCBI$B,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non","Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",F,TCBIpB,N,100.0,N,TCBI-B
 TCBX,"Third Coast Bancshares, Inc. Common Stock","Third Coast Bancshares, Inc. Common Stock",N,TCBX,N,100.0,N,TCBX
 TCHP,T. Rowe Price Blue Chip Growth ETF,T. Rowe Price Blue Chip Growth ETF,P,TCHP,Y,100.0,N,TCHP
 TCI,"Transcontinental Realty Investors, Inc. Common Stock","Transcontinental Realty Investors, Inc. Common Stock",N,TCI,N,100.0,N,TCI
@@ -6619,7 +6624,6 @@ TKNZ,T. Rowe Price Active Crypto ETF,T. Rowe Price Active Crypto ETF,P,TKNZ,Y,10
 TKO,"TKO Group Holdings, Inc. Class A Common Stock","TKO Group Holdings, Inc. Class A Common Stock",N,TKO,N,100.0,N,TKO
 TKR,Timken Company (The) Common Stock,Timken Company (The) Common Stock,N,TKR,N,100.0,N,TKR
 TLCI,Touchstone International Equity ETF,Touchstone International Equity ETF,P,TLCI,Y,100.0,N,TLCI
-TLDR,The Laddered T,The Laddered T-Bill ETF,Z,TLDR,Y,100.0,N,TLDR
 TLH,iShares 10,iShares 10-20 Year Treasury Bond ETF,P,TLH,Y,100.0,N,TLH
 TLIE,American Beacon The London Company Income Equity ETF,American Beacon The London Company Income Equity ETF,P,TLIE,Y,100.0,N,TLIE
 TLK,"PT Telekomunikasi Indonesia, Tbk","PT Telekomunikasi Indonesia, Tbk",N,TLK,N,100.0,N,TLK
@@ -6807,6 +6811,8 @@ TWOX,iShares Large Cap Accelerated Outcome ETF,iShares Large Cap Accelerated Out
 TWSC,Corgi TSM 2x Daily ETF,Corgi TSM 2x Daily ETF,Z,TWSC,Y,100.0,N,TWSC
 TX,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)","Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)",N,TX,N,100.0,N,TX
 TXBC,21Shares FTSE Crypto 10 ex,21Shares FTSE Crypto 10 ex-BTC Index ETF,P,TXBC,Y,100.0,N,TXBC
+TXCP,"Texas Capital Bancshares, Inc. Common Stock","Texas Capital Bancshares, Inc. Common Stock",F,TXCP,N,100.0,N,TXCP
+TXCP$B,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non","Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",F,TXCPpB,N,100.0,N,TXCP-B
 TXNM,"TXNM Energy, Inc. Common Stock","TXNM Energy, Inc. Common Stock",N,TXNM,N,100.0,N,TXNM
 TXNU,Direxion Daily TXN Bull 2X ETF,Direxion Daily TXN Bull 2X ETF,P,TXNU,Y,100.0,N,TXNU
 TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests","TXO Partners, L.P. Common Units Representing Limited Partner Interests",N,TXO,N,100.0,N,TXO
@@ -7373,6 +7379,7 @@ XCOR,FundX ETF,FundX ETF,P,XCOR,Y,100.0,N,XCOR
 XDAT,Franklin Exponential Data ETF,Franklin Exponential Data ETF,Z,XDAT,Y,100.0,N,XDAT
 XDEC,FT Vest U.S. Equity Enhance & Moderate Buffer ETF ,FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December,Z,XDEC,Y,100.0,N,XDEC
 XDIV,Roundhill S&P 500 No Dividend Target ETF,Roundhill S&P 500 No Dividend Target ETF,Z,XDIV,Y,100.0,N,XDIV
+XDLR,Lazard Non,Lazard Non-Dollar Active Income ETF,P,XDLR,Y,100.0,N,XDLR
 XDQQ,Innovator Growth Accelerated ETF ,Innovator Growth Accelerated ETF - Quarterly,Z,XDQQ,Y,100.0,N,XDQQ
 XDSQ,Innovator U.S. Equity Accelerated ETF ,Innovator U.S. Equity Accelerated ETF - Quarterly,Z,XDSQ,Y,100.0,N,XDSQ
 XDTE,Roundhill S&P 500 0DTE Covered Call Strategy ETF,Roundhill S&P 500 0DTE Covered Call Strategy ETF,Z,XDTE,Y,100.0,N,XDTE
