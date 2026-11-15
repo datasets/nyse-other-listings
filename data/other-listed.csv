@@ -1025,6 +1025,7 @@ BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,BrandywineGLOBAL Glob
 BWIV,Blue Water Acquisition Corp. IV Class A Ordinary Shares,Blue Water Acquisition Corp. IV Class A Ordinary Shares,N,BWIV,N,100.0,N,BWIV
 BWIV.U,"Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one","Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",N,BWIV.U,N,100.0,N,BWIV=
 BWIV.W,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share,N,BWIV.WS,N,100.0,N,BWIV+
+BWLB,Brandywine Large Cap ETF,Brandywine Large Cap ETF,P,BWLB,Y,100.0,N,BWLB
 BWLP,BW LPG Limited Common Shares,BW LPG Limited Common Shares,N,BWLP,N,100.0,N,BWLP
 BWMX,"Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares","Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",N,BWMX,N,100.0,N,BWMX
 BWQG,BWM Quality Growth ETF,BWM Quality Growth ETF,Z,BWQG,Y,100.0,N,BWQG
@@ -2594,7 +2595,6 @@ FPF,First Trust Intermediate Duration Preferred & Income Fund Common Shares of B
 FPFD,Fidelity Preferred Securities & Income ETF,Fidelity Preferred Securities & Income ETF,Z,FPFD,Y,100.0,N,FPFD
 FPH,"Five Point Holdings, LLC Class A Common Shares","Five Point Holdings, LLC Class A Common Shares",N,FPH,N,100.0,N,FPH
 FPI,Farmland Partners Inc. Common Stock,Farmland Partners Inc. Common Stock,N,FPI,N,100.0,N,FPI
-FPRO,Fidelity Real Estate Investment ETF,Fidelity Real Estate Investment ETF,Z,FPRO,Y,100.0,N,FPRO
 FPS,"Forgent Power Solutions, Inc. Class A Common Stock","Forgent Power Solutions, Inc. Class A Common Stock",N,FPS,N,100.0,N,FPS
 FPSX,Leverage Shares 2X Long FPS Daily ETF,Leverage Shares 2X Long FPS Daily ETF,Z,FPSX,Y,100.0,N,FPSX
 FPWR,First Trust EIP Power Solutions ETF,First Trust EIP Power Solutions ETF,P,FPWR,Y,100.0,N,FPWR
@@ -4079,6 +4079,7 @@ LNOK,Defiance Daily Target 2X Long NOK ETF,Defiance Daily Target 2X Long NOK ETF
 LOAR,Loar Holdings Inc. Common Stock,Loar Holdings Inc. Common Stock,N,LOAR,N,100.0,N,LOAR
 LOB,"Live Oak Bancshares, Inc. Common Stock","Live Oak Bancshares, Inc. Common Stock",N,LOB,N,100.0,N,LOB
 LOB$A,"Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non","Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non-Cumulative Perpetual Preferred Stock",N,LOBpA,N,100.0,N,LOB-A
+LOB$B,"Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non","Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock",N,LOBpB,N,100.0,N,LOB-B
 LOCL,Local Bounti Corporation Common Stock,Local Bounti Corporation Common Stock,N,LOCL,N,100.0,N,LOCL
 LOCT,Innovator Premium Income 15 Buffer ETF ,Innovator Premium Income 15 Buffer ETF - October,Z,LOCT,Y,100.0,N,LOCT
 LODE,Comstock Inc. Common Stock,Comstock Inc. Common Stock,A,LODE,N,100.0,N,LODE
@@ -4241,6 +4242,7 @@ MDCR,Pacer Swan SOS Moderate December ETF,Pacer Swan SOS Moderate December ETF,Z
 MDEV,First Trust Indxx Medical Devices ETF,First Trust Indxx Medical Devices ETF,Z,MDEV,Y,100.0,N,MDEV
 MDLV,Morgan Dempsey Large Cap Value ETF,Morgan Dempsey Large Cap Value ETF,Z,MDLV,Y,100.0,N,MDLV
 MDPL,Monarch Dividend Plus Index ETF,Monarch Dividend Plus Index ETF,Z,MDPL,Y,100.0,N,MDPL
+MDRN,Modern Mining Technology Corp. Common Shares,Modern Mining Technology Corp. Common Shares,A,MDRN,N,100.0,N,MDRN
 MDST,Westwood Salient Enhanced Midstream Income ETF,Westwood Salient Enhanced Midstream Income ETF,N,MDST,Y,100.0,N,MDST
 MDT,Medtronic plc. Ordinary Shares,Medtronic plc. Ordinary Shares,N,MDT,N,100.0,N,MDT
 MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)","MDU Resources Group, Inc. Common Stock (Holding Company)",N,MDU,N,100.0,N,MDU
@@ -6963,7 +6965,6 @@ USEW,Cambria US EW ETF,Cambria US EW ETF,Z,USEW,Y,100.0,N,USEW
 USFD,US Foods Holding Corp. Common Stock,US Foods Holding Corp. Common Stock,N,USFD,N,100.0,N,USFD
 USFE,First Eagle US Equity ETF,First Eagle US Equity ETF,P,USFE,Y,100.0,N,USFE
 USFR,WisdomTree Floating Rate Treasury Fund,WisdomTree Floating Rate Treasury Fund,P,USFR,Y,100.0,N,USFR
-USG,USCF Gold Strategy Plus Income Fund,USCF Gold Strategy Plus Income Fund,P,USG,Y,100.0,N,USG
 USGX,Corgi U.S. Growth 2x Daily ETF,Corgi U.S. Growth 2x Daily ETF,Z,USGX,Y,100.0,N,USGX
 USHY,iShares Broad USD High Yield Corporate Bond ETF,iShares Broad USD High Yield Corporate Bond ETF,Z,USHY,Y,100.0,N,USHY
 USL,United States 12 Month Oil,United States 12 Month Oil,P,USL,Y,100.0,N,USL
@@ -7198,6 +7199,7 @@ VUSV,Vanguard Wellington U.S. Value Active ETF,Vanguard Wellington U.S. Value Ac
 VV,Vanguard Morningstar Large,Vanguard Morningstar Large-Cap ETF,P,VV,Y,40.0,N,VV
 VVR,Invesco Senior Income Trust Common Stock (DE),Invesco Senior Income Trust Common Stock (DE),N,VVR,N,100.0,N,VVR
 VVV,Valvoline Inc. Common Stock,Valvoline Inc. Common Stock,N,VVV,N,100.0,N,VVV
+VVVV,vVARDIS Holding AG Class A Ordinary Shares,vVARDIS Holding AG Class A Ordinary Shares,N,VVVV,N,100.0,N,VVVV
 VVX,"V2X, Inc. Common Stock","V2X, Inc. Common Stock",N,VVX,N,100.0,N,VVX
 VWO,Vanguard FTSE Emerging Markets ETF,Vanguard FTSE Emerging Markets ETF,P,VWO,Y,100.0,N,VWO
 VXF,Vanguard Extended Market ETF,Vanguard Extended Market ETF,P,VXF,Y,100.0,N,VXF
