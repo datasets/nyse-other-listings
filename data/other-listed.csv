@@ -810,7 +810,6 @@ BKEM,BNY Mellon Emerging Markets Equity ETF,BNY Mellon Emerging Markets Equity E
 BKF,iShares MSCI BIC ETF,iShares MSCI BIC ETF,P,BKF,Y,100.0,N,BKF
 BKFI,BNY Mellon Active Core Bond ETF,BNY Mellon Active Core Bond ETF,P,BKFI,Y,100.0,N,BKFI
 BKGI,BNY Mellon Global Infrastructure Income ETF,BNY Mellon Global Infrastructure Income ETF,Z,BKGI,Y,100.0,N,BKGI
-BKH,Black Hills Corporation Common Stock,Black Hills Corporation Common Stock,N,BKH,N,100.0,N,BKH
 BKHY,BNY Mellon High Yield ETF,BNY Mellon High Yield ETF,P,BKHY,Y,100.0,N,BKHY
 BKIE,BNY Mellon International Equity ETF,BNY Mellon International Equity ETF,P,BKIE,Y,100.0,N,BKIE
 BKKT,"Bakkt, Inc. Class A Common Stock","Bakkt, Inc. Class A Common Stock",N,BKKT,N,100.0,N,BKKT
@@ -3257,6 +3256,7 @@ HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock","Blackrock Corporat
 HYTI,FT Vest High Yield & Target Income ETF,FT Vest High Yield & Target Income ETF,P,HYTI,Y,100.0,N,HYTI
 HYTR,Counterpoint High Yield Trend ETF,Counterpoint High Yield Trend ETF,N,HYTR,Y,100.0,N,HYTR
 HYUP,Xtrackers High Beta High Yield Bond ETF,Xtrackers High Beta High Yield Bond ETF,P,HYUP,Y,100.0,N,HYUP
+HZN,Bright Horizon Energy Corporation Common Stock,Bright Horizon Energy Corporation Common Stock,N,HZN,N,100.0,N,HZN
 HZO,"MarineMax, Inc.  (FL) Common Stock","MarineMax, Inc.  (FL) Common Stock",N,HZO,N,100.0,N,HZO
 IACL,GraniteShares US 100 Autocallable Income ETF,GraniteShares US 100 Autocallable Income ETF,Z,IACL,Y,100.0,N,IACL
 IAF,"abrdn Australia Equity Fund, Inc. Common Stock","abrdn Australia Equity Fund, Inc. Common Stock",A,IAF,N,100.0,N,IAF
@@ -3563,7 +3563,6 @@ ITDH,iShares LifePath Target Date 2060 ETF,iShares LifePath Target Date 2060 ETF
 ITDI,iShares LifePath Target Date 2065 ETF,iShares LifePath Target Date 2065 ETF,P,ITDI,Y,100.0,N,ITDI
 ITDJ,iShares LifePath Target Date 2070 ETF,iShares LifePath Target Date 2070 ETF,P,ITDJ,Y,100.0,N,ITDJ
 ITEQ,Amplify BlueStar Israel Technology ETF,Amplify BlueStar Israel Technology ETF,P,ITEQ,Y,100.0,N,ITEQ
-ITGR,Integer Holdings Corporation Common Stock,Integer Holdings Corporation Common Stock,N,ITGR,N,100.0,N,ITGR
 ITM,VanEck Intermediate Muni ETF,VanEck Intermediate Muni ETF,Z,ITM,Y,100.0,N,ITM
 ITOT,iShares Core S&P Total U.S. Stock Market ETF,iShares Core S&P Total U.S. Stock Market ETF,P,ITOT,Y,100.0,N,ITOT
 ITP,"IT Tech Packaging, Inc. Common Stock","IT Tech Packaging, Inc. Common Stock",A,ITP,N,100.0,N,ITP
@@ -3950,7 +3949,6 @@ KSTR,KraneShares China Technology & Semiconductor STAR 50 Index ETF,KraneShares 
 KT,KT Corporation Common Stock,KT Corporation Common Stock,N,KT,N,100.0,N,KT
 KTB,"Kontoor Brands, Inc. Common Stock ","Kontoor Brands, Inc. Common Stock ",N,KTB,N,100.0,N,KTB
 KTEC,KraneShares Hang Seng TECH Index ETF,KraneShares Hang Seng TECH Index ETF,P,KTEC,Y,100.0,N,KTEC
-KTF,DWS Municipal Income Trust,DWS Municipal Income Trust,N,KTF,N,100.0,N,KTF
 KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,N,KTH,N,100.0,N,KTH
 KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),N,KTN,N,100.0,N,KTN
 KTUP,T,T-REX 2X Long KTOS Daily Target ETF,Z,KTUP,Y,100.0,N,KTUP
@@ -4150,7 +4148,6 @@ LVHI,Franklin International Low Volatility High Dividend Index ETF,Franklin Inte
 LVLN,State Street SPDR S&P Leveraged Loan ETF,State Street SPDR S&P Leveraged Loan ETF,P,LVLN,Y,100.0,N,LVLN
 LVS,Las Vegas Sands Corp. Common Stock,Las Vegas Sands Corp. Common Stock,N,LVS,N,100.0,N,LVS
 LVWR,"LiveWire Group, Inc. Common Stock","LiveWire Group, Inc. Common Stock",N,LVWR,N,100.0,N,LVWR
-LVWR.W,"LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share","LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",N,LVWR.WS,N,100.0,N,LVWR+
 LW,"Lamb Weston Holdings, Inc. Common Stock ","Lamb Weston Holdings, Inc. Common Stock ",N,LW,N,100.0,N,LW
 LWLX,Tradr 2X Long LWLG Daily ETF,Tradr 2X Long LWLG Daily ETF,Z,LWLX,Y,100.0,N,LWLX
 LXFR,Luxfer Holdings PLC Ordinary Shares,Luxfer Holdings PLC Ordinary Shares,N,LXFR,N,100.0,N,LXFR
@@ -4219,7 +4216,7 @@ MBND,State Street Nuveen Municipal Bond ETF,State Street Nuveen Municipal Bond E
 MBOX,Freedom Day Dividend ETF,Freedom Day Dividend ETF,P,MBOX,Y,100.0,N,MBOX
 MBSD,Northern Trust Disciplined Duration MBS ETF,Northern Trust Disciplined Duration MBS ETF,P,MBSD,Y,100.0,N,MBSD
 MBSF,Regan Floating Rate MBS ETF,Regan Floating Rate MBS ETF,P,MBSF,Y,100.0,N,MBSF
-MBSX,Regan Fixed Rate MBS ETF,Regan Fixed Rate MBS ETF,P,MBSX,Y,100.0,N,MBSX
+MBSX,Regan Fixed Rate MBS ETF,Regan Fixed Rate MBS ETF,F,MBSX,Y,100.0,N,MBSX
 MC,Moelis & Company Class A Common Stock,Moelis & Company Class A Common Stock,N,MC,N,100.0,N,MC
 MCB,Metropolitan Bank Holding Corp. Common Stock,Metropolitan Bank Holding Corp. Common Stock,N,MCB,N,100.0,N,MCB
 MCD,McDonald's Corporation Common Stock,McDonald's Corporation Common Stock,N,MCD,N,100.0,N,MCD
@@ -5292,7 +5289,9 @@ POCT,Innovator U.S. Equity Power Buffer ETF ,Innovator U.S. Equity Power Buffer 
 POEL,Defiance Daily Target 2X Long POET ETF,Defiance Daily Target 2X Long POET ETF,Z,POEL,Y,100.0,N,POEL
 POMG,PRIMECAP Odyssey Discovery ETF,PRIMECAP Odyssey Discovery ETF,P,POMG,Y,100.0,N,POMG
 POR,Portland General Electric Co Common Stock,Portland General Electric Co Common Stock,N,POR,N,100.0,N,POR
+PORT,Southport Acquisition Corp. II Class A Ordinary Shares,Southport Acquisition Corp. II Class A Ordinary Shares,N,PORT,N,100.0,N,PORT
 PORT.U,"Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one","Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",N,PORT.U,N,100.0,N,PORT=
+PORT.W,"Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50","Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",N,PORT.WS,N,100.0,N,PORT+
 POST,"Post Holdings, Inc. Common Stock","Post Holdings, Inc. Common Stock",N,POST,N,100.0,N,POST
 POW,VistaShares Electrification Supercycle ETF,VistaShares Electrification Supercycle ETF,P,POW,Y,100.0,N,POW
 POWA,Invesco Bloomberg Pricing Power ETF,Invesco Bloomberg Pricing Power ETF,P,POWA,Y,100.0,N,POWA

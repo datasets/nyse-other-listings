@@ -379,7 +379,6 @@ BIT,BlackRock Multi
 BJ,"BJ's Wholesale Club Holdings, Inc. Common Stock"
 BKD,Brookdale Senior Living Inc. Common Stock
 BKE,"Buckle, Inc. (The) Common Stock"
-BKH,Black Hills Corporation Common Stock
 BKKT,"Bakkt, Inc. Class A Common Stock"
 BKSY,BlackSky Technology Inc. Class A Common Stock
 BKT,BlackRock Income Trust Inc. (The)
@@ -1302,6 +1301,7 @@ HYBX,TCW High Yield Bond ETF
 HYI,Western Asset High Yield Opportunity Fund Inc. Common Stock
 HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock"
 HYTR,Counterpoint High Yield Trend ETF
+HZN,Bright Horizon Energy Corporation Common Stock
 HZO,"MarineMax, Inc.  (FL) Common Stock"
 IAG,Iamgold Corporation Ordinary Shares
 IBM,International Business Machines Corporation Common Stock
@@ -1364,7 +1364,6 @@ IRS,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each repr
 IRT,"Independence Realty Trust, Inc. Common Stock"
 ISD,"PGIM High Yield Bond Fund, Inc."
 IT,"Gartner, Inc. Common Stock"
-ITGR,Integer Holdings Corporation Common Stock
 ITT,ITT Inc. Common Stock 
 ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
 ITW,Illinois Tool Works Inc. Common Stock
@@ -1490,7 +1489,6 @@ KRSP.W,"Rice Acquisition Corporation 3 Redeemable warrants, each whole warrant e
 KSS,Kohl's Corporation Common Stock
 KT,KT Corporation Common Stock
 KTB,"Kontoor Brands, Inc. Common Stock "
-KTF,DWS Municipal Income Trust
 KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock
 KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS)
 KVYO,"Klaviyo, Inc. Series A Common Stock"
@@ -1557,7 +1555,6 @@ LUV,Southwest Airlines Company Common Stock
 LUXE,"LuxExperience B.V. American Depositary Shares, each representing one Ordinary Share"
 LVS,Las Vegas Sands Corp. Common Stock
 LVWR,"LiveWire Group, Inc. Common Stock"
-LVWR.W,"LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share"
 LW,"Lamb Weston Holdings, Inc. Common Stock "
 LXFR,Luxfer Holdings PLC Ordinary Shares
 LXU,"LSB Industries, Inc. Common Stock"
@@ -2069,7 +2066,9 @@ PNNT,PennantPark Investment Corporation Common Stock
 PNR,Pentair plc. Ordinary Share
 PNW,Pinnacle West Capital Corporation Common Stock
 POR,Portland General Electric Co Common Stock
+PORT,Southport Acquisition Corp. II Class A Ordinary Shares
 PORT.U,"Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one"
+PORT.W,"Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50"
 POST,"Post Holdings, Inc. Common Stock"
 PPG,"PPG Industries, Inc. Common Stock"
 PPL,PPL Corporation Common Stock
