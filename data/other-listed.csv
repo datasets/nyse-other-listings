@@ -53,7 +53,6 @@ ACEL,"Accel Entertainment, Inc. ","Accel Entertainment, Inc. ",N,ACEL,N,100.0,N,
 ACES,ALPS Clean Energy ETF,ALPS Clean Energy ETF,P,ACES,Y,100.0,N,ACES
 ACGO,Hartford Alpha Capture Growth ETF,Hartford Alpha Capture Growth ETF,Z,ACGO,Y,100.0,N,ACGO
 ACGR,American Century Large Cap Growth ETF,American Century Large Cap Growth ETF,P,ACGR,Y,100.0,N,ACGR
-ACH,"Accendra Health, Inc. Common Stock","Accendra Health, Inc. Common Stock",N,ACH,N,100.0,N,ACH
 ACHR,Archer Aviation Inc. Class A Common Stock,Archer Aviation Inc. Class A Common Stock,N,ACHR,N,100.0,N,ACHR
 ACHX,Corgi ACHR 2x Daily ETF,Corgi ACHR 2x Daily ETF,Z,ACHX,Y,100.0,N,ACHX
 ACI,"Albertsons Companies, Inc. Class A Common Stock","Albertsons Companies, Inc. Class A Common Stock",N,ACI,N,100.0,N,ACI
@@ -437,7 +436,6 @@ ASPN,"Aspen Aerogels, Inc. Common Stock","Aspen Aerogels, Inc. Common Stock",N,A
 ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock","Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",N,ASR,N,100.0,N,ASR
 ASSX,T,T-REX 2X Long ASST Daily Target ETF,Z,ASSX,Y,100.0,N,ASSX
 ASTG,Leverage Shares 2X Long ASTS Daily ETF,Leverage Shares 2X Long ASTS Daily ETF,Z,ASTG,Y,100.0,N,ASTG
-ASTN,Defiance Daily Target 2X Short ASTS ETF,Defiance Daily Target 2X Short ASTS ETF,Z,ASTN,Y,100.0,N,ASTN
 ASTT,Corgi ASTS 2x Daily ETF,Corgi ASTS 2x Daily ETF,Z,ASTT,Y,100.0,N,ASTT
 ASTX,Tradr 2X Long ASTS Daily ETF,Tradr 2X Long ASTS Daily ETF,Z,ASTX,Y,100.0,N,ASTX
 ASTY,Defiance Daily Target 2X Long ASTS ETF,Defiance Daily Target 2X Long ASTS ETF,Z,ASTY,Y,100.0,N,ASTY
@@ -2872,7 +2870,6 @@ GLV,Clough Global Dividend and Income Fund Common Shares of beneficial interest,
 GLW,Corning Incorporated Common Stock,Corning Incorporated Common Stock,N,GLW,N,100.0,N,GLW
 GLX,Corgi GLXY 2x Daily ETF,Corgi GLXY 2x Daily ETF,Z,GLX,Y,100.0,N,GLX
 GLXU,T,T-REX 2X Long GLXY Daily Target ETF,Z,GLXU,Y,100.0,N,GLXU
-GM,General Motors Company Common Stock,General Motors Company Common Stock,N,GM,N,100.0,N,GM
 GMAC,Simplify Brookwood Global Macro ETF,Simplify Brookwood Global Macro ETF,P,GMAC,Y,100.0,N,GMAC
 GMAR,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - March,Z,GMAR,Y,100.0,N,GMAR
 GMAY,FT Vest U.S. Equity Moderate Buffer ETF ,FT Vest U.S. Equity Moderate Buffer ETF - May,Z,GMAY,Y,100.0,N,GMAY
@@ -4403,7 +4400,7 @@ MNTN,"MNTN, Inc. Class A Common Stock","MNTN, Inc. Class A Common Stock",N,MNTN,
 MNVR,Pacer Swan SOS Moderate (November) ETF,Pacer Swan SOS Moderate (November) ETF,Z,MNVR,Y,100.0,N,MNVR
 MO,"Altria Group, Inc.","Altria Group, Inc.",N,MO,N,100.0,N,MO
 MOAT,VanEck Morningstar Wide Moat ETF,VanEck Morningstar Wide Moat ETF,Z,MOAT,Y,100.0,N,MOAT
-MOD,Modine Manufacturing Company Common Stock,Modine Manufacturing Company Common Stock,N,MOD,N,100.0,N,MOD
+MOD,"Modexus Solutions, Inc. Common Stock","Modexus Solutions, Inc. Common Stock",N,MOD,N,100.0,N,MOD
 MOG.A,Moog Inc. Class A Common Stock,Moog Inc. Class A Common Stock,N,MOG.A,N,40.0,N,MOG.A
 MOG.B,Moog Inc. Class B Common Stock,Moog Inc. Class B Common Stock,N,MOG.B,N,40.0,N,MOG.B
 MOGU,MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares),MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares),N,MOGU,N,100.0,N,MOGU
@@ -6064,6 +6061,7 @@ SIJ,ProShares UltraShort Industrials,ProShares UltraShort Industrials,P,SIJ,Y,10
 SIL,Global X Silver Miners ETF,Global X Silver Miners ETF,P,SIL,Y,100.0,N,SIL
 SILJ,Amplify Junior Silver Miners ETF,Amplify Junior Silver Miners ETF,P,SILJ,Y,100.0,N,SILJ
 SIM,"Grupo Simec, S.A.B. de C.V. American Depositary Shares","Grupo Simec, S.A.B. de C.V. American Depositary Shares",A,SIM,N,100.0,N,SIM
+SIMI,American Beacon SiM High Income ETF,American Beacon SiM High Income ETF,P,SIMI,Y,100.0,N,SIMI
 SIMS,State Street SPDR S&P Kensho Intelligent Structures ETF,State Street SPDR S&P Kensho Intelligent Structures ETF,P,SIMS,Y,100.0,N,SIMS
 SIMX,Corgi SIMO 2x Daily ETF,Corgi SIMO 2x Daily ETF,Z,SIMX,Y,100.0,N,SIMX
 SIND,Sinda Ltd. Common Stock,Sinda Ltd. Common Stock,N,SIND,N,100.0,N,SIND
@@ -6392,7 +6390,6 @@ STOX,Horizon Core Equity ETF,Horizon Core Equity ETF,Z,STOX,Y,100.0,N,STOX
 STPZ,PIMCO 1,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,P,STPZ,Y,100.0,N,STPZ
 STRN,SMART Trend 25 ETF,SMART Trend 25 ETF,P,STRN,Y,100.0,N,STRN
 STRW,"Strawberry Fields REIT, Inc. Common Stock","Strawberry Fields REIT, Inc. Common Stock",A,STRW,N,100.0,N,STRW
-STSM,Defiance Daily Target 2X Short TSM ETF,Defiance Daily Target 2X Short TSM ETF,P,STSM,Y,100.0,N,STSM
 STT,State Street Corporation Common Stock,State Street Corporation Common Stock,N,STT,N,100.0,N,STT
 STT$G,"State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed","State Street Corporation Depositary shares, each representing a 1/4,000th ownership interest in a share of Fixed-to-Floating Rate Non-Cumulative",N,STTpG,N,100.0,N,STT-G
 STUB,"StubHub Holdings, Inc. Class A Common Stock","StubHub Holdings, Inc. Class A Common Stock",N,STUB,N,100.0,N,STUB
@@ -6822,6 +6819,7 @@ TXCP$B,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non","
 TXNM,"TXNM Energy, Inc. Common Stock","TXNM Energy, Inc. Common Stock",N,TXNM,N,100.0,N,TXNM
 TXNU,Direxion Daily TXN Bull 2X ETF,Direxion Daily TXN Bull 2X ETF,P,TXNU,Y,100.0,N,TXNU
 TXO,"TXO Partners, L.P. Common Units Representing Limited Partner Interests","TXO Partners, L.P. Common Units Representing Limited Partner Interests",N,TXO,N,100.0,N,TXO
+TXR,Torex Resources Inc. Common Shares,Torex Resources Inc. Common Shares,N,TXR,N,100.0,N,TXR
 TXS,Texas Capital Texas Equity Index ETF,Texas Capital Texas Equity Index ETF,F,TXS,Y,100.0,N,TXS
 TXT,Textron Inc. Common Stock,Textron Inc. Common Stock,N,TXT,N,100.0,N,TXT
 TXXI,BondBloxx IR+M Tax,BondBloxx IR+M Tax-Aware Intermediate Duration ETF,P,TXXI,Y,100.0,N,TXXI
@@ -7616,6 +7614,7 @@ ZCBE,Global X Zero Coupon Bond 2033 ETF,Global X Zero Coupon Bond 2033 ETF,P,ZCB
 ZCBF,Global X Zero Coupon Bond 2034 ETF,Global X Zero Coupon Bond 2034 ETF,P,ZCBF,Y,100.0,N,ZCBF
 ZCBG,Global X Zero Coupon Bond 2035 ETF,Global X Zero Coupon Bond 2035 ETF,P,ZCBG,Y,100.0,N,ZCBG
 ZCSH,The Zcash ETF Shares,The Zcash ETF Shares,P,ZCSH,Y,100.0,N,ZCSH
+ZDAY,Bitwise AI Cyber Defense ETF,Bitwise AI Cyber Defense ETF,P,ZDAY,Y,100.0,N,ZDAY
 ZDEK,Innovator Equity Defined Protection ETF ,Innovator Equity Defined Protection ETF - 1 Yr December,Z,ZDEK,Y,100.0,N,ZDEK
 ZDGE,"Zedge, Inc. Class B Common Stock ","Zedge, Inc. Class B Common Stock ",A,ZDGE,N,100.0,N,ZDGE
 ZDIS,Virtus Zevenbergen Discovery Growth ETF,Virtus Zevenbergen Discovery Growth ETF,P,ZDIS,Y,100.0,N,ZDIS
