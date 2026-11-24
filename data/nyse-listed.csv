@@ -366,10 +366,9 @@ BIII.W,"Black Spade Acquisition III Co Redeemable warrants, each whole warrant e
 BILL,"BILL Holdings, Inc. Common Stock"
 BIO,Bio
 BIO.B,Bio
-BIP,Brookfield Infrastructure Partners LP Limited Partnership Units
-BIP$A,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13"
-BIP$B,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14"
-BIPC,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation
+BIP,Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares
+BIPF$A,"Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units, Series 13"
+BIPF$B,"Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units, Series 14"
 BIPH,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081
 BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes
 BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084
@@ -2131,6 +2130,7 @@ QLEP.W,"Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable f
 QRED,QuasarEdge Acquisition Corporation Ordinary Shares
 QRED.R,QuasarEdge Acquisition Corporation Rights to receive one
 QRED.U,"QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one"
+QSPC,"Quantum Space, Inc. Class A"
 QSR,Restaurant Brands International Inc. Common Shares
 QTWO,"Q2 Holdings, Inc. Common Stock"
 QUAD,"Quad Graphics, Inc Class A Common Stock"
