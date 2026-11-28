@@ -139,6 +139,7 @@ AFIX,Allspring Broad Market Core Bond ETF,Allspring Broad Market Core Bond ETF,P
 AFK,VanEck Africa Index ETF,VanEck Africa Index ETF,P,AFK,Y,100.0,N,AFK
 AFL,AFLAC Incorporated Common Stock,AFLAC Incorporated Common Stock,N,AFL,N,100.0,N,AFL
 AFLG,First Trust Active Factor Large Cap ETF,First Trust Active Factor Large Cap ETF,P,AFLG,Y,100.0,N,AFLG
+AFLR,Aligned Pathway Flourishing ETF,Aligned Pathway Flourishing ETF,P,SOVF,Y,100.0,N,SOVF
 AFMC,First Trust Active Factor Mid Cap ETF,First Trust Active Factor Mid Cap ETF,P,AFMC,Y,100.0,N,AFMC
 AFSM,First Trust Active Factor Small Cap ETF,First Trust Active Factor Small Cap ETF,P,AFSM,Y,100.0,N,AFSM
 AG,First Majestic Silver Corp. Ordinary Shares (Canada),First Majestic Silver Corp. Ordinary Shares (Canada),N,AG,N,100.0,N,AG
@@ -906,7 +907,6 @@ BOND,PIMCO Active Bond Exchange,PIMCO Active Bond Exchange-Traded Fund Exchange-
 BOOT,"Boot Barn Holdings, Inc. Common Stock","Boot Barn Holdings, Inc. Common Stock",N,BOOT,N,100.0,N,BOOT
 BORR,Borr Drilling Limited Common Shares,Borr Drilling Limited Common Shares,N,BORR,N,100.0,N,BORR
 BOUT,CapForce IBD Breakout Opportunities ETF,CapForce IBD Breakout Opportunities ETF,P,BOUT,Y,100.0,N,BOUT
-BOW,Bowhead Specialty Holdings Inc. Common Stock,Bowhead Specialty Holdings Inc. Common Stock,N,BOW,N,100.0,N,BOW
 BOX,"Box, Inc. Class A Common Stock","Box, Inc. Class A Common Stock",N,BOX,N,100.0,N,BOX
 BOXA,Alpha Architect Aggregate Bond ETF,Alpha Architect Aggregate Bond ETF,Z,BOXA,Y,100.0,N,BOXA
 BOXX,Alpha Architect 1,Alpha Architect 1-3 Month Box ETF,Z,BOXX,Y,100.0,N,BOXX
@@ -1554,7 +1554,7 @@ CWH,"Camping World Holdings, Inc. Class A Common Stock","Camping World Holdings,
 CWI,State Street SPDR MSCI ACWI ex,State Street SPDR MSCI ACWI ex-US ETF,P,CWI,Y,100.0,N,CWI
 CWK,Cushman & Wakefield Ltd. Common Shares,Cushman & Wakefield Ltd. Common Shares,N,CWK,N,100.0,N,CWK
 CWS,AdvisorShares Focused Equity ETF,AdvisorShares Focused Equity ETF,P,CWS,Y,100.0,N,CWS
-CWT,California Water Service Group Common Stock,California Water Service Group Common Stock,N,CWT,N,100.0,N,CWT
+CWT,Watermark Utilities Common Stock,Watermark Utilities Common Stock,N,CWT,N,100.0,N,CWT
 CWVX,Tradr 2X Long CRWV Daily ETF,Tradr 2X Long CRWV Daily ETF,Z,CWVX,Y,100.0,N,CWVX
 CX,"Cemex, S.A.B. de C.V. Sponsored ADR","Cemex, S.A.B. de C.V. Sponsored ADR",N,CX,N,100.0,N,CX
 CXM,"Sprinklr, Inc. Class A Common Stock","Sprinklr, Inc. Class A Common Stock",N,CXM,N,100.0,N,CXM
@@ -1899,7 +1899,6 @@ DUSB,Dimensional Ultrashort Fixed Income ETF,Dimensional Ultrashort Fixed Income
 DUSL,Direxion Daily Industrials Bull 3X ETF,Direxion Daily Industrials Bull 3X ETF,P,DUSL,Y,100.0,N,DUSL
 DUST,Direxion Daily Gold Miners Index Bear 2X ETF,Direxion Daily Gold Miners Index Bear 2X ETF,P,DUST,Y,100.0,N,DUST
 DUTY,U.S. Defense ETF,U.S. Defense ETF,P,DUTY,Y,100.0,N,DUTY
-DV,"DoubleVerify Holdings, Inc. Common Stock","DoubleVerify Holdings, Inc. Common Stock",N,DV,N,100.0,N,DV
 DVA,DaVita Inc. Common Stock,DaVita Inc. Common Stock,N,DVA,N,100.0,N,DVA
 DVDN,Kingsbarn Dividend Opportunity ETF,Kingsbarn Dividend Opportunity ETF,P,DVDN,Y,100.0,N,DVDN
 DVN,Devon Energy Corporation Common Stock,Devon Energy Corporation Common Stock,N,DVN,N,100.0,N,DVN
@@ -4620,7 +4619,7 @@ NBSM,Neuberger Small,Neuberger Small-Mid Cap ETF,P,NBSM,Y,100.0,N,NBSM
 NBTR,Neuberger Total Return Bond ETF,Neuberger Total Return Bond ETF,P,NBTR,Y,100.0,N,NBTR
 NBXG,Neuberger Next Generation Connectivity Fund Inc. Common Stock,Neuberger Next Generation Connectivity Fund Inc. Common Stock,N,NBXG,N,100.0,N,NBXG
 NC,"NACCO Industries, Inc. Common Stock","NACCO Industries, Inc. Common Stock",N,NC,N,100.0,N,NC
-NCA,Nuveen California Municipal Value Fund,Nuveen California Municipal Value Fund,N,NCA,N,100.0,N,NCA
+NCA,Nuveen California Municipal Income Fund Common Stock,Nuveen California Municipal Income Fund Common Stock,N,NCA,N,100.0,N,NCA
 NCDL,Nuveen Churchill Direct Lending Corp. Common Stock,Nuveen Churchill Direct Lending Corp. Common Stock,N,NCDL,N,100.0,N,NCDL
 NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,N,NCLH,N,100.0,N,NCLH
 NCLO,Nuveen AA,Nuveen AA-BBB CLO ETF,P,NCLO,Y,100.0,N,NCLO
@@ -4730,7 +4729,7 @@ NNI,"Nelnet, Inc. Common Stock","Nelnet, Inc. Common Stock",N,NNI,N,100.0,N,NNI
 NNN,"NNN REIT, Inc. Common Stock","NNN REIT, Inc. Common Stock",N,NNN,N,100.0,N,NNN
 NNOV,Innovator Growth,Innovator Growth-100 Power Buffer ETF - November,Z,NNOV,Y,100.0,N,NNOV
 NNVC,"NanoViricides, Inc. Common Stock","NanoViricides, Inc. Common Stock",A,NNVC,N,100.0,N,NNVC
-NNY,Nuveen New York Municipal Value Fund Common Stock,Nuveen New York Municipal Value Fund Common Stock,N,NNY,N,100.0,N,NNY
+NNY,Nuveen New York Municipal Income Fund Common Stock,Nuveen New York Municipal Income Fund Common Stock,N,NNY,N,100.0,N,NNY
 NOA,North American Construction Group Ltd. Common Shares (no par),North American Construction Group Ltd. Common Shares (no par),N,NOA,N,100.0,N,NOA
 NOAH,Noah Holdings Limited American Depositary Shares,Noah Holdings Limited American Depositary Shares,N,NOAH,N,100.0,N,NOAH
 NOBL,ProShares S&P 500 Dividend Aristocrats ETF,ProShares S&P 500 Dividend Aristocrats ETF,Z,NOBL,Y,100.0,N,NOBL
@@ -6237,7 +6236,6 @@ SOS,SOS Limited Class A Ordinary Shares,SOS Limited Class A Ordinary Shares,N,SO
 SOUL,Soulpower Acquisition Corporation Class A Ordinary Shares,Soulpower Acquisition Corporation Class A Ordinary Shares,N,SOUL,N,100.0,N,SOUL
 SOUL.R,"Soulpower Acquisition Corporation Rights, each right entitling the holder to receive one","Soulpower Acquisition Corporation Rights, each right entitling the holder to receive one-tenth (1/10) of one Class A Ordinary Share",N,SOULr,N,100.0,N,SOUL^
 SOUL.U,"Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right","Soulpower Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",N,SOUL.U,N,100.0,N,SOUL=
-SOVF,Sovereign's Capital Flourish Fund,Sovereign's Capital Flourish Fund,P,SOVF,Y,100.0,N,SOVF
 SOXL,Direxion Daily Semiconductor Bull 3X ETF,Direxion Daily Semiconductor Bull 3X ETF,P,SOXL,Y,100.0,N,SOXL
 SOXS,Direxion Daily Semiconductor Bear 3X ETF,Direxion Daily Semiconductor Bear 3X ETF,P,SOXS,Y,100.0,N,SOXS
 SOXY,YieldMax Target 12 Semiconductor Option Income ETF,YieldMax Target 12 Semiconductor Option Income ETF,P,SOXY,Y,100.0,N,SOXY
